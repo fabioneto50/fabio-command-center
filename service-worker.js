@@ -1,5 +1,5 @@
-const CACHE='fcc-master-1.0.6';
-const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js','./navigation-core.js','./perfusion-reference.js','./family-security.js','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./content-pack.json','./build-info.json'];
+const CACHE='fcc-master-1.0.7';
+const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js','./navigation-core.js','./perfusion-reference.js','./family-security.js','./clinical-material.js','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./content-pack.json','./build-info.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE))).then(()=>self.skipWaiting()));
 self.addEventListener('activate',e=>e.waitUntil(Promise.all([self.clients.claim(),caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))])));
 self.addEventListener('fetch',e=>{
