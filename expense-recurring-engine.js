@@ -4,7 +4,7 @@
 
   const KEY='fcc-master-expenses-v1';
   const rawSet=Storage.prototype.setItem;
-  const VALID_FREQ=new Set(['weekly','fortnightly','monthly','quarterly','yearly']);
+  const VALID_FREQ=new Set(['daily','weekly','fortnightly','monthly','quarterly','yearly']);
   const VALID_STATUS=new Set(['active','paused','cancelled']);
 
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
@@ -15,7 +15,7 @@
   const daysInMonth=(y,m)=>new Date(y,m+1,0,12).getDate();
   const moneyEq=p=>{
     const a=Number(p.amount||0);
-    return p.frequency==='weekly'?a*52/12:p.frequency==='fortnightly'?a*26/12:p.frequency==='quarterly'?a/3:p.frequency==='yearly'?a/12:a;
+    return p.frequency==='daily'?a*365/12:p.frequency==='weekly'?a*52/12:p.frequency==='fortnightly'?a*26/12:p.frequency==='quarterly'?a/3:p.frequency==='yearly'?a/12:a;
   };
   const stableId=s=>{
     let h=2166136261;for(const c of String(s||'')){h^=c.charCodeAt(0);h=Math.imul(h,16777619)}
@@ -127,6 +127,7 @@
   }
   function occurrences(plan,endDate=today()){
     if(!plan||plan.status!=='active'||!plan.startDate)return [];
+    if(plan.frequency==='daily')return intervalOccurrences(plan,endDate,1);
     if(plan.frequency==='weekly')return intervalOccurrences(plan,endDate,7);
     if(plan.frequency==='fortnightly')return intervalOccurrences(plan,endDate,14);
     if(plan.frequency==='quarterly')return quarterlyOccurrences(plan,endDate);
