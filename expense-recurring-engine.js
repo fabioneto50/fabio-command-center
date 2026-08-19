@@ -79,8 +79,10 @@
       Object.entries(src).forEach(([key,val])=>{
         const ex=prior[key];
         if(ex){
-          const lastAmt=val&&Object.prototype.hasOwnProperty.call(val,'lastAmount')?val.lastAmount:(val?.amount??ex.amount);
-          merged[key]=normalizePlan(key,{...val,...ex,amount:lastAmt,category:val?.category||ex.category,updatedAt:val?.updatedAt||ex.updatedAt},incoming);
+          const hasLast=!!(val&&Object.prototype.hasOwnProperty.call(val,'lastAmount'));
+          const lastAmt=hasLast?val.lastAmount:ex.amount;
+          const category=hasLast&&val?.category?val.category:ex.category;
+          merged[key]=normalizePlan(key,{...val,...ex,amount:lastAmt,category,updatedAt:hasLast?(val?.updatedAt||ex.updatedAt):ex.updatedAt},incoming);
         }else merged[key]=normalizePlan(key,val||{},incoming);
       });
       incoming.recurring=merged;normalizeRecurring(incoming);return JSON.stringify(incoming);
