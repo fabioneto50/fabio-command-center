@@ -6,6 +6,7 @@
   const PAGES=['clinical','emergency','comms','garage','research'];
   const TITLE_MAP={'Clinical OS':'clinical','Emergency':'emergency','Comms':'comms','Garage':'garage','Research':'research'};
   const original={};
+  const applyTimers={};
   let orders={};
   let editingPage='';
   let working=[];
@@ -15,11 +16,11 @@
   try{orders=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){orders={}}
 
   function tabId(tab){
-    const on=tab.getAttribute('onclick')||'';
+    const on=tab.getAttribute('onclick')||tab.dataset.originalOnclick||'';
     const m=on.match(/subtab\([^,]+,\s*['"]([^'"]+)['"]/);
     return m?.[1]||tab.dataset.subId||tab.id||('label:'+tab.textContent.trim());
   }
-  function tabs(page){return [...(document.querySelector('#page-'+page+' > .tabs')?.querySelectorAll('.tab')||[])]}
+  function tabs(page){return [...(document.querySelector('#page-'+page+' > .tabs')?.querySelectorAll(':scope > .tab')||[])]}
   function capture(page){
     const ids=tabs(page).map(tabId);
     if(!original[page])original[page]=[...ids];
@@ -31,19 +32,35 @@
     all.forEach(id=>{if(!out.includes(id))out.push(id)});
     return out;
   }
+  function sameOrder(a,b){return a.length===b.length&&a.every((x,i)=>x===b[i])}
   function applyOrder(page){
-    if(applying)return;
-    const wrap=document.querySelector('#page-'+page+' > .tabs');if(!wrap)return;
+    if(applying)return false;
+    const wrap=document.querySelector('#page-'+page+' > .tabs');if(!wrap)return false;
     capture(page);
     const order=normalized(page,orders[page]);
-    if(!order.length)return;
+    if(!order.length)return false;
+    const current=tabs(page).map(tabId);
+    if(sameOrder(current,order))return false;
     const map=new Map(tabs(page).map(t=>[tabId(t),t]));
     applying=true;
-    order.forEach(id=>{const t=map.get(id);if(t)wrap.appendChild(t)});
-    applying=false;
+    try{
+      order.forEach((id,i)=>{
+        const t=map.get(id);if(!t)return;
+        const here=wrap.children[i];
+        if(here!==t)wrap.insertBefore(t,here||null);
+      });
+    }finally{applying=false}
+    return true;
+  }
+  function scheduleApply(page){
+    clearTimeout(applyTimers[page]);
+    applyTimers[page]=setTimeout(()=>{
+      delete applyTimers[page];
+      applyOrder(page);
+    },16);
   }
   function save(){localStorage.setItem(KEY,JSON.stringify(orders))}
-  function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+  function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[m]))}
 
   function addStyles(){
     if(document.getElementById('fcc-organizer-style'))return;
@@ -85,6 +102,7 @@
     if(!editingPage)return;
     orders[editingPage]=[...working];save();applyOrder(editingPage);close();
     document.getElementById('fcc-category-sheet')?.classList.remove('open');document.getElementById('fcc-sheet-backdrop')?.classList.remove('open');
+    window.fccRebindSubcategories?.();
     if(typeof toast==='function')toast('Ordem das subcategorias guardada');
   }
   function render(){
@@ -119,7 +137,12 @@
     PAGES.forEach(page=>{
       const wrap=document.querySelector('#page-'+page+' > .tabs');if(!wrap)return;
       capture(page);applyOrder(page);
-      const ob=new MutationObserver(()=>{if(applying)return;capture(page);setTimeout(()=>applyOrder(page),0)});ob.observe(wrap,{childList:true});
+      const ob=new MutationObserver(()=>{
+        if(applying)return;
+        capture(page);
+        scheduleApply(page);
+      });
+      ob.observe(wrap,{childList:true});
     });
   }
   function watchSheet(){
@@ -133,7 +156,7 @@
   }
 
   addStyles();ensureModal();
-  const init=()=>{watchTabs();watchSheet();PAGES.forEach(applyOrder)};
+  const init=()=>{watchTabs();watchSheet();PAGES.forEach(applyOrder);setTimeout(()=>window.fccRebindSubcategories?.(),40)};
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
   window.fccOrganizeSubcategories=open;
 })();
