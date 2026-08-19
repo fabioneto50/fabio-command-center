@@ -57,11 +57,12 @@
     });
     dynamicPageHits(q).forEach(x=>pushUnique(hits,x));
 
-    if(window.state){
-      for(const x of (state.inventory||[]).filter(x=>fold(`${x.name} ${x.category}`).includes(q)).slice(0,6))pushUnique(hits,{title:x.name,sub:'Emergency · '+x.category,page:'emergency',type:'content'});
-      for(const x of (state.research||[]).filter(x=>fold(Object.values(x).join(' ')).includes(q)).slice(0,6))pushUnique(hits,{title:x.title,sub:'Research',page:'research',type:'content'});
-      for(const x of (state.people||[]).filter(x=>fold(x.name).includes(q)).slice(0,4))pushUnique(hits,{title:x.name,sub:'Família',page:'emergency',type:'content'});
-      for(const x of (state.mods||[]).filter(x=>fold(`${x.name} ${x.vehicle}`).includes(q)).slice(0,4))pushUnique(hits,{title:x.name,sub:'Garage · '+x.vehicle,page:'garage',type:'content'});
+    const appState=typeof state!=='undefined'?state:null;
+    if(appState){
+      for(const x of (appState.inventory||[]).filter(x=>fold(`${x.name} ${x.category}`).includes(q)).slice(0,6))pushUnique(hits,{title:x.name,sub:'Emergency · '+x.category,page:'emergency',type:'content'});
+      for(const x of (appState.research||[]).filter(x=>fold(Object.values(x).join(' ')).includes(q)).slice(0,6))pushUnique(hits,{title:x.title,sub:'Research',page:'research',type:'content'});
+      for(const x of (appState.people||[]).filter(x=>fold(x.name).includes(q)).slice(0,4))pushUnique(hits,{title:x.name,sub:'Família',page:'emergency',type:'content'});
+      for(const x of (appState.mods||[]).filter(x=>fold(`${x.name} ${x.vehicle}`).includes(q)).slice(0,4))pushUnique(hits,{title:x.name,sub:'Garage · '+x.vehicle,page:'garage',type:'content'});
     }
 
     const ranked=hits.sort((a,b)=>{
