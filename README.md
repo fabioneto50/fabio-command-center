@@ -1,15 +1,18 @@
 # Fábio Command Center MASTER
 
-Aplicação pessoal permanente para Clinical OS, Emergency, Meshtastic/Comms, Garage e Research.
+Esta é a baseline permanente do projeto.
 
-## Deploy
-O site está preparado para GitHub Pages a partir da branch `main` e raiz `/`.
+## Abrir
+- `index.html` funciona como app estática.
+- Para PWA/offline completo, servir por HTTPS ou localhost.
 
-## Arquitetura
-- App: MASTER 1.0.0
-- Data schema: v1
-- Dados locais persistentes no browser
-- Content packs atualizáveis sem substituir os dados do utilizador
+## Atualizações futuras
+Não é necessário começar um site novo.
+- **Dados do utilizador:** ficam no schema `fcc-master-user-data-v1`.
+- **Conteúdo:** pode ser atualizado por `FCC_UpdatePack_*.json`.
+- **Código:** futuras melhorias devem migrar o mesmo schema em vez de criar um novo projeto.
 
-## Segurança clínica
-Ferramenta de apoio à decisão. Validar sempre protocolos locais, guideline integral, SmPC e contexto clínico.
+## Primeiro passo recomendado
+1. Abrir `Settings → Maintenance Center`.
+2. Executar `Autodiagnóstico`.
+3. Exportar um `MASTER backup`.

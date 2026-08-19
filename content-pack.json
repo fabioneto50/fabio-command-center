@@ -1,0 +1,356 @@
+{
+  "type": "fcc-content-pack",
+  "schema": 1,
+  "version": "2026.08.19",
+  "verifiedAt": "2026-08-19",
+  "sources": [
+    {
+      "id": "ssc2026",
+      "name": "Surviving Sepsis Campaign — Adult 2026",
+      "org": "SCCM",
+      "year": 2026,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026",
+      "use": "Sépsis/choque",
+      "note": "Guideline adulta publicada em 2026."
+    },
+    {
+      "id": "erc2025",
+      "name": "ERC Guidelines 2025",
+      "org": "ERC",
+      "year": 2025,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://www.erc.edu/science-research/guidelines/guidelines-2025/guidelines-2025-english/",
+      "use": "SAV/ALS",
+      "note": "Implementação deve seguir protocolos locais."
+    },
+    {
+      "id": "padis2025",
+      "name": "SCCM PADIS Focused Update 2025",
+      "org": "SCCM",
+      "year": 2025,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/focused-update-padis-guideline",
+      "use": "Sedação/delirium",
+      "note": "Atualização focada de 2025."
+    },
+    {
+      "id": "esicmards2023",
+      "name": "ESICM ARDS Guidelines 2023",
+      "org": "ESICM",
+      "year": 2023,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://www.esicm.org/new-webinar-the-2023-esicm-ards-guidelines-paper-release-and-webinar/",
+      "use": "Ventilação/ARDS",
+      "note": "Respiratory support, definition and phenotyping."
+    },
+    {
+      "id": "esoivt2021",
+      "name": "ESO Intravenous Thrombolysis 2021",
+      "org": "ESO",
+      "year": 2021,
+      "status": "current-with-updates",
+      "verified": "2026-08-19",
+      "url": "https://eso-stroke.org/intravenous-thrombolysis/",
+      "use": "AVC/IVT",
+      "note": "Usar em conjunto com recomendações ESO posteriores, incluindo tenecteplase e atualização de PA."
+    },
+    {
+      "id": "esodirectory",
+      "name": "ESO Guideline Directory",
+      "org": "ESO",
+      "year": 2026,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://eso-stroke.org/guidelines/eso-guideline-directory/",
+      "use": "AVC — atualizações",
+      "note": "Diretório de guidelines e atualizações."
+    },
+    {
+      "id": "kdigoaki",
+      "name": "KDIGO AKI/AKD",
+      "org": "KDIGO",
+      "year": 2026,
+      "status": "draft-update",
+      "verified": "2026-08-19",
+      "url": "https://kdigo.org/guidelines/acute-kidney-injury/",
+      "use": "AKI/TSR",
+      "note": "A revisão 2026 está em draft/public review; a guideline final de AKI ainda não deve ser substituída por esse draft."
+    },
+    {
+      "id": "escacs2023",
+      "name": "ESC Acute Coronary Syndromes 2023",
+      "org": "ESC",
+      "year": 2023,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/acute-coronary-syndromes/",
+      "use": "Referência externa ECG/SCA",
+      "note": "Link externo apenas; o site não incorpora nem reproduz algoritmos ESC."
+    },
+    {
+      "id": "escaf2024",
+      "name": "ESC Atrial Fibrillation 2024",
+      "org": "ESC",
+      "year": 2024,
+      "status": "current",
+      "verified": "2026-08-19",
+      "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/atrial-fibrillation/",
+      "use": "Referência externa FA",
+      "note": "Link externo apenas; o site não incorpora nem reproduz algoritmos ESC."
+    }
+  ],
+  "notes": "Conteúdo de manutenção para Fábio Command Center MASTER. Não substitui protocolos locais.",
+  "drugs": [
+    {
+      "name": "Noradrenalina",
+      "cls": "Vasopressor α predominante",
+      "use": "Choque vasodilatador / suporte de MAP",
+      "monitor": "PA, perfusão, FC/ritmo, extravasamento",
+      "risks": "Isquemia, arritmia, extravasamento; concentração varia por serviço."
+    },
+    {
+      "name": "Adrenalina",
+      "cls": "Catecolamina α/β",
+      "use": "PCR, anafilaxia e suporte vasoativo conforme indicação",
+      "monitor": "Ritmo, PA, lactato, glicemia, perfusão",
+      "risks": "Taquiarritmia, hiperglicemia, aumento de lactato."
+    },
+    {
+      "name": "Dobutamina",
+      "cls": "Inotrópico β",
+      "use": "Baixo débito/disfunção cardíaca selecionada",
+      "monitor": "PA, FC/ritmo, perfusão e resposta",
+      "risks": "Taquiarritmia e hipotensão."
+    },
+    {
+      "name": "Dopamina",
+      "cls": "Catecolamina",
+      "use": "Situações selecionadas conforme protocolo",
+      "monitor": "Ritmo, PA, perfusão",
+      "risks": "Arritmogenicidade."
+    },
+    {
+      "name": "Propofol",
+      "cls": "Sedativo-hipnótico",
+      "use": "Sedação/procedimentos/anestesia",
+      "monitor": "RASS, PA, ventilação, triglicéridos se prolongado",
+      "risks": "Hipotensão, depressão respiratória, PRIS em contexto de risco."
+    },
+    {
+      "name": "Dexmedetomidina",
+      "cls": "Agonista α2",
+      "use": "Sedação cooperativa/ligeira selecionada",
+      "monitor": "RASS, FC, PA, delirium",
+      "risks": "Bradicardia e hipotensão."
+    },
+    {
+      "name": "Alfentanil",
+      "cls": "Opioide",
+      "use": "Analgesia/sedoanalgesia",
+      "monitor": "Dor, ventilação, consciência",
+      "risks": "Depressão respiratória, hipotensão, rigidez em situações específicas."
+    },
+    {
+      "name": "Remifentanil",
+      "cls": "Opioide ultracurto",
+      "use": "Analgesia/sedoanalgesia titulável",
+      "monitor": "Dor, ventilação, PA, sedação",
+      "risks": "Depressão respiratória, rigidez, rebound/hiperalgesia."
+    },
+    {
+      "name": "Rocurónio",
+      "cls": "Bloqueador neuromuscular",
+      "use": "Intubação/bloqueio conforme indicação",
+      "monitor": "TOF se perfusão, sedação/analgesia, ventilação",
+      "risks": "Paralisia sem sedação é evento crítico."
+    },
+    {
+      "name": "Insulina",
+      "cls": "Hipoglicemiante",
+      "use": "Controlo glicémico e protocolos específicos",
+      "monitor": "Glicemia seriada, K⁺",
+      "risks": "Hipoglicemia e hipocaliemia."
+    },
+    {
+      "name": "Amiodarona",
+      "cls": "Antiarrítmico classe III",
+      "use": "Arritmias selecionadas",
+      "monitor": "Ritmo, QT, PA",
+      "risks": "Hipotensão IV, bradicardia e QT prolongado."
+    },
+    {
+      "name": "Heparina",
+      "cls": "Anticoagulante",
+      "use": "Anticoagulação conforme indicação",
+      "monitor": "aPTT/anti-Xa conforme protocolo, plaquetas, hemorragia",
+      "risks": "Hemorragia e HIT."
+    }
+  ],
+  "cases": [
+    {
+      "title": "Choque séptico",
+      "text": "72 kg, infeção provável, MAP 54, lactato 4,6 e pele marmoreada. Prioridade?",
+      "choices": [
+        "Aguardar nova gasimetria",
+        "Ressuscitação/hemodinâmica imediata + acelerar antimicrobianos/source control",
+        "Apenas diurético",
+        "Reduzir monitorização"
+      ],
+      "correct": 1,
+      "why": "Sépsis/choque é emergência; tratamento, hemodinâmica, antimicrobianos e source control devem ser acelerados."
+    },
+    {
+      "title": "Ventilação protetora",
+      "text": "ARDS, PBW 60 kg, Vt 540 mL, Pplat 32, PEEP 10. O que rever?",
+      "choices": [
+        "Vt ≈9 mL/kg + Pplat elevada",
+        "PEEP 10 isolada",
+        "FC desconhecida",
+        "Sexo"
+      ],
+      "correct": 0,
+      "why": "Vt/PBW elevado e Pplat >30 são sinais para rever a estratégia e a validade das medições."
+    },
+    {
+      "title": "AVC + LVO",
+      "text": "Défice incapacitante, 2 h, TC sem hemorragia e suspeita LVO. Circuito?",
+      "choices": [
+        "Esperar 24 h",
+        "Acelerar angioimagem/reperfusão; IVT elegível não deve atrasar MT",
+        "PA <120 sempre",
+        "Alta"
+      ],
+      "correct": 1,
+      "why": "A suspeita de LVO deve acelerar a via de trombectomia; elegibilidade para IVT é avaliada em paralelo."
+    },
+    {
+      "title": "QRS largo",
+      "text": "FC 175 regular, QRS 170 ms, hipotensão e alteração da consciência.",
+      "choices": [
+        "TSV benigna",
+        "Taquicardia ventricular é diagnóstico crítico a assumir/excluir e instabilidade determina urgência",
+        "FA lenta",
+        "Repetir ECG amanhã"
+      ],
+      "correct": 1,
+      "why": "Taquicardia de QRS largo associada a instabilidade exige abordagem urgente."
+    },
+    {
+      "title": "Hipercaliemia",
+      "text": "K 6,7 mmol/L em subida + QRS a alargar.",
+      "choices": [
+        "Sem urgência",
+        "ECG/monitorização + protocolo urgente conforme contexto",
+        "Água oral",
+        "Suspender ECG"
+      ],
+      "correct": 1,
+      "why": "Hipercaliemia marcada com alteração elétrica é uma emergência clínica."
+    }
+  ],
+  "checklists": {
+    "icu": [
+      [
+        "Identificação/motivo",
+        "Diagnóstico e objetivos imediatos"
+      ],
+      [
+        "ABCDE",
+        "Neurológico, perfusão, ventilação"
+      ],
+      [
+        "Via aérea/TOT/cuff",
+        "Posição, fixação e plano"
+      ],
+      [
+        "Ventilador/GSA",
+        "Modo, Vt/PBW, PEEP, FiO₂, pressões"
+      ],
+      [
+        "Acessos/dispositivos",
+        "CVC, arterial, drenos, SNG, algália"
+      ],
+      [
+        "Perfusões alto risco",
+        "Fármaco, concentração, dose, via"
+      ],
+      [
+        "Sedação/dor/delirium",
+        "RASS, CPOT/BPS, objetivo"
+      ],
+      [
+        "Pele/prevenção",
+        "Pressão, mobilização, dispositivos"
+      ],
+      [
+        "Balanço/renal",
+        "Diurese, creatinina, TSR"
+      ],
+      [
+        "Família/comunicação",
+        "Contacto, informação e plano"
+      ],
+      [
+        "Profilaxias/segurança",
+        "VTE, alergias, isolamento"
+      ],
+      [
+        "Plano/pendentes",
+        "Prioridades, exames, escalada"
+      ]
+    ],
+    "transport": [
+      [
+        "Identificação/destino/equipa",
+        "Confirmar doente e objetivo"
+      ],
+      [
+        "Via aérea segura",
+        "Fixação, cuff, aspiração, plano"
+      ],
+      [
+        "Oxigénio",
+        "Autonomia com margem"
+      ],
+      [
+        "Ventilador transporte",
+        "Parâmetros e bateria"
+      ],
+      [
+        "Monitorização",
+        "ECG, SpO₂, PA, capnografia se indicada"
+      ],
+      [
+        "Acessos/perfusões",
+        "Fixação, volumes, bombas"
+      ],
+      [
+        "Fármacos emergência",
+        "Conforme risco/protocolo"
+      ],
+      [
+        "Drenos/linhas",
+        "Fixação e coletores"
+      ],
+      [
+        "Documentação",
+        "Pedido/resultados"
+      ],
+      [
+        "ISBAR",
+        "Plano de deterioração e responsabilidades"
+      ]
+    ]
+  },
+  "capabilities": [
+    "sources",
+    "drug-reference",
+    "simulation-cases",
+    "clinical-checklists"
+  ]
+}

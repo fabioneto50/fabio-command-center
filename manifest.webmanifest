@@ -1,0 +1,17 @@
+{
+  "name": "Fábio Command Center MASTER",
+  "short_name": "FCC MASTER",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06111e",
+  "theme_color": "#06111e",
+  "description": "Command Center pessoal permanente: Clinical, Emergency, Comms, Garage e Research.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

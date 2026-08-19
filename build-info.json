@@ -1,0 +1,17 @@
+{
+  "appVersion": "MASTER 1.0.0",
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.19",
+  "builtAt": "2026-08-19",
+  "architecture": "stable-user-data + importable-content-packs",
+  "qa": {
+    "static_js_syntax": "PASS",
+    "duplicate_html_ids": 0,
+    "inline_handlers": "PASS",
+    "numeric_regression_tests": "7/7 PASS",
+    "runtime_browser_tests": "PASS",
+    "internal_diagnostics_runtime": "13 PASS",
+    "verified_at": "2026-08-19"
+  },
+  "canonical": true
+}
