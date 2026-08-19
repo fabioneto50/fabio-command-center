@@ -96,16 +96,29 @@
     });
   }
 
-  let suggestBusy=false;
+  let suggestBusy=false,lastSuggestSig='';
   function decorateSuggestions(){
     if(suggestBusy)return;
     const input=document.getElementById('med4Search'),box=document.getElementById('med4Suggest');if(!input||!box)return;
-    const q=fold(input.value);if(q.length<2)return;
-    const matches=brandEntries().filter(x=>fold(x.brand).includes(q)||fold(x.generic).includes(q)).slice(0,6);if(!matches.length)return;
+    const q=fold(input.value);
+    const existing=[...box.querySelectorAll('.medbrand-suggest')];
+    if(q.length<2){
+      if(existing.length)existing.forEach(x=>x.remove());
+      lastSuggestSig='';
+      return;
+    }
+    const matches=brandEntries().filter(x=>fold(x.brand).includes(q)||fold(x.generic).includes(q)).slice(0,6);
+    const sig=q+'|'+matches.map(x=>x.brand+'>'+x.generic).join('|');
+    if(!matches.length){
+      if(existing.length)existing.forEach(x=>x.remove());
+      lastSuggestSig=sig;
+      return;
+    }
+    if(sig===lastSuggestSig&&existing.length===matches.length)return;
     suggestBusy=true;
     try{
-      box.querySelectorAll('.medbrand-suggest').forEach(x=>x.remove());
-      matches.reverse().forEach(x=>{
+      existing.forEach(x=>x.remove());
+      matches.slice().reverse().forEach(x=>{
         const b=document.createElement('button');b.type='button';b.className='medbrand-suggest';
         const generic=x.generic==='metamizol magnésico'?SUPPLEMENT.name:x.generic;
         b.innerHTML=`<strong>${esc(x.brand)}</strong><span>${esc(generic)}</span><em>nome comercial → substância ativa</em>`;
@@ -115,6 +128,7 @@
         };
         box.prepend(b);
       });
+      lastSuggestSig=sig;
       box.classList.add('open');
     }finally{suggestBusy=false}
   }
