@@ -5,8 +5,8 @@
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
   const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 
-  // Exemplos de nomes comerciais validados em fontes INFARMED para Portugal.
-  // Não representa uma lista exaustiva de marcas, apresentações ou disponibilidade atual.
+  // Exemplos de nomes comerciais validados em fontes oficiais/INFARMED para Portugal.
+  // Não representa uma lista exaustiva de marcas, apresentações ou disponibilidade em tempo real.
   const BRANDS={
     'metamizol magnésico':['Nolotil'],
     'paracetamol':['Ben-U-Ron'],
@@ -17,7 +17,8 @@
     'salbutamol':['Ventilan-Inalador'],
     'nifedipina':['Adalat CR'],
     'butilescopolamina':['Buscopan'],
-    'peróxido de benzoílo':['Benzac 5','Benzac Wash 5']
+    'peróxido de benzoílo':['Benzac 5','Benzac Wash 5'],
+    'amoxicilina/ácido clavulânico':['Augmentin','Augmentin Duo','Augmentin Forte','Augmentin ES','Clavamox','Clavamox DT','Clavamox 250','Clavamox ES','Betamox']
   };
 
   const SUPPLEMENT={
@@ -52,7 +53,7 @@
 
   function supplementDetail(){
     const d=SUPPLEMENT;
-    return `<article class="med4-detail"><div class="med4-head"><div><h3>${esc(d.name)}</h3><p>${esc(d.group)}</p></div><div class="spacer"></div><span class="badge good">Ficha adicionada</span></div><div class="med4-mech"><small>Como funciona · resumo</small><div>${esc(d.mechanism)}</div></div><div class="med4-grid"><div class="med4-field medbrand-field"><small>Nomes comerciais · exemplos PT</small><div>${esc(d.brands.join(' · '))}</div><div class="medbrand-source-note">Exemplos de marca; confirmar sempre substância ativa, dosagem, forma e apresentação.</div></div><div class="med4-field"><small>Utilização clínica</small><div>${esc(d.use)}</div></div><div class="med4-field"><small>Monitorização</small><div>${esc(d.monitor)}</div></div><div class="med4-field"><small>Riscos / precauções</small><div>${esc(d.risks)}</div></div><div class="med4-field"><small>Preparação / administração</small><div>${esc(d.prep)}</div></div></div><div class="notice med4-warning"><b>Referência clínica:</b> o nome comercial não substitui a identificação pela substância ativa. Confirmar RCM/SmPC, apresentação e protocolo institucional.</div><div class="med4-actions"><a class="btn" target="_blank" rel="noopener" href="https://www.ema.europa.eu/en/medicines/human/referrals/metamizole-containing-medicinal-products-0">EMA · Metamizol ↗</a></div></article>`;
+    return `<article class="med4-detail" data-brand-decorated="1"><div class="med4-head"><div><h3>${esc(d.name)}</h3><p>${esc(d.group)}</p></div><div class="spacer"></div><span class="badge good">Ficha adicionada</span></div><div class="med4-mech"><small>Como funciona · resumo</small><div>${esc(d.mechanism)}</div></div><div class="med4-grid"><div class="med4-field medbrand-field"><small>Nomes comerciais · exemplos PT</small><div>${esc(d.brands.join(' · '))}</div><div class="medbrand-source-note">Exemplos de marca; confirmar sempre substância ativa, dosagem, forma e apresentação.</div></div><div class="med4-field"><small>Utilização clínica</small><div>${esc(d.use)}</div></div><div class="med4-field"><small>Monitorização</small><div>${esc(d.monitor)}</div></div><div class="med4-field"><small>Riscos / precauções</small><div>${esc(d.risks)}</div></div><div class="med4-field"><small>Preparação / administração</small><div>${esc(d.prep)}</div></div></div><div class="notice med4-warning"><b>Referência clínica:</b> o nome comercial não substitui a identificação pela substância ativa. Confirmar RCM/SmPC, apresentação e protocolo institucional.</div><div class="med4-actions"><a class="btn" target="_blank" rel="noopener" href="https://www.ema.europa.eu/en/medicines/human/referrals/metamizole-containing-medicinal-products-0">EMA · Metamizol ↗</a></div></article>`;
   }
 
   function supplementMatches(){
@@ -86,6 +87,7 @@
   function decorateDetails(){
     document.querySelectorAll('#med4Results .med4-detail').forEach(card=>{
       if(card.dataset.brandDecorated==='1')return;
+      if(card.querySelector('.medbrand-field')){card.dataset.brandDecorated='1';return}
       const name=card.querySelector('.med4-head h3')?.textContent?.trim()||'';if(!name)return;
       card.dataset.brandDecorated='1';
       const brands=brandsFor(name);
@@ -107,7 +109,7 @@
       lastSuggestSig='';
       return;
     }
-    const matches=brandEntries().filter(x=>fold(x.brand).includes(q)||fold(x.generic).includes(q)).slice(0,6);
+    const matches=brandEntries().filter(x=>fold(x.brand).includes(q)||fold(x.generic).includes(q)).slice(0,8);
     const sig=q+'|'+matches.map(x=>x.brand+'>'+x.generic).join('|');
     if(!matches.length){
       if(existing.length)existing.forEach(x=>x.remove());
@@ -133,9 +135,7 @@
     }finally{suggestBusy=false}
   }
 
-  function refresh(){
-    ensureSupplement();decorateMinis();decorateDetails();decorateSuggestions();
-  }
+  function refresh(){ensureSupplement();decorateMinis();decorateDetails();decorateSuggestions()}
 
   function install(){
     const host=document.getElementById('clin-drugs'),root=document.getElementById('med4Results'),input=document.getElementById('med4Search'),suggest=document.getElementById('med4Suggest');
