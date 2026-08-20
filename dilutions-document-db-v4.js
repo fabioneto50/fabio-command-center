@@ -100,8 +100,14 @@
     addStyles();
     const group=document.getElementById('ccdGroup');
     if(group){[...Object.keys(GROUPS),'Outros / Documento'].forEach(name=>{if(![...group.options].some(o=>o.value===name)){const o=document.createElement('option');o.value=name;o.textContent=name;group.appendChild(o)}})}
+    const only=document.getElementById('ccdOnlyVerified'),onlyLabel=only?.closest('label');
+    if(onlyLabel&&onlyLabel.dataset.docLabel!=='1'){
+      onlyLabel.dataset.docLabel='1';
+      [...onlyLabel.childNodes].forEach(n=>{if(n.nodeType===Node.TEXT_NODE)n.remove()});
+      onlyLabel.appendChild(document.createTextNode('Só com dados de reconstituição/diluição'));
+    }
     const banner=document.querySelector('#clin-perf .ccd-banner');
-    if(banner){banner.classList.add('ccd-doc-source-banner');banner.innerHTML='<b>Base documental integrada:</b> 548 registos / 291 apresentações do ficheiro DILUIÇÕES.xlsx. O ficheiro foi modificado em 19/09/2018; dados ASHP S4S 2026 já existentes são mantidos como referência atual e não são substituídos automaticamente por valores mais antigos.'}
+    if(banner){banner.classList.add('ccd-doc-source-banner');banner.innerHTML='<b>Base documental integrada:</b> 548 registos / 293 fichas agrupadas (291 designações de apresentação) do ficheiro DILUIÇÕES.xlsx. O ficheiro foi modificado em 19/09/2018; dados ASHP S4S 2026 já existentes são mantidos como referência atual e não são substituídos automaticamente por valores mais antigos.'}
     const meta=document.querySelector('#clin-perf .ccd-meta');
     if(meta&&!document.getElementById('ccdDocSourceBadge')){const b=document.createElement('span');b.id='ccdDocSourceBadge';b.className='badge';b.textContent='HBA · documento 2018';meta.appendChild(b)}
   }
