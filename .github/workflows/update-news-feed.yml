@@ -5,7 +5,7 @@ on:
     - cron: '17 * * * *'
   workflow_dispatch:
   push:
-    branches: [main, home-news-dual-blocks]
+    branches: [main, home-news-source-enrichment]
     paths:
       - 'scripts/update_news_feed.py'
       - 'home-public-shell-v1.js'
@@ -24,11 +24,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install news URL decoder
+        run: python -m pip install --disable-pip-version-check googlenewsdecoder==0.1.7
       - name: Validate Home JavaScript
         run: |
           node --check home-public-shell-v1.js
           node --check home-current-news-v1.js
           node --check navigation-hub.js
+          python -m py_compile scripts/update_news_feed.py
       - name: Fetch Health and World headlines
         run: python scripts/update_news_feed.py
       - name: Validate generated feed
@@ -41,8 +44,14 @@ jobs:
           assert len(data.get('health',[])) >= 4
           assert len(data.get('world',[])) >= 4
           for group in ('health','world'):
-              for row in data[group]:
-                  assert row.get('title') and row.get('url')
+              rows=data[group]
+              for row in rows:
+                  assert row.get('title') and row.get('url') and row.get('description')
+              resolved=sum(bool(row.get('articleUrl')) for row in rows)
+              images=sum(bool(row.get('image')) for row in rows)
+              assert resolved >= 2, f'{group}: too few original URLs ({resolved})'
+              assert images >= 2, f'{group}: too few editorial images ({images})'
+              print(group, 'resolved=',resolved,'images=',images)
           print('News feed validation: PASS')
           PY
       - name: Commit feed when changed
