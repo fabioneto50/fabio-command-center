@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.0 stability audit
-Commit: f0491f5a49c4c7d218979f3fac4fd7ad4fa289db
-Generated: 2026-08-20T15:33:02Z
+Commit: a76519e370efc4c8f1ee7de423acc4a087331013
+Generated: 2026-08-20T15:33:32Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
@@ -15,11 +15,10 @@ Duplicates: none
 IDs: 307 duplicates: none
 
 == Architecture risk scan (active + dormant files) ==
-MutationObserver occurrences: 11 files
+MutationObserver occurrences: 10 files
 dilutions-card-ux-v5.js:79:    const mo=new MutationObserver(()=>queueMicrotask(decorate));
 dilutions-card-ux-v5.js:82:    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
 dilutions-cuf-v6.js:111:    new MutationObserver(()=>{if(!processing)schedule()}).observe(grid,{childList:true,subtree:false});
-dilutions-ux-v3.js:76:    const ob=new MutationObserver(()=>handleState(activeNow()));
 iv-compatibility-expanded-v3.js:51:    document.getElementById('ivcResult')&&new MutationObserver(()=>queueMicrotask(apply)).observe(document.getElementById('ivcResult'),{childList:true});
 iv-source-evidence.js:108:    const obs=new MutationObserver(()=>{if(busy)return;busy=true;requestAnimationFrame(()=>{decorate();busy=false})});
 medication-brands-v1.js:144:    const rootObs=new MutationObserver(()=>queueMicrotask(refresh));rootObs.observe(root,{childList:true,subtree:true});
