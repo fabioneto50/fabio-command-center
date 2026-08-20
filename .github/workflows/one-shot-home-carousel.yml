@@ -1,0 +1,314 @@
+name: One-shot Home news carousel
+
+on:
+  push:
+    branches: [increase-typography-1.3.2]
+    paths:
+      - '.github/workflows/one-shot-home-carousel.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build richer Home news carousel
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          script = r'''from __future__ import annotations
+
+import html
+import json
+import re
+import sys
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
+from pathlib import Path
+
+OUT = Path(__file__).resolve().parents[1] / "news-feed.json"
+UA = "Mozilla/5.0 (compatible; FabioCommandCenter/1.0; +https://github.com/fabioneto50/fabio-command-center)"
+MAX_ITEMS = 12
+ENRICH_ITEMS = 10
+
+HEALTH_QUERY = "when:3d (saúde OR medicina OR hospital OR enfermagem OR OMS OR vacina OR doença OR medicamento)"
+WORLD_QUERY = "when:2d (Ucrânia OR Rússia OR Médio Oriente OR China OR Estados Unidos OR União Europeia OR NATO OR África OR Ásia OR guerra OR diplomacia)"
+HEALTH_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": HEALTH_QUERY, "hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"})
+WORLD_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": WORLD_QUERY, "hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"})
+
+class MetaParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.meta = {}
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != 'meta':
+            return
+        d = {str(k).lower(): str(v or '') for k, v in attrs}
+        key = (d.get('property') or d.get('name') or '').lower()
+        val = d.get('content', '').strip()
+        if key and val and key not in self.meta:
+            self.meta[key] = val
+
+def fetch_xml(url: str) -> ET.Element:
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"})
+    with urllib.request.urlopen(req, timeout=20) as response:
+        return ET.fromstring(response.read())
+
+def iso_date(value: str) -> str:
+    try:
+        dt = parsedate_to_datetime(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+    except Exception:
+        return ""
+
+def clean_text(value: str, limit: int = 360) -> str:
+    value = html.unescape(re.sub(r'<[^>]+>', ' ', value or ''))
+    value = re.sub(r'\s+', ' ', value).strip()
+    if len(value) > limit:
+        value = value[:limit].rsplit(' ', 1)[0] + '…'
+    return value
+
+def parse_feed(url: str) -> list[dict[str, str]]:
+    root = fetch_xml(url)
+    rows, seen = [], set()
+    for item in root.findall("./channel/item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        pub = (item.findtext("pubDate") or "").strip()
+        rss_desc = clean_text(item.findtext("description") or "")
+        source_node = item.find("source")
+        source = ((source_node.text if source_node is not None else "") or "Google News").strip()
+        if not title or not link:
+            continue
+        key = title.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        rows.append({"title": title, "url": link, "source": source, "publishedAt": iso_date(pub), "description": rss_desc, "image": ""})
+        if len(rows) >= MAX_ITEMS:
+            break
+    return rows
+
+def enrich(row: dict[str, str]) -> dict[str, str]:
+    out = dict(row)
+    try:
+        req = urllib.request.Request(row['url'], headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"})
+        with urllib.request.urlopen(req, timeout=8) as response:
+            final_url = response.geturl()
+            raw = response.read(800_000)
+            charset = response.headers.get_content_charset() or 'utf-8'
+        text = raw.decode(charset, errors='replace')
+        p = MetaParser(); p.feed(text)
+        image = p.meta.get('og:image') or p.meta.get('twitter:image') or p.meta.get('twitter:image:src') or ''
+        desc = p.meta.get('og:description') or p.meta.get('twitter:description') or p.meta.get('description') or ''
+        if image:
+            out['image'] = urllib.parse.urljoin(final_url, image)
+        desc = clean_text(desc)
+        if desc and desc.casefold() != out['title'].casefold():
+            out['description'] = desc
+        if final_url and 'news.google.com' not in urllib.parse.urlparse(final_url).netloc:
+            out['articleUrl'] = final_url
+    except Exception:
+        pass
+    if not out.get('description'):
+        out['description'] = f"Leia os principais detalhes desta notícia publicada por {out.get('source') or 'a fonte original'}."
+    return out
+
+def enrich_group(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    first = rows[:ENRICH_ITEMS]
+    results = [None] * len(first)
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        futures = {pool.submit(enrich, row): i for i, row in enumerate(first)}
+        for fut in as_completed(futures):
+            i = futures[fut]
+            try: results[i] = fut.result()
+            except Exception: results[i] = first[i]
+    return [r or first[i] for i, r in enumerate(results)] + rows[ENRICH_ITEMS:]
+
+def main() -> int:
+    try:
+        health = enrich_group(parse_feed(HEALTH_URL))
+        world = enrich_group(parse_feed(WORLD_URL))
+    except Exception as exc:
+        print(f"News fetch failed; keeping existing feed: {exc}", file=sys.stderr)
+        return 0
+    if len(health) < 4 or len(world) < 4:
+        print(f"Feed incomplete (health={len(health)}, world={len(world)}); keeping existing feed", file=sys.stderr)
+        return 0
+    payload = {"updatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"), "health": health, "world": world}
+    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Updated {OUT.name}: health={len(health)}, world={len(world)}")
+    return 0
+
+if __name__ == "__main__":
+    raise SystemExit(main())
+'''
+          Path('scripts/update_news_feed.py').write_text(script, encoding='utf-8')
+
+          home = r'''(()=>{
+  if(window.__fccHomeCurrentNewsV5Installed)return;
+  window.__fccHomeCurrentNewsV5Installed=true;
+
+  const FEED='./news-feed.json';
+  const CACHE_KEY='fcc-home-news-cache-v4';
+  const MAX_ARTICLES=10;
+  let loading=false;
+
+  const FALLBACK={
+    updatedAt:'2026-08-20T16:00:00Z',
+    health:[
+      {title:'OMS acompanha a resposta internacional a surtos e emergências de saúde',url:'https://www.who.int/emergencies',source:'OMS',publishedAt:'2026-08-20T00:00:00Z',description:'Atualizações de saúde pública, surtos e resposta internacional da Organização Mundial da Saúde.',image:''},
+      {title:'Atualidade clínica e de saúde em Portugal',url:'https://www.sns.gov.pt/',source:'SNS',publishedAt:'2026-08-20T00:00:00Z',description:'Informação e atualizações do Serviço Nacional de Saúde em Portugal.',image:''},
+      {title:'Notícias e informação de saúde pública',url:'https://www.dgs.pt/',source:'DGS',publishedAt:'2026-08-20T00:00:00Z',description:'Informação recente da Direção-Geral da Saúde.',image:''},
+      {title:'Emergência médica em Portugal',url:'https://www.inem.pt/',source:'INEM',publishedAt:'2026-08-20T00:00:00Z',description:'Informação institucional e atualizações de emergência médica.',image:''}
+    ],
+    world:[
+      {title:'Atualidade internacional',url:'https://www.reuters.com/world/',source:'Reuters',publishedAt:'2026-08-20T00:00:00Z',description:'Principais desenvolvimentos internacionais e geopolíticos.',image:''},
+      {title:'Notícias do mundo',url:'https://apnews.com/world-news',source:'AP',publishedAt:'2026-08-20T00:00:00Z',description:'Cobertura internacional dos principais acontecimentos mundiais.',image:''},
+      {title:'Atualidade europeia',url:'https://www.euronews.com/',source:'Euronews',publishedAt:'2026-08-20T00:00:00Z',description:'Notícias europeias e internacionais em atualização.',image:''},
+      {title:'Notícias internacionais',url:'https://www.bbc.com/news/world',source:'BBC',publishedAt:'2026-08-20T00:00:00Z',description:'Cobertura internacional e contexto sobre os principais acontecimentos.',image:''}
+    ]
+  };
+
+  const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+  const safe=u=>{try{const x=new URL(String(u||''),location.href);return /^https?:$/.test(x.protocol)?x.href:''}catch(e){return''}};
+  const homeActive=()=>document.getElementById('page-home')?.classList.contains('active');
+  const formatDate=v=>{const d=new Date(v||'');return isNaN(d)?'':d.toLocaleString('pt-PT',{dateStyle:'short',timeStyle:'short'})};
+  const fallbackVisual=kind=>kind==='health'?'linear-gradient(135deg,rgba(22,133,173,.92),rgba(30,93,122,.78))':'linear-gradient(135deg,rgba(101,86,199,.9),rgba(46,72,120,.82))';
+
+  function addStyles(){
+    if(document.getElementById('fcc-home-news-style'))return;
+    const s=document.createElement('style');s.id='fcc-home-news-style';s.textContent=`
+      #page-home .grid{grid-template-columns:1fr;gap:18px}
+      #page-home .hero{padding-bottom:24px}
+      .home-news-card{grid-column:1/-1;overflow:hidden;padding:18px}
+      .home-news-head{display:flex;gap:12px;align-items:center;justify-content:space-between;margin-bottom:14px}
+      .home-news-head h3{font-size:21px!important;margin:2px 0 0}
+      .home-news-meta{color:var(--muted);font-size:12px;margin-top:4px}
+      .home-news-controls{display:flex;align-items:center;gap:7px}
+      .home-news-arrow{width:38px;height:38px;padding:0!important;border-radius:999px!important;font-size:19px!important;display:grid;place-items:center}
+      .home-news-viewport{overflow:hidden;border-radius:15px;touch-action:pan-y pinch-zoom}
+      .home-news-track{display:flex;transition:transform .32s cubic-bezier(.2,.75,.25,1);will-change:transform}
+      .home-news-slide{flex:0 0 100%;min-width:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;padding:1px}
+      .home-news-item{min-width:0;display:flex;flex-direction:column;text-decoration:none;border:1px solid var(--line);border-radius:16px;background:var(--panel-2);overflow:hidden;transition:border-color .15s ease,transform .15s ease;min-height:360px}
+      .home-news-item:hover{border-color:var(--line-strong);transform:translateY(-2px)}
+      .home-news-media{height:190px;background:var(--panel-3);position:relative;overflow:hidden}
+      .home-news-media img{width:100%;height:100%;display:block;object-fit:cover;transition:transform .3s ease}
+      .home-news-item:hover .home-news-media img{transform:scale(1.025)}
+      .home-news-media-fallback{width:100%;height:100%;display:grid;place-items:center;color:rgba(255,255,255,.86);font-size:42px;font-weight:800;letter-spacing:-.05em}
+      .home-news-body{display:flex;flex-direction:column;flex:1;padding:15px 16px 16px}
+      .home-news-kicker{font-size:11px!important;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:800;margin-bottom:7px}
+      .home-news-item strong{display:block;font-size:17px!important;line-height:1.3;color:var(--text);letter-spacing:-.015em}
+      .home-news-desc{font-size:13px!important;line-height:1.5;color:var(--muted);margin:9px 0 14px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+      .home-news-foot{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:11px;color:var(--muted)}
+      .home-news-source{text-transform:uppercase;letter-spacing:.05em;font-weight:800;color:var(--text)}
+      .home-news-read{font-weight:800;color:var(--clinical)}
+      .home-news-dots{display:flex;justify-content:center;gap:7px;margin-top:12px}
+      .home-news-dot{width:8px;height:8px;border:0;border-radius:999px;padding:0;background:var(--line-strong);cursor:pointer;transition:.2s ease}
+      .home-news-dot.active{width:25px;background:var(--clinical)}
+      .home-news-empty{padding:24px;border:1px dashed var(--line);border-radius:13px;color:var(--muted);font-size:13px}
+      @media(max-width:720px){
+        .home-news-card{padding:14px}
+        .home-news-head{align-items:flex-start}
+        .home-news-head h3{font-size:19px!important}
+        .home-news-controls .home-news-refresh{display:none}
+        .home-news-slide{grid-template-columns:1fr;gap:12px}
+        .home-news-item{min-height:0}
+        .home-news-media{height:210px}
+        .home-news-item strong{font-size:18px!important}
+        .home-news-desc{font-size:14px!important;-webkit-line-clamp:5}
+      }
+    `;document.head.appendChild(s)
+  }
+
+  function ensureShell(){window.fccBuildPublicHome?.();return !!(document.getElementById('homeHealthNewsList')&&document.getElementById('homeWorldNewsList'))}
+  function normalize(rows){const seen=new Set();return (Array.isArray(rows)?rows:[]).filter(x=>{const url=safe(x?.articleUrl||x?.url),title=String(x?.title||'').trim();if(!url||!title)return false;const key=title.toLowerCase()+'|'+url;if(seen.has(key))return false;seen.add(key);return true}).slice(0,MAX_ARTICLES)}
+  function pairs(items){const out=[];for(let i=0;i<items.length;i+=2)out.push(items.slice(i,i+2));return out}
+  function card(kind,x){
+    const url=safe(x.articleUrl||x.url),img=safe(x.image),desc=String(x.description||'').trim()||`Leia os detalhes desta notícia publicada por ${x.source||'a fonte original'}.`;
+    const visual=img?`<img src="${esc(img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<div class=&quot;home-news-media-fallback&quot; style=&quot;background:${fallbackVisual(kind)}&quot;>${kind==='health'?'+' :'◉'}</div>'">`:`<div class="home-news-media-fallback" style="background:${fallbackVisual(kind)}">${kind==='health'?'+':'◉'}</div>`;
+    return `<a class="home-news-item" href="${esc(url)}" target="_blank" rel="noopener"><div class="home-news-media">${visual}</div><div class="home-news-body"><div class="home-news-kicker">${esc(x.source||'Fonte')}${x.publishedAt?' · '+esc(formatDate(x.publishedAt)):''}</div><strong>${esc(x.title)}</strong><div class="home-news-desc">${esc(desc)}</div><div class="home-news-foot"><span class="home-news-source">${esc(x.source||'Fonte')}</span><span class="home-news-read">Ler notícia →</span></div></div></a>`
+  }
+  function installCarousel(kind,list,items){
+    const slides=pairs(items);if(!slides.length){list.innerHTML='<div class="home-news-empty">Sem notícias disponíveis neste momento.</div>';return}
+    list.innerHTML=`<div class="home-news-viewport"><div class="home-news-track">${slides.map(pair=>`<div class="home-news-slide">${pair.map(x=>card(kind,x)).join('')}</div>`).join('')}</div></div><div class="home-news-dots">${slides.map((_,i)=>`<button type="button" class="home-news-dot${i===0?' active':''}" aria-label="Página ${i+1}"></button>`).join('')}</div>`;
+    const viewport=list.querySelector('.home-news-viewport'),track=list.querySelector('.home-news-track'),dots=[...list.querySelectorAll('.home-news-dot')];
+    let index=0,startX=0,deltaX=0,dragging=false;
+    const go=n=>{index=Math.max(0,Math.min(slides.length-1,n));track.style.transform=`translate3d(${-index*100}%,0,0)`;dots.forEach((d,i)=>d.classList.toggle('active',i===index));const cardEl=list.closest('.home-news-card');cardEl?.querySelector('[data-news-prev]')?.toggleAttribute('disabled',index===0);cardEl?.querySelector('[data-news-next]')?.toggleAttribute('disabled',index===slides.length-1)};
+    dots.forEach((d,i)=>d.addEventListener('click',()=>go(i)));
+    const cardEl=list.closest('.home-news-card');cardEl?.querySelector('[data-news-prev]')?.addEventListener('click',()=>go(index-1));cardEl?.querySelector('[data-news-next]')?.addEventListener('click',()=>go(index+1));
+    viewport.addEventListener('touchstart',e=>{startX=e.touches[0].clientX;deltaX=0;dragging=true},{passive:true});
+    viewport.addEventListener('touchmove',e=>{if(dragging)deltaX=e.touches[0].clientX-startX},{passive:true});
+    viewport.addEventListener('touchend',()=>{if(!dragging)return;dragging=false;if(Math.abs(deltaX)>45)go(index+(deltaX<0?1:-1))},{passive:true});
+    go(0);
+  }
+  function renderList(kind,rows,updatedAt,mode='feed'){
+    const list=document.getElementById(kind==='health'?'homeHealthNewsList':'homeWorldNewsList'),meta=document.getElementById(kind==='health'?'homeHealthNewsMeta':'homeWorldNewsMeta');if(!list)return;
+    installCarousel(kind,list,normalize(rows));
+    if(meta){const stamp=formatDate(updatedAt)||formatDate(new Date());meta.textContent=mode==='fallback'?`Reserva local · ${stamp}`:`Atualizado · ${stamp}`}
+  }
+  function renderFeed(feed,mode='feed'){renderList('health',feed?.health,feed?.updatedAt,mode);renderList('world',feed?.world,feed?.updatedAt,mode)}
+  function cached(){try{return JSON.parse(localStorage.getItem(CACHE_KEY)||'null')}catch(e){return null}}
+  function save(feed){try{localStorage.setItem(CACHE_KEY,JSON.stringify(feed))}catch(e){}}
+  async function fetchFeed(){const ctrl=new AbortController(),timer=setTimeout(()=>ctrl.abort(),7000);try{const r=await fetch(`${FEED}?t=${Date.now()}`,{cache:'no-store',signal:ctrl.signal,headers:{Accept:'application/json'}});if(!r.ok)throw new Error('HTTP '+r.status);const data=await r.json();if(normalize(data?.health).length<2||normalize(data?.world).length<2)throw new Error('feed incompleto');return data}finally{clearTimeout(timer)}}
+  async function load(force=false){if(loading||!ensureShell())return;loading=true;const buttons=['homeHealthNewsRefresh','homeWorldNewsRefresh'].map(id=>document.getElementById(id)).filter(Boolean);buttons.forEach(b=>b.disabled=true);try{const c=cached();if(c&&!force)renderFeed(c,'feed');else if(!c)renderFeed(FALLBACK,'fallback');const feed=await fetchFeed();save(feed);renderFeed(feed,'feed')}catch(e){const c=cached();renderFeed(c||FALLBACK,c?'feed':'fallback');window.FCCDiagnostics?.log('home-news-error',e?.message||String(e))}finally{loading=false;buttons.forEach(b=>b.disabled=false)}}
+  function bindButtons(){['homeHealthNewsRefresh','homeWorldNewsRefresh'].forEach(id=>{const b=document.getElementById(id);if(b&&!b.dataset.bound){b.dataset.bound='1';b.addEventListener('click',()=>load(true))}})}
+  function install(){if(!ensureShell()){setTimeout(install,120);return}addStyles();bindButtons();renderFeed(cached()||FALLBACK,cached()?'feed':'fallback');if(homeActive())load(false);document.addEventListener('fcc-page-change',e=>{if(e.detail?.page==='home'){bindButtons();load(false)}});document.addEventListener('visibilitychange',()=>{if(!document.hidden&&homeActive())load(false)})}
+  install();
+})();
+'''
+          Path('home-current-news-v1.js').write_text(home, encoding='utf-8')
+
+          shell = Path('home-public-shell-v1.js').read_text(encoding='utf-8')
+          shell = shell.replace('<button class="btn small" id="homeHealthNewsRefresh" type="button">Atualizar</button>', '<div class="home-news-controls"><button class="btn small home-news-refresh" id="homeHealthNewsRefresh" type="button">Atualizar</button><button class="btn small home-news-arrow" type="button" data-news-prev aria-label="Notícias anteriores">‹</button><button class="btn small home-news-arrow" type="button" data-news-next aria-label="Próximas notícias">›</button></div>')
+          shell = shell.replace('<button class="btn small" id="homeWorldNewsRefresh" type="button">Atualizar</button>', '<div class="home-news-controls"><button class="btn small home-news-refresh" id="homeWorldNewsRefresh" type="button">Atualizar</button><button class="btn small home-news-arrow" type="button" data-news-prev aria-label="Notícias anteriores">‹</button><button class="btn small home-news-arrow" type="button" data-news-next aria-label="Próximas notícias">›</button></div>')
+          Path('home-public-shell-v1.js').write_text(shell, encoding='utf-8')
+
+          nav = Path('navigation-hub.js').read_text(encoding='utf-8')
+          old = "const V='1.3.2',ASSET='1.3.2-auto-theme';"
+          if old not in nav: raise SystemExit('navigation asset marker not found')
+          nav = nav.replace(old, "const V='1.3.2',ASSET='1.3.2-home-carousel';", 1)
+          Path('navigation-hub.js').write_text(nav, encoding='utf-8')
+
+          idx = Path('index.html').read_text(encoding='utf-8')
+          oldq='navigation-hub.js?v=1.3.2-auto-theme'
+          if oldq not in idx: raise SystemExit('index nav query marker not found')
+          Path('index.html').write_text(idx.replace(oldq,'navigation-hub.js?v=1.3.2-home-carousel',1), encoding='utf-8')
+          PY
+      - name: Generate rich news feed
+        run: python scripts/update_news_feed.py
+      - name: Validate Home carousel
+        run: |
+          node --check home-public-shell-v1.js
+          node --check home-current-news-v1.js
+          node --check navigation-hub.js
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          feed=json.loads(Path('news-feed.json').read_text(encoding='utf-8'))
+          assert len(feed.get('health',[]))>=4 and len(feed.get('world',[]))>=4
+          for group in ('health','world'):
+            for row in feed[group][:4]:
+              assert row.get('title') and row.get('url') and row.get('description')
+          home=Path('home-current-news-v1.js').read_text(encoding='utf-8')
+          assert 'home-news-slide' in home and 'grid-template-columns:repeat(2' in home
+          assert 'touchstart' in home and 'data-news-prev' in Path('home-public-shell-v1.js').read_text(encoding='utf-8')
+          print('Home carousel validation: PASS')
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- scripts/update_news_feed.py home-current-news-v1.js home-public-shell-v1.js navigation-hub.js index.html news-feed.json
+          git commit -m 'Redesign Home news as rich swipe carousel'
+          git push
