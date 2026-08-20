@@ -1,7 +1,20 @@
 (()=>{
+  const RECOVERY='1.2.3';
+  if('serviceWorker' in navigator&&location.protocol!=='file:'){
+    let reloaded=false;
+    try{reloaded=sessionStorage.getItem('fcc-sw-recovery-'+RECOVERY)==='1'}catch(e){}
+    navigator.serviceWorker.addEventListener('controllerchange',()=>{
+      if(reloaded)return;
+      reloaded=true;
+      try{sessionStorage.setItem('fcc-sw-recovery-'+RECOVERY,'1')}catch(e){}
+      location.reload();
+    },{once:true});
+    navigator.serviceWorker.register('./service-worker.js?recovery='+RECOVERY,{updateViaCache:'none'}).then(reg=>reg.update()).catch(e=>console.error('FCC service worker recovery failed',e));
+  }
+
   const load=(src)=>new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src;s.async=false;s.onload=resolve;s.onerror=reject;document.head.appendChild(s)});
   const unitDefaults={Noradrenalina:'mcgkgmin',Adrenalina:'mcgkgmin',Dobutamina:'mcgkgmin',Dopamina:'mcgkgmin',Propofol:'mgkgh',Dexmedetomidina:'mcgkgh',Alfentanil:'mcgkgh',Remifentanil:'mcgkgmin',Rocurónio:'mcgkgmin',Insulina:'uih',Amiodarona:'mgh',Heparina:'uih'};
-  const V='1.2.1';window.FCC_RUNTIME_VERSION=V;document.documentElement.dataset.fccRuntimeVersion=V;
+  const V='1.2.3';window.FCC_RUNTIME_VERSION=V;document.documentElement.dataset.fccRuntimeVersion=V;
   const modules=[
     'theme-switcher.js','theme-auto-v2.js','navigation-core.js','personal-hub-v1.js','perfusion-reference.js','critical-care-dilutions-v2.js','dilutions-ux-v3.js',
     'dilutions-hba-chunk-01.js','dilutions-hba-chunk-02.js','dilutions-hba-chunk-03.js','dilutions-hba-chunk-04.js','dilutions-hba-chunk-05.js','dilutions-hba-chunk-06.js','dilutions-hba-chunk-07.js','dilutions-hba-chunk-08.js','dilutions-source-hba-2018.js','dilutions-document-db-v4.js',
