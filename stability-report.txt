@@ -1,0 +1,66 @@
+Fábio Command Center · MASTER 1.3.0 stability audit
+Commit: bcefe51ae7a09d91a1bdee89ac67510ca69e1c71
+Generated: 2026-08-20T15:30:21Z
+
+== JavaScript syntax ==
+FAIL ecg-image-analyzer-v3.js
+/home/runner/work/fabio-command-center/fabio-command-center/ecg-image-analyzer-v3.js:154
+      prog(67);status(`Layout ${best.key} selecionado. A validar QRS e RR…`);const allRR=[...best.rr].filter(v=>v>.22&&v<3),hrVals=best.hrs.filter(v=>v>=20&&v<=250);if(best.usable.length<3){gate('bad','Poucas derivações extraídas',`Só ${best.usable.length}/12 derivações passaram o limiar mínimo. Tenta ajustar Topo/Fundo/Esquerda/Direita e confirma o layout manualmente.`);return}if(hrVals.length<2&&allRR.length<2){gate('bad','QRS insuficientes','O ECG foi reconhecido como imagem, mas não foram encontrados QRS consistentes em derivações suficientes. Experimenta selecionar manualmente o layout ou ajustar o recorte.`);return}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1713:18)
+    at checkSyntax (node:internal/main/check_syntax:78:3)
+
+Node.js v22.23.2
+
+== Runtime loader ==
+Referenced modules: 84
+Unique modules: 84
+Missing: none
+Duplicates: none
+
+== Static HTML IDs ==
+IDs: 307 duplicates: none
+
+== Architecture risk scan (active + dormant files) ==
+MutationObserver occurrences: 13 files
+category-organizer.js:140:      const ob=new MutationObserver(()=>{
+category-organizer.js:149:    const bodyObs=new MutationObserver(()=>{
+category-organizer.js:152:      const ob=new MutationObserver(()=>setTimeout(decorateSheet,0));ob.observe(sheet,{childList:true,subtree:true,attributes:true,attributeFilter:['class']});
+dilutions-card-ux-v5.js:79:    const mo=new MutationObserver(()=>queueMicrotask(decorate));
+dilutions-card-ux-v5.js:82:    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
+dilutions-cuf-v6.js:111:    new MutationObserver(()=>{if(!processing)schedule()}).observe(grid,{childList:true,subtree:false});
+dilutions-ux-v3.js:76:    const ob=new MutationObserver(()=>handleState(activeNow()));
+home-current-news-v1.js:66:    new MutationObserver(()=>{cleanHome();ensureNews()}).observe(home,{childList:true,subtree:true});
+iv-compatibility-expanded-v3.js:51:    document.getElementById('ivcResult')&&new MutationObserver(()=>queueMicrotask(apply)).observe(document.getElementById('ivcResult'),{childList:true});
+iv-source-evidence.js:108:    const obs=new MutationObserver(()=>{if(busy)return;busy=true;requestAnimationFrame(()=>{decorate();busy=false})});
+medication-brands-v1.js:144:    const rootObs=new MutationObserver(()=>queueMicrotask(refresh));rootObs.observe(root,{childList:true,subtree:true});
+medication-brands-v1.js:145:    const sugObs=new MutationObserver(()=>queueMicrotask(decorateSuggestions));sugObs.observe(suggest,{childList:true,subtree:true});
+medication-info-ux-v5.js:169:    const mo=new MutationObserver(()=>{if(!processing)queueMicrotask(processList)});mo.observe(r,{childList:true,subtree:false});
+medication-info-ux-v5.js:180:    const activeObserver=new MutationObserver(()=>{
+medication-reference-links-v2.js:94:    if(!host)return;new MutationObserver(changes=>{for(const c of changes)for(const n of c.addedNodes||[]){if(n.nodeType!==1)continue;decorateDrugMini(n);decorateDrugRow(n);n.querySelectorAll?.('.med4-mini').forEach(decorateDrugMini);n.querySelectorAll?.('.med5-detail-row').forEach(decorateDrugRow)}}).observe(host,{childList:true,subtree:true});
+medication-reference-links-v2.js:97:    if(!grid)return;new MutationObserver(changes=>{for(const c of changes)for(const n of c.addedNodes||[]){if(n.nodeType!==1)continue;decorateDilutionHeader(n);n.querySelectorAll?.('.ccd-doc-card').forEach(decorateDilutionHeader)}}).observe(grid,{childList:true,subtree:true});
+medication-safety-cuf-v2.js:233:    if(medHost&&!medHost.dataset.cufHaObserved){medHost.dataset.cufHaObserved='1';new MutationObserver(scheduleDecorate).observe(medHost,{childList:true,subtree:true})}
+medication-stability-cuf-v1.js:52:    new MutationObserver(changes=>{
+wound-dressings-images-v2.js:9: styles();scan();const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});setTimeout(scan,250);setTimeout(scan,900);
+
+window.go assignments:
+navigation-stability-v1.js:64:  if(typeof originalGo==='function')window.go=function(page,...args){return run(originalGo,this,page,args)};
+runtime-core-v1.js:65:  window.go=navigate;
+
+__fccDirectGo assignments:
+navigation-stability-v1.js:65:  if(typeof originalDirect==='function')window.__fccDirectGo=function(page,...args){return run(originalDirect,this,page,args)};
+runtime-core-v1.js:66:  window.__fccDirectGo=navigate;
+
+Service Worker registrations:
+app.js:359:if('serviceWorker' in navigator && location.protocol!=='file:'){navigator.serviceWorker.register('./service-worker.js').catch(()=>{})}
+
+Global Storage.prototype.setItem overrides:
+expense-recurring-engine.js:92:  Storage.prototype.setItem=function(k,v){
+
+setInterval occurrences:
+app.js:165:function fmt(sec){return String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')}function startCode(){if(codeStart)return;codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000);codeMark('Timer iniciado')}function codeMark(n){if(!codeStart){codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000)}const t=fmt(Math.floor((Date.now()-codeStart)/1000));codeLog.unshift({n,t});codeEvents.innerHTML=codeLog.map(x=>`<div class="item"><strong>${x.n}</strong><span>${x.t}</span></div>`).join('')}function resetCode(){clearInterval(codeInt);codeStart=null;codeInt=null;codeLog=[];codeTimer.textContent='00:00';codeEvents.innerHTML=''}
+family-security.js:105:  setInterval(()=>{if(isExpired())lockNow()},30000);
+home-current-news-v1.js:67:    document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)});setInterval(()=>load(false),15*60*1000);
+iv-catalogue.js:73:    let tries=0;const timer=setInterval(()=>{tries++;if(install()||tries>30)clearInterval(timer)},200);
