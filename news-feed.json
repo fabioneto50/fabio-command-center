@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026-08-20T16:00:00Z",
+  "health": [
+    {
+      "title": "OMS diz que surto de Ébola no Congo ainda pode ser controlado em três meses",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-congo-ebola-outbreak-can-still-be-brought-under-control-within-three-2026-08-18/",
+      "source": "Reuters",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "title": "França registou 1.243 mortes em excesso durante as vagas de calor de julho",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-recorded-1243-excess-deaths-during-july-3-july-22-heatwaves-2026-08-19/",
+      "source": "Reuters",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "title": "Ataques a cuidados de saúde em zonas de conflito ultrapassam quatro por dia em 2026",
+      "url": "https://www.reuters.com/world/asia-pacific/attacks-healthcare-conflict-zones-averaging-more-than-four-day-2026-world-health-2026-08-14/",
+      "source": "Reuters",
+      "publishedAt": "2026-08-14T00:00:00Z"
+    },
+    {
+      "title": "Ébola por vírus Bundibugyo na República Democrática do Congo",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615",
+      "source": "OMS",
+      "publishedAt": "2026-08-14T00:00:00Z"
+    }
+  ],
+  "world": [
+    {
+      "title": "Irão rejeita ameaças económicas dos EUA entre novos desenvolvimentos no Médio Oriente",
+      "url": "https://apnews.com/article/bbc5df71e56f000515edef0817468c9d",
+      "source": "AP",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "title": "Ataques russos matam pelo menos 16 pessoas na região de Kyiv",
+      "url": "https://www.reuters.com/world/ukrainian-capital-kyiv-under-attack-by-russian-ballistic-missiles-mayor-says-2026-08-19/",
+      "source": "Reuters",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "title": "Kremlin diz que apelo a eleições mostra divisões políticas em Kyiv",
+      "url": "https://www.reuters.com/world/kremlin-says-ousted-ukrainian-ministers-call-elections-shows-splits-kyiv-2026-08-20/",
+      "source": "Reuters",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "title": "Ministro dos Negócios Estrangeiros chinês visita a Coreia do Sul",
+      "url": "https://www.reuters.com/world/china/chinas-foreign-minister-wang-yi-visit-south-korea-august-19-20-2026-08-18/",
+      "source": "Reuters",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    }
+  ]
+}
