@@ -5,7 +5,9 @@
   const KEY='fcc-master-theme-v1';
   const root=document.documentElement;
   const valid=v=>v==='light'||v==='dark';
-  let theme=valid(localStorage.getItem(KEY))?localStorage.getItem(KEY):'dark';
+  const autoTheme=()=>{const h=new Date().getHours();return h>=8&&h<20?'light':'dark'};
+  const bootTheme=()=>{try{const x=JSON.parse(localStorage.getItem('fcc-theme-manual-until-v2')||'null');if(x&&valid(x.theme)&&+x.until>Date.now())return x.theme}catch(e){}return autoTheme()};
+  let theme=bootTheme();
 
   function addStyles(){
     if(document.getElementById('fcc-theme-style'))return;
@@ -109,7 +111,7 @@
     const page=document.getElementById('page-settings');if(!page||document.getElementById('fccThemeSettings'))return;
     const grid=page.querySelector('.grid');if(!grid)return;
     const c=document.createElement('div');c.className='card half';c.id='fccThemeSettings';
-    c.innerHTML='<h3>Aparência</h3><p>Escolhe o aspeto de todo o Command Center. A preferência fica guardada neste dispositivo.</p><div class="actions"><div class="fcc-theme-toggle"><button type="button" data-fcc-theme-choice="light">Claro</button><button type="button" data-fcc-theme-choice="dark">Escuro</button></div></div><div class="tiny" id="fccThemeStatus" style="margin-top:8px"></div>';
+    c.innerHTML='<h3>Aparência</h3><p>Automático: claro das 08:00 às 19:59 e escuro das 20:00 às 07:59. Podes alterar manualmente; o automático retoma na próxima mudança de horário.</p><div class="actions"><div class="fcc-theme-toggle"><button type="button" data-fcc-theme-choice="light">Claro</button><button type="button" data-fcc-theme-choice="dark">Escuro</button></div></div><div class="tiny" id="fccThemeStatus" style="margin-top:8px"></div>';
     const first=grid.firstElementChild;if(first)grid.insertBefore(c,first.nextSibling);else grid.appendChild(c);
     c.querySelectorAll('[data-fcc-theme-choice]').forEach(b=>b.addEventListener('click',()=>apply(b.dataset.fccThemeChoice)));
   }

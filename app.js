@@ -1,4 +1,4 @@
-const APP_VERSION='MASTER 1.3.1';
+const APP_VERSION='MASTER 1.3.2';
 const SCHEMA_VERSION=1;
 const USER_KEY='fcc-master-user-data-v1';
 const CONTENT_KEY='fcc-master-content-pack-v1';
