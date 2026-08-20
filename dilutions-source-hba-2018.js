@@ -17,7 +17,7 @@
         if(Object.prototype.hasOwnProperty.call(r,k))r[k]='';
       }
     }
-    data.meta={...(data.meta||{}),institutionCodesRemoved:true,codePolicy:'legacy-source-no-codes'};
+    data.metadata={...(data.metadata||{}),institutional_codes_removed:true,code_policy:'legacy-source-no-codes'};
 
     window.__fccHBAChunks=null;
     return data;
