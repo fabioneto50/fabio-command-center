@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.0 stability audit
-Commit: bcefe51ae7a09d91a1bdee89ac67510ca69e1c71
-Generated: 2026-08-20T15:30:21Z
+Commit: a13d3c752f832b25be78ea34db3fb3fcfee07722
+Generated: 2026-08-20T15:30:57Z
 
 == JavaScript syntax ==
 FAIL ecg-image-analyzer-v3.js
@@ -24,7 +24,7 @@ Duplicates: none
 IDs: 307 duplicates: none
 
 == Architecture risk scan (active + dormant files) ==
-MutationObserver occurrences: 13 files
+MutationObserver occurrences: 12 files
 category-organizer.js:140:      const ob=new MutationObserver(()=>{
 category-organizer.js:149:    const bodyObs=new MutationObserver(()=>{
 category-organizer.js:152:      const ob=new MutationObserver(()=>setTimeout(decorateSheet,0));ob.observe(sheet,{childList:true,subtree:true,attributes:true,attributeFilter:['class']});
@@ -32,7 +32,6 @@ dilutions-card-ux-v5.js:79:    const mo=new MutationObserver(()=>queueMicrotask(
 dilutions-card-ux-v5.js:82:    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
 dilutions-cuf-v6.js:111:    new MutationObserver(()=>{if(!processing)schedule()}).observe(grid,{childList:true,subtree:false});
 dilutions-ux-v3.js:76:    const ob=new MutationObserver(()=>handleState(activeNow()));
-home-current-news-v1.js:66:    new MutationObserver(()=>{cleanHome();ensureNews()}).observe(home,{childList:true,subtree:true});
 iv-compatibility-expanded-v3.js:51:    document.getElementById('ivcResult')&&new MutationObserver(()=>queueMicrotask(apply)).observe(document.getElementById('ivcResult'),{childList:true});
 iv-source-evidence.js:108:    const obs=new MutationObserver(()=>{if(busy)return;busy=true;requestAnimationFrame(()=>{decorate();busy=false})});
 medication-brands-v1.js:144:    const rootObs=new MutationObserver(()=>queueMicrotask(refresh));rootObs.observe(root,{childList:true,subtree:true});
@@ -62,5 +61,5 @@ expense-recurring-engine.js:92:  Storage.prototype.setItem=function(k,v){
 setInterval occurrences:
 app.js:165:function fmt(sec){return String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')}function startCode(){if(codeStart)return;codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000);codeMark('Timer iniciado')}function codeMark(n){if(!codeStart){codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000)}const t=fmt(Math.floor((Date.now()-codeStart)/1000));codeLog.unshift({n,t});codeEvents.innerHTML=codeLog.map(x=>`<div class="item"><strong>${x.n}</strong><span>${x.t}</span></div>`).join('')}function resetCode(){clearInterval(codeInt);codeStart=null;codeInt=null;codeLog=[];codeTimer.textContent='00:00';codeEvents.innerHTML=''}
 family-security.js:105:  setInterval(()=>{if(isExpired())lockNow()},30000);
-home-current-news-v1.js:67:    document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)});setInterval(()=>load(false),15*60*1000);
+home-current-news-v1.js:17:  function install(){if(!cleanHome()||!ensureNews()){setTimeout(install,150);return}load(false);document.addEventListener('fcc-page-change',e=>{if(e.detail?.page==='home'){cleanHome();ensureNews();load(false)}});document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)});setInterval(()=>load(false),15*60*1000)}
 iv-catalogue.js:73:    let tries=0;const timer=setInterval(()=>{tries++;if(install()||tries>30)clearInterval(timer)},200);
