@@ -1,0 +1,9 @@
+HOME CAROUSEL PASS
+{
+  "health": 12,
+  "world": 12,
+  "health_images": 10,
+  "world_images": 10,
+  "health_descriptions": 12,
+  "world_descriptions": 12
+}
