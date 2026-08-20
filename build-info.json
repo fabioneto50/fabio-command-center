@@ -1,17 +1,19 @@
 {
-  "appVersion": "MASTER 1.2.6",
+  "appVersion": "MASTER 1.3.0",
   "schemaVersion": 1,
   "contentVersion": "2026.08.20",
   "builtAt": "2026-08-20",
-  "architecture": "stable-user-data + importable-content-packs + runtime-clinical-modules",
+  "architecture": "single-navigation-core + fail-soft-runtime-loader + single-service-worker + stable-user-data",
   "qa": {
-    "static_js_syntax": "CHECKED FOR NAVIGATION STABILITY + SCOPED OBSERVERS + PWA RECOVERY",
-    "duplicate_html_ids": "UNCHANGED STATIC HTML + UNIQUE RUNTIME MODULES",
-    "inline_handlers": "LEGACY + RUNTIME BINDINGS",
-    "navigation_render_policy": "PAGE SWITCHES NO LONGER FORCE FULL LEGACY SECTION RERENDERS",
-    "mutation_observers": "GLOBAL SUBTAB/BODY ORGANIZER OBSERVERS REMOVED OR SCOPED",
-    "mobile_compositing": "BACKDROP BLUR DISABLED FOR MOBILE NAVIGATION OVERLAYS",
-    "runtime_browser_tests": "USER MOBILE VALIDATION PENDING",
+    "navigation": "SINGLE FCCNavigation CORE; LEGACY go OVERRIDDEN ONCE",
+    "personal_security": "PIN 2558 VIA CENTRAL NAVIGATION GUARD",
+    "module_loader": "FAIL-SOFT; ONE MODULE FAILURE DOES NOT BLOCK FOLLOWING MODULES",
+    "duplicate_runtime_versions": "MEDICATION V3 AND ECG ANALYZER V2 REMOVED FROM ACTIVE LOADER",
+    "mutation_observers": "GLOBAL NAVIGATION OBSERVERS REMOVED",
+    "service_worker": "SINGLE REGISTRATION PATH; CACHE fcc-master-1.3.0",
+    "mobile_resources": "OVERLAYS/OVERFLOW CLEANUP + MATERIAL IFRAME SUSPENSION + ECG CLEANUP",
+    "runtime_diagnostics": "LOCAL ERROR AND MODULE LOAD LOG IN SETTINGS",
+    "browser_validation": "STATIC CI ADDED; REAL IPHONE VALIDATION REQUIRED AFTER DEPLOY",
     "verified_at": "2026-08-20"
   },
   "canonical": true
