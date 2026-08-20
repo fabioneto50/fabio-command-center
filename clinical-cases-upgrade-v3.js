@@ -31,7 +31,7 @@
   function sample(arr,n){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a.slice(0,n)}
   function ensureUI(bank){
     const heading=document.querySelector('#fccCaseBank h3');if(heading)heading.textContent='200 casos · treino crítico';
-    const oldBtn=[...document.querySelectorAll('#clin-cases .actions .btn')].find(b=>/Novo caso/i.test(b.textContent));if(oldBtn)oldBtn.textContent='Caso aleatório';
+    const oldBtn=[...document.querySelectorAll('#clin-cases .actions .btn')].find(b=>/Novo caso|Caso aleatório/i.test(b.textContent));if(oldBtn&&!oldBtn.closest('#fccCaseModeActions'))oldBtn.remove();
     if(!document.getElementById('fccCaseModeActions')){
       const tools=document.querySelector('#fccCaseBank .fcc-case-tools')||document.getElementById('fccCaseBank');
       const row=document.createElement('div');row.id='fccCaseModeActions';row.className='fcc-case-mode-actions';row.innerHTML='<button class="btn primary" id="fccRandomCase" type="button">Caso aleatório</button><button class="btn" id="fccStartCaseTest" type="button">Teste · 10 perguntas</button>';
