@@ -1,4 +1,4 @@
-const CACHE='fcc-master-1.3.0';
+const CACHE='fcc-master-1.3.1';
 const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js','./runtime-core-v1.js','./runtime-diagnostics-v1.js'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(CACHE);for(const url of CORE){try{const r=await fetch(url,{cache:'reload'});if(r?.ok)await cache.put(url,r.clone())}catch(e){}}await self.skipWaiting()})()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{const keys=await caches.keys();await Promise.all(keys.filter(k=>k.startsWith('fcc-')&&k!==CACHE).map(k=>caches.delete(k)));await self.clients.claim()})()));

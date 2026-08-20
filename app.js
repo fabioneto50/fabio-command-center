@@ -1,4 +1,4 @@
-const APP_VERSION='MASTER 1.3.0';
+const APP_VERSION='MASTER 1.3.1';
 const SCHEMA_VERSION=1;
 const USER_KEY='fcc-master-user-data-v1';
 const CONTENT_KEY='fcc-master-content-pack-v1';
@@ -282,6 +282,9 @@ function exportResearchBibTeX(){
 function sourceAgeDays(date){const d=new Date(date),now=new Date();return Math.floor((now-d)/86400000)}
 function renderMaintenance(){
  if(!document.getElementById('sourceRegistry'))return;
+ const runtimeVersion=String(window.FCC_RUNTIME_VERSION||document.documentElement.dataset.fccRuntimeVersion||APP_VERSION).replace(/^MASTER\s*/i,'').trim();
+ const appVersionEl=document.getElementById('appHealthVersion');if(appVersionEl)appVersionEl.textContent='MASTER '+runtimeVersion;
+ document.querySelectorAll('.master-chip').forEach(el=>el.textContent='MASTER '+runtimeVersion);
  activePackVersion.textContent=contentPack?.version||'—';contentHealth.textContent=contentPack?.version||'—';schemaHealth.textContent='v'+SCHEMA_VERSION;
  const raw=JSON.stringify(state);storageHealth.textContent=(new Blob([raw]).size/1024).toFixed(1)+' KB';
  backupHealth.textContent=state.meta?.lastBackup?'Último backup marcado: '+new Date(state.meta.lastBackup).toLocaleString('pt-PT'):'Ainda sem backup MASTER marcado.';

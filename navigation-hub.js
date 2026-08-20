@@ -1,5 +1,5 @@
 (()=>{
-  const V='1.3.0',ASSET='1.3.0-home-news2';window.FCC_RUNTIME_VERSION=V;document.documentElement.dataset.fccRuntimeVersion=V;
+  const V='1.3.1',ASSET='1.3.1-settings-version';window.FCC_RUNTIME_VERSION=V;document.documentElement.dataset.fccRuntimeVersion=V;
   const unitDefaults={Noradrenalina:'mcgkgmin',Adrenalina:'mcgkgmin',Dobutamina:'mcgkgmin',Dopamina:'mcgkgmin',Propofol:'mgkgh',Dexmedetomidina:'mcgkgh',Alfentanil:'mcgkgh',Remifentanil:'mcgkgmin',Rocurónio:'mcgkgmin',Insulina:'uih',Amiodarona:'mgh',Heparina:'uih'};
   const load=name=>new Promise(resolve=>{const s=document.createElement('script');s.src=`./${name}?v=${ASSET}`;s.async=false;s.onload=()=>{window.FCCDiagnostics?.module(name,true);resolve(true)};s.onerror=()=>{console.error('FCC module load failed',name);window.FCCDiagnostics?.module(name,false,'load error');resolve(false)};document.head.appendChild(s)});
   const critical=['runtime-diagnostics-v1.js','theme-switcher.js','theme-auto-v2.js','runtime-core-v1.js','home-public-shell-v1.js','home-current-news-v1.js','personal-security-v1.js','search-enhancer.js','navigation-core.js','personal-hub-v1.js','subtab-navigation-fix.js'];

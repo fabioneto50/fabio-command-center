@@ -12,7 +12,7 @@
 <header class="top">
  <div class="brand"><div class="logo">FC</div><div><h1>Fábio Command Center</h1><p>MASTER · Clinical OS · Emergency · Comms · Garage · Research</p></div></div>
  <div class="row">
- <span class="master-chip">MASTER 1.0.0</span>
+ <span class="master-chip">MASTER 1.3.1</span>
  <div class="globalbox"><input id="globalSearch" placeholder="Pesquisar em todo o Command Center..." oninput="renderGlobalSearch()"><div id="globalResults" class="global-results"></div></div>
  <button class="btn ghost" onclick="exportBackup()">Backup</button><button class="btn primary" onclick="go('home')">Início</button>
 </div>
@@ -191,10 +191,10 @@
 </section>
 
 <section class="page" id="page-settings">
- <div class="pagehead"><div><h2>Maintenance Center</h2><p>A partir daqui, esta é a base permanente. Updates futuros entram por content packs ou migrações sem apagar os teus dados.</p></div><span class="master-chip">MASTER 1.0.0</span></div>
+ <div class="pagehead"><div><h2>Maintenance Center</h2><p>A partir daqui, esta é a base permanente. Updates futuros entram por content packs ou migrações sem apagar os teus dados.</p></div><span class="master-chip">MASTER 1.3.1</span></div>
  <div class="grid">
   <div class="card full"><h3>Estado do sistema</h3><div class="health-grid">
-    <div class="health"><span>App</span><b>MASTER 1.0.0</b></div>
+    <div class="health"><span>App</span><b id="appHealthVersion">MASTER 1.3.1</b></div>
     <div class="health"><span>Data schema</span><b id="schemaHealth">v1</b></div>
     <div class="health"><span>Content pack</span><b id="contentHealth">2026.08.19</b></div>
     <div class="health"><span>Storage</span><b id="storageHealth">—</b></div>
@@ -219,7 +219,7 @@
 
 <div class="toast" id="toast"></div>
 
-<script src="app.js?v=1.3.0"></script>
-<script src="navigation-hub.js?v=1.3.0-home-news2"></script>
+<script src="app.js?v=1.3.1"></script>
+<script src="navigation-hub.js?v=1.3.1-settings-version"></script>
 
 </body></html>
