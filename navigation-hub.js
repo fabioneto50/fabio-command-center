@@ -1,7 +1,7 @@
 (()=>{
   const load=(src)=>new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src;s.async=false;s.onload=resolve;s.onerror=reject;document.head.appendChild(s)});
   const unitDefaults={Noradrenalina:'mcgkgmin',Adrenalina:'mcgkgmin',Dobutamina:'mcgkgmin',Dopamina:'mcgkgmin',Propofol:'mgkgh',Dexmedetomidina:'mcgkgh',Alfentanil:'mcgkgh',Remifentanil:'mcgkgmin',Rocurónio:'mcgkgmin',Insulina:'uih',Amiodarona:'mgh',Heparina:'uih'};
-  const V='1.1.0';window.FCC_RUNTIME_VERSION=V;
+  const V='1.1.1';window.FCC_RUNTIME_VERSION=V;
   const modules=[
     'theme-switcher.js','navigation-core.js','perfusion-reference.js','critical-care-dilutions-v2.js','dilutions-ux-v3.js',
     'dilutions-hba-chunk-01.js','dilutions-hba-chunk-02.js','dilutions-hba-chunk-03.js','dilutions-hba-chunk-04.js','dilutions-hba-chunk-05.js','dilutions-hba-chunk-06.js','dilutions-hba-chunk-07.js','dilutions-hba-chunk-08.js','dilutions-source-hba-2018.js','dilutions-document-db-v4.js',
@@ -9,7 +9,7 @@
     'cuf-imp1636-chunk-01.js','cuf-imp1636-chunk-02.js','cuf-imp1636-chunk-03.js','cuf-imp1636-chunk-04.js','cuf-imp1636-loader.js',
     'dilutions-cuf-v6.js','dilutions-card-ux-v5.js','family-security.js',
     'clinical-material.js','clinical-material-window-v2.js',
-    'iv-compatibility.js','iv-catalogue.js','iv-compatibility-ui-v2.js','iv-source-evidence.js','iv-compatibility-expanded-v3.js',
+    'iv-compatibility.js','iv-catalogue.js','iv-compatibility-ui-v2.js','iv-source-evidence.js','iv-compatibility-expanded-v3.js','iv-compatibility-exit-reset-v1.js',
     'clinical-restructure.js','clinical-cases-bank-v2.js','clinical-cases-ux-patch-v1.js',
     'drug-reference-v2.js','medication-info-v3.js','medication-info-v4.js','medication-info-ux-v5.js','medication-brands-v1.js','medication-stability-cuf-v1.js','medication-safety-cuf-v2.js','medication-reference-links-v2.js',
     'ecg-photo-assist.js','ecg-image-analyzer-v2.js','ecg-image-analyzer-v3.js','clinical-legacy-shims.js','category-organizer.js',
