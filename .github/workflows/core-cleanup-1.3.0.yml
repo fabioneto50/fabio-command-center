@@ -1,0 +1,53 @@
+name: One-shot core cleanup 1.3.0
+on:
+  push:
+    branches: [stabilize-1.3.0]
+    paths:
+      - '.github/workflows/core-cleanup-1.3.0.yml'
+permissions:
+  contents: write
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Patch legacy navigation and expense storage scope
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          def one(path, old, new):
+              p=Path(path); s=p.read_text(encoding='utf-8'); n=s.count(old)
+              if n!=1: raise SystemExit(f'{path}: expected 1 match, got {n}')
+              p.write_text(s.replace(old,new,1),encoding='utf-8')
+
+          one('app.js',
+              "const APP_VERSION='MASTER 1.0.0';",
+              "const APP_VERSION='MASTER 1.3.0';")
+
+          one('app.js',
+              "function go(p){document.querySelectorAll('.page').forEach(x=>x.classList.remove('active'));document.getElementById('page-'+p).classList.add('active');document.querySelectorAll('.nav').forEach(x=>x.classList.toggle('active',x.dataset.page===p));if(p==='emergency')renderEmergency();if(p==='comms')renderComms();if(p==='garage')renderGarage();if(p==='research')renderResearch();if(p==='clinical')renderClinical();if(p==='settings')renderMaintenance();window.scrollTo(0,0)}",
+              "function go(p){const target=document.getElementById('page-'+p);if(!target)return false;document.querySelectorAll('.page.active').forEach(x=>x.classList.remove('active'));target.classList.add('active');document.querySelectorAll('.nav').forEach(x=>x.classList.toggle('active',x.dataset.page===p));document.body.style.overflow='';window.scrollTo(0,0);return true}")
+
+          one('expense-recurring-engine.js',
+              "  Storage.prototype.setItem=function(k,v){\n    if(this===localStorage&&k===KEY){const next=mergeIncoming(v);rawSet.call(this,k,next);emit({source:'expense-center'});return}\n    return rawSet.call(this,k,v);\n  };\n",
+              "  function saveIncoming(state,detail={source:'expense-center'}){\n    const next=mergeIncoming(JSON.stringify(state));\n    rawSet.call(localStorage,KEY,next);\n    emit(detail);\n  }\n")
+
+          one('expense-recurring-engine.js',
+              "  window.FCCRecurringEngine={KEY,read,write,normalizeRecurring,normalizePlan,occurrences,processDue,savePlan,setStatus,removePlan,nextOccurrence,monthStats,today,moneyEq};",
+              "  window.FCCRecurringEngine={KEY,read,write,saveIncoming,normalizeRecurring,normalizePlan,occurrences,processDue,savePlan,setStatus,removePlan,nextOccurrence,monthStats,today,moneyEq};")
+
+          one('expense-center.js',
+              "  function save(){localStorage.setItem(KEY,JSON.stringify(data));renderAll()}",
+              "  function save(){if(window.FCCRecurringEngine?.saveIncoming)window.FCCRecurringEngine.saveIncoming(data,{source:'expense-center'});else localStorage.setItem(KEY,JSON.stringify(data));renderAll()}")
+          PY
+          node --check app.js
+          node --check expense-recurring-engine.js
+          node --check expense-center.js
+      - name: Commit cleanup
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- app.js expense-recurring-engine.js expense-center.js
+          git commit -m 'Stabilize legacy navigation and expense storage writes'
+          git push
