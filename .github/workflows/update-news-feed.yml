@@ -8,6 +8,8 @@ on:
     branches: [main, home-news-dual-blocks]
     paths:
       - 'scripts/update_news_feed.py'
+      - 'home-public-shell-v1.js'
+      - 'home-current-news-v1.js'
       - '.github/workflows/update-news-feed.yml'
 
 permissions:
@@ -22,6 +24,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Validate Home JavaScript
+        run: |
+          node --check home-public-shell-v1.js
+          node --check home-current-news-v1.js
+          node --check navigation-hub.js
       - name: Fetch Health and World headlines
         run: python scripts/update_news_feed.py
       - name: Validate generated feed
