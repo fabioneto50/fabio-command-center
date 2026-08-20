@@ -11,10 +11,9 @@
       .replace(LEGACY_F,'')
       .replace(/Documento HBA\s*·\s*mod\.\s*19\/09\/2018/gi,'DILUIÇÕES.xlsx · legado 2018 · códigos institucionais removidos')
       .replace(/HBA\s*·\s*documento\s*2018/gi,'DILUIÇÕES.xlsx · legado sem códigos')
+      .replace(/^\s*·\s*/,'')
       .replace(/\s*·\s*·\s*/g,' · ')
-      .replace(/\s{2,}/g,' ')
-      .replace(/\s*·\s*$/,'')
-      .trimEnd();
+      .replace(/\s*·\s*$/,'');
   }
 
   function cleanTextNodes(root){
@@ -35,7 +34,7 @@
         if(el.firstChild?.nodeType===Node.TEXT_NODE)el.firstChild.nodeValue='Código CUF ';
         return;
       }
-      if(code){el.textContent='Código CUF não indicado';}
+      if(code)el.textContent='Código CUF não indicado';
     });
 
     document.querySelectorAll('#clin-lasa .cuf-imp-code').forEach(el=>{
