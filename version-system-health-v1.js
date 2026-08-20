@@ -1,7 +1,7 @@
 (()=>{
   if(window.__fccVersionSystemHealthV1Installed)return;
   window.__fccVersionSystemHealthV1Installed=true;
-  const version=()=>String(window.FCC_RUNTIME_VERSION||document.documentElement.dataset.fccRuntimeVersion||'1.2.0').replace(/^MASTER\s*/i,'').trim();
+  const version=()=>String(window.FCC_RUNTIME_VERSION||document.documentElement.dataset.fccRuntimeVersion||'1.2.1').replace(/^MASTER\s*/i,'').trim();
   function sync(){
     const label='MASTER '+version(),page=document.getElementById('page-settings');
     document.querySelectorAll('.master-chip').forEach(x=>x.textContent=label);
