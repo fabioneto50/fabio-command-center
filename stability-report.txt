@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.0 stability audit
-Commit: a76519e370efc4c8f1ee7de423acc4a087331013
-Generated: 2026-08-20T15:33:32Z
+Commit: ad167622354c3fb166a782760bb76c02e37d4794
+Generated: 2026-08-20T15:38:42Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
@@ -41,7 +41,6 @@ Service Worker registrations:
 app.js:359:if('serviceWorker' in navigator && location.protocol!=='file:'){navigator.serviceWorker.register('./service-worker.js').catch(()=>{})}
 
 Global Storage.prototype.setItem overrides:
-expense-recurring-engine.js:92:  Storage.prototype.setItem=function(k,v){
 
 setInterval occurrences:
 app.js:165:function fmt(sec){return String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')}function startCode(){if(codeStart)return;codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000);codeMark('Timer iniciado')}function codeMark(n){if(!codeStart){codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000)}const t=fmt(Math.floor((Date.now()-codeStart)/1000));codeLog.unshift({n,t});codeEvents.innerHTML=codeLog.map(x=>`<div class="item"><strong>${x.n}</strong><span>${x.t}</span></div>`).join('')}function resetCode(){clearInterval(codeInt);codeStart=null;codeInt=null;codeLog=[];codeTimer.textContent='00:00';codeEvents.innerHTML=''}
