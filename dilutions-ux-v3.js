@@ -1,82 +1,14 @@
 (()=>{
-  if(window.__fccDilutionsUXV3Installed)return;
-  window.__fccDilutionsUXV3Installed=true;
-
-  let wasActive=false;
-  let resetting=false;
-  let needsRender=false;
-
-  function addStyles(){
-    if(document.getElementById('fcc-dilutions-ux-v3-style'))return;
-    const s=document.createElement('style');s.id='fcc-dilutions-ux-v3-style';s.textContent=`
-      #clin-perf .perf-toolbar.ccd-toolbar-stacked{display:grid!important;grid-template-columns:1fr!important;gap:8px!important;align-items:stretch!important}
-      #clin-perf .ccd-search-row{display:block;width:100%}#clin-perf .ccd-search-row .search{width:100%;min-width:0}#clin-perf .ccd-search-row .search input{width:100%}
-      #clin-perf .ccd-filter-row{display:grid;grid-template-columns:minmax(240px,1fr) auto auto;gap:8px;align-items:center;width:100%}#clin-perf .ccd-filter-row #ccdGroup{width:100%;min-width:0}
-      #clin-perf .ccd-filter-row .badge{min-height:38px;display:flex;align-items:center;justify-content:center;white-space:nowrap}#clin-perf .ccd-filter-row>.btn{min-height:38px;white-space:nowrap}
-      @media(max-width:760px){#clin-perf .ccd-filter-row{grid-template-columns:1fr}#clin-perf .ccd-filter-row .badge,#clin-perf .ccd-filter-row>.btn{width:100%;justify-content:flex-start}}
-    `;document.head.appendChild(s);
-  }
-
-  function resetFilters(){
-    if(resetting)return;
-    const search=document.getElementById('perfDilutionSearch'),group=document.getElementById('ccdGroup'),only=document.getElementById('ccdOnlyVerified');
-    if(!search&&!group&&!only)return;
-    resetting=true;
-    try{
-      if(search)search.value='';
-      if(group)group.value='';
-      if(only)only.checked=false;
-      needsRender=true;
-    }finally{resetting=false}
-  }
-
-  function renderIfNeeded(){
-    if(!needsRender)return;
-    needsRender=false;
-    const run=()=>{try{window.renderPerfDilutions?.()}catch(e){needsRender=true}};
-    if(typeof requestAnimationFrame==='function')requestAnimationFrame(()=>setTimeout(run,0));else setTimeout(run,0);
-  }
-
-  function stackToolbar(){
-    const host=document.getElementById('clin-perf'),toolbar=host?.querySelector('.perf-toolbar'),search=document.getElementById('perfDilutionSearch'),group=document.getElementById('ccdGroup'),only=document.getElementById('ccdOnlyVerified');
-    if(!host||!toolbar||!search||!group)return false;
-    addStyles();toolbar.classList.add('ccd-toolbar-stacked');
-    let searchRow=toolbar.querySelector(':scope > .ccd-search-row'),filterRow=toolbar.querySelector(':scope > .ccd-filter-row');
-    if(!searchRow){searchRow=document.createElement('div');searchRow.className='ccd-search-row'}
-    if(!filterRow){filterRow=document.createElement('div');filterRow.className='ccd-filter-row'}
-    const searchBox=search.closest('.search')||search,onlyLabel=only?.closest('label')||null;
-    const localButton=[...toolbar.children].find(el=>el.tagName==='BUTTON'&&!el.classList.contains('ccd-search-row')&&!el.classList.contains('ccd-filter-row'))||null;
-    if(searchBox.parentElement!==searchRow)searchRow.appendChild(searchBox);
-    if(group.parentElement!==filterRow)filterRow.appendChild(group);
-    if(onlyLabel&&onlyLabel.parentElement!==filterRow)filterRow.appendChild(onlyLabel);
-    if(localButton&&localButton.parentElement!==filterRow)filterRow.appendChild(localButton);
-    if(searchRow.parentElement!==toolbar)toolbar.prepend(searchRow);
-    if(filterRow.parentElement!==toolbar)toolbar.appendChild(filterRow);
-    return true;
-  }
-
-  function activeNow(){
-    const page=document.getElementById('page-clinical'),host=document.getElementById('clin-perf');
-    return !!(page?.classList.contains('active')&&host?.classList.contains('active'));
-  }
-
-  function handleState(now){
-    if(wasActive&&!now)resetFilters();
-    if(!wasActive&&now)renderIfNeeded();
-    wasActive=now;
-  }
-
-  function bindReset(){
-    document.addEventListener('fcc-subtab-change',e=>{
-      if(e.detail?.page!=='clinical')return;
-      handleState(e.detail?.id==='clin-perf');
-    });
-    const page=document.getElementById('page-clinical'),host=document.getElementById('clin-perf');if(!page||!host)return;
-    wasActive=activeNow();
-    const ob=new MutationObserver(()=>handleState(activeNow()));
-    ob.observe(page,{attributes:true,attributeFilter:['class']});ob.observe(host,{attributes:true,attributeFilter:['class']});
-  }
-
+  if(window.__fccDilutionsUXV4Installed)return;
+  window.__fccDilutionsUXV4Installed=true;
+  let wasActive=false,resetting=false,needsRender=false;
+  function addStyles(){if(document.getElementById('fcc-dilutions-ux-v3-style'))return;const s=document.createElement('style');s.id='fcc-dilutions-ux-v3-style';s.textContent=`#clin-perf .perf-toolbar.ccd-toolbar-stacked{display:grid!important;grid-template-columns:1fr!important;gap:8px!important;align-items:stretch!important}#clin-perf .ccd-search-row{display:block;width:100%}#clin-perf .ccd-search-row .search{width:100%;min-width:0}#clin-perf .ccd-search-row .search input{width:100%}#clin-perf .ccd-filter-row{display:grid;grid-template-columns:minmax(240px,1fr) auto auto;gap:8px;align-items:center;width:100%}#clin-perf .ccd-filter-row #ccdGroup{width:100%;min-width:0}#clin-perf .ccd-filter-row .badge{min-height:38px;display:flex;align-items:center;justify-content:center;white-space:nowrap}#clin-perf .ccd-filter-row>.btn{min-height:38px;white-space:nowrap}@media(max-width:760px){#clin-perf .ccd-filter-row{grid-template-columns:1fr}#clin-perf .ccd-filter-row .badge,#clin-perf .ccd-filter-row>.btn{width:100%;justify-content:flex-start}}`;document.head.appendChild(s)}
+  function resetFilters(){if(resetting)return;const search=document.getElementById('perfDilutionSearch'),group=document.getElementById('ccdGroup'),only=document.getElementById('ccdOnlyVerified');if(!search&&!group&&!only)return;resetting=true;try{if(search)search.value='';if(group)group.value='';if(only)only.checked=false;needsRender=true}finally{resetting=false}}
+  function renderIfNeeded(){if(!needsRender)return;needsRender=false;requestAnimationFrame(()=>setTimeout(()=>{try{window.renderPerfDilutions?.()}catch(e){needsRender=true}},0))}
+  function stackToolbar(){const host=document.getElementById('clin-perf'),toolbar=host?.querySelector('.perf-toolbar'),search=document.getElementById('perfDilutionSearch'),group=document.getElementById('ccdGroup'),only=document.getElementById('ccdOnlyVerified');if(!host||!toolbar||!search||!group)return false;addStyles();toolbar.classList.add('ccd-toolbar-stacked');let searchRow=toolbar.querySelector(':scope > .ccd-search-row'),filterRow=toolbar.querySelector(':scope > .ccd-filter-row');if(!searchRow){searchRow=document.createElement('div');searchRow.className='ccd-search-row'}if(!filterRow){filterRow=document.createElement('div');filterRow.className='ccd-filter-row'}const searchBox=search.closest('.search')||search,onlyLabel=only?.closest('label')||null,localButton=[...toolbar.children].find(el=>el.tagName==='BUTTON'&&!el.classList.contains('ccd-search-row')&&!el.classList.contains('ccd-filter-row'))||null;if(searchBox.parentElement!==searchRow)searchRow.appendChild(searchBox);if(group.parentElement!==filterRow)filterRow.appendChild(group);if(onlyLabel&&onlyLabel.parentElement!==filterRow)filterRow.appendChild(onlyLabel);if(localButton&&localButton.parentElement!==filterRow)filterRow.appendChild(localButton);if(searchRow.parentElement!==toolbar)toolbar.prepend(searchRow);if(filterRow.parentElement!==toolbar)toolbar.appendChild(filterRow);return true}
+  function activeNow(){return !!(document.getElementById('page-clinical')?.classList.contains('active')&&document.getElementById('clin-perf')?.classList.contains('active'))}
+  function handleState(now){if(wasActive&&!now)resetFilters();if(!wasActive&&now)renderIfNeeded();wasActive=now}
+  function bindReset(){wasActive=activeNow();document.addEventListener('fcc-subtab-change',e=>{if(e.detail?.page==='clinical')handleState(e.detail?.id==='clin-perf')});document.addEventListener('fcc-page-change',e=>handleState(e.detail?.page==='clinical'&&document.getElementById('clin-perf')?.classList.contains('active')))}
   function install(){if(!stackToolbar())return false;bindReset();return true}
   let tries=0;const boot=()=>{tries++;if(install()||tries>60)return;setTimeout(boot,120)};boot();
 })();
