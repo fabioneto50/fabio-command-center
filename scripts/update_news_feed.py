@@ -13,12 +13,13 @@ OUT = Path(__file__).resolve().parents[1] / "news-feed.json"
 UA = "Mozilla/5.0 (compatible; FabioCommandCenter/1.0; +https://github.com/fabioneto50/fabio-command-center)"
 MAX_ITEMS = 12
 
-HEALTH_QUERY = "saúde OR medicina OR hospital OR enfermagem OR saúde pública OR OMS"
+HEALTH_QUERY = "when:3d (saúde OR medicina OR hospital OR enfermagem OR OMS OR vacina OR doença OR medicamento)"
+WORLD_QUERY = "when:2d (Ucrânia OR Rússia OR Médio Oriente OR China OR Estados Unidos OR União Europeia OR NATO OR África OR Ásia OR guerra OR diplomacia)"
 HEALTH_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
     {"q": HEALTH_QUERY, "hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"}
 )
-WORLD_URL = "https://news.google.com/rss?" + urllib.parse.urlencode(
-    {"hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"}
+WORLD_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
+    {"q": WORLD_QUERY, "hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"}
 )
 
 
