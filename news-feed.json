@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:05:16.318062Z",
+  "updatedAt": "2026-08-20T23:59:51.359533Z",
   "health": [
     {
       "title": "Avanço contra o melanoma pode dar início a onda de vacinas para o cancro - Público",
@@ -59,10 +59,19 @@
       "title": "“Trabalhar na prevenção e no acesso aos cuidados primários é uma prioridade”, realça José Manuel Bolieiro - Portal do Governo dos Açores",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44RnpiMFhDc0ZWRHo5NmZlaEx5UlhOdVEzNFBOLWZyWWphSWRONWRyeXBqSVlnQWVIVGlZbjVKTy16X21qRTNSckFTUkRkMG1GLVlRYnVDeDJmUUZEODFYNTJTUjZ5T1BzbXQ3TEhjZkFCZXBGYldZ?oc=5",
       "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-08-20T17:38:36Z",
+      "publishedAt": "2026-08-20T17:39:22Z",
       "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23566812"
+    },
+    {
+      "title": "Gerir emoções é fundamental para a saúde mental dos polícias - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcktpd092b3pXRWFSWEQyZUd3SnRkS0h5MHY4MnZEajVqSXd1RzNldkNXX0FPa08tdWVfSVJCc0UwTkJzellzMG5rY0VBS19LR2ctRzNMUTZTaFlNM3E2emF4ZzNxcldZQUQtMUpzS1BSVzNZR01FQndHekRvbzRyd095dWRldnFDcVA5cWtCbmZwRHNoQ0NacGg3VG5sYkJRZjBKTQ?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-08-20T14:43:00Z",
+      "description": "Investigação da Católica, realizada com agentes da PSP da AMP revela que mais de 35% sofre de stress elevado, mas o estigma impede a maioria de procurar ajuda especializada.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2021/08/leitor_5b9b878cac8fd_PSP_policia_seguranca_publica.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/gerir-emocoes-e-fundamental-para-a-saude-mental-dos-policias/"
     },
     {
       "title": "PRR reforça investimento na Saúde - inem.pt",
@@ -74,22 +83,13 @@
       "articleUrl": "https://www.inem.pt/2026/08/20/prr-reforca-investimento-na-saude/"
     },
     {
-      "title": "Repórteres Sem Fronteiras preocupada com estado de saúde de jornalista francês - Euronews.com",
+      "title": "Repórteres Sem Fronteiras preocupada com estado de saúde de jornalista francês - Euronews",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFdiYVZ6ZGdiMHM2bVF4TG03ZkdwM2Rra2tudEVDVUhGeWZOSERBbmFrelI2UUNlcWxVV3pYWnRwSTI5NGJVcGw2LW9odF9McDVLX1V2UUtTemRRNnlCenhIcjgtNDZLaklmUmtOOWtFSElkenkyU1h5cUk0bkZhc3JaMDE5clh4Vm1RVl9lRms5Qm1rc29OZHdDU3JKWDd1b3U0aU96TkM3MWNockhtVTdZYw?oc=5",
-      "source": "Euronews.com",
+      "source": "Euronews",
       "publishedAt": "2026-08-20T18:33:17Z",
-      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Euronews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://pt.euronews.com/2026/08/20/reporteres-sem-fronteiras-preocupada-com-estado-de-saude-de-jornalista-frances"
-    },
-    {
-      "title": "Moçambique vai receber mais um milhão de doses de vacina contra febre aftosa - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdkoyYUY3OWVtV2hGanFCRUxkNFQyRkI4TFI4TXN0bm0wUGJnUHNad2gzMDBWdTRqMVFiZTNDMnZ0UGNUeHVRVmgtb3l0TGVnRUFCcGZHWjRJaEEwWmRRQThVSnJ6Z1VsQ3Y4SFhCQ2NQYmVXbU5JNWN5VDY1RTZkQ0NBdU1rV3EwdEVRdFRCT24xQy05aWtRVnR4akM2cWRYS0pFMXNtdjAyVzhURGdBdC04RlJsZw?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-08-20T15:20:55Z",
-      "description": "Mais de um milhão de doses de vacina contra a febre aftosa chegam a Moçambique nos próximos 12 a 18 meses para reforçar a proteção do efetivo bovino, anunciou o diretor nacional-adjunto de Sanidade e Biossegurança.",
-      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066343_0000000001.jpg",
-      "articleUrl": "https://www.saudemais.tv/noticia/66343-mocambique-vai-receber-mais-um-milhao-de-doses-de-vacina-contra-febre-aftosa"
     },
     {
       "title": "Urgências de Leiria estão a mudar. Novo modelo aumenta segurança dos utentes - Jornal de Leiria",
@@ -100,11 +100,11 @@
       "image": ""
     },
     {
-      "title": "Gerir emoções é fundamental para a saúde mental dos polícias - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcktpd092b3pXRWFSWEQyZUd3SnRkS0h5MHY4MnZEajVqSXd1RzNldkNXX0FPa08tdWVfSVJCc0UwTkJzellzMG5rY0VBS19LR2ctRzNMUTZTaFlNM3E2emF4ZzNxcldZQUQtMUpzS1BSVzNZR01FQndHekRvbzRyd095dWRldnFDcVA5cWtCbmZwRHNoQ0NacGg3VG5sYkJRZjBKTQ?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-08-20T14:43:00Z",
-      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
+      "title": "Moçambique vai receber mais um milhão de doses de vacina contra febre aftosa - Lusa",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTUxVUWRrcU52c01QaGVYZHg3NTlPWWtEaTZZQ3JlMS1rb3FkRExPS1ZEa0NTQjFad1BaMUhib28wVHV4d2dRV1BDRE1YenMyMVpYck5FQjRsSzdQWnJQM2drd0doMEoyRUMwclEzQjFLZlZ3cjVWempQa2Nsc1UxNkdpdmdBYWM2S2lNaWtUVGNuWG9oX1E1b3RKaVJtUk9SbmZpYVJ3RXpfNWlkaXdYQ0gwM2xfMTFmV3RfSzhzRkNoUnE0YnROQUJPNnU1aTZjcndfYm5DY1BFRDFR?oc=5",
+      "source": "Lusa",
+      "publishedAt": "2026-08-20T13:15:00Z",
+      "description": "Notícia publicada por Lusa. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -173,15 +173,6 @@
       "articleUrl": "https://cnnportugal.iol.pt/guerra/medio-oriente/os-eua-mudaram-de-estrategia-no-irao-desligar/20260819/6a8577d4d34e511da0b33fd3"
     },
     {
-      "title": "Médio Oriente: Trump muda o \"chip\" na guerra e anuncia \"Dia D Económico\" contra o Irão – Teerão responde aceitando a \"derrota militar\" dos Estados Unidos - Novo Jornal",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRnJ0cXQ5X1UyemxZV0xtVVBKa283VURHZTBmVThHcURWaVlJN0RJcjIzeEJkWFp3azQ3YklmcDZRQ2tHNXZHaG1RaUU0bXZkWnpMYjRjZjlSdkxTZ1dLVzRCbVA0S0dOQldHT2Fxb3hRb1J3b0hGZEdjd0NNSUtPVy10UXA2blVpalFDQ2F0V20yYVlyd0NucHN6eUd2V2xXMXcxdWVnd1A4cmtENFFoUnNpX3Rmcmp4Nm8wc082WmFETHl4QW1Sd1QzX3BISVYwS2U1T181VnNtWkpNZVVkdERyb1dKaHo5NDhUNzFRZEZDRC04WmdvX2Q3alJMWFIwMWNRT2tFRVc4SW1GaV83LUwzRVJpTGFfejFEVEhhUjlRY2RrN1JDeHFB?oc=5",
-      "source": "Novo Jornal",
-      "publishedAt": "2026-08-20T13:28:02Z",
-      "description": "Já tinha sido notado com algum espanto que Donald Trump ficara em silêncio depois de ouvir os líderes iranianos a anunciar que tinham derrotado militarmente e sem margem para qualquer dúvida os EUA na guerra que começou a 28 de Fevereiro.",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821120515",
-      "articleUrl": "https://novojornal.co.ao/internacional/detalhe/medio-oriente-trump-muda-o-chip-na-guerra-e-anuncia-dia-d-economico-contra-o-irao-teerao-responde-aceitando-a-derrota-militar-dos-estados-unidos-74067.html"
-    },
-    {
       "title": "Irão adverte países do Golfo contra ajuda militar aos Estados Unidos - RTP",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajZ5bUxrYUpXMTVCU09RSzM3NFFoQTB6Y1J0LWNSTU1wTEdBZ3lMQjF5Zndsb0F0cnc5UlBkQzlkUFFOSGtwZGg4dGxtX3VvWVo2aS1ESnhzVDBCSUd2VC1IM3U3bUdGTWRXUXFZa2d3UVc4cVlYdV9oemdvTG1xekRDeHZMUHdxVkVzSWctWlgtWjhub0R0LVZRcE9IbjZSQ1BmQ0pwOVpkNWxRVUlTUw?oc=5",
       "source": "RTP",
@@ -189,6 +180,15 @@
       "description": "\"Qualquer assistência ou facilitação prestada às Forças Armadas agressoras dos EUA equivale à participação em operações militares\", advertiu o chefe do Estado-Maior iraniano, Ali Abdullahi.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d2dc2471e54f4aa065d1cb68f5d72bc?w=860&q=90&rect=0,98,1500,822&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-adverte-paises-do-golfo-contra-ajuda-militar-aos-estados-unidos_n1760321"
+    },
+    {
+      "title": "Médio Oriente: Trump muda o \"chip\" na guerra e anuncia \"Dia D Económico\" contra o Irão – Teerão responde aceitando a \"derrota militar\" dos Estados Unidos - Novo Jornal",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRnJ0cXQ5X1UyemxZV0xtVVBKa283VURHZTBmVThHcURWaVlJN0RJcjIzeEJkWFp3azQ3YklmcDZRQ2tHNXZHaG1RaUU0bXZkWnpMYjRjZjlSdkxTZ1dLVzRCbVA0S0dOQldHT2Fxb3hRb1J3b0hGZEdjd0NNSUtPVy10UXA2blVpalFDQ2F0V20yYVlyd0NucHN6eUd2V2xXMXcxdWVnd1A4cmtENFFoUnNpX3Rmcmp4Nm8wc082WmFETHl4QW1Sd1QzX3BISVYwS2U1T181VnNtWkpNZVVkdERyb1dKaHo5NDhUNzFRZEZDRC04WmdvX2Q3alJMWFIwMWNRT2tFRVc4SW1GaV83LUwzRVJpTGFfejFEVEhhUjlRY2RrN1JDeHFB?oc=5",
+      "source": "Novo Jornal",
+      "publishedAt": "2026-08-20T13:28:02Z",
+      "description": "Já tinha sido notado com algum espanto que Donald Trump ficara em silêncio depois de ouvir os líderes iranianos a anunciar que tinham derrotado militarmente e sem margem para qualquer dúvida os EUA na guerra que começou a 28 de Fevereiro.",
+      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821125834",
+      "articleUrl": "https://novojornal.co.ao/internacional/detalhe/medio-oriente-trump-muda-o-chip-na-guerra-e-anuncia-dia-d-economico-contra-o-irao-teerao-responde-aceitando-a-derrota-militar-dos-estados-unidos-74067.html"
     },
     {
       "title": "Irã diz que resposta pode chegar à Europa se Trump aprofundar guerra - vermelho.org.br",
