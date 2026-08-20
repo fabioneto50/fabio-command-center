@@ -89,10 +89,11 @@
     }catch(e){return value}
   }
 
-  Storage.prototype.setItem=function(k,v){
-    if(this===localStorage&&k===KEY){const next=mergeIncoming(v);rawSet.call(this,k,next);emit({source:'expense-center'});return}
-    return rawSet.call(this,k,v);
-  };
+  function saveIncoming(state,detail={source:'expense-center'}){
+    const next=mergeIncoming(JSON.stringify(state));
+    rawSet.call(localStorage,KEY,next);
+    emit(detail);
+  }
 
   function monthlyOccurrences(plan,endDate){
     const start=parseDate(plan.startDate),end=parseDate(endDate),out=[];let y=start.getFullYear(),m=start.getMonth();
@@ -185,5 +186,5 @@
   }
 
   const boot=read();normalizeRecurring(boot);rawSet.call(localStorage,KEY,JSON.stringify(boot));processDue();
-  window.FCCRecurringEngine={KEY,read,write,normalizeRecurring,normalizePlan,occurrences,processDue,savePlan,setStatus,removePlan,nextOccurrence,monthStats,today,moneyEq};
+  window.FCCRecurringEngine={KEY,read,write,saveIncoming,normalizeRecurring,normalizePlan,occurrences,processDue,savePlan,setStatus,removePlan,nextOccurrence,monthStats,today,moneyEq};
 })();

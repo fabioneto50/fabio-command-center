@@ -1,4 +1,4 @@
-const APP_VERSION='MASTER 1.0.0';
+const APP_VERSION='MASTER 1.3.0';
 const SCHEMA_VERSION=1;
 const USER_KEY='fcc-master-user-data-v1';
 const CONTENT_KEY='fcc-master-content-pack-v1';
@@ -55,7 +55,7 @@ function safeUrl(v){
 function uid(p='x'){return p+Date.now().toString(36)+Math.random().toString(36).slice(2,6)}
 function toast(m){const el=document.getElementById('toast');el.textContent=m;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),1600)}
 function openModal(id){document.getElementById(id).classList.add('open')} function closeModal(id){document.getElementById(id).classList.remove('open')}
-function go(p){document.querySelectorAll('.page').forEach(x=>x.classList.remove('active'));document.getElementById('page-'+p).classList.add('active');document.querySelectorAll('.nav').forEach(x=>x.classList.toggle('active',x.dataset.page===p));if(p==='emergency')renderEmergency();if(p==='comms')renderComms();if(p==='garage')renderGarage();if(p==='research')renderResearch();if(p==='clinical')renderClinical();if(p==='settings')renderMaintenance();window.scrollTo(0,0)}
+function go(p){const target=document.getElementById('page-'+p);if(!target)return false;document.querySelectorAll('.page.active').forEach(x=>x.classList.remove('active'));target.classList.add('active');document.querySelectorAll('.nav').forEach(x=>x.classList.toggle('active',x.dataset.page===p));document.body.style.overflow='';window.scrollTo(0,0);return true}
 function subtab(group,id,btn){const page=btn.closest('.page');page.querySelectorAll('.sub').forEach(x=>x.classList.remove('active'));page.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));document.getElementById(id).classList.add('active');btn.classList.add('active');if(id==='clin-cases'&&!currentCase)newCase()}
 function openClin(k){go('clinical');const b=[...document.querySelectorAll('#page-clinical .tab')].find(x=>x.getAttribute('onclick')?.includes("'clin-"+k+"'"));if(b)subtab('clinical','clin-'+k,b)}
 function saveNote(k,id){state.notes[k]=document.getElementById(id).value;save();toast('Guardado')}

@@ -62,7 +62,7 @@
     }catch(e){return defaultState()}
   }
   let data=loadState();
-  function save(){localStorage.setItem(KEY,JSON.stringify(data));renderAll()}
+  function save(){if(window.FCCRecurringEngine?.saveIncoming)window.FCCRecurringEngine.saveIncoming(data,{source:'expense-center'});else localStorage.setItem(KEY,JSON.stringify(data));renderAll()}
 
   function classify(text){
     const q=fold(text);
