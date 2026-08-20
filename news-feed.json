@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T16:52:46.028012Z",
+  "updatedAt": "2026-08-20T16:53:48.759094Z",
   "health": [
     {
       "title": "Avanço contra o melanoma pode dar início a onda de vacinas para o cancro - Público",
@@ -178,17 +178,8 @@
       "source": "Novo Jornal",
       "publishedAt": "2026-08-20T13:28:02Z",
       "description": "Já tinha sido notado com algum espanto que Donald Trump ficara em silêncio depois de ouvir os líderes iranianos a anunciar que tinham derrotado militarmente e sem margem para qualquer dúvida os EUA na guerra que começou a 28 de Fevereiro.",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260820054251",
+      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260820055255",
       "articleUrl": "https://novojornal.co.ao/internacional/detalhe/medio-oriente-trump-muda-o-chip-na-guerra-e-anuncia-dia-d-economico-contra-o-irao-teerao-responde-aceitando-a-derrota-militar-dos-estados-unidos-74067.html"
-    },
-    {
-      "title": "Irão adverte países do Golfo contra ajuda militar aos Estados Unidos - RTP",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajZ5bUxrYUpXMTVCU09RSzM3NFFoQTB6Y1J0LWNSTU1wTEdBZ3lMQjF5Zndsb0F0cnc5UlBkQzlkUFFOSGtwZGg4dGxtX3VvWVo2aS1ESnhzVDBCSUd2VC1IM3U3bUdGTWRXUXFZa2d3UVc4cVlYdV9oemdvTG1xekRDeHZMUHdxVkVzSWctWlgtWjhub0R0LVZRcE9IbjZSQ1BmQ0pwOVpkNWxRVUlTUw?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-19T10:10:31Z",
-      "description": "\"Qualquer assistência ou facilitação prestada às Forças Armadas agressoras dos EUA equivale à participação em operações militares\", advertiu o chefe do Estado-Maior iraniano, Ali Abdullahi.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d2dc2471e54f4aa065d1cb68f5d72bc?w=860&q=90&rect=0,98,1500,822&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-adverte-paises-do-golfo-contra-ajuda-militar-aos-estados-unidos_n1760321"
     },
     {
       "title": "Irã diz que resposta pode chegar à Europa se Trump aprofundar guerra - vermelho.org.br",
@@ -198,6 +189,15 @@
       "description": "Teerã avalia atingir instalações militares dos EUA fora do Oriente Médio caso Washington volte a atacar o país; Trump anuncia “guerra econômica” e promete punir governos que mantiverem apoio ao Irã",
       "image": "https://vermelho.org.br/wp-content/uploads/2025/04/Aragchi.jpg",
       "articleUrl": "https://vermelho.org.br/2026/08/20/ira-diz-que-resposta-pode-chegar-a-europa-se-trump-aprofundar-guerra/"
+    },
+    {
+      "title": "Irão adverte países do Golfo contra ajuda militar aos Estados Unidos - RTP",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajZ5bUxrYUpXMTVCU09RSzM3NFFoQTB6Y1J0LWNSTU1wTEdBZ3lMQjF5Zndsb0F0cnc5UlBkQzlkUFFOSGtwZGg4dGxtX3VvWVo2aS1ESnhzVDBCSUd2VC1IM3U3bUdGTWRXUXFZa2d3UVc4cVlYdV9oemdvTG1xekRDeHZMUHdxVkVzSWctWlgtWjhub0R0LVZRcE9IbjZSQ1BmQ0pwOVpkNWxRVUlTUw?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-19T10:10:31Z",
+      "description": "\"Qualquer assistência ou facilitação prestada às Forças Armadas agressoras dos EUA equivale à participação em operações militares\", advertiu o chefe do Estado-Maior iraniano, Ali Abdullahi.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1d2dc2471e54f4aa065d1cb68f5d72bc?w=860&q=90&rect=0,98,1500,822&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-adverte-paises-do-golfo-contra-ajuda-militar-aos-estados-unidos_n1760321"
     },
     {
       "title": "EUA enviam porta-aviões 'de emergência' ao Oriente Médio para guerra no Irã - UOL Notícias",
