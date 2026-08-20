@@ -1,5 +1,54 @@
-const CACHE='fcc-master-1.2.1';
-const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js','./theme-switcher.js','./theme-auto-v2.js','./navigation-core.js','./personal-hub-v1.js','./personal-security-v1.js','./perfusion-reference.js','./critical-care-dilutions-v2.js','./dilutions-ux-v3.js','./dilutions-hba-chunk-01.js','./dilutions-hba-chunk-02.js','./dilutions-hba-chunk-03.js','./dilutions-hba-chunk-04.js','./dilutions-hba-chunk-05.js','./dilutions-hba-chunk-06.js','./dilutions-hba-chunk-07.js','./dilutions-hba-chunk-08.js','./dilutions-source-hba-2018.js','./dilutions-document-db-v4.js','./cuf-inf2213-data.js','./cuf-inf1030-chunk-01.js','./cuf-inf1030-chunk-02.js','./cuf-inf1030-chunk-03.js','./cuf-inf1030-chunk-04.js','./cuf-inf1030-chunk-05.js','./cuf-inf1030-chunk-06.js','./cuf-inf1030-chunk-07.js','./cuf-clinical-docs-loader.js','./cuf-imp1636-chunk-01.js','./cuf-imp1636-chunk-02.js','./cuf-imp1636-chunk-03.js','./cuf-imp1636-chunk-04.js','./cuf-imp1636-loader.js','./dilutions-cuf-v6.js','./dilutions-card-ux-v5.js','./family-security.js','./clinical-material.js','./clinical-material-window-v2.js','./iv-compatibility.js','./iv-catalogue.js','./iv-compatibility-ui-v2.js','./iv-source-evidence.js','./iv-compatibility-expanded-v3.js','./iv-compatibility-exit-reset-v1.js','./clinical-restructure.js','./wound-dressings-v1.js','./wound-dressings-order-v1.js','./wound-images-chunk-01.js','./wound-images-chunk-02.js','./wound-images-chunk-03.js','./wound-images-chunk-04.js','./wound-images-chunk-05.js','./wound-images-chunk-06.js','./wound-images-chunk-07.js','./wound-dressings-images-v2.js','./clinical-cases-separate-v3.js','./clinical-cases-bank-v2.js','./clinical-cases-ux-patch-v1.js','./clinical-cases-upgrade-v3.js','./drug-reference-v2.js','./medication-info-v3.js','./medication-info-v4.js','./medication-info-ux-v5.js','./medication-brands-v1.js','./medication-stability-cuf-v1.js','./medication-safety-cuf-v2.js','./medication-reference-links-v2.js','./ecg-photo-assist.js','./ecg-image-analyzer-v2.js','./ecg-image-analyzer-v3.js','./clinical-legacy-shims.js','./category-organizer.js','./expense-recurring-engine.js','./expense-center.js','./expense-recurring-ui.js','./personal-expenses-v1.js','./research-live-search-v1.js','./theme-audit-fixes.js','./search-enhancer.js','./subtab-navigation-fix.js','./global-typography-v1.js','./home-current-news-v1.js','./version-sync-v1.js','./version-system-health-v1.js','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./content-pack.json','./build-info.json'];
-self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE))).then(()=>self.skipWaiting()));
-self.addEventListener('activate',e=>e.waitUntil(Promise.all([self.clients.claim(),caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))])));
-self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==location.origin)return;const networkFirst=async()=>{try{const resp=await fetch(e.request,{cache:'no-store'});if(resp&&resp.status===200){const copy=resp.clone();caches.open(CACHE).then(c=>c.put(e.request,copy))}return resp}catch(err){const cached=await caches.match(e.request);if(cached)return cached;if(e.request.mode==='navigate')return caches.match('./index.html');return Response.error()}};const cacheFirst=async()=>{const cached=await caches.match(e.request);if(cached)return cached;try{const resp=await fetch(e.request);if(resp&&resp.status===200){const copy=resp.clone();caches.open(CACHE).then(c=>c.put(e.request,copy))}return resp}catch(err){return Response.error()}};if(e.request.mode==='navigate'||/\.(?:html|js|css|json|webmanifest)$/.test(u.pathname))e.respondWith(networkFirst());else e.respondWith(cacheFirst())});
+const CACHE='fcc-master-recovery-1.2.3';
+const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js'];
+
+self.addEventListener('install',event=>{
+  event.waitUntil((async()=>{
+    const cache=await caches.open(CACHE);
+    for(const url of CORE){
+      try{
+        const response=await fetch(url,{cache:'reload'});
+        if(response&&response.ok)await cache.put(url,response.clone());
+      }catch(err){
+        console.warn('FCC recovery precache failed',url,err);
+      }
+    }
+    await self.skipWaiting();
+  })());
+});
+
+self.addEventListener('activate',event=>{
+  event.waitUntil((async()=>{
+    const keys=await caches.keys();
+    await Promise.all(keys.filter(key=>key.startsWith('fcc-')&&key!==CACHE).map(key=>caches.delete(key)));
+    await self.clients.claim();
+  })());
+});
+
+self.addEventListener('fetch',event=>{
+  if(event.request.method!=='GET')return;
+  const url=new URL(event.request.url);
+  if(url.origin!==location.origin)return;
+
+  const networkFirst=async()=>{
+    try{
+      const response=await fetch(event.request,{cache:'no-store'});
+      if(response&&response.ok){
+        const cache=await caches.open(CACHE);
+        cache.put(event.request,response.clone()).catch(()=>{});
+      }
+      return response;
+    }catch(err){
+      const cached=await caches.match(event.request);
+      if(cached)return cached;
+      if(event.request.mode==='navigate'){
+        const fallback=await caches.match('./index.html');
+        if(fallback)return fallback;
+      }
+      return Response.error();
+    }
+  };
+
+  if(event.request.mode==='navigate'||/\.(?:html|js|css|json|webmanifest)$/.test(url.pathname)){
+    event.respondWith(networkFirst());
+  }
+});
