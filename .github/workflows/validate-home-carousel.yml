@@ -1,0 +1,57 @@
+name: Validate Home news carousel
+
+on:
+  push:
+    branches: [home-news-carousel]
+    paths:
+      - '.github/workflows/validate-home-carousel.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Static checks
+        run: |
+          node --check home-current-news-v1.js
+          node --check home-public-shell-v1.js
+          python -m py_compile scripts/update_news_feed.py
+      - name: Generate current rich feed
+        run: python scripts/update_news_feed.py
+      - name: Verify carousel and feed
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          feed=json.loads(Path('news-feed.json').read_text(encoding='utf-8'))
+          health=feed.get('health',[]); world=feed.get('world',[])
+          assert len(health)>=4 and len(world)>=4
+          for group in (health,world):
+              assert all(x.get('title') and x.get('url') for x in group[:4])
+              assert all(x.get('description') for x in group[:4])
+          js=Path('home-current-news-v1.js').read_text(encoding='utf-8')
+          shell=Path('home-public-shell-v1.js').read_text(encoding='utf-8')
+          assert 'grid-template-columns:repeat(2' in js
+          assert 'touchstart' in js and 'touchend' in js
+          assert 'home-news-media' in js and 'home-news-desc' in js
+          assert 'data-news-prev' in shell and 'data-news-next' in shell
+          stats={
+            'health':len(health),'world':len(world),
+            'health_images':sum(bool(x.get('image')) for x in health),
+            'world_images':sum(bool(x.get('image')) for x in world),
+            'health_descriptions':sum(bool(x.get('description')) for x in health),
+            'world_descriptions':sum(bool(x.get('description')) for x in world),
+          }
+          Path('qa-home-carousel.txt').write_text('HOME CAROUSEL PASS\n'+json.dumps(stats,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(stats)
+          PY
+      - name: Commit validation result and generated feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- news-feed.json qa-home-carousel.txt
+          git commit -m 'Validate rich Home news carousel'
+          git push
