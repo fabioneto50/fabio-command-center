@@ -9,14 +9,14 @@
   function apply(theme){if(typeof window.fccSetTheme==='function')window.fccSetTheme(theme);else{document.documentElement.dataset.fccTheme=theme;document.documentElement.style.colorScheme=theme}}
   function sync(){const o=getOverride();apply(o?.theme||autoTheme());status();schedule()}
   let timer=0;function schedule(){clearTimeout(timer);timer=setTimeout(()=>{localStorage.removeItem(KEY);sync()},Math.max(1000,boundary()-Date.now()+1200))}
-  function status(){const s=document.getElementById('fccThemeStatus');if(!s)return;const o=getOverride(),theme=document.documentElement.dataset.fccTheme||autoTheme();s.textContent=o?`${theme==='light'?'Modo claro':'Modo escuro'} ativo · alteração manual até ${new Date(o.until).toLocaleTimeString('pt-PT',{hour:'2-digit',minute:'2-digit'})}`:`Automático · claro 08:00–20:00 · ${theme==='light'?'modo claro':'modo escuro'} ativo`}
+  function status(){const s=document.getElementById('fccThemeStatus');if(!s)return;const o=getOverride(),theme=document.documentElement.dataset.fccTheme||autoTheme();const next=o?`${theme==='light'?'Modo claro':'Modo escuro'} ativo · alteração manual até ${new Date(o.until).toLocaleTimeString('pt-PT',{hour:'2-digit',minute:'2-digit'})}`:`Automático · claro 08:00–20:00 · ${theme==='light'?'modo claro':'modo escuro'} ativo`;if(s.textContent!==next)s.textContent=next}
   function bind(){
     const q=document.getElementById('fccThemeQuick');if(q&&!q.dataset.autoBound){q.dataset.autoBound='1';q.addEventListener('click',()=>queueMicrotask(()=>setOverride(document.documentElement.dataset.fccTheme||autoTheme())))}
     document.querySelectorAll('[data-fcc-theme-choice]').forEach(b=>{if(b.dataset.autoBound)return;b.dataset.autoBound='1';b.addEventListener('click',()=>queueMicrotask(()=>setOverride(b.dataset.fccThemeChoice)))})
     const settings=document.getElementById('fccThemeSettings');if(settings&&!document.getElementById('fccThemeAutoHint')){const x=document.createElement('div');x.id='fccThemeAutoHint';x.className='tiny';x.style.marginTop='6px';x.textContent='Horário automático: claro 08:00–20:00 · escuro 20:00–08:00. Uma alteração manual mantém-se até à próxima mudança de horário.';settings.appendChild(x)}
     status();
   }
-  new MutationObserver(bind).observe(document.body,{childList:true,subtree:true});
-  document.addEventListener('visibilitychange',()=>{if(!document.hidden)sync()});window.addEventListener('pageshow',sync);
-  setTimeout(()=>{bind();sync()},0);setTimeout(bind,500);
+  document.addEventListener('visibilitychange',()=>{if(!document.hidden){bind();sync()}});window.addEventListener('pageshow',()=>{bind();sync()});
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>{bind();sync()},{once:true});else{bind();sync()}
+  setTimeout(()=>{bind();sync()},250);setTimeout(bind,1000);
 })();
