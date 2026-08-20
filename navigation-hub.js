@@ -1,70 +1,22 @@
 (()=>{
   const load=(src)=>new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src;s.async=false;s.onload=resolve;s.onerror=reject;document.head.appendChild(s)});
   const unitDefaults={Noradrenalina:'mcgkgmin',Adrenalina:'mcgkgmin',Dobutamina:'mcgkgmin',Dopamina:'mcgkgmin',Propofol:'mgkgh',Dexmedetomidina:'mcgkgh',Alfentanil:'mcgkgh',Remifentanil:'mcgkgmin',Rocurónio:'mcgkgmin',Insulina:'uih',Amiodarona:'mgh',Heparina:'uih'};
-  load('./theme-switcher.js?v=1.0.38')
-    .then(()=>load('./navigation-core.js?v=1.0.38'))
-    .then(()=>load('./perfusion-reference.js?v=1.0.38'))
-    .then(()=>load('./critical-care-dilutions-v2.js?v=1.0.38'))
-    .then(()=>load('./dilutions-ux-v3.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-01.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-02.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-03.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-04.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-05.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-06.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-07.js?v=1.0.38'))
-    .then(()=>load('./dilutions-hba-chunk-08.js?v=1.0.38'))
-    .then(()=>load('./dilutions-source-hba-2018.js?v=1.0.38'))
-    .then(()=>load('./dilutions-document-db-v4.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf2213-data.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-01.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-02.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-03.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-04.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-05.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-06.js?v=1.0.38'))
-    .then(()=>load('./cuf-inf1030-chunk-07.js?v=1.0.38'))
-    .then(()=>load('./cuf-clinical-docs-loader.js?v=1.0.38'))
-    .then(()=>load('./cuf-imp1636-chunk-01.js?v=1.0.38'))
-    .then(()=>load('./cuf-imp1636-chunk-02.js?v=1.0.38'))
-    .then(()=>load('./cuf-imp1636-chunk-03.js?v=1.0.38'))
-    .then(()=>load('./cuf-imp1636-chunk-04.js?v=1.0.38'))
-    .then(()=>load('./cuf-imp1636-loader.js?v=1.0.38'))
-    .then(()=>load('./dilutions-cuf-v6.js?v=1.0.38'))
-    .then(()=>load('./dilutions-card-ux-v5.js?v=1.0.38'))
-    .then(()=>load('./family-security.js?v=1.0.38'))
-    .then(()=>load('./clinical-material.js?v=1.0.38'))
-    .then(()=>load('./iv-compatibility.js?v=1.0.38'))
-    .then(()=>load('./iv-catalogue.js?v=1.0.38'))
-    .then(()=>load('./iv-compatibility-ui-v2.js?v=1.0.38'))
-    .then(()=>load('./iv-source-evidence.js?v=1.0.38'))
-    .then(()=>load('./clinical-restructure.js?v=1.0.38'))
-    .then(()=>load('./drug-reference-v2.js?v=1.0.38'))
-    .then(()=>load('./medication-info-v3.js?v=1.0.38'))
-    .then(()=>load('./medication-info-v4.js?v=1.0.38'))
-    .then(()=>load('./medication-info-ux-v5.js?v=1.0.38'))
-    .then(()=>load('./medication-brands-v1.js?v=1.0.38'))
-    .then(()=>load('./medication-stability-cuf-v1.js?v=1.0.38'))
-    .then(()=>load('./medication-safety-cuf-v2.js?v=1.0.38'))
-    .then(()=>load('./medication-code-policy-v1.js?v=1.0.38'))
-    .then(()=>load('./ecg-photo-assist.js?v=1.0.38'))
-    .then(()=>load('./ecg-image-analyzer-v2.js?v=1.0.38'))
-    .then(()=>load('./ecg-image-analyzer-v3.js?v=1.0.38'))
-    .then(()=>load('./clinical-legacy-shims.js?v=1.0.38'))
-    .then(()=>load('./category-organizer.js?v=1.0.38'))
-    .then(()=>load('./expense-recurring-engine.js?v=1.0.38'))
-    .then(()=>load('./expense-center.js?v=1.0.38'))
-    .then(()=>load('./expense-recurring-ui.js?v=1.0.38'))
-    .then(()=>load('./theme-audit-fixes.js?v=1.0.38'))
-    .then(()=>load('./search-enhancer.js?v=1.0.38'))
-    .then(()=>load('./subtab-navigation-fix.js?v=1.0.38'))
-    .then(()=>{
-      const d=document.getElementById('infDrug'),u=document.getElementById('infDU');
-      if(d&&u)d.addEventListener('change',()=>{u.value=unitDefaults[d.value]||'mcgkgmin'});
-      window.fccRebindSubcategories?.();
-      window.fccSanitizeMedicationCodes?.();
-      setTimeout(()=>window.fccRebindSubcategories?.(),120);
-      setTimeout(()=>window.fccSanitizeMedicationCodes?.(),300);
-      setTimeout(()=>window.fccRebindSubcategories?.(),600);
-    }).catch(()=>{});
+  const V='1.0.39';
+  const modules=[
+    'theme-switcher.js','navigation-core.js','perfusion-reference.js','critical-care-dilutions-v2.js','dilutions-ux-v3.js',
+    'dilutions-hba-chunk-01.js','dilutions-hba-chunk-02.js','dilutions-hba-chunk-03.js','dilutions-hba-chunk-04.js','dilutions-hba-chunk-05.js','dilutions-hba-chunk-06.js','dilutions-hba-chunk-07.js','dilutions-hba-chunk-08.js','dilutions-source-hba-2018.js','dilutions-document-db-v4.js',
+    'cuf-inf2213-data.js','cuf-inf1030-chunk-01.js','cuf-inf1030-chunk-02.js','cuf-inf1030-chunk-03.js','cuf-inf1030-chunk-04.js','cuf-inf1030-chunk-05.js','cuf-inf1030-chunk-06.js','cuf-inf1030-chunk-07.js','cuf-clinical-docs-loader.js',
+    'cuf-imp1636-chunk-01.js','cuf-imp1636-chunk-02.js','cuf-imp1636-chunk-03.js','cuf-imp1636-chunk-04.js','cuf-imp1636-loader.js',
+    'dilutions-cuf-v6.js','dilutions-card-ux-v5.js','family-security.js','clinical-material.js','iv-compatibility.js','iv-catalogue.js','iv-compatibility-ui-v2.js','iv-source-evidence.js','clinical-restructure.js','drug-reference-v2.js','medication-info-v3.js','medication-info-v4.js','medication-info-ux-v5.js','medication-brands-v1.js','medication-stability-cuf-v1.js','medication-safety-cuf-v2.js',
+    'ecg-photo-assist.js','ecg-image-analyzer-v2.js','ecg-image-analyzer-v3.js','clinical-legacy-shims.js','category-organizer.js','expense-recurring-engine.js','expense-center.js','expense-recurring-ui.js','theme-audit-fixes.js','search-enhancer.js','subtab-navigation-fix.js'
+  ];
+  let chain=Promise.resolve();
+  modules.forEach(name=>{chain=chain.then(()=>load(`./${name}?v=${V}`))});
+  chain.then(()=>{
+    const d=document.getElementById('infDrug'),u=document.getElementById('infDU');
+    if(d&&u)d.addEventListener('change',()=>{u.value=unitDefaults[d.value]||'mcgkgmin'});
+    window.fccRebindSubcategories?.();
+    setTimeout(()=>window.fccRebindSubcategories?.(),120);
+    setTimeout(()=>window.fccRebindSubcategories?.(),600);
+  }).catch(()=>{});
 })();
