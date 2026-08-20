@@ -2,7 +2,7 @@
   if(window.__fccVersionSyncV1Installed)return;
   window.__fccVersionSyncV1Installed=true;
 
-  function version(){return String(window.FCC_RUNTIME_VERSION||document.documentElement.dataset.fccRuntimeVersion||'1.1.6').replace(/^MASTER\s*/i,'').trim()}
+  function version(){return String(window.FCC_RUNTIME_VERSION||document.documentElement.dataset.fccRuntimeVersion||'1.2.0').replace(/^MASTER\s*/i,'').trim()}
   function ensureCard(page){
     let box=document.getElementById('fccRuntimeVersionCard');
     if(box)return box;
