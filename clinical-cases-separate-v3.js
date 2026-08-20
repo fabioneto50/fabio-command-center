@@ -7,10 +7,10 @@
     const page=document.getElementById('page-clinical'),sepsis=document.getElementById('clin-sepsis');if(!page||!sepsis)return false;
     let section=document.getElementById('clin-cases');
     const merged=document.getElementById('merged-clin-cases');
-    if(!section&&merged){
-      section=document.createElement('div');section.className='sub';section.id='clin-cases';
+    if(merged){
+      if(!section){section=document.createElement('div');section.className='sub';section.id='clin-cases';sepsis.after(section)}
       const body=merged.querySelector('.clin-merged-body');while(body?.firstChild)section.appendChild(body.firstChild);
-      sepsis.after(section);merged.remove();
+      merged.remove();
       [...sepsis.querySelectorAll('.clin-inner-nav button')].forEach(b=>{if(/^Casos$/i.test(b.textContent.trim()))b.remove()});
     }
     if(!section)return false;
@@ -21,6 +21,6 @@
     window.fccRebindSubcategories?.();
     return true;
   }
-  const old=window.openClin;window.openClin=function(k,...a){if(String(k)==='cases'){const direct=window.__fccDirectGo||window.go;direct?.('clinical');setTimeout(()=>{const t=[...document.querySelectorAll('#page-clinical>.tabs>.tab')].find(x=>targetOf(x)==='clin-cases');t?.click()},0);return}return typeof old==='function'?old.call(this,k,...a):undefined};
-  let tries=0;const boot=()=>{tries++;if(ensure()||tries>80)return;setTimeout(boot,120)};boot();
+  const old=window.openClin;window.openClin=function(k,...a){if(String(k)==='cases'){const direct=window.__fccDirectGo||window.go;direct?.('clinical');setTimeout(()=>{ensure();const t=[...document.querySelectorAll('#page-clinical>.tabs>.tab')].find(x=>targetOf(x)==='clin-cases');t?.click()},0);return}return typeof old==='function'?old.call(this,k,...a):undefined};
+  let tries=0;const boot=()=>{tries++;if(ensure()){setTimeout(ensure,350);setTimeout(ensure,1000);setTimeout(ensure,2200);return}if(tries<=80)setTimeout(boot,120)};boot();
 })();
