@@ -16,6 +16,8 @@
   function addStyles(){
     if(document.getElementById('fcc-personal-hub-style'))return;
     const s=document.createElement('style');s.id='fcc-personal-hub-style';s.textContent=`
+      /* Old main categories are internal children of Pessoal only. */
+      nav.side .nav[data-page="emergency"],nav.side .nav[data-page="comms"],nav.side .nav[data-page="garage"],nav.side .nav[data-page="research"]{display:none!important}
       #page-personal .personal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:14px}
       #page-personal .personal-area{position:relative;text-align:left;border:1px solid var(--line);border-radius:18px;background:linear-gradient(145deg,var(--panel),var(--panel-2));padding:15px;cursor:pointer;color:var(--text);transition:.14s ease;min-height:150px}
       #page-personal .personal-area:hover{border-color:rgba(98,212,255,.38);transform:translateY(-1px);background:linear-gradient(145deg,var(--panel-2),var(--panel-3))}
@@ -49,9 +51,13 @@
     }));
   }
 
+  function stripLegacyMainNav(side){
+    CHILDREN.forEach(x=>side.querySelectorAll(`.nav[data-page="${x.page}"]`).forEach(n=>n.remove()));
+  }
+
   function ensureNav(){
     const side=document.querySelector('nav.side');if(!side)return false;
-    CHILDREN.forEach(x=>{const n=side.querySelector(`.nav[data-page="${x.page}"]`);if(n)n.hidden=true});
+    stripLegacyMainNav(side);
     let personal=side.querySelector('.nav[data-page="personal"]');
     if(!personal){
       personal=document.createElement('button');personal.className='nav';personal.dataset.page='personal';personal.type='button';personal.innerHTML='<span class="ni">◎</span><span>Pessoal</span>';personal.addEventListener('click',()=>window.go?.('personal'));
@@ -59,6 +65,16 @@
     }
     const settings=side.querySelector('.nav[data-page="settings"] span:last-child');if(settings)settings.textContent='Definições';
     return true;
+  }
+
+  function watchNav(){
+    const side=document.querySelector('nav.side');if(!side||side.dataset.personalNavObserved==='1')return;
+    side.dataset.personalNavObserved='1';
+    let queued=false;
+    new MutationObserver(()=>{
+      if(queued)return;queued=true;
+      queueMicrotask(()=>{queued=false;stripLegacyMainNav(side);ensureNav()});
+    }).observe(side,{childList:true});
   }
 
   function simplifyHome(){
@@ -93,7 +109,7 @@
 
   function install(){
     if(!document.querySelector('nav.side')||!document.querySelector('.layout main'))return false;
-    addStyles();ensurePage();ensureNav();simplifyHome();simplifyBrand();wrapNavigation();renderCards();
+    addStyles();ensurePage();ensureNav();watchNav();simplifyHome();simplifyBrand();wrapNavigation();renderCards();
     return true;
   }
 
