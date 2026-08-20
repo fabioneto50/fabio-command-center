@@ -1,55 +1,151 @@
 {
-  "updatedAt": "2026-08-20T16:00:00Z",
+  "updatedAt": "2026-08-20T16:06:54.914636Z",
   "health": [
     {
-      "title": "OMS diz que surto de Ébola no Congo ainda pode ser controlado em três meses",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-congo-ebola-outbreak-can-still-be-brought-under-control-within-three-2026-08-18/",
-      "source": "Reuters",
-      "publishedAt": "2026-08-18T00:00:00Z"
+      "title": "diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXRteFJwNTBXaFBDT3BqR1V1MzlNcjR1VzNZM2ljNWFUM3NYZWhfWkFZR0JZRDlZckM3NEFEejFMQXNINE1fWFhCZ0lrWUFFVnNKMVMwRi12Z2FzX2g4ODBjLXN1am9ZTXVQMFVuR1RTZWxWQ1ZScFFYS1dfSXZ1TWZqWEdPWHJfWGZNLUNGbVVvLXVNSjBCcGgxWWFqOWl1dGFJZUM4S3FCVTRsaGVzQUFB?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-08-20T13:09:43Z"
     },
     {
-      "title": "França registou 1.243 mortes em excesso durante as vagas de calor de julho",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-recorded-1243-excess-deaths-during-july-3-july-22-heatwaves-2026-08-19/",
-      "source": "Reuters",
-      "publishedAt": "2026-08-19T00:00:00Z"
+      "title": "Práticas de clareamento da pele acendem alerta de saúde pública global - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNal9mUFZJcXNtb1ZqNjhBOGI3QWZ3MmEtb0FCaEZrX05weVBGR29pM2ItbzRzTDFoQzI4QTJkQWwwS240TWc4eWpSeERmZGhWUG9VTG56dURLby1ZdXJ3UDZiWjRnQ09YaVotdmRTem50SlBGdHlhT1JfeE9NVnFTejhOR28ycUxsLUZUOHl0REJ2WUJFSGFtT0h1RV9rTWVKY3YxelNsRnFsem0zNE56VXJR?oc=5",
+      "source": "Medscape",
+      "publishedAt": "2026-08-20T13:00:15Z"
     },
     {
-      "title": "Ataques a cuidados de saúde em zonas de conflito ultrapassam quatro por dia em 2026",
-      "url": "https://www.reuters.com/world/asia-pacific/attacks-healthcare-conflict-zones-averaging-more-than-four-day-2026-world-health-2026-08-14/",
-      "source": "Reuters",
-      "publishedAt": "2026-08-14T00:00:00Z"
+      "title": "OMS pede mais soberania sanitária para África face a cortes globais - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRWUkF1czZ0dTgtZDRnR2NIY24xQkcwbExhd0ZXempVT2UzQ3I4MW5jQkxnOGZDZmxON1p0eGwydUZ1QTFCV2lTQkJ1OC1WLVJhTEtTT0F4ODNRU3FBWlZQWFhIckRxTG1CN3kxUkdnSGh0X0JtV3lSVFlCMmgzMVk0WFdId2JNRXhRSDloRHUyc0o4WlU5WVpuMWtIOWw5b1NHUFlNbVhnR0VjQUl1c0I4eTc?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-08-20T11:40:27Z"
     },
     {
-      "title": "Ébola por vírus Bundibugyo na República Democrática do Congo",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615",
-      "source": "OMS",
-      "publishedAt": "2026-08-14T00:00:00Z"
+      "title": "Galeria de Renzo Piano quer melhorar a saúde pública da Grécia com três hospitais inspirados na natureza - 2 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNTW1Vc3FYTmdTYTdWQ0c4TXFlYW1NYWdHOFkzWlp1YkVwVXlsUnlyTzZHU1V6bm96bFNMTm92LUtXU3Z4MjBXbFFXTUwzNWlMYkRXcHNKa2tXRGNJOTF2dWw1SWl0SEpPYXptQ3ZtOS0yYXgyZTdONWdUdlFLdXBKUnNPV2ZJSHhXVy10Wm9DaHU0UXh5MGwtSGtjckR5ZmFCR3VqZ0NLVjUzYlZjbGVWNjk2S2F1MlJqd1lvLVJWRm9ZMnRkb2l3dnprU054UDkzZjdYaUl6SU9lV2VBNW1WbkItV2YtcnZuSkNlNG1IeURRcEk3cEZPUW5JVGo1MUQ0QkdEeGlFTUJPMzV5dzlBdTZSV1hqeUhrT3BCUk5Fek1yN2pocFhscDJYUGhWN01ONjlGMW9TOWdqZ0dPTTAxbllUeUliUlJ2aGVoUnF3SlB5LWRmZ1NuTXhPVW5PUGs3TjQtWkk2b09VckJPT1Y2TTlzYS00bXlHcEtSZWYxT1Vva2JRRThGbThPY0ZXVk0?oc=5",
+      "source": "ArchDaily",
+      "publishedAt": "2026-08-20T03:08:05Z"
+    },
+    {
+      "title": "Ébola ultrapassa 5.000 casos na RDCongo e OMS alerta para propagação - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSm9abTdkUno2VzhrVjJqQlNqcURKcTA3Z3k4Z0M4cHBTSkZPOG1XMWNPdGFxQ21zZFc0UGhyZGlCQk42NXREbG5HYTNFVzZOeGZmRTMwelVFSF8xMjF5THcyLWQ1dmdhZWVFNTNvdk82MHlZeFE3OThQWDZrUzA4a1d2SnhVWmZJak93SUNKSzhkanJwalhCaXF2OF9FdzVNOW1BTw?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-08-20T05:54:11Z"
+    },
+    {
+      "title": "Almada, uma questão de saúde pública - Observador",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4QjhwOVF2RlowcTdvSjZHNUZmYU16TVFxdXMwTDBMTU9qNGltWlVJLVBTOF83MU4zRmlKSVZIdFcwdnAtWjc4bmgwVzJsbFZvVDZLS3EyYVZROXJXZHBDRGNkUEwtcjZ2c3VieXNZQ0ZqbUpN?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-07-27T07:00:00Z"
+    },
+    {
+      "title": "OMS reforça o papel dos governos na garantia de água potável segura - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95eF9vS3NwTDFxdXU4Y1d0Y1ptY0oyQnJGOUpZdGVrSndqZ1VmbGtLN1BmNk1OQ1lQYXZ3ZHAxZFQ2bGtBLTJKNm1oR3UxX2tzQVpadkNQYw?oc=5",
+      "source": "UN News",
+      "publishedAt": "2026-08-18T04:01:00Z"
+    },
+    {
+      "title": "ENSP NOVA e ANEM reforçam ligação entre Medicina e Saúde Pública - Escola Nacional de Saúde Pública",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXc2SUU0RDRyV091RXdQYTd3Z1ZRU2lTYjJ0am9aVXlqNGtORnJoVkh3ZzJyd0xNU1AzOXhwRGlxaE51ZHg4UlV4eS1LYUJLRm5jcXl1djVTNndqWTNyWFNMRlM1U2x3ZDZXcVYxMWdaOHNtN2VCeDl0TVBvOVItTGtZMHF2YlFtMkY3SHNrTnZneGc?oc=5",
+      "source": "Escola Nacional de Saúde Pública",
+      "publishedAt": "2026-08-13T05:01:18Z"
+    },
+    {
+      "title": "Saúde Pública da ULS Viseu Dão-Lafões deixa medidas para combater temperaturas elevadas - Jornal do Centro",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQk8ydlFmTHp6MUtVVjZXUkIyOGVHTE4zRGw5QXpFZTlPSWQya0djbk8xZ25YUlhHRHNRMXpPejJwdWZsclZWdTdVS3podElrLVRpQlYxNGxkUlVCUXNWMXJuemhPOWJrc1g0Rmp5MVlUMlJwTDJnbnEycmNDeXlHTHlNX1ZxMU9CR2ZlT2VLXy1URnRmcGpjQjVIMVJsNVdzRXF1RzBkbGs5S0VOTVBKaFh3NjNXNFVLYmc?oc=5",
+      "source": "Jornal do Centro",
+      "publishedAt": "2026-08-18T12:15:44Z"
+    },
+    {
+      "title": "MÉDIO TEJO – Está acionado o alerta vermelho de saúde pública devido ao calor extremo - Rádio Hertz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnlmQ29CcXRFeWJ1cFlFVGtIZDR3MjRoTEpPWXBMejdlM3RzSzJubVpKLWJ6V25fNVktT1p3UVVMal8yY0lrNmU2bmxlcnBDcVozMDFSMm0yRE9fcVlzUXgycTNpNm13VmxlajBRVElsZ2JoNzdkTDFUV0tSNlZkdW56ZTJhNnNZWlBqYi12ZzVsQlFMWnA4clJGZUZUZFVwRUV5blE0REdxZGdx?oc=5",
+      "source": "Rádio Hertz",
+      "publishedAt": "2026-08-16T14:25:43Z"
+    },
+    {
+      "title": "Ébola: OMS disponibiliza 70.000 doses da vacina Ervebo - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXd5amxReXBJOUNydzZ4ZVZmRGhteUxvSXVZWW4tWW9JQUY2TmR1cE1sZ1NZcmJZN0hBMmp2TFlLT2VGaFlXSkxCalNKRGo2YVl4eVdOU3lCWTBINWZzdGhqS2c0M3ZxMXVkakdYdHo2Tk9NOVlSTUJQeFBIRk1lRUhYX0RHU2tmU21HeG43SVpNVHdvMzFheWJINjNyejEy?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-08-20T13:45:03Z"
+    },
+    {
+      "title": "OMS alerta: longevidade das europeias oculta saúde frágil e disparidades - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mazUwVTR2UEE1N0dpSHNOMEV6NnpqYVN2RWs5UExQNGdmLWpob3VEVW5YalpGZjhQRS10N3dDeGZwdDg5RmdLYlhkcUV4WC1lbEc5bVZjSQ?oc=5",
+      "source": "UN News",
+      "publishedAt": "2026-08-19T15:47:16Z"
     }
   ],
   "world": [
     {
-      "title": "Irão rejeita ameaças económicas dos EUA entre novos desenvolvimentos no Médio Oriente",
-      "url": "https://apnews.com/article/bbc5df71e56f000515edef0817468c9d",
-      "source": "AP",
-      "publishedAt": "2026-08-20T00:00:00Z"
+      "title": "Mulheres chegam à reforma com pensões mais baixas. Grupo de trabalho propõe mecanismos para compensar desigualdade - 24 Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc3Vad3VET0pEX21vUEFrTUNid2J1RlFGS0I4OFR0MmhTMkdaUE5QMnA0Yl81LTNBVlBDU3VzYzlKcUt6RklHZk1NUjZacWtJb21PTU83SGpkZUo1Tms0bnhnOUJsdzJfWnZlbVJxR1d2NUp5elBCOW5leGVORzBURzNlUUhoSTFhTktwdnF0WWd5Z3Y1VTRIQk1pOVR3WjYwZnYzMTloSzZaaHZEQnI2OWpOUTZpN1RaalVDcXltOUxoeWtaWUdWZmpxd0NfQ0lENllJMmZrZFBoWVJuMThtSWhfUVNvazFJVlVqNkRfSno?oc=5",
+      "source": "24 Notícias",
+      "publishedAt": "2026-08-20T09:52:43Z"
     },
     {
-      "title": "Ataques russos matam pelo menos 16 pessoas na região de Kyiv",
-      "url": "https://www.reuters.com/world/ukrainian-capital-kyiv-under-attack-by-russian-ballistic-missiles-mayor-says-2026-08-19/",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T00:00:00Z"
+      "title": "Problemas no INEM. Presidente do instituto culpa \"anos de estagnação\" e desinvestimento - RTP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTDlKa2xTc0YzY2tIVm9RM2JFblJtdkhUclQ1QWwyZ0dFWUFMZG1XeFVjYTBLRjBwa18xdURfeFZlcjdrZEpzelhiMl9nR0QxQmdFYXVialJnRzBqUFNKeGZlRVJ2dUlyNFQ3NnZyMWRIUk5mNVNrLUNRUG0zcVN6Y01vVmU4VDJGRGFzVWhnTVdiZTFlUThsN0lUWjJSVmZLc2RsejllMU5qekEtNUNidkdTUlJqSnBhaDh4OWlFMWVxYnBO?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-20T13:51:22Z"
     },
     {
-      "title": "Kremlin diz que apelo a eleições mostra divisões políticas em Kyiv",
-      "url": "https://www.reuters.com/world/kremlin-says-ousted-ukrainian-ministers-call-elections-shows-splits-kyiv-2026-08-20/",
-      "source": "Reuters",
-      "publishedAt": "2026-08-20T00:00:00Z"
+      "title": "Adeus, calor? Próximos dias podem ter chuva e temperaturas abaixo dos 10ºC em algumas regiões do país - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTDY4bEVQUV9YT3RMY1lqTlF3b0t2RzA2eEd0Nm5UNFYzNDlxZkFodFNIM0U2SnczMFp1UHc5VXY1dDZZalhJNS1YU09PTDhXUWM5eE9wWnVOTTl0OE1RYUJ1Z28xeHZiblhIaDJRbFRWSlV0M285c01VTmEtTEdWN29qaEYwZGdxSVdGYnd3RlBfeFN5bFlYX3FGUzlRaUlZUFBRNnBkcFpiZFdpWDQ5NjFqbnQxeFE3Y214X2ZlaU01X2ozZmFSWVlFRVY0VWVURXIzb19kaWhqR083QkppdDlqMDZhd1pqbEl3Vi1yS1lpd00?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-20T11:17:03Z"
     },
     {
-      "title": "Ministro dos Negócios Estrangeiros chinês visita a Coreia do Sul",
-      "url": "https://www.reuters.com/world/china/chinas-foreign-minister-wang-yi-visit-south-korea-august-19-20-2026-08-18/",
-      "source": "Reuters",
-      "publishedAt": "2026-08-18T00:00:00Z"
+      "title": "\"Nunca me vai deixar\". Quem é Natalie Harp, a \"impressora humana\" de Trump? - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUtRbG1iUjY3Z0oydm1nZWhnRzlqcFFQNkVIS3ZoRTVxNS1IUFMxZHNvNndsUTd1MmZVdEJpNGFKOER2bmNqTFl2aTlZLXJNWHZlb0c1Y250U2tpOE81VmJTYWF5YmRzY1V2czRYS2xsYjJQNjdJNlJQNnpsUTNBMThLNmxTdFNrTUFZQVBSSGxyZ1BaeHJHZWpqekNmTHZLczlsVzUzVUV0R2RN0gGgAUFVX3lxTFBWMkdPcDFGb3g0eVB5WWpOU2FHTEpmZ2NhU1k0MF9hT1ViNy1ub0Jld0Y0aVRmS0V3ZkgyVHU5dHA5RlZocW10Sm1zVFh4bUJHQzBJdHZTeUlpMXQ5QXR0eDl6bTV4cEZhNjZaZzNFRmxyNGtfa212OG51cTlRQmdSWTRYbnhoRkwzeHFMbktKQ2JJc3doYlRmWjJNRVQ3SUg?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-08-20T09:39:00Z"
+    },
+    {
+      "title": "Dez maiores beneficiários privados do PRR ainda têm a receber 41% dos apoios - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMElLWmFfenJybGtDWDFIYlQxcUtmUWlsMWxrUkx1cjcxcl9Bajh1Zkh1dUFfVTBEVWVzNGJKcHpoTHYzeWxyOTB1TWNadEFoU0EzbExJTkM5bDd1NnJlemVMTzdPVnpTTHNvbExzSUtBX0Z4SHVUUjZMU2J2OWo5VGp5YnAyTXFDX0JoVDk1SDB4M0d2ZFdJdmdSelhIeUNnZUlhOFZKeUFGLU5iYVp1eVdwcFF4VXowMnRSNmg3Rm53Zw?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-20T06:30:00Z"
+    },
+    {
+      "title": "A brigada ucraniana que publica a morte de soldados russos - Observador",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbThGZGRQQkstTzNXWDVOeVVLbXk3RWtoSTd3ZzAtRVdncXdZOVFwLWUxNGNzLXBHREZRVk1VV1NwTEMtYURjUUFZT3hfeGh0bVRacWNFQWF0UWJ6SWpRek9wdlFYS1RBRkVEaEphX0NIYUJIY29uV1otbDlfU0tBOFlsU0E3UUQxS3RoTGNuNm0wU1RuOTdDcHJqcVdwT2JKbW01UEUtT1M0MlRZNElJTkV3V3BBRkNZOHZFQTNTNUtvRlVSU3ZWUlg0V1F4dUF0YnBuRTJrQWFaeklWa0RRelYzUmE5d2tTaVUyeEo1LWxaQQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-19T20:10:47Z"
+    },
+    {
+      "title": "Três bombeiros de Arouca feridos em acidente estão nos cuidados intensivos - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2doTlN4QnRJZDlNRHdudXlsMTdWUENqdWh4aWszS3l1M3dva0wxeGRZc09fbnFfdWljNENhVUVYaUkyUGxaS2Znek5fOFZ5UW8wbkJxZzZLaVFxSkN4NzlQT3VyVVNtMEh4YldQYUZsZ2w0RnhobkFDX245Y0RCY1JERkZOZ2xhdzI5MWh6ZW9FenoxTGIzSmtWRUcwS2diZWFTamxDZTZCM2ZFQWxCeHlhNNIBqAFBVV95cUxQLTJRc0Y4SE1WbnpQQVZSTDY4cF9uTFdJWlg2OGt1Zll3aFZYS25ST3hNMTllTTdtQTNGY0kwYTRMOE5UX3NYMlAwdEgxY2NIbkI0UGZnQmNmUEJYV0hpQ0o5WFdIR2puOVU3MUpSVmMyNmJ3eGJaRXowX1hhOUJhYmNTeV81VGVTQjhxTWF3eTRqTmJRZmdvWHZQMUg3aUJCTUlJSUF6aDI?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-08-20T10:54:00Z"
+    },
+    {
+      "title": "Principais incêndios em fase de resolução. Operacionais evitam reacendimentos - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEFvTmdjODNVU0h1U2EtRGVFYVBoQUUzOGNYaFRMbXRwWG1wU3Jxa0pEZGU0OXhmLWd5eXFyUkNKOWdSUWlNR0t1QmVfaWVUc3BZSWRoWW1Na0ZmaUJCUk9ncFhFUzMtc3Zlb0lpQ3ZOcDRWUzJIYmlDR0ZPbFB4MEZPWlNsUm1FUHlUb2lGR1hobFNldG1XRU1EMGtITU1WQXB4b2tDeUR0aVpZNlZBX1cwWG5pMzQzUUE?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-20T13:49:28Z"
+    },
+    {
+      "title": "PSP interceta e identifica homem que tentou atravessar Ponte 25 de abril numa trotinete elétrica - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb2hISnNOaldDMHFkQXIxRXVITF9SZDkzTk01YXUtWWFUdmFkRHNhVHgyQzlCVE5iM0MzTkZkenhoY2FkOFozcVYxWXRtbm1LUzlwQnRQLXVKRFhmS19GOUFmVlAzazJJNVpIQXhpS1lCdW5sU0dDdnBJV01ScmhOdTJCcFdXYXRwMkhEbXgtdzhNZzlRNVRiY2c2OGE1NF94dmhJWnN4dW9RNmFjaTJNVjVocTh5TlRidzZkQzFIekg5bUdPY3lsTmUwdXlXX1RkSUZURng2RG04emxP?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-20T08:51:54Z"
+    },
+    {
+      "title": "Coração bateu a mil nas mordomas vaidosas do traje e ouro de Viana do Castelo - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHlEQlJiTDdyR1BjU3ZVSU41c1RNZkZVekRJbzM1NS1sOUNxWEpJbGN0T2dMQTNTUjZxY0VrekFvUXVrcEtmRG0zNXNZaHRhYnFVSVQ1aHBjM1dWSkJTdlRPMDVhSEp3LUhocnFLVFBPWXhMR2xucjFhaHhnUEJYcDl3dk14UVRWTnNoZE5qdFk0bEpNSWpiaERXdWpBdGlnNUQyQzdLeUtxTUQ2b2YxakNUTHoxdDjSAawBQVVfeXFMT1BvcWZvSWxPREZ6S3RnSUphQlhPZlhDRHlkSUE5QzNaRDhoY3kteUJEZWJmZnFZSnBBQUk0OUprcDJQTDBTT2FEdFpXME9NeTduMC1wMVpQRTZ6cURqWWFDWFBCVElqb1JZQ3VfTkF6aEdvbWFucTNHaC1aNUxvR1FUNWhocTFaTkZhUUVUM3NOOHJySW5qc2dtLVIxa09MTHhGUHJGalF1UERzVA?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-08-20T09:12:00Z"
+    },
+    {
+      "title": "Bruxelas espera que Espanha devolva a Marrocos todos os migrantes que entraram ilegalmente em Ceuta - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFBMYlp1aXdBNDB5NHV1dm9WNW92N3g1RmJLUmZFMzNqYzA2TVFqdEFjSFZxM1JIaTZYRDVST05scGVLOXhWVW9WN2ZXXzEwdDZwZW1iSWhYdG5fWHNKZjZWd0hwNHpZMkNkcWthMExLRkFzYWk4SkxFY19iVWNDOXRhaUZWZ1E4eXZxdDRmMzRxMy10RnFrMGFIajhqZWM3Z2t1Q0I3OEtPT2VBMXA1Mm84ZDAwdWlzYWdLYUNPa2ZiZGhnVDBaekpaVQ?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-08-20T09:45:26Z"
+    },
+    {
+      "title": "Donald Trump anuncia nova ofensiva económica ”mais devastadora” contra o Irão - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZzhBVm5WLVhMX3NEaWxtamdWdnhueE9HbHc2YlpKZWM4T28ybmV3bF8xV3pNcVFBVkdkS3oxMlBMYURJSE45bTZFQlUwMnhPREI5bld6dHoxbWQ2NmFVQV9OLUxTOERkOThyTGFuYjZnZTNYRnh0Y0t5Z3BXUW1XSTdjMEpTVWFTRGd4Qk1FWVNpeGlRQlRxQmJsVmdyN0V4V2JUUC1OMjZHaHIzQ2RmQUhockkzOWVWSU9UdDFmRTFFdklaWnJsSG44ZDJ1ZUZWSlNhR2FDYw?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-20T09:49:12Z"
     }
   ]
 }
