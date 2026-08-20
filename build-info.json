@@ -1,16 +1,16 @@
 {
-  "appVersion": "MASTER 1.1.0",
+  "appVersion": "MASTER 1.1.1",
   "schemaVersion": 1,
   "contentVersion": "2026.08.20",
   "builtAt": "2026-08-20",
   "architecture": "stable-user-data + importable-content-packs + runtime-clinical-modules",
   "qa": {
-    "static_js_syntax": "RECHECKED FOR NEW RUNTIME MODULES",
+    "static_js_syntax": "REVIEWED FOR NEW RUNTIME MODULES",
     "duplicate_html_ids": "UNCHANGED STATIC HTML",
     "inline_handlers": "LEGACY + RUNTIME BINDINGS",
-    "numeric_regression_tests": "NOT RERUN FOR 1.1.0",
-    "runtime_browser_tests": "NOT RUN FOR 1.1.0",
-    "internal_diagnostics_runtime": "NOT RERUN FOR 1.1.0",
+    "numeric_regression_tests": "NOT RERUN FOR 1.1.1",
+    "runtime_browser_tests": "NOT RUN FOR 1.1.1",
+    "internal_diagnostics_runtime": "NOT RERUN FOR 1.1.1",
     "verified_at": "2026-08-20"
   },
   "canonical": true
