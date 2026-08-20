@@ -1,5 +1,5 @@
 {
-  "appVersion": "MASTER 1.2.0",
+  "appVersion": "MASTER 1.2.1",
   "schemaVersion": 1,
   "contentVersion": "2026.08.20",
   "builtAt": "2026-08-20",
@@ -8,9 +8,9 @@
     "static_js_syntax": "REVIEWED FOR PERSONAL PIN + HOME NEWS + WOUND PHOTOS + CASES 200 + AUTO THEME",
     "duplicate_html_ids": "UNCHANGED STATIC HTML + UNIQUE RUNTIME MODULES",
     "inline_handlers": "LEGACY + RUNTIME BINDINGS",
-    "numeric_regression_tests": "NOT RERUN FOR 1.2.0",
-    "runtime_browser_tests": "NOT RUN FOR 1.2.0",
-    "internal_diagnostics_runtime": "NOT RERUN FOR 1.2.0",
+    "numeric_regression_tests": "NOT RERUN FOR 1.2.1",
+    "runtime_browser_tests": "NOT RUN FOR 1.2.1",
+    "internal_diagnostics_runtime": "NOT RERUN FOR 1.2.1",
     "verified_at": "2026-08-20"
   },
   "canonical": true
