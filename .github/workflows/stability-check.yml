@@ -2,43 +2,85 @@ name: Stability check
 on:
   push:
     branches: [stabilize-1.3.0]
+    paths-ignore:
+      - 'stability-report.txt'
 permissions:
-  contents: read
+  contents: write
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: JavaScript syntax
+      - name: Full static audit
+        shell: bash
         run: |
-          failed=0
+          set +e
+          report=stability-report.txt
+          fail=0
+          {
+            echo "Fábio Command Center · MASTER 1.3.0 stability audit"
+            echo "Commit: $GITHUB_SHA"
+            echo "Generated: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo
+            echo "== JavaScript syntax =="
+          } > "$report"
           for f in *.js; do
-            node --check "$f" || failed=1
+            out=$(node --check "$f" 2>&1)
+            rc=$?
+            if [ $rc -ne 0 ]; then
+              echo "FAIL $f" >> "$report"
+              echo "$out" >> "$report"
+              fail=1
+            fi
           done
-          exit $failed
-      - name: Runtime references
-        run: |
-          python - <<'PY'
-          import re, pathlib, sys
-          hub=pathlib.Path('navigation-hub.js').read_text()
+          [ $fail -eq 0 ] && echo "PASS: all root JavaScript files parse with node --check" >> "$report"
+
+          python - <<'PY' >> "$report" 2>&1
+          import re, pathlib, collections
+          hub=pathlib.Path('navigation-hub.js').read_text(encoding='utf-8')
           names=re.findall(r"'([^']+\.js)'",hub)
           missing=[x for x in names if not pathlib.Path(x).exists()]
-          if missing:
-              print('Missing modules:', missing)
-              sys.exit(1)
-          print('Referenced modules:',len(names),'unique:',len(set(names)))
-          dup=[x for x in sorted(set(names)) if names.count(x)>1]
-          if dup:
-              print('Duplicate module references:',dup)
-              sys.exit(1)
+          dup=[x for x,c in collections.Counter(names).items() if c>1]
+          print('\n== Runtime loader ==')
+          print('Referenced modules:',len(names))
+          print('Unique modules:',len(set(names)))
+          print('Missing:',missing or 'none')
+          print('Duplicates:',dup or 'none')
+          html=pathlib.Path('index.html').read_text(encoding='utf-8')
+          ids=re.findall(r'''\bid=["']([^"']+)''',html)
+          iddup=[k for k,v in collections.Counter(ids).items() if v>1]
+          print('\n== Static HTML IDs ==')
+          print('IDs:',len(ids),'duplicates:',iddup or 'none')
+          if missing or dup or iddup:
+              pathlib.Path('.audit-fail').write_text('1')
           PY
-      - name: HTML id duplicates
-        run: |
-          python - <<'PY'
-          import re, pathlib, collections, sys
-          s=pathlib.Path('index.html').read_text()
-          ids=re.findall(r'\bid=["\']([^"\']+)',s)
-          dup=[k for k,v in collections.Counter(ids).items() if v>1]
-          print('Static IDs:',len(ids),'duplicates:',dup)
-          if dup: sys.exit(1)
-          PY
+          [ -f .audit-fail ] && fail=1
+
+          {
+            echo
+            echo "== Architecture risk scan (active + dormant files) =="
+            echo "MutationObserver occurrences: $(grep -l 'MutationObserver' -- *.js 2>/dev/null | wc -l) files"
+            grep -nH 'MutationObserver' -- *.js 2>/dev/null || true
+            echo
+            echo "window.go assignments:"
+            grep -nH -E 'window\.go\s*=' -- *.js 2>/dev/null || true
+            echo
+            echo "__fccDirectGo assignments:"
+            grep -nH -E 'window\.__fccDirectGo\s*=' -- *.js 2>/dev/null || true
+            echo
+            echo "Service Worker registrations:"
+            grep -nH -E 'serviceWorker\.register' -- *.js 2>/dev/null || true
+            echo
+            echo "Global Storage.prototype.setItem overrides:"
+            grep -nH -E 'Storage\.prototype\.setItem\s*=' -- *.js 2>/dev/null || true
+            echo
+            echo "setInterval occurrences:"
+            grep -nH -E 'setInterval\(' -- *.js 2>/dev/null || true
+          } >> "$report"
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- stability-report.txt
+          git commit -m 'Update MASTER 1.3.0 stability audit report' || true
+          git push || true
+          exit $fail
