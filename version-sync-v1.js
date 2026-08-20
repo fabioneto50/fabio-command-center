@@ -1,7 +1,7 @@
 (()=>{
   if(window.__fccVersionSyncV1Installed)return;
   window.__fccVersionSyncV1Installed=true;
-  function version(){return String(window.FCC_RUNTIME_VERSION||'1.1.3')}
+  function version(){return String(window.FCC_RUNTIME_VERSION||'1.1.4')}
   function sync(){
     const v=version();document.querySelectorAll('.master-chip').forEach(el=>el.textContent='MASTER '+v);
     const page=document.getElementById('page-settings');
