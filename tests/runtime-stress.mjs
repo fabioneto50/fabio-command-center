@@ -14,7 +14,11 @@ for(const [name,type] of engines){
 
   await page.goto(base,{waitUntil:'domcontentloaded',timeout:30000});
   await page.waitForFunction(()=>window.FCC_RUNTIME_VERSION==='1.3.0'&&window.FCCNavigation&&window.FCCDiagnostics,{timeout:30000});
-  await page.waitForFunction(()=>window.FCCDiagnostics?.stats?.().moduleOK>=70,{timeout:45000});
+  await page.waitForFunction(()=>window.FCCDiagnostics?.get?.().some(x=>x.type==='runtime-ready'),{timeout:60000});
+  const initial=await page.evaluate(async()=>({stats:window.FCCDiagnostics.stats(),sw:'serviceWorker'in navigator?(await navigator.serviceWorker.getRegistrations()).length:0}));
+  assert(initial.stats.moduleErrors===0,`${name}: module failures during startup: ${initial.stats.moduleErrors}`);
+  assert(initial.stats.moduleOK>=84,`${name}: only ${initial.stats.moduleOK}/84 runtime modules loaded`);
+  assert(initial.sw===1,`${name}: expected exactly 1 service worker registration, got ${initial.sw}`);
 
   // Private results must not leak before PIN unlock.
   const search=page.locator('#globalSearch');
@@ -81,6 +85,6 @@ for(const [name,type] of engines){
   assert(diag.stats.moduleErrors===0,`${name}: ${diag.stats.moduleErrors} module load failures`);
   assert(pageErrors.length===0,`${name}: page errors: ${pageErrors.join(' | ')}`);
 
-  console.log(`${name}: PASS · tabs=${tabCount} · modules=${diag.stats.moduleOK} · navigation=180`);
+  console.log(`${name}: PASS · tabs=${tabCount} · modules=${diag.stats.moduleOK} · serviceWorkers=${initial.sw} · navigation=180`);
   await browser.close();
 }
