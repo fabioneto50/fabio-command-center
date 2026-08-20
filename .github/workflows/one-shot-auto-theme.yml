@@ -1,0 +1,94 @@
+name: One-shot automatic theme 1.3.2
+
+on:
+  push:
+    branches: [fix-auto-theme-1.3.2]
+    paths:
+      - '.github/workflows/one-shot-auto-theme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply automatic theme and version 1.3.2
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          def replace_once(path, old, new):
+              p=Path(path); s=p.read_text(encoding='utf-8')
+              n=s.count(old)
+              if n != 1:
+                  raise SystemExit(f'{path}: expected one occurrence, found {n}: {old[:80]}')
+              p.write_text(s.replace(old,new,1),encoding='utf-8')
+
+          # Theme boot: scheduled theme unless a valid manual override is still active.
+          replace_once('theme-switcher.js',
+            "  let theme=valid(localStorage.getItem(KEY))?localStorage.getItem(KEY):'dark';",
+            "  const autoTheme=()=>{const h=new Date().getHours();return h>=8&&h<20?'light':'dark'};\n  const bootTheme=()=>{try{const x=JSON.parse(localStorage.getItem('fcc-theme-manual-until-v2')||'null');if(x&&valid(x.theme)&&+x.until>Date.now())return x.theme}catch(e){}return autoTheme()};\n  let theme=bootTheme();")
+          replace_once('theme-switcher.js',
+            "    c.innerHTML='<h3>Aparência</h3><p>Escolhe o aspeto de todo o Command Center. A preferência fica guardada neste dispositivo.</p><div class=\"actions\"><div class=\"fcc-theme-toggle\"><button type=\"button\" data-fcc-theme-choice=\"light\">Claro</button><button type=\"button\" data-fcc-theme-choice=\"dark\">Escuro</button></div></div><div class=\"tiny\" id=\"fccThemeStatus\" style=\"margin-top:8px\"></div>';",
+            "    c.innerHTML='<h3>Aparência</h3><p>Automático: claro das 08:00 às 19:59 e escuro das 20:00 às 07:59. Podes alterar manualmente; o automático retoma na próxima mudança de horário.</p><div class=\"actions\"><div class=\"fcc-theme-toggle\"><button type=\"button\" data-fcc-theme-choice=\"light\">Claro</button><button type=\"button\" data-fcc-theme-choice=\"dark\">Escuro</button></div></div><div class=\"tiny\" id=\"fccThemeStatus\" style=\"margin-top:8px\"></div>';")
+
+          # Automatic changes must never be persisted as manual preference.
+          replace_once('theme-auto-v2.js',
+            "  function apply(theme){if(typeof window.fccSetTheme==='function')window.fccSetTheme(theme);else{document.documentElement.dataset.fccTheme=theme;document.documentElement.style.colorScheme=theme}}",
+            "  function apply(theme){if(typeof window.fccSetTheme==='function')window.fccSetTheme(theme,false);else{document.documentElement.dataset.fccTheme=theme;document.documentElement.style.colorScheme=theme}}")
+
+          # Version bump, including cache-bust and Settings version sources.
+          replace_once('app.js', "const APP_VERSION='MASTER 1.3.1';", "const APP_VERSION='MASTER 1.3.2';")
+          replace_once('navigation-hub.js', "const V='1.3.1',ASSET='1.3.1-settings-version';", "const V='1.3.2',ASSET='1.3.2-auto-theme';")
+          replace_once('service-worker.js', "const CACHE='fcc-master-1.3.1';", "const CACHE='fcc-master-1.3.2';")
+
+          p=Path('index.html'); s=p.read_text(encoding='utf-8')
+          if 'MASTER 1.3.1' not in s: raise SystemExit('index.html: MASTER 1.3.1 not found')
+          s=s.replace('MASTER 1.3.1','MASTER 1.3.2')
+          s=s.replace('app.js?v=1.3.1','app.js?v=1.3.2')
+          if 'navigation-hub.js?v=1.3.1-settings-version' not in s: raise SystemExit('index.html: old navigation cache-bust not found')
+          s=s.replace('navigation-hub.js?v=1.3.1-settings-version','navigation-hub.js?v=1.3.2-auto-theme')
+          p.write_text(s,encoding='utf-8')
+
+          for path in ('version-sync-v1.js','version-system-health-v1.js'):
+              p=Path(path); s=p.read_text(encoding='utf-8')
+              if "'1.3.1'" not in s: raise SystemExit(f'{path}: fallback 1.3.1 not found')
+              p.write_text(s.replace("'1.3.1'","'1.3.2'"),encoding='utf-8')
+
+          p=Path('build-info.json'); s=p.read_text(encoding='utf-8')
+          s=s.replace('MASTER 1.3.1','MASTER 1.3.2').replace('fcc-master-1.3.1','fcc-master-1.3.2')
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Validate theme and JavaScript
+        run: |
+          node --check theme-switcher.js
+          node --check theme-auto-v2.js
+          node --check navigation-hub.js
+          node --check version-sync-v1.js
+          node --check version-system-health-v1.js
+          node --check app.js
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          b=json.loads(Path('build-info.json').read_text())
+          assert b['appVersion']=='MASTER 1.3.2'
+          auto=Path('theme-auto-v2.js').read_text()
+          switch=Path('theme-switcher.js').read_text()
+          assert "h>=8&&h<20?'light':'dark'" in auto
+          assert "h>=8&&h<20?'light':'dark'" in switch
+          assert 'fccSetTheme(theme,false)' in auto
+          assert 'fcc-theme-manual-until-v2' in switch
+          idx=Path('index.html').read_text()
+          assert 'MASTER 1.3.2' in idx and 'MASTER 1.3.1' not in idx
+          assert 'navigation-hub.js?v=1.3.2-auto-theme' in idx
+          print('Theme 08:00–20:00 + manual override validation: PASS')
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- theme-switcher.js theme-auto-v2.js app.js navigation-hub.js service-worker.js index.html version-sync-v1.js version-system-health-v1.js build-info.json
+          git commit -m 'Schedule light and dark theme automatically'
+          git push
