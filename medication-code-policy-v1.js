@@ -34,16 +34,12 @@
         if(el.firstChild?.nodeType===Node.TEXT_NODE)el.firstChild.nodeValue='Código CUF ';
         return;
       }
-      if(code)el.textContent='Código CUF não indicado';
+      if(b||code)el.textContent='Código CUF não indicado';
     });
 
     document.querySelectorAll('#clin-lasa .cuf-imp-code').forEach(el=>{
       const code=(el.querySelector('b')?.textContent||el.textContent||'').match(/\b\d{9}\b/)?.[0]||'';
-      if(!code){
-        if(LEGACY_F.test(el.textContent||''))el.remove();
-        LEGACY_F.lastIndex=0;
-        return;
-      }
+      if(!code){el.remove();return}
       const b=el.querySelector('b');if(b)b.textContent=code;
     });
   }
