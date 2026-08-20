@@ -1,16 +1,17 @@
 {
-  "appVersion": "MASTER 1.2.1",
+  "appVersion": "MASTER 1.2.6",
   "schemaVersion": 1,
   "contentVersion": "2026.08.20",
   "builtAt": "2026-08-20",
   "architecture": "stable-user-data + importable-content-packs + runtime-clinical-modules",
   "qa": {
-    "static_js_syntax": "REVIEWED FOR PERSONAL PIN + HOME NEWS + WOUND PHOTOS + CASES 200 + AUTO THEME",
+    "static_js_syntax": "CHECKED FOR NAVIGATION STABILITY + SCOPED OBSERVERS + PWA RECOVERY",
     "duplicate_html_ids": "UNCHANGED STATIC HTML + UNIQUE RUNTIME MODULES",
     "inline_handlers": "LEGACY + RUNTIME BINDINGS",
-    "numeric_regression_tests": "NOT RERUN FOR 1.2.1",
-    "runtime_browser_tests": "NOT RUN FOR 1.2.1",
-    "internal_diagnostics_runtime": "NOT RERUN FOR 1.2.1",
+    "navigation_render_policy": "PAGE SWITCHES NO LONGER FORCE FULL LEGACY SECTION RERENDERS",
+    "mutation_observers": "GLOBAL SUBTAB/BODY ORGANIZER OBSERVERS REMOVED OR SCOPED",
+    "mobile_compositing": "BACKDROP BLUR DISABLED FOR MOBILE NAVIGATION OVERLAYS",
+    "runtime_browser_tests": "USER MOBILE VALIDATION PENDING",
     "verified_at": "2026-08-20"
   },
   "canonical": true
