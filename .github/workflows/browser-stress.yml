@@ -1,0 +1,39 @@
+name: Browser stress
+on:
+  push:
+    branches: [stabilize-1.3.0]
+    paths-ignore:
+      - 'browser-stress-report.txt'
+permissions:
+  contents: write
+jobs:
+  stress:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium webkit
+      - name: Start static server
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 > /tmp/fcc-http.log 2>&1 &
+          echo $! > /tmp/fcc-http.pid
+          sleep 2
+      - name: Stress test
+        run: |
+          set +e
+          node tests/runtime-stress.mjs > browser-stress-report.txt 2>&1
+          rc=$?
+          cat browser-stress-report.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- browser-stress-report.txt
+          git commit -m 'Update browser stress report' || true
+          git push || true
+          exit $rc
