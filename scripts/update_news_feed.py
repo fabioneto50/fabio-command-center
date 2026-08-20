@@ -13,6 +13,11 @@ from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
+try:
+    from googlenewsdecoder import gnewsdecoder
+except Exception:
+    gnewsdecoder = None
+
 OUT = Path(__file__).resolve().parents[1] / "news-feed.json"
 UA = "Mozilla/5.0 (compatible; FabioCommandCenter/1.0; +https://github.com/fabioneto50/fabio-command-center)"
 MAX_ITEMS = 12
@@ -70,6 +75,16 @@ def clean_text(value: str, limit: int = 380) -> str:
     return value
 
 
+def useful_description(value: str, title: str) -> str:
+    value = clean_text(value)
+    low = value.casefold()
+    if not value or value.casefold() == title.casefold():
+        return ""
+    if "comprehensive up-to-date news coverage" in low or "google news" in low:
+        return ""
+    return value
+
+
 def parse_feed(url: str) -> list[dict[str, str]]:
     root = fetch_xml(url)
     rows: list[dict[str, str]] = []
@@ -78,7 +93,6 @@ def parse_feed(url: str) -> list[dict[str, str]]:
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
-        rss_desc = clean_text(item.findtext("description") or "")
         source_node = item.find("source")
         source = ((source_node.text if source_node is not None else "") or "Google News").strip()
         if not title or not link:
@@ -93,7 +107,7 @@ def parse_feed(url: str) -> list[dict[str, str]]:
                 "url": link,
                 "source": source,
                 "publishedAt": iso_date(pub),
-                "description": rss_desc,
+                "description": "",
                 "image": "",
             }
         )
@@ -102,52 +116,78 @@ def parse_feed(url: str) -> list[dict[str, str]]:
     return rows
 
 
-def enrich(row: dict[str, str]) -> dict[str, str]:
-    out = dict(row)
+def resolve_source_url(url: str) -> str:
+    if "news.google.com" not in urllib.parse.urlparse(url).netloc:
+        return url
+    if gnewsdecoder is None:
+        return url
     try:
-        req = urllib.request.Request(
-            row["url"],
-            headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"},
-        )
-        with urllib.request.urlopen(req, timeout=8) as response:
-            final_url = response.geturl()
-            raw = response.read(800_000)
-            charset = response.headers.get_content_charset() or "utf-8"
-        text = raw.decode(charset, errors="replace")
-        parser = MetaParser()
-        parser.feed(text)
-
-        image = (
-            parser.meta.get("og:image")
-            or parser.meta.get("twitter:image")
-            or parser.meta.get("twitter:image:src")
-            or ""
-        )
-        description = (
-            parser.meta.get("og:description")
-            or parser.meta.get("twitter:description")
-            or parser.meta.get("description")
-            or ""
-        )
-        if image:
-            out["image"] = urllib.parse.urljoin(final_url, image)
-        description = clean_text(description)
-        if description and description.casefold() != out["title"].casefold():
-            out["description"] = description
-        if final_url and "news.google.com" not in urllib.parse.urlparse(final_url).netloc:
-            out["articleUrl"] = final_url
+        result = gnewsdecoder(url, interval=0)
+        if isinstance(result, dict) and result.get("status") and result.get("decoded_url"):
+            decoded = str(result["decoded_url"]).strip()
+            if decoded.startswith(("http://", "https://")):
+                return decoded
     except Exception:
         pass
+    return url
 
+
+def fetch_article_metadata(article_url: str, title: str) -> tuple[str, str]:
+    if "news.google.com" in urllib.parse.urlparse(article_url).netloc:
+        return "", ""
+    req = urllib.request.Request(
+        article_url,
+        headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"},
+    )
+    with urllib.request.urlopen(req, timeout=8) as response:
+        final_url = response.geturl()
+        raw = response.read(900_000)
+        charset = response.headers.get_content_charset() or "utf-8"
+    parser = MetaParser()
+    parser.feed(raw.decode(charset, errors="replace"))
+    image = (
+        parser.meta.get("og:image")
+        or parser.meta.get("twitter:image")
+        or parser.meta.get("twitter:image:src")
+        or ""
+    )
+    if image:
+        image = urllib.parse.urljoin(final_url, image)
+        host = urllib.parse.urlparse(image).netloc.casefold()
+        if "googleusercontent.com" in host or "gstatic.com" in host:
+            image = ""
+    description = useful_description(
+        parser.meta.get("og:description")
+        or parser.meta.get("twitter:description")
+        or parser.meta.get("description")
+        or "",
+        title,
+    )
+    return image, description
+
+
+def enrich(row: dict[str, str]) -> dict[str, str]:
+    out = dict(row)
+    source_url = resolve_source_url(row["url"])
+    if source_url != row["url"]:
+        out["articleUrl"] = source_url
+    try:
+        image, description = fetch_article_metadata(source_url, row["title"])
+        if image:
+            out["image"] = image
+        if description:
+            out["description"] = description
+    except Exception:
+        pass
     if not out.get("description"):
-        out["description"] = f"Leia os principais detalhes desta notícia publicada por {out.get('source') or 'a fonte original'}."
+        out["description"] = f"Notícia publicada por {out.get('source') or 'a fonte original'}. Abra o artigo para consultar os detalhes completos."
     return out
 
 
 def enrich_group(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     first = rows[:ENRICH_ITEMS]
     results: list[dict[str, str] | None] = [None] * len(first)
-    with ThreadPoolExecutor(max_workers=5) as pool:
+    with ThreadPoolExecutor(max_workers=4) as pool:
         futures = {pool.submit(enrich, row): i for i, row in enumerate(first)}
         for future in as_completed(futures):
             index = futures[future]
@@ -155,7 +195,12 @@ def enrich_group(rows: list[dict[str, str]]) -> list[dict[str, str]]:
                 results[index] = future.result()
             except Exception:
                 results[index] = first[index]
-    return [row or first[i] for i, row in enumerate(results)] + rows[ENRICH_ITEMS:]
+    enriched = [row or first[i] for i, row in enumerate(results)]
+    for row in rows[ENRICH_ITEMS:]:
+        copy = dict(row)
+        copy["description"] = f"Notícia publicada por {copy.get('source') or 'a fonte original'}. Abra o artigo para consultar os detalhes completos."
+        enriched.append(copy)
+    return enriched
 
 
 def main() -> int:
@@ -176,7 +221,11 @@ def main() -> int:
         "world": world,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Updated {OUT.name}: health={len(health)}, world={len(world)}")
+    print(
+        f"Updated {OUT.name}: health={len(health)} world={len(world)} "
+        f"resolved={sum(bool(x.get('articleUrl')) for x in health)+sum(bool(x.get('articleUrl')) for x in world)} "
+        f"images={sum(bool(x.get('image')) for x in health)+sum(bool(x.get('image')) for x in world)}"
+    )
     return 0
 
 
