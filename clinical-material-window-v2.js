@@ -11,7 +11,10 @@
       @media(max-width:760px){#clin-material .material-frame-card{min-height:76vh}#clin-material .material-frame{height:76vh;min-height:620px}#clin-material .material-frame-card.material-maximized{inset:4px}#clin-material .material-frame-card.material-maximized .material-frame{height:calc(100vh - 72px)}}
     `;document.head.appendChild(s)}
     const card=frame.closest('.material-frame-card'),head=card?.querySelector('.material-frame-head');
-    if(head&&!document.getElementById('materialExpandBtn')){const b=document.createElement('button');b.id='materialExpandBtn';b.type='button';b.className='btn small';b.textContent='Expandir';head.appendChild(b);b.addEventListener('click',()=>{const on=card.classList.toggle('material-maximized');b.textContent=on?'Repor':'Expandir';document.body.style.overflow=on?'hidden':''})}
+    let btn=document.getElementById('materialExpandBtn');
+    const restore=()=>{card?.classList.remove('material-maximized');if(btn)btn.textContent='Expandir';document.body.style.overflow=''};
+    if(head&&!btn){btn=document.createElement('button');btn.id='materialExpandBtn';btn.type='button';btn.className='btn small';btn.textContent='Expandir';head.appendChild(btn);btn.addEventListener('click',()=>{const on=card.classList.toggle('material-maximized');btn.textContent=on?'Repor':'Expandir';document.body.style.overflow=on?'hidden':''})}
+    document.addEventListener('fcc-subtab-change',e=>{if(e.detail?.page==='clinical'&&e.detail?.id!=='clin-material')restore()});
     return true;
   }
   let tries=0;const boot=()=>{tries++;if(install()||tries>60)return;setTimeout(boot,120)};boot();
