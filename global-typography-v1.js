@@ -5,7 +5,7 @@
   const style=document.createElement('style');
   style.id='fcc-global-typography-v1-style';
   style.textContent=`
-    /* Global readability scale — headings intentionally unchanged */
+    /* Global readability scale — headings h1-h6 intentionally untouched */
     body{font-size:14px}
     body p,body li,body dd,body dt{font-size:12px!important;line-height:1.62}
     body label{font-size:11px!important;line-height:1.45}
@@ -53,10 +53,6 @@
     body .fcc-code-row b{font-size:10px!important}
     body .fcc-code-row small{font-size:9px!important}
     body .fcc-code-row code{font-size:10px!important}
-
-    /* Keep titles / display numbers exactly as designed */
-    body h1,body h2,body h3,body h4,body h5,body h6,
-    body .metric,body .result .big,body .code,body .logo{font-size:revert-layer}
 
     @media(max-width:640px){
       body{font-size:14px}
