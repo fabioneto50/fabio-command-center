@@ -7,7 +7,7 @@
     {page:'garage',code:'GX',title:'Garage',desc:'Veículos, manutenção, custos, documentos e acessórios.'},
     {page:'research',code:'RX',title:'Research',desc:'Biblioteca, pesquisa de evidência, referências e guidelines.'}
   ];
-  const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+  const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[m]));
   const tabsFor=page=>[...(document.querySelector('#page-'+page+' > .tabs')?.querySelectorAll(':scope > .tab')||[])];
   function addStyles(){
     if(document.getElementById('fcc-personal-hub-style'))return;
@@ -25,7 +25,7 @@
   function renderCards(){
     const grid=document.getElementById('personalGrid');if(!grid)return;
     grid.innerHTML=CHILDREN.map(x=>{const labels=tabsFor(x.page).map(t=>t.textContent.trim()).filter(Boolean),preview=labels.slice(0,5).map(l=>`<span>${esc(l)}</span>`).join('')+(labels.length>5?`<span>+${labels.length-5}</span>`:'');return `<button class="personal-area" type="button" data-personal-page="${x.page}"><span class="personal-area-count">${labels.length} subtópicos</span><div class="personal-area-head"><span class="personal-area-code">${x.code}</span><div><h3>${esc(x.title)}</h3><p>${esc(x.desc)}</p></div></div><div class="personal-mini-tabs">${preview}</div></button>`}).join('');
-    grid.querySelectorAll('[data-personal-page]').forEach(b=>b.addEventListener('click',()=>window.openCategoryMenu?.(b.dataset.personalPage)||window.fccNavigate?.(b.dataset.personalPage)));
+    grid.querySelectorAll('[data-personal-page]').forEach(b=>b.addEventListener('click',()=>{const p=b.dataset.personalPage;if(typeof window.openCategoryMenu==='function')window.openCategoryMenu(p);else window.fccNavigate?.(p)}));
   }
   function ensureNav(){
     const side=document.querySelector('nav.side');if(!side)return;
