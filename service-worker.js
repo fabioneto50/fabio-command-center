@@ -1,5 +1,5 @@
-const CACHE='fcc-master-recovery-1.2.3';
-const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js'];
+const CACHE='fcc-master-recovery-1.2.5';
+const CORE=['./','./index.html','./styles.css','./app.js','./navigation-hub.js','./subtab-navigation-fix.js','./navigation-stability-v1.js'];
 
 self.addEventListener('install',event=>{
   event.waitUntil((async()=>{
