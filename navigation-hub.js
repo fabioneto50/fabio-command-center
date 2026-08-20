@@ -10,7 +10,7 @@
     'dilutions-cuf-v6.js','dilutions-card-ux-v5.js','family-security.js',
     'clinical-material.js','clinical-material-window-v2.js',
     'iv-compatibility.js','iv-catalogue.js','iv-compatibility-ui-v2.js','iv-source-evidence.js','iv-compatibility-expanded-v3.js',
-    'clinical-restructure.js','clinical-cases-bank-v2.js',
+    'clinical-restructure.js','clinical-cases-bank-v2.js','clinical-cases-ux-patch-v1.js',
     'drug-reference-v2.js','medication-info-v3.js','medication-info-v4.js','medication-info-ux-v5.js','medication-brands-v1.js','medication-stability-cuf-v1.js','medication-safety-cuf-v2.js','medication-reference-links-v2.js',
     'ecg-photo-assist.js','ecg-image-analyzer-v2.js','ecg-image-analyzer-v3.js','clinical-legacy-shims.js','category-organizer.js',
     'expense-recurring-engine.js','expense-center.js','expense-recurring-ui.js','research-live-search-v1.js','theme-audit-fixes.js','search-enhancer.js','subtab-navigation-fix.js','version-sync-v1.js'
