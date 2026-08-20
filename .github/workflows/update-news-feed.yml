@@ -5,7 +5,7 @@ on:
     - cron: '17 * * * *'
   workflow_dispatch:
   push:
-    branches: [main, home-news-source-enrichment]
+    branches: [main]
     paths:
       - 'scripts/update_news_feed.py'
       - 'home-public-shell-v1.js'
