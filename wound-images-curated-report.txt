@@ -1,6 +1,6 @@
 Fábio Command Center · curated wound images
 
-Generated: 2026-08-21T18:19:22.543412+00:00
+Generated: 2026-08-21T18:22:33.101254+00:00
 Products: 27
 Verified local images: 27
 Background: edge-connected neutral background removed where applicable
