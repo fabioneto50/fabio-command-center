@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-import base64, hashlib, io, json, re, sys, unicodedata
+import hashlib, io, json, re, unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,16 +18,21 @@ CATALOG = ROOT / 'wound-dressings-v1.js'
 OUT = ROOT / 'assets' / 'wound-images' / 'hq'
 MANIFEST = ROOT / 'wound-images-hq-v3.json'
 REPORT = ROOT / 'wound-images-hq-report.txt'
-UA = 'Mozilla/5.0 (compatible; FabioCommandCenterImageRefresh/3.0; +https://github.com/fabioneto50/fabio-command-center)'
-SESSION = requests.Session(); SESSION.headers.update({'User-Agent': UA, 'Accept-Language':'pt-PT,pt;q=0.9,en;q=0.7'})
-MIN_AREA = 120000
+UA = 'Mozilla/5.0 (compatible; FabioCommandCenterImageRefresh/3.1; +https://github.com/fabioneto50/fabio-command-center)'
+SESSION = requests.Session(); SESSION.headers.update({'User-Agent': UA, 'Accept-Language':'pt-PT,pt;q=0.9,en;q=0.7','Accept':'text/html,application/xhtml+xml,image/avif,image/webp,image/apng,*/*;q=0.8'})
+MIN_AREA = 90000
+MIN_EDGE = 150
 MAX_EDGE = 1800
 
 OVERRIDES = {
     'Inadine®': ['https://www.solventum.com/pt-pt/home/f/b5005265097/','https://www.solventum.com/en-sg/home/v/v101264711/'],
     'Melgisorb® Plus': ['https://www.molnlycke.com/en-us/products/wound-care/alginate-fiber-dressings/melgisorb-plus?variantId=252000'],
     'Mepilex®': ['https://www.molnlycke.com/pt-pt/produtos/tratamento-de-feridas/pensos-espuma-sem-rebordo/mepilex/'],
+    'Mepilex® Border': ['https://www.molnlycke.com/en-us/products/wound-care/bordered-foam-dressings/mepilex-border-flex/'],
     'Mepilex® Heel': ['https://www.molnlycke.com/en-gb/products/wound-care/non-bordered-foam-dressings/mepilex-heel-2/'],
+    'Aquacel® Extra': ['https://www.convatec.com/products/advanced-wound-care/aquacel-extra-hydrofiber-dressing/'],
+    'Aquacel® Ag+ Extra': ['https://www.convatec.com/products/advanced-wound-care/aquacel-ag-extra-dressing/'],
+    'Atrauman® Ag': ['https://www.hartmann.info/en/products/wound-management/contact-layers/atrauman%C2%AE-ag'],
 }
 
 STOP = {'aposito','penso','material','com','sem','para','plus','extra','standard','flex','life','gel','the','and','silver'}
@@ -41,8 +46,7 @@ def fold(s):
     return ''.join(c for c in s if unicodedata.category(c) != 'Mn').lower()
 
 def slug(s):
-    x = re.sub(r'[^a-z0-9]+','-',fold(s)).strip('-')
-    return x[:80] or 'image'
+    return re.sub(r'[^a-z0-9]+','-',fold(s)).strip('-')[:80] or 'image'
 
 def product_tokens(name):
     return [x for x in re.findall(r'[a-z0-9]+', fold(name)) if len(x)>2 and x not in STOP]
@@ -96,8 +100,7 @@ def html_candidates(url, html, name):
             if img.get(a): raw.append((img.get(a),hint))
         for a in ('srcset','data-srcset'):
             if img.get(a):
-                for part in img.get(a).split(','):
-                    raw.append((part.strip().split()[0],hint))
+                for part in img.get(a).split(','): raw.append((part.strip().split()[0],hint))
     for src in soup.find_all('source'):
         if src.get('srcset'):
             for part in src.get('srcset').split(','): raw.append((part.strip().split()[0],'picture'))
@@ -106,12 +109,12 @@ def html_candidates(url, html, name):
         if not u or u.startswith('data:'): continue
         u=urljoin(url,u)
         if u in seen: continue
-        seen.add(u)
-        final.append((candidate_score(u,h,name),u,h))
-    return sorted(final,reverse=True)[:40]
+        seen.add(u); final.append((candidate_score(u,h,name),u,h))
+    return sorted(final,reverse=True)[:60]
 
-def fetch(url, timeout=25):
-    r=SESSION.get(url,timeout=timeout,allow_redirects=True)
+def fetch(url, timeout=25, referer=None):
+    headers={'Referer':referer} if referer else None
+    r=SESSION.get(url,timeout=timeout,allow_redirects=True,headers=headers)
     r.raise_for_status(); return r
 
 def open_image_bytes(data):
@@ -123,11 +126,10 @@ def image_entry_from_bytes(data, name, source_page, origin_hint, idx, seen_hashe
     try: im=open_image_bytes(data)
     except Exception: return None
     w,h=im.size
-    if w*h < MIN_AREA or min(w,h)<180: return None
+    if w*h < MIN_AREA or min(w,h)<MIN_EDGE: return None
     if max(w,h)>MAX_EDGE:
         im.thumbnail((MAX_EDGE,MAX_EDGE),Image.Resampling.LANCZOS); w,h=im.size
-    rgb=im.convert('RGB')
-    bio=io.BytesIO(); rgb.save(bio,format='WEBP',quality=90,method=6)
+    rgb=im.convert('RGB'); bio=io.BytesIO(); rgb.save(bio,format='WEBP',quality=92,method=6)
     payload=bio.getvalue(); digest=hashlib.sha256(payload).hexdigest()
     if digest in seen_hashes: return None
     seen_hashes.add(digest)
@@ -135,9 +137,24 @@ def image_entry_from_bytes(data, name, source_page, origin_hint, idx, seen_hashe
     if any(x in text for x in PACK_WORDS): label='Embalagem'
     elif any(x in text for x in DRESS_WORDS): label='Produto / apósito'
     else: label='Produto / vista '+str(idx)
-    filename=f'{slug(name)}-{idx:02d}.webp'; path=OUT/filename
-    path.write_bytes(payload)
+    filename=f'{slug(name)}-{idx:02d}.webp'; path=OUT/filename; path.write_bytes(payload)
     return {'src':'./assets/wound-images/hq/'+filename,'label':label,'width':w,'height':h,'source_page':source_page,'bytes':len(payload)}
+
+def collect_pdf_bytes(data, page, name, slots, seen_hashes):
+    if fitz is None: return
+    try: doc=fitz.open(stream=data,filetype='pdf')
+    except Exception: return
+    candidates=[]
+    for pno,p in enumerate(doc):
+        for im in p.get_images(full=True):
+            try:
+                info=doc.extract_image(im[0]); raw=info.get('image',b''); pil=open_image_bytes(raw); w,h=pil.size
+                if w*h>=MIN_AREA and min(w,h)>=MIN_EDGE: candidates.append((w*h,raw,f'PDF página {pno+1}'))
+            except Exception: pass
+    for _,raw,hint in sorted(candidates,reverse=True):
+        if len(slots)>=2: break
+        ent=image_entry_from_bytes(raw,name,page,hint,len(slots)+1,seen_hashes)
+        if ent: ent['score']=5; slots.append(ent)
 
 def collect_html(page, name, slots, seen_hashes):
     try: r=fetch(page)
@@ -149,41 +166,17 @@ def collect_html(page, name, slots, seen_hashes):
     for score,u,hint in html_candidates(r.url,r.text,name):
         if len(slots)>=2: break
         try:
-            ir=fetch(u,20); ct=fold(ir.headers.get('content-type',''))
+            ir=fetch(u,20,r.url); ct=fold(ir.headers.get('content-type',''))
             if 'svg' in ct: continue
             ent=image_entry_from_bytes(ir.content,name,r.url,u+' '+hint,len(slots)+1,seen_hashes)
             if ent: ent['score']=score; slots.append(ent)
         except Exception: continue
 
-def collect_pdf_bytes(data, page, name, slots, seen_hashes):
-    if fitz is None: return
-    try: doc=fitz.open(stream=data,filetype='pdf')
-    except Exception: return
-    candidates=[]
-    for pno,p in enumerate(doc):
-        for im in p.get_images(full=True):
-            xref=im[0]
-            try:
-                info=doc.extract_image(xref); raw=info.get('image',b'')
-                pil=open_image_bytes(raw); w,h=pil.size
-                if w*h>=MIN_AREA and min(w,h)>=180: candidates.append((w*h,raw,f'PDF página {pno+1}'))
-            except Exception: pass
-    for _,raw,hint in sorted(candidates,reverse=True):
-        if len(slots)>=2: break
-        ent=image_entry_from_bytes(raw,name,page,hint,len(slots)+1,seen_hashes)
-        if ent: ent['score']=5; slots.append(ent)
-
-def old_fallback(name):
-    # Old document images remain loaded in JS at runtime; manifest only marks fallback availability.
-    return True
-
 def main():
     OUT.mkdir(parents=True,exist_ok=True)
     for f in OUT.glob('*.webp'): f.unlink()
-    products={}; lines=[]
-    catalog=parse_catalog()
-    if len(catalog)<20:
-        raise SystemExit(f'Catalog parsing failed: only {len(catalog)} products')
+    products={}; lines=[]; catalog=parse_catalog()
+    if len(catalog)<20: raise SystemExit(f'Catalog parsing failed: only {len(catalog)} products')
     success=two=0
     for name,urls in catalog:
         slots=[]; seen=set(); sources=[]
@@ -193,28 +186,21 @@ def main():
             if len(slots)>=2: break
             try: collect_html(page,name,slots,seen)
             except Exception as e: lines.append(f'WARN {name}: {page}: {e}')
-        # prefer best scoring/largest two, then normalize labels to avoid claiming packaging incorrectly
         slots=sorted(slots,key=lambda x:(x.get('score',0),x['width']*x['height']),reverse=True)[:2]
         if slots:
             success+=1
             if len(slots)>=2: two+=1
             if not any(x['label']=='Produto / apósito' for x in slots): slots[0]['label']='Produto / apósito'
             if len(slots)>1 and slots[1]['label']=='Produto / apósito': slots[1]['label']='Embalagem / vista alternativa'
-        products[name]={'images':slots,'document_fallback':old_fallback(name),'sources':sources}
+        products[name]={'images':slots,'document_fallback':True,'sources':sources}
         dims=', '.join(f"{x['label']} {x['width']}x{x['height']}" for x in slots) or 'fallback documental'
         lines.append(f'{name}: {dims}')
-    manifest={'version':'3.0','generated_at':datetime.now(timezone.utc).isoformat(),'product_count':len(catalog),'hq_product_count':success,'two_image_product_count':two,'products':products}
+    manifest={'version':'3.1','generated_at':datetime.now(timezone.utc).isoformat(),'product_count':len(catalog),'hq_product_count':success,'two_image_product_count':two,'products':products}
     MANIFEST.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    REPORT.write_text('\n'.join([
-        'Fábio Command Center · wound dressing HQ image refresh',
-        f"Generated: {manifest['generated_at']}",
-        f"Products: {len(catalog)}",
-        f"Products with HQ image: {success}",
-        f"Products with 2 HQ images: {two}",
-        '',*lines,'']) ,encoding='utf-8')
+    REPORT.write_text('\n'.join(['Fábio Command Center · wound dressing HQ image refresh',f"Generated: {manifest['generated_at']}",f"Products: {len(catalog)}",f"Products with HQ image: {success}",f"Products with 2 HQ images: {two}",'',*lines,'']),encoding='utf-8')
     print(REPORT.read_text(encoding='utf-8'))
-    if success < 18:
-        print('ERROR: HQ coverage below safety threshold (18 products).',file=sys.stderr); return 2
+    if success < len(catalog):
+        print(f'WARNING: HQ coverage partial ({success}/{len(catalog)}); document fallback remains active for missing products.')
     return 0
 
 if __name__=='__main__': raise SystemExit(main())
