@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-21T03:33:37.155196Z",
+  "updatedAt": "2026-08-21T08:09:46.445124Z",
   "health": [
+    {
+      "title": "Nova parceria liga Portugal e Marrocos em Saúde Pública e Gestão da Saúde - Escola Nacional de Saúde Pública",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWdkMTZSQlVTT1R6MVBwRWdJYzR1c0hyQUJBT0xLMjhDQ2tyVzdkTFZBZ2ZiS28xNVFYcFJfVFY4Rjd2dkZQSDNQTnk4M1c1STJjdDBXS2xmeVNIY3JQRHFTX3RFODMzZ1VhdWFHazh5UVItMGNJelN3cG9uR19LT3V6dmo3UjFlOURFd2JGSjRXZWZodUdIY0VJdmJfR1E?oc=5",
+      "source": "Escola Nacional de Saúde Pública",
+      "publishedAt": "2026-08-21T05:04:14Z",
+      "description": "A Escola Nacional de Saúde Pública da Universidade NOVA de Lisboa (ENSP NOVA) e a Euromed University of Fes assinaram um acordo de cooperação institucional com o objetivo de reforçar a colaboração euro-mediterrânica no ensino superior, na investigação e na capacitação, com particular enfoque na Saúde Pública e na Gestão da Saúde. O acordo reúne… Continue a ler Nova parceria…",
+      "image": "https://www.ensp.unl.pt/wp-content/uploads/2026/08/nova-parceria-liga-portugal-e-marrocos-em-saude-publica-e-gestao-da-saude.png",
+      "articleUrl": "https://www.ensp.unl.pt/nova-parceria-liga-portugal-e-marrocos-em-saude-publica-e-gestao-da-saude/"
+    },
+    {
+      "title": "O mais rentável seguro de saúde que é do Estado - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlo0NUhfREFTM1lJQ2paSkUxMGtVNXd3ME5xOG5hRGdKR28yRTdfODd6d21PVjl0cWhhX2E4bHNDb2t1cjNob0VyeHZNR3hjcExvWUZQZlRmMlNVOG5wajRvN1FsNlF1NWJGOGozekRFY1FjUjJaUFRSOWZSX3h5ZC1GNTVmNWQyVnhhZVpqUllwMnc?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-08-21T07:00:00Z",
+      "description": "A ADSE seria o mais rentável seguro de saúde se estivesse nesse mercado. Acumula excedentes e lucros, mas o serviço é limitado, mesmo com o alargamento da rede de prestadores e a revisão das tabelas.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/08/saude.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/o-mais-rentavel-seguro-de-saude-que-e-do-estado/"
+    },
+    {
+      "title": "Aborto. Hospital Garcia de Orta viola instruções do regulador - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3VfUkZGX1dTeWlRcGN2c2QzS04yQ2FVXzNwV1FBRnl0d3NxdlRxY25iNDRZZkhRR0YwYmVyTmVnbWtyRmYzLUFEcnBLVXhjMzhyRDk1ZFlRSEtZUTQ4Q25IaG1QTWwzNVpNSk1xQkZnQ0FJSjliYUZUQjQ2VktxcWdablZfWDdWbDVORVpHcw?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-08-21T07:03:11Z",
+      "description": "A nova orientação, enviada a 7 de agosto pelo Hospital Garcia de Orta (HGO) aos centros de saúde da respetiva área, a propósito da descontinuação da sua consult",
+      "image": "https://media.assettype.com/dn%2Fimport%2Fdncxpgxxypnfpero%2F7y4ojy5rk7tf.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/aborto-hospital-garcia-de-orta-viola-instrues-do-regulador"
+    },
     {
       "title": "Avanço contra o melanoma pode dar início a onda de vacinas para o cancro - Público",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3IwUmM0a1NydDZ4MVd2VTh5R2YyOERIVHEtYVMxSjlER1ByMDhkZjFZQlFLQnVTS0tZNDJjTm9Hc3kxV3hTckVPa0tzTlM2NDNRdjNrNmNmU2RzMWR4NG5oblNCSlpYd2ZnRjRQNjZ1Y2ZRNzVUVHc3Z0M2Z2oyMnN0ak1iZnFCemJRMTlZOGpMTEtGNXY1M1Q4Q2VqVThIeXlYTXVaZw?oc=5",
@@ -29,6 +56,15 @@
       "articleUrl": "https://expresso.pt/sociedade/2026-08-20-reforma-dos-servicos-de-obstetricia-parada-no-ministerio-da-saude-ha-sete-meses-3297e8e5"
     },
     {
+      "title": "Estado tem o seguro de saúde mais rentável - TVI",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEpkVUZNUTBsREZHVEd2ekNyejJ6Rmxadklpa1BUX1pOLV95cTJCcGlyTV9IbTRQR1ZibkQyX0dIMjdqc3BCd3J1elJxWVljYnNQb3g1TlhOZmtqMWJxRm9VVWkxQzVvVUp2UzVQOEFnb25zR2xyR3paSm05cVkwWEVaaFBfckZTOVlDUVlTcXd4Z0hUM2lwaXhJTTMzNWZEMU9UNGRxUXFfT3lOZktVQVJoU0twQTcx?oc=5",
+      "source": "TVI",
+      "publishedAt": "2026-08-21T06:57:00Z",
+      "description": "REVISTA DE IMPRENSA | ADSE lucra mais cerca de 45% do que todo o setor dos seguros de saúde",
+      "image": "https://img.iol.pt/preset/65954aa7d34e65afa2f93f78/og/tvi24",
+      "articleUrl": "https://tvi.iol.pt/noticias/adse/seguros/estado-tem-o-seguro-de-saude-mais-rentavel/20260821/6a87f6f9d34ed0733ba80ea6"
+    },
+    {
       "title": "Governo da Madeira reforça capital do serviço regional de saúde com 45 milhões de euros - Observador",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlh4NFlJR21ucnZsYVBHNFpicm5pVlF2ZVdESjVRdVV3aV9CX0ctbTRqRW90c21lZFVEUW9XWlFwN0VSZlFlcy1tUEN1cTZmb0Q3Q0g2TTlOeC1taEw0enpBRlJOeUM1TkdxS2ZZd2VJSUNxVUhtN2JHbUh1dlp1N0VHUE9GaGo1YlpJUDlsUWdncXJLVmk5YTlzZTJZVHZqWld0cV94WTR5UDU0c05oUzlDRGF6eVdHbGEyZldR?oc=5",
       "source": "Observador",
@@ -38,94 +74,49 @@
       "articleUrl": "https://observador.pt/2026/08/20/governo-da-madeira-reforca-capital-do-servico-regional-de-saude-com-45-milhoes-de-euros/"
     },
     {
+      "title": "Cortes globais ameaçam saúde em África, alerta OMS - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHhNYWl0R1hvU0U5UjFBbnYwT2Qxc2NuTmpmc0psbjdJbkR6YXF3Zkx2bS1XX292c3ZSYVNHdDdnN3dVa2t0SXVtQlZkLVg3SmVFQXRKMEZIdWU5R1NHVmNRWDNFNFJJR21GeFdVSG42VmlxeEdkMWV6c0VsTWRJVTVzWGUwMXdQcGhn?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-08-21T06:06:53Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/08/21/cortes-globais-ameacam-saude-em-africa-alerta-oms/"
+    },
+    {
+      "title": "Farmacêuticas anunciam resultados positivos para vacina contra melanoma - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmcwWTc5Yk1mR19zVmtpdnhHSkZEMXFEU01ocFNVZkd5U2gxeWwxaFpWbEdqX1RXanZRYzYzbjcyRkgwT0w4azhEdEluenFSanhjbFVoLTIwcUFSM3g1Ymd2UlFKeDFDc1lwbFRLMS1JcXdNeC1LVEVaMnM1dk1jS2d4NGdGN0VqdEMwMk5WT21zdmc0ZGk5R3ZVemlySlBhMXpUWmdLS1hsbUtnQ0s4M1cyLTFMMEhIeUE?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-08-21T06:25:59Z",
+      "description": "\"Trata-se do primeiro anúncio de resultados positivos da fase 3 (...) para uma terapia anticancerígena à base de ARNm [ARN mensageiro]\", salientam em comunicado...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_63720b3bd8c3a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExNzEsImNyb3BZIjowfX0=",
+      "articleUrl": "https://www.noticiasaominuto.com/mundo/3038675/farmaceuticas-anunciam-resultados-positivos-para-vacina-contra-melanoma"
+    },
+    {
       "title": "Acordos reforçam intervenção precoce de saúde junto das crianças no Algarve - Sul Informação",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDRFVkhBLU5aajl6ZFMwcTVFdC13YUs0aDdrd0VHQ0lod2hsX0pLUzhCQ0RwbER4OU03SW44ZnhIbTRBN3RWejVtNFZrdHFpSU5WVmdBV1RpYmJ2S1VBSEtqazdWZGRVaWlmSXpkMkI4NDBmenJZRXcyd3BkMXZhS0pHYzJBbkE2cXJwdERLWlB0V0MtcGlkd050aWxVakhkUTNPVU9rN1hkTmMwdFB6MGo3SQ?oc=5",
       "source": "Sul Informação",
       "publishedAt": "2026-08-21T01:00:00Z",
-      "description": "Quatro instituições particulares de solidariedade social (IPSS) do Algarve assinaram, na sexta-feira, 14 de agosto, acordos de colaboração no âmbito do Sistema Nacional de Intervenção Precoce na Infância (SNIPI), em duas cerimónias, nos hospitais de Faro e de Portimão, que contaram com…",
-      "image": "https://www.sulinformacao.pt/wp-content/uploads/2026/08/Terapia-da-fala_Depositphotos_868562750_XL.jpg",
-      "articleUrl": "https://www.sulinformacao.pt/2026/08/acordos-reforcam-intervencao-precoce-de-saude-junto-das-criancas-no-algarve/"
-    },
-    {
-      "title": "Como funciona e quem vai poder receber a nova vacina contra o melanoma? - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUM5MGV6eXEzbnNlTm5CeEhSMlMtNUNQeE9TclZtMXQzLUlfbGp0aWZ1dGloTEFRSG5rYThPdHI4aXNQMjdlbUlWdWwxckRfTWNsOEJ4X2ZOVmMxbU9rTEo3dVN6WEtqeE83WFZDdmVMejBuUDJwa3JOTXRHRUJvZU9tQ1F3RXBxMVJLOGtqVWFaMEgzTmtka3NaSVh4N3N1ZEdMWUF3T1RKZkF4RkNyNXF1STh5ZkpTZ1FsNHQwbEdKSUxCcnZXcA?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-20T22:58:55Z",
-      "description": "A dermatologista Ana Pedrosa explica que será elegível para o tratamento quem \"já foi operado à lesão primária\", sendo que a vacina deverá ser utilizada apenas nos casos mais graves.",
-      "image": "https://img.iol.pt/preset/6a877df1d34e511da0b3460e/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/videos/como-funciona-e-quem-vai-poder-receber-a-nova-vacina-contra-o-melanoma/6a8772ca0cf2f6a1a1e74c76"
-    },
-    {
-      "title": "Gerir emoções é fundamental para a saúde mental dos polícias - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcktpd092b3pXRWFSWEQyZUd3SnRkS0h5MHY4MnZEajVqSXd1RzNldkNXX0FPa08tdWVfSVJCc0UwTkJzellzMG5rY0VBS19LR2ctRzNMUTZTaFlNM3E2emF4ZzNxcldZQUQtMUpzS1BSVzNZR01FQndHekRvbzRyd095dWRldnFDcVA5cWtCbmZwRHNoQ0NacGg3VG5sYkJRZjBKTQ?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-08-20T14:43:00Z",
-      "description": "Investigação da Católica, realizada com agentes da PSP da AMP revela que mais de 35% sofre de stress elevado, mas o estigma impede a maioria de procurar ajuda especializada.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2021/08/leitor_5b9b878cac8fd_PSP_policia_seguranca_publica.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/gerir-emocoes-e-fundamental-para-a-saude-mental-dos-policias/"
-    },
-    {
-      "title": "Vacina traz esperança no combate ao melanoma - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkVNVkFGQ3hXMjd1dkFUVXhIUDdlZFEzOGQ2YjZaZXhVZkY0QlM2RWhNNUxBckFjLXVLOVZvYm1QX0gzWXhsNFFmdjBnZUlvOWhHNWt3dkR1RWpMWmpNa1FQM0JDVGsyOEY3WDNmVF94N2hDR2Zfc1A0LUZHV05hRGVxS25fMEQ3Qkk2ckZfOA?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-21T00:30:00Z",
-      "description": "Moderna e Merck anunciaram resultados positivos em ensaio clínico com mais de 1100 doentes, que não tiveram regresso dos tumores. Inoculações são 'desenhadas' à medida de cada pessoa.",
-      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x721uu2026-08-20-20-09-22-2303857.jpg",
-      "articleUrl": "https://www.cmjornal.pt/sociedade/detalhe/vacina-traz-esperanca-no-combate-ao-melanoma"
-    },
-    {
-      "title": "Repórteres Sem Fronteiras preocupada com estado de saúde de jornalista francês - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFdiYVZ6ZGdiMHM2bVF4TG03ZkdwM2Rra2tudEVDVUhGeWZOSERBbmFrelI2UUNlcWxVV3pYWnRwSTI5NGJVcGw2LW9odF9McDVLX1V2UUtTemRRNnlCenhIcjgtNDZLaklmUmtOOWtFSElkenkyU1h5cUk0bkZhc3JaMDE5clh4Vm1RVl9lRms5Qm1rc29OZHdDU3JKWDd1b3U0aU96TkM3MWNockhtVTdZYw?oc=5",
-      "source": "Euronews",
-      "publishedAt": "2026-08-20T18:33:17Z",
-      "description": "Notícia publicada por Euronews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://pt.euronews.com/2026/08/20/reporteres-sem-fronteiras-preocupada-com-estado-de-saude-de-jornalista-frances"
+      "description": "Notícia publicada por Sul Informação. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Urgências de Leiria estão a mudar. Novo modelo aumenta segurança dos utentes - Jornal de Leiria",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjlKejBhS09QYV81czBKVlRkMUN2LW1hRWdhNzliMGZSR3ZNSmZWNnhoRkQ3TjNieFRVRURzTHQ2S0dFVDJQQ3hGbWp5U0hISnpRVUJTTm0tVk9VWmgwN2s1aXFtMWFqbTBoRWtvcDR6UGZqX1lJNjJfcllBMTVrWnJCRllrZjd5UjZrcEc2Y3lQazQ5NmRZcGk2dFE5ZXd0c09pVFRHX3d6QjlBUmlJcFlJMA?oc=5",
       "source": "Jornal de Leiria",
-      "publishedAt": "2026-08-21T02:56:59Z",
-      "description": "Os tempos de espera podem não diminuir, mas a segurança do utente e a avaliação prioritária está garantida com o novo método em funcionamento na Urgência Geral do Hospital de Santo André, em Leiria",
-      "image": "https://www.jornaldeleiria.pt/uploads/2/r/s/hospital-santo-andre-urgencia-saude-medicos-leiria-rg-2019-7-770x470-2rsc_facebook.JPG",
-      "articleUrl": "https://www.jornaldeleiria.pt/noticia/urgencias-de-leiria-estao-a-mudar-novo-modelo-aumenta-seguranca-dos-utentes"
-    },
-    {
-      "title": "Governo Regional injecta 45 milhões de euros no Serviço de Saúde da Madeira - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkVIaUxkTnd6VTFZbXJ4NWJsX29nSGgyRDZhakdGVEwyWHdPMUlMdGllaXBHaHM1NTIyLW85dml4dzhrMnpZNmFpYV81VWVHMkZNSE91bnY0dWJXU2pVSnludUUwcXBHcE9vT29yMnY2U010SUJVcDhtcTA2dU10aUZoU3hsMUdwZFg0NFFmVTktNUQ1d09RelJVaXk5T2JzNGJXVjNsdThURGF6LVlSeXMtbENia2JRdWc?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-08-20T15:56:00Z",
-      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "PRR reforça investimento na Saúde - inem.pt",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45T1RMdlZ4OWZCRXZ6N0VVMzZxOVpTUDB4Z25EeWpZVDhFdnNpV2U2QmYtR29IMU5xZ0ExZk5mVFVWbG15Rk40T2hHSmUzb3pTZkVIZUhwc0tyNktRbGtjNEpHc1BtdjhPTmQyc0VrMTdNUXc?oc=5",
-      "source": "inem.pt",
-      "publishedAt": "2026-08-20T09:00:12Z",
-      "description": "Notícia publicada por inem.pt. Abra o artigo para consultar os detalhes completos.",
+      "publishedAt": "2026-08-21T05:57:51Z",
+      "description": "Notícia publicada por Jornal de Leiria. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "A guerra com o Irão pode tornar-se “um conflito prolongado” como o da Ucrânia - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWUUzZ1ZBc1lYT2N6SHNZdldjU0pHWXpVeWsxTFlsOTIyUzhRdU5KczBjaEZ3MlBKdHlXTDU0QVNlMExIYXl6cmhscnRFZ1JNNU90TWs3UzlBREtoSEZEN05OVGZTcFJjOG1SZ0xvaTFDeHp5dG9xOTJnenphbE4tT29VVGdScElPajhkTmRJRC15ZWpleWt5SjdTM0dRMTJMSkFNOEd4T1BuR0NPdXFpVi1yY3VQalJTWHpOa1VXTjRZbmFZeXpEck9MRFJxSDdIUTZZMkdOSVQwR042RkVJRUViZC1HRUFqMnVzNWtsS2xXVmFRdFdDZ2dkSHdZV2ZkVFkzY01lLWI5UEhrRzNHdl81RzBYbm5Zd2VMVGpLYmhBZmloMkVhbF9ENy1pSUk0U01naEhoUTBTNzJVZkk0NEZtTkZ0dTdIZlZ4Y1FwcE9TaFJMRTdCYllWTE9HWjhHY0cxZmNxSHBOVGZzanNMNHVqdkRRMVp0cG1NX1IwUkxnV1NkT2drTy1TTzU4SXlVajZSaE5hRE1qSFJsYkU5T21EWnNaQ0s5WVh5TmtaNElaVnU1NTFYX1Atc2V0a0ZZYWdoTlhZQXAxdTFxbzJkUnAyaEcxbUZIYnRLM3JZdXA0TkNs?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-08-20T11:41:31Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-20-a-guerra-com-o-irao-pode-tornar-se-um-conflito-prolongado-como-o-da-ucrania-932cf44e?gaa_at=la&gaa_n=AXbw80QwkCL-E_GxO4HSBNTMo0B-vYEdWbUzfsa4CP0s1vgMRrQxrpHBLHY-ppShjqs%3D&gaa_ts=6a877803&gaa_sig=G3YA7nfZiExozxt-OOpREnrKugc13lmfqj2ZgcYKRrEss62WKObxzNmz2s8z3jjQMTDtN1cB-41nubcO1Pf6Hw%3D%3D"
-    },
-    {
-      "title": "Trump anuncia “guerra económica” inédita contra Teerão - Público",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEprRTZEMkFZWThUNmE2ajN6MVkxaDE4WER1UmxtSE5HVzhpSkkwVFVQcXJsMkp0WV9wa2xieTY4U1FVTEtNdVBaSElyMmRYeWFWSFQ0cmluWE9yYkVtVEdhRWszbUtWWUtwRHJrUWVwLV9XTGlpWnZ1akJscFZoUllFVzJaX08yRzIzbGJlU2ZELUx3TEhDclVXQlFDZFlxY1Nz?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-20T08:45:15Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/20/mundo/noticia/trump-anuncia-guerra-economica-inedita-teerao-2185548"
+      "title": "Mais de 750 soldados dos EUA feridos desde início da guerra no Médio Oriente - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalNSdmRibmVka1lwRDh4RlpOWTRWS2NJbDQzb1B0NDlHRzZBaXpYYmxucFVMc0M1X1JXNHZDa2FUQ3pWNGpNNEZ1bVoyVnRxVDRKbHlkeEVVR3hqS295QjJvS1J0aUc3NkQ2aHFDNjhjZl92RTdZejJOdU8ta0VqV1dlVi1xc3ZtRVdpY1Y2UldaTENBTWVyczQwQ1ByZ2FwUThrY3lZdnBwdw?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-08-21T07:54:42Z",
+      "description": "Mais de 750 soldados norte-americanos ficaram feridos em quase seis meses de conflito com o Irão, segundo dados divulgados na quinta-feira pelo Departamento de",
+      "image": "https://media.assettype.com/dn%2F2025-03-04%2Ffrrn39ol%2Fblindado-ex%C3%A9rcito-NUNOBRITES0010.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/internacional/mais-de-750-soldados-dos-eua-feridos-desde-incio-da-guerra-no-mdio-oriente"
     },
     {
       "title": "Ucrânia: ex-ministro da Defesa pede eleições presidenciais em tempo de guerra - Jornal Económico",
@@ -135,6 +126,15 @@
       "description": "O apelo de Mykhailo Fedorov é o desafio mais direto a Volodymyr Zelensky desde a invasão russa em 2022. O ex-ministro, que nunca chegou a ser reintegrado, estará a preparar-se para uma viagem aos Estados Unidos.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2022/03/eXV8EYEK0gLl-e1646676611497.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/ucrania-ex-ministro-da-defesa-pede-eleicoes-presidenciais-em-tempo-de-guerra/"
+    },
+    {
+      "title": "Trump anuncia “guerra económica” inédita contra Teerão - Público",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEprRTZEMkFZWThUNmE2ajN6MVkxaDE4WER1UmxtSE5HVzhpSkkwVFVQcXJsMkp0WV9wa2xieTY4U1FVTEtNdVBaSElyMmRYeWFWSFQ0cmluWE9yYkVtVEdhRWszbUtWWUtwRHJrUWVwLV9XTGlpWnZ1akJscFZoUllFVzJaX08yRzIzbGJlU2ZELUx3TEhDclVXQlFDZFlxY1Nz?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-20T08:45:15Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/08/20/mundo/noticia/trump-anuncia-guerra-economica-inedita-teerao-2185548"
     },
     {
       "title": "Concertos de Shakira e Christina Aguilera nos Emirados cancelados devido à guerra no Médio Oriente - SIC Notícias",
@@ -155,13 +155,13 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/20/porta-avioes-dos-eua-chega-ao-oriente-medio-para-substituir-uss-lincoln-apos-relatos-de-mas-condicoes.ghtml"
     },
     {
-      "title": "Médio Oriente: Irão ameaça usar mísseis mais destrutivos se guerra se intensificar - recordeuropa.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3lDRzBJYUZ1SElOMlBiZ2lFcXRaSG1vNlZxLUhueHBDc2MzQ0JNVDZKeTYwUHBIbFF4OXAwaEVvbFNKSGxqRUhsOFJqRlF2RFhURTFZcXlORGpfMUxHVy1iaUVqeUFmR04xRnVUSFd2b3R1ZzB5UWxuTjZNR09Na25sNTFwLVlaNmpMSUhPUDU5Yk9zeEpITGRmM29LWXdDbFBNNkN5Y2VFQktHeUNoUTFFWWpfVy1nVVl4R0tpRVhuSDVPVFhjc0RYWGRzV0tJR3VyQTdB?oc=5",
-      "source": "recordeuropa.com",
-      "publishedAt": "2026-08-20T16:25:56Z",
-      "description": "EUA tentam isolar o país, aplicando mais sanções económicas.",
-      "image": "https://recordeuropa.com/wp-content/uploads/2026/08/Figueira-da-Foz-PJ-detem-homem-procurado-pelas-autoridades-brasileiras.jpg",
-      "articleUrl": "https://recordeuropa.com/noticias/mundo/medio-oriente-irao-ameaca-usar-misseis-mais-destrutivos-se-guerra-se-intensificar-20-08-2026-353290"
+      "title": "A guerra com o Irão pode tornar-se “um conflito prolongado” como o da Ucrânia - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWUUzZ1ZBc1lYT2N6SHNZdldjU0pHWXpVeWsxTFlsOTIyUzhRdU5KczBjaEZ3MlBKdHlXTDU0QVNlMExIYXl6cmhscnRFZ1JNNU90TWs3UzlBREtoSEZEN05OVGZTcFJjOG1SZ0xvaTFDeHp5dG9xOTJnenphbE4tT29VVGdScElPajhkTmRJRC15ZWpleWt5SjdTM0dRMTJMSkFNOEd4T1BuR0NPdXFpVi1yY3VQalJTWHpOa1VXTjRZbmFZeXpEck9MRFJxSDdIUTZZMkdOSVQwR042RkVJRUViZC1HRUFqMnVzNWtsS2xXVmFRdFdDZ2dkSHdZV2ZkVFkzY01lLWI5UEhrRzNHdl81RzBYbm5Zd2VMVGpLYmhBZmloMkVhbF9ENy1pSUk0U01naEhoUTBTNzJVZkk0NEZtTkZ0dTdIZlZ4Y1FwcE9TaFJMRTdCYllWTE9HWjhHY0cxZmNxSHBOVGZzanNMNHVqdkRRMVp0cG1NX1IwUkxnV1NkT2drTy1TTzU4SXlVajZSaE5hRE1qSFJsYkU5T21EWnNaQ0s5WVh5TmtaNElaVnU1NTFYX1Atc2V0a0ZZYWdoTlhZQXAxdTFxbzJkUnAyaEcxbUZIYnRLM3JZdXA0TkNs?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-20T11:41:31Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-20-a-guerra-com-o-irao-pode-tornar-se-um-conflito-prolongado-como-o-da-ucrania-932cf44e?gaa_at=la&gaa_n=AXbw80QwkCL-E_GxO4HSBNTMo0B-vYEdWbUzfsa4CP0s1vgMRrQxrpHBLHY-ppShjqs%3D&gaa_ts=6a877803&gaa_sig=G3YA7nfZiExozxt-OOpREnrKugc13lmfqj2ZgcYKRrEss62WKObxzNmz2s8z3jjQMTDtN1cB-41nubcO1Pf6Hw%3D%3D"
     },
     {
       "title": "Os EUA mudaram de estratégia no Irão: desligar - CNN Portugal",
@@ -187,7 +187,7 @@
       "source": "Novo Jornal",
       "publishedAt": "2026-08-20T13:28:02Z",
       "description": "Já tinha sido notado com algum espanto que Donald Trump ficara em silêncio depois de ouvir os líderes iranianos a anunciar que tinham derrotado militarmente e sem margem para qualquer dúvida os EUA na guerra que começou a 28 de Fevereiro.",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821042432",
+      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821090202",
       "articleUrl": "https://novojornal.co.ao/internacional/detalhe/medio-oriente-trump-muda-o-chip-na-guerra-e-anuncia-dia-d-economico-contra-o-irao-teerao-responde-aceitando-a-derrota-militar-dos-estados-unidos-74067.html"
     },
     {
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Henrique Burnay: “Trump faz a América perder valor, ser aliado dos Estados Unidos é garantia de coisa nenhuma” - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQMVBPQ3paU1hpQ1lPQk42U2tFZ0pOajhvMTg3N1ZQUkhqTmZ5cllBUm9iVnZlYnBwcWFlQkFjdmtxNmpaWk1QaVMwRGx5RkVJYkZ2clo3dl9zajF3Rmx5TEFXaGp1SEEwZTVpa3BpR2FfeUhMYkxGQ1pMdmJBR0dqTEVZdHZaeDZxbVZjVUl5SjdjcUs5RUdYQ0JpdlZXaWF2NFBQaC1JYlgySjMwYmFiQ09TbkREa3RTckhac2NkX0JqQWFxWEttNTg3V0RTYk9sTTJCcHdrbUNQRGxsbS1ncTR4d0lDNXk3NmNVSlA1QmtQaGVKZUNUdEFSZ1YzT3hTR2ljR1hRT2ZIaVlLdGFLemxJOFN5WENJMDJneVY2YmpLRU55Und6eEdrN0Z6QjVyTVdtSHB1TGJPSkd4R0tyeTdoTTFIZFhPSVpvc3ljb09EaUVINGJwLVBMajhwUFRx?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-08-19T06:10:00Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "title": "Médio Oriente: Irão ameaça usar mísseis mais destrutivos se guerra se intensificar - MZNews",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXoyVzh5UmZoV25zcHJpdWQ5NTVqa3NLcjYwTE9DOEVzdnBRSy11Q0p3ZTBfM1lKMTZteUlLRFBtZEt2Qk9nT2ljeDFfWWVRSTNWRzBDWGVxdndVdWd5SkFROV9XS25GQ1pGNmpNMkwxVjdjMmhwOTlXMm5ocDVyRWJrR2lURnRLNVA0VDBxMk4wVDdxTmYyM3pTN2ZZbm5USy1ESURB?oc=5",
+      "source": "MZNews",
+      "publishedAt": "2026-08-21T07:33:56Z",
+      "description": "Notícia publicada por MZNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
