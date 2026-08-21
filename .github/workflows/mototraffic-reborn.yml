@@ -15,7 +15,8 @@ jobs:
 
       - name: Restore source
         run: |
-          base64 -d staging/mototraffic-reborn-src.tgz.b64 > /tmp/mototraffic.tgz
+          cat staging/reborn_chunks/chunk_* > /tmp/mototraffic.b64
+          base64 -d /tmp/mototraffic.b64 > /tmp/mototraffic.tgz
           tar -xzf /tmp/mototraffic.tgz
 
       - name: Set up Java 17
