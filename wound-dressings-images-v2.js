@@ -1,16 +1,18 @@
 (()=>{
-  if(window.__fccWoundDressingImagesV2Installed)return;
-  window.__fccWoundDressingImagesV2Installed=true;
+  if(window.__fccWoundDressingImagesV3Installed)return;
+  window.__fccWoundDressingImagesV3Installed=true;
 
-  const CURATED='./wound-images-curated-v1.json?v=1.0';
-  const LEGACY_MANIFEST='./wound-images-hq-v3.json?v=3.2';
+  const CURATED='./wound-images-curated-v1.json?v=1.1';
+  const LEGACY_MANIFEST='./wound-images-hq-v3.json?v=3.3';
   let HQ={products:{}},READY=false;
   const ENHANCED=new Map();
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
   const aliases={
     'acticoat acticoat flex 3':'Acticoat® / Acticoat® Flex 3',
     'argenpal 42 5 mg barra cutanea':'Argenpal 42,5 mg barra cutânea®',
-    'surgicel fibrillar':'Surgicel® Fibrilar'
+    'surgicel fibrillar':'Surgicel® Fibrilar',
+    'mepilex border flex':'Mepilex® Border',
+    'mepilex border heel':'Mepilex® Heel'
   };
 
   function keyFor(name){
@@ -23,11 +25,15 @@
     return name||'';
   }
 
+  function embeddedUser(key){
+    return !!(window.FCC_WOUND_IMAGES||{})[key]&&(window.FCC_WOUND_USER_EMBEDDED||{})[key]===true;
+  }
+
   function verifiedHQ(key){
     const raw=HQ.products?.[key]?.images||[];
-    return raw.filter(x=>x?.src&&x.verified===true&&!/^https?:\/\//i.test(String(x.src))).slice(0,1).map((x,i)=>({
+    return raw.filter(x=>x?.src&&x.verified===true&&!/^https?:\/\//i.test(String(x.src))).slice(0,4).map((x,i)=>({
       src:x.src,
-      label:x.label||`Imagem principal ${i+1}`,
+      label:x.label||`Imagem ${i+1}`,
       source:x.source_page||'Fonte verificada',
       hq:true,
       width:x.width,
@@ -39,9 +45,13 @@
     const key=keyFor(name);
     const legacy=(window.FCC_WOUND_IMAGES||{})[key]||'';
     const curated=verifiedHQ(key);
-    if(curated.length)return {key,legacy,list:curated,primary:curated[0],curated:true};
+    if(curated.length)return {key,legacy,list:curated,primary:curated[0],curated:true,userLocal:false};
+    if(legacy&&embeddedUser(key)){
+      const item={src:legacy,label:'Imagem enviada pelo utilizador',source:'Upload local',hq:true};
+      return {key,legacy,list:[item],primary:item,curated:true,userLocal:true};
+    }
     const list=legacy?[{src:legacy,label:'Referência documental',source:'INF.2251.00',hq:false}]:[];
-    return {key,legacy,list,primary:list[0]||null,curated:false};
+    return {key,legacy,list,primary:list[0]||null,curated:false,userLocal:false};
   }
 
   function enhanceLegacy(src){
@@ -100,7 +110,7 @@
     if(summary&&main){
       if(!thumb){thumb=document.createElement('img');thumb.className='penso-thumb';thumb.loading='lazy';thumb.decoding='async';summary.insertBefore(thumb,main)}
       thumb.src=media.primary.src;thumb.alt=`${name} · ${media.primary.label}`;
-      thumb.onerror=()=>{if(media.legacy)useLegacy(thumb,null,null,media.legacy)};
+      thumb.onerror=()=>{if(media.legacy&&!media.userLocal)useLegacy(thumb,null,null,media.legacy)};
       if(!media.primary.hq&&media.legacy)enhanceLegacy(media.legacy).then(src=>{if(src)thumb.src=src});
     }
 
@@ -109,27 +119,27 @@
     const sec=document.createElement('section');sec.className='penso-photo-section';
     const h=document.createElement('h4');h.textContent='Imagem do material';
     const gallery=document.createElement('div');gallery.className='penso-gallery';
-    media.list.forEach(item=>gallery.appendChild(makeImage(name,item,media.legacy)));
+    media.list.forEach(item=>gallery.appendChild(makeImage(name,item,media.userLocal?'':media.legacy)));
     const note=document.createElement('div');note.className='tiny penso-image-note';
     note.textContent=media.curated
-      ?'Fotografia local verificada. O ficheiro mantém a resolução de origem; tocar na imagem abre a versão integral. A imagem institucional é usada apenas se este ficheiro falhar.'
+      ?'Fotografia local verificada. O ficheiro mantém a resolução disponível; tocar na imagem abre a versão integral.'
       :'Fallback incorporado do guia institucional INF.2251.00.';
     sec.append(h,gallery,note);body.prepend(sec);
   }
 
   function audit(){
     const products=window.fccWoundDressings?.data||[];
-    const missingCurated=products.filter(p=>verifiedHQ(keyFor(p.name)).length===0).map(p=>p.name);
+    const missingCurated=products.filter(p=>{const key=keyFor(p.name);return verifiedHQ(key).length===0&&!embeddedUser(key)}).map(p=>p.name);
     const external=[...document.querySelectorAll('#clin-dressings .penso-photo-section img')].filter(i=>/^https?:\/\//i.test(i.currentSrc||i.src)).length;
-    const result={productCount:products.length,curatedCount:products.length-missingCurated.length,missingCurated,externalActive:external,ok:products.length===27&&missingCurated.length===0&&external===0,checkedAt:new Date().toISOString()};
+    const result={productCount:products.length,curatedCount:products.length-missingCurated.length,missingCurated,externalActive:external,ok:products.length===28&&missingCurated.length===0&&external===0,checkedAt:new Date().toISOString()};
     window.FCC_WOUND_IMAGE_AUDIT=result;
     document.documentElement.dataset.fccWoundImages=result.ok?'ok':'warning';
     return result;
   }
 
   function styles(){
-    if(document.getElementById('penso-images-v2-style'))return;
-    const s=document.createElement('style');s.id='penso-images-v2-style';s.textContent=`
+    if(document.getElementById('penso-images-v3-style'))return;
+    const s=document.createElement('style');s.id='penso-images-v3-style';s.textContent=`
       .penso-card>summary{justify-content:flex-start!important}.penso-thumb{width:72px;height:72px;object-fit:contain;flex:0 0 auto;border:1px solid var(--line);border-radius:12px;background:#fff;padding:5px}.penso-card .penso-sum-main{flex:1}
       .penso-photo-section{overflow:hidden}.penso-gallery{display:grid;grid-template-columns:minmax(0,760px);gap:10px;margin-top:8px}
       .penso-gallery-item{display:grid;grid-template-rows:minmax(280px,auto) auto;text-decoration:none!important;color:inherit;border:1px solid var(--line);border-radius:13px;overflow:hidden;background:var(--panel)}
