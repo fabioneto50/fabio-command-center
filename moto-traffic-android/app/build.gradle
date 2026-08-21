@@ -1,0 +1,31 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace = 'com.fabio.mototraffic'
+    compileSdk = 37
+
+    defaultConfig {
+        applicationId = 'com.fabio.mototraffic'
+        minSdk = 26
+        targetSdk = 37
+        versionCode = 8
+        versionName = '1.7.0-android'
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled = false
+        }
+        release {
+            minifyEnabled = true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+}
