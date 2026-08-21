@@ -10,7 +10,7 @@
     'cuf-imp1636-chunk-01.js','cuf-imp1636-chunk-02.js','cuf-imp1636-chunk-03.js','cuf-imp1636-chunk-04.js','cuf-imp1636-loader.js',
     'dilutions-cuf-v6.js','dilutions-card-ux-v5.js','family-security.js','clinical-material.js','clinical-material-window-v2.js',
     'iv-compatibility.js','iv-catalogue.js','iv-compatibility-ui-v2.js','iv-source-evidence.js','iv-compatibility-expanded-v3.js','iv-compatibility-exit-reset-v1.js',
-    'clinical-restructure.js','wound-dressings-v1.js','wound-dressings-order-v1.js',
+    'clinical-restructure.js','wound-dressings-v1.js','wound-dressings-local-data-v1.js','wound-dressings-order-v1.js',
     'wound-images-chunk-01.js','wound-images-chunk-02.js','wound-images-chunk-03.js','wound-images-chunk-04.js','wound-images-chunk-05.js','wound-images-chunk-06.js','wound-images-chunk-07.js','wound-dressings-images-v2.js',
     'clinical-cases-separate-v3.js','clinical-cases-bank-v2.js','clinical-cases-ux-patch-v1.js','clinical-cases-upgrade-v3.js',
     'drug-reference-v2.js','medication-info-v4.js','medication-info-ux-v5.js','medication-brands-v1.js','medication-stability-cuf-v1.js','medication-safety-cuf-v2.js','medication-reference-links-v2.js',
