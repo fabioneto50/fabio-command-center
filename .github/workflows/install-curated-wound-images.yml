@@ -9,6 +9,12 @@ on:
       - 'scripts/install_curated_wound_images.py'
       - 'wound-dressings-images-v2.js'
       - '.github/workflows/install-curated-wound-images.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'scripts/install_curated_wound_images.py'
+      - 'wound-dressings-images-v2.js'
+      - '.github/workflows/install-curated-wound-images.yml'
   workflow_dispatch:
 
 permissions:
@@ -25,7 +31,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -121,15 +126,11 @@ jobs:
           ids=re.findall(r'\bid=["\']([^"\']+)["\']',text)
           dup=[k for k,v in Counter(ids).items() if v>1]
           report='\n'.join([
-            'Fábio Command Center · curated wound image validation',
-            '',
-            f'Products: {m["product_count"]}',
-            f'Verified local images: {m["verified_product_count"]}',
-            f'Minimum source dimensions: {min(w for w,h in dims)}x{min(h for w,h in dims)} (axis minima)',
-            f'Maximum source dimensions: {max(w for w,h in dims)}x{max(h for w,h in dims)} (axis maxima)',
-            'Root JavaScript syntax: PASS',
-            f'Static HTML IDs: {len(ids)}',
-            f'Duplicate static IDs: {len(dup)}',
+            'Fábio Command Center · curated wound image validation','',
+            f'Products: {m["product_count"]}',f'Verified local images: {m["verified_product_count"]}',
+            f'Minimum source width: {min(w for w,h in dims)}',f'Minimum source height: {min(h for w,h in dims)}',
+            f'Maximum source width: {max(w for w,h in dims)}',f'Maximum source height: {max(h for w,h in dims)}',
+            'Root JavaScript syntax: PASS',f'Static HTML IDs: {len(ids)}',f'Duplicate static IDs: {len(dup)}',
             'Runtime image URLs: local repository paths only',
           ])+'\n'
           Path('wound-images-validation-report.txt').write_text(report,encoding='utf-8')
@@ -137,6 +138,7 @@ jobs:
           PY
 
       - name: Publish generated local image assets
+        if: github.event_name == 'push'
         shell: bash
         run: |
           set -e
