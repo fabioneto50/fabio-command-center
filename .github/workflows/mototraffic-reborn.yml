@@ -13,10 +13,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Restore source
+      - name: Restore verified source
         run: |
-          cat staging/reborn_chunks/chunk_* > /tmp/mototraffic.b64
-          base64 -d /tmp/mototraffic.b64 > /tmp/mototraffic.tgz
+          cat staging/reborn_binary/part* > /tmp/mototraffic.tgz
+          echo "a24dbbc7492d10596546767de68c74ef1748a673ebd7782530a357b48bf0d794  /tmp/mototraffic.tgz" | sha256sum -c -
           tar -xzf /tmp/mototraffic.tgz
 
       - name: Set up Java 17
