@@ -2,15 +2,6 @@
   if(window.__fccWoundDressingsOrderV2Installed)return;
   window.__fccWoundDressingsOrderV2Installed=true;
 
-  if(!document.querySelector('script[data-fcc-wound-gallery-extras]')){
-    const s=document.createElement('script');
-    s.src='./wound-gallery-extras-v1.js?v=1.1';
-    s.async=true;
-    s.dataset.fccWoundGalleryExtras='1';
-    s.onerror=()=>console.error('FCC supplementary wound gallery failed to load');
-    document.head.appendChild(s);
-  }
-
   const KEY='fcc-master-subcategory-order-v1';
   const wrap=document.querySelector('#page-clinical > .tabs');
   const id=t=>{const on=t?.getAttribute('onclick')||t?.dataset?.originalOnclick||'';return on.match(/subtab\([^,]+,\s*['"]([^'"]+)['"]/)?.[1]||t?.dataset?.subId||t?.id||('label:'+(t?.textContent||'').trim())};
