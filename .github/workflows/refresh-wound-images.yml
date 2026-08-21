@@ -1,7 +1,7 @@
 name: Refresh wound dressing HQ images
 on:
   push:
-    branches: [update/wound-images-hq-v3-20260821]
+    branches: [main, update/wound-images-hq-v3-20260821]
     paths:
       - 'scripts/refresh_wound_images.py'
       - 'wound-dressings-v1.js'
