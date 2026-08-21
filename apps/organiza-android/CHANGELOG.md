@@ -14,6 +14,7 @@
 - Integração opcional Health Connect para duração de sono.
 - Persistência local expandida e retrocompatível com os dados v0.1.
 - Testes do motor de planeamento ampliados.
+- GitHub Actions configurado para testar e gerar automaticamente o APK debug.
 
 ## 0.1.0
 
