@@ -1,0 +1,47 @@
+name: Expand Organiza Android source
+
+on:
+  push:
+    branches:
+      - feature/organiza-android-v0.2
+    paths:
+      - 'bootstrap/OrganizaAndroid_MVP_v0.2.zip'
+      - '.github/workflows/organiza-android-bootstrap.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  expand-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Expand Android project
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/organiza-android
+          mkdir -p /tmp/organiza-android
+          unzip -q bootstrap/OrganizaAndroid_MVP_v0.2.zip -d /tmp/organiza-android
+          rm -rf apps/organiza-android
+          mkdir -p apps/organiza-android
+          cp -a /tmp/organiza-android/OrganizaAndroid/. apps/organiza-android/
+
+      - name: Commit expanded source
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- apps/organiza-android
+          if git diff --cached --quiet; then
+            echo 'Source already expanded; nothing to commit.'
+          else
+            git commit -m 'Expand Organiza Android v0.2 source'
+            git push origin HEAD:${{ github.ref_name }}
+          fi
