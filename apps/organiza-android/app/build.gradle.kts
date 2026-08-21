@@ -44,7 +44,8 @@ android {
 }
 
 dependencies {
-    val composeBom = platform("androidx.compose:compose-bom:2026.08.00")
+    // Compose 1.10.x remains compatible with compileSdk 36 on the current GitHub runner.
+    val composeBom = platform("androidx.compose:compose-bom:2026.04.01")
     implementation(composeBom)
     androidTestImplementation(composeBom)
 
