@@ -56,6 +56,11 @@ jobs:
           PY
           [ -f .audit-fail ] && fail=1
 
+          echo >> "$report"
+          echo "== Wound dressing image audit ==" >> "$report"
+          python scripts/audit_wound_images.py >> "$report" 2>&1
+          [ $? -ne 0 ] && fail=1
+
           {
             echo
             echo "== Architecture risk scan (active + dormant files) =="
