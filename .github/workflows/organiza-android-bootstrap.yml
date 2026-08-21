@@ -1,5 +1,6 @@
 name: Expand Organiza Android source
 
+# Triggered by changes to the bootstrap package or this workflow.
 on:
   push:
     branches:
