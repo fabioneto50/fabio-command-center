@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-21T08:09:46.445124Z",
+  "updatedAt": "2026-08-21T10:01:02.460809Z",
   "health": [
+    {
+      "title": "Mulher transportada para o hospital após apresentar febre e tosse - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWpzdkFYSHVNSWg4UWVRem54ZDc3MlhNeFhfUDJ2aXN5ZlY3VnR5b25SVUdGcmR3WDJUTFR3OGp0R3BncE90RzJJakM5TmN4M2prVkpGUUd5TUN0ZVFMQTVNdWZMQXIwWkppcDd5cWxpM19JTmJtUWlnYS1JM0VBVS1YR2EzelRzNGhWSGRZSUpONVZNeGE2NmtxdHo3SXVsRXVKWEw1X2JzaEs5?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-08-21T09:06:00Z",
+      "description": "Uma mulher na casa dos 80 anos foi transportada, esta manhã, para o hospital depois de apresentar febre e tosse no Lar da Bela Vista, no Funchal.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoRS543190_13JAN00013_11_Qu0Y1Rj_U3SpwIS_7YNaCcZ.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/8/21/503023-mulher-transportada-para-o-hospital-apos-apresentar-febre-e-tosse/"
+    },
     {
       "title": "Nova parceria liga Portugal e Marrocos em Saúde Pública e Gestão da Saúde - Escola Nacional de Saúde Pública",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWdkMTZSQlVTT1R6MVBwRWdJYzR1c0hyQUJBT0xLMjhDQ2tyVzdkTFZBZ2ZiS28xNVFYcFJfVFY4Rjd2dkZQSDNQTnk4M1c1STJjdDBXS2xmeVNIY3JQRHFTX3RFODMzZ1VhdWFHazh5UVItMGNJelN3cG9uR19LT3V6dmo3UjFlOURFd2JGSjRXZWZodUdIY0VJdmJfR1E?oc=5",
@@ -11,22 +20,40 @@
       "articleUrl": "https://www.ensp.unl.pt/nova-parceria-liga-portugal-e-marrocos-em-saude-publica-e-gestao-da-saude/"
     },
     {
+      "title": "Novo modelo da urgência de Leiria diminui tempo de permanência e garante segurança do doente - Observador",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGhyRXNHd2xfNWJXcmZNaHpaT20xRTVZTm9vb0xfaXotMVpvb2VTTkJYQmR0d1ZMbXVpR1NVV3NtLWlXdTFndjFNU1JEaDYtTTRSSFo4NWZTUVJldGhCbW9sZXRnbFRBbXlIZGd0bVNLZlVpX1U1MGlDVzZfU1JJNWd5RGVQZkt1VVh2UVVpcjVpNTBzLWR5MVJJU0Z3RzBIRUI4dFYxdjQ3VllqcncwcjN1cE96M2dOQkQwSnNud1dRU2xx?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-21T09:44:39Z",
+      "description": "O circuito de entrada nas urgências da Unidade Local de Saúde de Leiria mudou. Agora, se for detetado um resultado crítico na saúde de um doente, este é alertado e passa à frente dos restantes.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F28080253%2F46643327.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/08/21/novo-modelo-da-urgencia-de-leiria-diminui-tempo-de-permanencia-e-garante-seguranca-do-doente/"
+    },
+    {
       "title": "O mais rentável seguro de saúde que é do Estado - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlo0NUhfREFTM1lJQ2paSkUxMGtVNXd3ME5xOG5hRGdKR28yRTdfODd6d21PVjl0cWhhX2E4bHNDb2t1cjNob0VyeHZNR3hjcExvWUZQZlRmMlNVOG5wajRvN1FsNlF1NWJGOGozekRFY1FjUjJaUFRSOWZSX3h5ZC1GNTVmNWQyVnhhZVpqUllwMnc?oc=5",
       "source": "Jornal Económico",
-      "publishedAt": "2026-08-21T07:00:00Z",
+      "publishedAt": "2026-08-21T09:00:00Z",
       "description": "A ADSE seria o mais rentável seguro de saúde se estivesse nesse mercado. Acumula excedentes e lucros, mas o serviço é limitado, mesmo com o alargamento da rede de prestadores e a revisão das tabelas.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/08/saude.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/o-mais-rentavel-seguro-de-saude-que-e-do-estado/"
     },
     {
-      "title": "Aborto. Hospital Garcia de Orta viola instruções do regulador - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3VfUkZGX1dTeWlRcGN2c2QzS04yQ2FVXzNwV1FBRnl0d3NxdlRxY25iNDRZZkhRR0YwYmVyTmVnbWtyRmYzLUFEcnBLVXhjMzhyRDk1ZFlRSEtZUTQ4Q25IaG1QTWwzNVpNSk1xQkZnQ0FJSjliYUZUQjQ2VktxcWdablZfWDdWbDVORVpHcw?oc=5",
+      "title": "Revista de imprensa. A esperança na vacina contra o cancro e Benfica com um pé na Liga Europa - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEhucUpCZzNoa0dxaTB0Mldzejg4eVItaXZ1VXRyWEtVSHl3VGdwejV2VjFVclBxNVRoSDNsa1U2a3NLM1NrdFg2V1d2Qjd0MDZQdlBGWXFmR2pBVElIbXlwY0tyQVpicGVqanZNdFdiQ2w1bUp3SnNBVkJNWEVxVlpWTjhQaVRGc2FHZXBnNWxOQkhaX1BnVFFBaW5na2JuWlpQcjhIR1hTTTVtNlFJOHNZX0twWVE?oc=5",
       "source": "Diário de Notícias",
-      "publishedAt": "2026-08-21T07:03:11Z",
-      "description": "A nova orientação, enviada a 7 de agosto pelo Hospital Garcia de Orta (HGO) aos centros de saúde da respetiva área, a propósito da descontinuação da sua consult",
-      "image": "https://media.assettype.com/dn%2Fimport%2Fdncxpgxxypnfpero%2F7y4ojy5rk7tf.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/aborto-hospital-garcia-de-orta-viola-instrues-do-regulador"
+      "publishedAt": "2026-08-21T08:06:03Z",
+      "description": "A vitória desta quinta-feira do Benfica sobre o Aarhus (3-1), na primeira-mão do playoff de acesso à fase de grupos da Liga Europa, é o denominador comum de qua",
+      "image": "https://media.assettype.com/dn%2F2025-08-21%2Fqktmmuwx%2FRevista-de-Imprensa-1?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/revista-de-imprensa-benfica-com-um-p-na-liga-europa-e-esperana-na-vacina-contra-o-cancro"
+    },
+    {
+      "title": "Vacina da Moderna e Merck traz esperança no combate contra o cancro da pele - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUY0OEdtR0JyOVJrM0FURUp1dFFqaHlzZXAxRHREcjBYOU5nVzNGMnVqQ3V2UU8zd3p0NnNLTUJMaWpQSU84MmJESk9yTGNOUV9RNDdXNTM5cGRiaTJNS0hNSU9YSXFDZHBCbXlzb2ZSNWV4QnY1ODQ2U053ZFdqeGphRHU0UHRFaXc4UmdWX2ZyTFBPWHJMaVViRFNlSV81ZVUwcW1nZGRyNU9iRmE3eXJScGcwQQ?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-08-21T08:16:00Z",
+      "description": "Os resultados positivos foram possíveis graças a uma combinação da vacina com o medicamento Keytruda, utilizado em imunoterapia.",
+      "image": "https://cdn.nowcanal.pt/images/2025-10/img_1280x721uu2025-10-23-17-44-43-27788-im-638986411769777150.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/vacina-da-moderna-e-merck-traz-esperanca-no-combate-contra-o-cancro-da-pele"
     },
     {
       "title": "Avanço contra o melanoma pode dar início a onda de vacinas para o cancro - Público",
@@ -47,64 +74,37 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/oms-ensaio-clinico-na-populacao-de-um-pais-sem-saida_n1760611"
     },
     {
+      "title": "Urgências de Leiria estão a mudar. Novo modelo aumenta segurança dos utentes - Jornal de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjlKejBhS09QYV81czBKVlRkMUN2LW1hRWdhNzliMGZSR3ZNSmZWNnhoRkQ3TjNieFRVRURzTHQ2S0dFVDJQQ3hGbWp5U0hISnpRVUJTTm0tVk9VWmgwN2s1aXFtMWFqbTBoRWtvcDR6UGZqX1lJNjJfcllBMTVrWnJCRllrZjd5UjZrcEc2Y3lQazQ5NmRZcGk2dFE5ZXd0c09pVFRHX3d6QjlBUmlJcFlJMA?oc=5",
+      "source": "Jornal de Leiria",
+      "publishedAt": "2026-08-21T08:56:41Z",
+      "description": "Os tempos de espera podem não diminuir, mas a segurança do utente e a avaliação prioritária está garantida com o novo método em funcionamento na Urgência Geral do Hospital de Santo André, em Leiria",
+      "image": "https://www.jornaldeleiria.pt/uploads/2/r/s/hospital-santo-andre-urgencia-saude-medicos-leiria-rg-2019-7-770x470-2rsc_facebook.JPG",
+      "articleUrl": "https://www.jornaldeleiria.pt/noticia/urgencias-de-leiria-estao-a-mudar-novo-modelo-aumenta-seguranca-dos-utentes"
+    },
+    {
+      "title": "OESTE: Unidade Local de Saúde realiza primeira cirurgia robótica - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2ZlMFFnN0hBZm83M3NLZmt0SFhnaHk5cnptcnRpRFZGNEVmblM1ZHlWQkFOTGt0VVBJQU1vcnRSUTRNekFoaWpIcHVDUDlDSkcyQmVMc2ppVW1Ybml0UTdpVEQybmg0Ul8xb0ZaOW4xekVJRTdnWlJiZGZGRkIxNmMySVdYc1dEN1E5R1BaMHV6REF1VWhZMHJNV1hjMmlETHNTVg?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-08-21T08:36:16Z",
+      "description": "A primeira cirurgia robótica na Unidade Local de Saúde do Oeste (ULS do Oeste) vai realizar-se, na sexta-feira, na especialidade de Urologia, informou hoje a instituição.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066352_0000000001.jpg",
+      "articleUrl": "https://www.saudemais.tv/noticia/66352-oeste-unidade-local-de-saude-realiza-primeira-cirurgia-robotica"
+    },
+    {
+      "title": "Programas de apoio à saúde beneficiam mais de 10 mil funchalenses - JM Madeira",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDRCcVlPQWhvSFFJMElSSEd1ZFQtU1V2R1NJa2h4eGJLTk5BQndsOEx1czFKUlpWVTVEUHU3OWkySnhsdWd4LTZLYTRWaHQ5RWdYSkYyZG1TdzdGbTlWMGhxNGMyelB5WURHVTFURnNpT3MybzdqcHo1SVpsd3o5ZHpQRVl2NEJNdmZjU0xjTUhhUUctclBvWlkzeTk2dmY4SndHMjFFTjk0eV8xaVJoNEYxSmRubFBzS1dTY2NQQWMzZWlX?oc=5",
+      "source": "JM Madeira",
+      "publishedAt": "2026-08-21T09:39:57Z",
+      "description": "Notícia publicada por JM Madeira. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "Reforma dos serviços de obstetrícia parada no Ministério da Saúde há sete meses - Expresso",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9tYTlNYXQyRU4yZFhzemcyTklDYmdWQUhUTnpZRWpDSGdQUGdabWNPMk1GOTg4b2wtSHdrWEtaVEN5VXVDWDluVW5kbnlOQXgyRTA5cGI3RDNTSnV2Z3JpdTd1N2NocWRhMENwcjY5Um5UdVdvQThzZFNNUkZNTTRtWE5xcEh6VktsNlk4M2pnVW1rY0tsaXNUYm5fODNzZGZPYy1yTnRYdTN2VmxRWEVVaUt4SUdPeGo4MnVnUWNGRlFWUmthVQ?oc=5",
       "source": "Expresso",
       "publishedAt": "2026-08-20T21:57:00Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/2026-08-20-reforma-dos-servicos-de-obstetricia-parada-no-ministerio-da-saude-ha-sete-meses-3297e8e5"
-    },
-    {
-      "title": "Estado tem o seguro de saúde mais rentável - TVI",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEpkVUZNUTBsREZHVEd2ekNyejJ6Rmxadklpa1BUX1pOLV95cTJCcGlyTV9IbTRQR1ZibkQyX0dIMjdqc3BCd3J1elJxWVljYnNQb3g1TlhOZmtqMWJxRm9VVWkxQzVvVUp2UzVQOEFnb25zR2xyR3paSm05cVkwWEVaaFBfckZTOVlDUVlTcXd4Z0hUM2lwaXhJTTMzNWZEMU9UNGRxUXFfT3lOZktVQVJoU0twQTcx?oc=5",
-      "source": "TVI",
-      "publishedAt": "2026-08-21T06:57:00Z",
-      "description": "REVISTA DE IMPRENSA | ADSE lucra mais cerca de 45% do que todo o setor dos seguros de saúde",
-      "image": "https://img.iol.pt/preset/65954aa7d34e65afa2f93f78/og/tvi24",
-      "articleUrl": "https://tvi.iol.pt/noticias/adse/seguros/estado-tem-o-seguro-de-saude-mais-rentavel/20260821/6a87f6f9d34ed0733ba80ea6"
-    },
-    {
-      "title": "Governo da Madeira reforça capital do serviço regional de saúde com 45 milhões de euros - Observador",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlh4NFlJR21ucnZsYVBHNFpicm5pVlF2ZVdESjVRdVV3aV9CX0ctbTRqRW90c21lZFVEUW9XWlFwN0VSZlFlcy1tUEN1cTZmb0Q3Q0g2TTlOeC1taEw0enpBRlJOeUM1TkdxS2ZZd2VJSUNxVUhtN2JHbUh1dlp1N0VHUE9GaGo1YlpJUDlsUWdncXJLVmk5YTlzZTJZVHZqWld0cV94WTR5UDU0c05oUzlDRGF6eVdHbGEyZldR?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-20T20:00:10Z",
-      "description": "O Governo da Madeira aprovou o reforço do Serviço de Saúde da Região Autónoma da Madeira em 45 milhões de euros. Na mesma reunião foram ainda aprovados contratos-programa para a educação e desporto.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F01%2F31210947%2F30542358.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/20/governo-da-madeira-reforca-capital-do-servico-regional-de-saude-com-45-milhoes-de-euros/"
-    },
-    {
-      "title": "Cortes globais ameaçam saúde em África, alerta OMS - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHhNYWl0R1hvU0U5UjFBbnYwT2Qxc2NuTmpmc0psbjdJbkR6YXF3Zkx2bS1XX292c3ZSYVNHdDdnN3dVa2t0SXVtQlZkLVg3SmVFQXRKMEZIdWU5R1NHVmNRWDNFNFJJR21GeFdVSG42VmlxeEdkMWV6c0VsTWRJVTVzWGUwMXdQcGhn?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-08-21T06:06:53Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/08/21/cortes-globais-ameacam-saude-em-africa-alerta-oms/"
-    },
-    {
-      "title": "Farmacêuticas anunciam resultados positivos para vacina contra melanoma - Notícias ao Minuto",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmcwWTc5Yk1mR19zVmtpdnhHSkZEMXFEU01ocFNVZkd5U2gxeWwxaFpWbEdqX1RXanZRYzYzbjcyRkgwT0w4azhEdEluenFSanhjbFVoLTIwcUFSM3g1Ymd2UlFKeDFDc1lwbFRLMS1JcXdNeC1LVEVaMnM1dk1jS2d4NGdGN0VqdEMwMk5WT21zdmc0ZGk5R3ZVemlySlBhMXpUWmdLS1hsbUtnQ0s4M1cyLTFMMEhIeUE?oc=5",
-      "source": "Notícias ao Minuto",
-      "publishedAt": "2026-08-21T06:25:59Z",
-      "description": "\"Trata-se do primeiro anúncio de resultados positivos da fase 3 (...) para uma terapia anticancerígena à base de ARNm [ARN mensageiro]\", salientam em comunicado...",
-      "image": "https://media-manager.noticiasaominuto.com/960/naom_63720b3bd8c3a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExNzEsImNyb3BZIjowfX0=",
-      "articleUrl": "https://www.noticiasaominuto.com/mundo/3038675/farmaceuticas-anunciam-resultados-positivos-para-vacina-contra-melanoma"
-    },
-    {
-      "title": "Acordos reforçam intervenção precoce de saúde junto das crianças no Algarve - Sul Informação",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDRFVkhBLU5aajl6ZFMwcTVFdC13YUs0aDdrd0VHQ0lod2hsX0pLUzhCQ0RwbER4OU03SW44ZnhIbTRBN3RWejVtNFZrdHFpSU5WVmdBV1RpYmJ2S1VBSEtqazdWZGRVaWlmSXpkMkI4NDBmenJZRXcyd3BkMXZhS0pHYzJBbkE2cXJwdERLWlB0V0MtcGlkd050aWxVakhkUTNPVU9rN1hkTmMwdFB6MGo3SQ?oc=5",
-      "source": "Sul Informação",
-      "publishedAt": "2026-08-21T01:00:00Z",
-      "description": "Notícia publicada por Sul Informação. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Urgências de Leiria estão a mudar. Novo modelo aumenta segurança dos utentes - Jornal de Leiria",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjlKejBhS09QYV81czBKVlRkMUN2LW1hRWdhNzliMGZSR3ZNSmZWNnhoRkQ3TjNieFRVRURzTHQ2S0dFVDJQQ3hGbWp5U0hISnpRVUJTTm0tVk9VWmgwN2s1aXFtMWFqbTBoRWtvcDR6UGZqX1lJNjJfcllBMTVrWnJCRllrZjd5UjZrcEc2Y3lQazQ5NmRZcGk2dFE5ZXd0c09pVFRHX3d6QjlBUmlJcFlJMA?oc=5",
-      "source": "Jornal de Leiria",
-      "publishedAt": "2026-08-21T05:57:51Z",
-      "description": "Notícia publicada por Jornal de Leiria. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -117,6 +117,15 @@
       "description": "Mais de 750 soldados norte-americanos ficaram feridos em quase seis meses de conflito com o Irão, segundo dados divulgados na quinta-feira pelo Departamento de",
       "image": "https://media.assettype.com/dn%2F2025-03-04%2Ffrrn39ol%2Fblindado-ex%C3%A9rcito-NUNOBRITES0010.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/internacional/mais-de-750-soldados-dos-eua-feridos-desde-incio-da-guerra-no-mdio-oriente"
+    },
+    {
+      "title": "Não há Patriots, há Starlink. A nova ideia da Ucrânia para sobreviver à grande ameaça da Rússia passa por Musk - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYlptajM3LThaM2t2UWIxcEhlb0FBMi02Ri1ZenZKejFnQm92RlEtZ3RicVRqcGN6YnJ6M1dIdW9hd0RQVGlaaFNhV2prS3lsZ294VTYwR2xDZEdWRlFMNnVtU0ozU1BqTUd3SDBMVkEtcDNTTGFZQURZdVVObVFvdjA0c3FZT3N5c1p4ZWFDZUZYazhRV3BwcjlxM2ZSdTljUFBCYTY0LVVrT2pDQW1CR2pBSzN4NmwtMWNhdjViQWRELTdqZzY1SU94U1ExaFg1QVpvZHU5Mml5UDBuZzNiWGtENTBpak1ZY0ZMekl1QlhMci1nc2NkV2puMkFXeUdOTDBOdjlIVTVDNU9XQXZYeDlR?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-08-21T09:24:00Z",
+      "description": "Há meses que a Ucrânia faz o mesmo aviso, mas a pressão está a aumentar de forma decisiva e agora é preciso uma alternativa",
+      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
     },
     {
       "title": "Ucrânia: ex-ministro da Defesa pede eleições presidenciais em tempo de guerra - Jornal Económico",
@@ -155,24 +164,6 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/20/porta-avioes-dos-eua-chega-ao-oriente-medio-para-substituir-uss-lincoln-apos-relatos-de-mas-condicoes.ghtml"
     },
     {
-      "title": "A guerra com o Irão pode tornar-se “um conflito prolongado” como o da Ucrânia - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWUUzZ1ZBc1lYT2N6SHNZdldjU0pHWXpVeWsxTFlsOTIyUzhRdU5KczBjaEZ3MlBKdHlXTDU0QVNlMExIYXl6cmhscnRFZ1JNNU90TWs3UzlBREtoSEZEN05OVGZTcFJjOG1SZ0xvaTFDeHp5dG9xOTJnenphbE4tT29VVGdScElPajhkTmRJRC15ZWpleWt5SjdTM0dRMTJMSkFNOEd4T1BuR0NPdXFpVi1yY3VQalJTWHpOa1VXTjRZbmFZeXpEck9MRFJxSDdIUTZZMkdOSVQwR042RkVJRUViZC1HRUFqMnVzNWtsS2xXVmFRdFdDZ2dkSHdZV2ZkVFkzY01lLWI5UEhrRzNHdl81RzBYbm5Zd2VMVGpLYmhBZmloMkVhbF9ENy1pSUk0U01naEhoUTBTNzJVZkk0NEZtTkZ0dTdIZlZ4Y1FwcE9TaFJMRTdCYllWTE9HWjhHY0cxZmNxSHBOVGZzanNMNHVqdkRRMVp0cG1NX1IwUkxnV1NkT2drTy1TTzU4SXlVajZSaE5hRE1qSFJsYkU5T21EWnNaQ0s5WVh5TmtaNElaVnU1NTFYX1Atc2V0a0ZZYWdoTlhZQXAxdTFxbzJkUnAyaEcxbUZIYnRLM3JZdXA0TkNs?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-08-20T11:41:31Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-20-a-guerra-com-o-irao-pode-tornar-se-um-conflito-prolongado-como-o-da-ucrania-932cf44e?gaa_at=la&gaa_n=AXbw80QwkCL-E_GxO4HSBNTMo0B-vYEdWbUzfsa4CP0s1vgMRrQxrpHBLHY-ppShjqs%3D&gaa_ts=6a877803&gaa_sig=G3YA7nfZiExozxt-OOpREnrKugc13lmfqj2ZgcYKRrEss62WKObxzNmz2s8z3jjQMTDtN1cB-41nubcO1Pf6Hw%3D%3D"
-    },
-    {
-      "title": "Os EUA mudaram de estratégia no Irão: desligar - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDBPbUlwSS1FenB3a2x3cndoSUd6S3FvV2RlM2s5c1VLYmVsdzJZVWtKS3BWR192V2VUaEhYS0o2T2pYTWs2S2NTcFBXUmpSeF90QldWSFhaZzRmWGNiUlVLV2JjbXNWRTA5LTR4UV9ibU1SbGtnbWhUbElNZ3EyNXBaY0cwXzJiYWRzR2F6a2hsam5pQnVGM0lJSmwwU2xRalJmUFRBeHVBS0JETGg1VlpITEx1bVR0QngyZDhrd29LWVM2WUE?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-19T09:31:00Z",
-      "description": "Donald Trump continua insatisfeito com o que está a acontecer no terreno e decidiu mudar a abordagem para forçar o Irão a ceder",
-      "image": "https://img.iol.pt/preset/6a857698d34e511da0b33fc8/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/medio-oriente/os-eua-mudaram-de-estrategia-no-irao-desligar/20260819/6a8577d4d34e511da0b33fd3"
-    },
-    {
       "title": "Irão adverte países do Golfo contra ajuda militar aos Estados Unidos - RTP",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajZ5bUxrYUpXMTVCU09RSzM3NFFoQTB6Y1J0LWNSTU1wTEdBZ3lMQjF5Zndsb0F0cnc5UlBkQzlkUFFOSGtwZGg4dGxtX3VvWVo2aS1ESnhzVDBCSUd2VC1IM3U3bUdGTWRXUXFZa2d3UVc4cVlYdV9oemdvTG1xekRDeHZMUHdxVkVzSWctWlgtWjhub0R0LVZRcE9IbjZSQ1BmQ0pwOVpkNWxRVUlTUw?oc=5",
       "source": "RTP",
@@ -187,7 +178,7 @@
       "source": "Novo Jornal",
       "publishedAt": "2026-08-20T13:28:02Z",
       "description": "Já tinha sido notado com algum espanto que Donald Trump ficara em silêncio depois de ouvir os líderes iranianos a anunciar que tinham derrotado militarmente e sem margem para qualquer dúvida os EUA na guerra que começou a 28 de Fevereiro.",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821090202",
+      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821110013",
       "articleUrl": "https://novojornal.co.ao/internacional/detalhe/medio-oriente-trump-muda-o-chip-na-guerra-e-anuncia-dia-d-economico-contra-o-irao-teerao-responde-aceitando-a-derrota-militar-dos-estados-unidos-74067.html"
     },
     {
@@ -200,12 +191,13 @@
       "articleUrl": "https://vermelho.org.br/2026/08/20/ira-diz-que-resposta-pode-chegar-a-europa-se-trump-aprofundar-guerra/"
     },
     {
-      "title": "Guerra do Irã: porta-aviões 'de emergência' dos EUA chega ao Oriente Médio - G1",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEFpejV5TW9ZUjZReWJ5YlNuNU1iUURzVV82ek1QVHNka3hWc0hZRWpXMUY3NmVOOFRGWC1rVGlxdzYtWTJJSVYtR0JLY2FjSTNnN1FvaC1CaHJfZVJqOVo2cXhOa0dBZ0k4YjBuLVpqUXhJXzBLekhCVkg3eFNpWm0xUVRicU9FYURCRkY2Z2oxZS1SZUc2V2NxY2dxVXVYMl9HSi1ob0tsOUxjRlI1T1JubG42YmNOcWxlYdIBywFBVV95cUxQMndUdUNGWW45OVAwQjBjUF9WX1VnT1FtQXJJSzlwU2VoR1B2cTBJT3IxNHZnc0NpbURPbm4xZlJRY1VoTW82UWtFOVQ5U2d3cUJmRHVpRmo4TURmeTVaUTNEc0RKeVotOUJYeTI5TEEtckxOcWdBcVhGZ1E5UWVOTGVuQnUxZjRRTl9EQnpqZFRJRVI4OE5qS3JqQWkwRUVaSW8tOEVwaWMtOWRJQ2wyOVVSSmwxTWdRVUk2cVNqeXpWdTF5ZUpZR0lKQQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-08-20T14:25:11Z",
-      "description": "Notícia publicada por G1. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "title": "A guerra com o Irão pode tornar-se “um conflito prolongado” como o da Ucrânia - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWUUzZ1ZBc1lYT2N6SHNZdldjU0pHWXpVeWsxTFlsOTIyUzhRdU5KczBjaEZ3MlBKdHlXTDU0QVNlMExIYXl6cmhscnRFZ1JNNU90TWs3UzlBREtoSEZEN05OVGZTcFJjOG1SZ0xvaTFDeHp5dG9xOTJnenphbE4tT29VVGdScElPajhkTmRJRC15ZWpleWt5SjdTM0dRMTJMSkFNOEd4T1BuR0NPdXFpVi1yY3VQalJTWHpOa1VXTjRZbmFZeXpEck9MRFJxSDdIUTZZMkdOSVQwR042RkVJRUViZC1HRUFqMnVzNWtsS2xXVmFRdFdDZ2dkSHdZV2ZkVFkzY01lLWI5UEhrRzNHdl81RzBYbm5Zd2VMVGpLYmhBZmloMkVhbF9ENy1pSUk0U01naEhoUTBTNzJVZkk0NEZtTkZ0dTdIZlZ4Y1FwcE9TaFJMRTdCYllWTE9HWjhHY0cxZmNxSHBOVGZzanNMNHVqdkRRMVp0cG1NX1IwUkxnV1NkT2drTy1TTzU4SXlVajZSaE5hRE1qSFJsYkU5T21EWnNaQ0s5WVh5TmtaNElaVnU1NTFYX1Atc2V0a0ZZYWdoTlhZQXAxdTFxbzJkUnAyaEcxbUZIYnRLM3JZdXA0TkNs?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-20T11:41:31Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-20-a-guerra-com-o-irao-pode-tornar-se-um-conflito-prolongado-como-o-da-ucrania-932cf44e?gaa_at=la&gaa_n=AXbw80QwkCL-E_GxO4HSBNTMo0B-vYEdWbUzfsa4CP0s1vgMRrQxrpHBLHY-ppShjqs%3D&gaa_ts=6a877803&gaa_sig=G3YA7nfZiExozxt-OOpREnrKugc13lmfqj2ZgcYKRrEss62WKObxzNmz2s8z3jjQMTDtN1cB-41nubcO1Pf6Hw%3D%3D"
     },
     {
       "title": "Médio Oriente: Irão ameaça usar mísseis mais destrutivos se guerra se intensificar - MZNews",
@@ -213,6 +205,14 @@
       "source": "MZNews",
       "publishedAt": "2026-08-21T07:33:56Z",
       "description": "Notícia publicada por MZNews. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Como uma herança da 2ª Guerra Mundial está provocando uma crise entre Rússia e Japão - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON2Vfa3RBSE1jcnY3LXBUaVU2VjkwSDVqbzcwbnduRDFIZzMtQXktbXFFbjhEaDdhMHlkQ2szSDl1WEFSNDRaMGJnbFViOWF5eXFpR0kxYlYyR2ktZ29uQ0M5OC14a0xWQV9KZ2JEZ3JLZEFMRmdGR0RMNUpJcWNVZWZEN0E0elYwNE82ajVlOE1DM09ESkVVaEJuLUpwZy1FNUlnWHpqUjMzVXdnN2NKRDU2V3VXX2pXc1MtNmhKSzZtU1E5MU5BYnpUODZWUkVCdF8xLXZqdHNCZW_SAeABQVVfeXFMTnRPTGpLbDlOVXMyQ1B6dXhmbmFpcUhrRF9CZFRvWXd2eDdrenJwZmJ6SDVRVkVlRlVHSUhqWjBrNlBHZnRJazd3NlRESHVQNE51SG9BYU5JZ2lqd3E2Q0ZicmpRVUNFRzJxYUxDNXJnVVB4TGpfMlVHOW9aamlWZUdmUmNKZzBxS3VzSjRJS3I5dURTdkNPMTdWUEVKVDl1YzNJLUZCQVRnS1dYQzR1VHlKMWRIc0R1bTlmU2xUbEliYUlSUHRGZE9pUGxqMGRXR1RvQmkySGFUYWd4NEF5akk?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-08-19T21:34:17Z",
+      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
