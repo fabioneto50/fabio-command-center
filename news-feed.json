@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-08-21T12:04:41.283929Z",
+  "updatedAt": "2026-08-21T14:10:12.223238Z",
   "health": [
+    {
+      "title": "José Manuel Bolieiro destaca “reforço” da saúde na Graciosa com ampliação do Centro de Saúde e instalação de TAC - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55c2dpN2t3aHNHMTFDRkNTc2ExWU1EOEtENzJRX0JUODRiOUhLdlRFNUlac0M0ZWZCX0JzNzFZQ0UzazBPNVNwcHJrbmt0Q2Q4S2xNVmozNEtlSDFCcGQ1dmNHai0tYXdBNTJ4bFIyWHhxd3h3YzB5NzZnYw?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-08-21T13:13:13Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/en/web/comunicacao/news-detail?id=23574885"
+    },
+    {
+      "title": "Associação em Tomar procura integrar pessoas com doença mental grave - RTP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEdmVllnZnpidUh4Y1VSZ1N6cW1ubHhIem4zaEhlenRCaGk1alRRQThPc2twSV9pcG96Mi1rOG94ck5wRHE5UGNxcWtlM1NRMXdRdmFGM3VOTGtTVjNMWDZQZmJSNzZkRDJfMDNncDJ3WDEyMTl1cmUxQldadEFxbXBBX2IwT05XS2w0a2s1VWNSOVM4aVZqa1V2YUNtNlhhNFRtZ2Z2Rmh0QmNJZmJ3?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-21T13:17:47Z",
+      "description": "Equipas de apoio domiciliário de uma associação procuram integrar pessoas com doença mental grave em Tomar.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6aa90a9b190e789bd4eddf8797a2e715?w=860&q=90&rect=0,152,1231,675&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/associacao-em-tomar-procura-integrar-pessoas-com-doenca-mental-grave_v1760803"
+    },
     {
       "title": "O mais rentável seguro de saúde que é do Estado - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlo0NUhfREFTM1lJQ2paSkUxMGtVNXd3ME5xOG5hRGdKR28yRTdfODd6d21PVjl0cWhhX2E4bHNDb2t1cjNob0VyeHZNR3hjcExvWUZQZlRmMlNVOG5wajRvN1FsNlF1NWJGOGozekRFY1FjUjJaUFRSOWZSX3h5ZC1GNTVmNWQyVnhhZVpqUllwMnc?oc=5",
       "source": "Jornal Económico",
-      "publishedAt": "2026-08-21T12:00:00Z",
+      "publishedAt": "2026-08-21T13:00:00Z",
       "description": "A ADSE seria o mais rentável seguro de saúde se estivesse nesse mercado. Acumula excedentes e lucros, mas o serviço é limitado, mesmo com o alargamento da rede de prestadores e a revisão das tabelas.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/08/saude.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/o-mais-rentavel-seguro-de-saude-que-e-do-estado/"
@@ -20,40 +38,49 @@
       "articleUrl": "https://www.ensp.unl.pt/nova-parceria-liga-portugal-e-marrocos-em-saude-publica-e-gestao-da-saude/"
     },
     {
-      "title": "Tempos de espera nas urgências voltam a subir na Grande Lisboa - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMV9oc3BGOHJQWF9IRFRrczY0MVUwT054c0VxQWFhNndmaW5MLWJDX215Qm5DN211RDhRQ0tEMVBhcV94YUZRUXk4TXFTTXZkbUtUNWI4WmliaDA4Z05ZNlczUm1Mekl5bTdTM0hnQmJUczhFb0thdS1WMVB3YzFVSTVRQ0toWG9DZmo3TEpJU01kZ2s?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-08-21T09:59:59Z",
-      "description": "Os tempos de espera nas urgências nos hospitais voltaram a subir na Grande Lisboa, com doentes urgentes a chegarem a esperar, em média, cerca de nove horas.Segu",
-      "image": "https://media.assettype.com/dn%2F2025-02-03%2Fbrxzr2bt%2FAmadora-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/tempos-de-espera-nas-urgncias-voltam-a-subir-na-grande-lisboa"
+      "title": "Enfermeiros do hospital Amadora-Sintra entregam declaração de escusa de responsabilidade - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXRQUWZqQ1AyeU1Jc2JTYlNJMlVMdXFtRTR3bVozeHVCbjhBbGVUNkhjSGlXZVJ6SEc2OVhoQm9IalRiMldieDIxa0c1N0trTUotVlRMc2xlak1JLVlvdnlDVWJsUHdINTBwVlJxbkxibDdLMHJJY2hiWUJnM09qM0diSUNzMTdmZDRCdWl4VzA4dHhSdGdjYTVHN2NmOHVsMWxRYlRXQ2lmS1JxWm8xWGpvUkJEMWpoNm10M3IxejBha2p3WFE?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-08-21T14:00:03Z",
+      "description": "Dezenas de enfermeiros do hospital Amadora-Sintra entregaram à administração uma declaração de escusa de responsabilidade alegando falta de condições na urgência para prestar cuidados de saúde seguros e adequados aos utentes.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066376_0000000001.jpg",
+      "articleUrl": "https://www.saudemais.tv/noticia/66376-enfermeiros-do-hospital-amadora-sintra-entregam-declaracao-de-escusa-de-responsabilidade"
     },
     {
-      "title": "Congresso debate em Viseu o futuro da Enfermagem de Reabilitação - Diário de Viseu",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk9oRF9CSGlxazZXYkpkWXVxTE50ajl1cW5SX01kaHNqLW1FekhiaW9GbXhDWE9HYWgyNllKWGlIdXM2V2piNy1VNHR6N3dJNEFKcmF0VDFZTXJnY0NpMWI4eGhpTjdFVU9jdmNaZnJFQXRLYTB2TTdfSHdyYUp3N0lmVkltSjlNbGZsb2tMdVBwY2JuQmhScTVWeGRFMGJGelpTdUpR?oc=5",
-      "source": "Diário de Viseu",
-      "publishedAt": "2026-08-21T09:45:00Z",
-      "description": "Iniciativa realiza-se entre os dias 10 e 12 de setembro, na Escola Superior de Saúde",
-      "image": "https://www.diarioviseu.pt/wp-content/uploads/sites/8/2025/03/Escola-superior-de-saude-essv_resize.webp",
-      "articleUrl": "https://www.diarioviseu.pt/2026/08/21/congresso-debate-em-viseu-o-futuro-da-enfermagem-de-reabilitacao/"
-    },
-    {
-      "title": "Mulher transportada para o hospital após apresentar febre e tosse - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWVvX19DX3JIcEZKcVJHYnA3a01jdGg3TjJKQ2FpbWY4d1pOUFRla2tmZTc1bElfVHg4N0x6WGl2eHhTdUo5WnVZUUhDbzBVeURnUnNFTUFLbUNfdTFhYkxqMS1aSlJvaDRmVjE5U0NLdC0tM1phNDdEZ3pHaUliRnlLTXlFdVktcjNBNkRxZU5uNzZYZ3VWZ01BZHRSTmt2QkVYdU9OSXJyN3RicjBNR09n?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-08-21T09:06:00Z",
-      "description": "Uma mulher na casa dos 80 anos foi transportada, esta manhã, para o hospital depois de apresentar febre e tosse no Lar da Bela Vista, no Funchal.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoRS543190_13JAN00013_11_Qu0Y1Rj_U3SpwIS_7YNaCcZ.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/app/2026/8/21/503023-mulher-transportada-para-o-hospital-apos-apresentar-febre-e-tosse/"
-    },
-    {
-      "title": "Esposa de Lito diz que influenciador tem Creutzfeld-Jacob, doença rara que causa perda de movimentos e demência; entenda - G1",
+      "title": "Esposa de Lito diz que influenciador tem Creutzfeld-Jakob, doença rara que causa perda de movimentos e demência; entenda - G1",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY19yYXNtWWdieXFSOVl2a1RDRUdjZW5wZW94X2tlSzVqRkRUbnJ6MmpWeC1xMEM1ZzN2VUU4aUxyMVdJczRudUxWWmhWYUNTTGVFN3V4YjVuWWhIbHNQcTdYNFVnaXBFWTFtZUFvdDRkNWMydkMzazFPNWJ5LURMakhVSTMxZ2s1WDQzMEpNbm9Sd9IBoAFBVV95cUxNR1JIcU13ZU42VVJfaEdjOGRVeUNXY0ItaGNEM1FmSm53SWtlWGoxM0s1dWdrT1lWUmdOa3NMUFBqY0dIWFFOYkx3NGlDMVdJeDR2UWRfaEpWUG5jNmJINUxaZFozaGowb1BCS01qcnpfdXZFM2p4SC1NaUVfRVlTQ1ZJUE43bzdfUkItTDhncVJjYVRNRUFXRzFTTzNONzRu?oc=5",
       "source": "G1",
-      "publishedAt": "2026-08-21T10:41:32Z",
+      "publishedAt": "2026-08-21T13:43:01Z",
       "description": "Influenciador havia anunciado diagnóstico de câncer de próstata. Agora, esposa disse que após complicações, ele teve atualização no quadro.",
       "image": "https://s2-g1.glbimg.com/h6Qwm53lsx1AYs7oQv7RZbDUhM0=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/z/vUatkYRte2rWqPsYsydw/fotojet-2026-08-03t073942.252.jpg",
       "articleUrl": "https://g1.globo.com/saude/noticia/2026/08/21/lito-diagnostico-de-creutzfeld-jacob.ghtml"
+    },
+    {
+      "title": "Surto de Ébola na RD Congo já atingiu 5290 pessoas e matou quase metade dos infetados - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmg4c2hERVpjaTRJOG8wdlI3Z05YcGFzVGtMdzhhekdKVXRMV1I0QWlaSjU4WEhjWVBqQmVZaFdmYTB0R0ppcWdLekxMZ1pGemZ1LTE1d0wzOU44ZDA5UHRqaG9ESUlwanhZNmFMYl9vcnBFdFdDVUVxTWMyczAwQ0k1anFvMV9adjJzMWVLSDdXNXVYSzF2RGF4c0ZCZzdNUjA0a3hhREVnSlFFRWlPMmhLRGdvakp5UU5vTWF1Z1RETmZQNVJRemR5WFBLa0RrY2xrbVVVdTY1RHNXb2lj?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-21T13:44:16Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/internacional/africa/2026-08-21-surto-de-ebola-na-rd-congo-ja-atingiu-5290-pessoas-e-matou-quase-metade-dos-infetados-aa629a32"
+    },
+    {
+      "title": "Revista de imprensa. A esperança na vacina contra o cancro e Benfica com um pé na Liga Europa - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEhucUpCZzNoa0dxaTB0Mldzejg4eVItaXZ1VXRyWEtVSHl3VGdwejV2VjFVclBxNVRoSDNsa1U2a3NLM1NrdFg2V1d2Qjd0MDZQdlBGWXFmR2pBVElIbXlwY0tyQVpicGVqanZNdFdiQ2w1bUp3SnNBVkJNWEVxVlpWTjhQaVRGc2FHZXBnNWxOQkhaX1BnVFFBaW5na2JuWlpQcjhIR1hTTTVtNlFJOHNZX0twWVE?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-08-21T08:06:03Z",
+      "description": "A vitória desta quinta-feira do Benfica sobre o Aarhus (3-1), na primeira-mão do playoff de acesso à fase de grupos da Liga Europa, é o denominador comum de qua",
+      "image": "https://media.assettype.com/dn%2F2025-08-21%2Fqktmmuwx%2FRevista-de-Imprensa-1?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/revista-de-imprensa-benfica-com-um-p-na-liga-europa-e-esperana-na-vacina-contra-o-cancro"
+    },
+    {
+      "title": "Primeiro medicamento com vírus contra cancro do esófago começa a ser vendido no Japão - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjJpdUdlOVFqOWdvTU9yM05HN1VnVW1BZEFSOGJ3ak1iNnc3WGctX1VZSGN0VlNyeGd6NVZ4dG9rVjRTOXlNbGxVQllGYWZXYzZJZWlLQ1Y0QkI2dnRlSVZ3VWdxVkVtRFpiTEZlbkhSMjhvZlNrZ1pNcVFuRFhtdnIxUXJfV1lmV055anlCeXBiZWMxQzhuTjhCWHktb1h4eVh3aTFubXBmTzlCMnU3bWlEWDJBZ0ZQdVpKVHFhSFnSAbsBQVVfeXFMTmxkQUxKOVhnYUJCdHNZd3RLWjFPdE82QzlMRW9xcUs0V0pGUHA1YkZISW9GdU50TlZiUnA5THpSOVpGaXAtOHhwU0FBb1NIdkVHZ0dpamtIWFB6a0lSZjRsaHktdHZIMU9xdEtXSGl3NkJvSXgwdUJhMFYyRlVQMHZaZ2Z0WWF1RHFkVlVZaEpBX0ltdEZxNjBZTjBVaTBfNUhUQzhWTlNqdUR1c1g3QXN0YmtxTDlpMHFubw?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-21T11:06:00Z",
+      "description": "Medicamento está em produção desde 2004 e terá um preço de cerca de 50 mil euros por doente.",
+      "image": "https://cdn.cmjornal.pt/images/2018-07/img_1280x721uu2018-07-02-08-07-00-753586.jpg",
+      "articleUrl": "https://www.cmjornal.pt/mundo/detalhe/primeiro-medicamento-com-virus-contra-cancro-do-esofago-comeca-a-ser-vendido-no-japao"
     },
     {
       "title": "Cooperação em saúde ganha novo impulso com protocolo Fórum Saúde XXI – Egas Moniz - HealthNews",
@@ -65,50 +92,32 @@
       "articleUrl": "https://healthnews.pt/2026/08/21/cooperacao-em-saude-ganha-novo-impulso-com-protocolo-forum-saude-xxi-egas-moniz/"
     },
     {
-      "title": "Quinta de Jugais de Oliveira do Hospital assinala 25 anos com mais de 110 milhões de euros de faturação anual - Observador",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSjE4Vjl4NmdWVHdMRDBIa3FzeXVQeUFNV2w4TzJkYmpGRC1sZ3Zya2N4RkpXU2lPM2FTRWc0ak1aYzdweE4xbG4wZlFyOEZSNk5yYi1HQklmQWNoSHdNcXZXS1RmVmdvZk85aVBlb2ROcmdUOWtBSWpldnJaNVFZeTdjRVJkbE93NDloVm05dWEyR2NEa1hPNGVzMVNCZG85d24tUG1ReVlzZ0duV3V5N01oNldQMUtPN1o1ZVM2Szk4WXh5alF2NlEtYU1pN0tLRTMyMjY0dHlHOHM?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-20T23:19:57Z",
-      "description": "A Quinta de Jugais foi criada há 25 anos por dois irmãos. Atualmente produz mais de 400 mil cabazes de Natal com produtos regionais, por ano. A empresa exporta para mais de 50 países.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A151%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2016%2F08%2F03110713%2Floja-origens-01.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/21/quinta-de-jugais-de-oliveira-do-hospital-assinala-25-anos-com-mais-de-110-milhoes-de-euros-de-faturacao-anual/"
-    },
-    {
-      "title": "Vacina da Moderna e Merck traz esperança no combate contra o cancro da pele - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUY0OEdtR0JyOVJrM0FURUp1dFFqaHlzZXAxRHREcjBYOU5nVzNGMnVqQ3V2UU8zd3p0NnNLTUJMaWpQSU84MmJESk9yTGNOUV9RNDdXNTM5cGRiaTJNS0hNSU9YSXFDZHBCbXlzb2ZSNWV4QnY1ODQ2U053ZFdqeGphRHU0UHRFaXc4UmdWX2ZyTFBPWHJMaVViRFNlSV81ZVUwcW1nZGRyNU9iRmE3eXJScGcwQQ?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-08-21T08:16:00Z",
-      "description": "Os resultados positivos foram possíveis graças a uma combinação da vacina com o medicamento Keytruda, utilizado em imunoterapia.",
-      "image": "https://cdn.nowcanal.pt/images/2025-10/img_1280x721uu2025-10-23-17-44-43-27788-im-638986411769777150.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/vacina-da-moderna-e-merck-traz-esperanca-no-combate-contra-o-cancro-da-pele"
-    },
-    {
-      "title": "Programas de apoio à saúde beneficiam mais de 10 mil funchalenses - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDRCcVlPQWhvSFFJMElSSEd1ZFQtU1V2R1NJa2h4eGJLTk5BQndsOEx1czFKUlpWVTVEUHU3OWkySnhsdWd4LTZLYTRWaHQ5RWdYSkYyZG1TdzdGbTlWMGhxNGMyelB5WURHVTFURnNpT3MybzdqcHo1SVpsd3o5ZHpQRVl2NEJNdmZjU0xjTUhhUUctclBvWlkzeTk2dmY4SndHMjFFTjk0eV8xaVJoNEYxSmRubFBzS1dTY2NQQWMzZWlX?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-08-21T09:39:57Z",
-      "description": "O investimento do IASAÚDE já ultrapassou os 3,8 milhões de euros.",
-      "image": "https://www.jm-madeira.pt/resizer/600/315/true/2026_08_21/Captura_de_ecra_2026-08-19%2C_as_14.46.12-1787304790636.png--programas_de_apoio_a_sa_de_beneficiam_mais_de_10_mil_funchalenses.png?1787304792336",
-      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30003764/programas-de-apoio-a-saude-beneficiam-mais-de-10-mil-funchalenses.html"
-    },
-    {
-      "title": "Nova Unidade de Saúde de Marinhais não fica pronta dentro do prazo - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlhlWDh2ZVo2SXl1bWlRM3M0LS1mNDN6QmVHc2RjQ0xDMVJpUHAzdjFQZXVCVm9QWHZVYUxRbmNFQzZFSG81aU5uckNRX1VWTWRaeXZzQ3Y4WTFfRHQ3aFlMempMc29MNEFvbmExbHFxUmViMWF1VXhlc3IwQV9QSGFtWC1MU202S0FyLUpNUGJRSV9hX21DSUdFOTJRclFVcDFsVzcxdGRWUDdGb0FtUDBaUlZmV1k?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-08-21T11:00:00Z",
-      "description": "Notícia publicada por O Mirante. Abra o artigo para consultar os detalhes completos.",
+      "title": "Esteve oito dias (a fazer jejum e) à espera de cirurgia no Hospital Amadora-Sintra - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1VmSE5FNmxFaS0wUG1LbS1MSm9SS0pZT2s0cjh3MzFtbHlfU2lKdXBOSXNXcHc0d3lzQjBVS1BzU1c5ZHBWZzhQZGU1TU4ybW9JU3E3V1pKMEN2MWJqRy1EYzRyaEZpNjRjaTdsaWlnUGV0OFg3eW1RZk5hb0dsQjNLRVRsMDNfMXFIS1M2OUR2N01LUVBqUXpRR0ZXQk8yQjhHRXdQZG0wSjhENmc1dGpxWlFFNWpMbVhEN2R0bktIV3VFYzFzcC1STmFzMmtKdnc?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-21T12:53:13Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Hospital de Beja tem nova Central de Marcação - Correio Alentejo",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OVzBJT0JsT3BxWDlWU2NUWTBmaUdEY0hQLURhTnFLbHRJeHlTbGZaSFZvNXhyWEVhZTgwNFV5ZkdIMnQ2R21WQmZEc1ktRGowYW5aZmh0a3lhUkUyX2Z6Z2RaUmg0ZE9mdEhfbm1BRGsyV3JkNUVXaUROS3o4MFU?oc=5",
-      "source": "Correio Alentejo",
-      "publishedAt": "2026-08-21T08:25:30Z",
-      "description": "Notícia publicada por Correio Alentejo. Abra o artigo para consultar os detalhes completos.",
+      "title": "Congresso debate em Viseu o futuro da Enfermagem de Reabilitação - Diário de Viseu",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk9oRF9CSGlxazZXYkpkWXVxTE50ajl1cW5SX01kaHNqLW1FekhiaW9GbXhDWE9HYWgyNllKWGlIdXM2V2piNy1VNHR6N3dJNEFKcmF0VDFZTXJnY0NpMWI4eGhpTjdFVU9jdmNaZnJFQXRLYTB2TTdfSHdyYUp3N0lmVkltSjlNbGZsb2tMdVBwY2JuQmhScTVWeGRFMGJGelpTdUpR?oc=5",
+      "source": "Diário de Viseu",
+      "publishedAt": "2026-08-21T09:45:00Z",
+      "description": "Notícia publicada por Diário de Viseu. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Presidente iraniano reclama vitória e diz que chegou o momento de terminar a guerra com os EUA - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMEhlREdackh4cGM0WlhzMERSRnZDQzc4NXFmaEFodk1lU3RkM0J1Qml5RTZuM0ZjekU0YzF5SDhXSlowZXVHMjNzNUdDZC1wbFB4MkRIX01mdmdFWHB3MHVOZjFyVUVab2ZJYTRyemhsY2JqTEdUa29Qcm9lc0pLcGRVTUU1UDdlNXh0QjF2ZjBNYTk0STJ2TngyQW9fWWh5TDRoTXJvejhjMmpMU2Q5a2t6S0FEWU1WbkVJa3QxYjFydUNKM1ZCSjc3YzVkdUk0cWNILWZXa3NxVy1oeXV6MC0yS0Q4TWpVZDYzd2x3?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-21T13:59:37Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-21-presidente-iraniano-reclama-vitoria-e-diz-que-chegou-o-momento-de-terminar-a-guerra-com-os-eua-75d522b8"
+    },
     {
       "title": "Mais de 750 soldados dos EUA feridos desde início da guerra no Médio Oriente - Diário de Notícias",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalNSdmRibmVka1lwRDh4RlpOWTRWS2NJbDQzb1B0NDlHRzZBaXpYYmxucFVMc0M1X1JXNHZDa2FUQ3pWNGpNNEZ1bVoyVnRxVDRKbHlkeEVVR3hqS295QjJvS1J0aUc3NkQ2aHFDNjhjZl92RTdZejJOdU8ta0VqV1dlVi1xc3ZtRVdpY1Y2UldaTENBTWVyczQwQ1ByZ2FwUThrY3lZdnBwdw?oc=5",
@@ -119,22 +128,31 @@
       "articleUrl": "https://www.dn.pt/internacional/mais-de-750-soldados-dos-eua-feridos-desde-incio-da-guerra-no-mdio-oriente"
     },
     {
-      "title": "Não há Patriots, há Starlink. A nova ideia da Ucrânia para sobreviver à grande ameaça da Rússia passa por Musk - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYlptajM3LThaM2t2UWIxcEhlb0FBMi02Ri1ZenZKejFnQm92RlEtZ3RicVRqcGN6YnJ6M1dIdW9hd0RQVGlaaFNhV2prS3lsZ294VTYwR2xDZEdWRlFMNnVtU0ozU1BqTUd3SDBMVkEtcDNTTGFZQURZdVVObVFvdjA0c3FZT3N5c1p4ZWFDZUZYazhRV3BwcjlxM2ZSdTljUFBCYTY0LVVrT2pDQW1CR2pBSzN4NmwtMWNhdjViQWRELTdqZzY1SU94U1ExaFg1QVpvZHU5Mml5UDBuZzNiWGtENTBpak1ZY0ZMekl1QlhMci1nc2NkV2puMkFXeUdOTDBOdjlIVTVDNU9XQXZYeDlR?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-21T09:24:00Z",
-      "description": "Há meses que a Ucrânia faz o mesmo aviso, mas a pressão está a aumentar de forma decisiva e agora é preciso uma alternativa",
-      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
-    },
-    {
       "title": "Suspeito de atentado ao gasoduto Nord Stream detido na Croácia enquanto ajudaria em filme - Público",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZERBd0ltLWhvczc3T2Ytd3ZWNFdxNkJtT3VkeGFpbTQ5MkRzRmNxTXQxMGIzRC1ISjdHZWp2eXZRUXF0cVUzd0hKQzZySHpDSVhYcnp0bzZIakw2NFM3OWhUQ1BaMVhFdGtJTjhFWWZZWks0Mmo0dHVrWFdJOTlWZm51Yktrc1VmTFVraUNObDVSaExURzBfdG9RUE9MM2NOY2hXaG9QZVJoZ2xDeWVsVFJfczdaVGpUMHpDOTBGYm9VMXFPMURIdEhvLUI2WGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNam8zeUl5ckJ5dFpYRHVvaWpGcmdwS1oxTjZYdUVjNnlkdDhhWUdNalBkQVJRQUtPRm9PN3VuZHRoY0haRjhFVkkwcl9rWVYzMi1BcU5DeG1xMzVjQlpHNTVmS1JmYkk0UEpzYkVGUzRfWmhDOGVHRU5rX0JXVDh5dDBzN3dZZG5LYUs4Sm02Tm9CTDlLb2Z3OUxFM0h6NXRmSzFSQzdxaUJZcGdsb3FzTFFiTjJzVkpSaHpnOGUxMWJObUZXQ2xpU3c2aHdYc1lUeS1na0xpQVFxLTB1?oc=5",
       "source": "Público",
-      "publishedAt": "2026-08-21T12:00:00Z",
+      "publishedAt": "2026-08-21T11:59:09Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697?ref=mundo"
+      "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697?ref=hp&cx=ultimas_1"
+    },
+    {
+      "title": "Presidente do Irão diz que é altura de terminar a guerra com os Estados Unidos - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVQ2b1FndTJuMU94YngxaEJxS0RWN3VPR09yWTlPWi1qdlNRUncyOFZ5ek9kWXdXSVNRM0dpVXRGbzhZQ2lNUk13b0JibFRua09vSTNsWHhkckRoY0NTUlY2WnVlb1dkM0I5eDQtWS1UU19ycjVpZnFGYzFFYlJ1MHp5eUJRNEJrZUlPNlh6UzhvMWYzMDQ4a1RDYVNWMFFPSlpuNlJCZ0Q1NXh6aDQyRHJ2bkJrVDRXZXBpWWh5UWEzcWc?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-21T13:57:39Z",
+      "description": "O Presidente iraniano, Massoud Pezeshkian, defendeu, esta sexta-feira, que chegou o momento de terminar a guerra com os Estados Unidos e disse que Teerão se encontra numa \"posição de força\" perante Washington.",
+      "image": "https://s.rfi.fr/media/display/825f0a86-9d66-11f1-8854-005056a90284/w:1280/p:16x9/000-C49B8YT.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260821-presidente-do-ir%C3%A3o-diz-que-%C3%A9-altura-de-terminar-a-guerra-com-os-estados-unidos"
+    },
+    {
+      "title": "Não há Patriots, há Starlink. A nova ideia da Ucrânia para sobreviver à grande ameaça da Rússia passa por Musk - TVI",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUXRKTkZBd3REMi1NMk5wLTk1VkozQTM5Y0RkTjRnMWlwR09FcVgxWU85UFZCd3RoYjk4X0hLZFdLLVR4TGM5UVBUYlVxYUZkVUgzemwtcXhyNTRia1BEUWVDR0xYR2ZienlwcHR2Vy1sUGlyMUY2RVp0bDF4Y1ROUW9oUWt0bXVrT3VlUUgyTGZfMVRUM1E2eTAwa0oxd0xaZkZxQ1AwTkctVEVJRlptZzhFeVdXUWtCa3JiQ1VCQ3lNZXR4bXFkcWtOVnZzdzhEOVlDTWIyYlZsV2hpTUVDelEtcC1UZlZhdmFmMHpvaGdSUU42dGVfNW04cVdPQWZFZkYtcFNiekxzbjlLOHdxdU04NA?oc=5",
+      "source": "TVI",
+      "publishedAt": "2026-08-21T09:24:00Z",
+      "description": "Há meses que a Ucrânia faz o mesmo aviso, mas a pressão está a aumentar de forma decisiva e agora é preciso uma alternativa",
+      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/tvi24",
+      "articleUrl": "https://tvi.iol.pt/noticias/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
     },
     {
       "title": "Ucrânia: ex-ministro da Defesa pede eleições presidenciais em tempo de guerra - Jornal Económico",
@@ -164,55 +182,37 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/20/porta-avioes-dos-eua-chega-ao-oriente-medio-para-substituir-uss-lincoln-apos-relatos-de-mas-condicoes.ghtml"
     },
     {
-      "title": "Trump anuncia “guerra económica” inédita contra Teerão - Público",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEprRTZEMkFZWThUNmE2ajN6MVkxaDE4WER1UmxtSE5HVzhpSkkwVFVQcXJsMkp0WV9wa2xieTY4U1FVTEtNdVBaSElyMmRYeWFWSFQ0cmluWE9yYkVtVEdhRWszbUtWWUtwRHJrUWVwLV9XTGlpWnZ1akJscFZoUllFVzJaX08yRzIzbGJlU2ZELUx3TEhDclVXQlFDZFlxY1Nz?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-20T08:45:15Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/20/mundo/noticia/trump-anuncia-guerra-economica-inedita-teerao-2185548"
-    },
-    {
       "title": "Médio Oriente: Trump muda o \"chip\" na guerra e anuncia \"Dia D Económico\" contra o Irão – Teerão responde aceitando a \"derrota militar\" dos Estados Unidos - Novo Jornal",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRnJ0cXQ5X1UyemxZV0xtVVBKa283VURHZTBmVThHcURWaVlJN0RJcjIzeEJkWFp3azQ3YklmcDZRQ2tHNXZHaG1RaUU0bXZkWnpMYjRjZjlSdkxTZ1dLVzRCbVA0S0dOQldHT2Fxb3hRb1J3b0hGZEdjd0NNSUtPVy10UXA2blVpalFDQ2F0V20yYVlyd0NucHN6eUd2V2xXMXcxdWVnd1A4cmtENFFoUnNpX3Rmcmp4Nm8wc082WmFETHl4QW1Sd1QzX3BISVYwS2U1T181VnNtWkpNZVVkdERyb1dKaHo5NDhUNzFRZEZDRC04WmdvX2Q3alJMWFIwMWNRT2tFRVc4SW1GaV83LUwzRVJpTGFfejFEVEhhUjlRY2RrN1JDeHFB?oc=5",
       "source": "Novo Jornal",
       "publishedAt": "2026-08-20T13:28:02Z",
       "description": "Já tinha sido notado com algum espanto que Donald Trump ficara em silêncio depois de ouvir os líderes iranianos a anunciar que tinham derrotado militarmente e sem margem para qualquer dúvida os EUA na guerra que começou a 28 de Fevereiro.",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821125536",
+      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=f4490348-3e55-41b9-b03a-23a95638a694&t=20260821030851",
       "articleUrl": "https://novojornal.co.ao/internacional/detalhe/medio-oriente-trump-muda-o-chip-na-guerra-e-anuncia-dia-d-economico-contra-o-irao-teerao-responde-aceitando-a-derrota-militar-dos-estados-unidos-74067.html"
     },
     {
-      "title": "Irã diz que resposta pode chegar à Europa se Trump aprofundar guerra - vermelho.org.br",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUU0OXdocXBqVnY1bFBLY09zYXkwZ3BJMUNQbDNuRG5mMmkwLWlRQ3RPaXZMb2pJRXBjcmZfSnJXbWhSTDRTRzlad3NtT09SaVVJS00xdjVWd3RKUFRseVA1MnpuM0p0X3RYWFBDdm11MlNiNTB5ZmdPYzRyZFJBZ1FCajBaS0lpdU5fSXU5cWhjWjRPWElfeC1PVmdvVk40cmY2bm1MWQ?oc=5",
-      "source": "vermelho.org.br",
-      "publishedAt": "2026-08-20T15:06:00Z",
-      "description": "Teerã avalia atingir instalações militares dos EUA fora do Oriente Médio caso Washington volte a atacar o país; Trump anuncia “guerra econômica” e promete punir governos que mantiverem apoio ao Irã",
-      "image": "https://vermelho.org.br/wp-content/uploads/2025/04/Aragchi.jpg",
-      "articleUrl": "https://vermelho.org.br/2026/08/20/ira-diz-que-resposta-pode-chegar-a-europa-se-trump-aprofundar-guerra/"
+      "title": "Entenda o impacto da ida do porta-aviões George Washington ao Oriente Médio - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1dYalhwN1RJejhjWlc5VWFjNWc3emJLWUhhZDd5aTczXzkyYjRaZFNFMmhDZHJTUmpJMEduZ1VsOHFFdDRiVi1BQVNKUTdwWlp6NUs3OXd5S0ItcFNVVm1kcUY0b0t1cTRaVDI0YXdwMzhVTjYyRHlEb3MxUHBZeWp0R3oxWUhDb0JGUXZnRWJONThjc0ZfakFEOE04cnRUZ2MzZkhFOWZGMDR6TVJSdFAzenZmcjhVWGhz?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-08-21T12:06:07Z",
+      "description": "Deslocamento de embarcação, normalmente sediado no Japão, envia um sinal estratégico aos países do Pacífico, diz contra-almirante",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/04/Porta-avioes-USS-George-Washington-Marinha-EUA.jpg?w=1200&h=630&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/entenda-o-impacto-da-ida-do-porta-avioes-george-washington-ao-oriente-medio/"
     },
     {
-      "title": "A guerra com o Irão pode tornar-se “um conflito prolongado” como o da Ucrânia - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWUUzZ1ZBc1lYT2N6SHNZdldjU0pHWXpVeWsxTFlsOTIyUzhRdU5KczBjaEZ3MlBKdHlXTDU0QVNlMExIYXl6cmhscnRFZ1JNNU90TWs3UzlBREtoSEZEN05OVGZTcFJjOG1SZ0xvaTFDeHp5dG9xOTJnenphbE4tT29VVGdScElPajhkTmRJRC15ZWpleWt5SjdTM0dRMTJMSkFNOEd4T1BuR0NPdXFpVi1yY3VQalJTWHpOa1VXTjRZbmFZeXpEck9MRFJxSDdIUTZZMkdOSVQwR042RkVJRUViZC1HRUFqMnVzNWtsS2xXVmFRdFdDZ2dkSHdZV2ZkVFkzY01lLWI5UEhrRzNHdl81RzBYbm5Zd2VMVGpLYmhBZmloMkVhbF9ENy1pSUk0U01naEhoUTBTNzJVZkk0NEZtTkZ0dTdIZlZ4Y1FwcE9TaFJMRTdCYllWTE9HWjhHY0cxZmNxSHBOVGZzanNMNHVqdkRRMVp0cG1NX1IwUkxnV1NkT2drTy1TTzU4SXlVajZSaE5hRE1qSFJsYkU5T21EWnNaQ0s5WVh5TmtaNElaVnU1NTFYX1Atc2V0a0ZZYWdoTlhZQXAxdTFxbzJkUnAyaEcxbUZIYnRLM3JZdXA0TkNs?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-08-20T11:41:31Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-20-a-guerra-com-o-irao-pode-tornar-se-um-conflito-prolongado-como-o-da-ucrania-932cf44e?gaa_at=la&gaa_n=AXbw80QwkCL-E_GxO4HSBNTMo0B-vYEdWbUzfsa4CP0s1vgMRrQxrpHBLHY-ppShjqs%3D&gaa_ts=6a877803&gaa_sig=G3YA7nfZiExozxt-OOpREnrKugc13lmfqj2ZgcYKRrEss62WKObxzNmz2s8z3jjQMTDtN1cB-41nubcO1Pf6Hw%3D%3D"
-    },
-    {
-      "title": "Médio Oriente: Irão ameaça usar mísseis mais destrutivos se guerra se intensificar - MZNews",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXoyVzh5UmZoV25zcHJpdWQ5NTVqa3NLcjYwTE9DOEVzdnBRSy11Q0p3ZTBfM1lKMTZteUlLRFBtZEt2Qk9nT2ljeDFfWWVRSTNWRzBDWGVxdndVdWd5SkFROV9XS25GQ1pGNmpNMkwxVjdjMmhwOTlXMm5ocDVyRWJrR2lURnRLNVA0VDBxMk4wVDdxTmYyM3pTN2ZZbm5USy1ESURB?oc=5",
-      "source": "MZNews",
-      "publishedAt": "2026-08-21T07:33:56Z",
-      "description": "Notícia publicada por MZNews. Abra o artigo para consultar os detalhes completos.",
+      "title": "Trump anuncia “guerra económica” inédita contra Teerão - Público",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEprRTZEMkFZWThUNmE2ajN6MVkxaDE4WER1UmxtSE5HVzhpSkkwVFVQcXJsMkp0WV9wa2xieTY4U1FVTEtNdVBaSElyMmRYeWFWSFQ0cmluWE9yYkVtVEdhRWszbUtWWUtwRHJrUWVwLV9XTGlpWnZ1akJscFZoUllFVzJaX08yRzIzbGJlU2ZELUx3TEhDclVXQlFDZFlxY1Nz?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-20T08:45:15Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Como uma herança da 2ª Guerra Mundial está provocando uma crise entre Rússia e Japão - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON2Vfa3RBSE1jcnY3LXBUaVU2VjkwSDVqbzcwbnduRDFIZzMtQXktbXFFbjhEaDdhMHlkQ2szSDl1WEFSNDRaMGJnbFViOWF5eXFpR0kxYlYyR2ktZ29uQ0M5OC14a0xWQV9KZ2JEZ3JLZEFMRmdGR0RMNUpJcWNVZWZEN0E0elYwNE82ajVlOE1DM09ESkVVaEJuLUpwZy1FNUlnWHpqUjMzVXdnN2NKRDU2V3VXX2pXc1MtNmhKSzZtU1E5MU5BYnpUODZWUkVCdF8xLXZqdHNCZW_SAeABQVVfeXFMTnRPTGpLbDlOVXMyQ1B6dXhmbmFpcUhrRF9CZFRvWXd2eDdrenJwZmJ6SDVRVkVlRlVHSUhqWjBrNlBHZnRJazd3NlRESHVQNE51SG9BYU5JZ2lqd3E2Q0ZicmpRVUNFRzJxYUxDNXJnVVB4TGpfMlVHOW9aamlWZUdmUmNKZzBxS3VzSjRJS3I5dURTdkNPMTdWUEVKVDl1YzNJLUZCQVRnS1dYQzR1VHlKMWRIc0R1bTlmU2xUbEliYUlSUHRGZE9pUGxqMGRXR1RvQmkySGFUYWd4NEF5akk?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-08-19T21:34:17Z",
-      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
+      "title": "Guerra do Irã: porta-aviões 'de emergência' dos EUA chega ao Oriente Médio - G1",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEFpejV5TW9ZUjZReWJ5YlNuNU1iUURzVV82ek1QVHNka3hWc0hZRWpXMUY3NmVOOFRGWC1rVGlxdzYtWTJJSVYtR0JLY2FjSTNnN1FvaC1CaHJfZVJqOVo2cXhOa0dBZ0k4YjBuLVpqUXhJXzBLekhCVkg3eFNpWm0xUVRicU9FYURCRkY2Z2oxZS1SZUc2V2NxY2dxVXVYMl9HSi1ob0tsOUxjRlI1T1JubG42YmNOcWxlYdIBywFBVV95cUxQMndUdUNGWW45OVAwQjBjUF9WX1VnT1FtQXJJSzlwU2VoR1B2cTBJT3IxNHZnc0NpbURPbm4xZlJRY1VoTW82UWtFOVQ5U2d3cUJmRHVpRmo4TURmeTVaUTNEc0RKeVotOUJYeTI5TEEtckxOcWdBcVhGZ1E5UWVOTGVuQnUxZjRRTl9EQnpqZFRJRVI4OE5qS3JqQWkwRUVaSW8tOEVwaWMtOWRJQ2wyOVVSSmwxTWdRVUk2cVNqeXpWdTF5ZUpZR0lKQQ?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-08-20T14:25:11Z",
+      "description": "Notícia publicada por G1. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
