@@ -1,0 +1,150 @@
+name: Install curated wound images
+
+on:
+  push:
+    branches:
+      - main
+      - update/wound-images-hq-native-20260821
+    paths:
+      - 'scripts/install_curated_wound_images.py'
+      - 'wound-dressings-images-v2.js'
+      - '.github/workflows/install-curated-wound-images.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'scripts/install_curated_wound_images.py'
+      - 'wound-dressings-images-v2.js'
+      - '.github/workflows/install-curated-wound-images.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: curated-wound-images-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  install-and-validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image dependencies
+        run: pip install --disable-pip-version-check requests pillow numpy
+
+      - name: Build 27 curated local images at native resolution
+        run: python scripts/install_curated_wound_images.py
+
+      - name: Verify image manifest and local assets
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          m=json.loads(Path('wound-images-curated-v1.json').read_text(encoding='utf-8'))
+          products=m.get('products',{})
+          assert m.get('product_count')==27, m.get('product_count')
+          assert m.get('verified_product_count')==27, m.get('verified_product_count')
+          assert len(products)==27, len(products)
+          missing=[]; bad=[]
+          for name,data in products.items():
+              imgs=data.get('images',[])
+              if len(imgs)!=1: bad.append(f'{name}: image count {len(imgs)}'); continue
+              x=imgs[0]
+              if x.get('verified') is not True or not x.get('local'): bad.append(f'{name}: not verified/local')
+              p=Path(x['src'].replace('./','',1))
+              if not p.exists(): missing.append(str(p)); continue
+              with Image.open(p) as im:
+                  if im.size != (x['width'],x['height']): bad.append(f'{name}: dimension mismatch')
+                  if im.width < 280 or im.height < 220: bad.append(f'{name}: too small {im.size}')
+          assert not missing, missing
+          assert not bad, bad
+          print(f'PASS images: {len(products)}/27 local verified')
+          PY
+
+      - name: Verify all root JavaScript parses
+        run: |
+          set -e
+          count=0
+          for f in ./*.js; do
+            node --check "$f"
+            count=$((count+1))
+          done
+          echo "PASS root JavaScript: $count files"
+
+      - name: Verify navigation module references
+        run: |
+          node - <<'NODE'
+          const fs=require('fs');
+          const text=fs.readFileSync('navigation-hub.js','utf8');
+          const refs=[];
+          for(const m of text.matchAll(/['"]([^'"]+\.js(?:\?[^'"]*)?)['"]/g)){
+            let p=m[1].replace(/^\.\//,'').split('?')[0];
+            if(!p.includes('/') && p.endsWith('.js')) refs.push(p);
+          }
+          const unique=[...new Set(refs)];
+          const dup=[...new Set(refs.filter((x,i)=>refs.indexOf(x)!==i))];
+          const missing=unique.filter(p=>!fs.existsSync(p));
+          console.log(`Referenced modules: ${refs.length}`);
+          console.log(`Unique modules: ${unique.length}`);
+          console.log(`Missing: ${missing.length?missing.join(', '):'none'}`);
+          console.log(`Duplicates: ${dup.length?dup.join(', '):'none'}`);
+          if(missing.length||dup.length) process.exit(1);
+          NODE
+
+      - name: Verify duplicate static HTML IDs
+        run: |
+          python - <<'PY'
+          import re
+          from collections import Counter
+          from pathlib import Path
+          text=Path('index.html').read_text(encoding='utf-8')
+          ids=re.findall(r'\bid=["\']([^"\']+)["\']',text)
+          dup=sorted(k for k,v in Counter(ids).items() if v>1)
+          print(f'Static HTML IDs: {len(ids)}')
+          print('Duplicates:', ', '.join(dup) if dup else 'none')
+          if dup: raise SystemExit(1)
+          PY
+
+      - name: Write validation report
+        run: |
+          python - <<'PY'
+          import json, re
+          from collections import Counter
+          from pathlib import Path
+          m=json.loads(Path('wound-images-curated-v1.json').read_text(encoding='utf-8'))
+          dims=[(x['images'][0]['width'],x['images'][0]['height']) for x in m['products'].values()]
+          text=Path('index.html').read_text(encoding='utf-8')
+          ids=re.findall(r'\bid=["\']([^"\']+)["\']',text)
+          dup=[k for k,v in Counter(ids).items() if v>1]
+          report='\n'.join([
+            'Fábio Command Center · curated wound image validation','',
+            f'Products: {m["product_count"]}',f'Verified local images: {m["verified_product_count"]}',
+            f'Minimum source width: {min(w for w,h in dims)}',f'Minimum source height: {min(h for w,h in dims)}',
+            f'Maximum source width: {max(w for w,h in dims)}',f'Maximum source height: {max(h for w,h in dims)}',
+            'Root JavaScript syntax: PASS',f'Static HTML IDs: {len(ids)}',f'Duplicate static IDs: {len(dup)}',
+            'Runtime image URLs: local repository paths only',
+          ])+'\n'
+          Path('wound-images-validation-report.txt').write_text(report,encoding='utf-8')
+          print(report)
+          PY
+
+      - name: Publish generated local image assets
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          set -e
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/wound-images/user-hq wound-images-curated-v1.json wound-images-curated-report.txt wound-images-validation-report.txt
+          git diff --cached --quiet && exit 0
+          git commit -m 'Install 27 curated wound images [skip ci]'
+          git push

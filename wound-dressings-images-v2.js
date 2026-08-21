@@ -2,13 +2,15 @@
   if(window.__fccWoundDressingImagesV2Installed)return;
   window.__fccWoundDressingImagesV2Installed=true;
 
-  const MANIFEST='./wound-images-hq-v3.json?v=3.2';
-  let HQ={products:{}};
+  const CURATED='./wound-images-curated-v1.json?v=1.0';
+  const LEGACY_MANIFEST='./wound-images-hq-v3.json?v=3.2';
+  let HQ={products:{}},READY=false;
   const ENHANCED=new Map();
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
   const aliases={
     'acticoat acticoat flex 3':'Acticoat® / Acticoat® Flex 3',
-    'argenpal 42 5 mg barra cutanea':'Argenpal 42,5 mg barra cutânea®'
+    'argenpal 42 5 mg barra cutanea':'Argenpal 42,5 mg barra cutânea®',
+    'surgicel fibrillar':'Surgicel® Fibrilar'
   };
 
   function keyFor(name){
@@ -23,13 +25,9 @@
 
   function verifiedHQ(key){
     const raw=HQ.products?.[key]?.images||[];
-    return raw.filter(x=>{
-      if(!x?.src||x.verified!==true)return false;
-      // Só são aceites no site imagens locais verificadas. URLs remotos ficam excluídos.
-      return !/^https?:\/\//i.test(String(x.src));
-    }).slice(0,2).map((x,i)=>({
+    return raw.filter(x=>x?.src&&x.verified===true&&!/^https?:\/\//i.test(String(x.src))).slice(0,1).map((x,i)=>({
       src:x.src,
-      label:x.label||`Imagem verificada ${i+1}`,
+      label:x.label||`Imagem principal ${i+1}`,
       source:x.source_page||'Fonte verificada',
       hq:true,
       width:x.width,
@@ -40,13 +38,10 @@
   function mediaFor(name){
     const key=keyFor(name);
     const legacy=(window.FCC_WOUND_IMAGES||{})[key]||'';
-    const list=verifiedHQ(key);
-    if(!list.length&&legacy){
-      list.push({src:legacy,label:'Imagem documental do material',source:'INF.2251.00',hq:false});
-    }else if(list.length===1&&legacy){
-      list.push({src:legacy,label:'Referência documental',source:'INF.2251.00',hq:false});
-    }
-    return {key,legacy,list,primary:list[0]||null};
+    const curated=verifiedHQ(key);
+    if(curated.length)return {key,legacy,list:curated,primary:curated[0],curated:true};
+    const list=legacy?[{src:legacy,label:'Referência documental',source:'INF.2251.00',hq:false}]:[];
+    return {key,legacy,list,primary:list[0]||null,curated:false};
   }
 
   function enhanceLegacy(src){
@@ -75,26 +70,26 @@
   function useLegacy(img,link,quality,legacy){
     if(!legacy)return false;
     enhanceLegacy(legacy).then(src=>{
-      const safe=src||legacy;img.src=safe;if(link)link.href=safe;if(quality)quality.textContent='Documento · imagem reamostrada';
+      const safe=src||legacy;img.src=safe;if(link)link.href=safe;if(quality)quality.textContent='Fallback · INF.2251.00';
     });
     return true;
   }
 
   function makeImage(name,item,legacy){
-    const a=document.createElement('a');a.className='penso-gallery-item';a.href=item.src;a.target='_blank';a.rel='noopener';a.title='Abrir imagem em tamanho completo';
+    const a=document.createElement('a');a.className='penso-gallery-item';a.href=item.src;a.target='_blank';a.rel='noopener';a.title='Abrir imagem na resolução original';
     const frame=document.createElement('div');frame.className='penso-gallery-frame';
     const img=document.createElement('img');img.src=item.src;img.alt=`${name} · ${item.label}`;img.loading='lazy';img.decoding='async';frame.appendChild(img);
     const meta=document.createElement('div');meta.className='penso-gallery-meta';
-    const label=document.createElement('b');label.textContent=item.label;
-    const quality=document.createElement('span');quality.textContent=item.hq?(item.width&&item.height?`Verificada · ${item.width}×${item.height}`:'Verificada · HQ'):'Documento institucional';
+    const label=document.createElement('b');label.textContent=item.hq?'Imagem principal · local':item.label;
+    const quality=document.createElement('span');quality.textContent=item.hq?(item.width&&item.height?`Original · ${item.width}×${item.height}`:'Original · HQ'):'Documento institucional';
     meta.append(label,quality);a.append(frame,meta);
     img.addEventListener('error',()=>{if(!useLegacy(img,a,quality,legacy))a.remove()},{once:true});
-    if(!item.hq)enhanceLegacy(item.src).then(src=>{if(src){img.src=src;a.href=src;quality.textContent='Documento · imagem reamostrada'}});
+    if(!item.hq)enhanceLegacy(item.src).then(src=>{if(src){img.src=src;a.href=src;quality.textContent='Fallback · INF.2251.00'}});
     return a;
   }
 
   function decorate(card){
-    if(!card)return;
+    if(!READY||!card)return;
     const name=card.querySelector('summary strong')?.textContent?.trim();if(!name)return;
     const media=mediaFor(name);if(!media.primary)return;
     const sig=media.list.map(x=>`${x.src}|${x.label}`).join('||');if(card.dataset.pensoImgSig===sig)return;
@@ -116,18 +111,17 @@
     const gallery=document.createElement('div');gallery.className='penso-gallery';
     media.list.forEach(item=>gallery.appendChild(makeImage(name,item,media.legacy)));
     const note=document.createElement('div');note.className='tiny penso-image-note';
-    note.textContent=media.list.some(x=>x.hq)
-      ?'As imagens HQ apresentadas foram verificadas e são locais. Se uma falhar, o site regressa automaticamente à imagem do documento institucional.'
-      :'Imagem incorporada diretamente do guia institucional INF.2251.00. Não depende de servidores externos; a reamostragem melhora a apresentação sem inventar detalhe.';
+    note.textContent=media.curated
+      ?'Fotografia local verificada. O ficheiro mantém a resolução de origem; tocar na imagem abre a versão integral. A imagem institucional é usada apenas se este ficheiro falhar.'
+      :'Fallback incorporado do guia institucional INF.2251.00.';
     sec.append(h,gallery,note);body.prepend(sec);
   }
 
   function audit(){
     const products=window.fccWoundDressings?.data||[];
-    const embedded=window.FCC_WOUND_IMAGES||{};
-    const missing=products.filter(p=>!embedded[keyFor(p.name)]).map(p=>p.name);
+    const missingCurated=products.filter(p=>verifiedHQ(keyFor(p.name)).length===0).map(p=>p.name);
     const external=[...document.querySelectorAll('#clin-dressings .penso-photo-section img')].filter(i=>/^https?:\/\//i.test(i.currentSrc||i.src)).length;
-    const result={productCount:products.length,embeddedImageCount:Object.keys(embedded).length,missing,externalActive:external,ok:products.length>0&&missing.length===0&&external===0,checkedAt:new Date().toISOString()};
+    const result={productCount:products.length,curatedCount:products.length-missingCurated.length,missingCurated,externalActive:external,ok:products.length===27&&missingCurated.length===0&&external===0,checkedAt:new Date().toISOString()};
     window.FCC_WOUND_IMAGE_AUDIT=result;
     document.documentElement.dataset.fccWoundImages=result.ok?'ok':'warning';
     return result;
@@ -137,22 +131,28 @@
     if(document.getElementById('penso-images-v2-style'))return;
     const s=document.createElement('style');s.id='penso-images-v2-style';s.textContent=`
       .penso-card>summary{justify-content:flex-start!important}.penso-thumb{width:72px;height:72px;object-fit:contain;flex:0 0 auto;border:1px solid var(--line);border-radius:12px;background:#fff;padding:5px}.penso-card .penso-sum-main{flex:1}
-      .penso-photo-section{overflow:hidden}.penso-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:8px}.penso-gallery:has(> :only-child){grid-template-columns:minmax(0,520px)}
-      .penso-gallery-item{display:grid;grid-template-rows:minmax(240px,1fr) auto;text-decoration:none!important;color:inherit;border:1px solid var(--line);border-radius:13px;overflow:hidden;background:var(--panel)}
-      .penso-gallery-frame{display:flex;align-items:center;justify-content:center;min-height:240px;background:#fff;padding:10px}.penso-gallery-frame img{display:block;width:100%;height:300px;object-fit:contain}
+      .penso-photo-section{overflow:hidden}.penso-gallery{display:grid;grid-template-columns:minmax(0,760px);gap:10px;margin-top:8px}
+      .penso-gallery-item{display:grid;grid-template-rows:minmax(280px,auto) auto;text-decoration:none!important;color:inherit;border:1px solid var(--line);border-radius:13px;overflow:hidden;background:var(--panel)}
+      .penso-gallery-frame{display:flex;align-items:center;justify-content:center;min-height:280px;background:#fff;padding:14px;overflow:hidden}.penso-gallery-frame img{display:block;width:auto;height:auto;max-width:100%;max-height:560px;object-fit:contain}
       .penso-gallery-meta{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:8px 10px;border-top:1px solid var(--line);font-size:9px}.penso-gallery-meta b{font-size:10px}.penso-gallery-meta span{color:var(--muted)}.penso-image-note{margin-top:7px;line-height:1.5}
-      @media(max-width:760px){.penso-thumb{width:60px;height:60px}.penso-gallery{grid-template-columns:1fr}.penso-gallery-frame{min-height:210px}.penso-gallery-frame img{height:260px}}
+      @media(max-width:760px){.penso-thumb{width:60px;height:60px}.penso-gallery{grid-template-columns:1fr}.penso-gallery-frame{min-height:220px;padding:10px}.penso-gallery-frame img{max-height:440px}}
     `;document.head.appendChild(s);
   }
 
-  function scan(root=document){if(root?.matches?.('.penso-card'))decorate(root);root?.querySelectorAll?.('.penso-card').forEach(decorate);setTimeout(audit,0)}
+  function scan(root=document){if(!READY)return;if(root?.matches?.('.penso-card'))decorate(root);root?.querySelectorAll?.('.penso-card').forEach(decorate);setTimeout(audit,0)}
+  async function readManifest(url){try{const r=await fetch(url,{cache:'no-store'});if(r.ok){const j=await r.json();if(j?.products)return j}}catch(e){}return null}
   async function loadHQ(){
-    try{const r=await fetch(MANIFEST,{cache:'no-store'});if(r.ok){const j=await r.json();if(j?.products)HQ=j}}
-    catch(e){console.info('Wound HQ manifest unavailable; using verified embedded document images.')}
-    scan(document);
+    const curated=await readManifest(CURATED);
+    if(curated?.products)HQ=curated;
+    else{
+      const legacy=await readManifest(LEGACY_MANIFEST);
+      if(legacy?.products)HQ=legacy;
+      console.info('Curated wound image manifest unavailable; fallback image sources remain enabled.');
+    }
+    READY=true;scan(document);
   }
 
-  styles();scan();
+  styles();
   const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});
-  loadHQ();setTimeout(()=>scan(document),350);setTimeout(()=>scan(document),1200);
+  loadHQ();setTimeout(()=>scan(document),450);setTimeout(()=>scan(document),1300);
 })();
