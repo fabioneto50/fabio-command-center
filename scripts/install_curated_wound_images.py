@@ -24,7 +24,7 @@ SOURCES={
 'Allevyn® Life':['https://www.chemist.net/media/catalog/product/a/l/allevyn_life_dressing_10.3cm_x_10.3cm_2.jpg'],
 'Aquacel® Ag+ Extra':['https://cdn.awsli.com.br/2500x2500/535/535858/produto/83608211/sku16-d7se7mu3pc.png'],
 'Aquacel® Extra':['https://m.media-amazon.com/images/I/81tqd7Dx42L.jpg'],
-'Argenpal 42,5 mg barra cutânea®':['https://farmatina.com/wp-content/uploads/2024/10/Argenpal-Barra-Cutanea-42.5mg-x-10Und-Nitrato-De-Plata.jpg'],
+'Argenpal 42,5 mg barra cutânea®':['https://canamo.net/sites/default/files/styles/max_1200/public/images/2021/05/10/feminizadas-caseras-primera-parte-4.jpg.jpg?itok=NKI4V--x','https://canamo.net/sites/default/files/styles/max_1200/public/images/2021/05/10/feminizadas-caseras-primera-parte-5.jpg.jpg?itok=yPzAXj1X'],
 'Atrauman® Ag':['https://media.farmaciatei.ro/gallery/46998/pansament-atrauman-ag-10-x-10-cm-10-x-10-cm-3-bucati-hartmann-2321.jpg'],
 'Cutanplast®':['https://www.josec.co.za/cdn/shop/files/Cutanplast-StandardHaemostaticAbsorbableGelatinSponge.jpg?v=1761653947&width=1600'],
 'Emla® Penso':['https://cdn-shopkit.com/usercontent/plataforma-de-pedidos/media/images/d2cc461-092732-emla-penso-2.jpeg'],
@@ -54,7 +54,7 @@ def fold(s):
     return ''.join(c for c in s if unicodedata.category(c)!='Mn').lower()
 
 def slug(s):
-    return re.sub(r'[^a-z0-9]+','-',fold(s)).strip('-').replace('surgicel-fibrilar','surgicel-fibrilar')
+    return re.sub(r'[^a-z0-9]+','-',fold(s)).strip('-')
 
 def fetch_image(url):
     host=urlparse(url).scheme+'://'+urlparse(url).netloc+'/'
@@ -68,74 +68,58 @@ def fetch_image(url):
     return im
 
 def edge_background_alpha(im):
-    # Preserva transparência real quando já existe.
     rgba=im.convert('RGBA')
     existing=np.asarray(rgba.getchannel('A'),dtype=np.uint8)
-    if existing.min()<250:
-        return rgba
-
-    rgb=np.asarray(im.convert('RGB'),dtype=np.int16)
-    h,w=rgb.shape[:2]
+    if existing.min()<250:return rgba
+    rgb=np.asarray(im.convert('RGB'),dtype=np.int16);h,w=rgb.shape[:2]
     b=max(1,min(h,w)//100)
     border=np.concatenate([rgb[:b].reshape(-1,3),rgb[-b:].reshape(-1,3),rgb[:,:b].reshape(-1,3),rgb[:,-b:].reshape(-1,3)],axis=0)
     bg=np.median(border,axis=0)
-    # Só removemos fundos muito claros/neutros. Caso contrário, mantém-se a fotografia intacta.
-    if bg.mean()<205 or (bg.max()-bg.min())>24:
-        return rgba
-    dist=np.sqrt(((rgb-bg)**2).sum(axis=2))
-    candidate=(dist<34) & (rgb.mean(axis=2)>195)
-    # flood-fill apenas do fundo ligado às margens: embalagem branca interna não é apagada.
+    # Remove fundos neutros (branco, cinzento ou bege muito pouco saturado) ligados às margens.
+    # O flood-fill impede apagar áreas claras internas da embalagem.
+    if (bg.max()-bg.min())>32 or bg.mean()<45:return rgba
+    dist=np.sqrt(((rgb-bg)**2).sum(axis=2));candidate=dist<34
     from collections import deque
-    q=deque(); seen=np.zeros((h,w),dtype=bool)
+    q=deque();seen=np.zeros((h,w),dtype=bool)
     for x in range(w):
-        if candidate[0,x]: q.append((0,x)); seen[0,x]=1
-        if candidate[h-1,x] and not seen[h-1,x]: q.append((h-1,x)); seen[h-1,x]=1
+        if candidate[0,x]:q.append((0,x));seen[0,x]=1
+        if candidate[h-1,x] and not seen[h-1,x]:q.append((h-1,x));seen[h-1,x]=1
     for y in range(h):
-        if candidate[y,0] and not seen[y,0]: q.append((y,0)); seen[y,0]=1
-        if candidate[y,w-1] and not seen[y,w-1]: q.append((y,w-1)); seen[y,w-1]=1
+        if candidate[y,0] and not seen[y,0]:q.append((y,0));seen[y,0]=1
+        if candidate[y,w-1] and not seen[y,w-1]:q.append((y,w-1));seen[y,w-1]=1
     while q:
         y,x=q.popleft()
         for yy,xx in ((y-1,x),(y+1,x),(y,x-1),(y,x+1)):
-            if 0<=yy<h and 0<=xx<w and candidate[yy,xx] and not seen[yy,xx]:
-                seen[yy,xx]=1; q.append((yy,xx))
-    alpha=np.full((h,w),255,dtype=np.uint8); alpha[seen]=0
-    a=Image.fromarray(alpha,'L').filter(ImageFilter.GaussianBlur(.65))
-    rgba.putalpha(a)
+            if 0<=yy<h and 0<=xx<w and candidate[yy,xx] and not seen[yy,xx]:seen[yy,xx]=1;q.append((yy,xx))
+    alpha=np.full((h,w),255,dtype=np.uint8);alpha[seen]=0
+    rgba.putalpha(Image.fromarray(alpha,'L').filter(ImageFilter.GaussianBlur(.65)))
     return rgba
 
 def save_native(im,path):
     rgba=edge_background_alpha(im)
-    # Sem redimensionamento. WebP 96 + alpha mantém o detalhe do original e reduz peso sem criar cópias 300/512 px.
     rgba.save(path,'WEBP',quality=96,method=6,exact=True)
     return rgba.size
 
 def main():
-    if len(SOURCES)!=EXPECTED:
-        raise SystemExit(f'ERRO: mapa de fontes tem {len(SOURCES)} produtos; esperado {EXPECTED}')
+    if len(SOURCES)!=EXPECTED:raise SystemExit(f'ERRO: mapa de fontes tem {len(SOURCES)} produtos; esperado {EXPECTED}')
     OUT.mkdir(parents=True,exist_ok=True)
-    for p in OUT.glob('*'): p.unlink()
-    products={}; rows=[]; failures=[]
+    for p in OUT.glob('*'):p.unlink()
+    products={};rows=[];failures=[]
     for i,(name,urls) in enumerate(SOURCES.items(),1):
-        err=[]; used=None; im=None
+        err=[];used=None;im=None
         for url in urls:
-            try:
-                im=fetch_image(url); used=url; break
-            except Exception as e: err.append(f'{url}: {e}')
-        if im is None:
-            failures.append((name,err)); print(f'FAIL {name}: '+ ' | '.join(err)); continue
-        fn=slug(name)+'.webp'; path=OUT/fn
-        w,h=save_native(im,path)
+            try:im=fetch_image(url);used=url;break
+            except Exception as e:err.append(f'{url}: {e}')
+        if im is None:failures.append((name,err));print(f'FAIL {name}: '+ ' | '.join(err));continue
+        fn=slug(name)+'.webp';path=OUT/fn;w,h=save_native(im,path)
         item={'src':'./assets/wound-images/user-hq/'+fn,'label':'Imagem principal','width':w,'height':h,'verified':True,'source_page':used,'local':True}
-        products[name]={'images':[item]}
-        rows.append(f'{name}: {w}x{h} · {path.stat().st_size} bytes · {used}')
-        print(f'OK {i:02d}/{EXPECTED} {name}: {w}x{h}')
+        products[name]={'images':[item]};rows.append(f'{name}: {w}x{h} · {path.stat().st_size} bytes · {used}');print(f'OK {i:02d}/{EXPECTED} {name}: {w}x{h}')
     if failures or len(products)!=EXPECTED:
-        for name,errs in failures:
-            print(f'\n{name}\n  '+'\n  '.join(errs))
+        for name,errs in failures:print(f'\n{name}\n  '+'\n  '.join(errs))
         raise SystemExit(f'ERRO: cobertura {len(products)}/{EXPECTED}; nada deve ser publicado parcialmente')
     payload={'version':'1.0','generated_at':datetime.now(timezone.utc).isoformat(),'product_count':EXPECTED,'verified_product_count':len(products),'products':products}
     MANIFEST.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    REPORT.write_text('\n'.join(['Fábio Command Center · curated wound images','',f'Generated: {payload["generated_at"]}',f'Products: {EXPECTED}',f'Verified local images: {len(products)}','Background: edge-connected light background removed where applicable','Resize: none (native source dimensions preserved)','',*rows,'']),encoding='utf-8')
+    REPORT.write_text('\n'.join(['Fábio Command Center · curated wound images','',f'Generated: {payload["generated_at"]}',f'Products: {EXPECTED}',f'Verified local images: {len(products)}','Background: edge-connected neutral background removed where applicable','Resize: none (native source dimensions preserved)','',*rows,'']),encoding='utf-8')
     print(f'\nPASS: {len(products)}/{EXPECTED} imagens locais verificadas')
 
-if __name__=='__main__': main()
+if __name__=='__main__':main()
