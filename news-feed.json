@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:56:13.048531Z",
+  "updatedAt": "2026-08-22T19:12:48.036736Z",
   "health": [
     {
       "title": "Médicos reformados a trabalhar no SNS batem recorde e mais de metade são médicos de família - Público",
@@ -42,8 +42,8 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
       "source": "Correio da Manhã",
       "publishedAt": "2026-08-22T11:54:00Z",
-      "description": "Jovem de 24 anos prestava serviço no posto de Pampilhosa da Serra.",
-      "image": "https://cdn.cmjornal.pt/images/2022-03/img_1280x721uu2022-03-17-19-26-26-1131830-im-639226561070119233.jpg",
+      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/militar-da-gnr-encontrado-morto-em-oliveira-do-hospital"
     },
     {
@@ -54,6 +54,15 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/sociedade/saude/2026-08-22-numero-de-medicos-reformados-no-sns-e-o-mais-alto-de-sempre-9e94dba5"
+    },
+    {
+      "title": "Açores avançam com cuidador ao domicílio para doentes de Machado-Joseph - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dGNvTlJma1o1dFpKOXd1aUp6V2lXd0U5T2c5RUl0dVJNY09qWlRQZl8wTURyVTdSdGNxdjVuTzdwcG5Rb1F3WXh3Z1R5MUo4Y0VYVlluLU1ScjFTSlAwbFJmWTJIeWxOakNVeFBQMmlVQWpMS3ln?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-08-22T14:50:34Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23583312"
     },
     {
       "title": "Ébola: Primeiras doses da vacina Ervebo chegam à RDCongo - HealthNews",
@@ -83,13 +92,12 @@
       "articleUrl": "https://funchalnoticias.net/2026/08/22/lito-sousa-enfrenta-doenca-rara-e-recebe-cuidados-domiciliarios-com-apoio-da-familia/"
     },
     {
-      "title": "Militar da GNR morre com tiro na cabeça em Oliveira do Hospital - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXFfR2xvRzVwclJNLXRIWDNJUmMyS0RmVF9KMDVvZ2NhM20yTkhpNF9BdWphNV9jRmpTQlRMNGg4bk03ZmtDRlZHaVBMeTEzYW9NOHNCUUNKX01Yb1paZFA0U0dWMGxIek1UdWFmaHItSFBST3N2c3FnTDkwOVVCNUJjWXdsblplYURTYWFtN2o0SzBXUXJONF9iZ0pmOEQ4RXhSb1ZKM0NUNldvb0EyTA?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-08-22T10:06:19Z",
-      "description": "Um militar da GNR de 24 anos, foi encontrado com tiro na cabeça em Bobadela, concelho de Oliveira do Hospital, esta madrugada, e acabou por falecer. O comandante dos Bombeiros de Oliveira do Hospital adiantou à CentroTV que o jovem estava colocado na GNR de Pampilhosa da Serra, tendo origens familiares na vila de Avô, [...]",
-      "image": "https://centrotv.sapo.pt/wp-content/uploads/2026/08/784435370_1085056940588308_4971668854529313298_n.jpeg",
-      "articleUrl": "https://sapo.pt/artigo/militar-da-gnr-morre-com-tiro-na-cabeca-em-oliveira-do-hospital-6a8974f057577bfcb5d9a142"
+      "title": "No hospital, Daniela Santos faz desabafo comovente: «Revolta-me...» - TVI",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3dXWG5sWFBGX0lwcWMyTEprX1N1Yms2TWgzQ3huTkJZb2RBZXFfRlhtSTJqZC1KUHJzSDdudmhjbndHMVNUb0ZiMVlnQlpvUzlfRGlfTjhiME1DYTRTUXBMTjVscjl5X2dKMnRvQ1lWc1FRc2xfU05TSGpyTjFTRXFKUXFGT21mMHpwdXh6aGlWc2s2M1R5WlhLb254Z0JKQXJ6eWtmTkdLdWRLNkZMYmpHYms?oc=5",
+      "source": "TVI",
+      "publishedAt": "2026-08-22T18:25:07Z",
+      "description": "Notícia publicada por TVI. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "UTAD cresce 6,8% na 1.ª fase e estreia Medicina com todas as vagas preenchidas - Diário de Trás-os-Montes e Alto Douro",
@@ -97,14 +105,6 @@
       "source": "Diário de Trás-os-Montes e Alto Douro",
       "publishedAt": "2026-08-22T14:57:41Z",
       "description": "Notícia publicada por Diário de Trás-os-Montes e Alto Douro. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "As emergências de saúde na República Democrática do Congo vão além do Ébola - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGpjRTZyWm1MMEVRY01WU3JRSWJac2dUMG4wMGdPakZKS3pOSnBVNVpud1RuLWJTTHRYQk4xQjVtQXRWUXR6UUFxS19WdlJTYnh5dXNwU0lISHFhZ2NqZXpwcmNTNUhyTFBKZHZiR0JBV08wX1Jrb0ZZVldaenhCd3pqelFCWW5RS1hENHgzUC1Pc1RNN1VnZi1feDlZX2d3eFFPNlpWOVNSNUJEMVJQa1pHMlM1M2ZscURjZ0dyem9UTlNyWGNTbTMwUXNqTjhMWTU0QkNxRGNLcVo0OGc?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-22T11:00:00Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -173,13 +173,22 @@
       "articleUrl": "https://www.tsf.pt/amp/18118415/presidente-iraniano-diz-que-chegou-a-altura-de-terminar-guerra-com-os-eua"
     },
     {
-      "title": "Porta-aviões dos EUA chega ao Oriente Médio para substituir USS Lincoln após relatos de más condições - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPenVGS1RIUUlTb2FCZ2NFWk5Ja2NIUkg5Z21SWGxPZS1qMTdSdW5xU2ZGcHJ6Wk5sYm1jdlhUUWNWRnR6WmlHQnFwTmVGUUc1aWRvSW81YXJ3emNONFNRNnpJT3RHbUpVNkdfaGV3Z3JjOU93cEhjLUR2RUEwOVo1R2pieHRlWmJXR2ZzcFZwRjVwYmV6Qm11NHlzcDZMUktQQ0RuWVhQeWhjRlMxUFFrajBwVTJOc2VDSDU3Q05xRVJfajZ4M0hOWnh3ckxxdDJSaVFhbTJyRDJDMmt1Nm00MDllbWpnTDA4WGhKNNIB-wFBVV95cUxOUXFBbGg2bzdzdzJsazVDUEF1UHhWa3FtTkt4TTNXZWxaNFlUU2lPWHVUODcweDNGajFfb2FVamVLU2VsdWNySEFhUHp6bWtUdzZ3dUc3OUprRDBGUjBSVldMRlU5M1ByX28zUDNPeEl0Y1N1NmhkaXBjUjdaX01xVVZPYng3WmVFbUV6dnpFdGpCVU04bDNCWXVZZDJNWVQtNnBkaXRTOGlmM3NDM0ZhQ3V3amVSQXEzc0VobktyMzJyeFh4ekFBaTBVZGxKNF9YM3NadHBHTUpnSW5BNl9fampEUHcyVXVZV1VYZlhRc01uUWFoalhOaUtOUQ?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-08-20T18:41:58Z",
-      "description": "USS George Washington se junta ao USS George H.W. Bush no Oriente Médio, deixando a Ásia sem um grupo de ataque americano em um momento em que a China tem dado sinais de agressividade",
-      "image": "https://s2-valor.glbimg.com/vm77tbLw-FOpcF79X6tejKvvuJs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/x/B/AvhfDWSAysiBcb5zK7mg/ap26232658970439.jpg",
-      "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/20/porta-avioes-dos-eua-chega-ao-oriente-medio-para-substituir-uss-lincoln-apos-relatos-de-mas-condicoes.ghtml"
+      "title": "Irão diz estar numa posição de força para acabar com a guerra. Sanções e Estreito de Ormuz continuam a bloquear acordo - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU2dEb3RSazJQVklnbnZVYy1Va3B6VXg1NmZpdUJrdjFHdVJCTVhVbUFHQWZUcGd1aDZMZHh6cjRiMFQxSWNmN3hPaWV6S21oQ0RDdGNFbkxIajF1S05MbmNMRnRiUnlRSGd3c3pDOFBvWHdsR0lYWjRleW1uRElHWEQxb1E2SXltVjhmVjlDejNneDJyYVFBUmRGcW9fYkdlTnJheTk4MkswLWg0T1ByOUM2eS1rLTJoN3N1bldjbGdRaUJuRWFXUm52ZGtRTm9uSUNIZUs2LXNBenl1WV9xRkNmOHhvR0Z5RXpwd01ieTdLSlE?oc=5",
+      "source": "Plataforma Media",
+      "publishedAt": "2026-08-21T13:31:28Z",
+      "description": "O Presidente iraniano defendeu o fim da guerra com os EUA, enquanto as negociações continuam suspensas. Teerão mantém parcialmente ...",
+      "image": "https://cdn.plataformamedia.com/2026/06/AFP__20260618__B7GL7HZ__v3__MidRes__TopshotIranUsWar-1.webp",
+      "articleUrl": "https://www.plataformamedia.com/2026/08/21/irao-diz-estar-numa-posicao-de-forca-para-acabar-com-a-guerra-sancoes-e-estreito-de-ormuz-continuam-a-bloquear-acordo/"
+    },
+    {
+      "title": "Navio sul-coreano segue para a Europa pela rota marítima do Ártico - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGFUS1RseVJXclluaFB1NDZadlBmYndlc2xJN1pVV1dEd2xMVlNSOHp0UjVlZkh6Y1VBOFRzQ1BOSm5jR1QyallQVU9TQnV1TlRJMFVINzhoMm1zSlRRaUU4MFBadE8ya2pFTnhQTVVXZFdTVFZqaEx4a042MXp3RWlzczk0UUFFOGJVUXV3bS1qbnpEVDVZbkNqcUlfSkpFYVVyWDZoX1prNGZMWDVYZThXNA?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-08-22T13:57:07Z",
+      "description": "\"O navio destinado a testar a rota ártica partiu do porto às 21:30 (hora local)\", anunciou o Ministério dos Oceanos da Coreia do Sul, em comunicado enviado à Ag...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_65d30589cf451.webp",
+      "articleUrl": "https://www.noticiasaominuto.com/mundo/3040011/navio-sul-coreano-segue-para-a-europa-pela-rota-maritima-do-artico"
     },
     {
       "title": "Presidente do Irão diz que é altura de terminar a guerra com os Estados Unidos - RFI",
@@ -191,28 +200,19 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260821-presidente-do-ir%C3%A3o-diz-que-%C3%A9-altura-de-terminar-a-guerra-com-os-estados-unidos"
     },
     {
+      "title": "Preço dos combustíveis volta a subir em Portugal na próxima semana - Portal Impala",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03Ymp6QXJ0RGRQbnRtUkMwb1JsaFAtODBCSmVCWkZITGwxT18yd19FN2VNa2Q2c1lUU0VYaU9kZ0VFMkJXRXVNTlMyNTZrUVZDN3FkS0hCc3g0aWJKZ3NNSF9rU0o1czc5YWlLd2RmZUxuZkxSUTc2RFZDNUl1UQ?oc=5",
+      "source": "Portal Impala",
+      "publishedAt": "2026-08-21T16:03:55Z",
+      "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "A União Europeia em uma era de divisão - Instituto Liberal",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFNhdmNFaVMyTXdMeURta0pZYmdtYUhLcmpzN250MkpsdzBhRkpGZ1Y0QkNBOW1Bdk52T0JsSUhGVGlUZkhaanZvaTdjOVBMLXA0Ql9lclg2WEJ3R19nT3c5bTFjMVNVdjdFY25xZmhnenNXeDRpSUM4Qy1BeDVvLXZ2SXpTS2ZFb09xTi0zdEdMMlk?oc=5",
       "source": "Instituto Liberal",
       "publishedAt": "2026-08-21T19:18:22Z",
       "description": "Notícia publicada por Instituto Liberal. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.institutoliberal.org.br/blog/politica/a-uniao-europeia-em-uma-era-de-divisao/"
-    },
-    {
-      "title": "Presidente do Irã diz que guerra deve acabar enquanto Teerã está forte - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3p6cGpXeko4X2JON0g0TWs0YXdtWDVma1NTQ21ETFRuSkNSMXk0U1ZhdmF5aTI4UXdLSm1JUDVsUW9IMS1yMU54NzlQSVJqM2VfR2VRaWRwcHdzb2xuREdMNmlaX2xoV096cE8wOWZBWXgySFY4aERoV1VNSXZYeDJCdGRWTV9mcWdlYi1FTlRoQnJ3MXNfOWo2ZUxCck9NbHNXZFJCYmgwazBKREVGdU5STzE?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-08-21T12:29:35Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Conflito no Oriente Médio: Irã pede o fim da guerra. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTQwd2N6NHJJQnRSaHJhR2JpX3J4Y3Z4ekxETUpZX1VlN1lTQnFmaThJc1Q1cV8xRVQ4by1VOG5TclljTU9VUHQ0MHFTQlM5WjJCeVByQmlTWVhNb1l3OXJ0QUljQTExb05rdUV2Y0hfdlNLSWhmNmhMR0M0ZmdPTXpYVmZvM1pQZmNJ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-21T16:07:48Z",
-      "description": "Notícia publicada por Vietnam.vn. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
