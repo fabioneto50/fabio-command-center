@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.2 stability audit
-Commit: 24a067b5712b7c5a233cf2905a2b168a9dcc840b
-Generated: 2026-08-22T07:44:17Z
+Commit: b796ab94067542304b173d74e36aef69fc43e64a
+Generated: 2026-08-22T15:35:24Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
@@ -46,7 +46,7 @@ Temporary wound-photo staging exists: False
 Wound image audit: PASS
 
 == Architecture risk scan (active + dormant files) ==
-MutationObserver occurrences: 13 files
+MutationObserver occurrences: 15 files
 dilutions-card-ux-v5.js:79:    const mo=new MutationObserver(()=>queueMicrotask(decorate));
 dilutions-card-ux-v5.js:82:    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
 dilutions-cuf-v6.js:111:    new MutationObserver(()=>{if(!processing)schedule()}).observe(grid,{childList:true,subtree:false});
@@ -55,6 +55,8 @@ iv-source-evidence.js:108:    const obs=new MutationObserver(()=>{if(busy)return
 medication-brands-v1.js:144:    const rootObs=new MutationObserver(()=>queueMicrotask(refresh));rootObs.observe(root,{childList:true,subtree:true});
 medication-brands-v1.js:145:    const sugObs=new MutationObserver(()=>queueMicrotask(decorateSuggestions));sugObs.observe(suggest,{childList:true,subtree:true});
 medication-catalog-v6.js:10:decode().then(P=>{const DATA=P.r.map(a=>{const d={n:a[0]};K.forEach((k,i)=>{if(a[i+1]>=0)d[k]=P.v[a[i+1]]});return d}),MAP=new Map(DATA.map(d=>[fold(d.n),d]));window.FCC_MEDICATION_CATALOG_V6={version:'0.2',count:DATA.length,records:DATA};styles();function enrich(a){if(!a||a.dataset.med6==='1')return;const name=a.querySelector('.med4-head h3')?.textContent?.trim(),d=MAP.get(fold(name));if(!d)return;a.dataset.med6='1';const h=a.querySelector('.med4-head'),b=h?.querySelector('.badge');if(b)b.textContent=d.s?.includes('INDIVIDUAL')?'Verificação individual':'Validação por classe/subclasse';const q=document.createElement('div');q.className='med6-quick';q.innerHTML='<div class="med6-label">Resumo rápido</div><p>'+esc(d.q)+'</p><span class="med6-status">'+esc(d.s)+'</span>';(a.querySelector('.med4-mech')||h)?.insertAdjacentElement('afterend',q);const t=document.createElement('div');t.className='med6-title';t.innerHTML='<h4>Ficha completa</h4>';q.insertAdjacentElement('afterend',t);const g=document.createElement('div');g.className='med6-grid';g.innerHTML=fields.filter(([k])=>d[k]).map(([k,l])=>'<section class="med6-box"><div class="med6-label">'+esc(l)+'</div><p>'+esc(d[k])+'</p></section>').join('');t.insertAdjacentElement('afterend',g);const f=document.createElement('div');f.className='med6-foot';f.textContent='Catálogo Mestre de Medicação 2026 · V0.2. Informação clínica de referência; confirmar RCM/SmPC, protocolo institucional, indicação, via e apresentação concreta antes de decisão clínica.';g.insertAdjacentElement('afterend',f)}function scan(){document.querySelectorAll('#clin-drugs .med4-detail').forEach(enrich)}scan();const r=document.getElementById('med4Results');if(r)new MutationObserver(scan).observe(r,{childList:true,subtree:true})}).catch(e=>console.error('[Medication Catalog V6]',e));
+medication-catalog-v7-patch.js:19:let mo=null;const start=()=>{if(!apply())return false;dedupe();const root=document.getElementById('med4Results');if(root&&!mo){mo=new MutationObserver(()=>queueMicrotask(dedupe));mo.observe(root,{childList:true,subtree:true})}return true};
+medication-catalog-v7.js:29:function bind(){const root=document.getElementById('med4Results'),input=document.getElementById('med4Search'),sel=document.getElementById('med4Group'),box=document.getElementById('med4Suggest');if(!root||!input||!sel||!box)return false;rootObserver?.disconnect();suggestObserver?.disconnect();rootObserver=new MutationObserver(()=>{if(!busy)queueMicrotask(refresh)});rootObserver.observe(root,{childList:true,subtree:true});suggestObserver=new MutationObserver(()=>queueMicrotask(injectSuggestions));suggestObserver.observe(box,{childList:true,subtree:true});input.addEventListener('input',()=>setTimeout(refresh,0));sel.addEventListener('change',()=>setTimeout(refresh,0));refresh();return true}
 medication-info-ux-v5-base.js:169:    const mo=new MutationObserver(()=>{if(!processing)queueMicrotask(processList)});mo.observe(r,{childList:true,subtree:false});
 medication-info-ux-v5-base.js:180:    const activeObserver=new MutationObserver(()=>{
 medication-reference-links-v2.js:94:    if(!host)return;new MutationObserver(changes=>{for(const c of changes)for(const n of c.addedNodes||[]){if(n.nodeType!==1)continue;decorateDrugMini(n);decorateDrugRow(n);n.querySelectorAll?.('.med4-mini').forEach(decorateDrugMini);n.querySelectorAll?.('.med5-detail-row').forEach(decorateDrugRow)}}).observe(host,{childList:true,subtree:true});
@@ -81,4 +83,5 @@ setInterval occurrences:
 app.js:165:function fmt(sec){return String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')}function startCode(){if(codeStart)return;codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000);codeMark('Timer iniciado')}function codeMark(n){if(!codeStart){codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000)}const t=fmt(Math.floor((Date.now()-codeStart)/1000));codeLog.unshift({n,t});codeEvents.innerHTML=codeLog.map(x=>`<div class="item"><strong>${x.n}</strong><span>${x.t}</span></div>`).join('')}function resetCode(){clearInterval(codeInt);codeStart=null;codeInt=null;codeLog=[];codeTimer.textContent='00:00';codeEvents.innerHTML=''}
 family-security.js:105:  setInterval(()=>{if(isExpired())lockNow()},30000);
 iv-catalogue.js:73:    let tries=0;const timer=setInterval(()=>{tries++;if(install()||tries>30)clearInterval(timer)},200);
+medication-catalog-v7-patch.js:20:if(!start()){document.addEventListener('fcc-medication-catalog-ready',start,{once:true});let n=0;const t=setInterval(()=>{if(start()||n++>80)clearInterval(t)},100)}
 wound-dressings-local-data-v1.js:27:  let tries=0;const timer=setInterval(()=>{tries++;if(apply()||tries>=30)clearInterval(timer)},120);
