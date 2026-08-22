@@ -1,0 +1,488 @@
+{
+  "version": "4.3-user-final",
+  "product_count": 28,
+  "image_count": 46,
+  "source_policy": "user-provided-conversation-only",
+  "products": {
+    "Acticoat® / Acticoat® Flex 3": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/acticoat-flex-3-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Actisorb® Silver 220": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/actisorb-silver-220-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Adaptic®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/adaptic-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Allevyn® Life": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/allevyn-life-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Aquacel® Ag+ Extra": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/aquacel-ag-extra-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/aquacel-ag-extra-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Aquacel® Extra": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/aquacel-extra-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/aquacel-extra-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Argenpal 42,5 mg barra cutânea®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/argenpal-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Atrauman® Ag": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/atrauman-ag-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/atrauman-ag-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/atrauman-ag-03.avif",
+          "label": "Imagem complementar 2",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/atrauman-ag-04.avif",
+          "label": "Imagem complementar 3",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Cutanplast®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/cutanplast-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/cutanplast-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Emla® Penso": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/emla-penso-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Inadine®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/inadine-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/inadine-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/inadine-03.avif",
+          "label": "Imagem complementar 2",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/inadine-04.avif",
+          "label": "Imagem complementar 3",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Jelonet®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/jelonet-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/jelonet-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Melgisorb® Plus": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/melgisorb-plus-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/melgisorb-plus-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Mepilex®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/mepilex-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/mepilex-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Mepilex® Border Flex": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/mepilex-border-flex-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/mepilex-border-flex-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Mepilex® Border Heel": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/mepilex-border-heel-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/mepilex-border-heel-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Mepitel®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/mepitel-01.avif",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Merogel®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/merogel-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Multidex®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/multidex-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Nu-Gel®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/nu-gel-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Promogran®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/promogran-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Spongostan® Standard": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/spongostan-standard-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Surgicel®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/surgicel-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/surgicel-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/surgicel-03.avif",
+          "label": "Imagem complementar 2",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Surgicel® Fibrilar": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/surgicel-fibrilar-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/surgicel-fibrilar-02.avif",
+          "label": "Imagem complementar 1",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        },
+        {
+          "src": "./assets/wound-images/user-final/surgicel-fibrilar-03.avif",
+          "label": "Imagem complementar 2",
+          "kind": "supporting",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "TachoSil®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/tachosil-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Tutopatch®": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/tutopatch-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Varihesive® Extra Fino": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/varihesive-extra-fino-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    },
+    "Varihesive® Gel Control": {
+      "images": [
+        {
+          "src": "./assets/wound-images/user-final/varihesive-gel-control-01.webp",
+          "label": "Imagem principal",
+          "kind": "primary",
+          "verified": true,
+          "local": true,
+          "source": "user-provided-conversation"
+        }
+      ]
+    }
+  }
+}

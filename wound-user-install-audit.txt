@@ -1,0 +1,6 @@
+Products: 28
+Images: 46
+Principal original blobs: 27
+New images: 19
+Source: user-provided-conversation-only
+Validation: PASS
