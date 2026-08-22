@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.2 stability audit
-Commit: 2ea91e70c83a75be347ee986a913d30c9b409313
-Generated: 2026-08-22T01:56:38Z
+Commit: 4dc0599fc9c22107510e35a3b15f07be2281def1
+Generated: 2026-08-22T01:57:17Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
@@ -17,17 +17,17 @@ IDs: 308 duplicates: none
 == Wound dressing image audit ==
 Base products in wound catalogue: 27
 Final runtime products: 28
-Expected runtime image products: 28
-Expected total images: 46
+Expected runtime image products: 0
+Expected total images: 0
 Bundle format: avif
 Bundle valid AVIF images: 2
 Bundle load/parse error: none
-Missing product images: ['Melgisorb® Plus', 'Actisorb® Silver 220', 'Allevyn® Life', 'Varihesive® Extra Fino', 'Aquacel® Extra', 'Aquacel® Ag+ Extra', 'Atrauman® Ag', 'Inadine®', 'Nu-Gel®', 'Mepilex® Border Flex', 'Promogran®', 'Mepilex® Border Heel', 'Mepilex®', 'Surgicel® Fibrilar', 'Surgicel®', 'Cutanplast®', 'Spongostan® Standard', 'TachoSil®', 'Jelonet®', 'Adaptic®', 'Emla® Penso', 'Multidex®', 'Tutopatch®', 'Argenpal 42,5 mg barra cutânea®', 'Merogel®', 'Mepitel®']
-Products below expected image count: {'Actisorb® Silver 220': {'expected': 1, 'found': 0}, 'Adaptic®': {'expected': 1, 'found': 0}, 'Allevyn® Life': {'expected': 1, 'found': 0}, 'Aquacel® Ag+ Extra': {'expected': 2, 'found': 0}, 'Aquacel® Extra': {'expected': 2, 'found': 0}, 'Argenpal 42,5 mg barra cutânea®': {'expected': 1, 'found': 0}, 'Atrauman® Ag': {'expected': 4, 'found': 0}, 'Cutanplast®': {'expected': 2, 'found': 0}, 'Emla® Penso': {'expected': 1, 'found': 0}, 'Inadine®': {'expected': 4, 'found': 0}, 'Jelonet®': {'expected': 2, 'found': 0}, 'Melgisorb® Plus': {'expected': 2, 'found': 0}, 'Mepilex®': {'expected': 2, 'found': 0}, 'Mepilex® Border Flex': {'expected': 2, 'found': 0}, 'Mepilex® Border Heel': {'expected': 2, 'found': 0}, 'Mepitel®': {'expected': 1, 'found': 0}, 'Merogel®': {'expected': 1, 'found': 0}, 'Multidex®': {'expected': 1, 'found': 0}, 'Nu-Gel®': {'expected': 1, 'found': 0}, 'Promogran®': {'expected': 1, 'found': 0}, 'Spongostan® Standard': {'expected': 1, 'found': 0}, 'Surgicel®': {'expected': 3, 'found': 0}, 'Surgicel® Fibrilar': {'expected': 3, 'found': 0}, 'TachoSil®': {'expected': 1, 'found': 0}, 'Tutopatch®': {'expected': 1, 'found': 0}, 'Varihesive® Extra Fino': {'expected': 1, 'found': 0}}
+Missing product images: ['Melgisorb® Plus', 'Actisorb® Silver 220', 'Allevyn® Life', 'Varihesive® Extra Fino', 'Aquacel® Extra', 'Aquacel® Ag+ Extra', 'Atrauman® Ag', 'Inadine®', 'Nu-Gel®', 'Mepilex® Border', 'Promogran®', 'Mepilex® Heel', 'Mepilex®', 'Surgicel® Fibrilar', 'Surgicel®', 'Cutanplast®', 'Spongostan® Standard', 'TachoSil®', 'Jelonet®', 'Adaptic®', 'Emla® Penso', 'Multidex®', 'Tutopatch®', 'Argenpal 42,5 mg barra cutânea®', 'Merogel®', 'Mepitel®']
+Products below expected image count: none
 Invalid bundle image entries: [('Acticoat® / Acticoat® Flex 3', 1)]
-Extra bundle products: none
+Extra bundle products: ['Acticoat® / Acticoat® Flex 3', 'Varihesive® Gel Control']
 Expected products absent from final catalogue: none
-Final catalogue products absent from EXPECTED: none
+Final catalogue products absent from EXPECTED: ['Melgisorb® Plus', 'Actisorb® Silver 220', 'Allevyn® Life', 'Varihesive® Extra Fino', 'Varihesive® Gel Control', 'Aquacel® Extra', 'Aquacel® Ag+ Extra', 'Atrauman® Ag', 'Inadine®', 'Nu-Gel®', 'Mepilex® Border', 'Promogran®', 'Mepilex® Heel', 'Mepilex®', 'Surgicel® Fibrilar', 'Surgicel®', 'Cutanplast®', 'Spongostan® Standard', 'TachoSil®', 'Jelonet®', 'Adaptic®', 'Acticoat® / Acticoat® Flex 3', 'Emla® Penso', 'Multidex®', 'Tutopatch®', 'Argenpal 42,5 mg barra cutânea®', 'Merogel®', 'Mepitel®']
 Active fallback image chunks: 7 ['wound-images-chunk-01.js', 'wound-images-chunk-02.js', 'wound-images-chunk-03.js', 'wound-images-chunk-04.js', 'wound-images-chunk-05.js', 'wound-images-chunk-06.js', 'wound-images-chunk-07.js']
 Fallback embedded image keys: 0
 Dormant fallback chunks ignored by runtime: none
@@ -36,7 +36,7 @@ Remote image URLs in active gallery module: none
 Wound image audit: FAIL
 
 == Architecture risk scan (active + dormant files) ==
-MutationObserver occurrences: 14 files
+MutationObserver occurrences: 13 files
 dilutions-card-ux-v5.js:79:    const mo=new MutationObserver(()=>queueMicrotask(decorate));
 dilutions-card-ux-v5.js:82:    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
 dilutions-cuf-v6.js:111:    new MutationObserver(()=>{if(!processing)schedule()}).observe(grid,{childList:true,subtree:false});
@@ -52,7 +52,6 @@ medication-reference-links-v2.js:97:    if(!grid)return;new MutationObserver(cha
 medication-safety-cuf-v2.js:233:    if(medHost&&!medHost.dataset.cufHaObserved){medHost.dataset.cufHaObserved='1';new MutationObserver(scheduleDecorate).observe(medHost,{childList:true,subtree:true})}
 medication-stability-cuf-v1.js:52:    new MutationObserver(changes=>{
 search-enhancer.js:115:  const clinical=document.getElementById('page-clinical');if(clinical)new MutationObserver(schedule).observe(clinical,{childList:true,subtree:true});
-wound-dressings-images-v2.js:96:  const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});
 wound-dressings-media-model-v1.js:35:  const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});
 wound-dressings-order-v1.js:90:    new MutationObserver(()=>queueMicrotask(updateBar)).observe(grid,{childList:true});
 
@@ -72,4 +71,4 @@ setInterval occurrences:
 app.js:165:function fmt(sec){return String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')}function startCode(){if(codeStart)return;codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000);codeMark('Timer iniciado')}function codeMark(n){if(!codeStart){codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000)}const t=fmt(Math.floor((Date.now()-codeStart)/1000));codeLog.unshift({n,t});codeEvents.innerHTML=codeLog.map(x=>`<div class="item"><strong>${x.n}</strong><span>${x.t}</span></div>`).join('')}function resetCode(){clearInterval(codeInt);codeStart=null;codeInt=null;codeLog=[];codeTimer.textContent='00:00';codeEvents.innerHTML=''}
 family-security.js:105:  setInterval(()=>{if(isExpired())lockNow()},30000);
 iv-catalogue.js:73:    let tries=0;const timer=setInterval(()=>{tries++;if(install()||tries>30)clearInterval(timer)},200);
-wound-dressings-local-data-v1.js:60:  const timer=setInterval(()=>{
+wound-dressings-local-data-v1.js:27:  let tries=0;const timer=setInterval(()=>{tries++;if(apply()||tries>=30)clearInterval(timer)},120);
