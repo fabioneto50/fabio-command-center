@@ -1,1 +1,0 @@
-Legacy image data is being removed before user-provided images are installed. This file is temporary and will be removed in the final Step 1 tree cleanup.

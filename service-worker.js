@@ -1,4 +1,4 @@
-const CACHE='fcc-master-1.3.2-wound-gallery-clean-5';
+const CACHE='fcc-master-1.3.2-wound-useronly-step1-6';
 const CORE=[
  './','./index.html','./styles.css','./app.js','./navigation-hub.js',
  './runtime-core-v1.js','./runtime-diagnostics-v1.js','./theme-switcher.js','./theme-auto-v2.js',
@@ -12,5 +12,5 @@ self.addEventListener('activate',event=>event.waitUntil((async()=>{const keys=aw
 self.addEventListener('fetch',event=>{
  if(event.request.method!=='GET')return;const u=new URL(event.request.url);if(u.origin!==location.origin)return;
  const networkFirst=async()=>{try{const r=await fetch(event.request,{cache:'no-store'});if(r?.ok){const c=await caches.open(CACHE);c.put(event.request,r.clone()).catch(()=>{})}return r}catch(e){const cached=await caches.match(event.request,{ignoreSearch:true});if(cached)return cached;if(event.request.mode==='navigate')return (await caches.match('./index.html',{ignoreSearch:true}))||Response.error();return Response.error()}};
- if(event.request.mode==='navigate'||/\.(?:html|js|css|json|webmanifest)$/.test(u.pathname))event.respondWith(networkFirst());
+ if(event.request.mode==='navigate'||/\.(?:html|js|css|json|webmanifest|webp|png|jpe?g)$/.test(u.pathname))event.respondWith(networkFirst());
 });
