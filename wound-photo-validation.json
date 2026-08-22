@@ -1,0 +1,147 @@
+{
+  "status": "FAIL",
+  "expected_products": 28,
+  "expected_images": 46,
+  "source_products": 2,
+  "source_images": 3,
+  "missing": [
+    "Actisorb® Silver 220",
+    "Adaptic®",
+    "Allevyn® Life",
+    "Aquacel® Ag+ Extra",
+    "Aquacel® Extra",
+    "Argenpal 42,5 mg barra cutânea®",
+    "Atrauman® Ag",
+    "Cutanplast®",
+    "Emla® Penso",
+    "Inadine®",
+    "Jelonet®",
+    "Melgisorb® Plus",
+    "Mepilex®",
+    "Mepilex® Border Flex",
+    "Mepilex® Border Heel",
+    "Mepitel®",
+    "Merogel®",
+    "Multidex®",
+    "Nu-Gel®",
+    "Promogran®",
+    "Spongostan® Standard",
+    "Surgicel®",
+    "Surgicel® Fibrilar",
+    "TachoSil®",
+    "Tutopatch®",
+    "Varihesive® Extra Fino"
+  ],
+  "extras": [],
+  "bad_counts": {
+    "Acticoat® / Acticoat® Flex 3": {
+      "found": 2,
+      "expected": 1
+    },
+    "Actisorb® Silver 220": {
+      "found": -1,
+      "expected": 1
+    },
+    "Adaptic®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Allevyn® Life": {
+      "found": -1,
+      "expected": 1
+    },
+    "Aquacel® Ag+ Extra": {
+      "found": -1,
+      "expected": 2
+    },
+    "Aquacel® Extra": {
+      "found": -1,
+      "expected": 2
+    },
+    "Argenpal 42,5 mg barra cutânea®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Atrauman® Ag": {
+      "found": -1,
+      "expected": 4
+    },
+    "Cutanplast®": {
+      "found": -1,
+      "expected": 2
+    },
+    "Emla® Penso": {
+      "found": -1,
+      "expected": 1
+    },
+    "Inadine®": {
+      "found": -1,
+      "expected": 4
+    },
+    "Jelonet®": {
+      "found": -1,
+      "expected": 2
+    },
+    "Melgisorb® Plus": {
+      "found": -1,
+      "expected": 2
+    },
+    "Mepilex®": {
+      "found": -1,
+      "expected": 2
+    },
+    "Mepilex® Border Flex": {
+      "found": -1,
+      "expected": 2
+    },
+    "Mepilex® Border Heel": {
+      "found": -1,
+      "expected": 2
+    },
+    "Mepitel®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Merogel®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Multidex®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Nu-Gel®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Promogran®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Spongostan® Standard": {
+      "found": -1,
+      "expected": 1
+    },
+    "Surgicel®": {
+      "found": -1,
+      "expected": 3
+    },
+    "Surgicel® Fibrilar": {
+      "found": -1,
+      "expected": 3
+    },
+    "TachoSil®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Tutopatch®": {
+      "found": -1,
+      "expected": 1
+    },
+    "Varihesive® Extra Fino": {
+      "found": -1,
+      "expected": 1
+    }
+  },
+  "error": "product/image counts do not match 28/46"
+}
