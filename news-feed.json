@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-22T07:49:38.773792Z",
+  "updatedAt": "2026-08-22T09:45:45.110999Z",
   "health": [
-    {
-      "title": "Primeiro medicamento com vírus contra cancro do esófago começa a ser vendido no Japão - Público",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDVMUkd0ZE5WeDdSLTA3QmV4WmN1TDJJMmJST0VscXJRMkVvVUNXWV91WXVsQ1RHNmRGcGJUV0F3cEd0c1ZGY0pwam1FYUljMkFOYXZXanMta1dsR19OWjlVa2d0RU54TGN6azI5c1dRU2hKMEdMdUoyNzVraWt0Ymo0bmI0RXMzOGh6elJhdFdMV2M4Wlg2UkEwTG5lc21HdTFXbUp1b05VZDdWWXRpQ1JwaWNVbEVENWY0bmo2Uk5FMG9Oa1hEc3RZSWV5TkFzU0ZWNmhDOA?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-22T05:56:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/22/ciencia/noticia/medicamento-virus-cancro-esofago-comeca-vendido-japao-2185712?ref=ciencia&cx=page__content"
-    },
     {
       "title": "Enfermeiros do hospital Amadora-Sintra entregam declaração de escusa de responsabilidade - RTP",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1ZiWGVaTnFISVhfai1mRDdUWUl4enJiWGpLZEtrTGtCYVNsOHI0ZjkyX1F2YVNJV0U5QzVndkZvb0hEdnhZRmI2cjVzRk5IbVU4U1dGZ3hTa3RaMW9KUF8yTGFpN2M5UE9vWklfeFVfNk1XNWN4LXM1eFdmZUVZT0pZbFRqMXNQWDVmVWZzNUoxdDlqR3FWT1lfTUM3enBQTFJMbWxxRUhoVHFiX2RtS2tJOVV3Qnk2TkU1a0dkeWdTN0VpMlVyRDNB?oc=5",
@@ -18,6 +9,15 @@
       "description": "Dezenas de enfermeiros entregaram à administração do hospital uma declaração de escusa de responsabilidades. Alegam falta de condições para prestar cuidados de saúde e adequados aos utentes em urgência. O hospital sublinha que está em curso o reforço dos recursos, com a contratação de mais 13 enfermeiros entre os meses de agosto e setembro.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/48/4822f7c7ec60b92f465ebf42020c4510?w=860&q=90&rect=0,17,2364,1296&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/pais/enfermeiros-do-hospital-amadora-sintra-entregam-declaracao-de-escusa-de-responsabilidade_n1760819"
+    },
+    {
+      "title": "Primeiro medicamento com vírus contra cancro do esófago começa a ser vendido no Japão - Público",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDVMUkd0ZE5WeDdSLTA3QmV4WmN1TDJJMmJST0VscXJRMkVvVUNXWV91WXVsQ1RHNmRGcGJUV0F3cEd0c1ZGY0pwam1FYUljMkFOYXZXanMta1dsR19OWjlVa2d0RU54TGN6azI5c1dRU2hKMEdMdUoyNzVraWt0Ymo0bmI0RXMzOGh6elJhdFdMV2M4Wlg2UkEwTG5lc21HdTFXbUp1b05VZDdWWXRpQ1JwaWNVbEVENWY0bmo2Uk5FMG9Oa1hEc3RZSWV5TkFzU0ZWNmhDOA?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-22T05:56:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/08/22/ciencia/noticia/medicamento-virus-cancro-esofago-comeca-vendido-japao-2185712?ref=ciencia&cx=page__content"
     },
     {
       "title": "Angola vacina 9,2 milhões de crianças na terceira ronda contra poliomielite - HealthNews",
@@ -29,13 +29,13 @@
       "articleUrl": "https://healthnews.pt/2026/08/22/angola-vacina-92-milhoes-de-criancas-na-terceira-ronda-contra-poliomielite/"
     },
     {
-      "title": "Hospital Amadora-Sintra confirma escusa de enfermeiros e diz ter contratações em curso - Observador",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3NuLWx2VDBPTkNuNkNMMjFFT0wxTmtFaENWY0tFU0JlRmRnZHhHOU0tT2E1el94c0p4WFFNZUlnUXc1T1dZYURjcUhhdzFXSkxUbXo2S0doWGlWQ3phcUdXelFWRE00c09lYVhLcUxKLXVqSTJaak42UXM1ZUtJWVREX2dfQjM0OE5kb2JId0ludzdvWlN5UDhqbGEtZzFVZkFQNWRCa0ZlMmFZVk5xMGRKcXlKUkN4aGlqam96aw?oc=5",
+      "title": "Açores regulamentam apoios à doença de Machado-Joseph após recomendação da Provedora de Justiça - Observador",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblFKSHFfTng4Yk5CQzl3emJyay04cGdkWEx1YUJrajFrbEJ2QldNMUpQVlMxSUwydnAwN2JjM0tOWUk2Ymx2LXdDbllDV0hrcU9kLXctVkZqQ2UyN0NrQk44N3pfUE9feVA0Y0haTzQxTjZtQURLSGFUY1RKS0ZoY3ZQX004UUdNQUw0OFc2RU9BVjFHV3Fqd0pxejlabTlsX1pxTlRIRWFWekNUal9wb2xLYlN3SnNlZTRtWmRPTDdkODZFM1VPYQ?oc=5",
       "source": "Observador",
-      "publishedAt": "2026-08-21T16:42:29Z",
-      "description": "A unidade hospitalar contratou seis enfermeiros no mês de agosto e espera em setembro contratar mais sete. Os enfermeiros do Amadora-Sintra queixam-se da falta de condições que leva a longas esperas.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F21151100%2F46348861.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/21/enfermeiros-do-hospital-amadora-sintra-entregam-declaracao-de-escusa-de-responsabilidade/"
+      "publishedAt": "2026-08-21T22:37:46Z",
+      "description": "Diploma aprovado em Conselho do Governo prevê equipamentos de mobilidade, cuidador ao domicílio e subvenção ao acompanhante para doentes no arquipélago.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1405%3Anowe%3A0%3A131%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F03%2F19110337%2Fts154a9693.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/08/21/acores-regulamentam-apoios-a-doenca-de-machado-joseph-apos-recomendacao-da-provedora-de-justica/"
     },
     {
       "title": "Medicina é o curso com a média mais alta de entrada em Coimbra - Diário de Coimbra",
@@ -45,6 +45,15 @@
       "description": "Já são conhecidos os números de colocados por curso no ensino superior em Coimbra, tal como o número de vagas preenchidas por instituição",
       "image": "https://www.diariocoimbra.pt/wp-content/uploads/2026/05/Pateo-universidade-1.webp",
       "articleUrl": "https://www.diariocoimbra.pt/2026/08/22/medicina-e-o-curso-com-a-media-mais-alta-de-entrada-em-coimbra/"
+    },
+    {
+      "title": "Porque é que algumas pessoas respondem melhor à vacina contra a COVID-19? A IA já sabe - ZAP Notícias",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1odUktTDBuS2t1aHktVGVob2xPSGN5UU5oenR4b1p3dXhqd2ZyRlhvNzhTS0dHNjBSTXJITlRhRFlOTS1FTFhxY0dqWHpjbUJPMFNwYmxxekpwd1ZtUi1kRl8wWGRwTUszWVM5UklFN1hmNVQ5MGhN?oc=5",
+      "source": "ZAP Notícias",
+      "publishedAt": "2026-08-22T08:00:17Z",
+      "description": "A eficácia das vacinas não é igual em todas as pessoas. A Inteligência Artificial pode ajudar, ao prever quem responderá melhor a uma dose antes da toma. Vêm aí vacinas personalizadas? Um novo estudo sugere que uma análise ao sangue feita antes da vacinação, combinada com inteligência artificial (IA), poderá ajudar a prever quem terá uma resposta imunitária mais forte à vacina…",
+      "image": "https://zap.aeiou.pt/wp-content/uploads/2021/02/bbe54679a9661b1187fba378163025b0.jpg",
+      "articleUrl": "https://zap.aeiou.pt/ia-descobre-resposta-melhor-vacina-covid-760889"
     },
     {
       "title": "16.250 doses da vacina Ervebo contra o Ébola chegam à RDCongo - Correio da Manhã",
@@ -65,45 +74,36 @@
       "articleUrl": "https://sicnoticias.pt/pais/2026-08-21-video-hospital-amadora-sintra-adia-cirurgia-por-oito-dias-doente-fez-jejum-todos-os-dias-36fb6f09"
     },
     {
-      "title": "Doentes urgentes com mais de nove horas de espera no Hospital Amadora-Sintra - SÁBADO",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnpoVk1NTmJibnpkNk5JTmlmeTV1ZlN1SGRkRmdtSDU1SjZOWU9lM0xKQ3lJUnJBUVZpcVo1OURHNTI2MUI5bTNuTXJQYjA2YWtDTERfcnM3dXZXTDR4bzl4aTZqYWVfall3UFZqQUF2Vnc4ZVcxNEhvOVFuRDlKNXYyT0FERjZJN2xXYjk4ZTJ3S01LaW9VZFEwRWRObGF4Q0REUE92MF9vZnpwMmRhYmJaaV9nd9IBsAFBVV95cUxPWlM3YkZjdmJ6RDlxZ3loNUx1TFdVZXVxak5nV200MHlidmxlbS03MGJkanVxY1lfaFAya00ycVNFNlp3MEdBUDZXWXVKYVpfNmNlUE1taEdRZnpCR2xEc0JXX3U0UXVhZWVJR203VDBseE12TWtsTG9IeXpaLVJmUkhqeTlxUU9ocXdJYWR6UXZSaUJSRTdMSE9mSEhueFhfTnVpaVBMcTIyYk1CZ01BYw?oc=5",
-      "source": "SÁBADO",
-      "publishedAt": "2026-08-21T17:54:00Z",
-      "description": "Na generalidade das restantes unidades hospitalares do país, os tempos médios de espera eram inferiores a duas horas.",
-      "image": "https://cdn.sabado.pt/images/2025-01/img_1200x676uu2025-01-15-21-46-46-730135.jpg",
-      "articleUrl": "https://www.sabado.pt/portugal/detalhe/doentes-urgentes-com-mais-de-nove-horas-de-espera-no-hospital-amadora-sintra"
+      "title": "Universidade da Madeira preenche a grande maioria das vagas na 1.ª fase e deixa 120 lugares para a 2.ª fase - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOVRMTUU4ODFxeXhLcElza3VFMnV1Szh6VDBFWWRjeHQ5X29BZXBRNG83RmNJZWlwU05NN2xJQUpYbTVPRU1oUDNqTWpyM1VCamxtcG1aRnk5YWJ1c1lFNUFZeDJZV0w1ZExleG9nQ0hNNUhreC1tT1hZOVpqUkdySGNuQWJXN2c1MUREWXRjZG5PeDBEanhtdlliYW16Yk5xUC1rcUZSQXhyYnd3ZldrRzRCQzU2Nk9yMnN3WDZmY0ZzZHlTYzIzQmtNT0NJQ0h1bkJRUERneFRVYUR2NDlZSUNR?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-08-22T08:02:00Z",
+      "description": "Das 714 vagas iniciais disponibilizadas pela UMa, 593 alunos garantiram colocação, o que representa uma taxa de ocupação global superior a 83%",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoRUI_8866.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/8/22/503098-universidade-da-madeira-preenche-a-grande-maioria-das-vagas-na-1a-fase-e-deixa-120-lugares-para-a-2a-fase/"
     },
     {
-      "title": "A criança morreu em Palermo depois de ser internada na semana passada com sintomas da doença, praticamente erradicada em Itália há uma década. Um primo de quatro anos também está hospitalizado. Saiba mais no link nos comentários. #Vacinas #Cri - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbGRWbmVSVVB6S2k4Z2FWc24zTldiOGpFZm9LaUNIczBOR2djTVF0TFhLenRGRWxQVzBMdWdRS0VGZE11UnlSZHZRRm5YbjVHYUdPbjBxODlmOU9QRTlVZ3lRdGdJN1VQY2FaS3pIOFJxU0FVSGI1dG4wZnNwNmlDQ1UzNGtLcXZiVm10Y2YtR2RTNUxNSHdzYzVzUjBucVZ6VG9IcF9McUswdHo1UG5wcWlUVWRVdzV5X2JNMUptMmdLMDhwOE9Ibnk4enByd3M5aEhueDYybWxGQXFvZDhNMlJPSDRjWVE?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-08-22T05:59:00Z",
-      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/photos/a-crian%C3%A7a-morreu-em-palermo-depois-de-ser-internada-na-semana-passada-com-sintom/1454483156782963/"
-    },
-    {
-      "title": "Açores regulamentam apoios à doença de Machado-Joseph após recomendação da Provedora de Justiça - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblFKSHFfTng4Yk5CQzl3emJyay04cGdkWEx1YUJrajFrbEJ2QldNMUpQVlMxSUwydnAwN2JjM0tOWUk2Ymx2LXdDbllDV0hrcU9kLXctVkZqQ2UyN0NrQk44N3pfUE9feVA0Y0haTzQxTjZtQURLSGFUY1RKS0ZoY3ZQX004UUdNQUw0OFc2RU9BVjFHV3Fqd0pxejlabTlsX1pxTlRIRWFWekNUal9wb2xLYlN3SnNlZTRtWmRPTDdkODZFM1VPYQ?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-21T22:37:46Z",
-      "description": "Diploma aprovado em Conselho do Governo prevê equipamentos de mobilidade, cuidador ao domicílio e subvenção ao acompanhante para doentes no arquipélago.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1405%3Anowe%3A0%3A131%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F03%2F19110337%2Fts154a9693.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/21/acores-regulamentam-apoios-a-doenca-de-machado-joseph-apos-recomendacao-da-provedora-de-justica/"
-    },
-    {
-      "title": "UK: saída da UE fez cair imigração de profissionais de saúde, revela estudo - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2U1OEdSbktEQ19UV3lSYWlWZXZkQnBfTDhoRnU5RjQ3SkFtazFFUUJtbnZVRnllNmVEQnZzWFJrZURpazhmV29FWFpsWFd0MEFZLTFiOW9JRDg1TllsWUlmNWJJeUw2QkpMdzZmQ2JmeDYwNHpkTVJPVDRHSjkxbXcycHVVVDRIemU4T2NaTDBoYW0yY0tnLU1PbVRULTNpbG1IY1ZaSVNSN0k?oc=5",
+      "title": "Ébola: Primeiras doses da vacina Ervebo chegam à RDCongo - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVRkWVZBdUpWLTdvUXAwNXJGT2xIMnhBNHMxMW1OSWZrNDBKMEhuYmotX1dqSGE4cl83TVIyY1dTU2UyS0s3UWJxelFpVDBNZ3JrTWhtM1o4VzBxWm1LMWdBZVplRDc3NWlDeVphbVNCRjBHOWswS1Q0bTJRS2VkRWxsdlNtWTgyQ0dJV09VU2xQbEk?oc=5",
       "source": "HealthNews",
-      "publishedAt": "2026-08-22T06:14:30Z",
+      "publishedAt": "2026-08-22T07:55:00Z",
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/08/22/ebola-primeiras-doses-da-vacina-ervebo-chegam-a-rdcongo/"
+    },
+    {
+      "title": "Hospital Amadora-Sintra confirma escusa de enfermeiros e diz ter contratações em curso - Observador",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3NuLWx2VDBPTkNuNkNMMjFFT0wxTmtFaENWY0tFU0JlRmRnZHhHOU0tT2E1el94c0p4WFFNZUlnUXc1T1dZYURjcUhhdzFXSkxUbXo2S0doWGlWQ3phcUdXelFWRE00c09lYVhLcUxKLXVqSTJaak42UXM1ZUtJWVREX2dfQjM0OE5kb2JId0ludzdvWlN5UDhqbGEtZzFVZkFQNWRCa0ZlMmFZVk5xMGRKcXlKUkN4aGlqam96aw?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-21T16:42:29Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
       "title": "Hospital Amadora-Sintra. Ordem dos Enfermeiros diz que reforço anunciado não é suficiente - RTP",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2N4ajQ1Wm1LQWlncHhGbzVOazE4S1FvMmVBelVhaVNOdEl6QkVLb0Q3NEtUM0FqYVlCa3lVZnIxaDJmenpBdVZGNU43eTdnU3JPZFAzQTJQZUpiV2lrZGhOYmlzRUo0ekxUaU9nWHRfa0hLdVRYM0NMWUxCdDYyM1l2T0MxWlNOLUc1OGFfakdYWXcydnQ2N0NNYmtKdnZpNGhrb1hzeXZCY05wQkd3X0VuakNwMndKUlJRY2lqeGJ3Z2d3WGJBM0hn?oc=5",
       "source": "RTP",
-      "publishedAt": "2026-08-21T20:52:24Z",
+      "publishedAt": "2026-08-21T20:46:54Z",
       "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
@@ -119,15 +119,6 @@
       "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-21-presidente-iraniano-reclama-vitoria-e-diz-que-chegou-o-momento-de-terminar-a-guerra-com-os-eua-75d522b8?schedule=mix"
     },
     {
-      "title": "Não há Patriots, há Starlink. A nova ideia da Ucrânia para sobreviver à grande ameaça da Rússia passa por Musk - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYlptajM3LThaM2t2UWIxcEhlb0FBMi02Ri1ZenZKejFnQm92RlEtZ3RicVRqcGN6YnJ6M1dIdW9hd0RQVGlaaFNhV2prS3lsZ294VTYwR2xDZEdWRlFMNnVtU0ozU1BqTUd3SDBMVkEtcDNTTGFZQURZdVVObVFvdjA0c3FZT3N5c1p4ZWFDZUZYazhRV3BwcjlxM2ZSdTljUFBCYTY0LVVrT2pDQW1CR2pBSzN4NmwtMWNhdjViQWRELTdqZzY1SU94U1ExaFg1QVpvZHU5Mml5UDBuZzNiWGtENTBpak1ZY0ZMekl1QlhMci1nc2NkV2puMkFXeUdOTDBOdjlIVTVDNU9XQXZYeDlR?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-21T09:24:00Z",
-      "description": "Há meses que a Ucrânia faz o mesmo aviso, mas a pressão está a aumentar de forma decisiva e agora é preciso uma alternativa",
-      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
-    },
-    {
       "title": "Mais de 750 soldados dos EUA feridos desde início da guerra no Médio Oriente - Diário de Notícias",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalNSdmRibmVka1lwRDh4RlpOWTRWS2NJbDQzb1B0NDlHRzZBaXpYYmxucFVMc0M1X1JXNHZDa2FUQ3pWNGpNNEZ1bVoyVnRxVDRKbHlkeEVVR3hqS295QjJvS1J0aUc3NkQ2aHFDNjhjZl92RTdZejJOdU8ta0VqV1dlVi1xc3ZtRVdpY1Y2UldaTENBTWVyczQwQ1ByZ2FwUThrY3lZdnBwdw?oc=5",
       "source": "Diário de Notícias",
@@ -135,6 +126,15 @@
       "description": "Mais de 750 soldados norte-americanos ficaram feridos em quase seis meses de conflito com o Irão, segundo dados divulgados na quinta-feira pelo Departamento de",
       "image": "https://media.assettype.com/dn%2F2025-03-04%2Ffrrn39ol%2Fblindado-ex%C3%A9rcito-NUNOBRITES0010.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/internacional/mais-de-750-soldados-dos-eua-feridos-desde-incio-da-guerra-no-mdio-oriente"
+    },
+    {
+      "title": "Não há Patriots, há Starlink. A nova ideia da Ucrânia para sobreviver à grande ameaça da Rússia passa por Musk - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYlptajM3LThaM2t2UWIxcEhlb0FBMi02Ri1ZenZKejFnQm92RlEtZ3RicVRqcGN6YnJ6M1dIdW9hd0RQVGlaaFNhV2prS3lsZ294VTYwR2xDZEdWRlFMNnVtU0ozU1BqTUd3SDBMVkEtcDNTTGFZQURZdVVObVFvdjA0c3FZT3N5c1p4ZWFDZUZYazhRV3BwcjlxM2ZSdTljUFBCYTY0LVVrT2pDQW1CR2pBSzN4NmwtMWNhdjViQWRELTdqZzY1SU94U1ExaFg1QVpvZHU5Mml5UDBuZzNiWGtENTBpak1ZY0ZMekl1QlhMci1nc2NkV2puMkFXeUdOTDBOdjlIVTVDNU9XQXZYeDlR?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-08-21T09:24:00Z",
+      "description": "Há meses que a Ucrânia faz o mesmo aviso, mas a pressão está a aumentar de forma decisiva e agora é preciso uma alternativa",
+      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
     },
     {
       "title": "Presidente do Irão diz que é altura de terminar a guerra com os Estados Unidos - RFI",
@@ -155,15 +155,6 @@
       "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697"
     },
     {
-      "title": "Presidente iraniano diz que chegou a altura de terminar guerra com os EUA - TSF",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV9wRFEtUXFBY0dnQ1psdHA1RDVrcWJxT0QxTzMweEN0TFh0cW1xVGlWcExTdVlURTZDeWxXZlRfd1lpc25ZZ2NLTkpSakJPbVN2WkdSUG5SdS1hVDUwWERoVFAxV1RqVi1vQjBic3RYWm14WGdqN1ZCcENzQzNoLTcyWFUtU3VoUWg2bEx1VWVmeXZpakE5WGFwUDhnMXJfQUV5TG5CajLSAagBQVVfeXFMT2lfcERRLVFxQWNHZ0NabHRwNUQ1a3FicU9EMU8zMHhDdExYdHFtcVRpVnBMU3VZVEU2Q3lsV2ZUX3dZaXNuWWdjS05KUmpCT21TdlpHUlBuUnUtYVQ1MFhEaFRQMVdUalYtb0IwYnN0WFpteFhnajdWQnBDc0MzaC03MlhVLVN1aFFoNmxMdVVlZnl2aWpBOVhhcFA4ZzFyX0FFeUxuQmoy?oc=5",
-      "source": "TSF",
-      "publishedAt": "2026-08-21T12:16:00Z",
-      "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.tsf.pt/amp/18118415/presidente-iraniano-diz-que-chegou-a-altura-de-terminar-guerra-com-os-eua"
-    },
-    {
       "title": "Ucrânia: ex-ministro da Defesa pede eleições presidenciais em tempo de guerra - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXB0OExDcWkyTTJWX0pJc3E0d3pLN0dEYjBmQjhPVndjSWplLXVDTTFPOFJ2cUh0NHhueENSdWhMb012eVhobWV4NERueU55aVVFZzRRaUtHZ296RzUzRk0td2wyRml0TEdNdjBJWlNuckZCRzVCa25ZdEhlbzlpQVk5aWxrQWlsYjE2aVNlOEQ3T0FuOUhZcEVyWW4zX1JhckRSVXRIUTdqbS1WTUZqV2R5U0xtcTduN0E?oc=5",
       "source": "Jornal Económico",
@@ -180,6 +171,15 @@
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://sicnoticias.pt/cultura/musica/2026-08-20-concertos-de-shakira-e-christina-aguilera-nos-emirados-arabes-unidos-cancelados-devido-a-guerra-no-medio-oriente-4a209b0f"
+    },
+    {
+      "title": "Presidente iraniano diz que chegou a altura de terminar guerra com os EUA - TSF",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV9wRFEtUXFBY0dnQ1psdHA1RDVrcWJxT0QxTzMweEN0TFh0cW1xVGlWcExTdVlURTZDeWxXZlRfd1lpc25ZZ2NLTkpSakJPbVN2WkdSUG5SdS1hVDUwWERoVFAxV1RqVi1vQjBic3RYWm14WGdqN1ZCcENzQzNoLTcyWFUtU3VoUWg2bEx1VWVmeXZpakE5WGFwUDhnMXJfQUV5TG5CajLSAagBQVVfeXFMT2lfcERRLVFxQWNHZ0NabHRwNUQ1a3FicU9EMU8zMHhDdExYdHFtcVRpVnBMU3VZVEU2Q3lsV2ZUX3dZaXNuWWdjS05KUmpCT21TdlpHUlBuUnUtYVQ1MFhEaFRQMVdUalYtb0IwYnN0WFpteFhnajdWQnBDc0MzaC03MlhVLVN1aFFoNmxMdVVlZnl2aWpBOVhhcFA4ZzFyX0FFeUxuQmoy?oc=5",
+      "source": "TSF",
+      "publishedAt": "2026-08-21T12:16:00Z",
+      "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.tsf.pt/amp/18118415/presidente-iraniano-diz-que-chegou-a-altura-de-terminar-guerra-com-os-eua"
     },
     {
       "title": "Porta-aviões dos EUA chega ao Oriente Médio para substituir USS Lincoln após relatos de más condições - Valor Econômico",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "A guerra com o Irão pode tornar-se “um conflito prolongado” como o da Ucrânia - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQWUUzZ1ZBc1lYT2N6SHNZdldjU0pHWXpVeWsxTFlsOTIyUzhRdU5KczBjaEZ3MlBKdHlXTDU0QVNlMExIYXl6cmhscnRFZ1JNNU90TWs3UzlBREtoSEZEN05OVGZTcFJjOG1SZ0xvaTFDeHp5dG9xOTJnenphbE4tT29VVGdScElPajhkTmRJRC15ZWpleWt5SjdTM0dRMTJMSkFNOEd4T1BuR0NPdXFpVi1yY3VQalJTWHpOa1VXTjRZbmFZeXpEck9MRFJxSDdIUTZZMkdOSVQwR042RkVJRUViZC1HRUFqMnVzNWtsS2xXVmFRdFdDZ2dkSHdZV2ZkVFkzY01lLWI5UEhrRzNHdl81RzBYbm5Zd2VMVGpLYmhBZmloMkVhbF9ENy1pSUk0U01naEhoUTBTNzJVZkk0NEZtTkZ0dTdIZlZ4Y1FwcE9TaFJMRTdCYllWTE9HWjhHY0cxZmNxSHBOVGZzanNMNHVqdkRRMVp0cG1NX1IwUkxnV1NkT2drTy1TTzU4SXlVajZSaE5hRE1qSFJsYkU5T21EWnNaQ0s5WVh5TmtaNElaVnU1NTFYX1Atc2V0a0ZZYWdoTlhZQXAxdTFxbzJkUnAyaEcxbUZIYnRLM3JZdXA0TkNs?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-08-20T11:41:31Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "title": "Irã reage a Trump e chama guerra econômica dos EUA de 'política fracassada' - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-08-20T11:43:00Z",
+      "description": "Notícia publicada por Folha de S.Paulo. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
