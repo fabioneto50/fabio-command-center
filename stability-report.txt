@@ -1,21 +1,33 @@
-Fábio Command Center · MASTER 1.3.0 stability audit
-Commit: ee631ffdb4118d05bb074450eb27cde462a90d4e
-Generated: 2026-08-20T15:42:47Z
+Fábio Command Center · MASTER 1.3.2 stability audit
+Commit: 03afef5571c92f8fdc5f49b1ae09617f9299074a
+Generated: 2026-08-22T01:23:14Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
 
 == Runtime loader ==
-Referenced modules: 84
-Unique modules: 84
+Referenced modules: 88
+Unique modules: 88
 Missing: none
 Duplicates: none
 
 == Static HTML IDs ==
-IDs: 307 duplicates: none
+IDs: 308 duplicates: none
+
+== Wound dressing image audit ==
+Products in wound catalogue: 27
+Active embedded image keys: 0
+Active image chunks: 7 ['wound-images-chunk-01.js', 'wound-images-chunk-02.js', 'wound-images-chunk-03.js', 'wound-images-chunk-04.js', 'wound-images-chunk-05.js', 'wound-images-chunk-06.js', 'wound-images-chunk-07.js']
+Dormant image chunks ignored by runtime: none
+Missing active chunk files: none
+Missing product images: ['Melgisorb® Plus', 'Actisorb® Silver 220', 'Allevyn® Life', 'Varihesive® Extra Fino', 'Varihesive® Gel Control', 'Aquacel® Extra', 'Aquacel® Ag+ Extra', 'Atrauman® Ag', 'Inadine®', 'Nu-Gel®', 'Mepilex® Border', 'Promogran®', 'Mepilex® Heel', 'Mepilex®', 'Surgicel® Fibrilar', 'Surgicel®', 'Cutanplast®', 'Spongostan® Standard', 'TachoSil®', 'Jelonet®', 'Adaptic®', 'Acticoat® / Acticoat® Flex 3', 'Emla® Penso', 'Multidex®', 'Tutopatch®', 'Argenpal 42,5 mg barra cutânea®', 'Merogel®']
+Duplicate active product images: none
+Extra active embedded image keys: none
+Remote image URLs in active gallery module: none
+Wound image audit: FAIL
 
 == Architecture risk scan (active + dormant files) ==
-MutationObserver occurrences: 10 files
+MutationObserver occurrences: 13 files
 dilutions-card-ux-v5.js:79:    const mo=new MutationObserver(()=>queueMicrotask(decorate));
 dilutions-card-ux-v5.js:82:    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
 dilutions-cuf-v6.js:111:    new MutationObserver(()=>{if(!processing)schedule()}).observe(grid,{childList:true,subtree:false});
@@ -23,27 +35,31 @@ iv-compatibility-expanded-v3.js:51:    document.getElementById('ivcResult')&&new
 iv-source-evidence.js:108:    const obs=new MutationObserver(()=>{if(busy)return;busy=true;requestAnimationFrame(()=>{decorate();busy=false})});
 medication-brands-v1.js:144:    const rootObs=new MutationObserver(()=>queueMicrotask(refresh));rootObs.observe(root,{childList:true,subtree:true});
 medication-brands-v1.js:145:    const sugObs=new MutationObserver(()=>queueMicrotask(decorateSuggestions));sugObs.observe(suggest,{childList:true,subtree:true});
-medication-info-ux-v5.js:169:    const mo=new MutationObserver(()=>{if(!processing)queueMicrotask(processList)});mo.observe(r,{childList:true,subtree:false});
-medication-info-ux-v5.js:180:    const activeObserver=new MutationObserver(()=>{
+medication-catalog-v6.js:10:decode().then(P=>{const DATA=P.r.map(a=>{const d={n:a[0]};K.forEach((k,i)=>{if(a[i+1]>=0)d[k]=P.v[a[i+1]]});return d}),MAP=new Map(DATA.map(d=>[fold(d.n),d]));window.FCC_MEDICATION_CATALOG_V6={version:'0.2',count:DATA.length,records:DATA};styles();function enrich(a){if(!a||a.dataset.med6==='1')return;const name=a.querySelector('.med4-head h3')?.textContent?.trim(),d=MAP.get(fold(name));if(!d)return;a.dataset.med6='1';const h=a.querySelector('.med4-head'),b=h?.querySelector('.badge');if(b)b.textContent=d.s?.includes('INDIVIDUAL')?'Verificação individual':'Validação por classe/subclasse';const q=document.createElement('div');q.className='med6-quick';q.innerHTML='<div class="med6-label">Resumo rápido</div><p>'+esc(d.q)+'</p><span class="med6-status">'+esc(d.s)+'</span>';(a.querySelector('.med4-mech')||h)?.insertAdjacentElement('afterend',q);const t=document.createElement('div');t.className='med6-title';t.innerHTML='<h4>Ficha completa</h4>';q.insertAdjacentElement('afterend',t);const g=document.createElement('div');g.className='med6-grid';g.innerHTML=fields.filter(([k])=>d[k]).map(([k,l])=>'<section class="med6-box"><div class="med6-label">'+esc(l)+'</div><p>'+esc(d[k])+'</p></section>').join('');t.insertAdjacentElement('afterend',g);const f=document.createElement('div');f.className='med6-foot';f.textContent='Catálogo Mestre de Medicação 2026 · V0.2. Informação clínica de referência; confirmar RCM/SmPC, protocolo institucional, indicação, via e apresentação concreta antes de decisão clínica.';g.insertAdjacentElement('afterend',f)}function scan(){document.querySelectorAll('#clin-drugs .med4-detail').forEach(enrich)}scan();const r=document.getElementById('med4Results');if(r)new MutationObserver(scan).observe(r,{childList:true,subtree:true})}).catch(e=>console.error('[Medication Catalog V6]',e));
+medication-info-ux-v5-base.js:169:    const mo=new MutationObserver(()=>{if(!processing)queueMicrotask(processList)});mo.observe(r,{childList:true,subtree:false});
+medication-info-ux-v5-base.js:180:    const activeObserver=new MutationObserver(()=>{
 medication-reference-links-v2.js:94:    if(!host)return;new MutationObserver(changes=>{for(const c of changes)for(const n of c.addedNodes||[]){if(n.nodeType!==1)continue;decorateDrugMini(n);decorateDrugRow(n);n.querySelectorAll?.('.med4-mini').forEach(decorateDrugMini);n.querySelectorAll?.('.med5-detail-row').forEach(decorateDrugRow)}}).observe(host,{childList:true,subtree:true});
 medication-reference-links-v2.js:97:    if(!grid)return;new MutationObserver(changes=>{for(const c of changes)for(const n of c.addedNodes||[]){if(n.nodeType!==1)continue;decorateDilutionHeader(n);n.querySelectorAll?.('.ccd-doc-card').forEach(decorateDilutionHeader)}}).observe(grid,{childList:true,subtree:true});
 medication-safety-cuf-v2.js:233:    if(medHost&&!medHost.dataset.cufHaObserved){medHost.dataset.cufHaObserved='1';new MutationObserver(scheduleDecorate).observe(medHost,{childList:true,subtree:true})}
 medication-stability-cuf-v1.js:52:    new MutationObserver(changes=>{
-wound-dressings-images-v2.js:9: styles();scan();const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});setTimeout(scan,250);setTimeout(scan,900);
+search-enhancer.js:115:  const clinical=document.getElementById('page-clinical');if(clinical)new MutationObserver(schedule).observe(clinical,{childList:true,subtree:true});
+wound-dressings-images-v2.js:96:  const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});
+wound-dressings-order-v1.js:90:    new MutationObserver(()=>queueMicrotask(updateBar)).observe(grid,{childList:true});
 
 window.go assignments:
+navigation-hub.js:55:          personal.addEventListener('click',()=>{if(typeof window.fccNavigate==='function')window.fccNavigate('personal');else if(typeof window.go==='function')window.go('personal')});
 runtime-core-v1.js:65:  window.go=navigate;
 
 __fccDirectGo assignments:
 runtime-core-v1.js:66:  window.__fccDirectGo=navigate;
 
 Service Worker registrations:
-app.js:359:if('serviceWorker' in navigator && location.protocol!=='file:'){navigator.serviceWorker.register('./service-worker.js').catch(()=>{})}
+app.js:362:if('serviceWorker' in navigator && location.protocol!=='file:'){navigator.serviceWorker.register('./service-worker.js').catch(()=>{})}
 
 Global Storage.prototype.setItem overrides:
 
 setInterval occurrences:
 app.js:165:function fmt(sec){return String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')}function startCode(){if(codeStart)return;codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000);codeMark('Timer iniciado')}function codeMark(n){if(!codeStart){codeStart=Date.now();codeInt=setInterval(()=>codeTimer.textContent=fmt(Math.floor((Date.now()-codeStart)/1000)),1000)}const t=fmt(Math.floor((Date.now()-codeStart)/1000));codeLog.unshift({n,t});codeEvents.innerHTML=codeLog.map(x=>`<div class="item"><strong>${x.n}</strong><span>${x.t}</span></div>`).join('')}function resetCode(){clearInterval(codeInt);codeStart=null;codeInt=null;codeLog=[];codeTimer.textContent='00:00';codeEvents.innerHTML=''}
 family-security.js:105:  setInterval(()=>{if(isExpired())lockNow()},30000);
-home-current-news-v1.js:17:  function install(){if(!cleanHome()||!ensureNews()){setTimeout(install,150);return}load(false);document.addEventListener('fcc-page-change',e=>{if(e.detail?.page==='home'){cleanHome();ensureNews();load(false)}});document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)});setInterval(()=>load(false),15*60*1000)}
 iv-catalogue.js:73:    let tries=0;const timer=setInterval(()=>{tries++;if(install()||tries>30)clearInterval(timer)},200);
+wound-dressings-local-data-v1.js:60:  const timer=setInterval(()=>{
