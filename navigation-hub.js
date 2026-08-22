@@ -1,5 +1,5 @@
 (()=>{
-  const V='1.3.2',ASSET='1.3.2-wound-refresh-3';window.FCC_RUNTIME_VERSION=V;document.documentElement.dataset.fccRuntimeVersion=V;
+  const V='1.3.2',ASSET='1.3.2-modular-content-1';window.FCC_RUNTIME_VERSION=V;document.documentElement.dataset.fccRuntimeVersion=V;
   const unitDefaults={Noradrenalina:'mcgkgmin',Adrenalina:'mcgkgmin',Dobutamina:'mcgkgmin',Dopamina:'mcgkgmin',Propofol:'mgkgh',Dexmedetomidina:'mcgkgh',Alfentanil:'mcgkgh',Remifentanil:'mcgkgmin',Rocurónio:'mcgkgmin',Insulina:'uih',Amiodarona:'mgh',Heparina:'uih'};
 
   function installPrepaintStyles(){
@@ -90,7 +90,7 @@
   const load=name=>new Promise(resolve=>{const s=document.createElement('script');s.src=`./${name}?v=${ASSET}`;s.async=false;s.onload=()=>{window.FCCDiagnostics?.module(name,true);resolve(true)};s.onerror=()=>{console.error('FCC module load failed',name);window.FCCDiagnostics?.module(name,false,'load error');resolve(false)};document.head.appendChild(s)});
   const critical=[
     'runtime-diagnostics-v1.js','theme-switcher.js','theme-auto-v2.js','global-typography-v1.js','theme-audit-fixes.js',
-    'runtime-core-v1.js','home-public-shell-v1.js','personal-security-v1.js','search-enhancer.js','navigation-core.js','personal-hub-v1.js','subtab-navigation-fix.js'
+    'runtime-core-v1.js','fcc-content-core-v1.js','fcc-content-config-v1.js','home-public-shell-v1.js','personal-security-v1.js','search-enhancer.js','navigation-core.js','personal-hub-v1.js','subtab-navigation-fix.js'
   ];
   const clinicalVisual=[
     'iv-compatibility.js','clinical-material.js','clinical-restructure.js','wound-dressings-v1.js','category-organizer-v2.js'
@@ -118,6 +118,7 @@
     document.documentElement.dataset.fccClinicalShellReady='1';
     document.dispatchEvent(new CustomEvent('fcc-visual-shell-ready',{detail:{version:V}}));
     for(const name of modules)await load(name);
+    window.FCCContent?.mountAll();
     const d=document.getElementById('infDrug'),u=document.getElementById('infDU');if(d&&u&&!d.dataset.fccUnitBound){d.dataset.fccUnitBound='1';d.addEventListener('change',()=>{u.value=unitDefaults[d.value]||'mcgkgmin'})}
     window.fccRefreshPersonalHub?.();window.fccRefreshPersonalExpenses?.();window.fccSyncRuntimeVersion?.();
     document.dispatchEvent(new CustomEvent('fcc-runtime-version-change',{detail:{version:V}}));
