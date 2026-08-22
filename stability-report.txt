@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.2 stability audit
-Commit: 03afef5571c92f8fdc5f49b1ae09617f9299074a
-Generated: 2026-08-22T01:23:14Z
+Commit: fdbbf014590176b656b024298efc7f2e5c797258
+Generated: 2026-08-22T01:24:38Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
@@ -15,14 +15,23 @@ Duplicates: none
 IDs: 308 duplicates: none
 
 == Wound dressing image audit ==
-Products in wound catalogue: 27
-Active embedded image keys: 0
-Active image chunks: 7 ['wound-images-chunk-01.js', 'wound-images-chunk-02.js', 'wound-images-chunk-03.js', 'wound-images-chunk-04.js', 'wound-images-chunk-05.js', 'wound-images-chunk-06.js', 'wound-images-chunk-07.js']
-Dormant image chunks ignored by runtime: none
-Missing active chunk files: none
-Missing product images: ['Melgisorb® Plus', 'Actisorb® Silver 220', 'Allevyn® Life', 'Varihesive® Extra Fino', 'Varihesive® Gel Control', 'Aquacel® Extra', 'Aquacel® Ag+ Extra', 'Atrauman® Ag', 'Inadine®', 'Nu-Gel®', 'Mepilex® Border', 'Promogran®', 'Mepilex® Heel', 'Mepilex®', 'Surgicel® Fibrilar', 'Surgicel®', 'Cutanplast®', 'Spongostan® Standard', 'TachoSil®', 'Jelonet®', 'Adaptic®', 'Acticoat® / Acticoat® Flex 3', 'Emla® Penso', 'Multidex®', 'Tutopatch®', 'Argenpal 42,5 mg barra cutânea®', 'Merogel®']
-Duplicate active product images: none
-Extra active embedded image keys: none
+Base products in wound catalogue: 27
+Final runtime products: 28
+Expected runtime image products: 28
+Expected total images: 46
+Bundle format: avif
+Bundle valid AVIF images: 2
+Bundle load/parse error: none
+Missing product images: ['Melgisorb® Plus', 'Actisorb® Silver 220', 'Allevyn® Life', 'Varihesive® Extra Fino', 'Aquacel® Extra', 'Aquacel® Ag+ Extra', 'Atrauman® Ag', 'Inadine®', 'Nu-Gel®', 'Mepilex® Border Flex', 'Promogran®', 'Mepilex® Border Heel', 'Mepilex®', 'Surgicel® Fibrilar', 'Surgicel®', 'Cutanplast®', 'Spongostan® Standard', 'TachoSil®', 'Jelonet®', 'Adaptic®', 'Emla® Penso', 'Multidex®', 'Tutopatch®', 'Argenpal 42,5 mg barra cutânea®', 'Merogel®', 'Mepitel®']
+Products below expected image count: {'Actisorb® Silver 220': {'expected': 1, 'found': 0}, 'Adaptic®': {'expected': 1, 'found': 0}, 'Allevyn® Life': {'expected': 1, 'found': 0}, 'Aquacel® Ag+ Extra': {'expected': 2, 'found': 0}, 'Aquacel® Extra': {'expected': 2, 'found': 0}, 'Argenpal 42,5 mg barra cutânea®': {'expected': 1, 'found': 0}, 'Atrauman® Ag': {'expected': 4, 'found': 0}, 'Cutanplast®': {'expected': 2, 'found': 0}, 'Emla® Penso': {'expected': 1, 'found': 0}, 'Inadine®': {'expected': 4, 'found': 0}, 'Jelonet®': {'expected': 2, 'found': 0}, 'Melgisorb® Plus': {'expected': 2, 'found': 0}, 'Mepilex®': {'expected': 2, 'found': 0}, 'Mepilex® Border Flex': {'expected': 2, 'found': 0}, 'Mepilex® Border Heel': {'expected': 2, 'found': 0}, 'Mepitel®': {'expected': 1, 'found': 0}, 'Merogel®': {'expected': 1, 'found': 0}, 'Multidex®': {'expected': 1, 'found': 0}, 'Nu-Gel®': {'expected': 1, 'found': 0}, 'Promogran®': {'expected': 1, 'found': 0}, 'Spongostan® Standard': {'expected': 1, 'found': 0}, 'Surgicel®': {'expected': 3, 'found': 0}, 'Surgicel® Fibrilar': {'expected': 3, 'found': 0}, 'TachoSil®': {'expected': 1, 'found': 0}, 'Tutopatch®': {'expected': 1, 'found': 0}, 'Varihesive® Extra Fino': {'expected': 1, 'found': 0}}
+Invalid bundle image entries: [('Acticoat® / Acticoat® Flex 3', 1)]
+Extra bundle products: none
+Expected products absent from final catalogue: none
+Final catalogue products absent from EXPECTED: none
+Active fallback image chunks: 7 ['wound-images-chunk-01.js', 'wound-images-chunk-02.js', 'wound-images-chunk-03.js', 'wound-images-chunk-04.js', 'wound-images-chunk-05.js', 'wound-images-chunk-06.js', 'wound-images-chunk-07.js']
+Fallback embedded image keys: 0
+Dormant fallback chunks ignored by runtime: none
+Missing active fallback chunk files: none
 Remote image URLs in active gallery module: none
 Wound image audit: FAIL
 
