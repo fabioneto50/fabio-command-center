@@ -1,4 +1,4 @@
-const CACHE='fcc-master-1.3.2-wound-user-final-9';
+const CACHE='fcc-master-1.3.2-medication-search-v8-1';
 const CORE=[
  './','./index.html','./styles.css','./app.js','./navigation-hub.js',
  './runtime-core-v1.js','./fcc-content-core-v1.js','./fcc-content-config-v1.js','./runtime-diagnostics-v1.js','./theme-switcher.js','./theme-auto-v2.js',
