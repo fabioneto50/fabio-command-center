@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:12:48.036736Z",
+  "updatedAt": "2026-08-22T19:52:47.261240Z",
   "health": [
     {
       "title": "Médicos reformados a trabalhar no SNS batem recorde e mais de metade são médicos de família - Público",
@@ -42,8 +42,8 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
       "source": "Correio da Manhã",
       "publishedAt": "2026-08-22T11:54:00Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
+      "description": "Jovem de 24 anos prestava serviço no posto de Pampilhosa da Serra.",
+      "image": "https://cdn.cmjornal.pt/images/2022-03/img_1280x721uu2022-03-17-19-26-26-1131830-im-639226561070119233.jpg",
       "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/militar-da-gnr-encontrado-morto-em-oliveira-do-hospital"
     },
     {
@@ -56,15 +56,6 @@
       "articleUrl": "https://expresso.pt/sociedade/saude/2026-08-22-numero-de-medicos-reformados-no-sns-e-o-mais-alto-de-sempre-9e94dba5"
     },
     {
-      "title": "Açores avançam com cuidador ao domicílio para doentes de Machado-Joseph - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dGNvTlJma1o1dFpKOXd1aUp6V2lXd0U5T2c5RUl0dVJNY09qWlRQZl8wTURyVTdSdGNxdjVuTzdwcG5Rb1F3WXh3Z1R5MUo4Y0VYVlluLU1ScjFTSlAwbFJmWTJIeWxOakNVeFBQMmlVQWpMS3ln?oc=5",
-      "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-08-22T14:50:34Z",
-      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23583312"
-    },
-    {
       "title": "Ébola: Primeiras doses da vacina Ervebo chegam à RDCongo - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVRkWVZBdUpWLTdvUXAwNXJGT2xIMnhBNHMxMW1OSWZrNDBKMEhuYmotX1dqSGE4cl83TVIyY1dTU2UyS0s3UWJxelFpVDBNZ3JrTWhtM1o4VzBxWm1LMWdBZVplRDc3NWlDeVphbVNCRjBHOWswS1Q0bTJRS2VkRWxsdlNtWTgyQ0dJV09VU2xQbEk?oc=5",
       "source": "HealthNews",
@@ -72,6 +63,15 @@
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/08/22/ebola-primeiras-doses-da-vacina-ervebo-chegam-a-rdcongo/"
+    },
+    {
+      "title": "Açores avançam com cuidador ao domicílio para doentes de Machado-Joseph - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dGNvTlJma1o1dFpKOXd1aUp6V2lXd0U5T2c5RUl0dVJNY09qWlRQZl8wTURyVTdSdGNxdjVuTzdwcG5Rb1F3WXh3Z1R5MUo4Y0VYVlluLU1ScjFTSlAwbFJmWTJIeWxOakNVeFBQMmlVQWpMS3ln?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-08-22T14:50:34Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23583312"
     },
     {
       "title": "Medicina, Medicina Dentária, Arquitetura e Engenharia Aeroespacial lideram as notas mais altas de ingresso no ensino superior em Coimbra - Diário As Beiras",
@@ -92,19 +92,19 @@
       "articleUrl": "https://funchalnoticias.net/2026/08/22/lito-sousa-enfrenta-doenca-rara-e-recebe-cuidados-domiciliarios-com-apoio-da-familia/"
     },
     {
+      "title": "Medicina na UTAD esgota vagas - A Voz de Trás-os-Montes",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MVldpdEZWWTlOS1N1UlNQbjRhZWJVX1pBREFoSktZcnFydUFTYmY5YjV4MDQzX1drcGVqV0xBN181QnNJSmRVc183dWI3ZjlXOUhRN0NPZ0hWYkhCVFB1TU9HOWdlcVJKd2ZiTDdTQWZvQQ?oc=5",
+      "source": "A Voz de Trás-os-Montes",
+      "publishedAt": "2026-08-22T19:33:57Z",
+      "description": "Notícia publicada por A Voz de Trás-os-Montes. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "No hospital, Daniela Santos faz desabafo comovente: «Revolta-me...» - TVI",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3dXWG5sWFBGX0lwcWMyTEprX1N1Yms2TWgzQ3huTkJZb2RBZXFfRlhtSTJqZC1KUHJzSDdudmhjbndHMVNUb0ZiMVlnQlpvUzlfRGlfTjhiME1DYTRTUXBMTjVscjl5X2dKMnRvQ1lWc1FRc2xfU05TSGpyTjFTRXFKUXFGT21mMHpwdXh6aGlWc2s2M1R5WlhLb254Z0JKQXJ6eWtmTkdLdWRLNkZMYmpHYms?oc=5",
       "source": "TVI",
       "publishedAt": "2026-08-22T18:25:07Z",
       "description": "Notícia publicada por TVI. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "UTAD cresce 6,8% na 1.ª fase e estreia Medicina com todas as vagas preenchidas - Diário de Trás-os-Montes e Alto Douro",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHdKQWFfVml0OFFCTVItOGE1US1fOEZUUjN1QU1fVnJXVncyNkNZaXJTaVVpTTJpN0VzYk1iZVBoNXNxRDFRN0psYzNxUE5DQkhHUXpSZVNia0hFRjNLMlpWVExJMlJCTU1XRTE4WGdEZXd0Y2FrZXBoZENKYlRNSm1MQTJvQUhnLW1MdWRobEZHaXBUSVo1YzU1UThXM0JxRTRPWkljbGJlNlVNUVg0a0FQSGxkVHZ4M0RZTg?oc=5",
-      "source": "Diário de Trás-os-Montes e Alto Douro",
-      "publishedAt": "2026-08-22T14:57:41Z",
-      "description": "Notícia publicada por Diário de Trás-os-Montes e Alto Douro. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -147,12 +147,12 @@
     },
     {
       "title": "Suspeito de atentado ao gasoduto Nord Stream detido na Croácia enquanto ajudaria em filme - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdWU5aVFVUFNWZHY0czc4TE9OOER5QS0zZmVTWFZHc2hYYVB5YXpycnlwbUVNX1A2Q21ETm8xQ0NhMS1FcGRvWFRYeU1HNzh0cjhJOEF3c01pV2ZEa2lKTmp3QVBlb053SDF1bTJPSDU5SGFndFJJV0oxYnN3UXJ2RE5xMGtvWE4yY04yWTdGWUk5Y3REaUZLMTlRVDBxVzkwWWNQRGZVaE5LNHdIWVR5QjFuSnhxMHlTTEhQeG1YQ2t6Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNam8zeUl5ckJ5dFpYRHVvaWpGcmdwS1oxTjZYdUVjNnlkdDhhWUdNalBkQVJRQUtPRm9PN3VuZHRoY0haRjhFVkkwcl9rWVYzMi1BcU5DeG1xMzVjQlpHNTVmS1JmYkk0UEpzYkVGUzRfWmhDOGVHRU5rX0JXVDh5dDBzN3dZZG5LYUs4Sm02Tm9CTDlLb2Z3OUxFM0h6NXRmSzFSQzdxaUJZcGdsb3FzTFFiTjJzVkpSaHpnOGUxMWJObUZXQ2xpU3c2aHdYc1lUeS1na0xpQVFxLTB1?oc=5",
       "source": "Público",
-      "publishedAt": "2026-08-21T12:00:00Z",
+      "publishedAt": "2026-08-21T11:59:09Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697"
+      "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697?ref=hp&cx=ultimas_1"
     },
     {
       "title": "Ucrânia: ex-ministro da Defesa pede eleições presidenciais em tempo de guerra - Jornal Económico",
