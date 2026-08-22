@@ -1,0 +1,98 @@
+name: Install complete user wound photos
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'wound-images-user-complete.json'
+
+permissions:
+  contents: write
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate and extract 46 user photos
+        shell: bash
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, shutil
+          src=pathlib.Path('wound-images-user-complete.json')
+          data=json.loads(src.read_text(encoding='utf-8'))
+          expected={
+            'Acticoat® / Acticoat® Flex 3':('acticoat-flex-3',1),
+            'Actisorb® Silver 220':('actisorb-silver-220',1),
+            'Adaptic®':('adaptic',1),
+            'Allevyn® Life':('allevyn-life',1),
+            'Aquacel® Ag+ Extra':('aquacel-ag-extra',2),
+            'Aquacel® Extra':('aquacel-extra',2),
+            'Argenpal 42,5 mg barra cutânea®':('argenpal',1),
+            'Atrauman® Ag':('atrauman-ag',4),
+            'Cutanplast®':('cutanplast',2),
+            'Emla® Penso':('emla-penso',1),
+            'Inadine®':('inadine',4),
+            'Jelonet®':('jelonet',2),
+            'Melgisorb® Plus':('melgisorb-plus',2),
+            'Mepilex®':('mepilex',2),
+            'Mepilex® Border Flex':('mepilex-border-flex',2),
+            'Mepilex® Border Heel':('mepilex-border-heel',2),
+            'Mepitel®':('mepitel',1),
+            'Merogel®':('merogel',1),
+            'Multidex®':('multidex',1),
+            'Nu-Gel®':('nu-gel',1),
+            'Promogran®':('promogran',1),
+            'Spongostan® Standard':('spongostan-standard',1),
+            'Surgicel®':('surgicel',3),
+            'Surgicel® Fibrilar':('surgicel-fibrilar',3),
+            'TachoSil®':('tachosil',1),
+            'Tutopatch®':('tutopatch',1),
+            'Varihesive® Extra Fino':('varihesive-extra-fino',1),
+            'Varihesive® Gel Control':('varihesive-gel-control',1),
+          }
+          aliases={'Mepilex® Border':'Mepilex® Border Flex','Mepilex® Heel':'Mepilex® Border Heel'}
+          products={aliases.get(k,k):v for k,v in (data.get('products') or {}).items()}
+          missing=[n for n in expected if n not in products]
+          extras=[n for n in products if n not in expected]
+          bad={n:(len(products.get(n,[])),cnt) for n,(_,cnt) in expected.items() if not isinstance(products.get(n),list) or len(products.get(n,[]))!=cnt}
+          total=sum(len(products.get(n,[])) for n in expected)
+          if missing or extras or bad or total!=46:
+              raise SystemExit(f'VALIDATION FAILED missing={missing} extras={extras} bad={bad} total={total}')
+          out=pathlib.Path('assets/wound-images/user-final')
+          if out.exists(): shutil.rmtree(out)
+          out.mkdir(parents=True,exist_ok=True)
+          manifest={'version':'3.0-user-final','product_count':28,'image_count':46,'source_policy':'user-provided-conversation-only','products':{}}
+          written=0
+          for name,(slug,count) in expected.items():
+              imgs=[]
+              for i,b64 in enumerate(products[name],1):
+                  raw=base64.b64decode(b64,validate=True)
+                  if b'ftypavif' not in raw[:48]:
+                      raise SystemExit(f'INVALID AVIF: {name} image {i}')
+                  fn=f'{slug}-{i:02d}.avif'
+                  (out/fn).write_bytes(raw)
+                  imgs.append({'src':f'./assets/wound-images/user-final/{fn}','label':'Imagem principal' if i==1 else f'Imagem complementar {i-1}','kind':'primary' if i==1 else 'supporting','verified':True,'local':True,'source':'user-provided-conversation'})
+                  written+=1
+              manifest['products'][name]={'images':imgs}
+          if written!=46: raise SystemExit(f'Expected 46 files, wrote {written}')
+          pathlib.Path('wound-images-curated-v1.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          pathlib.Path('wound-user-install-audit.txt').write_text('Products: 28\nImages: 46\nSource: user-provided-conversation-only\nValidation: PASS\n',encoding='utf-8')
+          print('PASS: extracted 46 user images for 28 products')
+          PY
+      - name: Publish validated local photos
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/wound-images/user-final wound-images-curated-v1.json wound-user-install-audit.txt
+          git rm -f wound-images-user-complete.json
+          if [ -f wound-images-user-v4.json ]; then git rm -f wound-images-user-v4.json; fi
+          git commit -m 'Install validated user wound photos'
+          for n in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 3
+          done
+          exit 1
