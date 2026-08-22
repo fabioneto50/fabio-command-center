@@ -1,7 +1,7 @@
 name: Browser stress
 on:
   push:
-    branches: [stabilize-1.3.0]
+    branches: [main, stabilize-1.3.0]
     paths-ignore:
       - 'browser-stress-report.txt'
 permissions:
