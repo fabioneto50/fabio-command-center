@@ -1,49 +1,132 @@
 #!/usr/bin/env python3
+import base64
 import collections
+import json
 import pathlib
 import re
 import sys
 
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 CATALOG=ROOT/'wound-dressings-v1.js'
+LOCAL_DATA=ROOT/'wound-dressings-local-data-v1.js'
 IMAGE_MODULE=ROOT/'wound-dressings-images-v2.js'
+BUNDLE=ROOT/'wound-images-user-v4.json'
 HUB=ROOT/'navigation-hub.js'
 ALL_CHUNKS=sorted(ROOT.glob('wound-images-chunk-*.js'))
 
 catalog_text=CATALOG.read_text(encoding='utf-8')
-products=re.findall(r"\{name:'((?:\\'|[^'])+)'",catalog_text)
-products=[x.replace("\\'", "'") for x in products]
+base_products=re.findall(r"\{name:'((?:\\'|[^'])+)'",catalog_text)
+base_products=[x.replace("\\'", "'") for x in base_products]
+
+module_text=IMAGE_MODULE.read_text(encoding='utf-8')
+expected_block=re.search(r"const EXPECTED=\{(.*?)\};",module_text,re.S)
+expected={}
+if expected_block:
+    expected={name.replace("\\'", "'"):int(count) for name,count in re.findall(r"'((?:\\'|[^'])+)':(\d+)",expected_block.group(1))}
+rename_block=re.search(r"const RENAMES=\{(.*?)\};",module_text,re.S)
+renames={}
+if rename_block:
+    renames={a.replace("\\'", "'"):b.replace("\\'", "'") for a,b in re.findall(r"'((?:\\'|[^'])+)':'((?:\\'|[^'])+)'",rename_block.group(1))}
+
+local_text=LOCAL_DATA.read_text(encoding='utf-8') if LOCAL_DATA.exists() else ''
+mepitel_match=re.search(r"const MEPITEL=\{\s*name:'((?:\\'|[^'])+)'",local_text,re.S)
+mepitel_name=mepitel_match.group(1).replace("\\'", "'") if mepitel_match else None
+final_products=[renames.get(name,name) for name in base_products]
+if mepitel_name and mepitel_name not in final_products:
+    final_products.append(mepitel_name)
+
+bundle_error=''
+bundle_format=''
+bundle_products={}
+try:
+    payload=json.loads(BUNDLE.read_text(encoding='utf-8'))
+    bundle_format=payload.get('format','')
+    bundle_products=payload.get('products') or {}
+    if not isinstance(bundle_products,dict):
+        bundle_error='products is not an object'
+        bundle_products={}
+except Exception as exc:
+    bundle_error=str(exc)
+
+valid_counts={}
+invalid_items=[]
+for name,items in bundle_products.items():
+    if not isinstance(items,list):
+        invalid_items.append((name,'not-list'))
+        valid_counts[name]=0
+        continue
+    count=0
+    for i,b64 in enumerate(items):
+        valid=False
+        if isinstance(b64,str) and len(b64)>=64:
+            try:
+                raw=base64.b64decode(b64[:96]+'===' ,validate=False)
+                valid=b'ftypavif' in raw
+            except Exception:
+                valid=False
+        if valid:
+            count+=1
+        else:
+            invalid_items.append((name,i))
+    valid_counts[name]=count
+
+missing_products=[name for name in final_products if valid_counts.get(name,0)==0]
+short_products={name:{'expected':count,'found':valid_counts.get(name,0)} for name,count in expected.items() if valid_counts.get(name,0)<count}
+extra_products=[name for name in bundle_products if name not in expected]
+expected_not_catalogue=[name for name in expected if name not in final_products]
+catalogue_not_expected=[name for name in final_products if name not in expected]
+expected_total=sum(expected.values())
+bundle_total=sum(valid_counts.values())
 
 hub_text=HUB.read_text(encoding='utf-8')
 active_names=re.findall(r"'(wound-images-chunk-[^']+\.js)'",hub_text)
 ACTIVE_CHUNKS=[ROOT/name for name in active_names]
-dormant=[p.name for p in ALL_CHUNKS if p.name not in active_names]
-
-counter=collections.Counter()
-locations=collections.defaultdict(list)
-for chunk in ACTIVE_CHUNKS:
-    text=chunk.read_text(encoding='utf-8')
-    for name in re.findall(r'"([^"]+)":"data:image/(?:webp|png|jpeg|jpg);base64,',text):
-        counter[name]+=1
-        locations[name].append(chunk.name)
-
-missing=[p for p in products if counter[p]==0]
-duplicates=[p for p in products if counter[p]>1]
-extras=[k for k in counter if k not in products]
-module_text=IMAGE_MODULE.read_text(encoding='utf-8')
-remote_urls=re.findall(r'https?://[^\'"`\s]+',module_text)
 missing_chunks=[p.name for p in ACTIVE_CHUNKS if not p.exists()]
+dormant=[p.name for p in ALL_CHUNKS if p.name not in active_names]
+fallback_counter=collections.Counter()
+for chunk in ACTIVE_CHUNKS:
+    if not chunk.exists():
+        continue
+    text=chunk.read_text(encoding='utf-8')
+    for name in re.findall(r'["\']([^"\']+)["\']\s*:\s*["\']data:image/(?:avif|webp|png|jpeg|jpg);base64,',text):
+        fallback_counter[name]+=1
 
-print('Products in wound catalogue:',len(products))
-print('Active embedded image keys:',len(counter))
-print('Active image chunks:',len(ACTIVE_CHUNKS),[p.name for p in ACTIVE_CHUNKS])
-print('Dormant image chunks ignored by runtime:',dormant or 'none')
-print('Missing active chunk files:',missing_chunks or 'none')
-print('Missing product images:',missing or 'none')
-print('Duplicate active product images:',{p:locations[p] for p in duplicates} or 'none')
-print('Extra active embedded image keys:',extras or 'none')
+remote_urls=re.findall(r'https?://[^\'"`\s]+',module_text)
+
+print('Base products in wound catalogue:',len(base_products))
+print('Final runtime products:',len(final_products))
+print('Expected runtime image products:',len(expected))
+print('Expected total images:',expected_total)
+print('Bundle format:',bundle_format or 'missing')
+print('Bundle valid AVIF images:',bundle_total)
+print('Bundle load/parse error:',bundle_error or 'none')
+print('Missing product images:',missing_products or 'none')
+print('Products below expected image count:',short_products or 'none')
+print('Invalid bundle image entries:',invalid_items or 'none')
+print('Extra bundle products:',extra_products or 'none')
+print('Expected products absent from final catalogue:',expected_not_catalogue or 'none')
+print('Final catalogue products absent from EXPECTED:',catalogue_not_expected or 'none')
+print('Active fallback image chunks:',len(ACTIVE_CHUNKS),[p.name for p in ACTIVE_CHUNKS])
+print('Fallback embedded image keys:',len(fallback_counter))
+print('Dormant fallback chunks ignored by runtime:',dormant or 'none')
+print('Missing active fallback chunk files:',missing_chunks or 'none')
 print('Remote image URLs in active gallery module:',remote_urls or 'none')
 
-ok=(len(products)>=20 and len(counter)==len(products) and not missing_chunks and not missing and not duplicates and not extras and not remote_urls)
+ok=(
+    len(final_products)==28
+    and len(expected)==28
+    and set(final_products)==set(expected)
+    and bundle_format=='avif'
+    and not bundle_error
+    and bundle_total==expected_total==46
+    and not missing_products
+    and not short_products
+    and not invalid_items
+    and not extra_products
+    and not expected_not_catalogue
+    and not catalogue_not_expected
+    and not missing_chunks
+    and not remote_urls
+)
 print('Wound image audit:', 'PASS' if ok else 'FAIL')
 sys.exit(0 if ok else 1)
