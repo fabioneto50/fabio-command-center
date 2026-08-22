@@ -1,7 +1,7 @@
-const CACHE='fcc-master-1.3.2-wound-userbundle-final-7';
+const CACHE='fcc-master-1.3.2-modular-content-1';
 const CORE=[
  './','./index.html','./styles.css','./app.js','./navigation-hub.js',
- './runtime-core-v1.js','./runtime-diagnostics-v1.js','./theme-switcher.js','./theme-auto-v2.js',
+ './runtime-core-v1.js','./fcc-content-core-v1.js','./fcc-content-config-v1.js','./runtime-diagnostics-v1.js','./theme-switcher.js','./theme-auto-v2.js',
  './global-typography-v1.js','./theme-audit-fixes.js','./home-public-shell-v1.js','./personal-security-v1.js',
  './search-enhancer.js','./navigation-core.js','./personal-hub-v1.js','./subtab-navigation-fix.js',
  './iv-compatibility.js','./clinical-material.js','./clinical-restructure.js','./wound-dressings-v1.js','./category-organizer-v2.js',
