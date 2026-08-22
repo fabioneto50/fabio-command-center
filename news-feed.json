@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:54:50.501730Z",
+  "updatedAt": "2026-08-22T16:59:55.207318Z",
   "health": [
     {
       "title": "Médicos reformados a trabalhar no SNS batem recorde e mais de metade são médicos de família - Público",
@@ -29,15 +29,6 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/o-mais-rentavel-seguro-de-saude-que-e-do-estado/"
     },
     {
-      "title": "Militar da GNR encontrado morto em Oliveira do Hospital - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-22T11:54:00Z",
-      "description": "Jovem de 24 anos prestava serviço no posto de Pampilhosa da Serra.",
-      "image": "https://cdn.cmjornal.pt/images/2022-03/img_1280x721uu2022-03-17-19-26-26-1131830-im-639226561070119233.jpg",
-      "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/militar-da-gnr-encontrado-morto-em-oliveira-do-hospital"
-    },
-    {
       "title": "'Tens a doença das mulheres preguiçosas', disse uma médica - Observador",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzJoYjM2SnNTNUMySlM0bjBOVGxCMGp5TUZyU09ORjg0S2wxT2swUkJycmhpUkJJTTExR243WUJuVm5zb1BWZFhoR242MUxxS2hVd2xaTDFGT0s4eFZCcUZOa0J5MTNXOXh2M1lRdVF1Ti1waVRSWEFJVm53YlNfV3FYc095bjZMaVdBdm5QSXVOWmQwSjZPN3Q4U0RxTFlnQVNVbC03OGEzbTVaWjRiYkRNbVBZUQ?oc=5",
       "source": "Observador",
@@ -45,6 +36,15 @@
       "description": "Ricardo Fonseca tem fibromialgia e espondilite anquilosante. São dores constantes – “às vezes nem consigo estar deitado” –, cansaço, muitos medicamentos e medo de, um dia, ter de deixar a enfermagem.",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14122405/cronico-ep4-credit-mariana-alvarez-cortes-1-scaled.jpg",
       "articleUrl": "https://observador.pt/programas/atualidade/fibromialgia-tens-a-doenca-das-mulheres-preguicosas-disse-me-uma-medica/"
+    },
+    {
+      "title": "Militar da GNR encontrado morto em Oliveira do Hospital - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-22T11:54:00Z",
+      "description": "Jovem de 24 anos prestava serviço no posto de Pampilhosa da Serra.",
+      "image": "https://cdn.cmjornal.pt/images/2022-03/img_1280x721uu2022-03-17-19-26-26-1131830-im-639226561070119233.jpg",
+      "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/militar-da-gnr-encontrado-morto-em-oliveira-do-hospital"
     },
     {
       "title": "Número de médicos reformados no SNS é o mais alto de sempre - Expresso",
@@ -65,22 +65,13 @@
       "articleUrl": "https://healthnews.pt/2026/08/22/ebola-primeiras-doses-da-vacina-ervebo-chegam-a-rdcongo/"
     },
     {
-      "title": "Medicina, Medicina Dentária, Arquitetura e Engenharia Aeroespacial lideram notas mais altas de ingresso no ensino superior em Coimbra - Diário As Beiras",
+      "title": "Medicina, Medicina Dentária, Arquitetura e Engenharia Aeroespacial lideram as notas mais altas de ingresso no ensino superior em Coimbra - Diário As Beiras",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHRkYXBTVGZDN0xjNHZoWWJfLUdKVXJfNDZiTmdCMjJjWDE4bVN3S3FzQko0cGNIbHRlYkM5TmlpeHR5N0lQZE5UdWtvQWZBRUVrOGNRWjdRMWdIZFk5MXRNN2YySjBBLVk5c044WjFnLWloOUItTnNvTzlVS3BETjBWa0RObjN3UC1SZ1J6clFfdWJlYVNDV2txbzIxUkVNcDR6ek9DYzh3U0hyZnh2S0pRYVhsYzZWTkRzZkU0SlNJR2VfeTk2d2xDUEJHeGN2U2hPT0hqR29aTzE4YUFUN1p1a3RISHdZaGQ1Mw?oc=5",
       "source": "Diário As Beiras",
       "publishedAt": "2026-08-22T12:03:00Z",
       "description": "Os cinco cursos da Universidade de Coimbra (UC) com as notas mais altas para ingresso no ano letivo de 2026/2027 (todos acima de 17 valores) são, por esta ordem, Medicina...",
       "image": "https://www.asbeiras.pt/wp-content/uploads/2026/08/ultima-Matriculas-caloiros-UC-HORIZONTAL-ACF.jpg",
       "articleUrl": "https://www.asbeiras.pt/medicina-medicina-dentaria-arquitetura-e-engenharia-aeroespacial-lideram-notas-mais-altas-de-ingresso-no-ensino-superior-em-coimbra/"
-    },
-    {
-      "title": "UTAD cresce 6,8% na 1.ª fase e estreia Medicina com todas as vagas preenchidas - Diário de Trás-os-Montes e Alto Douro",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHdKQWFfVml0OFFCTVItOGE1US1fOEZUUjN1QU1fVnJXVncyNkNZaXJTaVVpTTJpN0VzYk1iZVBoNXNxRDFRN0psYzNxUE5DQkhHUXpSZVNia0hFRjNLMlpWVExJMlJCTU1XRTE4WGdEZXd0Y2FrZXBoZENKYlRNSm1MQTJvQUhnLW1MdWRobEZHaXBUSVo1YzU1UThXM0JxRTRPWkljbGJlNlVNUVg0a0FQSGxkVHZ4M0RZTg?oc=5",
-      "source": "Diário de Trás-os-Montes e Alto Douro",
-      "publishedAt": "2026-08-22T14:57:41Z",
-      "description": "A Universidade de Trás-os-Montes e Alto Douro (UTAD) colocou 1.535 estudantes na 1.ª fase do Concurso Nacional de Acesso ao Ensino Superior (CNA) 2026/27, mais 98 do que no ano passado, preenchendo 85,9% das 1.788 vagas colocadas a concurso. Os resultados representam um crescimento de 6,8% face a 2025 e confirmam a recuperação da procura pela academia transmontana.",
-      "image": "https://www.diariodetrasosmontes.com/images/noticias/23873/PJU6aPvG-utad-cresce-68-na-1a-fase-e-estreia-medicina-com-todas-as-vagas-preenchidas.jpg",
-      "articleUrl": "https://www.diariodetrasosmontes.com/noticia/utad-cresce-68-na-1a-fase-e-estreia-medicina-com-todas-as-vagas-preenchidas"
     },
     {
       "title": "Lito Sousa enfrenta doença rara e recebe cuidados domiciliários com apoio da família - Funchal Notícias",
@@ -92,12 +83,13 @@
       "articleUrl": "https://funchalnoticias.net/2026/08/22/lito-sousa-enfrenta-doenca-rara-e-recebe-cuidados-domiciliarios-com-apoio-da-familia/"
     },
     {
-      "title": "Medicina é o curso com a média mais alta de entrada em Coimbra - Diário de Coimbra",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE5QSVdJVWlSaWtYN3VBVE9qUERUMHU5UkRCeVlSeWNQak9GbUZ5bW5LbVd6dFlnX2pTRjFLY3YwYUU2Ujg0RzJ3TGdJR3NfQl9CT3FoMld6Ql9fTEZyV1hQT3FjcE40bUZ6SDl3a1AwLXZxSVFacGV6alRfaU9SelloLThyY2NDa0pkUjExMi1WTkpfYVF3cUJWWG16NF9JejY3Qzd3?oc=5",
-      "source": "Diário de Coimbra",
-      "publishedAt": "2026-08-21T22:51:00Z",
-      "description": "Notícia publicada por Diário de Coimbra. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "title": "UTAD cresce 6,8% na 1.ª fase e estreia Medicina com todas as vagas preenchidas - Diário de Trás-os-Montes e Alto Douro",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHdKQWFfVml0OFFCTVItOGE1US1fOEZUUjN1QU1fVnJXVncyNkNZaXJTaVVpTTJpN0VzYk1iZVBoNXNxRDFRN0psYzNxUE5DQkhHUXpSZVNia0hFRjNLMlpWVExJMlJCTU1XRTE4WGdEZXd0Y2FrZXBoZENKYlRNSm1MQTJvQUhnLW1MdWRobEZHaXBUSVo1YzU1UThXM0JxRTRPWkljbGJlNlVNUVg0a0FQSGxkVHZ4M0RZTg?oc=5",
+      "source": "Diário de Trás-os-Montes e Alto Douro",
+      "publishedAt": "2026-08-22T14:57:41Z",
+      "description": "A Universidade de Trás-os-Montes e Alto Douro (UTAD) colocou 1.535 estudantes na 1.ª fase do Concurso Nacional de Acesso ao Ensino Superior (CNA) 2026/27, mais 98 do que no ano passado, preenchendo 85,9% das 1.788 vagas colocadas a concurso. Os resultados representam um crescimento de 6,8% face a 2025 e confirmam a recuperação da procura pela academia transmontana.",
+      "image": "https://www.diariodetrasosmontes.com/images/noticias/23873/PJU6aPvG-utad-cresce-68-na-1a-fase-e-estreia-medicina-com-todas-as-vagas-preenchidas.jpg",
+      "articleUrl": "https://www.diariodetrasosmontes.com/noticia/utad-cresce-68-na-1a-fase-e-estreia-medicina-com-todas-as-vagas-preenchidas"
     },
     {
       "title": "As emergências de saúde na República Democrática do Congo vão além do Ébola - SIC Notícias",
@@ -106,18 +98,17 @@
       "publishedAt": "2026-08-22T11:00:00Z",
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
+    },
+    {
+      "title": "Medicina é o curso com a média mais alta de entrada em Coimbra - Diário de Coimbra",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE5QSVdJVWlSaWtYN3VBVE9qUERUMHU5UkRCeVlSeWNQak9GbUZ5bW5LbVd6dFlnX2pTRjFLY3YwYUU2Ujg0RzJ3TGdJR3NfQl9CT3FoMld6Ql9fTEZyV1hQT3FjcE40bUZ6SDl3a1AwLXZxSVFacGV6alRfaU9SelloLThyY2NDa0pkUjExMi1WTkpfYVF3cUJWWG16NF9JejY3Qzd3?oc=5",
+      "source": "Diário de Coimbra",
+      "publishedAt": "2026-08-21T22:51:00Z",
+      "description": "Notícia publicada por Diário de Coimbra. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     }
   ],
   "world": [
-    {
-      "title": "Presidente iraniano reclama vitória e diz que chegou o momento de terminar a guerra com os EUA - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZURGMExvRDJxS0MwUEd1cHg5OVN2NnV4WGxrNTQwY21Fb0I4V1luRkR1SzhDVGFDYWdBbVFxMG9Ta0RHcy14OFNRVEVQOGhGN2dlX3Y4YTlNU0dIVGJIdF96OFJNeXJYNm9Dd3pxVk1kTF9fenlOZ2FFMkRCS3Y4d0hnX1l5UDhUQVZPeGJkbWtldHdSNTVuak5fRk1EZG83U0N3ODFDaGpTUVlHYjRTUnpRQUJvS3JwT2JoUVNvcFRoRzREbGRjNjRzcGVMbnVjR0t4THRFS1RsZWQ4YVprdVNaLUN6d2NaM2ZnMWxreFFTeHNEM0tIMmpXajYyX1k?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-08-21T13:59:37Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-21-presidente-iraniano-reclama-vitoria-e-diz-que-chegou-o-momento-de-terminar-a-guerra-com-os-eua-75d522b8?schedule=mix"
-    },
     {
       "title": "Por que a China está em posição de força diante da pressão dos EUA sobre o Irã - RFI",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzhXcUE0NFNkbi1Dc2ViOU5JRlo2NXNyVTl5YVRsenpYamYwQlM5MlBQT2VWejMtZUpIMTltVDZXUFAwaUVTOWtHQmphYlBQREdaVm8tSUtZM1psYk1oMTNVUGtlZ19JWk9PanBFVExCbnNZN1E2Y3FjYzVfejRfam5kWEx1Vl9oVEQ3V1BxU0tmdkdDanZkVmhscU5rVF9qa1NDUlZ5Tlhwc3BnMW11Uk1FYmRDLWw2QkZjSnBhUTJRN0FtLTlpQ3dwZlNkVW1xcjM1a01hSENsekJIbWc?oc=5",
@@ -126,6 +117,15 @@
       "description": "As ameaças de novas sanções dos Estados Unidos contra o Irã e seus aliados não parecem preocupar Pequim. Donald Trump quer que a China se associe à política de pressão econômica americana sobre Teerã…",
       "image": "https://s.rfi.fr/media/display/1f74e4a2-8b2f-11f1-9b3d-005056bf30b7/w:1280/p:16x9/AP26126265484646-1.jpg",
       "articleUrl": "https://www.rfi.fr/br/mundo/20260822-por-que-a-china-est%C3%A1-em-posi%C3%A7%C3%A3o-de-for%C3%A7a-diante-da-press%C3%A3o-dos-eua-sobre-o-ir%C3%A3"
+    },
+    {
+      "title": "Presidente iraniano reclama vitória e diz que chegou o momento de terminar a guerra com os EUA - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZURGMExvRDJxS0MwUEd1cHg5OVN2NnV4WGxrNTQwY21Fb0I4V1luRkR1SzhDVGFDYWdBbVFxMG9Ta0RHcy14OFNRVEVQOGhGN2dlX3Y4YTlNU0dIVGJIdF96OFJNeXJYNm9Dd3pxVk1kTF9fenlOZ2FFMkRCS3Y4d0hnX1l5UDhUQVZPeGJkbWtldHdSNTVuak5fRk1EZG83U0N3ODFDaGpTUVlHYjRTUnpRQUJvS3JwT2JoUVNvcFRoRzREbGRjNjRzcGVMbnVjR0t4THRFS1RsZWQ4YVprdVNaLUN6d2NaM2ZnMWxreFFTeHNEM0tIMmpXajYyX1k?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-21T13:59:37Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-21-presidente-iraniano-reclama-vitoria-e-diz-que-chegou-o-momento-de-terminar-a-guerra-com-os-eua-75d522b8?schedule=mix"
     },
     {
       "title": "Mais de 750 soldados dos EUA feridos desde início da guerra no Médio Oriente - Diário de Notícias",
@@ -164,15 +164,6 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/ucrania-ex-ministro-da-defesa-pede-eleicoes-presidenciais-em-tempo-de-guerra/"
     },
     {
-      "title": "Concertos de Shakira e Christina Aguilera nos Emirados cancelados devido à guerra no Médio Oriente - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQX2xsc2EtNmRubV9XMzV6R0ljcl9zLUJNbGlvWmdvS2ozZWo0UFVzblRNVGc2T19ZR1hrNlI3ek9RTFdxcWN6aUU5eEY0RzQyVWpWdzAzTnBQRnkyazN1REx3Q24yWFZGR1FKWFo1Z3I2Zy13bS12cF9rN0FLQlUybENZOWwtaWdYZXE2dU4waXlsYUdFaEFzcFZDaWFOS0otbUlBNzFYT2FGWmZsNlVabUo4OVNtT0N1Y2ZVeVRlMTlRS3BDTFFvekttSmFBQ2FPcmJ5NG5rWHM0RmwzYkx0cU9VemlOSGYxTVRXelNDdzdRV0xBcXpSNnlHMW14cnc?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-20T16:42:35Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/cultura/musica/2026-08-20-concertos-de-shakira-e-christina-aguilera-nos-emirados-arabes-unidos-cancelados-devido-a-guerra-no-medio-oriente-4a209b0f"
-    },
-    {
       "title": "Presidente iraniano diz que chegou a altura de terminar guerra com os EUA - TSF",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV9wRFEtUXFBY0dnQ1psdHA1RDVrcWJxT0QxTzMweEN0TFh0cW1xVGlWcExTdVlURTZDeWxXZlRfd1lpc25ZZ2NLTkpSakJPbVN2WkdSUG5SdS1hVDUwWERoVFAxV1RqVi1vQjBic3RYWm14WGdqN1ZCcENzQzNoLTcyWFUtU3VoUWg2bEx1VWVmeXZpakE5WGFwUDhnMXJfQUV5TG5CajLSAagBQVVfeXFMT2lfcERRLVFxQWNHZ0NabHRwNUQ1a3FicU9EMU8zMHhDdExYdHFtcVRpVnBMU3VZVEU2Q3lsV2ZUX3dZaXNuWWdjS05KUmpCT21TdlpHUlBuUnUtYVQ1MFhEaFRQMVdUalYtb0IwYnN0WFpteFhnajdWQnBDc0MzaC03MlhVLVN1aFFoNmxMdVVlZnl2aWpBOVhhcFA4ZzFyX0FFeUxuQmoy?oc=5",
       "source": "TSF",
@@ -191,28 +182,37 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/20/porta-avioes-dos-eua-chega-ao-oriente-medio-para-substituir-uss-lincoln-apos-relatos-de-mas-condicoes.ghtml"
     },
     {
-      "title": "Irão diz estar numa posição de força para acabar com a guerra. Sanções e Estreito de Ormuz continuam a bloquear acordo - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU2dEb3RSazJQVklnbnZVYy1Va3B6VXg1NmZpdUJrdjFHdVJCTVhVbUFHQWZUcGd1aDZMZHh6cjRiMFQxSWNmN3hPaWV6S21oQ0RDdGNFbkxIajF1S05MbmNMRnRiUnlRSGd3c3pDOFBvWHdsR0lYWjRleW1uRElHWEQxb1E2SXltVjhmVjlDejNneDJyYVFBUmRGcW9fYkdlTnJheTk4MkswLWg0T1ByOUM2eS1rLTJoN3N1bldjbGdRaUJuRWFXUm52ZGtRTm9uSUNIZUs2LXNBenl1WV9xRkNmOHhvR0Z5RXpwd01ieTdLSlE?oc=5",
-      "source": "Plataforma Media",
-      "publishedAt": "2026-08-21T13:31:28Z",
-      "description": "O Presidente iraniano defendeu o fim da guerra com os EUA, enquanto as negociações continuam suspensas. Teerão mantém parcialmente ...",
-      "image": "https://cdn.plataformamedia.com/2026/06/AFP__20260618__B7GL7HZ__v3__MidRes__TopshotIranUsWar-1.webp",
-      "articleUrl": "https://www.plataformamedia.com/2026/08/21/irao-diz-estar-numa-posicao-de-forca-para-acabar-com-a-guerra-sancoes-e-estreito-de-ormuz-continuam-a-bloquear-acordo/"
-    },
-    {
-      "title": "A União Europeia em uma era de divisão - Instituto Liberal",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFNhdmNFaVMyTXdMeURta0pZYmdtYUhLcmpzN250MkpsdzBhRkpGZ1Y0QkNBOW1Bdk52T0JsSUhGVGlUZkhaanZvaTdjOVBMLXA0Ql9lclg2WEJ3R19nT3c5bTFjMVNVdjdFY25xZmhnenNXeDRpSUM4Qy1BeDVvLXZ2SXpTS2ZFb09xTi0zdEdMMlk?oc=5",
-      "source": "Instituto Liberal",
-      "publishedAt": "2026-08-21T19:18:22Z",
-      "description": "Notícia publicada por Instituto Liberal. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
       "title": "Presidente do Irão diz que é altura de terminar a guerra com os Estados Unidos - RFI",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVQ2b1FndTJuMU94YngxaEJxS0RWN3VPR09yWTlPWi1qdlNRUncyOFZ5ek9kWXdXSVNRM0dpVXRGbzhZQ2lNUk13b0JibFRua09vSTNsWHhkckRoY0NTUlY2WnVlb1dkM0I5eDQtWS1UU19ycjVpZnFGYzFFYlJ1MHp5eUJRNEJrZUlPNlh6UzhvMWYzMDQ4a1RDYVNWMFFPSlpuNlJCZ0Q1NXh6aDQyRHJ2bkJrVDRXZXBpWWh5UWEzcWc?oc=5",
       "source": "RFI",
       "publishedAt": "2026-08-21T13:57:39Z",
-      "description": "Notícia publicada por RFI. Abra o artigo para consultar os detalhes completos.",
+      "description": "O Presidente iraniano, Massoud Pezeshkian, defendeu, esta sexta-feira, que chegou o momento de terminar a guerra com os Estados Unidos e disse que Teerão se encontra numa \"posição de força\" perante Washington.",
+      "image": "https://s.rfi.fr/media/display/825f0a86-9d66-11f1-8854-005056a90284/w:1280/p:16x9/000-C49B8YT.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260821-presidente-do-ir%C3%A3o-diz-que-%C3%A9-altura-de-terminar-a-guerra-com-os-estados-unidos"
+    },
+    {
+      "title": "Porta-aviões dos EUA chega ao Oriente Médio para guerra contra o Irã - Vero Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEdPZVRsQThiLTZvbzZmdmZlMWsyVWdoYlVTOG5lRWlGU2xpWFRXV1h2a1ZmVVF3Mlo5MUtQOTA1V05fazhUekI1eklRRlAwUkRCMlM4UFdSZnlPazZpS0hnbGN0WngyY0pfdzVkSl8weEpyNU4tWXp2cVJuZ0NqbWJJbTh2XzlHcTJ0aDhwdEc3MzZfcVIwRFM5eXNGUlc0enc?oc=5",
+      "source": "Vero Notícias",
+      "publishedAt": "2026-08-20T17:52:20Z",
+      "description": "O navio substituirá o USS Abraham Lincoln, que enfrenta problemas técnicos e dificuldades envolvendo tripulantes",
+      "image": "https://veronoticias.com/wp-content/uploads/2026/03/porta-avioes-eua.avif",
+      "articleUrl": "https://veronoticias.com/mundo/porta-avioes-dos-eua-chega-ao-oriente-medio-para-guerra-contra-o-ira/"
+    },
+    {
+      "title": "Entenda o impacto da ida do porta-aviões George Washington ao Oriente Médio - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1dYalhwN1RJejhjWlc5VWFjNWc3emJLWUhhZDd5aTczXzkyYjRaZFNFMmhDZHJTUmpJMEduZ1VsOHFFdDRiVi1BQVNKUTdwWlp6NUs3OXd5S0ItcFNVVm1kcUY0b0t1cTRaVDI0YXdwMzhVTjYyRHlEb3MxUHBZeWp0R3oxWUhDb0JGUXZnRWJONThjc0ZfakFEOE04cnRUZ2MzZkhFOWZGMDR6TVJSdFAzenZmcjhVWGhz?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-08-21T12:06:07Z",
+      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Principal porta-aviões dos EUA no Oriente Médio é substituído em meio a desgastes na guerra contra Irã - Opera Mundi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYWp4MHdoT0c2V2xqb2llVFdYelplUzBleWd1UXN1dFdRY0hib3VlbDlMcUFzSG1yS0pkQmNrRUFvVW1SOEhvaEl1TUFoWVFJWGR5Rnl0b09mWlh2dHhfS21aLS16X3NqV0x3LXU4ZW96bktodjh1NDY2ZC1BamdmaUdFWmFoWENJWndfNm4wQ1VkUm45aUZCRE5JRHJUcnVVam01VlhRWURXRDNUUHBYWWFJeG5hRl9la3pTa2NuSzlDTVZ1SG96dVc0Mm1IbU9IMVFtRXJWU2kyMndfWUMySHFCZ0JsOVE5VHBqNXJn?oc=5",
+      "source": "Opera Mundi",
+      "publishedAt": "2026-08-21T05:00:00Z",
+      "description": "Notícia publicada por Opera Mundi. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
