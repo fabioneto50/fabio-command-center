@@ -1,6 +1,6 @@
 Fábio Command Center · MASTER 1.3.2 stability audit
-Commit: c5ef9f5a1b885f5f7a6f14c88a4baf9989fd93a7
-Generated: 2026-08-22T03:14:55Z
+Commit: 1220fa222beeda390ec57d2123955e23b6aa301f
+Generated: 2026-08-22T04:01:35Z
 
 == JavaScript syntax ==
 PASS: all root JavaScript files parse with node --check
@@ -35,7 +35,7 @@ Active fallback image chunks: 7 ['wound-images-chunk-01.js', 'wound-images-chunk
 Fallback embedded image keys: 0
 Dormant fallback chunks ignored by runtime: none
 Missing active fallback chunk files: none
-Remote image URLs in active modular gallery: none
+Remote image URLs in active modular gallery: ['https://raw.githubusercontent.com/fabioneto50/fabio-command-center/3e4e3c1070528696751a0111aee789b8a3491ff3/wound-images-user-v4.json']
 Wound image audit: FAIL
 
 == Architecture risk scan (active + dormant files) ==
@@ -55,7 +55,7 @@ medication-reference-links-v2.js:97:    if(!grid)return;new MutationObserver(cha
 medication-safety-cuf-v2.js:233:    if(medHost&&!medHost.dataset.cufHaObserved){medHost.dataset.cufHaObserved='1';new MutationObserver(scheduleDecorate).observe(medHost,{childList:true,subtree:true})}
 medication-stability-cuf-v1.js:52:    new MutationObserver(changes=>{
 search-enhancer.js:115:  const clinical=document.getElementById('page-clinical');if(clinical)new MutationObserver(schedule).observe(clinical,{childList:true,subtree:true});
-wound-dressings-media-model-v1.js:35:  const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});
+wound-dressings-media-model-v1.js:54:  const host=document.getElementById('clin-dressings');if(host)new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n)}))).observe(host,{childList:true,subtree:true});
 wound-dressings-order-v1.js:90:    new MutationObserver(()=>queueMicrotask(updateBar)).observe(grid,{childList:true});
 
 window.go assignments:
