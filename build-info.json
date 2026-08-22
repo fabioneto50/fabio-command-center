@@ -1,20 +1,21 @@
 {
   "appVersion": "MASTER 1.3.2",
   "schemaVersion": 1,
-  "contentVersion": "2026.08.20",
-  "builtAt": "2026-08-20",
-  "architecture": "single-navigation-core + fail-soft-runtime-loader + single-service-worker + stable-user-data",
+  "contentVersion": "2026.08.22",
+  "builtAt": "2026-08-22",
+  "architecture": "single-navigation-core + fail-soft-runtime-loader + declarative-content-registry + single-service-worker + stable-user-data",
   "qa": {
     "navigation": "SINGLE FCCNavigation CORE; LEGACY go OVERRIDDEN ONCE",
     "personal_security": "PIN 2558 VIA CENTRAL NAVIGATION GUARD",
     "module_loader": "FAIL-SOFT; ONE MODULE FAILURE DOES NOT BLOCK FOLLOWING MODULES",
+    "modular_content": "FCCContent REGISTRY SUPPORTS DATA-ONLY CARDS, CATALOG EXTENSIONS AND DECLARATIVE SUBTABS",
     "duplicate_runtime_versions": "MEDICATION V3 AND ECG ANALYZER V2 REMOVED FROM ACTIVE LOADER",
     "mutation_observers": "GLOBAL NAVIGATION OBSERVERS REMOVED",
-    "service_worker": "SINGLE REGISTRATION PATH; CACHE fcc-master-1.3.2",
+    "service_worker": "SINGLE REGISTRATION PATH; CACHE fcc-master-1.3.2-modular-content-1",
     "mobile_resources": "OVERLAYS/OVERFLOW CLEANUP + MATERIAL IFRAME SUSPENSION + ECG CLEANUP",
     "runtime_diagnostics": "LOCAL ERROR AND MODULE LOAD LOG IN SETTINGS",
-    "browser_validation": "STATIC CI ADDED; REAL IPHONE VALIDATION REQUIRED AFTER DEPLOY",
-    "verified_at": "2026-08-20"
+    "browser_validation": "STATIC/STRUCTURAL VALIDATION COMPLETED; REAL DEVICE VALIDATION AFTER DEPLOY REMAINS RECOMMENDED",
+    "verified_at": "2026-08-22"
   },
   "canonical": true
 }
