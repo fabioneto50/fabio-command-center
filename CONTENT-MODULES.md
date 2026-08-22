@@ -61,7 +61,35 @@ FCCContentManifest.addDressing({
 });
 ```
 
-Para integrar um produto diretamente no catálogo atual de Pensos, o motor também disponibiliza `FCCContent.extendDressings(...)`, usando a estrutura já utilizada por `wound-dressings-v1.js` (`name`, `presentations`, `tags`, `indication`, `components`, `links`).
+Para integrar um produto diretamente no catálogo atual de Pensos:
+
+```js
+FCCContentManifest.addCatalogueDressing({
+  name: 'Nome®',
+  presentations: [['Apresentação', 'CÓDIGO']],
+  tags: ['Penso', 'Função'],
+  indication: '...',
+  components: '...',
+  links: ['https://...'],
+  images: [
+    { src: './assets/pensos/nome-01.avif', label: 'Imagem principal', kind: 'primary' },
+    { src: './assets/pensos/nome-02.avif', label: 'Imagem complementar 1', kind: 'supporting' }
+  ]
+});
+```
+
+O catálogo usa a estrutura `name`, `presentations`, `tags`, `indication`, `components`, `links` e, quando aplicável, `images`.
+
+### Atualizar apenas as imagens de um penso
+
+```js
+FCCContentManifest.addDressingImages('Nome®', [
+  { src: './assets/pensos/nome-01.avif', label: 'Imagem principal', kind: 'primary' },
+  { src: './assets/pensos/nome-02.avif', label: 'Imagem complementar 1', kind: 'supporting' }
+]);
+```
+
+As imagens passam a pertencer aos **dados do próprio produto** (`product.images`). O renderizador visual apenas lê esse campo; não mantém um catálogo paralelo de imagens.
 
 ## Novo subseparador
 
@@ -88,6 +116,7 @@ FCCContentManifest.addSubtab({
 ## Regras para futuras implementações
 
 - Conteúdo novo deve ser adicionado como dados/configuração sempre que possível.
+- Imagens de produtos devem ser registadas em `images` no próprio item de catálogo; não criar manifestos paralelos para a mesma entidade.
 - Não duplicar navegação nem criar novos `onclick` manuais quando o registo modular consegue gerar a interface.
 - IDs devem ser únicos e estáveis.
 - O motor de renderização deve ser alterado apenas quando surgir um novo comportamento reutilizável, não para acrescentar conteúdo.
