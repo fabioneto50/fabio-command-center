@@ -4,8 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'wound-images-user-complete.json'
-      - 'wound-photo-install-trigger.txt'
+      - 'wound-photo-pack.zip'
 
 permissions:
   contents: write
@@ -17,68 +16,65 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Validate and extract user photos
+      - name: Validate and extract 46 wound photos
         shell: bash
         run: |
           python - <<'PY'
-          import base64, json, pathlib, shutil
+          import json, pathlib, shutil, zipfile
           expected={
-            'Acticoat® / Acticoat® Flex 3':('acticoat-flex-3',1),'Actisorb® Silver 220':('actisorb-silver-220',1),'Adaptic®':('adaptic',1),'Allevyn® Life':('allevyn-life',1),
-            'Aquacel® Ag+ Extra':('aquacel-ag-extra',2),'Aquacel® Extra':('aquacel-extra',2),'Argenpal 42,5 mg barra cutânea®':('argenpal',1),'Atrauman® Ag':('atrauman-ag',4),
-            'Cutanplast®':('cutanplast',2),'Emla® Penso':('emla-penso',1),'Inadine®':('inadine',4),'Jelonet®':('jelonet',2),'Melgisorb® Plus':('melgisorb-plus',2),'Mepilex®':('mepilex',2),
-            'Mepilex® Border Flex':('mepilex-border-flex',2),'Mepilex® Border Heel':('mepilex-border-heel',2),'Mepitel®':('mepitel',1),'Merogel®':('merogel',1),'Multidex®':('multidex',1),'Nu-Gel®':('nu-gel',1),
-            'Promogran®':('promogran',1),'Spongostan® Standard':('spongostan-standard',1),'Surgicel®':('surgicel',3),'Surgicel® Fibrilar':('surgicel-fibrilar',3),'TachoSil®':('tachosil',1),'Tutopatch®':('tutopatch',1),
-            'Varihesive® Extra Fino':('varihesive-extra-fino',1),'Varihesive® Gel Control':('varihesive-gel-control',1)}
-          aliases={'Mepilex® Border':'Mepilex® Border Flex','Mepilex® Heel':'Mepilex® Border Heel'}
+            'Acticoat® / Acticoat® Flex 3':1,'Actisorb® Silver 220':1,'Adaptic®':1,'Allevyn® Life':1,
+            'Aquacel® Ag+ Extra':2,'Aquacel® Extra':2,'Argenpal 42,5 mg barra cutânea®':1,'Atrauman® Ag':4,
+            'Cutanplast®':2,'Emla® Penso':1,'Inadine®':4,'Jelonet®':2,'Melgisorb® Plus':2,'Mepilex®':2,
+            'Mepilex® Border Flex':2,'Mepilex® Border Heel':2,'Mepitel®':1,'Merogel®':1,'Multidex®':1,'Nu-Gel®':1,
+            'Promogran®':1,'Spongostan® Standard':1,'Surgicel®':3,'Surgicel® Fibrilar':3,'TachoSil®':1,'Tutopatch®':1,
+            'Varihesive® Extra Fino':1,'Varihesive® Gel Control':1}
+          pack=pathlib.Path('wound-photo-pack.zip')
           report={'status':'FAIL','expected_products':28,'expected_images':46}
           try:
-              src=pathlib.Path('wound-images-user-complete.json')
-              data=json.loads(src.read_text(encoding='utf-8'))
-              products={aliases.get(k,k):v for k,v in (data.get('products') or {}).items()}
-              missing=[n for n in expected if n not in products]
-              extras=[n for n in products if n not in expected]
-              bad={n:{'found':len(products.get(n,[])) if isinstance(products.get(n),list) else -1,'expected':cnt} for n,(_,cnt) in expected.items() if not isinstance(products.get(n),list) or len(products.get(n,[]))!=cnt}
-              total=sum(len(products.get(n,[])) for n in expected if isinstance(products.get(n),list))
-              report.update({'source_products':len(products),'source_images':total,'missing':missing,'extras':extras,'bad_counts':bad})
-              if missing or extras or bad or total!=46: raise ValueError('product/image counts do not match 28/46')
+            with zipfile.ZipFile(pack) as z:
+              names=set(z.namelist())
+              manifest=json.loads(z.read('wound-images-curated-v1.json').decode('utf-8'))
+              if manifest.get('product_count')!=28 or manifest.get('image_count')!=46 or manifest.get('source_policy')!='user-provided-conversation-only':
+                raise ValueError('invalid manifest metadata')
+              products=manifest.get('products') or {}
+              if set(products)!=set(expected): raise ValueError('manifest product set mismatch')
+              files=[]
+              for product,count in expected.items():
+                imgs=(products.get(product) or {}).get('images') or []
+                if len(imgs)!=count: raise ValueError(f'{product}: {len(imgs)} images, expected {count}')
+                for item in imgs:
+                  src=item.get('src','')
+                  prefix='./assets/wound-images/user-final/'
+                  if not src.startswith(prefix) or not src.endswith('.avif'): raise ValueError(f'invalid local path: {src}')
+                  fn=src[len(prefix):]
+                  if fn not in names: raise ValueError(f'missing asset in pack: {fn}')
+                  raw=z.read(fn)
+                  if b'ftypavif' not in raw[:48]: raise ValueError(f'invalid AVIF: {fn}')
+                  files.append((fn,raw))
+              if len(files)!=46 or len({f for f,_ in files})!=46: raise ValueError('asset count is not exactly 46 unique files')
               out=pathlib.Path('assets/wound-images/user-final')
               if out.exists(): shutil.rmtree(out)
               out.mkdir(parents=True,exist_ok=True)
-              manifest={'version':'3.0-user-final','product_count':28,'image_count':46,'source_policy':'user-provided-conversation-only','products':{}}
-              written=0
-              for name,(slug,count) in expected.items():
-                  imgs=[]
-                  for i,b64 in enumerate(products[name],1):
-                      raw=base64.b64decode(b64,validate=True)
-                      if b'ftypavif' not in raw[:48]: raise ValueError(f'invalid AVIF: {name} #{i}')
-                      fn=f'{slug}-{i:02d}.avif';(out/fn).write_bytes(raw)
-                      imgs.append({'src':f'./assets/wound-images/user-final/{fn}','label':'Imagem principal' if i==1 else f'Imagem complementar {i-1}','kind':'primary' if i==1 else 'supporting','verified':True,'local':True,'source':'user-provided-conversation'})
-                      written+=1
-                  manifest['products'][name]={'images':imgs}
-              if written!=46: raise ValueError(f'wrote {written}, expected 46')
+              for fn,raw in files: (out/fn).write_bytes(raw)
               pathlib.Path('wound-images-curated-v1.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-              pathlib.Path('wound-user-install-audit.txt').write_text('Products: 28\nImages: 46\nSource: user-provided-conversation-only\nValidation: PASS\n',encoding='utf-8')
-              report['status']='PASS';report['written_images']=written
+              report.update(status='PASS',products=28,images=46,unique_files=46,source='user-provided-conversation-only')
           except Exception as exc:
-              report['error']=str(exc)
+            report['error']=str(exc)
           pathlib.Path('wound-photo-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          pathlib.Path('wound-user-install-audit.txt').write_text(f"Products: {report.get('products',0)}\nImages: {report.get('images',0)}\nSource: user-provided-conversation-only\nValidation: {report['status']}\n",encoding='utf-8')
           print(json.dumps(report,ensure_ascii=False,indent=2))
+          if report['status']!='PASS': raise SystemExit(1)
           PY
-      - name: Publish validation result and photos
+      - name: Publish validated local photos
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          STATUS=$(python -c "import json; print(json.load(open('wound-photo-validation.json'))['status'])")
-          git add wound-photo-validation.json
-          if [ "$STATUS" = "PASS" ]; then
-            git add assets/wound-images/user-final wound-images-curated-v1.json wound-user-install-audit.txt
-            git rm -f wound-images-user-complete.json wound-photo-install-trigger.txt
-            if [ -f wound-images-user-v4.json ]; then git rm -f wound-images-user-v4.json; fi
-            MSG='Install validated user wound photos'
-          else
-            MSG='Record failed wound photo validation'
-          fi
-          git commit -m "$MSG"
-          for n in 1 2 3; do git pull --rebase origin main && git push && break || sleep 3; done
-          test "$STATUS" = "PASS"
+          git add assets/wound-images/user-final wound-images-curated-v1.json wound-photo-validation.json wound-user-install-audit.txt
+          git rm -f --ignore-unmatch wound-photo-pack.zip wound-images-user-complete.json wound-photo-install-trigger.txt wound-images-user-v4.json
+          git commit -m 'Install validated user wound photos'
+          for n in 1 2 3 4; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 3
+          done
+          exit 1
