@@ -2,7 +2,7 @@
   if(window.__fccMedicationStableBootInstalled)return;
   window.__fccMedicationStableBootInstalled=true;
 
-  const V='923-v8.1.0';
+  const V='923-v8.1.1';
   const EXPECTED_BASE=690;
   const EXPECTED_TOTAL=923;
   const host=()=>document.getElementById('clin-drugs');
@@ -34,20 +34,19 @@
   async function boot(){
     shell();
 
-    // A interface antiga fica deliberadamente removida durante o arranque.
-    // Assim, o utilizador nunca pesquisa no catálogo parcial V4/V6 (~690)
-    // enquanto as extensões V7 ainda estão a ser montadas.
+    // Não expor ao utilizador a interface parcial (~690) enquanto o catálogo
+    // completo ainda está a ser construído.
     await load('medication-catalog-v6.js');
     await waitFor(()=>window.FCC_MEDICATION_CATALOG_V6?.count===EXPECTED_BASE&&window.FCC_MEDICATION_CATALOG_V6,{label:'catálogo V6'});
 
     await load('medication-catalog-v7.js');
     await waitFor(()=>window.FCCMedicationCatalogV7?.count===EXPECTED_TOTAL&&window.FCCMedicationCatalogV7,{label:'catálogo V7 com 923 fichas'});
 
-    // Aplica os campos de classe apenas depois de os 923 registos existirem,
-    // evitando os antigos ciclos de MutationObserver da interface intermédia.
+    // Aplicar campos complementares já com os 923 registos presentes.
     await load('medication-catalog-v7-patch.js');
     await load('medication-search-v8.js');
     await waitFor(()=>window.FCCMedicationSearchV8?.ok&&window.FCCMedicationSearchV8,{timeout:15000,label:'motor de pesquisa V8'});
+    await load('medication-search-bridge-v1.js');
 
     const H=host();if(H){H.dataset.medicationEngine='v8-single';H.dataset.medicationCatalogCount=String(EXPECTED_TOTAL)}
     document.dispatchEvent(new CustomEvent('fcc-medication-stable-ready',{detail:{count:EXPECTED_TOTAL,version:V}}));
