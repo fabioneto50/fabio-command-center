@@ -8,10 +8,17 @@
   C.registerArea({id:'clinical-dressings-extra',page:'clinical',target:'#clin-dressings .penso-shell',targetId:'clin-dressings',title:'Pensos adicionais',description:'Área modular para novos produtos que ainda não pertençam ao catálogo institucional principal.',searchLabel:'Clinical · Pensos / Apósitos',searchable:true,filterable:true,items:[]});
 
   const asImages=v=>(Array.isArray(v)?v:[]).filter(x=>x&&typeof x.src==='string');
+  const addMedicationRecord=item=>{
+    if(window.FCCMedicationCatalogV7?.add)return window.FCCMedicationCatalogV7.add(item);
+    (window.__FCC_MEDICATION_PENDING__||(window.__FCC_MEDICATION_PENDING__=[])).push(item);
+    return item;
+  };
   window.FCCContentManifest={
-    version:2,
+    version:3,
     areas:['clinical-sepsis-extra','clinical-medications-extra','clinical-dressings-extra'],
     addMedication:item=>C.registerItems('clinical-medications-extra',item),
+    addMedicationRecord,
+    addMedicationToCatalog:addMedicationRecord,
     addDressing:item=>C.registerItems('clinical-dressings-extra',item),
     addCatalogueDressing:item=>C.extendDressings(item),
     addDressingImages:(name,images)=>C.extendDressings({name,images:asImages(images)}),
