@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-23T07:52:17.333989Z",
+  "updatedAt": "2026-08-23T09:47:07.630122Z",
   "health": [
+    {
+      "title": "Aveiro: \"Somos das piores capitais de distrito na Saúde\" - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeU1aX1J1LXUxbDM4NkNZTG0zV3NBMzZuZktOYUtPTVVqN2lSWTFfazZVTWxURnotU3FvQ3ktRHJ3MkdTay1SVDMzSFR2RnZ3SEIxaThxdzNmeWRVdlhLYndhYUxFZlE4QjI1dEc5X093ZTV3bDhFS3NNZG02ZWtUdWRmX0MtMXNEMlhRM2w0dkV6M1NNQURF?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-08-23T08:12:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.jn.pt/pais/artigo/aveiro-somos-das-piores-capitais-de-distrito-na-saude/18118894"
+    },
     {
       "title": "Enfermeiros do hospital Amadora-Sintra entregam declaração de escusa de responsabilidade - RTP",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1ZiWGVaTnFISVhfai1mRDdUWUl4enJiWGpLZEtrTGtCYVNsOHI0ZjkyX1F2YVNJV0U5QzVndkZvb0hEdnhZRmI2cjVzRk5IbVU4U1dGZ3hTa3RaMW9KUF8yTGFpN2M5UE9vWklfeFVfNk1XNWN4LXM1eFdmZUVZT0pZbFRqMXNQWDVmVWZzNUoxdDlqR3FWT1lfTUM3enBQTFJMbWxxRUhoVHFiX2RtS2tJOVV3Qnk2TkU1a0dkeWdTN0VpMlVyRDNB?oc=5",
@@ -20,13 +29,22 @@
       "articleUrl": "https://www.publico.pt/2026/08/22/sociedade/noticia/medicos-reformados-trabalhar-sns-batem-recorde-metade-sao-medicos-familia-2185324"
     },
     {
-      "title": "Cerimónia de assinatura de contratos com médicos especialistas em Medicina Geral e Familiar com a USI da Terceira - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeDl4aXJTRGVJS3M3dkVMV2ZWa2s2LUhvU04yMUJHYW1wYm50YnNfeFJsRmxYMEFzdjRnYlV3N3Z1SjdMUkFNeElPVTBXV2o5ckNJajFKTUt0S3dMNXZWMnFDQzhoNkE2U3F5a2FjR0lnZEsyYTVmODItd21pbUxWWWxsWXlrNF9KLTNJOE44RUlNYTBfZ3doQjlKU0ZEWEtPWGhwTHBRWFZ2SzlnVXJpVkxGbzZ4bWVDOEEwQ0pxZWdib0luMW9Dc0J6ZGdXOHRZdXVHd2hiTmNaa3dsXzhFa3VSbUhrUmZacDN0RVJYcUxwd2RqZ3B4aEJQVm92WWdfWlE?oc=5",
-      "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-08-22T19:19:00Z",
-      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/-/cerim%C3%B3nia-de-assinatura-de-contratos-com-m%C3%A9dicos-especialistas-em-medicina-geral-e-familiar-com-a-usi-da-terceira-1"
+      "title": "Motorista lançou autocarro contra hospital de Tomar para evitar mais vítimas - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc21vbVo0ZWpBWjF4b21xQnBGVEpRZXlERTk2LWtxam80XzZ3dm5HMWdIY1dDNUxqVmcwVFMyU3p2dGRvaHNOQWJydzNjNXd1Vkx1RUxUU19aUTR4SUlLYk9YMFpseXBpU1BZazRXbTZNRWZnV1hWbE9wejEwZEtkRnJFR3RwS2VYSFh5YlRXNHFCTmJqT1BBMzk0bE1qTFFoS2JzaHl5QmFwejB5RGxqc09vSEtrSUxXeGNDZVdWYUtkTmZjN2NhZ2hqZXNWUHVJWDhWdmc1X1ZVZHlUYi1FdUNlOVVMT2hQVWM4Q1lrQQ?oc=5",
+      "source": "O Mirante",
+      "publishedAt": "2026-08-23T09:00:00Z",
+      "description": "Condutor do autocarro que se despistou em Tomar terá escolhido embater no edifício hospitalar depois de perder o controlo da viatura, numa tentativa de não atingir carros e peões. Autocarro continua selado pela polícia e aguarda peritagem, enquanto o inquérito permanece sem conclusões.",
+      "image": "https://images.impresa.pt/mirante/2026-08-19-pag-4---autocarro-tomar---3320.jpg-949dbadd",
+      "articleUrl": "https://omirante.pt/divulgacao-cientifica/04_domingo/machetes/2026-08-23-motorista-lancou-autocarro-contra-hospital-de-tomar-para-evitar-mais-vitimas-fe3d2c83"
+    },
+    {
+      "title": "\"Deixei a Medicina de lado, é impossível fazer as duas coisas\" - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjV4MXJYVF9CcURfZlByYlNHYS10cTdSZTZpeTdRMk1ualhZUWdIUENYQmZBT2p3VUlEWjYtSmZoeExDVXVCWGp4NjY5ODFSVGMyODV4VTVqVWpYcllJY0VYTUV6OFhPVWtpallQSjZNb3pET20zVDNlYzN5dlFuVmtsX2Z4Zm1QcTJKOVkwUmpidVpqakN4RFpSU1lEWVBfSktXZmtmS3hTdms?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-08-23T08:59:00Z",
+      "description": "Diogo Glória quer devolver o badminton português \"onde ele deve estar\"",
+      "image": "https://staticx.noticiasilimitadas.pt/oj/image.jpg?brand=oj&type=generate&guid=24ad0b5f-bb1b-4809-9f4c-7b0b88bc4fc6&w=1200&h=675",
+      "articleUrl": "https://sapo.pt/artigo/deixei-a-medicina-de-lado-e-impossivel-fazer-as-duas-coisas-6a8ab6e59b79793efa41757c"
     },
     {
       "title": "Projecto Oeste Azul – A cidade que pode aprender a produzir saúde - Jornal das Caldas",
@@ -38,40 +56,22 @@
       "articleUrl": "https://jornaldascaldas.pt/2026/08/22/projecto-oeste-azul-a-cidade-que-pode-aprender-a-produzir-saude/"
     },
     {
-      "title": "119 mil euros em sistema que reforça segurança de dispositivos médicos na Lezíria - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQblJfRVBBUWJIT2hxTUt2RWJubVdNYUpwVFlRVUplWC1NYkJQR2JIMzA5UnVEaEVxZlJjbjJxQ2ZVTVNqeG1GZ0xVOGxBcks0QmZBTTIwQzgzSk5pWVc3RElqdTVqbW9ORUhxUXg5THZPV0NYc3pFejBNQjhMRnBMYjhaZVhuLTRaRzBhbloyVVZ3MDNHWE9WTWxvejZ3Nzl6MFc1QVFWYjNqQmM1eGZ6Z0NBRzdjV3RzZkNOcjlNWER4S2puNEpsS0dHMnBvUE5qLUVrSEdnVEJRSjRiejY0emdpemR1WFdrTzY2Y0cwX2pUN0VUandN?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-08-23T06:00:00Z",
-      "description": "Nova plataforma permite acompanhar todo o circuito dos materiais utilizados nos cuidados de saúde, melhorar o controlo e acelerar a resposta aos serviços clínicos. Investimento foi financiado pelo Alentejo 2030.",
-      "image": "https://images.impresa.pt/mirante/2026-05-13-medicina.jpg-6e4d34d9",
-      "articleUrl": "https://omirante.pt/divulgacao-cientifica/04_domingo/destaques/2026-08-23-119-mil-euros-em-sistema-que-reforca-seguranca-de-dispositivos-medicos-na-leziria-efa1eab7"
-    },
-    {
-      "title": "Medicina volta a ganhar espaço nas notas mais altas, mas ainda é destronada pela Engenharia Aeroespacial - Jornal de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSERxZHRhYS1lZS1rU003S0RSSW80WDkzNmd6aVBaTXZTbXdManVraGpHV3NxU1FCM3B0a3lPSUp1UVdpT0t2bFlZNVBuUDNQN2ZMRXZUZHUtOFgyYU5oZW92emtLS3NweTh1c0hnaWlLNjlLM2VMYURYNzhqazhzVE9ub05BZjEwYmVFRmc4VWN4dTBBVmc3b1dwdWplY3N2MDdfTlBJbEM5d0U5dm83UDZvdFN6NDJyMGFGZExjY0twcmFOOFpOQ3lFZjdxT0Zxc05Nc3JjUE9QaDB1SUtj?oc=5",
-      "source": "Jornal de Notícias",
-      "publishedAt": "2026-08-22T17:12:00Z",
-      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Cerimónia de assinatura de contratos com médicos especialistas em Medicina Geral e Familiar com a USI da Terceira - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeDl4aXJTRGVJS3M3dkVMV2ZWa2s2LUhvU04yMUJHYW1wYm50YnNfeFJsRmxYMEFzdjRnYlV3N3Z1SjdMUkFNeElPVTBXV2o5ckNJajFKTUt0S3dMNXZWMnFDQzhoNkE2U3F5a2FjR0lnZEsyYTVmODItd21pbUxWWWxsWXlrNF9KLTNJOE44RUlNYTBfZ3doQjlKU0ZEWEtPWGhwTHBRWFZ2SzlnVXJpVkxGbzZ4bWVDOEEwQ0pxZWdib0luMW9Dc0J6ZGdXOHRZdXVHd2hiTmNaa3dsXzhFa3VSbUhrUmZacDN0RVJYcUxwd2RqZ3B4aEJQVm92WWdfWlE?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-08-22T19:19:00Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.jn.pt/nacional/artigo/medicina-volta-a-ganhar-espaco-nas-notas-mais-altas-mas-ainda-e-destronada-pela-engenharia-aeroespacial/18118852"
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/-/cerim%C3%B3nia-de-assinatura-de-contratos-com-m%C3%A9dicos-especialistas-em-medicina-geral-e-familiar-com-a-usi-da-terceira-1"
     },
     {
-      "title": "Militar da GNR encontrado morto em Oliveira do Hospital - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-22T11:54:00Z",
-      "description": "Jovem de 24 anos prestava serviço no posto de Pampilhosa da Serra.",
-      "image": "https://cdn.cmjornal.pt/images/2022-03/img_1280x721uu2022-03-17-19-26-26-1131830-im-639226561070119233.jpg",
-      "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/militar-da-gnr-encontrado-morto-em-oliveira-do-hospital"
-    },
-    {
-      "title": "'Tens a doença das mulheres preguiçosas', disse uma médica - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzJoYjM2SnNTNUMySlM0bjBOVGxCMGp5TUZyU09ORjg0S2wxT2swUkJycmhpUkJJTTExR243WUJuVm5zb1BWZFhoR242MUxxS2hVd2xaTDFGT0s4eFZCcUZOa0J5MTNXOXh2M1lRdVF1Ti1waVRSWEFJVm53YlNfV3FYc095bjZMaVdBdm5QSXVOWmQwSjZPN3Q4U0RxTFlnQVNVbC03OGEzbTVaWjRiYkRNbVBZUQ?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-22T12:32:36Z",
-      "description": "Ricardo Fonseca tem fibromialgia e espondilite anquilosante. São dores constantes – “às vezes nem consigo estar deitado” –, cansaço, muitos medicamentos e medo de, um dia, ter de deixar a enfermagem.",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14122405/cronico-ep4-credit-mariana-alvarez-cortes-1-scaled.jpg",
-      "articleUrl": "https://observador.pt/programas/atualidade/fibromialgia-tens-a-doenca-das-mulheres-preguicosas-disse-me-uma-medica/"
+      "title": "Ondas de calor marinhas podem ser prejudiciais para a saúde humana - Jornal PT Green",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnlkZ2Z5bk12SXU2T2tjQzZubTk2NzZQWWFBRldFSEJTSjlPSm9DVFlpdXRuSFkycy1FZ1hLV0YyOUotMGpORmtZTWptRms4UVZlcV9xMTN6emJ6eTFJNVg2NTJIYTdGWDB1WGRKU2k4YXNOQ25lcHhkWk1FR05acDNRY2ZZbWNKa2VZTi1wNFFCaEctRzBOeTJtS3dSQ1RtcUE?oc=5",
+      "source": "Jornal PT Green",
+      "publishedAt": "2026-08-23T08:44:00Z",
+      "description": "Investigadores defendem que estes fenómenos devem passar a ser considerados uma questão de saúde pública. Ondas de calor marinhas podem ainda ter fortes impactos na saúde mental, incluindo “eco-ansiedade”, luto, frustração e depressão.",
+      "image": "https://jornalptgreen.pt/abu/2026/08/Design-sem-nome-2026-08-19T173650314.png",
+      "articleUrl": "https://jornalptgreen.pt/noticia/ondas-de-calor-marinhas-podem-ser-prejudiciais-para-a-saude-humana/"
     },
     {
       "title": "Alentejo: \"A minha lancheira” projeto promovido por equipas de saúde escolar reconhecido pela DGS - O Atual",
@@ -83,28 +83,28 @@
       "articleUrl": "https://www.oatual.pt/noticias/alentejo-a-minha-lancheira-projeto-promovido-por-equipas-de-saude-escolar-reconhecido-pela-dgs"
     },
     {
-      "title": "UTAD preenche as 40 vagas de Medicina com nota de entrada de 18,18 valores - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2l3eXYzUE1NMzdmcDVONzE2VXNVeWZOSjY3ZDRnQnJkd2JfQ3Y3cHhkTVlZZC11Z1V1RXJaX2lPdS02SjhZazJSeTJfRjdyODlSenEzMjV4RkYteVZ5X1RLOGx2WHpYOUFReXR4X0ZYZmxCTDBDTXBTZFk4ZE9POVJVemxjMUVfZHBkTkRoRnZYaldJcEtNank2SFZyOHFMWHcxNFdTTFUyWkt4aklXRG1nejA1UVFIV21wX3BZRQ?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-08-22T11:49:21Z",
-      "description": "As 40 vagas do novo Mestrado Integrado em Medicina da Universidade de Trás-os-Montes e Alto Douro (UTAD), para o ano letivo 2026/2027, foram preenchidas na primeira fase do Concurso Nacional de Acesso ao Ensino Superior. O último estudante colocado entrou com uma classificação de 18,18 valores, a quinta nota de entrada mais elevada entre os [...]",
-      "image": "https://thumbs.web.sapo.io/?epic=V2:XT+eclJ1MeLtviW6yF5YAVLMUiXymA9Nrt0qNBSUihCT94gWcLvQboifSiOeHSW4NB+0/vqdPxNNgKd39uwpA4sy0T3imfuuZgr5dOsCkivBLgrzVZvDYCVQApLLIoy5wQ/0fylX60x658IJaKy+ZQXayTfXvDYEXSLPweYZX8M=&proxy=1",
-      "articleUrl": "https://sapo.pt/artigo/utad-preenche-as-40-vagas-de-medicina-com-nota-de-entrada-de-18-18-valores-6a89ae52e58eb3a3e68227fa"
+      "title": "Queda na promenade do Lido mobiliza Bombeiros Sapadores - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHE5N3dVOEdnRGxSc1J2SWlDd1hHSVRwSW50TkFvbUhXVEh3VndieTMzSzBPQ1Baellfcml5ZVJLS2sxalI3OFRFX1VxSEtsNVpwaGhXUXJueUNGRlJ6TjkyajVEdkVPS25ReUM3YWtGUjFFdzRsYnBORkl6dy1HalhlTGRnbXdZbVg5eFJqd0ZNR3VJVWF5OU9Fdm1VX2thSTVCcw?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-08-23T09:14:00Z",
+      "description": "Uma mulher, de 33 anos, ficou ferida na sequência de uma queda ocorrida na manhã deste domingo na promenade do Lido, no Funchal.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoCaptura_de_ecr%C3%A3_2026-08-23_101235.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/app/2026/8/23/503185-queda-na-promenade-do-lido-mobiliza-bombeiros-sapadores/"
     },
     {
-      "title": "Castro Verde: Médicos tarefeiros. Município exige solução urgente ao Ministério da Saúde. - Lidador Noticias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1BHZUVJSDBmMnI1MDJxOWJqY1ptX1h0U3pqcmI5T2xxb19BQ3JxX3F0VTVTUTBKaFlHenRCQWlxOXhhMGdUbnQ2NHNTT2dpX0xxM1BrM3VPTXN1ZHZTdXhhU21ldmVwUEdRckNmc3pIVmVLWTJ3WVBsNDNQaHVtTUZoM3d3NXo2akttTkQ0cUwwM1FCdEJrcnU5RVRLd094TnVZX0hVYVdhVkUxNDhlaGhicS0?oc=5",
-      "source": "Lidador Noticias",
-      "publishedAt": "2026-08-23T00:28:00Z",
-      "description": "Notícia publicada por Lidador Noticias. Abra o artigo para consultar os detalhes completos.",
+      "title": "'Tens a doença das mulheres preguiçosas', disse uma médica - Observador",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzJoYjM2SnNTNUMySlM0bjBOVGxCMGp5TUZyU09ORjg0S2wxT2swUkJycmhpUkJJTTExR243WUJuVm5zb1BWZFhoR242MUxxS2hVd2xaTDFGT0s4eFZCcUZOa0J5MTNXOXh2M1lRdVF1Ti1waVRSWEFJVm53YlNfV3FYc095bjZMaVdBdm5QSXVOWmQwSjZPN3Q4U0RxTFlnQVNVbC03OGEzbTVaWjRiYkRNbVBZUQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-22T12:32:36Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "CADELA VISITA DONO INTERNADO NO HOSPITAL DE SÃO JOÃO - 24Horas.pt",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdE5CcS16UHREM0hEQVNkWmZMT2xCejFIb2k3LS1CNmxka2tUTTVXazdmaFRnb1hzTXNKTnNteHlqWExKazNjVGNvSFdidTZsTFZXVWFIdHFDYTk5bWZXaWZsRDZwb3VBUmltVDNQNUtrT0Fvb2k2WUstSlVkNEVsV0RmVV9EUQ?oc=5",
-      "source": "24Horas.pt",
-      "publishedAt": "2026-08-23T07:30:00Z",
-      "description": "Notícia publicada por 24Horas.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Militar da GNR encontrado morto em Oliveira do Hospital - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-22T11:54:00Z",
+      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,24 +119,6 @@
       "articleUrl": "https://expresso.pt/internacional/2026-08-22-como-um-enviado-de-trump-usa-vodka-e-piadas-brejeiras-para-conduzir-a-diplomacia-dos-estados-unidos-866a1312"
     },
     {
-      "title": "Mais de 750 soldados dos EUA feridos desde início da guerra no Médio Oriente - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalNSdmRibmVka1lwRDh4RlpOWTRWS2NJbDQzb1B0NDlHRzZBaXpYYmxucFVMc0M1X1JXNHZDa2FUQ3pWNGpNNEZ1bVoyVnRxVDRKbHlkeEVVR3hqS295QjJvS1J0aUc3NkQ2aHFDNjhjZl92RTdZejJOdU8ta0VqV1dlVi1xc3ZtRVdpY1Y2UldaTENBTWVyczQwQ1ByZ2FwUThrY3lZdnBwdw?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-08-21T07:54:42Z",
-      "description": "Mais de 750 soldados norte-americanos ficaram feridos em quase seis meses de conflito com o Irão, segundo dados divulgados na quinta-feira pelo Departamento de",
-      "image": "https://media.assettype.com/dn%2F2025-03-04%2Ffrrn39ol%2Fblindado-ex%C3%A9rcito-NUNOBRITES0010.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/internacional/mais-de-750-soldados-dos-eua-feridos-desde-incio-da-guerra-no-mdio-oriente"
-    },
-    {
-      "title": "Não há Patriots, há Starlink. A nova ideia da Ucrânia para sobreviver à grande ameaça da Rússia passa por Musk - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYlptajM3LThaM2t2UWIxcEhlb0FBMi02Ri1ZenZKejFnQm92RlEtZ3RicVRqcGN6YnJ6M1dIdW9hd0RQVGlaaFNhV2prS3lsZ294VTYwR2xDZEdWRlFMNnVtU0ozU1BqTUd3SDBMVkEtcDNTTGFZQURZdVVObVFvdjA0c3FZT3N5c1p4ZWFDZUZYazhRV3BwcjlxM2ZSdTljUFBCYTY0LVVrT2pDQW1CR2pBSzN4NmwtMWNhdjViQWRELTdqZzY1SU94U1ExaFg1QVpvZHU5Mml5UDBuZzNiWGtENTBpak1ZY0ZMekl1QlhMci1nc2NkV2puMkFXeUdOTDBOdjlIVTVDNU9XQXZYeDlR?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-21T09:24:00Z",
-      "description": "Há meses que a Ucrânia faz o mesmo aviso, mas a pressão está a aumentar de forma decisiva e agora é preciso uma alternativa",
-      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
-    },
-    {
       "title": "Irão: Países que apoiem \"guerra económica\" dos EUA serão \"inimigos\" - Notícias ao Minuto",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFiUUpsWk0yMjllMVptRy1vNFR2NVdZWGNNcDhNcnYyS01yMmVCTE1KeXVUeUtaQUl4WThITks0Wl9SVzBlbmtaRzV4NS1RdXhBeHZRekJRYWtzZ24zcnNVM0JQX1B4UWJ5LUhxS01VXzdRUlc4aFRYQXlzS2FLVVpQc2s1SWRoSS1HczJwSklqdmxJenc4eG5rQXc5TW51c1pVU3lWY1VfV042cEE?oc=5",
       "source": "Notícias ao Minuto",
@@ -144,15 +126,6 @@
       "description": "\"Declaramos a todos os países à nossa volta e a todos os países do mundo: não se juntem à guerra económica liderada pelos Estados Unidos\", afirmou o secretário...",
       "image": "https://media-manager.noticiasaominuto.com/960/naom_6a78df280b82f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMTYsImNyb3BIZWlnaHQiOjE4MDYsImNyb3BYIjo4NzQsImNyb3BZIjowfX0=",
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3040123/irao-paises-que-apoiem-guerra-economica-dos-eua-serao-inimigos"
-    },
-    {
-      "title": "Por que a China está em posição de força diante da pressão dos EUA sobre o Irã - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzhXcUE0NFNkbi1Dc2ViOU5JRlo2NXNyVTl5YVRsenpYamYwQlM5MlBQT2VWejMtZUpIMTltVDZXUFAwaUVTOWtHQmphYlBQREdaVm8tSUtZM1psYk1oMTNVUGtlZ19JWk9PanBFVExCbnNZN1E2Y3FjYzVfejRfam5kWEx1Vl9oVEQ3V1BxU0tmdkdDanZkVmhscU5rVF9qa1NDUlZ5Tlhwc3BnMW11Uk1FYmRDLWw2QkZjSnBhUTJRN0FtLTlpQ3dwZlNkVW1xcjM1a01hSENsekJIbWc?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-08-22T13:51:10Z",
-      "description": "As ameaças de novas sanções dos Estados Unidos contra o Irã e seus aliados não parecem preocupar Pequim. Donald Trump quer que a China se associe à política de pressão econômica americana sobre Teerã…",
-      "image": "https://s.rfi.fr/media/display/1f74e4a2-8b2f-11f1-9b3d-005056bf30b7/w:1280/p:16x9/AP26126265484646-1.jpg",
-      "articleUrl": "https://www.rfi.fr/br/mundo/20260822-por-que-a-china-est%C3%A1-em-posi%C3%A7%C3%A3o-de-for%C3%A7a-diante-da-press%C3%A3o-dos-eua-sobre-o-ir%C3%A3"
     },
     {
       "title": "Irão ameaça considerar inimigos países que apoiem \"guerra económica\" dos Estados Unidos - SIC Notícias",
@@ -164,6 +137,15 @@
       "articleUrl": "https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-22-irao-ameaca-considerar-inimigos-paises-que-apoiem-guerra-economica-dos-estados-unidos-be73f167?utm_source=sic&utm_medium=root&utm_campaign=WEB&utm_content=https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-22-irao-ameaca-considerar-inimigos-paises-que-apoiem-guerra-economica-dos-estados-unidos-be73f167"
     },
     {
+      "title": "Por que a China está em posição de força diante da pressão dos EUA sobre o Irã - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzhXcUE0NFNkbi1Dc2ViOU5JRlo2NXNyVTl5YVRsenpYamYwQlM5MlBQT2VWejMtZUpIMTltVDZXUFAwaUVTOWtHQmphYlBQREdaVm8tSUtZM1psYk1oMTNVUGtlZ19JWk9PanBFVExCbnNZN1E2Y3FjYzVfejRfam5kWEx1Vl9oVEQ3V1BxU0tmdkdDanZkVmhscU5rVF9qa1NDUlZ5Tlhwc3BnMW11Uk1FYmRDLWw2QkZjSnBhUTJRN0FtLTlpQ3dwZlNkVW1xcjM1a01hSENsekJIbWc?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-22T13:51:10Z",
+      "description": "As ameaças de novas sanções dos Estados Unidos contra o Irã e seus aliados não parecem preocupar Pequim. Donald Trump quer que a China se associe à política de pressão econômica americana sobre Teerã…",
+      "image": "https://s.rfi.fr/media/display/1f74e4a2-8b2f-11f1-9b3d-005056bf30b7/w:1280/p:16x9/AP26126265484646-1.jpg",
+      "articleUrl": "https://www.rfi.fr/br/mundo/20260822-por-que-a-china-est%C3%A1-em-posi%C3%A7%C3%A3o-de-for%C3%A7a-diante-da-press%C3%A3o-dos-eua-sobre-o-ir%C3%A3"
+    },
+    {
       "title": "Suspeito de atentado ao gasoduto Nord Stream detido na Croácia enquanto ajudaria em filme - Público",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNam8zeUl5ckJ5dFpYRHVvaWpGcmdwS1oxTjZYdUVjNnlkdDhhWUdNalBkQVJRQUtPRm9PN3VuZHRoY0haRjhFVkkwcl9rWVYzMi1BcU5DeG1xMzVjQlpHNTVmS1JmYkk0UEpzYkVGUzRfWmhDOGVHRU5rX0JXVDh5dDBzN3dZZG5LYUs4Sm02Tm9CTDlLb2Z3OUxFM0h6NXRmSzFSQzdxaUJZcGdsb3FzTFFiTjJzVkpSaHpnOGUxMWJObUZXQ2xpU3c2aHdYc1lUeS1na0xpQVFxLTB1?oc=5",
       "source": "Público",
@@ -171,6 +153,15 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697?ref=hp&cx=ultimas_1"
+    },
+    {
+      "title": "Guerra no Médio Oriente: «A chamada fúria épica até agora foi um falhanço épico» - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTEzeXY4YW5PMUpVbGk1NV9UQ2V3U3BBblZlNmZNMHNFcGItTWI5ZVdoSGNyNFF6ZmlzUjlTX2RpczExd0NFRmpjSmNwZjdKVVV5bHliM3FhN3ZXc0RfMTRFOFJKRExuamtoaDVWU3cwYUc4cXgxOEp3QjJndG1pbWIwTkQ5YjBFMTlranlBMktHdlJfUG5peklTeVFrYS0ydTFvc2ppMWtPTVVXVDRmc0xYTjhQYVhu?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-08-22T12:28:00Z",
+      "description": "Patrícia Akester destacou que «as sanções económicas não são mecanismo cirúrgico», alertando que a população civil iraniana é quem acaba por sofrer com as medidas coercivas impostas de fora.",
+      "image": "https://cdn.nowcanal.pt/images/2026-08/img_1280x721uu2026-08-22-13-36-24-60043.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-no-medio-oriente-a-chamada-furia-epica-ate-agora-foi-um-falhanco-epico"
     },
     {
       "title": "Presidente iraniano reclama vitória e diz que chegou o momento de terminar a guerra com os EUA - Expresso",
@@ -182,15 +173,6 @@
       "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-21-presidente-iraniano-reclama-vitoria-e-diz-que-chegou-o-momento-de-terminar-a-guerra-com-os-eua-75d522b8?schedule=mix"
     },
     {
-      "title": "Irã diz que considerará inimigo qualquer país que participe da ‘guerra econômica’ dos EUA - CartaCapital",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDBFUW1DbW9MN1ZXU1ZDeEZaMlhHc3VEQ25VQ3pnMFNTUG1WcFhSSWVCM210TS12THU4RXRMVzV2RTdKdTJ5Q290M05yQWFfLUZ2UVVZall5UWVQMmRTZ2RXLUQzeUdZbWFfaW5XLWJzenV5bHFuZmt1TFhicVp0RXJialpKVkstY00wX1gteXF3YVVBM3I2QkF5VW10ZGN2WHFqQ0NqbUp3bmxJVEY0a1M1ekNHM3ExZWV4UVk5M2FMMi1z?oc=5",
-      "source": "CartaCapital",
-      "publishedAt": "2026-08-22T20:35:00Z",
-      "description": "As declarações partiram de Mohsen Rezai, chefe do Conselho Supremo de Segurança Nacional",
-      "image": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/000_A2MK6YM.jpg",
-      "articleUrl": "https://www.cartacapital.com.br/mundo/ira-diz-que-considerara-inimigo-qualquer-pais-que-participe-da-guerra-economica-dos-eua/"
-    },
-    {
       "title": "Presidente iraniano diz que chegou a altura de terminar guerra com os EUA - TSF",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV9wRFEtUXFBY0dnQ1psdHA1RDVrcWJxT0QxTzMweEN0TFh0cW1xVGlWcExTdVlURTZDeWxXZlRfd1lpc25ZZ2NLTkpSakJPbVN2WkdSUG5SdS1hVDUwWERoVFAxV1RqVi1vQjBic3RYWm14WGdqN1ZCcENzQzNoLTcyWFUtU3VoUWg2bEx1VWVmeXZpakE5WGFwUDhnMXJfQUV5TG5CajLSAagBQVVfeXFMT2lfcERRLVFxQWNHZ0NabHRwNUQ1a3FicU9EMU8zMHhDdExYdHFtcVRpVnBMU3VZVEU2Q3lsV2ZUX3dZaXNuWWdjS05KUmpCT21TdlpHUlBuUnUtYVQ1MFhEaFRQMVdUalYtb0IwYnN0WFpteFhnajdWQnBDc0MzaC03MlhVLVN1aFFoNmxMdVVlZnl2aWpBOVhhcFA4ZzFyX0FFeUxuQmoy?oc=5",
       "source": "TSF",
@@ -200,19 +182,37 @@
       "articleUrl": "https://www.tsf.pt/amp/18118415/presidente-iraniano-diz-que-chegou-a-altura-de-terminar-guerra-com-os-eua"
     },
     {
+      "title": "Irã diz que considerará inimigo qualquer país que participe da ‘guerra econômica’ dos EUA - CartaCapital",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDBFUW1DbW9MN1ZXU1ZDeEZaMlhHc3VEQ25VQ3pnMFNTUG1WcFhSSWVCM210TS12THU4RXRMVzV2RTdKdTJ5Q290M05yQWFfLUZ2UVVZall5UWVQMmRTZ2RXLUQzeUdZbWFfaW5XLWJzenV5bHFuZmt1TFhicVp0RXJialpKVkstY00wX1gteXF3YVVBM3I2QkF5VW10ZGN2WHFqQ0NqbUp3bmxJVEY0a1M1ekNHM3ExZWV4UVk5M2FMMi1z?oc=5",
+      "source": "CartaCapital",
+      "publishedAt": "2026-08-22T20:35:00Z",
+      "description": "As declarações partiram de Mohsen Rezai, chefe do Conselho Supremo de Segurança Nacional",
+      "image": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/000_A2MK6YM.jpg",
+      "articleUrl": "https://www.cartacapital.com.br/mundo/ira-diz-que-considerara-inimigo-qualquer-pais-que-participe-da-guerra-economica-dos-eua/"
+    },
+    {
       "title": "Irão diz estar numa posição de força para acabar com a guerra. Sanções e Estreito de Ormuz continuam a bloquear acordo - Plataforma Media",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU2dEb3RSazJQVklnbnZVYy1Va3B6VXg1NmZpdUJrdjFHdVJCTVhVbUFHQWZUcGd1aDZMZHh6cjRiMFQxSWNmN3hPaWV6S21oQ0RDdGNFbkxIajF1S05MbmNMRnRiUnlRSGd3c3pDOFBvWHdsR0lYWjRleW1uRElHWEQxb1E2SXltVjhmVjlDejNneDJyYVFBUmRGcW9fYkdlTnJheTk4MkswLWg0T1ByOUM2eS1rLTJoN3N1bldjbGdRaUJuRWFXUm52ZGtRTm9uSUNIZUs2LXNBenl1WV9xRkNmOHhvR0Z5RXpwd01ieTdLSlE?oc=5",
       "source": "Plataforma Media",
       "publishedAt": "2026-08-21T13:31:28Z",
-      "description": "Notícia publicada por Plataforma Media. Abra o artigo para consultar os detalhes completos.",
+      "description": "O Presidente iraniano defendeu o fim da guerra com os EUA, enquanto as negociações continuam suspensas. Teerão mantém parcialmente ...",
+      "image": "https://cdn.plataformamedia.com/2026/06/AFP__20260618__B7GL7HZ__v3__MidRes__TopshotIranUsWar-1.webp",
+      "articleUrl": "https://www.plataformamedia.com/2026/08/21/irao-diz-estar-numa-posicao-de-forca-para-acabar-com-a-guerra-sancoes-e-estreito-de-ormuz-continuam-a-bloquear-acordo/"
+    },
+    {
+      "title": "Presidente do Irão diz que é altura de terminar a guerra com os Estados Unidos - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVQ2b1FndTJuMU94YngxaEJxS0RWN3VPR09yWTlPWi1qdlNRUncyOFZ5ek9kWXdXSVNRM0dpVXRGbzhZQ2lNUk13b0JibFRua09vSTNsWHhkckRoY0NTUlY2WnVlb1dkM0I5eDQtWS1UU19ycjVpZnFGYzFFYlJ1MHp5eUJRNEJrZUlPNlh6UzhvMWYzMDQ4a1RDYVNWMFFPSlpuNlJCZ0Q1NXh6aDQyRHJ2bkJrVDRXZXBpWWh5UWEzcWc?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-21T13:57:39Z",
+      "description": "Notícia publicada por RFI. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "«Trump vai ser responsável por delapidar a imagem dos Estados Unidos no mundo» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGN2RmFjckFvMnFfQ2lkMzZ1S0FyUmlNUlNmRDRCUmk2aUVFZVB3MVN5ZDZIaV8zQnRiM1pIOHVaWGZtNF9LZDRYYjNZN0hvRjVCSzVFS2xubEwxYkxnMzNPYWJFQ21oUkRaODJ3UzY4aDBpSGx5TklfS3dCakk0bF81cDJKOXBmNC13dF9WeFRGclZOcVdkMkhqZjZzcXZxbGt4X1VlaFpEdWZUSXhzN2o1SlRSa1U?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-08-22T14:04:00Z",
-      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
+      "title": "Os Estados Unidos perdem o Oriente Médio, o fim da velha ordem mundial!? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWRtbXlhUTlGdUZ0VVU4dHhsSHMteGJ6R1A4Z0xlLTJzUGR2QlhIQnJiWEdMLVF2a2Q1WkVBSXVnblYzNGVUY0VieVNSenhzcmNhS0FUeHo2aVhrb3ZPRk5JMkNSX1BjUkItUkxQRElOc1F5WUZ0VEt2M3F6Mmk4YnpQYThFQQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-22T12:30:07Z",
+      "description": "Notícia publicada por Vietnam.vn. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
