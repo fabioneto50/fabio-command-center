@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-23T22:57:01.805208Z",
+  "updatedAt": "2026-08-23T23:55:27.273314Z",
   "health": [
-    {
-      "title": "Estado de saúde do rei Harald V da Noruega agrava-se após uma semana internado no hospital - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcEV2VlBTeTdZbVlXcXB4LTFjNXpsWXdvcUZpTmRNVHlpbzBCYTQ0aHNVVE1DcVRSREwxV3A4c1lQMWw2ZjcxSDJBRTB6V1hNcjc1M29mYWkwVGtrdVFFOUxjMThoVXY2d09ia0t1VjJzc2hfbERsdzQtZ0pNVU5rSXItQ01WWnhWNGRJYUZzTWU5MEoxRVZKMk5vSERwbHJ3UW1JR3FvbkxVSGhhYWMyMWJHYmNvdHRnVlVTQ2dxMGc4am5BdFdpOExta2RwaE44cWZDaXBXTU9HbVloR1dJ?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-23T19:05:09Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/mundo/europa/2026-08-23-estado-de-saude-do-rei-harald-v-da-noruega-agrava-se-apos-uma-semana-internado-no-hospital-fb660440"
-    },
     {
       "title": "Gustavo Carona: “Enquanto médico e com uma doença crónica, sou a favor da eutanásia” - Público",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFJNOTFZMUFLTlozbTFudU1jNW1Pc056WlJlc0c0emNLV3NoX0drMVhUeWpfRlBleDNjenkwZjlRTFRKaWJ5RXNNMk4zVkY5TmNnVmpPNGMzQnM2eElLTzM1UnpqbjdmZkxlckNXUmpCMmQ5X05ScGhPUmRUQXBaWlkyV2N3UXNvX2FWZEQ4NVJYM0dabm1fUDlTRWQ0NEc3U1ZrQS04d3oyTnlQMFdpbw?oc=5",
@@ -20,22 +11,31 @@
       "articleUrl": "https://www.publico.pt/2026/08/23/impar/entrevista/gustavo-carona-medico-doenca-cronica-favor-eutanasia-2185804"
     },
     {
-      "title": "Palácio Real norueguês anuncia que saúde do rei Harald \"piorou\" - SÁBADO",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjc4NlZCYzVSQmdBRFRnbE1ScEVxcVZVNlQzYzBVbUJua1hoY081czduZ0JGcklxdEl3blZDRm5hYnJJby1valdkRS15b09DWE5tT2J0dnk0MThBLU1CMEVCa3UtRFVZSUh1U1NubnNoeG9DWkx6S0taWmdHOFdadEJZN0F2WDNfOUxRaDdhV2NWd0RuTk5hRtIBmAFBVV95cUxNUjc4NlZCYzVSQmdBRFRnbE1ScEVxcVZVNlQzYzBVbUJua1hoY081czduZ0JGcklxdEl3blZDRm5hYnJJby1valdkRS15b09DWE5tT2J0dnk0MThBLU1CMEVCa3UtRFVZSUh1U1NubnNoeG9DWkx6S0taWmdHOFdadEJZN0F2WDNfOUxRaDdhV2NWd0RuTk5hRg?oc=5",
-      "source": "SÁBADO",
-      "publishedAt": "2026-08-23T20:00:00Z",
-      "description": "Monarca com o reinado mais longo da Europa sofre de anemia hemolítica, uma doença do sangue que provoca a destruição anormalmente rápida dos glóbulos vermelhos.",
-      "image": "https://cdn.sabado.pt/images/2026-08/img_1200x676uu2026-08-23-20-59-57-773790.jpg",
-      "articleUrl": "https://www.sabado.pt/mundo/amp/palacio-real-noruegues-anuncia-que-saude-do-rei-harald-piorou"
+      "title": "Palácio Real norueguês diz que saúde do rei Haroldo \"piorou\" - Observador",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnIyYUNZSkNETGFBbnNXaGJyNFZzN3RDcTg5M0RrdlM5Rk5CRmhLY2toZDFXYmhhY0hqRE9OY2FFclZzMkUtTG1ZTlVpbk5la1BOYUFpZ1pHdEE5SUN2WXQ0YlZvbWVhM3h1MDhWNkVrZU1kV1owcHRXWGFaSDAwUkd1QmdaQzh2MXhrMWlCUHc4eE5GRW9Jakh1bw?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-23T19:17:42Z",
+      "description": "Os novos problemas de saúde surgem numa altura em que a família real norueguesa está envolvida em vários escândalos nos últimos meses, particularmente envolvendo a princesa herdeira, Mette-Marit.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1123%3Anowe%3A0%3A18%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F23200358%2F44741175.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/08/23/palacio-real-noruegues-anuncia-que-saude-do-rei-harald-piorou/"
     },
     {
-      "title": "Estes são os rostos das melhores médias do país na área da Medicina - TVI",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEJuUlh5Wi0tT2RvZ0h5Q0s4RzdvdVBSSTJ2ek1oVmUzWDkxY3FaTW5sTzN4XzBSNFluYzk0Q0ttZDVveF9zSC01NGNwUkozYVRjZTlvQ3NDN0xYTVl6VUZLcHFweVh5T01IeU1BS3VFc0x1ZThHYlRxRDNKQ1FEdlgwUTBUZ0p0a0dpMGxxSXlCM0hOZTB0SHZkSnFMMzJwYXJISVdEQ2tYZl9hTUtDem9kQUx2QlM3aGNxeGxzZ2FhTDVP?oc=5",
-      "source": "TVI",
-      "publishedAt": "2026-08-23T19:35:00Z",
-      "description": "É na Universidade do Porto que se registam algumas das médias de acesso mais altas a nível nacional para cursos de Medicina. Da medicina tradicional, à inovação tecnológica e à saúde pública, há um objetivo em comum: todos parecem querer contribuir para um sistema de saúde melhor.",
-      "image": "https://img.iol.pt/preset/6a8b3ba4d34ed0733ba81417/og/tvi24",
-      "articleUrl": "https://tvi.iol.pt/noticias/video/estes-sao-os-rostos-das-melhores-medias-do-pais-na-area-da-medicina/6a8b33570cf2b42132dbec15"
+      "title": "Saúde do rei da Noruega deteriora no hospital, afirma casa real do país - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzhYS2ZuTjkwekFrZTRHTHVXdlhFQl9vb0ZSajBFWkREX01kZ3g0d0ltb0o2aXd0cTNheHNxazkzeXJRS1FuT2xCLVFoZk14MmI4ZENYRGZtX1p6ZVFFU0VWNm45Z1VEOVJVR0dqTXRpR1RaazZTNFNQRnJWekhRQkgyT3h3aV9rWXJPazBOMU9XT2Z5enlmX2FHcnZsc1ByRndzb1RMUVQyay1HMTAwSDNNXy16NzR0S3NNSHJHSGhfZXM2MHdaSmM3N3R4X1ZTVnJpYWFuV0NYNFZUeWMzSWZB?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-08-23T18:17:25Z",
+      "description": "Harald V está, contudo, a reagir bem ao tratamento para uma anemia hemolítica, diz a mesma fonte",
+      "image": "https://img.iol.pt/preset/65e70873d34e8d13c9b87561/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/noruega/harald-v/saude-do-rei-da-noruega-deteriora-no-hospital-afirma-casa-real-do-pais/20260823/6a8b3944d34ed0733ba8140a"
+    },
+    {
+      "title": "Estado de saúde do rei Harald V da Noruega agrava-se após uma semana internado no hospital - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPU3NXQTR6ME5PM3RRcE1BVC16dEkwd1ZIOXVOb2s5RlA0WWZXcm4yUkVUcU8tTUpWYkktMXJjZHhQRWxVTk1sNENPeEFWdzBVc280dWNvRlNKQVF4QmtwUGVUYmN6Q3pEXzNiYnVuZjBRdU5oam9WMU1LeWVydVhrNmxnWGFYbmUzLTgwYlhfSzU4SXhUTFU4VkhVMU5NU1c0VzlMVjhJdFNkN1BMVGthaTZmN3RWdXpSc1pybmNRb3ZmZGFjVmVpR0hydUtKNXhYU0t0UW94MnNOc0hMRERMcC1rT3VMcllpT2ljZGRpQ3pSTzBtUkhWb192eTFVRFB1RUtnenQtMWFlSzFiLXVIZ0hRM2FGaXNyM1RtWWxDdDhKWEMybUttV09XSnlXM0oxbE44aDlFN0NtYTRDWDRJWW9uSlkwUWlMMF8wRG1ub3RPRXNCcm85NGlDREVuM1EybVQ4eFVoX0l6b3pqVVVwUURlUnUtWWJBeVNzUEZGYWlYVnk1emhxQy1VMERJbUtkem9yMEV5YXZwZDFPa1RRdW5GNVRFWUVudW5UcVp5WlRqM0pWSDlycklkTUExdXlpZzZNMThITGdDZE1uWXhiZXE2M3hadGVra2RSeExn?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-23T19:05:09Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/mundo/europa/2026-08-23-estado-de-saude-do-rei-harald-v-da-noruega-agrava-se-apos-uma-semana-internado-no-hospital-fb660440?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/europa/2026-08-23-estado-de-saude-do-rei-harald-v-da-noruega-agrava-se-apos-uma-semana-internado-no-hospital-fb660440"
     },
     {
       "title": "Palácio Real norueguês anuncia que saúde do rei Harald \"piorou\" - Lusa",
@@ -65,13 +65,22 @@
       "articleUrl": "https://amp.dw.com/pt-br/peste-a-doen%C3%A7a-medieval-que-nunca-desapareceu/a-78478594"
     },
     {
-      "title": "Unidade de saúde de Aveiras de Cima vai arrancar em condições precárias - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZzdKUWRRb3NjaGNRX1AtRU9URzJlcEpSbG9LLTNpZFhTV0Zwb3BTS3BLZlhNUlV6azFzRWh3V0xySUs3amNSOVV0aXhKSnZCRGFYYTF2ZXRzNXZ0emxTNnMta1VIcHYwN0xtNlNaU3QyZzZDSUU1SGl0b29WMUVDdWxLU19yVk0wRFpwOW1hci0zS3J5REtKREVLNDZ0eXB2a29ETFdDdzUweHRHZ19lanlFV3lycW5tMHBlcldQT3k2dE5TQnFzblBMa3NVNTRSZnlRcmtxRnlpRWs5Um5VOHlqTktuTl96?oc=5",
+      "title": "Violência contra profissionais de saúde quase duplicou na Lezíria e Médio Tejo - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTFY2cDRXazNKeTU2VUdmRFkyTmdGeWlwaWpxU05zVnBOeTJ3WjhLVTBRX3lKNDRkWEtwb21kbHVNaU9XVi1UUEZMelpFZ056Y1pGcWN3a19BSXFCdThIRXlCR1UwZ3pDLWJlckxHbXNrZl85eFRGQnZ4bGxzYU1vWURrUFdNX0xxSVlQbC0yOGdMYkQ1UkZFRzItbEJydnJXSE4zbTJyVEtWdU5tcjlrc1pkM3pCWE9PZTRoLUpici1xWWpyWnhUZmNCYUR5amY2Z0trY1NVa3cwQzhHa3NQLUdWeS1KeU5VVjIwelNCb3ZaZw?oc=5",
       "source": "O Mirante",
-      "publishedAt": "2026-08-23T17:00:00Z",
-      "description": "A futura USF-B de Aveiras de Cima, apontada como parte da resposta para o problema da falta de médicos de família na freguesia, deverá entrar em funcionamento até ao final do ano. Vereadora da Saúde fala em condições deficitárias e avança que município vai instalar contentores para os médicos.",
-      "image": "https://images.impresa.pt/mirante/2026-08-19-pag-16---unidade-aveiras---2120.jpg-b50f7e75",
-      "articleUrl": "https://omirante.pt/divulgacao-cientifica/04_domingo/machetes/2026-08-23-unidade-de-saude-de-aveiras-de-cima-vai-arrancar-em-condicoes-precarias-739c592a"
+      "publishedAt": "2026-08-23T20:00:00Z",
+      "description": "Insultos, ameaças e empurrões fazem cada vez mais parte do quotidiano de quem trabalha nos hospitais e centros de saúde da região. Só em 2025 foram notificadas 65 situações de violência contra profissionais das unidades de saúde da Lezíria e do Médio Tejo, quase o dobro das registadas no ano anterior. Urgências estão entre os locais de maior tensão, com trabalhadores que…",
+      "image": "https://images.impresa.pt/mirante/2026-08-19-pag-17---violencia-profissionais---4250.jpg-a0185325",
+      "articleUrl": "https://omirante.pt/divulgacao-cientifica/04_domingo/machetes/2026-08-23-violencia-contra-profissionais-de-saude-quase-duplicou-na-leziria-e-medio-tejo-9d428369"
+    },
+    {
+      "title": "Cerimónia de inauguração da empreitada da nova Unidade de Saúde da Maia - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXBHS1RmdkxJaGpOS0pPSDdYWG1KRHUtQ2hEQng1TGpOSWo0Q3d1ay1Md2ZyN3pLTDZKQ1lxUGVreElsZHlUd2l6MnpxVDNiWGJKOTZnNWx3RUdrQWJPZHBmbjlLb0NpMS12ZHl4WWxoSkVhV08xNHpKaFNYZEE2YW9VTjk1cDA0cVZvTE1DeFB1QS03REhheVU0TC1DbERneXpSVjJRLU5ybU5XdG80YVNLN2pzMXBMYjlLWnI5NFJZTUk0TVF2emh6X3NUSzhzM2JwNg?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-08-23T17:49:04Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/-/cerim%C3%B3nia-de-inaugura%C3%A7%C3%A3o-da-empreitada-da-nova-unidade-de-sa%C3%BAde-da-maia"
     },
     {
       "title": "Apesar dos atrasos, foram aprovadas 598 vagas para desinstitucionalizar pessoas com doença mental - Público",
@@ -83,28 +92,19 @@
       "articleUrl": "https://www.publico.pt/2026/08/23/sociedade/noticia/apesar-atrasos-aprovadas-598-vagas-desinstitucionalizar-pessoas-doenca-mental-2185690"
     },
     {
-      "title": "Saúde do rei da Noruega deteriora no hospital, afirma casa real do país - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzhYS2ZuTjkwekFrZTRHTHVXdlhFQl9vb0ZSajBFWkREX01kZ3g0d0ltb0o2aXd0cTNheHNxazkzeXJRS1FuT2xCLVFoZk14MmI4ZENYRGZtX1p6ZVFFU0VWNm45Z1VEOVJVR0dqTXRpR1RaazZTNFNQRnJWekhRQkgyT3h3aV9rWXJPazBOMU9XT2Z5enlmX2FHcnZsc1ByRndzb1RMUVQyay1HMTAwSDNNXy16NzR0S3NNSHJHSGhfZXM2MHdaSmM3N3R4X1ZTVnJpYWFuV0NYNFZUeWMzSWZB?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-23T18:17:25Z",
-      "description": "Harald V está, contudo, a reagir bem ao tratamento para uma anemia hemolítica, diz a mesma fonte",
-      "image": "https://img.iol.pt/preset/65e70873d34e8d13c9b87561/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/noruega/harald-v/saude-do-rei-da-noruega-deteriora-no-hospital-afirma-casa-real-do-pais/20260823/6a8b3944d34ed0733ba8140a"
-    },
-    {
-      "title": "PRR deu mais 630 milhões à saúde, mas há metas que tiveram de ser revistas - Público",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVJxbzNLOWF4Nl9QQkl1RThIUERtdjJ1Q1ZXVEdMQ2xTZlZZTEtJcGQxLWFQajQ3anBjMUYwWmRVWFpZNDVRa0dVTThmU3ZTQS1Bdjl0NHNrNTBtTFNSYzhaaElhZnFfUTllc0NlQVBBVEU0TE5RM212ckozZTdmZDhXd1hLYWU0UVp1ZG1XdVlSUFUwVE9IZGY1MFZQU3otb2RpbXdn?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-23T11:45:13Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Cursos de Educação Básica e Medicina aumentaram vagas para travar falta de profissionais - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOWxnV3VSZkswUFJzZlJvYVBGdUNoWjNsVWpFbzRZTE1XTkRDUnV2ZmhZVVNyOEhQb1hDbGVLaU9jUFlEN21JX1dxRTJHeXBkWlBpSWtHUW84R0hHOEdrdUNjUl9DOVI0SUR4N1pNZnozMFFLa1BZMmtNRlEyUVJkaktyNGYwcHZ2UW1SOVFPYUJHSGVEdFduZElxX3dOT1dSbV9vRXYwbVBLOE5zU3E3TWdWajRnSUxJNmQ3YnBMWW9vYmJna2NnNnFCaVJEaUs3Rkgyc1NhYmVadW82d18yTDlyRkRyNUNRZXN6TzhCRlJkT3hUdUdCUHhmOA?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-23T12:55:04Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Pais de criança não vacinada que morreu de difteria em Itália foram constituídos arguidos - Público",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2xxTDdNNDFmNlAwQjZkT0NiYXdwU3QxVWk1Q2dsZFY2Q0RGS0pNRnNvMnJsdEVrNnFWYVAwVTJFUWgxTGlRSFZERldVZnNiUmh1R0Q3b3RubnlrQmhKVUZINV95Z1NGTkszS296VEZneHRWR1hnaDR3OWhDSG50NHE4TXgwclp1UmdDNW9aa1FTeGo2UG1MZGRCRlpaRGVlQ0RHOEl6b1JkM3RkN2pCNlRLbTlMM2p3TGlv?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-23T15:35:33Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Estes são os rostos das melhores médias do país na área da Medicina - TVI",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEJuUlh5Wi0tT2RvZ0h5Q0s4RzdvdVBSSTJ2ek1oVmUzWDkxY3FaTW5sTzN4XzBSNFluYzk0Q0ttZDVveF9zSC01NGNwUkozYVRjZTlvQ3NDN0xYTVl6VUZLcHFweVh5T01IeU1BS3VFc0x1ZThHYlRxRDNKQ1FEdlgwUTBUZ0p0a0dpMGxxSXlCM0hOZTB0SHZkSnFMMzJwYXJISVdEQ2tYZl9hTUtDem9kQUx2QlM3aGNxeGxzZ2FhTDVP?oc=5",
+      "source": "TVI",
+      "publishedAt": "2026-08-23T19:35:00Z",
+      "description": "Notícia publicada por TVI. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -137,6 +137,15 @@
       "articleUrl": "https://sicnoticias.pt/guerra-fria/2026-08-23-video-guerra-fria-o-fantasma-da-corrupcao-em-tempos-de-celebracao-da-independencia-da-ucrania-c11460e8"
     },
     {
+      "title": "“Estamos em guerra”: Canadá retalia contra as tarifas de Trump - Público",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWhrZWh4THN0d25pM0JBMnVUODFWZDlhTDZzUVhNSGJlNDI1amxfSmFVVmJwNmwyYnZoUEl3OTFPSGlSTkVxZk9kLTlEV0VyLXRhMThnX3Ftb1BNTU1nazhYX0dQbGdXSVVkZFNtU3NjZVA0d3N0aWl1TTVweV81MlNmOXoxTEJFcTk1T2YwbUhId3ZtZXc?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-22T19:16:43Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/08/22/mundo/noticia/guerra-canada-retalia-tarifas-trump-2185817"
+    },
+    {
       "title": "Ucrânia prepara alternativa ao Starlink e pede 30 mil milhões à Europa para financiar a guerra - Jornal SOL",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTmRKWkRfaU1QUjlNRnNBSHJ3QVQ3azZmaTFDNEljNFp3d201MEYxbm84aVlLdHpfdTdnWDBXZmU2TlVTYmQ3YzA3RGs4Tlh6ZVFqLUtTNmphNUxwOFNxNVQ4cDFNVjNEN0RMLU03Mld1TkUyeGFub29WRjdtblgzRzVtSHdFQjVsYnFBMjlqV0ZSZ2daYTFhZllCTTdJTXVqTUhPMjBEdDYwMGZMUUpfaVdnRmphODRkd3ZzaHNKWmx6VzZMbXltVVdFNjNqSGNMYVFYendUTWtWMktCdlNWdmgzN0loVFdCRkRDZFFKWlp1dFZjdm4zckIxZ2lzZU0?oc=5",
       "source": "Jornal SOL",
@@ -146,15 +155,6 @@
       "articleUrl": "https://sol.iol.pt/internacional/noticias/ucrania-prepara-alternativa-ao-starlink-e-pede-30-mil-milhoes-a-europa-para-financiar-a-guerra/20260823/6a8aee400cf2f6a1a1e74fbc"
     },
     {
-      "title": "Tribunal federal dos EUA anula suspensão de vistos imposta por Trump a 75 países - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGY1TGE0Vjd6QlRQSEhabzI5c0wwRFlkYlRCOWhfYjNVVGtSUDBLenYyVVB5UWZ1OFdTSklxMU9hY045U0Jwa05QY1dSb0ZROEt3VG9ZSVZiNjJoRWxmVjFYNFdpcGdYM3YxM0Y3QmwxSVhxV1VPUFZHdVRaNzF6SDVkeXFzVlBsaXhVVUFsVHRuUDdpbXJUV2JZT01ZUTliTU1ZYUZ4S2hYYS00Y1lLemc3eHRBYWJpZXJHWWstOUQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-22T16:10:49Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/22/mundo/noticia/tribunal-federal-eua-anula-suspensao-vistos-imposta-trump-75-paises-2185811"
-    },
-    {
       "title": "Presidente do Irã fala em \"guerra completa\" após novas ameaças dos EUA - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0RnRTRSV2cyVm5zalVtb1RQNmstU3FHSU95d1UxeUZfbFo2TVdSUktGLWM5SGI1RjF6bVRoQzRLVWR3RGhlMWNRVS1YVmJnUjg4MzJ0a28zdzRZazg0M005RUlBbWNMZktLaDlITk9yOGczV2dSQ0N4NTRtQjRsVGM4RTd4NzFWRS0xLW1FajdMOG83ZkJPblM2QjRzTE91OWx4ZktTZGJJVU1xOWhNZmVR?oc=5",
       "source": "CNN Brasil",
@@ -162,6 +162,15 @@
       "description": "Masoud Pezeshkian afirmou que Teerã enfrenta um conflito em grande escala nos âmbitos econômico, militar e de segurança",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL610YC-BASEIMAGE.jpg?w=800&h=524&crop=1",
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/presidente-do-ira-fala-em-guerra-completa-apos-novas-ameacas-dos-eua/"
+    },
+    {
+      "title": "Israel bombardeia Faixa de Gaza, mata duas pessoas e ameaça intensificar ofensiva - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTEdLaGxlRlVCRi1NZnpOZTZBZnpFaWJmUGVEaFhGQmZidXdQZFVXWDdhMTIxbGotQWtHRC0tcjMzenI5aDN6YWdJWTJUUFE5bGN4Ylp5UEpwbmxEaE5hdWxXQ0w0RlRFZ2RhQWlqNnowbDZDLUZBVkk4VlNJWk9WRmNZT1BIclRoVXZBUVVJRTd0NmtKUzhnLXhlRXpVU2JjSWZKbVVSZXk0MDdPcGlFNGlRU3k3ZnVRRGVXY1FpVXJuZ0tlcjBaa1lR?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-08-23T20:14:00Z",
+      "description": "Governo Netanyahu, sob pressão para cumprir acordo de paz, diz que responde ao lançamento de pipas e balões",
+      "image": "https://f.i.uol.com.br/fotografia/2026/08/23/17875138336a8b4be955eff_1787513833_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/08/israel-bombardeia-faixa-de-gaza-mata-duas-pessoas-e-ameaca-intensificar-ofensiva.shtml"
     },
     {
       "title": "Guerra no Médio Oriente: «A chamada fúria épica até agora foi um falhanço épico» - Now Canal",
@@ -191,15 +200,6 @@
       "articleUrl": "https://g1.globo.com/mundo/noticia/2026/08/23/chefe-de-seguranca-do-ira-diz-que-apoio-a-sancoes-dos-eua-sera-ato-de-guerra.ghtml"
     },
     {
-      "title": "França recebe visita oficial de líder da Arábia Saudita, num contexto de tensão crescente no Médio Oriente - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2QxSS1VbFJJVUFNT0l3bnlMOTlSVFVnRVFONk1mR25nNmpwN1ltbE1RdkN4YzBFTUk5Q1pZd3RUOXZJM3dnbExNTWFTT2RUamVTV1RoSE9ocGVtemdscDhsVm1GMFQtT3JnU1Z3WmZMazdPUy0zVEJPX3ZzOWhPTkcxa1RsamIxdUxrTGNJcm5WTXVCa2RWaFpQaWRhQldqLWZKb1hvQnAzS1ZXM0hEYjFTY3FScy1mRzJYd25GTzV2OU95cEhrRFRYTXFvMTZEcGxCa3JoTlVYWDFyZ3plUHBjRGIzWlJxNFBmb0hEak4tbUw5Ym12a1lxOA?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-08-23T14:08:11Z",
-      "description": "O príncipe herdeiro da Arábia Saudita Mohammed Ben Salmane é recebido em França pelo Presidente Emmanuel Macron, a 23 e 24 de Agosto. Os dois dirigentes devem assistir, esta noite, à cerimónia de encerramento…",
-      "image": "https://s.rfi.fr/media/display/032ba358-9ef8-11f1-83ed-005056bf30b7/w:1280/p:16x9/2026-08-20T185538Z-942739809-RC2VHBATT3FF-RTRMADP-3-FRANCE-SAUDI.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260823-fran%C3%A7a-recebe-visita-oficial-de-l%C3%ADder-da-ar%C3%A1bia-saudita-num-contexto-de-tens%C3%A3o-crescente-no-m%C3%A9dio-oriente"
-    },
-    {
       "title": "Irão: Países que apoiem \"guerra económica\" dos EUA serão \"inimigos\" - Notícias ao Minuto",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFiUUpsWk0yMjllMVptRy1vNFR2NVdZWGNNcDhNcnYyS01yMmVCTE1KeXVUeUtaQUl4WThITks0Wl9SVzBlbmtaRzV4NS1RdXhBeHZRekJRYWtzZ24zcnNVM0JQX1B4UWJ5LUhxS01VXzdRUlc4aFRYQXlzS2FLVVpQc2s1SWRoSS1HczJwSklqdmxJenc4eG5rQXc5TW51c1pVU3lWY1VfV042cEE?oc=5",
       "source": "Notícias ao Minuto",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Irão ameaça considerar inimigos países que apoiem \"guerra económica\" dos Estados Unidos - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNZ0Y2UlVyc3lWZW1BdFNqeFpLVEJwblJ6SzZwVkgwOFNpYVIxanVodXh0aWFXZllyMFhXdUtNNm83TkdUajNfUHRMTmN5UHZINmpFYlVpVGJVZG9oM1A3b3RWb3JJSWJzODk5b1BRV3VrcXdJRk1NUmVoMDdxNEFVdWo1b0l4UjRxcmxGMndxOUtNdXZwQTBieHJUMkJra1JXaDFTNEFCQk9teS01Mll3eWVQazVWNUJLdE1KWXR4TEk0V09ibGVDNmJjejQtNUVzcFJLWmZMWUxjcW1VV0dWVjlJeE9fcGFtWURwYS04LWthOFJ3UkJmTHF6bGJFWFlxakh6a1o5LXljRXhHWWd0aXBsbDE0cTZoMW9KWlFFZWZ0TTAyRXAwU09VOWlreWZqdXBqakVKTlJnQnF6R2N2THU0UURGSDNJS3YzU0EzREs5c1k2bkxwWVp3V1B0SkJXcFRwN2U2RHFsLVlaYndTdGdYYXBQOFc4NV9TOUVHSGd1SzM2WGNYRXpyb3N5TE5IU2xPN2g2cDBCekd2UmFfcHItc2ctYXRkQnRuZDVsUTI5SXU0bVUxQUpwd0ZSSjA1c3YzTnRsdXFuY1dmZlAxZmZEcVdOMTl1QmhzRnB4VlhQUEF4VHNZdF80ZldLTW9XOG1OVWZUQ09KRS1MQ1lOd21KWnk1cTZ2?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-22T22:01:40Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "França recebe visita oficial de líder da Arábia Saudita, num contexto de tensão crescente no Médio Oriente - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2QxSS1VbFJJVUFNT0l3bnlMOTlSVFVnRVFONk1mR25nNmpwN1ltbE1RdkN4YzBFTUk5Q1pZd3RUOXZJM3dnbExNTWFTT2RUamVTV1RoSE9ocGVtemdscDhsVm1GMFQtT3JnU1Z3WmZMazdPUy0zVEJPX3ZzOWhPTkcxa1RsamIxdUxrTGNJcm5WTXVCa2RWaFpQaWRhQldqLWZKb1hvQnAzS1ZXM0hEYjFTY3FScy1mRzJYd25GTzV2OU95cEhrRFRYTXFvMTZEcGxCa3JoTlVYWDFyZ3plUHBjRGIzWlJxNFBmb0hEak4tbUw5Ym12a1lxOA?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-23T14:08:11Z",
+      "description": "Notícia publicada por RFI. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
