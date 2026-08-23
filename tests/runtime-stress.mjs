@@ -28,36 +28,34 @@ for(const [name,type] of engines){
   assert(!/Emergency ·|Inventário|Família/i.test(beforeUnlock),`${name}: private global-search result visible before PIN`);
   await globalSearch.fill('');
 
-  // Medication catalogue must become usable only when all 923 records are ready.
+  // Stable V7 catalogue: keep the existing Clinical DOM/navigation and reconcile all 923 records.
   await page.evaluate(()=>window.fccNavigate('clinical'));
   const medTab=page.locator('#page-clinical > .tabs > .tab').filter({hasText:/INFO Medicação|Drug Reference/}).first();
   await medTab.click();
-  await page.waitForFunction(()=>window.FCCMedicationSearchV8?.ok===true&&window.FCCMedicationSearchV8?.count===923,{timeout:60000});
-  await page.locator('#med8Search').waitFor({timeout:5000});
-  const medHealth=await page.evaluate(()=>({count:window.FCCMedicationSearchV8.count,engine:document.getElementById('clin-drugs')?.dataset.medicationEngine,catalog:document.getElementById('clin-drugs')?.dataset.medicationCatalogCount,buttons:document.querySelectorAll('#med4Results [data-med8-name]').length}));
+  await page.waitForFunction(()=>window.FCCMedicationV7Health?.ok===true&&window.FCCMedicationV7Health?.count===923,{timeout:60000});
+  await page.locator('#med4Search').waitFor({timeout:5000});
+  await page.waitForFunction(()=>document.querySelectorAll('#med4Results [data-med4]').length===923,{timeout:15000});
+  const medHealth=await page.evaluate(()=>({count:window.FCCMedicationV7Health.count,catalog:document.getElementById('clin-drugs')?.dataset.medicationCatalogCount,buttons:document.querySelectorAll('#med4Results [data-med4]').length,version:window.FCCMedicationV7Health.version}));
   assert(medHealth.count===923,`${name}: medication API count ${medHealth.count}, expected 923`);
   assert(medHealth.catalog==='923',`${name}: medication host count ${medHealth.catalog}, expected 923`);
-  assert(medHealth.engine==='v8-single',`${name}: medication engine is ${medHealth.engine}`);
   assert(medHealth.buttons===923,`${name}: only ${medHealth.buttons}/923 medication cards rendered`);
+  assert(/^7\.4\.2/.test(medHealth.version),`${name}: unexpected medication hotfix ${medHealth.version}`);
 
-  const medSearch=page.locator('#med8Search');
-  await medSearch.fill('noradrenalina');
-  await page.waitForTimeout(180);
-  const noradCount=await page.locator('#med4Results [data-med8-name]').count();
-  assert(noradCount>=1,`${name}: medication search returned no noradrenalina`);
-  await page.locator('#med4Results [data-med8-name]').first().click();
-  await page.locator('#med4Results .med8-detail').waitFor({timeout:3000});
-  const detailTitle=(await page.locator('#med4Results .med8-detail h3').innerText()).toLowerCase();
+  const medSearch=page.locator('#med4Search');
+  await medSearch.fill('Noradrenalina');
+  await page.waitForFunction(()=>/noradrenalina/i.test(document.querySelector('#med4Results .med4-detail h3')?.textContent||''),{timeout:5000});
+  const detailTitle=(await page.locator('#med4Results .med4-detail h3').innerText()).toLowerCase();
   assert(detailTitle.includes('noradrenalina'),`${name}: wrong medication detail opened: ${detailTitle}`);
-  await page.locator('[data-med8-back]').click();
+  await medSearch.fill('');
+  await page.waitForFunction(()=>document.querySelectorAll('#med4Results [data-med4]').length===923,{timeout:10000});
 
-  // Global search must index/open medication entries from the full 923-record catalogue.
+  // Global search must index/open medication entries from the reconciled catalogue.
   await globalSearch.fill('paracetamol');
-  await page.waitForTimeout(220);
+  await page.waitForTimeout(300);
   const medGlobal=page.locator('#globalResults .search-hit').filter({hasText:/paracetamol/i}).first();
   assert(await medGlobal.count()===1,`${name}: paracetamol missing from global search`);
   await medGlobal.click();
-  await page.waitForFunction(()=>/paracetamol/i.test(document.querySelector('#med4Results .med8-detail h3')?.textContent||''),{timeout:5000});
+  await page.waitForFunction(()=>/paracetamol/i.test(document.querySelector('#med4Results .med4-detail h3')?.textContent||''),{timeout:5000});
 
   // PIN gate and Pessoal entry.
   await page.locator('.nav[data-page="personal"]').click();
@@ -89,6 +87,10 @@ for(const [name,type] of engines){
     }
   }
 
+  // Medication must still be healthy after the Clinical stress cycle.
+  await medTab.click();
+  await page.waitForFunction(()=>window.FCCMedicationV7Health?.ok===true&&document.querySelectorAll('#med4Results [data-med4]').length===923,{timeout:10000});
+
   // Material expand/exit must never leave body scroll locked.
   const materialTab=page.locator('#page-clinical > .tabs > .tab').filter({hasText:'Material'}).first();
   if(await materialTab.count()){
@@ -116,6 +118,6 @@ for(const [name,type] of engines){
   assert(diag.stats.moduleErrors===0,`${name}: ${diag.stats.moduleErrors} module load failures`);
   assert(pageErrors.length===0,`${name}: page errors: ${pageErrors.join(' | ')}`);
 
-  console.log(`${name}: PASS · medications=923 · tabs=${tabCount} · modules=${diag.stats.moduleOK} · serviceWorkers=${initial.sw} · navigation=180`);
+  console.log(`${name}: PASS · medications=923 · V7.4.2 · tabs=${tabCount} · modules=${diag.stats.moduleOK} · serviceWorkers=${initial.sw} · navigation=180`);
   await browser.close();
 }
