@@ -51,9 +51,10 @@
 
   function sortButtons(list){
     const buttons=[...list.querySelectorAll(':scope > .med4-mini')];
-    buttons.sort((a,b)=>(a.dataset.med4||a.textContent).localeCompare(b.dataset.med4||b.textContent,'pt',{sensitivity:'base'}));
-    buttons.forEach(b=>list.appendChild(b));
-    return buttons;
+    const sorted=buttons.slice().sort((a,b)=>(a.dataset.med4||a.textContent).localeCompare(b.dataset.med4||b.textContent,'pt',{sensitivity:'base'}));
+    const changed=buttons.some((b,i)=>b!==sorted[i]);
+    if(changed)sorted.forEach(b=>list.appendChild(b));
+    return sorted;
   }
 
   function captureDetail(name,original){
