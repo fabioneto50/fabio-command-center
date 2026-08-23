@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-23T05:49:49.777898Z",
+  "updatedAt": "2026-08-23T07:52:17.333989Z",
   "health": [
+    {
+      "title": "Enfermeiros do hospital Amadora-Sintra entregam declaração de escusa de responsabilidade - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1ZiWGVaTnFISVhfai1mRDdUWUl4enJiWGpLZEtrTGtCYVNsOHI0ZjkyX1F2YVNJV0U5QzVndkZvb0hEdnhZRmI2cjVzRk5IbVU4U1dGZ3hTa3RaMW9KUF8yTGFpN2M5UE9vWklfeFVfNk1XNWN4LXM1eFdmZUVZT0pZbFRqMXNQWDVmVWZzNUoxdDlqR3FWT1lfTUM3enBQTFJMbWxxRUhoVHFiX2RtS2tJOVV3Qnk2TkU1a0dkeWdTN0VpMlVyRDNB?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-21T20:47:26Z",
+      "description": "Dezenas de enfermeiros entregaram à administração do hospital uma declaração de escusa de responsabilidades. Alegam falta de condições para prestar cuidados de saúde e adequados aos utentes em urgência. O hospital sublinha que está em curso o reforço dos recursos, com a contratação de mais 13 enfermeiros entre os meses de agosto e setembro.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/48/4822f7c7ec60b92f465ebf42020c4510?w=860&q=90&rect=0,17,2364,1296&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/enfermeiros-do-hospital-amadora-sintra-entregam-declaracao-de-escusa-de-responsabilidade_n1760819"
+    },
     {
       "title": "Médicos reformados a trabalhar no SNS batem recorde e mais de metade são médicos de família - Público",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeUZ5SkRYaDJSNlVXQTVlZzEyUm12ajAwSWFvLUJ3c3l1Yi15dTJVM195cS1YOW8tZEk5a3V3MTZGdUtYOVhvSlhNVFIteV9jbHM5d2xDelRDZnBjbDJpajlrbFlzQlY4QTdUY3I3dVdsRVVIWnlseDhhNEZWazJDWlZ3Y1pSS1FpVy01a0t3bElKcmtvRnUtWXo1S0dTaXE3OVowSGdoU25POUVUTl9vZzFUMlRGejBYVm5aY2FLUnB6MjFEUUt3dldMTElPUQ?oc=5",
@@ -9,15 +18,6 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/08/22/sociedade/noticia/medicos-reformados-trabalhar-sns-batem-recorde-metade-sao-medicos-familia-2185324"
-    },
-    {
-      "title": "Projecto Oeste Azul – A cidade que pode aprender a produzir saúde - Jornal das Caldas",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0U2aDFfTlRfcFFKZzdLR0dQa2pCUy1zZTJTZ0FneWF5Y2Z4aGpoek90QVZfaWhtNWxBZzhlTVZFdWlwclZTZ1k5anZsX2FlSzI0emFoVXZZMW9lV2c2XzIzTXoyRkVNUFpmc1JWSUEzUHJ0STFraHhkWVZEUzlwb1VQMEI3cFNleHRYYThkZENkMTJ0ZUpJLUtvOTBaNVc5X0NEVw?oc=5",
-      "source": "Jornal das Caldas",
-      "publishedAt": "2026-08-22T22:08:02Z",
-      "description": "A FRUTOS celebra aquilo que a terra produz. A ambição das Caldas deve ser maior: compreender aquilo que o território produz em nós.",
-      "image": "https://jornaldascaldas.pt/wp-content/uploads/2026/03/Jose-Filipe-Soares.png",
-      "articleUrl": "https://jornaldascaldas.pt/2026/08/22/projecto-oeste-azul-a-cidade-que-pode-aprender-a-produzir-saude/"
     },
     {
       "title": "Cerimónia de assinatura de contratos com médicos especialistas em Medicina Geral e Familiar com a USI da Terceira - Portal do Governo dos Açores",
@@ -29,6 +29,24 @@
       "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/-/cerim%C3%B3nia-de-assinatura-de-contratos-com-m%C3%A9dicos-especialistas-em-medicina-geral-e-familiar-com-a-usi-da-terceira-1"
     },
     {
+      "title": "Projecto Oeste Azul – A cidade que pode aprender a produzir saúde - Jornal das Caldas",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0U2aDFfTlRfcFFKZzdLR0dQa2pCUy1zZTJTZ0FneWF5Y2Z4aGpoek90QVZfaWhtNWxBZzhlTVZFdWlwclZTZ1k5anZsX2FlSzI0emFoVXZZMW9lV2c2XzIzTXoyRkVNUFpmc1JWSUEzUHJ0STFraHhkWVZEUzlwb1VQMEI3cFNleHRYYThkZENkMTJ0ZUpJLUtvOTBaNVc5X0NEVw?oc=5",
+      "source": "Jornal das Caldas",
+      "publishedAt": "2026-08-22T22:08:02Z",
+      "description": "A FRUTOS celebra aquilo que a terra produz. A ambição das Caldas deve ser maior: compreender aquilo que o território produz em nós.",
+      "image": "https://jornaldascaldas.pt/wp-content/uploads/2026/03/Jose-Filipe-Soares.png",
+      "articleUrl": "https://jornaldascaldas.pt/2026/08/22/projecto-oeste-azul-a-cidade-que-pode-aprender-a-produzir-saude/"
+    },
+    {
+      "title": "119 mil euros em sistema que reforça segurança de dispositivos médicos na Lezíria - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQblJfRVBBUWJIT2hxTUt2RWJubVdNYUpwVFlRVUplWC1NYkJQR2JIMzA5UnVEaEVxZlJjbjJxQ2ZVTVNqeG1GZ0xVOGxBcks0QmZBTTIwQzgzSk5pWVc3RElqdTVqbW9ORUhxUXg5THZPV0NYc3pFejBNQjhMRnBMYjhaZVhuLTRaRzBhbloyVVZ3MDNHWE9WTWxvejZ3Nzl6MFc1QVFWYjNqQmM1eGZ6Z0NBRzdjV3RzZkNOcjlNWER4S2puNEpsS0dHMnBvUE5qLUVrSEdnVEJRSjRiejY0emdpemR1WFdrTzY2Y0cwX2pUN0VUandN?oc=5",
+      "source": "O Mirante",
+      "publishedAt": "2026-08-23T06:00:00Z",
+      "description": "Nova plataforma permite acompanhar todo o circuito dos materiais utilizados nos cuidados de saúde, melhorar o controlo e acelerar a resposta aos serviços clínicos. Investimento foi financiado pelo Alentejo 2030.",
+      "image": "https://images.impresa.pt/mirante/2026-05-13-medicina.jpg-6e4d34d9",
+      "articleUrl": "https://omirante.pt/divulgacao-cientifica/04_domingo/destaques/2026-08-23-119-mil-euros-em-sistema-que-reforca-seguranca-de-dispositivos-medicos-na-leziria-efa1eab7"
+    },
+    {
       "title": "Medicina volta a ganhar espaço nas notas mais altas, mas ainda é destronada pela Engenharia Aeroespacial - Jornal de Notícias",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSERxZHRhYS1lZS1rU003S0RSSW80WDkzNmd6aVBaTXZTbXdManVraGpHV3NxU1FCM3B0a3lPSUp1UVdpT0t2bFlZNVBuUDNQN2ZMRXZUZHUtOFgyYU5oZW92emtLS3NweTh1c0hnaWlLNjlLM2VMYURYNzhqazhzVE9ub05BZjEwYmVFRmc4VWN4dTBBVmc3b1dwdWplY3N2MDdfTlBJbEM5d0U5dm83UDZvdFN6NDJyMGFGZExjY0twcmFOOFpOQ3lFZjdxT0Zxc05Nc3JjUE9QaDB1SUtj?oc=5",
       "source": "Jornal de Notícias",
@@ -38,15 +56,6 @@
       "articleUrl": "https://www.jn.pt/nacional/artigo/medicina-volta-a-ganhar-espaco-nas-notas-mais-altas-mas-ainda-e-destronada-pela-engenharia-aeroespacial/18118852"
     },
     {
-      "title": "'Tens a doença das mulheres preguiçosas', disse uma médica - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzJoYjM2SnNTNUMySlM0bjBOVGxCMGp5TUZyU09ORjg0S2wxT2swUkJycmhpUkJJTTExR243WUJuVm5zb1BWZFhoR242MUxxS2hVd2xaTDFGT0s4eFZCcUZOa0J5MTNXOXh2M1lRdVF1Ti1waVRSWEFJVm53YlNfV3FYc095bjZMaVdBdm5QSXVOWmQwSjZPN3Q4U0RxTFlnQVNVbC03OGEzbTVaWjRiYkRNbVBZUQ?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-22T12:32:36Z",
-      "description": "Ricardo Fonseca tem fibromialgia e espondilite anquilosante. São dores constantes – “às vezes nem consigo estar deitado” –, cansaço, muitos medicamentos e medo de, um dia, ter de deixar a enfermagem.",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14122405/cronico-ep4-credit-mariana-alvarez-cortes-1-scaled.jpg",
-      "articleUrl": "https://observador.pt/programas/atualidade/fibromialgia-tens-a-doenca-das-mulheres-preguicosas-disse-me-uma-medica/"
-    },
-    {
       "title": "Militar da GNR encontrado morto em Oliveira do Hospital - Correio da Manhã",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjdFRG5aR1pfNm8zZk9JREkxcmtSNlZSTGhVQi1wSjh5eFpHblBZTjdodDFIc1BBS21MRTRuQmpNMnJZb0tHaERpYmExTjBZRnFvdDRMTFBDdXdiazhhQW9DTXRHVndIeTF5NzkxanQ2aDZOVlpUMXo3QlM0cVYzRERMeXlGSW8xVGNVYnE3TEtGNmc0RjEzQnlsbm_SAZcBQVVfeXFMTks1NWdtb0xoRDM5VzRKSkstWWpmLVd5Znc0UWtuTVp0MUpEam9ibG1aSk5ySldlejAzMzdiNEVZMG5aZC1DZFowVHJHQkIwdGJsaEtkQzlTcTkxWWxaaXV2M3pCZVpkS0VJWll4ZUdnaGZmSlp4c3dDOVQwdWZCYTI5bmIzRVZGMXBiUUhyR1lva1h2REVtZw?oc=5",
       "source": "Correio da Manhã",
@@ -54,6 +63,15 @@
       "description": "Jovem de 24 anos prestava serviço no posto de Pampilhosa da Serra.",
       "image": "https://cdn.cmjornal.pt/images/2022-03/img_1280x721uu2022-03-17-19-26-26-1131830-im-639226561070119233.jpg",
       "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/militar-da-gnr-encontrado-morto-em-oliveira-do-hospital"
+    },
+    {
+      "title": "'Tens a doença das mulheres preguiçosas', disse uma médica - Observador",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzJoYjM2SnNTNUMySlM0bjBOVGxCMGp5TUZyU09ORjg0S2wxT2swUkJycmhpUkJJTTExR243WUJuVm5zb1BWZFhoR242MUxxS2hVd2xaTDFGT0s4eFZCcUZOa0J5MTNXOXh2M1lRdVF1Ti1waVRSWEFJVm53YlNfV3FYc095bjZMaVdBdm5QSXVOWmQwSjZPN3Q4U0RxTFlnQVNVbC03OGEzbTVaWjRiYkRNbVBZUQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-22T12:32:36Z",
+      "description": "Ricardo Fonseca tem fibromialgia e espondilite anquilosante. São dores constantes – “às vezes nem consigo estar deitado” –, cansaço, muitos medicamentos e medo de, um dia, ter de deixar a enfermagem.",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14122405/cronico-ep4-credit-mariana-alvarez-cortes-1-scaled.jpg",
+      "articleUrl": "https://observador.pt/programas/atualidade/fibromialgia-tens-a-doenca-das-mulheres-preguicosas-disse-me-uma-medica/"
     },
     {
       "title": "Alentejo: \"A minha lancheira” projeto promovido por equipas de saúde escolar reconhecido pela DGS - O Atual",
@@ -74,50 +92,23 @@
       "articleUrl": "https://sapo.pt/artigo/utad-preenche-as-40-vagas-de-medicina-com-nota-de-entrada-de-18-18-valores-6a89ae52e58eb3a3e68227fa"
     },
     {
-      "title": "Vários casos da Doença de Newcastle identificados em 6 ilhas açorianas - RTP Açores",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR09YVW5rMVA4ai1GblhHSEdnVjhzTXVVelFuUDEwSm9UdEVXUWRSeFVyTktkc1hsMWlRMHhHYVNITWJKaVNROFBCQ21oZWsycFdBTzJIZkVZcjNXTnFTend0eHFRbHJBeGVzb0xiSmFaUE9YbzlYanN5XzRhU3JZQUg2Rl9PaGFFZEs1SHJyNGI2ZzF0anlQeHc2S1ZaVFZ6?oc=5",
-      "source": "RTP Açores",
-      "publishedAt": "2026-08-21T15:05:00Z",
-      "description": "...a doença viral nestas espécies.",
-      "image": "https://acores.rtp.pt/wp-content/uploads/2026/08/antonio-ventura-1.png",
-      "articleUrl": "https://acores.rtp.pt/radio/varios-casos-da-doenca-de-newcastle-identificados-em-6-ilhas-acorianas/"
-    },
-    {
-      "title": "Galeria de Hospital Provincial Bamyan / Arcop (Pvt) Ltd. - 22 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRkhDbTRuWi1NSy1VcFplZTVhNTVwejM2c1VGUURnNlhKU2pKdDljbWRoUEF4LUdJMktxcWd3bzQzLThTbndsaWdVdmhGRkQyb085UnF1aUgwQ0JwUUs3a19Id0hwUHIydDhJVVNFRHV2TnpwMm1EeVp1dHotN0Y4cG9RakxsMVpxQTRWNTlyeXNQdmMwaXY3TXlqWHljS3RncGdlUXg5Ynh4SVZtc2V3SF9WQUlnRWtZeGF5Tno4NDZnbGhRS3BuTFVNYzhSVjRtdDhBZEdfXzJvcTRBTnVvYjV6TFBHNFBRaWVWSERSU0J4OUc0TWZ5RUpydGU?oc=5",
-      "source": "ArchDaily",
-      "publishedAt": "2026-08-22T23:39:00Z",
-      "description": "Imagem 22 de 26 da galeria de Hospital Provincial Bamyan / Arcop (Pvt) Ltd.. Cortesia de Arcop",
-      "image": "https://images.adsttc.com/media/images/5b3d/7619/f197/cca0/a700/0079/large_jpg/BA-10.jpg?1530754575",
-      "articleUrl": "https://www.archdaily.com/pt/899163/hospital-provincial-bamyan-arcop-pvt-ltd/5b3d7619f197cca0a7000079-bamyan-provincial-hospital-arcop-pvt-ltd-image?is_allowed_bot=true"
-    },
-    {
-      "title": "Esteve oito dias (a fazer jejum e) à espera de cirurgia no Hospital Amadora-Sintra - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1VmSE5FNmxFaS0wUG1LbS1MSm9SS0pZT2s0cjh3MzFtbHlfU2lKdXBOSXNXcHc0d3lzQjBVS1BzU1c5ZHBWZzhQZGU1TU4ybW9JU3E3V1pKMEN2MWJqRy1EYzRyaEZpNjRjaTdsaWlnUGV0OFg3eW1RZk5hb0dsQjNLRVRsMDNfMXFIS1M2OUR2N01LUVBqUXpRR0ZXQk8yQjhHRXdQZG0wSjhENmc1dGpxWlFFNWpMbVhEN2R0bktIV3VFYzFzcC1STmFzMmtKdnc?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-21T12:53:13Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Castro Verde: Médicos tarefeiros. Município exige solução urgente ao Ministério da Saúde. - Lidador Noticias",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1BHZUVJSDBmMnI1MDJxOWJqY1ptX1h0U3pqcmI5T2xxb19BQ3JxX3F0VTVTUTBKaFlHenRCQWlxOXhhMGdUbnQ2NHNTT2dpX0xxM1BrM3VPTXN1ZHZTdXhhU21ldmVwUEdRckNmc3pIVmVLWTJ3WVBsNDNQaHVtTUZoM3d3NXo2akttTkQ0cUwwM1FCdEJrcnU5RVRLd094TnVZX0hVYVdhVkUxNDhlaGhicS0?oc=5",
+      "source": "Lidador Noticias",
+      "publishedAt": "2026-08-23T00:28:00Z",
+      "description": "Notícia publicada por Lidador Noticias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "\"Um bom resultado não se nota\": Sofia Sousa fala sobre a evolução da Medicina Estética - SELFIE",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOTFhclF1Vks4a1lxenUtYVFVZkl4WnNVSXBvWkhCTWxoRjdXOEd0WXlSQy1DTThtbWZQdGhwa0E4Yk9wZzhsQk1rSkJwRzBnclRLcEs3dzFZZGViU0tFcXRSUmw0Z2V3a2FIbVc4N2dnRlAtWldoUFdoUkk1dmw1VVozUG40T2hWRnNqSnpJQmstLVdLWEFqRlhkVi16dWs0WHBmTy1BWU5GTVJreWJiYmsyaVpYQkc5Ui1ITVVaZVcwVTJ2WUpKeDBVSndsU2REVmliMGFCTG14SUVIY19ITi11WF9ubndmb2ZkOXV1Nm8wWDZO?oc=5",
-      "source": "SELFIE",
-      "publishedAt": "2026-08-22T19:00:00Z",
-      "description": "Notícia publicada por SELFIE. Abra o artigo para consultar os detalhes completos.",
+      "title": "CADELA VISITA DONO INTERNADO NO HOSPITAL DE SÃO JOÃO - 24Horas.pt",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdE5CcS16UHREM0hEQVNkWmZMT2xCejFIb2k3LS1CNmxka2tUTTVXazdmaFRnb1hzTXNKTnNteHlqWExKazNjVGNvSFdidTZsTFZXVWFIdHFDYTk5bWZXaWZsRDZwb3VBUmltVDNQNUtrT0Fvb2k2WUstSlVkNEVsV0RmVV9EUQ?oc=5",
+      "source": "24Horas.pt",
+      "publishedAt": "2026-08-23T07:30:00Z",
+      "description": "Notícia publicada por 24Horas.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
-    {
-      "title": "Irão ameaça considerar inimigos países que apoiem \"guerra económica\" dos Estados Unidos - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSFNRZVF6VnFzbEVkM2ZkSDc0SnFDdVI2MWVMTUhHNXZkUzdJWmM2eWYxaWtQS0dnblZvWkpjMWg0a2JZWWFrdnpZMUNhTXprc3lVRE1SdUEzZzN5Q1plNkVIdU1Pa3drbEgtOGtvUlZsanJfRGR5VVJZQjlnWUo2NURPTVQ3MVh4SzdLWElpSHk4ZElyXzhUSElWdnJkS2xrOGc5WFFsaEQwNFVKNEt0MHFYZW1fbHZmcm9zY0dHRF8zZWUycUh2SVVrV0NrLUpOTEJPN3FGRkoxY2RHRDNNSWV6NC1Fem5TNFE?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-22T22:01:40Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-22-irao-ameaca-considerar-inimigos-paises-que-apoiem-guerra-economica-dos-estados-unidos-be73f167"
-    },
     {
       "title": "Como um enviado de Trump usa vodka e piadas brejeiras para conduzir a diplomacia dos Estados Unidos - Expresso",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMjdQb1IwcWtDYWZCQmJiMlI0OTNzYWRqblpxV3VkWUZBWWJhVHN2Z2oxQ294UHVtV0taWnU1MXQyRUtBMFpyTVZHbjZyVjFQYXBkZzZSX2xGWWpHRHYzajE1SmtSZVkxbWpaMGMzQnBhVVl0MDhfZlY5cHVRV3JhZHo0bkRDOHhwb1F5V3ZRaVBwcG9aeTE5MEl3bUlWWTdfYWgzZm9JU2FKTFVwRWFDLTNSbTRrUGFabEZJVDIwWUVoTFRnVTdUWFY3UXFNZldJaUgtYkl2UnhMQ2lfUHdkcXZ1UHpJVnlk?oc=5",
@@ -146,6 +137,15 @@
       "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/nao-ha-patriots-ha-starlink-a-nova-ideia-da-ucrania-para-sobreviver-a-grande-ameaca-da-russia-passa-por-musk/20260821/6a881956d34e511da0b346b2"
     },
     {
+      "title": "Irão: Países que apoiem \"guerra económica\" dos EUA serão \"inimigos\" - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFiUUpsWk0yMjllMVptRy1vNFR2NVdZWGNNcDhNcnYyS01yMmVCTE1KeXVUeUtaQUl4WThITks0Wl9SVzBlbmtaRzV4NS1RdXhBeHZRekJRYWtzZ24zcnNVM0JQX1B4UWJ5LUhxS01VXzdRUlc4aFRYQXlzS2FLVVpQc2s1SWRoSS1HczJwSklqdmxJenc4eG5rQXc5TW51c1pVU3lWY1VfV042cEE?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-08-22T20:45:44Z",
+      "description": "\"Declaramos a todos os países à nossa volta e a todos os países do mundo: não se juntem à guerra económica liderada pelos Estados Unidos\", afirmou o secretário...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_6a78df280b82f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwMTYsImNyb3BIZWlnaHQiOjE4MDYsImNyb3BYIjo4NzQsImNyb3BZIjowfX0=",
+      "articleUrl": "https://www.noticiasaominuto.com/mundo/3040123/irao-paises-que-apoiem-guerra-economica-dos-eua-serao-inimigos"
+    },
+    {
       "title": "Por que a China está em posição de força diante da pressão dos EUA sobre o Irã - RFI",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzhXcUE0NFNkbi1Dc2ViOU5JRlo2NXNyVTl5YVRsenpYamYwQlM5MlBQT2VWejMtZUpIMTltVDZXUFAwaUVTOWtHQmphYlBQREdaVm8tSUtZM1psYk1oMTNVUGtlZ19JWk9PanBFVExCbnNZN1E2Y3FjYzVfejRfam5kWEx1Vl9oVEQ3V1BxU0tmdkdDanZkVmhscU5rVF9qa1NDUlZ5Tlhwc3BnMW11Uk1FYmRDLWw2QkZjSnBhUTJRN0FtLTlpQ3dwZlNkVW1xcjM1a01hSENsekJIbWc?oc=5",
       "source": "RFI",
@@ -155,13 +155,22 @@
       "articleUrl": "https://www.rfi.fr/br/mundo/20260822-por-que-a-china-est%C3%A1-em-posi%C3%A7%C3%A3o-de-for%C3%A7a-diante-da-press%C3%A3o-dos-eua-sobre-o-ir%C3%A3"
     },
     {
+      "title": "Irão ameaça considerar inimigos países que apoiem \"guerra económica\" dos Estados Unidos - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNZ0Y2UlVyc3lWZW1BdFNqeFpLVEJwblJ6SzZwVkgwOFNpYVIxanVodXh0aWFXZllyMFhXdUtNNm83TkdUajNfUHRMTmN5UHZINmpFYlVpVGJVZG9oM1A3b3RWb3JJSWJzODk5b1BRV3VrcXdJRk1NUmVoMDdxNEFVdWo1b0l4UjRxcmxGMndxOUtNdXZwQTBieHJUMkJra1JXaDFTNEFCQk9teS01Mll3eWVQazVWNUJLdE1KWXR4TEk0V09ibGVDNmJjejQtNUVzcFJLWmZMWUxjcW1VV0dWVjlJeE9fcGFtWURwYS04LWthOFJ3UkJmTHF6bGJFWFlxakh6a1o5LXljRXhHWWd0aXBsbDE0cTZoMW9KWlFFZWZ0TTAyRXAwU09VOWlreWZqdXBqakVKTlJnQnF6R2N2THU0UURGSDNJS3YzU0EzREs5c1k2bkxwWVp3V1B0SkJXcFRwN2U2RHFsLVlaYndTdGdYYXBQOFc4NV9TOUVHSGd1SzM2WGNYRXpyb3N5TE5IU2xPN2g2cDBCekd2UmFfcHItc2ctYXRkQnRuZDVsUTI5SXU0bVUxQUpwd0ZSSjA1c3YzTnRsdXFuY1dmZlAxZmZEcVdOMTl1QmhzRnB4VlhQUEF4VHNZdF80ZldLTW9XOG1OVWZUQ09KRS1MQ1lOd21KWnk1cTZ2?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-22T22:01:40Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-22-irao-ameaca-considerar-inimigos-paises-que-apoiem-guerra-economica-dos-estados-unidos-be73f167?utm_source=sic&utm_medium=root&utm_campaign=WEB&utm_content=https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-22-irao-ameaca-considerar-inimigos-paises-que-apoiem-guerra-economica-dos-estados-unidos-be73f167"
+    },
+    {
       "title": "Suspeito de atentado ao gasoduto Nord Stream detido na Croácia enquanto ajudaria em filme - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdWU5aVFVUFNWZHY0czc4TE9OOER5QS0zZmVTWFZHc2hYYVB5YXpycnlwbUVNX1A2Q21ETm8xQ0NhMS1FcGRvWFRYeU1HNzh0cjhJOEF3c01pV2ZEa2lKTmp3QVBlb053SDF1bTJPSDU5SGFndFJJV0oxYnN3UXJ2RE5xMGtvWE4yY04yWTdGWUk5Y3REaUZLMTlRVDBxVzkwWWNQRGZVaE5LNHdIWVR5QjFuSnhxMHlTTEhQeG1YQ2t6Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNam8zeUl5ckJ5dFpYRHVvaWpGcmdwS1oxTjZYdUVjNnlkdDhhWUdNalBkQVJRQUtPRm9PN3VuZHRoY0haRjhFVkkwcl9rWVYzMi1BcU5DeG1xMzVjQlpHNTVmS1JmYkk0UEpzYkVGUzRfWmhDOGVHRU5rX0JXVDh5dDBzN3dZZG5LYUs4Sm02Tm9CTDlLb2Z3OUxFM0h6NXRmSzFSQzdxaUJZcGdsb3FzTFFiTjJzVkpSaHpnOGUxMWJObUZXQ2xpU3c2aHdYc1lUeS1na0xpQVFxLTB1?oc=5",
       "source": "Público",
-      "publishedAt": "2026-08-21T12:00:00Z",
+      "publishedAt": "2026-08-21T11:59:09Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697"
+      "articleUrl": "https://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697?ref=hp&cx=ultimas_1"
     },
     {
       "title": "Presidente iraniano reclama vitória e diz que chegou o momento de terminar a guerra com os EUA - Expresso",
@@ -195,16 +204,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU2dEb3RSazJQVklnbnZVYy1Va3B6VXg1NmZpdUJrdjFHdVJCTVhVbUFHQWZUcGd1aDZMZHh6cjRiMFQxSWNmN3hPaWV6S21oQ0RDdGNFbkxIajF1S05MbmNMRnRiUnlRSGd3c3pDOFBvWHdsR0lYWjRleW1uRElHWEQxb1E2SXltVjhmVjlDejNneDJyYVFBUmRGcW9fYkdlTnJheTk4MkswLWg0T1ByOUM2eS1rLTJoN3N1bldjbGdRaUJuRWFXUm52ZGtRTm9uSUNIZUs2LXNBenl1WV9xRkNmOHhvR0Z5RXpwd01ieTdLSlE?oc=5",
       "source": "Plataforma Media",
       "publishedAt": "2026-08-21T13:31:28Z",
-      "description": "O Presidente iraniano defendeu o fim da guerra com os EUA, enquanto as negociações continuam suspensas. Teerão mantém parcialmente ...",
-      "image": "https://cdn.plataformamedia.com/2026/06/AFP__20260618__B7GL7HZ__v3__MidRes__TopshotIranUsWar-1.webp",
-      "articleUrl": "https://www.plataformamedia.com/2026/08/21/irao-diz-estar-numa-posicao-de-forca-para-acabar-com-a-guerra-sancoes-e-estreito-de-ormuz-continuam-a-bloquear-acordo/"
-    },
-    {
-      "title": "Os Estados Unidos perdem o Oriente Médio, o fim da velha ordem mundial!? - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWRtbXlhUTlGdUZ0VVU4dHhsSHMteGJ6R1A4Z0xlLTJzUGR2QlhIQnJiWEdMLVF2a2Q1WkVBSXVnblYzNGVUY0VieVNSenhzcmNhS0FUeHo2aVhrb3ZPRk5JMkNSX1BjUkItUkxQRElOc1F5WUZ0VEt2M3F6Mmk4YnpQYThFQQ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-22T12:30:07Z",
-      "description": "Notícia publicada por Vietnam.vn. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Plataforma Media. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
