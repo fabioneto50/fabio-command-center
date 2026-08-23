@@ -1,5 +1,5 @@
 (()=>{
-  const V='923-v7.4.2';
+  const V='923-v7.4.3';
   const load=src=>new Promise((ok,no)=>{const s=document.createElement('script');s.src=`${src}?v=${V}`;s.onload=ok;s.onerror=no;document.head.appendChild(s)});
   load('medication-info-ux-v5-base.js')
     .then(()=>load('medication-catalog-v6.js'))
