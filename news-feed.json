@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-24T11:03:18.175747Z",
+  "updatedAt": "2026-08-24T12:03:59.770939Z",
   "health": [
-    {
-      "title": "Saúde do rei Haroldo da Noruega agrava-se, informa palácio - Público",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemloQXZqb1ZGUm5zUG5jemZVSUdrMDR6Zi10a0lsWHg4SjFzeEVOelhNdWtleWRaamVNRHYyendjWDVxckdPZDllQW4ya0VPbzAwSnFlSk5RVXRDYXZxRFRzOTliTG1CUms1cFV2eFM0MzEyY0Uza08ybWxBZzVqVUxFYUtibVNneDhzdVNfUjBsRExvNFUyX2Y4UnJ0dnNhNXBkdk8tNDhBQQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-24T08:52:14Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/24/impar/noticia/saude-rei-haroldo-noruega-agravase-informa-palacio-2185891"
-    },
     {
       "title": "Ilha Terceira aproxima-se dos 96% de taxa de cobertura de médico de família com a contratação de duas novas médicas - Portal do Governo dos Açores",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcGFHdE93alM4ZFFwMzR4RENPcEVOd1p5TnBOV2tSTjVJOTlLREdvajVlRkdUVkY3VUgzMDQxUnJWX0s3UEtFbU1uWnJYVEoyMzEzaWhrdG55dTVaakxHS3FhVE9YcU90bk9jbVFONlN4aVlqQ3FJ?oc=5",
@@ -18,6 +9,33 @@
       "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23598572"
+    },
+    {
+      "title": "Noruega: saúde do rei Harald deteriorou-se no fim de semana - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0w0VTBiMWN4U0N2WkdvNDd2U0hmYmtBclFhc3kzSUhBNVk2M0RpVS1VTEZMSDIzSEZ6blZRUG85RGtNTW1fS1E1Qm9wbWxaZkV1V1RkdFl3bU5ES1RXQm5ETFBadXFpWW5NbHFxellnWldhQW91UnlEZGZXX00wZlBBdnI4aW41WjZ6SF9FMmtoZ21POGJpcHVqcUpxU0VHSlFKQjZR?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-08-24T11:13:38Z",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://pt.euronews.com/my-europe/2026/08/24/noruega-saude-do-rei-harald-deteriorou-se-no-fim-de-semana"
+    },
+    {
+      "title": "328 alunos da 'Francisco Franco' colocados na 1.ª opção e 48 'entraram' em Medicina - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjB2V3JUSXlfbnllMmo3Y1F5UUlBai1WZWd6bUIyTXVwNnlhTVQ5WGl4dnBSSE1qck1sdldDYjVNbF9weXRkNUlTQkVQV3ZleUJvRlF1ZEw3aGFqVWVOVWVudUhmODRiMVE5U3pnTUtadzJxbVZwMVRTRGZ1Qk5tUlRxc1EyYUFXTUdiY0cwYks1RDFNZ0JYTU1nMFpISzJjUUNvWGlUaVdqSmFfQUdRLUZwb2NZa295R1N0ckVn?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-08-24T11:02:00Z",
+      "description": "328 alunos da Escola Secundária de Francisco Franco ficaram colocados no curso e na instituição que definiram como primeira prioridade, no âmbito do concurso nacional de acesso 2026, de acordo com a estatística de candidatos e de colocados acabada de divulgar, informou o estabelecimento de ensino, esta segunda~feira, através de comunicado enviado à imprensa.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoRUI_7472.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/8/24/503278-328-alunos-da-francisco-franco-colocados-na-1a-opcao-e-48-entraram-em-medicina/"
+    },
+    {
+      "title": "Gustavo Carona: “Enquanto médico e com uma doença crónica, sou a favor da eutanásia” - Público",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFJNOTFZMUFLTlozbTFudU1jNW1Pc056WlJlc0c0emNLV3NoX0drMVhUeWpfRlBleDNjenkwZjlRTFRKaWJ5RXNNMk4zVkY5TmNnVmpPNGMzQnM2eElLTzM1UnpqbjdmZkxlckNXUmpCMmQ5X05ScGhPUmRUQXBaWlkyV2N3UXNvX2FWZEQ4NVJYM0dabm1fUDlTRWQ0NEc3U1ZrQS04d3oyTnlQMFdpbw?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-23T22:14:23Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/08/23/impar/entrevista/gustavo-carona-medico-doenca-cronica-favor-eutanasia-2185804"
     },
     {
       "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
@@ -38,6 +56,24 @@
       "articleUrl": "https://expresso.pt/sociedade/saude/2026-08-24-amadora-sintra-tem-19-doentes-a-aguardar-cirurgia-de-ortopedia-fd076184"
     },
     {
+      "title": "Infiltrações obrigam a encerrar Centro de Saúde de Vila Praia de Âncora em Caminha - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTRNOExweEp3WmtoYW94cHlqYkRFZjRweGNVRjV4TUVSR2MyeFlucXBoTnlJV1VxbnZ2OEFhQnp3WTdiaGtlYWFsTHhPZzNJMDBwUU0wUXpqMTVZOW9GUWsxcGtVbXlqbDEtZHpXNmJWS09sNUJBZ3hTVWFtZmRyOEl0NHlLNjVzeVplQ3Z5MC13UUxjbmszWVFFNkxmYk96VmpPSGEydDV0QzNhaTFYMURWSVl1N3g5YTUzN9IBvAFBVV95cUxPLTRNOExweEp3WmtoYW94cHlqYkRFZjRweGNVRjV4TUVSR2MyeFlucXBoTnlJV1VxbnZ2OEFhQnp3WTdiaGtlYWFsTHhPZzNJMDBwUU0wUXpqMTVZOW9GUWsxcGtVbXlqbDEtZHpXNmJWS09sNUJBZ3hTVWFtZmRyOEl0NHlLNjVzeVplQ3Z5MC13UUxjbmszWVFFNkxmYk96VmpPSGEydDV0QzNhaTFYMURWSVl1N3g5YTUzNw?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-24T10:00:00Z",
+      "description": "Segundo a presidente da Câmara de Caminha, o centro de saúde permanecerá encerrado 'até sexta-feira', até que sejam garantidas as condições de funcionamento.",
+      "image": "https://cdn.cmjornal.pt/images/2018-02/img_1280x721uu2018-02-25-11-41-00-713034.jpg",
+      "articleUrl": "https://www.cmjornal.pt/sociedade/amp/infiltracoes-obrigam-a-encerrar-centro-de-saude-de-vila-praia-de-ancora-em-caminha"
+    },
+    {
+      "title": "Ministro da Saúde de Moçambique troca gabinete pelo bloco operatório para liderar cirurgias em Chimoio - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZXJfeTdMX0N0Yl90Y0pDR21Ld3ZZTy11Q3ljWVgxRHdEMUpfeFF3WVlhRjFyNEwwOF83T25HUEVtbWhxMS0xN0RkTXVjVnd1U0dPbnhKaFlsUkgyMXZaN3NQUGhGdS1sb2R2Z245X3FsUzBHRE1DRkZfY2NZTTg1bkdsczhSOGc4STM3TjA4a2p6N0VjbHc2LWFtemllOWY1ekxBZU80YWpYdjNOekxjN0N0Y28wdEt4dWE1TjNSemt3ZEllajYxMGFPSHZqQ2JVSTEzcXJWN3JCaTVycVFBTE1kSdIB6AFBVV95cUxOb2x5YW9qQi1CT1ZwR0lyZUcxM1B2QXg3TVJrMUtseElBV2E2NnMyTC1CODBSNmlOeWtiMWVZR0pEa3RzM0w1dk01S0IxU3M3VnFxXzE2MEhHcnZBNTZEVzNqQWNBcWJOZTgxV09kQjg2SzhRdFc2WTk3M1FEM08wbFEzUThSOTF0dF9RZjRSeVJyWFJZZmhIaGdmUlpWb1YtTElmVFY4MGZKYXJBS2R5WWtObldDNzN5enBXemJRR1cyN0hrb0d1Zm5oY2NZZk53SDRCbTRBa3VSbjdfMW1YMjd4Nkh1VW9n?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-08-24T08:04:00Z",
+      "description": "Ussene Isse lidera uma equipa de 22 profissionais que vai operar 11 doentes, incluindo cinco casos de maior complexidade.",
+      "image": "https://images.rr.pt/738244414-919306131210508-1242959743651519864-n17617eb6_socialshare.jpeg",
+      "articleUrl": "https://rr.pt/noticia/mundo/2026/08/24/ministro-da-saude-de-mocambique-troca-gabinete-pelo-bloco-operatorio-para-liderar-cirurgias-em-chimoio/482827/"
+    },
+    {
       "title": "Implante promete aplicar o medicamento de forma mais precisa - DW.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWM4Y245b0xLWFNDeGt2SExjTV9SMFg5RWVjSXhtVy1Hc0dCNDNPVGQ0dG5feUJnWTlDZFd0YlFWbUlHUXR2cGFVZVlUSnFEcG1GcTNueXRQT1R2RlRkUGphbGFPMF9nQ0tBSlJLYm5fS0RLaUFXamdNTm5NME83N2dNbzhBa3FwQzAxbWVtNTNiNEJON1RhSzNqVFdPSGhpeHc?oc=5",
       "source": "DW.com",
@@ -47,68 +83,41 @@
       "articleUrl": "https://amp.dw.com/pt-br/implante-promete-aplicar-o-medicamento-de-forma-mais-precisa/video-78443251"
     },
     {
-      "title": "As imagens da chuva e trovada intensa em Oliveira do Hospital - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYy1SNEhZcGVOUWVlaEE1ZHRZRzB6N2ZyaGhlZ1V6MmxJdXBnWDFxTWhDcW15UEZRb2ZZOGUwclpoY0xoRnVnUkJCckpMeHUwenFCU2N3VnhldlVGbEFrTThIZ3kza0t4Vjk4MldEWlBnZm9CX1M3NnVvQ2JaZGtmSDgyMkdndjFFSXZoQTVMMDlyTnB6U2RUbkFkTEEzSnFnT2RLdHBxNlI?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-24T10:26:23Z",
-      "description": "A CMTV teve acesso a imagens que mostram chuva e trovoada em Oliveira do Hospital, no distrito de Coimbra, onde já há estradas inundadas, esta segunda-feira. Para o período da tarde espera-se precipitação intensa.",
-      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x722uu2026-08-24-11-25-22-2304396.jpg",
-      "articleUrl": "https://www.cmjornal.pt/cmtv/videos/detalhe/as-imagens-da-chuva-e-trovada-intensa-em-oliveira-do-hospital"
-    },
-    {
-      "title": "Vacina experimental contra a gripe protege ratos de três estirpes do vírus - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFlPYWN1UWRDNTRuTk1tWkZhU2I0Qzl4TUZiLVBWTm9Db05ZNDd6WWNvLWUwUVU4dDVqZzdGUXA5Ql9saENRQnpyM0VuLVFqZm5LRFJqaFZvQUtYajR1d0ZIR040VUVhZHhqMVMxUk83NTlqR3Jhd2xyQURidFJJTVNJMjNhX19WN0lUY3hzX2ZtYUFlZ1p3QkJpM0NDRUxuZDhnOGhFUGxWT19I?oc=5",
+      "title": "Hospital Lusíadas Amadora distinguido pela responsabilidade social na comunidade - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1ZnTEVIU0NHeE9oUE1wZG9Fb09pZXBZakJ5NnB5QU9IYnhRbXBoRGxMdlVQUFFjS2lZU29ocFdHN2ZmaGN4ZUZJZkZuNWVRNkxQOXYxMTZFRGNZQ2NKcTlzUmJZcXNOYjJDNERxNWdjaEZDYkJmSFVxWXRYejdsNDNBX0lkWnhhdzBUcGVmTG44WmpRaklrM0drMVBnOWZiRHdJMHdiSU56ZWZoSU5fMFFzRFo?oc=5",
       "source": "HealthNews",
-      "publishedAt": "2026-08-24T09:36:16Z",
+      "publishedAt": "2026-08-24T10:11:46Z",
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://healthnews.pt/2026/08/24/vacina-experimental-contra-a-gripe-protege-ratos-de-tres-estirpes-do-virus/"
-    },
-    {
-      "title": "Ministro da Saúde de Moçambique troca gabinete pelo bloco operatório para liderar cirurgias em Chimoio - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2x5YW9qQi1CT1ZwR0lyZUcxM1B2QXg3TVJrMUtseElBV2E2NnMyTC1CODBSNmlOeWtiMWVZR0pEa3RzM0w1dk01S0IxU3M3VnFxXzE2MEhHcnZBNTZEVzNqQWNBcWJOZTgxV09kQjg2SzhRdFc2WTk3M1FEM08wbFEzUThSOTF0dF9RZjRSeVJyWFJZZmhIaGdmUlpWb1YtTElmVFY4MGZKYXJBS2R5WWtObldDNzN5enBXemJRR1cyN0hrb0d1Zm5oY2NZZk53SDRCbTRBa3VSbjdfMW1YMjd4Nkh1VW9n0gHoAUFVX3lxTE5vbHlhb2pCLUJPVnBHSXJlRzEzUHZBeDdNUmsxS2x4SUFXYTY2czJMLUI4MFI2aU55a2IxZVlHSkRrdHMzTDV2TTVLQjFTczdWcXFfMTYwSEdydkE1NkRXM2pBY0FxYk5lODFXT2RCODZLOFF0VzZZOTczUUQzTzBsUTNROFI5MXR0X1FmNFJ5UnJYUllmaEhoZ2ZSWlZvVi1MSWZUVjgwZkphckFLZHlZa05uV0M3M3l6cFd6YlFHVzI3SGtvR3VmbmhjY1lmTndINEJtNEFrdVJuN18xbVgyN3g2SHVVb2c?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-08-24T08:04:00Z",
-      "description": "Ussene Isse lidera uma equipa de 22 profissionais que vai operar 11 doentes, incluindo cinco casos de maior complexidade.",
-      "image": "https://images.rr.pt/738244414-919306131210508-1242959743651519864-n17617eb6_socialshare.jpeg",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/08/24/ministro-da-saude-de-mocambique-troca-gabinete-pelo-bloco-operatorio-para-liderar-cirurgias-em-chimoio/482827/"
-    },
-    {
-      "title": "Humanização em Saúde: A necessidade de uma nova cultura institucional - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeDBoZ3pNSktLckd2Wmx5LVEyLUNGbWtoTUFQLUlpVl8ydjJDeVF4ZV9ZLThvOUgySm90alAxWlhrVTNBbWlqYllVeWhHNGxPQ0ZpR3lQTGlfYXU1RTJaT2hwRmotWjFWOTIyNnBUdU1hVFNxLVBzT01ERG9ET1J2MnV2UlE4ZE00TUNYeDQ2djlDRFdsa2duNGx3WGptWkh0MmdNR3dDNFh2QVhRUnVYWEpiQ29aWkRiYWt0andDbWNZTlFnVHlRSWE5SHdpa0tOTDA1Rkt0OFZxaFdaQVk5cHU1ZkhIWTFTUUNJQ3dOMTc?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-08-24T10:40:51Z",
-      "description": "Humanizar é abraçar o futuro sem perder a alma",
-      "image": "https://img.iol.pt/image/id/695a8d250cf2559133785116/1280.png",
-      "articleUrl": "https://sol.iol.pt/opiniao/noticias/joao-pedroso-de-lima-humanizacao-em-saude-a-necessidade-de-uma-nova-cultura-institucional/20260824/6a8c20170cf2f6a1a1e750c0"
+      "articleUrl": "https://healthnews.pt/2026/08/24/hospital-lusiadas-amadora-distinguido-pela-responsabilidade-social-na-comunidade/"
     },
     {
       "title": "Envelhecimento e custos de saúde atiram orçamento social da Alemanha para níveis recorde - Jornal de Negócios",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMDJxSDl3WVBVaXFzVzcyYjVXM0daN0FLaHBnT0RsZmpSUWRqYV9sY1NSN0Z6UFBDX2oxVkN4Y09XY2xzdTRFMnFFSHVpQ2VJQnJ5ZUVrZ09laUVHTmhUZE43bHVtVl9qQ3c2NkpaMHUwLVlxNmZhbmJwVUR0Nmt0U2VkdVpzZmVibGNuZW56MWlHVTRtbmhBOU1aU1FKRmhubGtRbGs1bXE2VzB5Rnc0R045a1Z4bFZlR0lwTFZmS2JvTjZMSmlsOGZRemI2M1E0cTJHc09TeXJpdVo0VlZfYms1OUd2YkVHMmZlbnA3aDDSAesBQVVfeXFMTUExYlh5bkxNOUg3SnRiNVJ0WFgtSEVkVC1Nb0dzVndOS2NuSGRELWFwRGZreWU2Nl8yb1AxVG5hM09oMTVCX2J1Nk1JZTJUV2JiVDl6QkxiQVRSaU10WjVsWjVnNHpWdVA0RFF3TDVwN0hHSldJQTMzUDdBOVB2bVpnN0JFdVVTWDdsbUFCczRUV2VQWS0zekYwTVE5QkVDNHZ6cGJJQ3BiSFE2TDNVblJodHFOY2x6YVVaR1Y3V0J6QmtZN3R2SnFidVBSc0dESklhVDBLczVROXU5UC1UNkRWYmF6LUU4OHRBTQ?oc=5",
       "source": "Jornal de Negócios",
       "publishedAt": "2026-08-24T10:16:04Z",
-      "description": "Os gastos sociais aumentaram 11,5%, ou 104 mil milhões de euros, entre 2019 e 2025, descontado o efeito da inflação, segundo o instituto Ifo. Os investigadores preveem que o envelhecimento da população aumentará ainda mais a despesa social no futuro.",
-      "image": "https://cdn.jornaldenegocios.pt/images/2026-08/img_1200x676uu2026-08-24-11-12-26-528676.jpg",
-      "articleUrl": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/envelhecimento-e-custos-de-saude-atiram-orcamento-social-da-alemanha-para-niveis-recorde"
-    },
-    {
-      "title": "7.º Congresso de Medicina Tropical com «significado especial» pelos 125 anos do IHMT NOVA - Just News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZMM3dSVU5fWXhCR2RBc3NQZEdmN1dqVG5VVXR2bHlxMGVrTXM4aW1Ra284VTRmTnRMTUU4VVFtSzhuU0diYzdUSDYwTHVycmV2cVZ3WHp6ai1DWDdleGlCQTlaWkJoMGtleW9UdVl3T3NKV0l0bFFJNjVKZXRycE80elZjWE5TTTZGS2lsTXlTOUxzWnRvVk94YmtIaGp2cFlud2xTN2JXX3hwMFRqUG5rTUtCb0hfR244?oc=5",
-      "source": "Just News",
-      "publishedAt": "2026-08-24T07:05:00Z",
-      "description": "Notícia publicada por Just News. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Jornal de Negócios. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Cientistas produzem vacina que protegeu ratos contra três estirpes do vírus da gripe - Lusa",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbWlMaHpqR05jRG1DWm5laFBuSks3RDA1VDIxY0RwT0RSWHlRVm1MaWR5N2tQX2ZGVlp5dXBiSXZXalRfU3RxVktQLTk5Mlh0U3RsZEl2NWxxdjhoaG01NUg4aDg5WFl0THNDUXJtRnZoMElYNXJTenViTHl4UFZWWkdNaUNXU2RRTkQwVzFIYmw0Vm56UUU0d0w5ZmFOcHV4UzQxZGVleDFLTHo3dW91WHNnQnVBa1VuZHFhRHZZSkVpTE1HM2RqRTlWNUFvc1IxY2FaRUJRM04ySmpDQS1HU0JaWnF0Zw?oc=5",
-      "source": "Lusa",
-      "publishedAt": "2026-08-24T09:05:00Z",
-      "description": "Notícia publicada por Lusa. Abra o artigo para consultar os detalhes completos.",
+      "title": "AÇORES: Contratadas duas novas médicas para a Unidade de Saúde da Ilha Terceira - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVpBZlE4U2w1T0ltNnBoVGg4VTMxZm53SDFOa0FPMkZaMU12Y1NwUlBVUjRjMWQxRElhWUtVSVBFcnZhcHNHTnlka21Jcmh0T0lES1NqNTVUWFBwdE5Tb2IzYWtwdTJQUC1hNG56WXBQaEg3OThxRzhaanNCSktady1zSE9UUE85TEZiSEx2UndMSUw2c3pQcWl4bTRvcV8tSFAxX0Z6VmhFOUxrQWFacFpzSV9ydEJW?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-08-24T11:19:09Z",
+      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Aliados da Ucrânia reúnem-se em Kiev à medida que a guerra se intensifica - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjExTnJkbWNqN0JvbjU0aDIzalJaTWtyUnhScVVFdnplYUE3SE1wTHkzZnlEc1FIMEpFLVA3S0VySWFMc0twN0hCWmdVUGlZUW9icFlsMGhWMjZKZlNIaWhNQ2VJQkVrcVpuZ1pid1pNSTY4Y1RLTVhPRmN4ejJ5aWU1bkhEU2tKM2ZBdHpETkMxeW9LUUdpUXpnTW4yVUJhcjBSdlhaakNTY2xRSy1OVkRZWS1XbDh3eWliWHVVMEZsZW8?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-24T11:35:13Z",
+      "description": "Kiev acolhe esta segunda-feira uma reunião dos seus aliados ocidentais para solicitar material de defesa aérea, numa altura em que a escalada dos ataques russos está a fazer o maior número de vítimas…",
+      "image": "https://s.rfi.fr/media/display/71afd38c-9fa5-11f1-af79-005056a90284/w:1280/p:16x9/AP26236363361580.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260824-aliados-da-ucr%C3%A2nia-re%C3%BAnem-se-em-kiev-%C3%A0-medida-que-a-guerra-se-intensifica"
+    },
     {
       "title": "Guerra Fria: o fantasma da corrupção em tempos de celebração da independência da Ucrânia - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVE1MTFRNdWgxb0d2UHdPTXhZcUFqUnZrZERuaXZSdXdUd3JYTGp0MXlTWDN4LURMN1BQM0lMazB2eGtraGdCVUFqcEI1SjFxSHJseC1JWU5CN3phUmtyWF90UUdITmM0TnlWSjBnbHRGT0EyZ0xLVHBDOS1MWXJ3dGNhWkpTRWVWYXpzRjI3Nm1XLVpic2gyU0NtdHk1dkJzUHJmOGI2Y1YzZElkSHhlamlucUE2OXJsTWRTRXBSTHdDeVlaaUY4bExPRlZWeWNLS1FqempEMkdJYnhCZFBOaG53?oc=5",
@@ -137,24 +146,6 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/advertencia-de-teerao-paises-que-apoiem-guerra-economica-dos-eua-serao-considerados-inimigos_n1761074"
     },
     {
-      "title": "António Costa já está em Kiev para encontro da Coligação da Boa Vontade em Kiev. Ucrânia celebra 35.º Dia da Independência - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQckh1NlQ3amdBU3J1SHdtYl9VNWhsMEVxTnBYVkVoZGQtcHNBalIzQVZIYk5VcGdUeUFfc1pFbjFmSXpWNFViUG52eHhubWZsanRMTng5bUp0YkgwVzVXUzJuYlZWWjlXZV81aEM5MXlFX1VDMDJEOE1Md19DRklUMlpaZDFlbDFUWFRCOEZkSUxnZHp2bkViNUg0cTBiMlFhU1AxS2piQXdHMGtKajhIeERMbG1pWU9Qd0FaMEYwVjc4bU9yR29GX0tqazBiMHBrY0pFdTQ5aFU5X0JXdG14Rnh4RHJJVGE0MDV1T3Z0cXlLQW1SOWpDNVFyQWZKYUlKV25weXB6SVR1WlowbWN2YVY4bnlRLV9ORnZhQUZCeGE?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-08-24T07:13:00Z",
-      "description": "Ursula von der Leyen anunciou, também esta segunda-feira, que a União Europeia desbloqueou mais 6,1 mil milhões de euros destinados à defesa da Ucrânia",
-      "image": "https://img.iol.pt/preset/6a8bec43d34e511da0b34cbd/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/antonio-costa-ja-esta-em-kiev-para-encontro-da-coligacao-da-boa-vontade-em-kiev-ucrania-celebra-35-dia-da-independencia/20260824/6a8bedd8d34ed0733ba814f7"
-    },
-    {
-      "title": "Estados-Unidos: justiça federal anula suspensão dos vistos imposta por Trump a 75 países - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjhzb2VncU42YWtNMUdpTlVkQWxIcDFUbVlTNmo4Q0hzbGhNTnR2ZEg5SWthUzFrTXNEUnNYR2NxcGtTTXctMTEyUmFKWE5LNXpTVno1azJoNUVaaXZ0cXhScU9scndkb2V1YzM1SEFOTlJvRFZTWml2RW43dkktX0lNV09icFd3R29qbGJuamh5VUFUbEg2M3ozX1p2N2tQRmhLbmROSHNmMjFCR3FCUWJEV1lNN2RlVlBjbGFUWmFhN01wR3h6ZUhXVXdGWGFVY1FGU19n?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-08-23T15:49:39Z",
-      "description": "A luta contra a imigração ambicionada por Donald Trump foi novamente contestada pela justiça. Esta sexta-feira 21 de Agosto, um tribunal federal declarou ilegal a suspensão dos procedimentos de vistos…",
-      "image": "https://s.rfi.fr/media/display/ecf6dd30-9567-11f1-9b4b-005056bfb2b6/w:1280/p:16x9/AP26219775602681.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260823-estados-unidos-justi%C3%A7a-federal-anula-suspens%C3%A3o-dos-vistos-imposta-por-trump-a-75-pa%C3%ADses"
-    },
-    {
       "title": "Presidente da Ucrânia pede ao parlamento que aprove reformas para desbloquear verbas da União Europeia - Correio da Manhã",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWFZRRzFQb25GNGdZVm5JQ0g0alE2bFlvQV9jb2s5bDd0UU5fckd3aUdPVG9zb0JyOVZONGxfNGs2QkZPazN0M0JySmpzYnVITkdRODlyOW15WlozZ25BcVJEdnhEV0c0T1BqSTVsREJKTTFxTGl4enBYRGtaYVhYbnprTHFNaTl1blY5LVQyejU3MDk3YU92cEdfWTFqS21nOWhwc0ZLbmRXeTV0ZG9HTlRUWkRMSFJoTXdXTS1HdG5uQVFwa1dXM2pKTUJNLVNqMEJmWTkxWE9tQjFlZGpTZURoS0V4Ql9sc2JrVFotQWNvVWNabVlPR3o3ZGZqRjDSAfoBQVVfeXFMTmlLakxtTXhfTFdtSENwWmZaZHBHYm5HQl9JWVl3a1BKRE43MV9jcldqUkJYbURnamItcENiQTlsS2t0TGdmSEp5ZWNjUm9TNzZWMUpMcHNERVhRSUhVYk4xTWJhcnpLRUZET0ZqQUdkSkFqUlQ4OUFuNmdTNjNXUk5QemZJZEJENjhZOGROcVNMQWxVcllqbExubGhrQ1FTZ1ptUzRIWl9rRVdHZmlkbUxkU3lqeXdqeWEwVjdYVk5HVnMzY1ItN2pjR1Q3UkRtS1NxVnhSa1I4aUwybEN5Zk52TlFuUC1lQ0piNjZCSUtQUnBNZEFzY2M5UQ?oc=5",
       "source": "Correio da Manhã",
@@ -173,22 +164,31 @@
       "articleUrl": "https://www.publico.pt/2026/08/22/mundo/noticia/guerra-canada-retalia-tarifas-trump-2185817"
     },
     {
-      "title": "Médio Oriente: Estreito de Ormuz pode ser totalmente fechado na resposta às sanções económicas dos EUA – Teerão não quer uma \"guerra eterna\" mas não cede à pressão - Novo Jornal",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWUhTZi1EMDJxLUZMckVaQWd5NmVYZGU1NGREN3pHbVhyUWxEMHFOalktejlDWHRzYWlWQ3Nrdkg2aHpOWGc4R3luM0k0M2tXUThXNnBtb01ONGJhRXBwYUd3VWhVWnMzTU1aVE1iZlA4enRJZUxlekhPaFNtWFZDYlQyU0pQclVfSGRlMjBobk96dUs2RUVoMnJESTB1VVBNcllKNXVNb296RnRkMHdYaDlta3J2djBaMWIwdnRGbnJudTJKcXotWVFBeldxNHo3RU0xd2FGS0JaUVNmVW5QbWs3VnNUSGVmS1l5NUdGbXA3N0NiZGxwWHF4eEpHbU8ySldCQ2FQLU9TTUZ2Um5VZVlpSFo4U2RCTEE3eVlqOE12WDdfcUluQmIxZkxWN3c2VUxMWkEza0QtakpkdnFiUw?oc=5",
-      "source": "Novo Jornal",
-      "publishedAt": "2026-08-24T10:56:15Z",
-      "description": "O Presidente do Irão atirou para o meio do conflito com os Estados Unidos uma \"bomba\" de paz ao admitir que não é do interesse do seu país manter uma guerra sem fim à vista com os norte-americanos, mas esta \"oferta\" vem com um aviso à navegação...",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=1a088341-2df7-43d3-86a8-2f24e5404469&t=20260824115904",
-      "articleUrl": "http://www.novojornal.co.ao/internacional/detalhe/medio-oriente-estreito-de-ormuz-pode-ser-totalmente-fechado-na-resposta-as-sancoes-economicas-dos-eua-teerao-nao-quer-uma-guerra-eterna-mas-nao-cede-a-pressao-74153.html"
+      "title": "35 anos de independência da Ucrânia: “É uma versão violenta do fim da Guerra Fria” - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWF9PNXdweE9zeHNkTlRsSklXczdZS0xPTHc3X3FvWFlHeV9OdnljWVZUU296MjA5NXg0UXRWQ2tybWZkVENWdDdFUXBaak9LR0xKZXVsdEd3eFZOa0JMNDlDMXlYajZoS3oycTNaSXVUSDQ3MHRGM1BUN3BYbmpmaGtQUjZVWkFCYktpbFBUYmEwZGxfUDc5RlllSnVSRjZhQ2gtQ0lZbmJMc05hNnVJcUJsMmM4dVczeGVuQU8tLWxFc3poeHfSAcoBQVVfeXFMUFB6OWl2bzluNUZxQlhCenlQcjFYa3V4N093TW9JYldKemVicWxLZ1JjQ1paQ01uWFdXUE96TkFfSlFsYlEwZjJWVE5zM0NxVXNCUzFYVGhKRlpGbDZMRjMwSnNoOHdSX1ZoZ1JVRUpZWUllMEF5NFlLbXBtRV9TdGhQMm5QNEFyVXc0M0RXYW5oc1BxUWI5ME1oeGdhMjRIOExFSmZWWUNETUp6ZlcydG1UYkJNMlJCLUp4dlBjeUNjVkJtSXZYM0N0Zw?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-08-24T04:30:00Z",
+      "description": "No dia em que passam 35 anos da declaração de independência da Ucrânia, Henrique Burnay – consultor em Assuntos Europeus – avalia o que tem resistido até aos dias de hoje. Se, por um lado, a guerra mostra o que poderia ter acontecido aos outros membros da União Soviética, também prova a “extraordinária” capacidade de Kiev e de um povo que quer “democracia”.",
+      "image": "https://images.rr.pt/476405018961592bb68b_socialshare.jpg",
+      "articleUrl": "https://rr.pt/especial/mundo/2026/08/24/35-anos-de-independencia-da-ucrania-e-uma-versao-violenta-do-fim-da-guerra-fria/482747/"
     },
     {
-      "title": "Guerra no Médio Oriente: «A chamada fúria épica até agora foi um falhanço épico» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTEzeXY4YW5PMUpVbGk1NV9UQ2V3U3BBblZlNmZNMHNFcGItTWI5ZVdoSGNyNFF6ZmlzUjlTX2RpczExd0NFRmpjSmNwZjdKVVV5bHliM3FhN3ZXc0RfMTRFOFJKRExuamtoaDVWU3cwYUc4cXgxOEp3QjJndG1pbWIwTkQ5YjBFMTlranlBMktHdlJfUG5peklTeVFrYS0ydTFvc2ppMWtPTVVXVDRmc0xYTjhQYVhu?oc=5",
+      "title": "Ucrânia prepara alternativa ao Starlink e pede 30 mil milhões à Europa para financiar a guerra - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTmRKWkRfaU1QUjlNRnNBSHJ3QVQ3azZmaTFDNEljNFp3d201MEYxbm84aVlLdHpfdTdnWDBXZmU2TlVTYmQ3YzA3RGs4Tlh6ZVFqLUtTNmphNUxwOFNxNVQ4cDFNVjNEN0RMLU03Mld1TkUyeGFub29WRjdtblgzRzVtSHdFQjVsYnFBMjlqV0ZSZ2daYTFhZllCTTdJTXVqTUhPMjBEdDYwMGZMUUpfaVdnRmphODRkd3ZzaHNKWmx6VzZMbXltVVdFNjNqSGNMYVFYendUTWtWMktCdlNWdmgzN0loVFdCRkRDZFFKWlp1dFZjdm4zckIxZ2lzZU0?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-08-23T12:53:00Z",
+      "description": "A Ucrânia testa com um país europeu uma alternativa ao Starlink, enquanto Volodymyr Zelensky procura 30 mil milhões de euros da Europa para financiar a defesa. O Presidente enfrenta ainda críticas do ex-ministro Mykhailo Fedorov sobre corrupção e a realização de eleições.",
+      "image": "https://img.iol.pt/preset/6a8aedc40cf2f6a1a1e74fbb/og/sol",
+      "articleUrl": "https://sol.iol.pt/internacional/noticias/ucrania-prepara-alternativa-ao-starlink-e-pede-30-mil-milhoes-a-europa-para-financiar-a-guerra/20260823/6a8aee400cf2f6a1a1e74fbc"
+    },
+    {
+      "title": "Estados Unidos cancelam os exercícios navais conjuntos com a Coreia do Sul devido à guerra com o Irão - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTkJKQXdsc3NRRE9EcjJmVFhJaW83bllLTDl6ZTJGVkd0dmpIWExOck9MM0NoZUhRLWxjcVUtR1JIUDZXWDlCRmhSNUlUYjliSUlLdFNpTnE1cTA2dExia3FGa2ZwVlZlWWFxNmdzc3N3RWloTnZOby1SaC1ORllTVlcyb29YQUdpSFlpWEljcE1sTnlQTEVHQjJqbjhhNjJiT2IzbzJXaWpuQVhzWkVQXzBOeGdUYTR3R3FXMEowcWNYLXlpdjZhdnhSQktrM2d5cUF5MVZYREY?oc=5",
       "source": "Now Canal",
-      "publishedAt": "2026-08-22T12:28:00Z",
-      "description": "Patrícia Akester destacou que «as sanções económicas não são mecanismo cirúrgico», alertando que a população civil iraniana é quem acaba por sofrer com as medidas coercivas impostas de fora.",
-      "image": "https://cdn.nowcanal.pt/images/2026-08/img_1280x721uu2026-08-22-13-36-24-60043.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-no-medio-oriente-a-chamada-furia-epica-ate-agora-foi-um-falhanco-epico"
+      "publishedAt": "2026-08-24T10:31:00Z",
+      "description": "A decisão de cancelar estes exercícios, surge após Donald Trump ter ordenado, na semana passada, a redução dos exercícios anuais com a Coreia do Sul, de onze para cinco dias.",
+      "image": "https://cdn.nowcanal.pt/images/2025-10/img_1280x721uu2025-10-24-09-46-52-27831-im-638968960243823397.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/estados-unidos-cancelam-os-exercicios-navais-conjuntos-com-a-coreia-do-sul-devido-a-guerra-com-o-irao"
     },
     {
       "title": "Economia Mundial Divide-se em Três Blocos — e o Ocidente Já Não Surge Como Unidade - O.Económico",
@@ -200,19 +200,19 @@
       "articleUrl": "https://www.oeconomico.com/economia-mundial-divide-se-em-tres-blocos-e-o-ocidente-ja-nao-surge-como-unidade/"
     },
     {
+      "title": "Estados-Unidos: justiça federal anula suspensão dos vistos imposta por Trump a 75 países - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjhzb2VncU42YWtNMUdpTlVkQWxIcDFUbVlTNmo4Q0hzbGhNTnR2ZEg5SWthUzFrTXNEUnNYR2NxcGtTTXctMTEyUmFKWE5LNXpTVno1azJoNUVaaXZ0cXhScU9scndkb2V1YzM1SEFOTlJvRFZTWml2RW43dkktX0lNV09icFd3R29qbGJuamh5VUFUbEg2M3ozX1p2N2tQRmhLbmROSHNmMjFCR3FCUWJEV1lNN2RlVlBjbGFUWmFhN01wR3h6ZUhXVXdGWGFVY1FGU19n?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-23T15:49:39Z",
+      "description": "Notícia publicada por RFI. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "Como um enviado de Trump usa vodka e piadas brejeiras para conduzir a diplomacia dos Estados Unidos - Expresso",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMjdQb1IwcWtDYWZCQmJiMlI0OTNzYWRqblpxV3VkWUZBWWJhVHN2Z2oxQ294UHVtV0taWnU1MXQyRUtBMFpyTVZHbjZyVjFQYXBkZzZSX2xGWWpHRHYzajE1SmtSZVkxbWpaMGMzQnBhVVl0MDhfZlY5cHVRV3JhZHo0bkRDOHhwb1F5V3ZRaVBwcG9aeTE5MEl3bUlWWTdfYWgzZm9JU2FKTFVwRWFDLTNSbTRrUGFabEZJVDIwWUVoTFRnVTdUWFY3UXFNZldJaUgtYkl2UnhMQ2lfUHdkcXZ1UHpJVnlk?oc=5",
       "source": "Expresso",
       "publishedAt": "2026-08-22T17:03:12Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Ucrânia prepara alternativa ao Starlink e pede 30 mil milhões à Europa para financiar a guerra - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTmRKWkRfaU1QUjlNRnNBSHJ3QVQ3azZmaTFDNEljNFp3d201MEYxbm84aVlLdHpfdTdnWDBXZmU2TlVTYmQ3YzA3RGs4Tlh6ZVFqLUtTNmphNUxwOFNxNVQ4cDFNVjNEN0RMLU03Mld1TkUyeGFub29WRjdtblgzRzVtSHdFQjVsYnFBMjlqV0ZSZ2daYTFhZllCTTdJTXVqTUhPMjBEdDYwMGZMUUpfaVdnRmphODRkd3ZzaHNKWmx6VzZMbXltVVdFNjNqSGNMYVFYendUTWtWMktCdlNWdmgzN0loVFdCRkRDZFFKWlp1dFZjdm4zckIxZ2lzZU0?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-08-23T12:53:00Z",
-      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
