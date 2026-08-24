@@ -21,7 +21,7 @@ for(let i=0;i<20;i++){
     runtime:window.FCCDiagnostics?.stats?.()||null
   }));
   console.log(`LOAD_STAGE_${i+1}`,JSON.stringify(snap));
-  if(window.FCCMedicationPatch1114Health)break;
+  if(snap.patch)break;
 }
 assert(await page.evaluate(()=>!!window.FCCMedicationPatch1114Health),`patch health not created; final loading snapshot=${JSON.stringify(snap)}; consoleErrors=${JSON.stringify(consoleErrors)}`);
 const h=await page.evaluate(()=>{const x=window.FCCMedicationPatch1114Health;return {version:x.version,sourceRows:x.sourceRows,uniqueIds:x.uniqueIds,uniqueNames:x.uniqueNames,matched:x.matched,applied:x.applied,unmatched:x.unmatched,duplicateTargets:x.duplicateTargets,catalogCount:x.catalogCount,sourceIntegrity:x.sourceIntegrity,safeToApply:x.safeToApply,ok:x.ok,matches:x.matches};});
