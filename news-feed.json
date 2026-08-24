@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:08:15.502304Z",
+  "updatedAt": "2026-08-24T19:16:38.071459Z",
   "health": [
     {
       "title": "Faculdade de Medicina da Universidade do Porto mantém nota de entrada mais alta do país na área da saúde - Expresso",
@@ -11,13 +11,31 @@
       "articleUrl": "https://expresso.pt/educacao/ensino-superior/2026-08-24-video-faculdade-de-medicina-da-universidade-do-porto-mantem-nota-de-entrada-mais-alta-do-pais-na-area-da-saude-a9f2bdec"
     },
     {
-      "title": "Cientistas produzem vacina que protegeu ratos contra três estirpes do vírus da gripe - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazVMV2xndUc1eE1UOEo5UHVoMGdIMlllN2N5WmczYkFjTEpmakdBa1lzVXZRUlJZcGhwTW1PcGt6dGRYRU9LZk5qOS1udVd6MFBIWGxNZHI5MlhfS3lwcC10dkgxbWFXdFJnc1lYZUJzQ2JxWHZad1RjRTR4OEVsdXhSX3RkVmU0MzZtcGh2LTZnYmxLTE9sX1U5WG5vZmctVEYzejN3bGh2TUZ4TGtLZUxvYkk3Unk4SkE?oc=5",
+      "title": "Estudantes de Medicina criticam abertura de novos cursos sem estratégia nacional - SÁBADO",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVJqTzFqYXBnbnFITkZobDhNVEdlOEpDdWZmU3RxVkZ4dXZCNXBBb1FFUVAwTC1TTXRtWHN1RzlhWGpuVlZlV0ZxNGxGTUdMTFlRRDVkaFhiV0F0c3AzemdLNW0xY1pENWhTY1ROWm5EQ2NuZ1ktWHZtUl96V245aDhRTGwzU2dTa3RWY0FYTTRMdFJhZXpVOVVDUlJsMHRtR2RVQnB3WUdUTy1DbzVpSm5YSDZRT2hCeEHSAboBQVVfeXFMT01Sak8xamFwZ25xSE5GaGw4TVRHZThKQ3VmZlN0cVZGeHV2QjVwQW9RRVFQMEwtU010bVhzdUc5YVhqblZWZVdGcTRsRk1HTExZUUQ1ZGhYYldBdHNwM3pnSzVtMWNaRDVoU2NUTlpuRENjbmdZLVh2bVJfelduOWg4UUxsM1NnU2t0VmNBWE00THRSYWV6VTlVQ1JSbDB0bUdkVUJwd1lHVE8tQ281aUpuWEg2UU9oQnhB?oc=5",
+      "source": "SÁBADO",
+      "publishedAt": "2026-08-24T17:40:00Z",
+      "description": "Associação Nacional de Estudantes de Medicina defende que 'é preciso que o SNS se torne mais atrativo para conseguir ter mais profissionais'.",
+      "image": "https://cdn.sabado.pt/images/2026-08/img_1200x676uu2026-08-24-17-16-23-773872.png",
+      "articleUrl": "https://www.sabado.pt/ultima-hora/amp/estudantes-de-medicina-criticam-abertura-de-novos-cursos-sem-estrategia-nacional"
+    },
+    {
+      "title": "OMS considera Moçambique um regulador confiável de medicamentos e vacinas - LUSA",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjNsdUZUbGtwcWNsbVJETGJuOFlhdEFEOHpNMnRrcFB3cW9LM1F6YzBVVW0xbmVFVEZsa3BPOUdzNjFEUnU5VU9VbXdHR3pCOVNyR0UtUlBfN2tQLVNmRUdIdEVvaWNyYmhYc3FwLXRTakdhZm41ek1Vbm5VSEo4RVVsUUlaSkpBa3dpT1ZiZVFYT0tzaUl4YVdMa1VyWV9CYzlBbFlDYnFfb202LXpxc1JlZ3kwd1VrVVZCRXJlM19uYW90UG00ZWhicGNlSmRQSG9IbWVqTk8?oc=5",
+      "source": "LUSA",
+      "publishedAt": "2026-08-24T18:51:00Z",
+      "description": "A Organização Mundial da Saúde (OMS) passou a considerar Moçambique um regulador confiável de medicamentos e vacinas, após atribuir à autoridade reguladora de medicamentos o Nível de Maturidade 3 (ML3), reservado a sistemas estáveis, funcionais e integrados.",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_21578224_1369181_05032019061826.JPG",
+      "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-08-24/47656869/oms-considera-mo%C3%A7ambique-um-regulador-confi%C3%A1vel-de-medicamentos-e-vacinas"
+    },
+    {
+      "title": "Utentes de centro de saúde de Coimbra queixam-se da falta de condições do edifício - Observador",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDRxR1dvRmY2bGxac19zUXluQndac3lWQlpGNHBLUkJ3UUp3TkpzWmQyanFfN2c1cFZabmZvV19tcXJuWHpLNEdTQ19pM0hoS3R4YWxWS3cyWHoySzZuV05VNE0ydHlsYXRYLWdzTjdYWEpKeFpuaFRPc0tMQTVGWk4wTnpJMHFhbDgxY3JQZFFKa2szSWluWTB6WU92MVl1MDVjMndfeFBkMTRWNXoyS2l4eUNOLTA?oc=5",
       "source": "Observador",
-      "publishedAt": "2026-08-24T09:32:16Z",
-      "description": "A vacina poderá permitir que \"uma pessoa não tenha que se vacinar todos os anos\", podendo a proteína da vacina acompanhar as alterações do vírus da gripes, conferindo uma proteção maior.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A204%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2Fsites%2F5%2F2015%2F11%2F10016561.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/24/cientistas-produzem-vacina-que-protegeu-ratos-contra-tres-estirpes-do-virus-da-gripe/"
+      "publishedAt": "2026-08-24T12:49:45Z",
+      "description": "Os utentes do centro de saúde de Coimbra destacam a falta de condições do edifício, \"onde chove de inverno e o calor se intensifica no verão\", classificando a situação como \"insustentável\".",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F01%2F16170839%2F14397072_1280x720_acf_cropped_770x433_acf_cropped.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/08/24/utentes-de-centro-de-saude-de-coimbra-queixam-se-da-falta-de-condicoes-do-edificio/"
     },
     {
       "title": "RD Congo: ataques a profissionais de saúde dificultam combate ao ébola, diz Cruz Vermelha - Euronews.com",
@@ -29,22 +47,22 @@
       "articleUrl": "https://pt.euronews.com/saude/2026/08/24/rd-congo-ataques-a-profissionais-de-saude-dificultam-combate-ao-ebola-diz-cruz-vermelha"
     },
     {
+      "title": "Kaixin queria Medicina desde pequena e foi a primeira colocada no Porto - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTZMMFVEbzB2Y3NUeWJPMXA2ZkZRejVLTEZ3emh0UTQ1NkptdkV6a0cyTUdRaW1fZE4yaU14MjJCMmJmUkZ2RTIxVkZiN2paNHBnWVVHZGlyb0pqZW8yZEh0RU55ekV4akI1dG1hS2Rwc3l3ZkRYcm5qUkltWUNVRF82Z3IydVh5cE5wOFZpZzlQZ091cHVDQWtmSTd1Uk5NVVBVY3h6ZXdDZTVteXE2UzgxbXg?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-08-24T18:53:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.jn.pt/nacional/artigo/kaixin-queria-medicina-desde-pequena-e-foi-a-primeira-colocada-no-porto/18119212"
+    },
+    {
       "title": "A vacina poderá permitir que \"uma pessoa não tenha que se vacinar todos os anos\", podendo a proteína da vacina acompanhar as alterações do vírus da gripes, conferindo uma proteção maior. - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNUdOY2VMdkIxWFd0am9VcEdyTjk0a1QtR09RcnJtSGNZeFlYZ3BSaHlLYlJiVk9SUmFhbVo3ODVjTzlyZmRULVRtS2dxUXpMRzF1bGItZC1zLVhtNDgzampDSmFnUzRVUGQ1S2FEUkVzVW1rRGd3bTI4ZDYzc1lMRjM4Z1l6SU9TYllFczh0MGRWTDd4SUJSdzQxeTA5WWh3Si1mX1pSb2FnLWdhUVJrVTBaYWdLeFFTeWstVk9UT3ROdHJFTkxJdUtzckc2QlpWVERuaVUtUlRmQkdMMm1Gd1BNNnJzT1ZKcEtjRw?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-08-24T16:26:02Z",
       "description": "A vacina poderá permitir que \"uma pessoa não tenha que se vacinar todos os anos\", podendo a proteína da vacina acompanhar as alterações do vírus da gripes, conferindo uma proteção maior.",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/786070186_2109838719890384_8609496517235699010_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=106&ccb=1-7&_nc_sid=cae128&_nc_ohc=PWJxfie9MSgQ7kNvwFVPpMo&_nc_oc=AdqL7J1mhU8PNKKvxs7BalGpC9QlVce63Pejh4QAIUA1SvGJ1FFXyfVUQs51vydtszc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RUWn6lVqtCjwrRLQ-fKj2w&_nc_ss=7820f&oh=00_AQEbuQk9SgglaGUZ-PkqF76BOvOVJ3FDm7xsI6n1JI533g&oe=6A9232D3",
+      "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.99422-6/786070186_2109838719890384_8609496517235699010_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=106&ccb=1-7&_nc_sid=cae128&_nc_ohc=PWJxfie9MSgQ7kNvwFRo2-5&_nc_oc=AdpUq0Uz8msU-TdNfvytfmndiP9Qbv1em7b9KgQyZDQmTGyPAzHZkBmStV6mwdWSWns&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=tOmq-BxToGz93qNPsYfs6g&_nc_ss=7820f&oh=00_AQFe3emk-G2b8PnNZpy1S4ClZL6lBnPQFgiXDvjVQcbSdA&oe=6A926B13",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/a-vacina-poder%C3%A1-permitir-que-uma-pessoa-n%C3%A3o-tenha-que-se-vacinar-todos-os-anos-p/1456809216550357/"
-    },
-    {
-      "title": "Estudantes de Medicina criticam abertura de novos cursos sem estratégia nacional - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUk9JbUV0YlROMFpUaGdUQTF6QTNHNktrazRxWVM2eU42S2NVRXA0SDN2c2RDV1ZYUkhXYmw3UFY4OF9yNWs2M0JtWGUwUkNuQndObzRyS2dTSllNdjY3d2JLUEFYMVNIX1dWSlY2WFpqYWdabk8zbFBjSDIyOW5VcjJYNThOd0RMQWRzOFg5MkVuMUxZMlVWaEVrcnljVmlGbWFJbjhkdjhLX1VXZGdleXMzUl9kaW14NUNESmJmQdIBugFBVV95cUxOcTRxckxseEgxc0dzUldLemhaTzBSbE5DOFo4TGNLc3RGeHI3MlRSUWpvcEw4YXhrc1Z5WGFvcFhyNXFxbDhDakRPcnc5NklBN0FWYnNBSk5wU0lJNGNWNTlsM3psUl9ZYmhfcllmc3FpMWpnNzNnTUEwbFoxLVFyTXlXTGxTRThNS0NhMzZ6MnpjUEVSRHpvbzdFT21WcVRIc2J1dWp3cXpmOEJKclE1clhJR2I4NG5tMkE?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-24T16:20:51Z",
-      "description": "Em causa está o novo curso da Universidade de Trás-os-Montes e Alto Douro - um Mestrado Integrado em Medicina - que permitiu disponibilizar mais 40 vagas em medicina no concurso nacional de acesso ao ensino superior.",
-      "image": "https://cdn.cmjornal.pt/images/2017-02/img_1280x721uu2017-02-24-07-26-00-602800.jpg",
-      "articleUrl": "https://www.cmjornal.pt/sociedade/detalhe/estudantes-de-medicina-criticam-abertura-de-novos-cursos-sem-estrategia-nacional"
     },
     {
       "title": "Nova Licenciatura em Global Public Health da ENSP NOVA preenche todas as vagas na 1.ª fase - Escola Nacional de Saúde Pública",
@@ -56,15 +74,6 @@
       "articleUrl": "https://www.ensp.unl.pt/nova-licenciatura-em-global-public-health-da-ensp-nova-preenche-todas-as-vagas-na-1-a-fase/"
     },
     {
-      "title": "Ilha Terceira aproxima-se dos 96% de taxa de cobertura de médico de família com a contratação de duas novas médicas - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcGFHdE93alM4ZFFwMzR4RENPcEVOd1p5TnBOV2tSTjVJOTlLREdvajVlRkdUVkY3VUgzMDQxUnJWX0s3UEtFbU1uWnJYVEoyMzEzaWhrdG55dTVaakxHS3FhVE9YcU90bk9jbVFONlN4aVlqQ3FJ?oc=5",
-      "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-08-24T11:18:26Z",
-      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23598572"
-    },
-    {
       "title": "Faculdade de Medicina da Universidade do Porto volta a liderar notas de entrada no Ensino Superior na área da Saúde - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPTlpoZHdobnZwc0xpODZDcWUzZG1wRjJvQm9uekVwVEdZblN4Q1k4TjA1NGJSQzBaakRlSDU0aW9vUFdQTzlSXzExLXZROUh4U0lTQ3ZQUW52bzZmTE1RaHRIN1h6OUNmenIzSG44TnF4U3o0UXZVQlF6X3B6QTRXYko4dWFCaW9Sb2RDS1dEU0N1M0pNUGZDUHd5cFdJUFhOUi1kaUtpNndaVk1PNlZyaTZnenlZNW5yajlPdk1yWjRSenYzaE0zNkJtUlFXYnRwMTFqVDB0ZGJWSExoVmFJS3Y4NUFWSWxKZUpnUmlnbUVPT2ZvTGxNdTd5dW5VTU4xSzZRaDZMTGxWbUNHdDBkakYtNzRTSmIyekg5aHJlZFRYZlpBOFpTM1ZhaFRDZnpzaWJXQk1OcUF1eFctNTVGSDNUd2hIVElwN3dQUWw5dl84eV9GU0ZHRmsxSk9jck51cXdCaWNVbHNkQmtVVTlXVGlwSHFNaExQcUgxLUk1WFVaTmVrS25sNkw1WkxnS3hwcXhhWDFYRmpZS1VSb25SaXdKTE9OcjFvakVLRjNZdFZmWTQtYTEzc0t1VEtQMUhmQUJoMlBPQ3pzUHAtNXZWVTJ0MnNTYW9VUnpxT3BzS2dVbGdLT3dYb3hJRmxtdUtpYTZGQ1FubV9oYS1nSXVCZktGUkZaQ3E4UG9jOHFhVEF1b3pNUS15MldGbGZObktlZmpZRWpzNjhET0NWQTdSUUF5a3U?oc=5",
       "source": "SIC Notícias",
@@ -74,29 +83,20 @@
       "articleUrl": "https://sicnoticias.pt/pais/educacao/2026-08-24-video-faculdade-de-medicina-da-universidade-do-porto-volta-a-liderar-notas-de-entrada-no-ensino-superior-na-area-da-saude-7236fb18?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/pais/educacao/2026-08-24-video-faculdade-de-medicina-da-universidade-do-porto-volta-a-liderar-notas-de-entrada-no-ensino-superior-na-area-da-saude-7236fb18"
     },
     {
-      "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXJEN1hhQVF3WHRQcDUyU28wbWpHSy03S2E3elJRWFNWY3dfM2tmeWJuektITHQzN3ZxVnA2VlFpMjJ4U2JBRnp1ZHJ3bXhtM3RsandUUHNFNFM0eEhjVjJJa1hRc05EUFJuQmxmcTZIMG5EOWZkazBKVnF3bThGZ2lJQ1ZPTmFvLVFFQ01pb3J6NjlyY1FqZg?oc=5",
-      "source": "Junta de Freguesia do Parque das Nações",
-      "publishedAt": "2026-08-24T09:21:19Z",
-      "description": "A Comissão Social de Freguesia vai realizar uma Feira de Saúde Infantojuvenil, no dia 19 de setembro, das 9h00 às 13h30, na Escola Superior de Saúde de Lisboa.Esta é uma iniciativa dinamizada pelo grupo de trabalho constituído pela JFPN, CUF, Grupo Farmaspot, ULS São José, Escola Superior de Saúde de Lisboa e Santa Casa da Misericórdia de Lisboa (Unidade de Proximidade…",
-      "image": "https://www.jf-parquedasnacoes.pt/images/autarquia/noticias/3027/imagem_3027.jpg",
-      "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3027-feira_de_saude_infantojuvenil_no_pn"
-    },
-    {
-      "title": "Hospital Lusíadas Amadora distinguido pela responsabilidade social na comunidade - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1ZnTEVIU0NHeE9oUE1wZG9Fb09pZXBZakJ5NnB5QU9IYnhRbXBoRGxMdlVQUFFjS2lZU29ocFdHN2ZmaGN4ZUZJZkZuNWVRNkxQOXYxMTZFRGNZQ2NKcTlzUmJZcXNOYjJDNERxNWdjaEZDYkJmSFVxWXRYejdsNDNBX0lkWnhhdzBUcGVmTG44WmpRaklrM0drMVBnOWZiRHdJMHdiSU56ZWZoSU5fMFFzRFo?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-08-24T12:09:12Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "title": "Ilha Terceira aproxima-se dos 96% de taxa de cobertura de médico de família com a contratação de duas novas médicas - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcGFHdE93alM4ZFFwMzR4RENPcEVOd1p5TnBOV2tSTjVJOTlLREdvajVlRkdUVkY3VUgzMDQxUnJWX0s3UEtFbU1uWnJYVEoyMzEzaWhrdG55dTVaakxHS3FhVE9YcU90bk9jbVFONlN4aVlqQ3FJ?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-08-24T10:58:32Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://healthnews.pt/2026/08/24/hospital-lusiadas-amadora-distinguido-pela-responsabilidade-social-na-comunidade/"
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23598572"
     },
     {
-      "title": "328 alunos da 'Francisco Franco' colocados na 1.ª opção e 48 'entraram' em Medicina - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjB2V3JUSXlfbnllMmo3Y1F5UUlBai1WZWd6bUIyTXVwNnlhTVQ5WGl4dnBSSE1qck1sdldDYjVNbF9weXRkNUlTQkVQV3ZleUJvRlF1ZEw3aGFqVWVOVWVudUhmODRiMVE5U3pnTUtadzJxbVZwMVRTRGZ1Qk5tUlRxc1EyYUFXTUdiY0cwYks1RDFNZ0JYTU1nMFpISzJjUUNvWGlUaVdqSmFfQUdRLUZwb2NZa295R1N0ckVn?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-08-24T11:02:00Z",
-      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "AÇORES: Contratadas duas novas médicas para a Unidade de Saúde da Ilha Terceira - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVpBZlE4U2w1T0ltNnBoVGg4VTMxZm53SDFOa0FPMkZaMU12Y1NwUlBVUjRjMWQxRElhWUtVSVBFcnZhcHNHTnlka21Jcmh0T0lES1NqNTVUWFBwdE5Tb2IzYWtwdTJQUC1hNG56WXBQaEg3OThxRzhaanNCSktady1zSE9UUE85TEZiSEx2UndMSUw2c3pQcWl4bTRvcV8tSFAxX0Z6VmhFOUxrQWFacFpzSV9ydEJW?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-08-24T14:20:40Z",
+      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -109,6 +109,15 @@
     }
   ],
   "world": [
+    {
+      "title": "No 'dia D' económico, EUA fazem ameaças sem prazos a quem mantenha relações com o Irão - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSHhYajYzdnJqV2hVcFRGM0gwa3gtdkhXZ0d1ZzhLTnU5bXg2VkVENGxNU19pU1A5WGRBV1Y2eVFrcWQ4M082TURxZ05tYkliZnlTb2VrUHA0b2NQZUwyYlFBcWtsQWVkcm5oRURSYWRZWi0wUzIwcHhla053VzZBdy1DdnphZmdUQzJVN2MxQ1hBQVFjR0E4QnZaSWpiMGhIQVI1bEVyRlZ2cXo2YlZtdjNWNTZCVVBFVW9mbl9Xak0wUjlUNHdldEEySFJoSnEtS0pOdmZkTkxWVkU3MTdqRHotM2lMejI3T2xPdExHcHNMUDZ2VzlxTUlaQm4wTlZSdTZMV0luQUZaNzIx?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-08-24T18:29:00Z",
+      "description": "Scott Bessent garantiu que quem não obedecer as exigências norte-americanas será alvo de sanções, mas não estipulou um prazo limite para que os países sigam as diretrizes de Washington",
+      "image": "https://img.iol.pt/preset/67f750cdd34ef72ee4448baf/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra-no-medio-oriente/guerra-irao/no-dia-d-economico-eua-fazem-ameacas-sem-prazos-a-quem-mantenha-relacoes-com-o-irao/20260824/6a8c8b5ed34ed0733ba81727"
+    },
     {
       "title": "Aliados da Ucrânia reúnem-se em Kiev à medida que a guerra se intensifica - RFI",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjExTnJkbWNqN0JvbjU0aDIzalJaTWtyUnhScVVFdnplYUE3SE1wTHkzZnlEc1FIMEpFLVA3S0VySWFMc0twN0hCWmdVUGlZUW9icFlsMGhWMjZKZlNIaWhNQ2VJQkVrcVpuZ1pid1pNSTY4Y1RLTVhPRmN4ejJ5aWU1bkhEU2tKM2ZBdHpETkMxeW9LUUdpUXpnTW4yVUJhcjBSdlhaakNTY2xRSy1OVkRZWS1XbDh3eWliWHVVMEZsZW8?oc=5",
@@ -126,15 +135,6 @@
       "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://pt.euronews.com/my-europe/2026/08/24/ucrania-assinala-dia-da-independencia-sem-enviados-dos-eua-com-apoio-europeu"
-    },
-    {
-      "title": "Combustíveis subiram 15 vezes de preço e baixaram dez desde o início da guerra no Médio Oriente - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWjlFOEExT0dRLXJqUG1TMEc2YnkzbnpkWEZRT3AzZmFVTm9hdkRITlpWWm9STldpUEI5dTNzNlNlcEZMOGx5M0VpUlBHOU8yem5mVjc3aUZMazhlTkhLSDRXVG41eW16dGNIU0JldDYyajhpb20tYng4ZGY4dmc0aG4tQVU4aEVESFZOVU5aenZJVkNmUE1TMDAwbkdpcVRBLXJjSFFJQmFoUmloaG5rV09OZ0FXTVJVUm9fRjh3MHpnUXM1U1JKV0RPWElOdURE?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-08-24T12:58:00Z",
-      "description": "O gasóleo fica mais caro três cêntimos por litro e na gasolina a subida é de dois cêntimos.",
-      "image": "https://cdn.nowcanal.pt/images/2026-06/img_1280x721uu2026-06-19-16-47-00-53469.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/combustiveis-subiram-15-vezes-de-preco-e-baixaram-dez-desde-o-inicio-da-guerra-no-medio-oriente"
     },
     {
       "title": "Guerra Fria: o fantasma da corrupção em tempos de celebração da independência da Ucrânia - SIC Notícias",
@@ -164,6 +164,24 @@
       "articleUrl": "https://www.rfi.fr/pt/programas/convidado/20260824-europeus-t%C3%AAm-que-rapidamente-fornecer-defesa-antia%C3%A9rea-%C3%A0-ucr%C3%A2nia-para-ela-se-poder-defender"
     },
     {
+      "title": "Kallas vai propor 22.º pacote de sanções da UE contra a Rússia - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUttRl95Wk92YXRSNDRRV0FVcFE2c0U1Yjl2ZU9tYUxLNnZvVGdFekFPalcwYUdrZ0FXVFlJeDU4VGFLOFNrOS1WM0twNk9NSmZHbVp5aWZXQjJ1cjFkYzhjaEZPRk1JLW5QWGlyMGY5U0dpS1d1a21GRExia29YVE1pTDJGTnFEYlozbDl5dE1nS2s2ZVhiemFYWk5hd0hJZ1oyczU4bw?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-08-24T16:31:00Z",
+      "description": "A chefe da diplomacia da União Europeia, Kaja Kallas, anunciou que irá propor aos Estados-membros “sanções mais severas” contra a Rússia, neste outono",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/01/kaja-kallas.png",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/kallas-vai-propor-22-o-pacote-de-sancoes-da-ue-contra-a-russia/"
+    },
+    {
+      "title": "Kallas vai propor 22.º pacote de sanções contra a Rússia a membros da União Europeia - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMldKV1FlUFhNZTFCNkMxMzBVWENZSjE1NmVNLVdiMlpoU19wMjM1dWttOXFXVWpPaWZsVXREVDJOVkxoeTYxY292cnJoRkhoSWctU29xb19MWkxqZldoTl9leDM3WWctT2ZJLU9JZVlXa0RCVmNtbGRZMlBSYlJ0QTctLXVKUGVwN25Ocm16amRSSVBmcjh3ZUlkdllzejdWVkJSZk9QZG9Nb0xRNlRFMlpockxhd1ZPR2NRZdIBtwFBVV95cUxObjhwcjRCYXFGcVF6TXdBVWVKVjc0NzYwMTRack9WZEVmcUNKR1ItVDg1Vlg0bnZJUTF5QXVkSUQ3LTR5VUlEb2lRWlY5bVB1WXlIZzlDRlhpbWtaMmFnem9KNFRZNkV2SUJMZGtZR096N3hxNDIxMmxLb3V0UFpyU2NaZ0J5Z19hRFBBMkRTNXBEcjJwYUw4R000M19LQXRoMDJXaUJyVGcySGJhZ0FxdkcwOWhUdEk?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-24T18:13:02Z",
+      "description": "Kallas fez esta afirmação após participar remotamente na reunião da Coligação dos Voluntários sobre a Ucrânia, o grupo de cerca de 30 países, incluindo Portugal.",
+      "image": "https://cdn.cmjornal.pt/images/2026-05/img_1280x721uu2026-05-12-00-02-16-2284451.jpg",
+      "articleUrl": "https://www.cmjornal.pt/mundo/detalhe/kallas-vai-propor-22-pacote-de-sancoes-contra-a-russia-a-membros-da-uniao-europeia"
+    },
+    {
       "title": "EUA cancelam exercício militar com Coreia do Sul devido à guerra - Notícias ao Minuto",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGhjTHVqNkg1U1FDbXhfaWtLQmM0dGhvY3hfRGpyb2xpZlNPR28wT2xGbmVacm9KdTIwX1lmU2xXLTRZWERCdnpPWENXSlZFYmlodW4wZm53bnFlTzJLcVFvRElOeGZpSElMWURQZk1RWWEyM1Buc0FGNTNtTEFOdWtqRDJQcTRDc2JtWVpUQ1p1b25yaGNVZmNsT0VwS1BnMWd6Mlo2d0NyUEJtRGhUag?oc=5",
       "source": "Notícias ao Minuto",
@@ -173,39 +191,13 @@
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3040599/eua-cancelam-exercicio-militar-com-coreia-do-sul-devido-a-guerra"
     },
     {
-      "title": "Advertência de Teerão. Países que apoiem \"guerra económica\" dos EUA serão considerados inimigos - RTP",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEFWSmFQM2hnWnZ5Wk5yTzF0TXpMWURBbFNrbnVKUjFmNFRHUXJZRG5BUmpPSHBYRXJoVkdhOW5nTkRkZDF1SmRWZmE0Q3RfejVVZXhjeWRzLTd0TnRSVWVma3JlWWhkRFRYN3M4S1lVbmd1MG9peFdCU1g1bXFEdTFmYXJZbXppQmx0Z0JQSktTTnUxN09DZ0VjNWhiUHdwUUsyS2I2R1RoeE41TkF0cmdHVnI4MjVzRDd0Mkl1Sm14RFhZWWo0d3kzZVlBN1Va?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-23T13:10:48Z",
-      "description": "O Irão anunciou no sábado que todos os países que participem na \"imposição de restrições económicas\" serão considerados inimigos do país, na sequência da guerra económica anunciada pelos Estados Unidos.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/96/960fbcb4fa1791716786145fda1bff80?w=860&q=90&rect=0,104,1500,822&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/advertencia-de-teerao-paises-que-apoiem-guerra-economica-dos-eua-serao-considerados-inimigos_n1761074"
-    },
-    {
       "title": "Médio Oriente: Estreito de Ormuz pode ser totalmente fechado na resposta às sanções económicas dos EUA – Teerão não quer uma \"guerra eterna\" mas não cede à pressão - Novo Jornal",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdkJxY0x4R3BnXzR6MVJEU1FYb1dJdE1YTzVfZ2Q4TFlyNVU0OFpHdnE5STJVemViRXVQV1BuaVJ3VUVOY2JTb2kyd2Q4RWVhV3RUSXppaGpIRFpvSVJwYUpYbmE0Ykd4QUFKZVNHUHI1WlJfblBVWjJ3ZFNQYi1VX1h2cDVwWVJ5TnJBamZsOFVQQndBV2hIUlE4ZC1uS3FVMHNYYUFCejc3anMza2JTTXJBX2VNRHF4ekYxY21oZHJZLV84Z2RoRHN5TjdWOEJVcWQ5X2lmTFRvdzFLdVRhQUpTaHQtN0lEU3VNRkhHOVR1b1l6UXJodzVCU3RmazZ1U0xrTV9hR2ZYaXdUUVN4RE1CYmgta2tVZWh5TGtyOENVTUQtYUdEYnBLcGI1M1k1em9KQ2xDYXdmd3c1clNnSERB?oc=5",
       "source": "Novo Jornal",
       "publishedAt": "2026-08-24T10:56:15Z",
       "description": "O Presidente do Irão atirou para o meio do conflito com os Estados Unidos uma \"bomba\" de paz ao admitir que não é do interesse do seu país manter uma guerra sem fim à vista com os norte-americanos, mas esta \"oferta\" vem com um aviso à navegação...",
-      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=1a088341-2df7-43d3-86a8-2f24e5404469&t=20260824060450",
+      "image": "https://static.novavaga.co.ao/global/image.jpg?brand=NJ&type=generate&guid=1a088341-2df7-43d3-86a8-2f24e5404469&t=20260824081554",
       "articleUrl": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-estreito-de-ormuz-pode-ser-totalmente-fechado-na-resposta-as-sancoes-economicas-dos-eua-teerao-nao-quer-uma-guerra-eterna-mas-nao-cede-a-pressao-74153.html"
-    },
-    {
-      "title": "Reino Unido diz que dará à Ucrânia acesso à tecnologia secreta de mísseis, e Rússia acusa governo britânico de participar da guerra - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSEVscUI0bWotQmNzc1VYRE5EMnhRa192ZHRPV0paVEl3Ty1yNnNPOHRUS09nUlNtVkpocG9HWEgyNXlocURkcTg0M0xzbDNQUTltX2Q3S3BFRmc2R3EzVWFCdGhpRkZOdW1jNy1XaGpCQjh6RlJBN2JvYXRFLURQbUc2THYzTkNTT1YydW9CaVJYd0dqejltT3ZHTDE2YXhQU3UxbGlHejAwTHVVd2FQTFdESzJOWUJqR2hXWmRHaE5VRUZTekkxVEh3NW1OZGJuYXdqU1FOSHRFTzBmbWM5aG5xcnFxWmt5cS1DeUxVZ1RhNGltRHAtLU9tQTQ0LVNEQkg3SmV6c2t3OGtobU5BenZmaETSAaMCQVVfeXFMTjRpYjN2c1hZUzhMZGs4Sng2WXlmaGtiX0R5WU0zUnJjYlliZ3JhR0tybW00SnJ4RnZTbTVQSkVuaTg3T1A0N0UyQnpabUdPMmQ2c3ZyNklGM1NGOFRVZW04dUNOc1ZyaS10MXF5WEZGM2F2Y0prSmc2a0VLRnRyaGg2TXZXYy1pRmNSeXVid3VyM0JzZTJTcHFzRTVQSG9vWUtDdlhVT09vZGtZNmtzVkJ5dlFEd3VIMDNyQkUtTXdfYmIzd0hPSEtDQk5mWC16Q1k0cllEVFFYQTFCcVZIZF9BZ3gwVWQ4Mmd1T3RkZjZDclVnRDNOYUwxYnczcW1pX3FRUHZaZzh1aHc2OGk3MUp5YWphcGFiZFpBVjl6UXdrTVlN?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-08-24T15:05:57Z",
-      "description": "Produção local do míssil pode ampliar capacidade ucraniana de atingir alvos fortificados a centenas de quilômetros",
-      "image": "https://s2-oglobo.glbimg.com/dRp-1FjWtOUEdwS7yRbwqU2rKvg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/p/5/MDDDSXSMqjBYGCLSeUKA/afp-20260824-c6dr9zr-v1-midres-ukrainebritainrussiawarpoliticsdiplomacyindepend.jpg",
-      "articleUrl": "https://oglobo.globo.com/mundo/noticia/2026/08/24/reino-unido-diz-que-dara-a-ucrania-acesso-a-tecnologia-secreta-de-misseis-e-russia-acusa-governo-britanico-de-participar-da-guerra.ghtml"
-    },
-    {
-      "title": "Presidente da Ucrânia pede ao parlamento que aprove reformas para desbloquear verbas da União Europeia - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWFZRRzFQb25GNGdZVm5JQ0g0alE2bFlvQV9jb2s5bDd0UU5fckd3aUdPVG9zb0JyOVZONGxfNGs2QkZPazN0M0JySmpzYnVITkdRODlyOW15WlozZ25BcVJEdnhEV0c0T1BqSTVsREJKTTFxTGl4enBYRGtaYVhYbnprTHFNaTl1blY5LVQyejU3MDk3YU92cEdfWTFqS21nOWhwc0ZLbmRXeTV0ZG9HTlRUWkRMSFJoTXdXTS1HdG5uQVFwa1dXM2pKTUJNLVNqMEJmWTkxWE9tQjFlZGpTZURoS0V4Ql9sc2JrVFotQWNvVWNabVlPR3o3ZGZqRjDSAfoBQVVfeXFMTmlLakxtTXhfTFdtSENwWmZaZHBHYm5HQl9JWVl3a1BKRE43MV9jcldqUkJYbURnamItcENiQTlsS2t0TGdmSEp5ZWNjUm9TNzZWMUpMcHNERVhRSUhVYk4xTWJhcnpLRUZET0ZqQUdkSkFqUlQ4OUFuNmdTNjNXUk5QemZJZEJENjhZOGROcVNMQWxVcllqbExubGhrQ1FTZ1ptUzRIWl9rRVdHZmlkbUxkU3lqeXdqeWEwVjdYVk5HVnMzY1ItN2pjR1Q3UkRtS1NxVnhSa1I4aUwybEN5Zk52TlFuUC1lQ0piNjZCSUtQUnBNZEFzY2M5UQ?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-23T13:10:55Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
     },
     {
       "title": "“Estamos em guerra”: Canadá retalia contra as tarifas de Trump - Público",
@@ -213,6 +205,14 @@
       "source": "Público",
       "publishedAt": "2026-08-22T19:16:43Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Dólar e Bolsa sobem com guerra no Oriente Médio no radar - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0t5cUlpaTE5UGNtMkhONnZDenV2SUVGMm5jX2kwbUc1Y2xXWmVQZGllMzlrOTMwbzRCRW1uc2NlbEpPeTBMa1JVRm10YnVXeVdkWU8xUVpjeWtXbnhZaWRtczBBMWRhWC1FaFZNVTNyUDV5eVBoZlBYTmEwOFlVd2s0XzU2VExqVHVpMkl0dUVaYmpWR3p6X2tIY1QwcDBDY1ZDWjNmQ0JLOVE?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-08-24T12:43:00Z",
+      "description": "Notícia publicada por Folha de S.Paulo. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
