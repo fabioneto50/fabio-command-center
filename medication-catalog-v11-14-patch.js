@@ -63,7 +63,7 @@
 
   function install(){
     const A=window.FCCMedicationCatalogV7;
-    if(!A||!Array.isArray(A.records))return false;
+    if(!A||!Array.isArray(A.records)||A.count!==EXPECTED_CATALOG||window.FCCMedicationV7Health?.ok!==true)return false;
     const rows=Array.isArray(window.__FCC_MED1114_ROWS)?window.__FCC_MED1114_ROWS:[];
     const ids=rows.map(r=>+r.id).filter(Number.isFinite);
     const idSet=new Set(ids),nameSet=new Set(rows.map(r=>fold(r.medicamento)));
@@ -99,6 +99,12 @@
   (async()=>{
     window.__FCC_MED1114_ROWS=[];
     for(const f of files)await load(f);
-    let tries=0;while(!install()&&tries++<100)await new Promise(r=>setTimeout(r,80));
+    let tries=0;
+    while(!install()&&tries++<600)await new Promise(r=>setTimeout(r,100));
+    if(!window.FCCMedicationPatch1114Health){
+      const A=window.FCCMedicationCatalogV7;
+      window.FCCMedicationPatch1114Health={version:VERSION,sourceRows:window.__FCC_MED1114_ROWS?.length||0,uniqueIds:0,uniqueNames:0,matched:0,applied:0,unmatched:[],duplicateTargets:0,catalogCount:A?.count||0,expectedCatalog:EXPECTED_CATALOG,sourceIntegrity:false,safeToApply:false,ok:false,reason:'catalogue-not-ready'};
+      console.error('[Medication Patch 0.11.14] catalogue did not reach 923 entries before timeout',window.FCCMedicationPatch1114Health);
+    }
   })().catch(e=>console.error('[Medication Patch 0.11.14]',e));
 })();
