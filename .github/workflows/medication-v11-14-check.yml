@@ -1,0 +1,35 @@
+name: Medication v0.11.14 check
+on:
+  push:
+    branches: [medication-v0-11-14]
+  pull_request:
+    paths:
+      - 'medication-*.js'
+      - 'tests/medication-v11-14.mjs'
+      - '.github/workflows/medication-v11-14-check.yml'
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: JavaScript syntax
+        run: |
+          for f in medication-*.js; do node --check "$f"; done
+          node --check tests/medication-v11-14.mjs
+      - name: Install Playwright Chromium
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Start site
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 >/tmp/fcc-med-http.log 2>&1 &
+          sleep 2
+      - name: Validate 276-row merge and 923 catalogue
+        run: node tests/medication-v11-14.mjs
