@@ -5,7 +5,9 @@ on:
   pull_request:
     paths:
       - 'medication-*.js'
+      - 'medcat-v6-chunk-*.js'
       - 'tests/medication-v11-14.mjs'
+      - 'tests/medcat-v6-static.mjs'
       - '.github/workflows/medication-v11-14-check.yml'
 permissions:
   contents: read
@@ -22,6 +24,9 @@ jobs:
         run: |
           for f in medication-*.js; do node --check "$f"; done
           node --check tests/medication-v11-14.mjs
+          node --check tests/medcat-v6-static.mjs
+      - name: Audit compressed V6 base
+        run: node tests/medcat-v6-static.mjs
       - name: Install Playwright Chromium
         run: |
           npm init -y >/dev/null 2>&1
