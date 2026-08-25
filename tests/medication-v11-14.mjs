@@ -3,9 +3,10 @@ const base='http://127.0.0.1:4173/';
 function assert(cond,msg){if(!cond)throw new Error(msg)}
 const browser=await chromium.launch({headless:true});
 const page=await browser.newPage({viewport:{width:390,height:844}});
-const errors=[];const consoleErrors=[];
+const errors=[];const consoleErrors=[];const requestFailures=[];
 page.on('pageerror',e=>errors.push(String(e?.stack||e)));
 page.on('console',m=>{if(m.type()==='error')consoleErrors.push(m.text())});
+page.on('requestfailed',r=>requestFailures.push({url:r.url(),method:r.method(),resourceType:r.resourceType(),failure:r.failure()?.errorText||''}));
 await page.goto(base,{waitUntil:'domcontentloaded',timeout:30000});
 await page.waitForFunction(()=>window.FCC_RUNTIME_VERSION==='1.3.2'&&window.FCCDiagnostics,{timeout:30000});
 let snap=null;
@@ -41,11 +42,16 @@ await tab.click();
 await page.waitForFunction(()=>document.querySelectorAll('#med4Results [data-med4]').length===923,{timeout:15000});
 for(const id of [229,400,451,504]){
   const m=h.matches.find(x=>x.id===id);assert(m,`missing match metadata for ${id}`);
-  const ok=await page.evaluate(({target,id})=>{const d=window.FCCMedicationCatalogV7.get(target);return !!d&&d.med1114?.id===id;},{target:m.target,id});
+  const ok=await page.evaluate(({target,id})=>{const d=window.FCCMedicationCatalogV7.get(target);return !!d&&d.med1114?.id===id&&d.patchSourceId===id&&d.med1114?.replacement===true;},{target:m.target,id});
   assert(ok,`patch metadata not attached for ID ${id} -> ${m.target}`);
 }
 const diag=await page.evaluate(()=>window.FCCDiagnostics.stats());
 assert(diag.moduleErrors===0,`module errors=${diag.moduleErrors}`);
-assert(errors.length===0,`page errors: ${errors.join(' | ')}`);
+if(errors.length||requestFailures.length){
+  console.log('PAGE_ERRORS',JSON.stringify(errors,null,2));
+  console.log('REQUEST_FAILURES',JSON.stringify(requestFailures,null,2));
+  console.log('CONSOLE_ERRORS',JSON.stringify(consoleErrors,null,2));
+}
+assert(errors.length===0,`page errors: ${errors.join(' | ')}; requestFailures=${JSON.stringify(requestFailures)}`);
 console.log(`PASS medication patch v0.11.14 · applied=${h.applied} · catalogue=${h.catalogCount}`);
 await browser.close();
