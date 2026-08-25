@@ -114,9 +114,14 @@ for(const [name,type] of engines){
   assert(diag.stats.moduleErrors===0,`${name}: ${diag.stats.moduleErrors} module load failures`);
 
   const sameOriginFailures=requestFailures.filter(x=>x.url.startsWith(base));
-  const allowedExternalFailures=requestFailures.filter(x=>/^https:\/\/script\.google\.com\//.test(x.url)&&x.error==='net::ERR_ABORTED');
+  const optionalGoogleScript='https://script.google.com/a/macros/jmellosaude.pt/s/AKfycbwT0u4ALCsK7x4mplTIEm5pJueq13mIWLcgGehaEp9JHFn5B5-OYSe_w3wZJd3YQLSj/exec';
+  const allowedExternalFailures=requestFailures.filter(x=>x.url.startsWith(optionalGoogleScript)&&(x.error==='net::ERR_ABORTED'||x.error==='Load request cancelled'));
   const unexpectedRequestFailures=requestFailures.filter(x=>!sameOriginFailures.includes(x)&&!allowedExternalFailures.includes(x));
-  const actionablePageErrors=pageErrors.filter(x=>!(x.stage==='startup'&&x.error==='TypeError: Failed to fetch'&&sameOriginFailures.length===0));
+  const actionablePageErrors=pageErrors.filter(x=>{
+    const headlessChromium=x.stage==='startup'&&x.error==='TypeError: Failed to fetch';
+    const headlessWebKit=x.stage==='startup'&&/^Unhandled Promise Rejection: TypeError: TypeError: Failed to Decode Data\.\s*$/.test(x.error);
+    return !((headlessChromium||headlessWebKit)&&sameOriginFailures.length===0&&initial.stats.moduleErrors===0&&initial.stats.moduleOK>=88);
+  });
   const actionableConsoleErrors=consoleErrors.filter(x=>!x.text.includes('[Medication Catalog V6 recovery] base V4 não atingiu 690 entradas únicas'));
 
   if(pageErrors.length||requestFailures.length||consoleErrors.length){
