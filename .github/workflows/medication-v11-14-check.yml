@@ -6,6 +6,7 @@ on:
     paths:
       - 'medication-*.js'
       - 'tests/medcat-v6-static.mjs'
+      - 'tests/probe-v02-names.mjs'
       - 'tests/medication-v11-14.mjs'
       - 'tests/runtime-stress.mjs'
       - '.github/workflows/medication-v11-14-check.yml'
@@ -24,8 +25,11 @@ jobs:
         run: |
           for f in medication-*.js; do node --check "$f"; done
           node --check tests/medcat-v6-static.mjs
+          node --check tests/probe-v02-names.mjs
           node --check tests/medication-v11-14.mjs
           node --check tests/runtime-stress.mjs
+      - name: Probe historical V0.2 names
+        run: node tests/probe-v02-names.mjs
       - name: Audit recovered V6 base invariants
         run: node tests/medcat-v6-static.mjs
       - name: Install Playwright Chromium
