@@ -74,6 +74,15 @@
     };
   }
 
+  function replaceInPlace(target,row){
+    const identity={n:target.n};
+    if(Object.prototype.hasOwnProperty.call(target,'id'))identity.id=target.id;
+    if(Object.prototype.hasOwnProperty.call(target,'st'))identity.st=target.st;
+    for(const k of Object.keys(target))delete target[k];
+    Object.assign(target,identity,replacement(identity,row));
+    return target;
+  }
+
   function install(){
     const A=window.FCCMedicationCatalogV7;
     if(!A||!Array.isArray(A.records)||A.count!==EXPECTED_CATALOG||window.FCCMedicationV7Health?.ok!==true)return false;
@@ -88,21 +97,23 @@
     }
     const duplicateTargets=matches.length-used.size;
     const safeToApply=sourceIntegrity&&matches.length===EXPECTED_ROWS&&unmatched.length===0&&duplicateTargets===0&&A.count===EXPECTED_CATALOG;
+    let persisted=0;
     if(safeToApply){
-      for(const x of matches)A.add(replacement(x.target,x.row));
+      for(const x of matches)replaceInPlace(x.target,x.row);
+      persisted=matches.filter(x=>+x.target.patchSourceId===+x.row.id&&x.target.med1114?.replacement===true&&x.target.s===`Base v0.11.14 · substituição integral da ficha ${x.row.id}`).length;
       A.refresh?.();
     }
     window.FCCMedicationPatch1114Health={
-      version:VERSION,mode:'replace',sourceRows:rows.length,uniqueIds:idSet.size,uniqueNames:nameSet.size,
-      matched:matches.length,replaced:safeToApply?matches.length:0,applied:safeToApply?matches.length:0,
+      version:VERSION,mode:'replace-in-place',sourceRows:rows.length,uniqueIds:idSet.size,uniqueNames:nameSet.size,
+      matched:matches.length,replaced:persisted,applied:persisted,
       unmatched,duplicateTargets,catalogCount:A.count,expectedCatalog:EXPECTED_CATALOG,sourceIntegrity,safeToApply,
       get ok(){return this.sourceIntegrity&&this.replaced===EXPECTED_ROWS&&this.unmatched.length===0&&this.duplicateTargets===0&&A.count===EXPECTED_CATALOG},
       matches:matches.map(x=>({id:x.row.id,source:x.row.medicamento,target:x.target.n,method:x.method})),
       refresh:()=>A.refresh?.()
     };
     document.dispatchEvent(new CustomEvent('fcc-medication-patch-1114-ready',{detail:{...window.FCCMedicationPatch1114Health,matches:undefined}}));
-    if(!safeToApply)console.error('[Medication Patch 0.11.14 replace] blocked',window.FCCMedicationPatch1114Health);
-    else console.info(`[Medication Patch 0.11.14 replace] replaced ${matches.length}/${EXPECTED_ROWS}; catalogue=${A.count}`);
+    if(!safeToApply||persisted!==EXPECTED_ROWS)console.error('[Medication Patch 0.11.14 replace] blocked or incomplete',window.FCCMedicationPatch1114Health);
+    else console.info(`[Medication Patch 0.11.14 replace] replaced ${persisted}/${EXPECTED_ROWS}; catalogue=${A.count}`);
     return true;
   }
 
@@ -113,7 +124,7 @@
     while(!install()&&tries++<600)await new Promise(r=>setTimeout(r,100));
     if(!window.FCCMedicationPatch1114Health){
       const A=window.FCCMedicationCatalogV7;
-      window.FCCMedicationPatch1114Health={version:VERSION,mode:'replace',sourceRows:window.__FCC_MED1114_ROWS?.length||0,uniqueIds:0,uniqueNames:0,matched:0,replaced:0,applied:0,unmatched:[],duplicateTargets:0,catalogCount:A?.count||0,expectedCatalog:EXPECTED_CATALOG,sourceIntegrity:false,safeToApply:false,ok:false,reason:'catalogue-not-ready'};
+      window.FCCMedicationPatch1114Health={version:VERSION,mode:'replace-in-place',sourceRows:window.__FCC_MED1114_ROWS?.length||0,uniqueIds:0,uniqueNames:0,matched:0,replaced:0,applied:0,unmatched:[],duplicateTargets:0,catalogCount:A?.count||0,expectedCatalog:EXPECTED_CATALOG,sourceIntegrity:false,safeToApply:false,ok:false,reason:'catalogue-not-ready'};
       console.error('[Medication Patch 0.11.14 replace] catalogue did not reach 923 before timeout',window.FCCMedicationPatch1114Health);
     }
   })().catch(e=>console.error('[Medication Patch 0.11.14 replace]',e));
