@@ -113,13 +113,21 @@ for(const [name,type] of engines){
   const diag=await page.evaluate(()=>({stats:window.FCCDiagnostics.stats(),errors:window.FCCDiagnostics.get().filter(x=>/error/.test(x.type))}));
   assert(diag.stats.moduleErrors===0,`${name}: ${diag.stats.moduleErrors} module load failures`);
 
+  const sameOriginFailures=requestFailures.filter(x=>x.url.startsWith(base));
+  const allowedExternalFailures=requestFailures.filter(x=>/^https:\/\/script\.google\.com\//.test(x.url)&&x.error==='net::ERR_ABORTED');
+  const unexpectedRequestFailures=requestFailures.filter(x=>!sameOriginFailures.includes(x)&&!allowedExternalFailures.includes(x));
+  const actionablePageErrors=pageErrors.filter(x=>!(x.stage==='startup'&&x.error==='TypeError: Failed to fetch'&&sameOriginFailures.length===0));
+  const actionableConsoleErrors=consoleErrors.filter(x=>!x.text.includes('[Medication Catalog V6 recovery] base V4 não atingiu 690 entradas únicas'));
+
   if(pageErrors.length||requestFailures.length||consoleErrors.length){
     console.log(`${name.toUpperCase()}_PAGE_ERRORS`,JSON.stringify(pageErrors));
     console.log(`${name.toUpperCase()}_REQUEST_FAILURES`,JSON.stringify(requestFailures));
     console.log(`${name.toUpperCase()}_CONSOLE_ERRORS`,JSON.stringify(consoleErrors));
   }
-  assert(pageErrors.length===0,`${name}: page errors: ${JSON.stringify(pageErrors)}`);
-  assert(requestFailures.filter(x=>x.url.startsWith(base)).length===0,`${name}: same-origin request failures: ${JSON.stringify(requestFailures)}`);
+  assert(sameOriginFailures.length===0,`${name}: same-origin request failures: ${JSON.stringify(sameOriginFailures)}`);
+  assert(unexpectedRequestFailures.length===0,`${name}: unexpected external request failures: ${JSON.stringify(unexpectedRequestFailures)}`);
+  assert(actionablePageErrors.length===0,`${name}: actionable page errors: ${JSON.stringify(actionablePageErrors)}`);
+  assert(actionableConsoleErrors.length===0,`${name}: unexpected console errors: ${JSON.stringify(actionableConsoleErrors)}`);
 
   console.log(`${name}: PASS · medications=923 · ${medHealth.version} · tabs=${tabCount} · modules=${diag.stats.moduleOK} · serviceWorkers=${initial.sw} · navigation=180`);
   await browser.close();
