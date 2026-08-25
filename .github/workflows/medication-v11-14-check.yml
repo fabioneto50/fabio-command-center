@@ -5,6 +5,7 @@ on:
   pull_request:
     paths:
       - 'medication-*.js'
+      - 'tests/discover-clinical-master.mjs'
       - 'tests/medication-master-923.mjs'
       - 'tests/medication-v11-14.mjs'
       - 'tests/runtime-stress.mjs'
@@ -23,9 +24,12 @@ jobs:
       - name: JavaScript syntax
         run: |
           for f in medication-*.js; do node --check "$f"; done
+          node --check tests/discover-clinical-master.mjs
           node --check tests/medication-master-923.mjs
           node --check tests/medication-v11-14.mjs
           node --check tests/runtime-stress.mjs
+      - name: Discover canonical master in published Clinical
+        run: node tests/discover-clinical-master.mjs
       - name: Verify canonical 923 master hashes and schema
         run: node tests/medication-master-923.mjs
       - name: Install Playwright Chromium
@@ -37,7 +41,7 @@ jobs:
         run: |
           python3 -m http.server 4173 --bind 127.0.0.1 >/tmp/fcc-med-http.log 2>&1 &
           sleep 2
-      - name: Validate 276-row merge and 923 catalogue
+      - name: Validate 276 replacements and 923 catalogue
         run: node tests/medication-v11-14.mjs
       - name: General post-change runtime verification
         run: node tests/runtime-stress.mjs
