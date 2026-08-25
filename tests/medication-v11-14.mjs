@@ -58,11 +58,24 @@ for(const id of [229,400,451,504]){
 }
 
 const sample=h.matches.find(x=>x.id===229);
+const sampleSource=await page.evaluate(target=>{
+  const d=window.FCCMedicationCatalogV7.get(target);
+  return {
+    validationStatus:d.validationStatus||'',confidenceLevel:d.confidenceLevel||'',humanReview:d.humanReview||'',
+    sourceRegulatory:d.sourceRegulatory||'',sourceClinical:d.sourceClinical||'',routeVariant:d.routeVariant||''
+  };
+},sample.target);
+assert(sampleSource.validationStatus==='Validado com correções',`unexpected source validation status: ${sampleSource.validationStatus}`);
+assert(sampleSource.confidenceLevel==='Alta',`unexpected source confidence: ${sampleSource.confidenceLevel}`);
+assert(sampleSource.humanReview==='Pendente',`unexpected source human review: ${sampleSource.humanReview}`);
+assert(sampleSource.routeVariant==='Oral',`unexpected source route: ${sampleSource.routeVariant}`);
+
 await page.locator('#med4Search').fill(sample.target);
 await page.waitForFunction(()=>document.querySelector('#med4Results .med4-detail')?.textContent?.includes('Base v0.11.14'),{timeout:10000});
 const sourceUI=await page.locator('#med4Results .med4-detail').innerText();
-assert(sourceUI.includes('Revisão humana'),'patched UI does not expose human-review field');
-assert(sourceUI.includes('Estado de validação'),'patched UI does not expose validation field');
+for(const value of [sampleSource.validationStatus,sampleSource.confidenceLevel,sampleSource.humanReview,sampleSource.routeVariant,sampleSource.sourceClinical]){
+  if(value)assert(sourceUI.includes(value),`patched UI does not expose source value: ${value}`);
+}
 assert(!sourceUI.includes('Campos produto-específicos permanecem'),'patched UI leaked generic legacy V7 footer');
 
 assert(errors.length===0,`page errors with service worker isolated: ${errors.join(' | ')}`);
