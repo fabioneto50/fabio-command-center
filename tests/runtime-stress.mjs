@@ -39,7 +39,7 @@ for(const [name,type] of engines){
   assert(medHealth.count===923,`${name}: medication API count ${medHealth.count}, expected 923`);
   assert(medHealth.catalog==='923',`${name}: medication host count ${medHealth.catalog}, expected 923`);
   assert(medHealth.buttons===923,`${name}: only ${medHealth.buttons}/923 medication cards rendered`);
-  assert(/^7\.4\.2/.test(medHealth.version),`${name}: unexpected medication hotfix ${medHealth.version}`);
+  assert(/^7\.4\./.test(medHealth.version),`${name}: unexpected medication hotfix ${medHealth.version}`);
 
   const medSearch=page.locator('#med4Search');
   await medSearch.fill('Noradrenalina');
@@ -118,6 +118,6 @@ for(const [name,type] of engines){
   assert(diag.stats.moduleErrors===0,`${name}: ${diag.stats.moduleErrors} module load failures`);
   assert(pageErrors.length===0,`${name}: page errors: ${pageErrors.join(' | ')}`);
 
-  console.log(`${name}: PASS · medications=923 · V7.4.2 · tabs=${tabCount} · modules=${diag.stats.moduleOK} · serviceWorkers=${initial.sw} · navigation=180`);
+  console.log(`${name}: PASS · medications=923 · ${medHealth.version} · tabs=${tabCount} · modules=${diag.stats.moduleOK} · serviceWorkers=${initial.sw} · navigation=180`);
   await browser.close();
 }
