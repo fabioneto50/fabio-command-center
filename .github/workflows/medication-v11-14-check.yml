@@ -5,10 +5,9 @@ on:
   pull_request:
     paths:
       - 'medication-*.js'
-      - 'medcat-v6-chunk-*.js'
+      - 'tests/medication-master-923.mjs'
       - 'tests/medication-v11-14.mjs'
-      - 'tests/medcat-v6-static.mjs'
-      - 'tests/decode-medcat-v6.mjs'
+      - 'tests/runtime-stress.mjs'
       - '.github/workflows/medication-v11-14-check.yml'
 permissions:
   contents: read
@@ -24,13 +23,11 @@ jobs:
       - name: JavaScript syntax
         run: |
           for f in medication-*.js; do node --check "$f"; done
+          node --check tests/medication-master-923.mjs
           node --check tests/medication-v11-14.mjs
-          node --check tests/medcat-v6-static.mjs
-          node --check tests/decode-medcat-v6.mjs
-      - name: Decode original V0.2 compressed payload
-        run: node tests/decode-medcat-v6.mjs
-      - name: Audit V6 recovery invariants
-        run: node tests/medcat-v6-static.mjs
+          node --check tests/runtime-stress.mjs
+      - name: Verify canonical 923 master hashes and schema
+        run: node tests/medication-master-923.mjs
       - name: Install Playwright Chromium
         run: |
           npm init -y >/dev/null 2>&1
@@ -42,3 +39,5 @@ jobs:
           sleep 2
       - name: Validate 276-row merge and 923 catalogue
         run: node tests/medication-v11-14.mjs
+      - name: General post-change runtime verification
+        run: node tests/runtime-stress.mjs
