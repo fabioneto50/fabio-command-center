@@ -4,7 +4,7 @@
 
   const EXPECTED=690;
   const EXPECTED_EXPANSION=233;
-  const VERSION='0.2-recovery-v4.6-overlap-aware';
+  const VERSION='0.2-recovery-v4.7-order-aware';
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
   const HISTORICAL_CURRENT_IV_OVERLAP=new Map([[fold('Paracetamol'),'Analgesia / Dor / Anti-inflamatórios']]);
 
@@ -46,6 +46,9 @@
 
   function removeExpansion(snapshot){
     const exp=expansionSet();
+    if(exp.size===0){
+      return {rows:snapshot.rows,diagnostic:{raw:snapshot.raw,uniqueCurrent:snapshot.rows.length,expansionDeclared:0,expansionMatched:0,withoutExpansion:snapshot.rows.length,duplicateCanonical:snapshot.duplicates}};
+    }
     if(exp.size!==EXPECTED_EXPANSION)return null;
     let matched=0;
     const rows=snapshot.rows.filter(r=>{
@@ -53,6 +56,10 @@
       return true;
     });
     return {rows,diagnostic:{raw:snapshot.raw,uniqueCurrent:snapshot.rows.length,expansionDeclared:exp.size,expansionMatched:matched,withoutExpansion:rows.length,duplicateCanonical:snapshot.duplicates}};
+  }
+
+  function expansionStateOK(d){
+    return d?.expansionDeclared===0||(d?.expansionDeclared===EXPECTED_EXPANSION&&d?.expansionMatched===EXPECTED_EXPANSION);
   }
 
   function historicalRows(snapshot){
@@ -120,13 +127,13 @@
       if(snapshot){
         filtered=historicalRows(snapshot);
         lastDiagnostic=filtered?.diagnostic||lastDiagnostic;
-        if(filtered?.rows.length===EXPECTED&&filtered.diagnostic.expansionMatched===EXPECTED_EXPANSION&&filtered.diagnostic.historicalMatched===198&&!filtered.diagnostic.missingHistorical.length)break;
+        if(filtered?.rows.length===EXPECTED&&expansionStateOK(filtered.diagnostic)&&filtered.diagnostic.historicalMatched===198&&!filtered.diagnostic.missingHistorical.length)break;
       }
       await new Promise(r=>setTimeout(r,50));
     }
     const d=filtered?.diagnostic||lastDiagnostic||{raw:snapshot?.raw||0,filtered:filtered?.rows?.length||0};
-    if(!filtered||filtered.rows.length!==EXPECTED||d.expansionMatched!==EXPECTED_EXPANSION||d.historicalMatched!==198||d.missingHistorical?.length){
-      console.error('[Medication V6 recovery fix] expansion-aware reconstruction failed',JSON.stringify(d));
+    if(!filtered||filtered.rows.length!==EXPECTED||!expansionStateOK(d)||d.historicalMatched!==198||d.missingHistorical?.length){
+      console.error('[Medication V6 recovery fix] reconstruction failed',JSON.stringify(d));
       window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:0,ok:false,diagnostic:d};
       return false;
     }
@@ -137,9 +144,9 @@
       return false;
     }
     window.FCC_MEDICATION_CATALOG_V6={version:VERSION,count:EXPECTED,records};
-    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows minus V7 expansion; historical IV set; Paracetamol preserved from original V4 multi-route catalogue'};
+    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows, with optional V7 expansion subtraction; historical IV set; Paracetamol preserved from original V4 multi-route catalogue'};
     document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-ready',{detail:{version:VERSION,count:EXPECTED,recovered:true}}));
-    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; raw=${d.raw}; expansion=${d.expansionMatched}; historicalIV=${d.historicalMatched}; preservedOverlap=${d.preservedOverlapNames?.join(',')||'none'}; removedCurrentOnly=${d.removedCurrentOnlyNames?.join(',')||'none'}`);
+    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; raw=${d.raw}; expansion=${d.expansionMatched}/${d.expansionDeclared}; historicalIV=${d.historicalMatched}; preservedOverlap=${d.preservedOverlapNames?.join(',')||'none'}; removedCurrentOnly=${d.removedCurrentOnlyNames?.join(',')||'none'}`);
     return true;
   }
 
