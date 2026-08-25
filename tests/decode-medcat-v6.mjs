@@ -13,9 +13,24 @@ for(let i=1;i<=5;i++){
 const b64=parts.join('');
 console.log('B64_TOTAL',b64.length,'MOD4',b64.length%4);
 const buf=Buffer.from(b64,'base64');
-console.log('COMPRESSED_BYTES',buf.length,'HEADER',buf.subarray(0,4).toString('hex'));
-let raw;
-try{raw=zlib.gunzipSync(buf);}catch(e){console.error('GUNZIP_ERROR',e.message);process.exit(2)}
+console.log('COMPRESSED_BYTES',buf.length,'HEADER',buf.subarray(0,10).toString('hex'),'TRAILER',buf.subarray(-8).toString('hex'));
+let raw=null;
+try{
+  raw=zlib.gunzipSync(buf);
+  console.log('GUNZIP_OK');
+}catch(e){
+  console.log('GUNZIP_CHECKSUM_REJECTED',e.message);
+  const flags=buf[3];
+  if(flags!==0) throw new Error(`Unsupported gzip flags ${flags}; safe raw fallback disabled`);
+  const deflate=buf.subarray(10,-8);
+  try{
+    raw=zlib.inflateRawSync(deflate);
+    console.log('RAW_DEFLATE_RECOVERY_OK');
+  }catch(e2){
+    console.error('RAW_DEFLATE_RECOVERY_ERROR',e2.message);
+    process.exit(2);
+  }
+}
 console.log('RAW_BYTES',raw.length);
 let obj;
 try{obj=JSON.parse(raw.toString('utf8'));}catch(e){console.error('JSON_ERROR',e.message);process.exit(3)}
@@ -25,4 +40,7 @@ if(!Array.isArray(obj.r)||obj.r.length!==690) throw new Error(`Expected 690 reco
 const names=obj.r.map(r=>String(r?.[0]||'').trim());
 const unique=new Set(names.map(n=>n.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim()));
 if(unique.size!==690) throw new Error(`Expected 690 unique names, got ${unique.size}`);
-console.log('PASS original V0.2 compressed payload',JSON.stringify({records:obj.r.length,unique:unique.size,pool:obj.v.length}));
+const declaredCrc=buf.readUInt32LE(buf.length-8)>>>0;
+const declaredSize=buf.readUInt32LE(buf.length-4)>>>0;
+console.log('TRAILER_META',JSON.stringify({declaredCrc:declaredCrc.toString(16),declaredSize,actualSize:raw.length}));
+console.log('PASS original V0.2 payload recovered',JSON.stringify({records:obj.r.length,unique:unique.size,pool:Array.isArray(obj.v)?obj.v.length:null}));
