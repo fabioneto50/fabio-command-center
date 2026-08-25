@@ -4,7 +4,7 @@
 
   const EXPECTED=690;
   const EXPECTED_EXPANSION=233;
-  const VERSION='0.2-recovery-v4.4-expansion-aware';
+  const VERSION='0.2-recovery-v4.5-expansion-aware-diagnostic';
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
 
   function baseInfo(name){
@@ -64,19 +64,19 @@
     const ivNow=currentIVSet();
     if(ivNow.size<198)return null;
 
-    const kept=[],seen=new Set();
-    let nonIV=0,historicalMatched=0,currentIVRows=0,removedCurrentOnly=0;
+    const kept=[],seen=new Set(),removedCurrentOnlyNames=[];
+    let nonIV=0,historicalMatched=0,currentIVRows=0;
     for(const row of base.rows){
       const k=fold(row.n),isCurrentIV=ivNow.has(k),isHistoricalIV=historicalSet.has(k);
       if(isCurrentIV)currentIVRows++;
       if(!isCurrentIV){nonIV++;kept.push(row);seen.add(k);continue}
       if(isHistoricalIV){historicalMatched++;kept.push(row);seen.add(k);continue}
-      removedCurrentOnly++;
+      removedCurrentOnlyNames.push(row.n);
     }
     const missingHistorical=historicalNames.filter(n=>!seen.has(fold(n)));
     return {
       rows:kept,
-      diagnostic:{...base.diagnostic,currentIV:ivNow.size,currentIVRows,nonIV,historicalExpected:historicalNames.length,historicalMatched,removedCurrentOnly,filtered:kept.length,missingHistorical}
+      diagnostic:{...base.diagnostic,currentIV:ivNow.size,currentIVRows,nonIV,historicalExpected:historicalNames.length,historicalMatched,removedCurrentOnly:removedCurrentOnlyNames.length,removedCurrentOnlyNames,filtered:kept.length,missingHistorical}
     };
   }
 
@@ -85,7 +85,7 @@
       const base=baseInfo(n);
       const use=base?.use||'Consultar indicação aprovada no RCM/SmPC e protocolo aplicável.';
       const mon=base?.monitor||'A monitorização depende da indicação, dose, via, função renal/hepática e perfil de segurança.';
-      const risk=base?.risks||'Confirmar contraindicações, interações e reações adversas no RCM/SmPC.';
+      const risk=base?.risks||'Confirmir contraindicações, interações e reações adversas no RCM/SmPC.';
       return {
         n,g,
         s:'BASE V0.2 RECUPERADA · origem estrutural histórica validada',
