@@ -1,8 +1,10 @@
 (()=>{
 if(window.__fccMedicationCatalogV6Installed)return;window.__fccMedicationCatalogV6Installed=true;
 const EXPECTED=690;
-const VERSION='0.2-recovery-v4';
+const VERSION='0.2-recovery-v4.1';
 const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
+const load=src=>new Promise((ok,no)=>{const s=document.createElement('script');s.src=src;s.async=false;s.onload=ok;s.onerror=no;document.head.appendChild(s)});
+let observedMax=0;
 
 function groupMechanism(group){
   const g=fold(group);
@@ -54,6 +56,7 @@ function baseInfo(name){
 
 function readV4Rows(){
   const buttons=[...document.querySelectorAll('#med4Results [data-med4]')];
+  observedMax=Math.max(observedMax,buttons.length);
   if(buttons.length!==EXPECTED)return null;
   const map=new Map();
   for(const b of buttons){
@@ -90,18 +93,25 @@ function build(rows){
   });
 }
 
+async function ensureReadableV4(){
+  if(window.__fccMedicationInfoV4Installed)return true;
+  try{await load(`medication-info-v4.js?v=${encodeURIComponent(VERSION)}`);return !!window.__fccMedicationInfoV4Installed}
+  catch(e){console.error('[Medication Catalog V6 recovery] não foi possível carregar medication-info-v4.js',e);return false}
+}
+
 async function boot(){
+  await ensureReadableV4();
   const started=Date.now();
   let rows=null;
-  while(Date.now()-started<7500){
+  while(Date.now()-started<9000){
     rows=readV4Rows();
     if(rows)break;
     await new Promise(r=>setTimeout(r,75));
   }
   if(!rows){
-    console.error(`[Medication Catalog V6 recovery] base V4 não atingiu ${EXPECTED} entradas únicas; V6 não publicado.`);
-    window.FCC_MEDICATION_CATALOG_V6_RECOVERY={version:VERSION,expected:EXPECTED,count:0,ok:false};
-    document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-recovery-failed',{detail:{expected:EXPECTED}}));
+    console.error(`[Medication Catalog V6 recovery] base V4 não atingiu ${EXPECTED} entradas únicas; máximo observado=${observedMax}; V6 não publicado.`);
+    window.FCC_MEDICATION_CATALOG_V6_RECOVERY={version:VERSION,expected:EXPECTED,count:0,observedMax,ok:false};
+    document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-recovery-failed',{detail:{expected:EXPECTED,observedMax}}));
     return;
   }
   const DATA=build(rows);
@@ -111,7 +121,7 @@ async function boot(){
     return;
   }
   window.FCC_MEDICATION_CATALOG_V6={version:VERSION,count:DATA.length,records:DATA};
-  window.FCC_MEDICATION_CATALOG_V6_RECOVERY={version:VERSION,expected:EXPECTED,count:DATA.length,unique:unique.size,ok:true,source:'medication-info-v4 DOM + contentPack'};
+  window.FCC_MEDICATION_CATALOG_V6_RECOVERY={version:VERSION,expected:EXPECTED,count:DATA.length,unique:unique.size,observedMax,ok:true,source:'medication-info-v4 DOM + contentPack'};
   document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-ready',{detail:{version:VERSION,count:DATA.length,recovered:true}}));
 }
 boot().catch(e=>console.error('[Medication Catalog V6 recovery]',e));
