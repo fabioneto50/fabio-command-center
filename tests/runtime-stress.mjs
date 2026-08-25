@@ -20,13 +20,26 @@ for(const [name,type] of engines){
   assert(initial.stats.moduleOK>=88,`${name}: only ${initial.stats.moduleOK}/88 runtime modules loaded`);
   assert(initial.sw===1,`${name}: expected exactly 1 service worker registration, got ${initial.sw}`);
 
+  // On mobile the desktop header search is intentionally hidden. Exercise the same search engine directly
+  // through the existing input/event path so the test validates behaviour instead of CSS visibility.
+  const setGlobalSearch=async(query)=>{
+    const ok=await page.evaluate(q=>{
+      const input=document.getElementById('globalSearch');
+      if(!input)return false;
+      input.value=q;
+      input.dispatchEvent(new Event('input',{bubbles:true}));
+      if(typeof window.renderGlobalSearch==='function')window.renderGlobalSearch();
+      return true;
+    },query);
+    assert(ok,`${name}: global search input missing`);
+    await page.waitForTimeout(180);
+  };
+
   // Private results must not leak before PIN unlock.
-  const globalSearch=page.locator('#globalSearch');
-  await globalSearch.fill('Emergency');
-  await page.waitForTimeout(120);
+  await setGlobalSearch('Emergency');
   const beforeUnlock=await page.locator('#globalResults').innerText().catch(()=> '');
   assert(!/Emergency ·|Inventário|Família/i.test(beforeUnlock),`${name}: private global-search result visible before PIN`);
-  await globalSearch.fill('');
+  await setGlobalSearch('');
 
   // Stable V7 catalogue: keep the existing Clinical DOM/navigation and reconcile all 923 records.
   await page.evaluate(()=>window.fccNavigate('clinical'));
@@ -50,11 +63,16 @@ for(const [name,type] of engines){
   await page.waitForFunction(()=>document.querySelectorAll('#med4Results [data-med4]').length===923,{timeout:10000});
 
   // Global search must index/open medication entries from the reconciled catalogue.
-  await globalSearch.fill('paracetamol');
-  await page.waitForTimeout(300);
-  const medGlobal=page.locator('#globalResults .search-hit').filter({hasText:/paracetamol/i}).first();
-  assert(await medGlobal.count()===1,`${name}: paracetamol missing from global search`);
-  await medGlobal.click();
+  await setGlobalSearch('paracetamol');
+  const globalMedCount=await page.evaluate(()=>[...document.querySelectorAll('#globalResults .search-hit')].filter(el=>/paracetamol/i.test(el.textContent||'')).length);
+  assert(globalMedCount>=1,`${name}: paracetamol missing from global search`);
+  const clicked=await page.evaluate(()=>{
+    const hit=[...document.querySelectorAll('#globalResults .search-hit')].find(el=>/paracetamol/i.test(el.textContent||''));
+    if(!hit)return false;
+    hit.click();
+    return true;
+  });
+  assert(clicked,`${name}: could not open paracetamol from global search`);
   await page.waitForFunction(()=>/paracetamol/i.test(document.querySelector('#med4Results .med4-detail h3')?.textContent||''),{timeout:5000});
 
   // PIN gate and Pessoal entry.
