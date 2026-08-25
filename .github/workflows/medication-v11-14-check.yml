@@ -1,0 +1,49 @@
+name: Medication v0.11.14 check
+on:
+  push:
+    branches: [medication-v0-11-14]
+  pull_request:
+    paths:
+      - 'medication-*.js'
+      - 'service-worker.js'
+      - 'tests/medcat-v6-static.mjs'
+      - 'tests/probe-v02-names.mjs'
+      - 'tests/medication-v11-14.mjs'
+      - 'tests/runtime-stress.mjs'
+      - '.github/workflows/medication-v11-14-check.yml'
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: JavaScript syntax
+        run: |
+          for f in medication-*.js; do node --check "$f"; done
+          node --check service-worker.js
+          node --check tests/medcat-v6-static.mjs
+          node --check tests/probe-v02-names.mjs
+          node --check tests/medication-v11-14.mjs
+          node --check tests/runtime-stress.mjs
+      - name: Probe historical V0.2 names
+        run: node tests/probe-v02-names.mjs
+      - name: Audit recovered V6 base invariants
+        run: node tests/medcat-v6-static.mjs
+      - name: Install Playwright Chromium and WebKit
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium webkit
+      - name: Start site
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 >/tmp/fcc-med-http.log 2>&1 &
+          sleep 2
+      - name: Validate 276 complete replacements and 923 catalogue
+        run: node tests/medication-v11-14.mjs
+      - name: General post-change runtime verification
+        run: node tests/runtime-stress.mjs
