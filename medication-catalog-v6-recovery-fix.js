@@ -4,8 +4,9 @@
 
   const EXPECTED=690;
   const EXPECTED_EXPANSION=233;
-  const VERSION='0.2-recovery-v4.5-expansion-aware-diagnostic';
+  const VERSION='0.2-recovery-v4.6-overlap-aware';
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
+  const HISTORICAL_CURRENT_IV_OVERLAP=new Map([[fold('Paracetamol'),'Analgesia / Dor / Anti-inflamatórios']]);
 
   function baseInfo(name){
     try{
@@ -64,19 +65,26 @@
     const ivNow=currentIVSet();
     if(ivNow.size<198)return null;
 
-    const kept=[],seen=new Set(),removedCurrentOnlyNames=[];
+    const kept=[],seen=new Set(),removedCurrentOnlyNames=[],preservedOverlapNames=[];
     let nonIV=0,historicalMatched=0,currentIVRows=0;
     for(const row of base.rows){
       const k=fold(row.n),isCurrentIV=ivNow.has(k),isHistoricalIV=historicalSet.has(k);
       if(isCurrentIV)currentIVRows++;
       if(!isCurrentIV){nonIV++;kept.push(row);seen.add(k);continue}
       if(isHistoricalIV){historicalMatched++;kept.push(row);seen.add(k);continue}
+      if(HISTORICAL_CURRENT_IV_OVERLAP.has(k)){
+        preservedOverlapNames.push(row.n);
+        kept.push({...row,g:HISTORICAL_CURRENT_IV_OVERLAP.get(k)});
+        seen.add(k);
+        nonIV++;
+        continue;
+      }
       removedCurrentOnlyNames.push(row.n);
     }
     const missingHistorical=historicalNames.filter(n=>!seen.has(fold(n)));
     return {
       rows:kept,
-      diagnostic:{...base.diagnostic,currentIV:ivNow.size,currentIVRows,nonIV,historicalExpected:historicalNames.length,historicalMatched,removedCurrentOnly:removedCurrentOnlyNames.length,removedCurrentOnlyNames,filtered:kept.length,missingHistorical}
+      diagnostic:{...base.diagnostic,currentIV:ivNow.size,currentIVRows,nonIV,historicalExpected:historicalNames.length,historicalMatched,preservedOverlapNames,removedCurrentOnly:removedCurrentOnlyNames.length,removedCurrentOnlyNames,filtered:kept.length,missingHistorical}
     };
   }
 
@@ -85,7 +93,7 @@
       const base=baseInfo(n);
       const use=base?.use||'Consultar indicação aprovada no RCM/SmPC e protocolo aplicável.';
       const mon=base?.monitor||'A monitorização depende da indicação, dose, via, função renal/hepática e perfil de segurança.';
-      const risk=base?.risks||'Confirmir contraindicações, interações e reações adversas no RCM/SmPC.';
+      const risk=base?.risks||'Confirmar contraindicações, interações e reações adversas no RCM/SmPC.';
       return {
         n,g,
         s:'BASE V0.2 RECUPERADA · origem estrutural histórica validada',
@@ -129,9 +137,9 @@
       return false;
     }
     window.FCC_MEDICATION_CATALOG_V6={version:VERSION,count:EXPECTED,records};
-    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows minus V7 expansion, filtered by historical IV set'};
+    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows minus V7 expansion; historical IV set; Paracetamol preserved from original V4 multi-route catalogue'};
     document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-ready',{detail:{version:VERSION,count:EXPECTED,recovered:true}}));
-    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; raw=${d.raw}; expansion=${d.expansionMatched}; historicalIV=${d.historicalMatched}; removedCurrentOnly=${d.removedCurrentOnly}`);
+    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; raw=${d.raw}; expansion=${d.expansionMatched}; historicalIV=${d.historicalMatched}; preservedOverlap=${d.preservedOverlapNames?.join(',')||'none'}; removedCurrentOnly=${d.removedCurrentOnlyNames?.join(',')||'none'}`);
     return true;
   }
 
