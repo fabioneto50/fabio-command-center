@@ -8,6 +8,7 @@ on:
       - 'medcat-v6-chunk-*.js'
       - 'tests/medication-v11-14.mjs'
       - 'tests/medcat-v6-static.mjs'
+      - 'tests/decode-medcat-v6.mjs'
       - '.github/workflows/medication-v11-14-check.yml'
 permissions:
   contents: read
@@ -25,7 +26,10 @@ jobs:
           for f in medication-*.js; do node --check "$f"; done
           node --check tests/medication-v11-14.mjs
           node --check tests/medcat-v6-static.mjs
-      - name: Audit compressed V6 base
+          node --check tests/decode-medcat-v6.mjs
+      - name: Decode original V0.2 compressed payload
+        run: node tests/decode-medcat-v6.mjs
+      - name: Audit V6 recovery invariants
         run: node tests/medcat-v6-static.mjs
       - name: Install Playwright Chromium
         run: |
