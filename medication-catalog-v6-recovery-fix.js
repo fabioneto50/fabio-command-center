@@ -3,7 +3,8 @@
   window.__fccMedicationCatalogV6RecoveryFixInstalled=true;
 
   const EXPECTED=690;
-  const VERSION='0.2-recovery-v4.3-historical-iv';
+  const EXPECTED_EXPANSION=233;
+  const VERSION='0.2-recovery-v4.4-expansion-aware';
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
 
   function baseInfo(name){
@@ -18,6 +19,11 @@
     const sel=document.getElementById('ivcDrugA');
     if(!sel)return new Set();
     return new Set([...sel.options].filter(o=>o.value).map(o=>fold(o.textContent)));
+  }
+
+  function expansionSet(){
+    const arr=Array.isArray(window.FCC_MED_EXPANSION_V7)?window.FCC_MED_EXPANSION_V7:[];
+    return new Set(arr.map(x=>fold(x?.n)).filter(Boolean));
   }
 
   function canonicalRows(){
@@ -37,7 +43,20 @@
     return {rows:[...map.values()],raw:buttons.length,duplicates};
   }
 
+  function removeExpansion(snapshot){
+    const exp=expansionSet();
+    if(exp.size!==EXPECTED_EXPANSION)return null;
+    let matched=0;
+    const rows=snapshot.rows.filter(r=>{
+      if(exp.has(fold(r.n))){matched++;return false}
+      return true;
+    });
+    return {rows,diagnostic:{raw:snapshot.raw,uniqueCurrent:snapshot.rows.length,expansionDeclared:exp.size,expansionMatched:matched,withoutExpansion:rows.length,duplicateCanonical:snapshot.duplicates}};
+  }
+
   function historicalRows(snapshot){
+    const base=removeExpansion(snapshot);
+    if(!base)return null;
     const historicalNames=window.FCCMedicationV6HistoricalIVNames;
     const historicalHealth=window.FCCMedicationV6HistoricalIVHealth;
     if(!Array.isArray(historicalNames)||!historicalHealth?.ok||historicalNames.length!==198)return null;
@@ -46,28 +65,18 @@
     if(ivNow.size<198)return null;
 
     const kept=[],seen=new Set();
-    let nonIV=0,historicalMatched=0,currentIVRows=0;
-    for(const row of snapshot.rows){
+    let nonIV=0,historicalMatched=0,currentIVRows=0,removedCurrentOnly=0;
+    for(const row of base.rows){
       const k=fold(row.n),isCurrentIV=ivNow.has(k),isHistoricalIV=historicalSet.has(k);
       if(isCurrentIV)currentIVRows++;
       if(!isCurrentIV){nonIV++;kept.push(row);seen.add(k);continue}
-      if(isHistoricalIV){historicalMatched++;kept.push(row);seen.add(k)}
+      if(isHistoricalIV){historicalMatched++;kept.push(row);seen.add(k);continue}
+      removedCurrentOnly++;
     }
     const missingHistorical=historicalNames.filter(n=>!seen.has(fold(n)));
     return {
       rows:kept,
-      diagnostic:{
-        raw:snapshot.raw,
-        uniqueCurrent:snapshot.rows.length,
-        currentIV:ivNow.size,
-        currentIVRows,
-        nonIV,
-        historicalExpected:historicalNames.length,
-        historicalMatched,
-        filtered:kept.length,
-        duplicateCanonical:snapshot.duplicates,
-        missingHistorical
-      }
+      diagnostic:{...base.diagnostic,currentIV:ivNow.size,currentIVRows,nonIV,historicalExpected:historicalNames.length,historicalMatched,removedCurrentOnly,filtered:kept.length,missingHistorical}
     };
   }
 
@@ -98,18 +107,18 @@
     if(window.FCC_MEDICATION_CATALOG_V6?.count===EXPECTED)return true;
     const started=Date.now();
     let snapshot=null,filtered=null,lastDiagnostic=null;
-    while(Date.now()-started<8500){
+    while(Date.now()-started<10000){
       snapshot=canonicalRows();
       if(snapshot){
         filtered=historicalRows(snapshot);
         lastDiagnostic=filtered?.diagnostic||lastDiagnostic;
-        if(filtered?.rows.length===EXPECTED&&filtered.diagnostic.historicalMatched===198&&!filtered.diagnostic.missingHistorical.length)break;
+        if(filtered?.rows.length===EXPECTED&&filtered.diagnostic.expansionMatched===EXPECTED_EXPANSION&&filtered.diagnostic.historicalMatched===198&&!filtered.diagnostic.missingHistorical.length)break;
       }
       await new Promise(r=>setTimeout(r,50));
     }
     const d=filtered?.diagnostic||lastDiagnostic||{raw:snapshot?.raw||0,filtered:filtered?.rows?.length||0};
-    if(!filtered||filtered.rows.length!==EXPECTED||d.historicalMatched!==198||d.missingHistorical?.length){
-      console.error('[Medication V6 recovery fix] historical reconstruction failed',JSON.stringify(d));
+    if(!filtered||filtered.rows.length!==EXPECTED||d.expansionMatched!==EXPECTED_EXPANSION||d.historicalMatched!==198||d.missingHistorical?.length){
+      console.error('[Medication V6 recovery fix] expansion-aware reconstruction failed',JSON.stringify(d));
       window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:0,ok:false,diagnostic:d};
       return false;
     }
@@ -120,9 +129,9 @@
       return false;
     }
     window.FCC_MEDICATION_CATALOG_V6={version:VERSION,count:EXPECTED,records};
-    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows filtered by historical IV set from V0.2 commit 0264d930 + contentPack'};
+    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows minus V7 expansion, filtered by historical IV set'};
     document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-ready',{detail:{version:VERSION,count:EXPECTED,recovered:true}}));
-    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; current=${d.uniqueCurrent}; currentIV=${d.currentIV}; nonIV=${d.nonIV}; historicalIV=${d.historicalMatched}`);
+    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; raw=${d.raw}; expansion=${d.expansionMatched}; historicalIV=${d.historicalMatched}; removedCurrentOnly=${d.removedCurrentOnly}`);
     return true;
   }
 
