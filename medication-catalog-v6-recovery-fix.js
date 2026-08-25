@@ -3,7 +3,7 @@
   window.__fccMedicationCatalogV6RecoveryFixInstalled=true;
 
   const EXPECTED=690;
-  const VERSION='0.2-recovery-v4.2';
+  const VERSION='0.2-recovery-v4.3-historical-iv';
   const fold=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
 
   function baseInfo(name){
@@ -14,20 +14,61 @@
     }catch(e){return null}
   }
 
+  function currentIVSet(){
+    const sel=document.getElementById('ivcDrugA');
+    if(!sel)return new Set();
+    return new Set([...sel.options].filter(o=>o.value).map(o=>fold(o.textContent)));
+  }
+
   function canonicalRows(){
     const list=document.querySelector('#med4Results .med4-list');
     if(!list)return null;
     const buttons=[...list.querySelectorAll(':scope > .med4-mini[data-med4]')];
-    if(buttons.length!==EXPECTED)return null;
-    const map=new Map();
+    if(buttons.length<EXPECTED)return null;
+    const map=new Map(),duplicates=[];
     for(const b of buttons){
       const n=String(b.dataset.med4||b.querySelector('strong')?.textContent||'').trim();
       const g=String(b.querySelector('span')?.textContent||'').trim();
       const k=fold(n);
-      if(!n||!g||map.has(k))return null;
+      if(!n||!g)return null;
+      if(map.has(k)){duplicates.push(n);continue}
       map.set(k,{n,g});
     }
-    return map.size===EXPECTED?[...map.values()]:null;
+    return {rows:[...map.values()],raw:buttons.length,duplicates};
+  }
+
+  function historicalRows(snapshot){
+    const historicalNames=window.FCCMedicationV6HistoricalIVNames;
+    const historicalHealth=window.FCCMedicationV6HistoricalIVHealth;
+    if(!Array.isArray(historicalNames)||!historicalHealth?.ok||historicalNames.length!==198)return null;
+    const historicalSet=new Set(historicalNames.map(fold));
+    const ivNow=currentIVSet();
+    if(ivNow.size<198)return null;
+
+    const kept=[],seen=new Set();
+    let nonIV=0,historicalMatched=0,currentIVRows=0;
+    for(const row of snapshot.rows){
+      const k=fold(row.n),isCurrentIV=ivNow.has(k),isHistoricalIV=historicalSet.has(k);
+      if(isCurrentIV)currentIVRows++;
+      if(!isCurrentIV){nonIV++;kept.push(row);seen.add(k);continue}
+      if(isHistoricalIV){historicalMatched++;kept.push(row);seen.add(k)}
+    }
+    const missingHistorical=historicalNames.filter(n=>!seen.has(fold(n)));
+    return {
+      rows:kept,
+      diagnostic:{
+        raw:snapshot.raw,
+        uniqueCurrent:snapshot.rows.length,
+        currentIV:ivNow.size,
+        currentIVRows,
+        nonIV,
+        historicalExpected:historicalNames.length,
+        historicalMatched,
+        filtered:kept.length,
+        duplicateCanonical:snapshot.duplicates,
+        missingHistorical
+      }
+    };
   }
 
   function build(rows){
@@ -38,7 +79,7 @@
       const risk=base?.risks||'Confirmar contraindicações, interações e reações adversas no RCM/SmPC.';
       return {
         n,g,
-        s:'BASE V0.2 RECUPERADA · confirmar monografia individual',
+        s:'BASE V0.2 RECUPERADA · origem estrutural histórica validada',
         q:[use,`Monitorizar: ${mon}`,`Risco-chave: ${risk}`].join(' '),
         pd:'Mecanismo específico dependente do medicamento; confirmar no RCM/SmPC da apresentação concreta.',
         use,
@@ -56,29 +97,32 @@
   async function install(){
     if(window.FCC_MEDICATION_CATALOG_V6?.count===EXPECTED)return true;
     const started=Date.now();
-    let rows=null,observed=0;
+    let snapshot=null,filtered=null,lastDiagnostic=null;
     while(Date.now()-started<8500){
-      const list=document.querySelector('#med4Results .med4-list');
-      observed=Math.max(observed,list?.querySelectorAll(':scope > .med4-mini[data-med4]').length||0);
-      rows=canonicalRows();
-      if(rows)break;
+      snapshot=canonicalRows();
+      if(snapshot){
+        filtered=historicalRows(snapshot);
+        lastDiagnostic=filtered?.diagnostic||lastDiagnostic;
+        if(filtered?.rows.length===EXPECTED&&filtered.diagnostic.historicalMatched===198&&!filtered.diagnostic.missingHistorical.length)break;
+      }
       await new Promise(r=>setTimeout(r,50));
     }
-    if(!rows){
-      console.error(`[Medication V6 recovery fix] canonical list did not reach ${EXPECTED}; observed=${observed}`);
-      window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:0,observed,ok:false};
+    const d=filtered?.diagnostic||lastDiagnostic||{raw:snapshot?.raw||0,filtered:filtered?.rows?.length||0};
+    if(!filtered||filtered.rows.length!==EXPECTED||d.historicalMatched!==198||d.missingHistorical?.length){
+      console.error('[Medication V6 recovery fix] historical reconstruction failed',JSON.stringify(d));
+      window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:0,ok:false,diagnostic:d};
       return false;
     }
-    const records=build(rows);
-    const unique=new Set(records.map(d=>fold(d.n)));
+    const records=build(filtered.rows);
+    const unique=new Set(records.map(x=>fold(x.n)));
     if(records.length!==EXPECTED||unique.size!==EXPECTED){
-      console.error('[Medication V6 recovery fix] integrity check failed');
+      console.error('[Medication V6 recovery fix] final integrity check failed');
       return false;
     }
     window.FCC_MEDICATION_CATALOG_V6={version:VERSION,count:EXPECTED,records};
-    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,observed,ok:true,source:'V4 canonical direct-list entries + contentPack'};
+    window.FCC_MEDICATION_CATALOG_V6_RECOVERY_FIX={version:VERSION,expected:EXPECTED,count:EXPECTED,unique:unique.size,ok:true,diagnostic:d,source:'V4 canonical rows filtered by historical IV set from V0.2 commit 0264d930 + contentPack'};
     document.dispatchEvent(new CustomEvent('fcc-medication-catalog-v6-ready',{detail:{version:VERSION,count:EXPECTED,recovered:true}}));
-    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED} canonical records`);
+    console.info(`[Medication V6 recovery fix] restored ${EXPECTED}/${EXPECTED}; current=${d.uniqueCurrent}; currentIV=${d.currentIV}; nonIV=${d.nonIV}; historicalIV=${d.historicalMatched}`);
     return true;
   }
 
