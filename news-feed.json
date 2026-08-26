@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-26T11:02:46.505702Z",
+  "updatedAt": "2026-08-26T14:08:35.339567Z",
   "health": [
+    {
+      "title": "Incêndio mata 15 recém-nascidos em hospital na capital do Paquistão - RTP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWJ6eUZQUXRlR0lPUU5wazc4RS1OaGNmTTA0Q3Z3NlBkNUtEZWV0TkkwRGVORkU0cnRQT3Y0MFlxeDVTX1RqMWlMbGs2RkZBeUxBOU0wcGRvS3AycGJldnNVMTEzZ29LcGJTVWZzTHRVQ0E2elJvQWVxc1dZVUV5Nkk2QTJkaWpqSzBzbjUta3BoSzdUZkhCVnVHbHRRX1ZOeHpBSWlaTHMxdkZKeHNR?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-26T12:46:11Z",
+      "description": "Um incêndio que deflagrou na manhã desta quarta-feira, num hospital público em Islamabad, capital do Paquistão, matou 15 recém-nascidos. O fogo terá tido origem no sistema de ar condicionado.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5edffd0a4ae33897eb4865f4c8dfebbf?w=860&q=90&rect=0,172,1500,822&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/incendio-mata-15-recem-nascidos-em-hospital-na-capital-do-paquistao_n1761560"
+    },
     {
       "title": "Farmácias recebem 3,5 euros por cada vacina contra a gripe - Público",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2xDNWtzTjVBN1ltZzZrSnNvcFdDVzFJZzFBckhEWUwteExIYkxMZ1AwT1RYaUhrWmZLOWRFRE5iS0tGSnlOM0x2a0luTk1KV2RqMS1lNVl3VVB0VU1ULXZZdFVad2N4cVRYQVFWYzRTUmlPSE12NER0WFZIU3YwU2hnb1ZFdEFzRzQzblBkX0lYX2VXTDE3aHpCMmUwMm15?oc=5",
@@ -20,67 +29,49 @@
       "articleUrl": "https://pt.euronews.com/cultura/2026/08/26/encontradas-ruinas-de-hospital-para-marinheiros-do-seculo-xvi-no-peru"
     },
     {
-      "title": "Incêndio mata 15 recém-nascidos em hospital na capital do Paquistão - RTP",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWJ6eUZQUXRlR0lPUU5wazc4RS1OaGNmTTA0Q3Z3NlBkNUtEZWV0TkkwRGVORkU0cnRQT3Y0MFlxeDVTX1RqMWlMbGs2RkZBeUxBOU0wcGRvS3AycGJldnNVMTEzZ29LcGJTVWZzTHRVQ0E2elJvQWVxc1dZVUV5Nkk2QTJkaWpqSzBzbjUta3BoSzdUZkhCVnVHbHRRX1ZOeHpBSWlaTHMxdkZKeHNR?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-26T07:44:28Z",
-      "description": "Um incêndio que deflagrou na manhã desta quarta-feira, num hospital público em Islamabad, capital do Paquistão, matou 15 recém-nascidos. O fogo terá tido origem no sistema de ar condicionado.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5edffd0a4ae33897eb4865f4c8dfebbf?w=860&q=90&rect=0,172,1500,822&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/incendio-mata-15-recem-nascidos-em-hospital-na-capital-do-paquistao_n1761560"
-    },
-    {
-      "title": "Leonor entrou em Medicina aos 15 anos com 19,63 valores: “Para mim, é algo bastante normal” - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcnhNRFlLM01fajdwT21tX2dWeGJETlRYVVpfQkRrUG9zb01BQmFNV2prMXlMVGdGSEFZUlcyem9wZnN6eTM4Nko1Y2tTUVl3TDNScjgyZlUyMWozcXZkWHNMR0pHOTJkenlFWDVKSU5ibExBMjJ6VFU2TEltQWJqUDNQWkc4V1FUNjRYanBNdnJHMkhhWURBMGV6eUZzTXI2R1R6TGpsbHVoUVNGbUk3c1NKOWMyb3ROOTlCQnFzaEdzb1JsbUtwdks0bGRMd0hGa1d1RTBYTjF5VjJLUzZ5Q3NvNA?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-25T19:53:00Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/pais/educacao/2026-08-25-video-leonor-entrou-em-medicina-aos-15-anos-com-1963-valores-para-mim-e-algo-bastante-normal-6a170dd9"
-    },
-    {
-      "title": "Incêndio em hospital no Paquistão mata 14 recém-nascidos - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0t4ZGRyYnBOTmJoUDRrT2xTX2R1eVQtTjQ3OUNNWU82MTNFZW1HVDg4bWpBRE1Gc2VxM21ZMlByeklfa2YzUFVBdURlMDdHbkQ4VmltQ2tFNkJZS3lzb3FHSmQxNGlJeFFzQXAtVC1BM05mTXVMMzdIaGN1QTJMQVNCUlFiVDN4ZnplZmVR?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-08-26T07:20:45Z",
-      "description": "Um incêndio num hospital público em Islamabad, capital do Paquistão, matou 14 recém-nascidos na manhã desta quarta-feira, 26 de agosto, informaram as autoridade",
-      "image": "https://media.assettype.com/dn%2F2026-08-26%2F3ctpmiwm%2FDOC.20260826.47663594.13191834.jpg?rect=0%2C58%2C3402%2C1786&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/internacional/incndio-em-hospital-no-paquisto-mata-14-recm-nascidos"
-    },
-    {
-      "title": "Pelo menos 15 recém-nascidos morreram em incêndio num hospital em Islamabade, no Paquistão - Observador",
+      "title": "Pelo menos 14 recém-nascidos morreram em incêndio num hospital em Islamabade, no Paquistão - Observador",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUlnUzhySU5qUEs1QW1wWGJlNTd3VHRhN0ZERzZfOVdkN0tXT1p0NktHcVpnd2V0TDRBSDdubnEwclp5OXFzR0RneEU4Y2ZhclAtTmxMdTNiVVZaQVExaVRTWWFkMkIxT216VXZPWU1OWTlKWEU1ZEUyQmtTY3JMS3d1b0M4Nkk0XzM1UVl3Mk94amJ4UUNHMXA0UVFpYjlYVmo4T3lzSUtxMUJEbE5xbTM1aG9oVUtNZjd0eXdWeFo?oc=5",
       "source": "Observador",
-      "publishedAt": "2026-08-26T06:39:04Z",
+      "publishedAt": "2026-08-26T12:25:27Z",
       "description": "Incêndio teve origem em sistema de ar condicionado e propagou-se devido a canalizações de oxigénio. Recém-nascidos estavam em incubadoras ou ventilados. Primeiro-ministro exigiu investigação.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2306%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F26073328%2Fgettyimages-2291549866-scaled.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/08/26/pelo-menos-15-recem-nascidos-morreram-em-incendio-num-hospital-em-islamabade-no-paquistao/"
     },
     {
-      "title": "Medicina 3.0 chega a Sintra-Cascais com hospital de ponta da Lusíadas - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSU1rZlJfLW5XWUN3SVhELWRSY3NCTXlnbjRPWEMzOUtTTlZlR3RCWHhncFhJM09zT3k1U3R3dG8tUkprMXppcklyMlZJZndfU3V4ZzZvWWdZZ0pmVVpFeWZBbXBDMlRJRVU0aHl3Zy1lRjNTYVlZUGE1Vk1FV0FaVk5QU2Zka05CTkRzVXRUUUZYTnpwZzdmbGZxMmFDOGtHX0dXWk9n?oc=5",
+      "title": "Leonor tem 15 anos e entrou em medicina com média de 19,63: “Sempre fui a mais nova, estava à espera disto” - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNNWptVDJ1aEdZdmx3Ry1OdHU5blVfU0dKUy1kV3hhT3h6dFhjTGZVXzh6U0VHOWh5cEdmNndkS1hjcTdNZjVPajFSZUxmU24tbHJxVl9fa3VrMl9fdlotU29mVzdxZkJwYWRWR3FxVVVDbnNOZzh1LXRwbUphTnlUckhpMXJNSHh0VE1tY1JwVW9XQ0lSYk1xWUJWbGJURW5OZHhWclZXSDRUcXpiU29RUUNCaG9mMnhybTl3dFhRNy1FQ3czS1RxZjBtckJsWk9hVnN0Z1hyWTZmNHhETVVuZkxJcktfX01penNESVdiMEpjVHNHenZtWDhuSWd2TFFfRUFDZndlLWVPXzhaZG9nemF1ZnUzVE9MLUEySXRoY21mckE0NlEyLUpkZl9YN2VVWjZiZVh0eUZFdzQ3Vy1xOTFzd3RwQ3JENVF1Z3FyOGpkb1NSZXplSk5rZUwyOXBORTZockJJRkM4QUMxeVNhVU10bC1fV2lxX28ybjR1eGlSaEdfWnlXLUlzT20wVE1GZGZOTDZ3R3I3eWlqU1VBVkk1dUNVanRncGRFc3ZiTlVocU9oeHFud3VHTkRIR3JmZzFRak8xcF9FS0R3VnUwamV1VUZYdGp5SXM0Zzc1ak5mRTlpUFIxaHVxMndBdXpPQ3BpTllRWjZqbldVSEg3OWVWaw?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-26T09:37:10Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/educacao/2026-08-26-video-leonor-tem-15-anos-e-entrou-em-medicina-com-media-de-1963-sempre-fui-a-mais-nova-estava-a-espera-disto-6b67d6fd?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/educacao/2026-08-26-video-leonor-tem-15-anos-e-entrou-em-medicina-com-media-de-1963-sempre-fui-a-mais-nova-estava-a-espera-disto-6b67d6fd"
+    },
+    {
+      "title": "Bolieiro inaugura Unidade de Saúde e promete “prioridade estratégica” - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT1NXRkxlcWZhRnlDYVBhenI5UHhRUXNqVFBIR0VVbFVCZ0s4bDRpd0JwSUdXcU9iRERWYVZoUUExdDh2ZmZUS2t1RG9KT05jM21yWFJadnJGM01xb3FkajltYkFEY2NxZ0VadnRmSEZ0NHRvanFwV0dKMlI5UE1yZUFuaFI1M2hTS3pGU1pGYXpIR3RmUmRwUVBoNHplVS05bWRJ?oc=5",
       "source": "HealthNews",
-      "publishedAt": "2026-08-26T06:24:18Z",
+      "publishedAt": "2026-08-26T11:20:50Z",
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://healthnews.pt/2026/08/26/medicina-3-0-chega-a-sintra-cascais-com-hospital-de-ponta-da-lusiadas/"
+      "articleUrl": "https://healthnews.pt/2026/08/26/bolieiro-inaugura-unidade-de-saude-e-promete-prioridade-estrategica/"
     },
     {
-      "title": "Município de Guimarães lança projeto-piloto de serviço 'Vai e Vem' para a zona do Hospital a partir de 7 de setembro - cm-guimaraes.pt",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjE4MXZYTU5RNzBVUVl1SEtKcjJRNk5xTEhrVHZqRGttajl3c21ZUFViN1NyUnF6VGFIcGs2RHBDUGw5UW5pTnFiUWI4NWNNMzhOTUlIR0lXamtMczY4QWE3ZjlzWTVyRE91dDk3UFdLN010RFNHc3FwSVAxMGRCaDNHT053SndRSmQ2RFZyZmN5Y0RBZ2p2OTlFRHotdGVGaU1xQ0JUTlBLNUJTcm9wZzUxNW9WcGZTWkgyZGpvaVU5VTBMTjBBR2VDbVhOMjB1b2xfZGVGbmRoZG9DN0QyWnUycF9BS0lTc1Z5ek10bEFHOFFHOUZjTlJoY2xqZDNI?oc=5",
-      "source": "cm-guimaraes.pt",
-      "publishedAt": "2026-08-26T10:03:42Z",
-      "description": "O Município de Guimarães, através da Vitrus Ambiente e em articulação com a Tempo Livre e a ULS - Unidade Local de Saúde do Alto Ave (Hospital de ...",
-      "image": "https://www.cm-guimaraes.pt/cmguimaraes/uploads/news/image/10134/vitrus_vaievem_01.jpg",
-      "articleUrl": "https://www.cm-guimaraes.pt/areas-de-intervencao/noticia/municipio-de-guimaraes-lanca-projeto-piloto-de-servico-vai-e-vem-para-a-zona-do-hospital-a-partir-de-7-de-setembro"
-    },
-    {
-      "title": "“Trabalhamos muito, sem olharmos para a saúde ou para o que influencia o desempenho” - Público",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3N1MXFrRlBXSk4yMV90emozYmZ1STE5Sm5oVjdzeUwwaC1vdlAtSXZ1U3owakNlQlBRRS1vdC02cjBkaXJuRWkwTjVabFRhcUs0aVNYVTRWX3V5UUcyVk9RZTZzOHNqWUlFbDFtbTdQZ3dEdnVkV3Y3TmFBd2IxX1NJc05UUzR5Smk2a1JRWWdlX3F3TnV4RGtEeGpncGZ6R09xR25VUlUtSWlKZkFV?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-26T08:10:52Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "“Já não basta dizer que o azeite faz bem à saúde, é preciso prová-lo: nós fomos para a Escócia demonstrá-lo” - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORmlYekRfOHNQVGxtT0p2Nm0yZmZpN1R6aFlhb1JPMWxmdGdUNVc0R1ZzTjg5Mk5ibERlTUJfek9STTZCajlKcXdjZFlHR3hOZkRLbkVTMDBaNTZXX2V6Ui1hYmJ5RU9FNnd2a216WndxRzVYNFhkYzZ4NHRseEVaenNxRG5MUUJFWjZwY1NBeHYtZGlXd0s0VzBlYzBXSk40aDcxNnJVZkNKcE1yTGhkVGV6SGdVdHF6UXRWSkNYZDR1dDUyOWp6LU8zWDBDdFFNRUlHbTR0Y2tfLTZkWjgwMTc1UDVDUkgwSUVtanNpUzF4RkdYcDQya0o5b2xFclBoNGNoVlpaTQ?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-26T10:23:20Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/26/economia/entrevista/trabalhamos-olharmos-saude-influencia-desempenho-2186095"
+      "articleUrl": "https://sicnoticias.pt/podcasts/liga-dos-inovadores/2026-08-26-ja-nao-basta-dizer-que-o-azeite-faz-bem-a-saude-e-preciso-prova-lo-nos-fomos-para-a-escocia-demonstra-lo-2b4e1271"
+    },
+    {
+      "title": "França: cancro da mama de comissária de bordo reconhecido como doença profissional - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXcxU0xWNlZYUG80ZERBcjY1VWMwdWdId1hDRUJadlBGckNDRHBWOGdHdWV1bHBmOXB2alFNZW9YZ2lBakhOZFhWWWt1NjI4U08tZlllRDhVcGRQbzV4QzQyNDBZbVdwUlpCOUNlSDlBbVBmallzRmJkWmhsWmtUR3FhTldld3lZVjhiX2JfWms5NzU3WDgwZVdBVDljeTh1ejAxcVZqY183dVFudUEydHl3VkdUa2lwZzBOdWFsUQ?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-08-26T11:03:38Z",
+      "description": "Antiga hospedeira de bordo da Air France viu o cancro da mama reconhecido como doença profissional, estreia na aviação, ligada ao trabalho noturno, radiações ionizantes e fumo passivo.",
+      "image": "https://images.euronews.com/articles/stories/09/88/95/20/1200x675_cmsv2_f45a0896-cd09-5b31-96b4-4465f9fa24e7-9889520.jpg",
+      "articleUrl": "https://pt.euronews.com/saude/2026/08/26/franca-cancro-da-mama-de-comissaria-de-bordo-reconhecido-como-doenca-profissional"
     },
     {
       "title": "Leonor Lopes entrou na Faculdade de Medicina com 15 anos - RTP",
@@ -92,6 +83,15 @@
       "articleUrl": "https://www.rtp.pt/noticias/pais/leonor-lopes-entrou-na-faculdade-de-medicina-com-15-anos_v1761497"
     },
     {
+      "title": "Vídeo. Encontradas ruínas de hospital para marinheiros do século XVI no Peru - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFJrLWEwVFM2N0ZlTmx2MkNXd0JWclBDTUZZR2tvYllUblc1TzhkWFZwWk9VMUswYUNUU3dBa1Z1ZGZmN0ZEdktxaVhPREFRX3Y5ODJhR0dVZEdGVFE4X2RxbFNWY0YwLW1IbXNjaURIem1IY1UyMnM3MnlsUkMwS19BWUdMRVJBd0plRGVReTZzWnAzRUg5VzhXLXBmYng3NEpFWHNLVVl1b3dRbmlZ?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-08-26T10:29:56Z",
+      "description": "Vídeo. Arqueólogos descobriram em Lima um hospital e uma igreja da era colonial que tratava marinheiros doentes. O hospital data da década de 1570 e funcionou até perto de 1821.",
+      "image": "https://images.euronews.com/articles/stories/09/88/89/67/1200x675_cmsv2_8ec45897-0208-5128-a5b6-5b23b4c8d0cc-9888967.jpg",
+      "articleUrl": "https://pt.euronews.com/video/2026/08/26/encontradas-ruinas-de-hospital-para-marinheiros-do-seculo-xvi-no-peru"
+    },
+    {
       "title": "Incêndio mata 14 recém-nascidos em hospital público no Paquistão - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0NfLTBNeC1rQkVRcUtXVWxWaW5wMlFMVW1Fa1htcHpNTkVmVTlOOVNpeUtsaVl0QTlpVmpsNVBhclhmdFE0NkpLZFNJejZTQlU5b1hXVWs4U0YxMWpUODBmcjhJdVVTbkdHU2xGSUlTRktXTEI3anM2OGZ6Y2dwQ0M4cmVLcWFPd1kwQ0paU3Z4ai1oaXZ2YmUwd19EMXJ0MERRU25n?oc=5",
       "source": "Euronews.com",
@@ -100,15 +100,51 @@
       "image": ""
     },
     {
-      "title": "“Já não basta dizer que o azeite faz bem à saúde, é preciso prová-lo: nós fomos para a Escócia demonstrá-lo” - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORmlYekRfOHNQVGxtT0p2Nm0yZmZpN1R6aFlhb1JPMWxmdGdUNVc0R1ZzTjg5Mk5ibERlTUJfek9STTZCajlKcXdjZFlHR3hOZkRLbkVTMDBaNTZXX2V6Ui1hYmJ5RU9FNnd2a216WndxRzVYNFhkYzZ4NHRseEVaenNxRG5MUUJFWjZwY1NBeHYtZGlXd0s0VzBlYzBXSk40aDcxNnJVZkNKcE1yTGhkVGV6SGdVdHF6UXRWSkNYZDR1dDUyOWp6LU8zWDBDdFFNRUlHbTR0Y2tfLTZkWjgwMTc1UDVDUkgwSUVtanNpUzF4RkdYcDQya0o5b2xFclBoNGNoVlpaTQ?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-26T10:23:20Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "“Trabalhamos muito, sem olharmos para a saúde ou para o que influencia o desempenho” - Público",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3N1MXFrRlBXSk4yMV90emozYmZ1STE5Sm5oVjdzeUwwaC1vdlAtSXZ1U3owakNlQlBRRS1vdC02cjBkaXJuRWkwTjVabFRhcUs0aVNYVTRWX3V5UUcyVk9RZTZzOHNqWUlFbDFtbTdQZ3dEdnVkV3Y3TmFBd2IxX1NJc05UUzR5Smk2a1JRWWdlX3F3TnV4RGtEeGpncGZ6R09xR25VUlUtSWlKZkFV?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-26T08:10:52Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Estados Unidos e Rússia, contactos entre serviços de informações - RFI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjI3WmZuSGYxUUREaktoUWlpMmY3VFJ3WnIybGlXb0lwNDR5VTJ3alZteWhsd2xveUlIRi1ldWpmdHZKWko1dldDbW5VYlZ0UnZhcmxqci1UeWtOMldVVHJQU3ozVV9ZanpnMVdNR181VlBZNUxxbWNmYXNQYWZ4MDN0N0V2OFFsVVNIZGh3VlJUcDcxa1FVcklBc1NlLVllOUZmRVFWMFJ2Si1seHhPUEtOeFZKMlF6bXBkcg?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-08-26T11:47:04Z",
+      "description": "O director da CIA, John Ratcliffe, deslocou-se a Moscovo, a capital russa, na terça-feira. O porta-voz do Kremlin, Dmitri Peskov, confirmou a primeira viagem de John Ratcliffe à Rússia desde que assumiu…",
+      "image": "https://s.rfi.fr/media/display/2a3c5e42-a141-11f1-ada9-005056a97e36/w:1280/p:16x9/000-A6VY2T7.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260826-estados-unidos-e-r%C3%BAssia-contactos-entre-servi%C3%A7os-de-informa%C3%A7%C3%B5es"
+    },
+    {
+      "title": "Zelensky divulga carta enviada por Trump sobre compromisso dos EUA com a paz - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlFkc24xN2lJMENBZno5ODNkeHdiVEhQQ0JfSHdhUXJWMTZJR2lQV1dRTjdHcXM3OHZtYXB0ZzU2VmFaWFlqeGVJWG91Nl9yUXIyWlpuNlA4Sl90UHR6Y1RFZ3RrVjRtQ3hhVlI3WmhjdEQ0eHZDOEE3LU83UWhsU25DVVBTVzFmc19SQkhNVVhsUnBHS2FIcFpyR3N3UTNPYk11VlN1SlRRRzZ1WWNHUFJ2WDhZeW1qN08wRFpxMWdCaVh6SVNialNSNA?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-25T08:37:49Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-08-25-zelensky-divulga-carta-enviada-por-trump-sobre-compromisso-dos-eua-com-a-paz-c75ff809"
+    },
+    {
+      "title": "Guerra no Médio Oriente e falta de aviões cortam lucros das companhias aéreas para metade - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNkNuVkZ3YlNuWW83ZFZLTTFaM0dtRzVSc0dmY3pjMEdKY2wzT2Z5c0NveTg3NUpaR041T1I1bWxFSnJINTRxQUNRUVRTVHEyLTNMRmlwVnRfb19kWjVmaFA1dkZfXzQ5a0RfM1AtMDQtc3ZGeVRJam9pM3pIUVUxSUFyYUlrX09UX2l6ZUZvNk8xMEowdlZDdlJLaUxseFJ5R1A5M1J2SFpTYnAtUm5uc0VOSW01SEpxT084cENLS1VVN2NMMjQtUWhfWWRzbUNMc0NlM2RqX3Rvc0hPd0pYdnFYY0phZG1IYV9wRGJ3?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-08-26T08:45:58Z",
+      "description": "A IATA alerta que a guerra no Médio Oriente e a falta de novas aeronaves deverão cortar para metade os lucros da aviação comercial mundial em 2026. As companhias enfrentam custos recorde de combustível e desvios de rotas, enquanto a Ásia ganha peso no setor",
+      "image": "https://img.iol.pt/preset/695ab3160cf229bd2f8f8d1b/og/sol",
+      "articleUrl": "https://sol.iol.pt/geral/noticias/guerra-no-medio-oriente-e-falta-de-avioes-cortam-lucros-das-companhias-aereas-para-metade/20260826/6a8ea96f0cf2f6a1a1e7541f"
+    },
+    {
+      "title": "Irão diz-se “preparado” para novas sanções americanas - Público",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU9Hb3B1SXNta1JpMWdJbXAzV21UemlTMmZPZk5wV1JNZnVCZEJxbFFCMUh6ZG96UHFUT3FYTkhzUmJLRnMtaXNOYUVrbmx0M2Z6SEdjODNpLU5jdUlMazc3cHRDclRzZVNmMzlBaVRBMHo5dE5BMlhEQU94ME1LNGFmX3EzN0NNTkdqSktjeFFCVWJXenRpT2VPZjBCQXF1ZlQ4?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-25T11:39:30Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/08/25/mundo/noticia/irao-dizse-preparado-novas-sancoes-americanas-2186015"
+    },
     {
       "title": "Guerra comercial entre Estados Unidos e Canadá - RFI",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUW1qZlJQMS05cUd1SnpQZXB4STMwd28xN1BLV2Q1NHl2eWdXQVIta2UxNm0tai1DREp4dFVpLUgzYThBVWpibFNVOWR2dE8wRVVvSmVsMC1qYjZaaXVEV2ZxTEdLUlo3TjEzaDNYOWVyOEJyTEJ6WEJBdE53WW5ITUZ5QldNUnBaVk9vVlo2VG9pZw?oc=5",
@@ -117,15 +153,6 @@
       "description": "O Canadá vai impor novas taxas aduaneiras a produtos provenientes dos Estados Unidos, em jeito de retaliação às taxas impostas pelos norte-americanos aos produtos canadianos. A guerra comercial intensifica-se…",
       "image": "https://s.rfi.fr/media/display/0b9d51c4-a067-11f1-8cf6-005056bf30b7/w:1280/p:16x9/2026-08-24T163056Z-1186857443-RC2R3NAM318W-RTRMADP-3-CANADA-DEFENSE-ICEBREAKERS.jpg",
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260826-guerra-comercial-entre-estados-unidos-e-canad%C3%A1"
-    },
-    {
-      "title": "Estados Unidos: diretor da CIA chega a Moscovo em visita secreta - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1dMRjFnVlJSRFlFSWMxSms0U2J1aXVMTWdxdVpCd3l4M1Atb1g5dWNxdjB4bXhLWTB6UE43REZSd3FLcGdiYk9ydlliaExxOEJkN2YtZHJaZ1F3TWZWNWZHeGJXRnhESzMzQ2pWU01QbHdSOHlNeFYxRXN6cUVPT0daMWxPUDdmUUlHYmRGYVluVjkzdEY1NHJYenFjUXRXRkdqUjRHWV94elJS?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-08-25T15:16:40Z",
-      "description": "John Ratcliffe terá chegado à capital russa na terça-feira para reuniões, numa que parece ser a sua primeira visita à Rússia como diretor da CIA. Nem o governo dos EUA nem o da Rússia se pronunciaram sobre a identidade do responsável norte-americano na Rússia nem sobre o objetivo da visita. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/88/83/58/1200x675_cmsv2_7be52bd1-8c36-5fe3-b3e8-0599a1e2dd62-9888358.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/08/25/estados-unidos-diretor-da-cia-chega-a-moscovo-em-visita-secreta"
     },
     {
       "title": "Guerra económica norte-americana é \"assédio sistemático\" à soberania dos Estados, acusa o Irão - Expresso",
@@ -137,31 +164,13 @@
       "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-25-guerra-economica-norte-americana-e-assedio-sistematico-a-soberania-dos-estados-acusa-o-irao-d2cf84ed"
     },
     {
-      "title": "Presidente da Ucrânia revelou carta enviada por Trump sobre empenho dos EUA na paz - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHNoclF4UjlvMUFNc1pEbzBfWi1JdThFQ2luMGc1NERBc0tBYTIzcW9DS2pTQTdxVUIxaUhUMnJRZFhuaEZDbnRlZ0hWVDNkcnJONE9zZVBYS2ZpS0MzcktSU0JHMGZPajRaakg3NDkwRFMyNkNha1pHU3ZqcDV0WXIwRGMzeUFkSUREUldmQVdRbnV1TkhBZjAzZk9pb0JtVjVLaS1sRmUwckVhUjEzelRUOThZbXc?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-25T09:23:34Z",
-      "description": "Zelensky publicou nas suas redes sociais a carta enviada por Trump e destacou o tom \"invulgarmente caloroso\" da mensagem. EUA estão disponíveis para dar um novo impulso aos esforços de paz.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1123%3Anowe%3A0%3A33%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F25095400%2F47656677.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/25/presidente-da-ucrania-revelou-carta-enviada-por-trump-sobre-empenho-dos-eua-na-paz/"
-    },
-    {
-      "title": "\"Existe uma mão dos Estados Unidos\" para \"forçar Zelensky a aceitar um princípio de acordo com a Rússia\" - TVI Player",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVlyZHVjcl9ncWJKRnFDWWVsNnRhd1pXSGZMRTFkUkVWYUZNNkVBNml5RDdBTkUzMkIzemRiNnhKN0dRSnlGUEkxZHlqc0l4bEF0SG9JTDZkS0daUWZobHZDOWxTUFE0ZWVaSWUwZFBUSkVZQWp0UDVEM0lNejBzSVc2d1NKdGtEZXlydUs2MkdLbFhBS05hRU5FN0xmY0xBd0huWjVfRQ?oc=5",
-      "source": "TVI Player",
-      "publishedAt": "2026-08-25T23:11:00Z",
-      "description": "Miguel Baumgartner, comentador da CNN Portugal, analisa o papel dos Estados Unidos na guerra entre Rússia e Ucrânia. O comentador menciona declarações do antigo ministro da Defesa da Ucrânia de que o país pode perder a guerra e entende que \"existe uma mão dos Estados Unidos\" por trás de Fedorov para pressionar Zelensky por um acordo de paz.",
-      "image": "https://img.iol.pt/preset/6a8e1d8ed34e511da0b35565/og/tviplayer",
-      "articleUrl": "https://tviplayer.iol.pt/programa/cnn-prime-time/6193932f0cf2cc58e7d362d6/video/6a8e1c910cf2b42132dbf00d"
-    },
-    {
-      "title": "Irão diz-se “preparado” para novas sanções americanas - Público",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU9Hb3B1SXNta1JpMWdJbXAzV21UemlTMmZPZk5wV1JNZnVCZEJxbFFCMUh6ZG96UHFUT3FYTkhzUmJLRnMtaXNOYUVrbmx0M2Z6SEdjODNpLU5jdUlMazc3cHRDclRzZVNmMzlBaVRBMHo5dE5BMlhEQU94ME1LNGFmX3EzN0NNTkdqSktjeFFCVWJXenRpT2VPZjBCQXF1ZlQ4?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-25T11:39:30Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/25/mundo/noticia/irao-dizse-preparado-novas-sancoes-americanas-2186015"
+      "title": "Guerra e escassez de aviões reduzem para metade lucros das companhias aéreas - Dinheiro Vivo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHZJd05WTWxYYjRWV3d0dmQ2LWtsRm1iU3p3Q244cGFLYVBxeV8zUFhXYXRobFBWMDNORC1vSjhVakVjd1A2bjFjX1g3Njh5Y2E4TlJoQ0FVWF9LTUlHS2wtTnh4OWp2bFcxY0haYklLSkh5LVp2Z1o3eGIxYTF3TEJXRUFWNnQ3WVlDUlVmUllKZ3Fibkg4SzRCTmV5ZG92T3NKMU5IYkU1QTFHM3c?oc=5",
+      "source": "Dinheiro Vivo",
+      "publishedAt": "2026-08-26T07:11:23Z",
+      "description": "O conflito no Médio Oriente e os atrasos nas entregas de aeronaves, deverão reduzir para metade os lucros da aviação comercial global, avisou esta quarta-feira",
+      "image": "https://media.assettype.com/dn%2Fimport%2Fdvlrsekjvabvdvos%2Fppgmerasilwx.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "http://dinheirovivo.dn.pt/empresas/guerra-e-escassez-de-avies-reduzem-para-metade-lucros-das-companhias-areas"
     },
     {
       "title": "Apoio militar à Ucrânia: «Proteger a Ucrânia é proteger a NATO» - Now Canal",
@@ -182,15 +191,6 @@
       "articleUrl": "https://zap.aeiou.pt/guterres-limites-superpotencias-761483"
     },
     {
-      "title": "Diretor da CIA faz visita a Moscou, diz imprensa; EUA e Rússia não confirmam viagem - G1",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFI2QVF0aWFEcVM4cDJySUkyazF0VTVybHN3NHlENEZZdm8xUlVjVTkxdVRqcGhPWHFkUU5kQTRvYl93LTZjSDliRGJMOThNS245WW9kN2N6c0ZxUE9RN2dDRnZpbTlNODhCTU13eTlqaXJER28xQ0YtVWVNYTY4eVdMbDJFWnVyVm41WmxXenVtSU9TR3c0SGNHV3JWX2vSAa4BQVVfeXFMUG5GM3Rsa29TVjYyeHBIcUhqQW5JaXVjWkduNmszMHhwdENBampRTmhlTng5NFFDd3J4Y1pjVkdObFNvMTMyVUVnMnVtUEJpdWhTWWlXSDRXeWN3WnV5V3RUbUdBWWZhTnhfa2RhUWVwVURza0NIZ003S2hFQXdMQ3R4Rlk2TG9yTFFVckU2TGpfV0Jra1dicV8tXzNOakVSem1ndG5sQkU4VU96R3Z3?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-08-25T15:54:14Z",
-      "description": "Dados de voo e relatos da imprensa indicam que o diretor da CIA esteve em Moscou nesta terça-feira (25).",
-      "image": "https://s2-g1.glbimg.com/RpAhdRLn5ZZGWNjb5u02BXMfXFo=/4564x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/s/4/Hz6PeVQiy0qkZxoJZpOg/000-1wv40n.jpg",
-      "articleUrl": "https://g1.globo.com/mundo/noticia/2026/08/25/diretor-da-cia-visita-moscou-nesta-terca-feira.ghtml"
-    },
-    {
       "title": "Zelensky vê janela para EUA mediarem fim da guerra na Ucrânia até 2027 - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ041dUZISXZnNnBCRXU4QmN3R3hiWkR3RzJJSXhHVV9RYTZlS0FPMXVIZndBak9uVWhYWE5maG1QUEdvMEFyRnA2eUVuaHZSS3ZWU3lkZElHRjdES3RTT3NBRWN6WmYtR2hVbDhScU1iNC1BUTNpOFdZcE9yMGxmS0E5X2ZwSGJ0bTRN?oc=5",
       "source": "CNN Brasil",
@@ -200,19 +200,19 @@
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/zelensky-eua-fim-da-guerra-ucrania-2027/"
     },
     {
-      "title": "França quer limitar compras militares da Ucrânia à China e EUA com dinheiro da UE - Executive Digest",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3BRV1ZrRnFTWko1VXU1eU9Vbi1kWjJsazJIZDI4cnhiZjFqX2YydFAwSWJtZ2VRNjB3YVJQX0V0cXBaVWRQMlZOdVVOMHFoNi1qbktINnduVHdVLVc2Q0ZmR3Q0blNTS016bFdmMWZYMVYyak84aUZhUmdZQWhKczFRWWZvc19BVE10Z2F4V3R0anR3NUh2NG1kUDdoRUxuTjNBRkhER2JNQVRCQmNtNXl0Sy0?oc=5",
-      "source": "Executive Digest",
-      "publishedAt": "2026-08-25T14:54:49Z",
-      "description": "Notícia publicada por Executive Digest. Abra o artigo para consultar os detalhes completos.",
+      "title": "\"Existe uma mão dos Estados Unidos\" para \"forçar Zelensky a aceitar um princípio de acordo com a Rússia\" - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMy1MdHNLRWp0N3NjckJJRzdZOEZyU1hSWTlxQ0xKSjl4VVhYaFY1NmhsUldQbkxxWHlobTFOOHNmWjBaZHptSGpmRUVlUThwNjNHMnlraERyUUpJNWVKM2JNOUxoUEN1NlgydWZZTVF2NU1KQ2NLc2hQVXFvZ01VZHZXNUd2Rld5ZXVrQUNaMEdlSE14X1huaC1mdXd4enU0aWczUUt4eFBUS1d6Tkt3RkxPdzlpQTFXcHp4M0hQLXJRZkZwTTNVcVJobzJmWmhBczN6cHlweThCYlQ4c1dOTmM3YXVWQTdfSU5OS3IwU0g?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-08-24T20:02:00Z",
+      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Ucrânia conta com a China para desempenhar papel diplomático importante no fim da guerra, diz Zelenskiy - Terra",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOY1RWUEd6bWNGbzllZW9IeDNsdmlWbFZZbTBWc1hGcDdwNWhvWXpxY0dwc053Rldmc2ZTbUgwZDRGWFpTOEJ6Vnkzc0xudGgtRHlXX0FlNXBCOE5HTE5ZXzl3VVE3UjBGNkZSWUhfRnIyN3FkZllVZmhyb3pEQjBoeDZ5cFV1U0hlNmUtY1MtZVkwQlRFclNKVmtBY0tCdjZLWFNoeEJaODlQSUF0VDdzNVAwdG9rdV8zcW5qWjlaWmdqSjdDd2VGaDBfcTBSdjUtWjdhQXhTb21LNkNKSXg0ZHdtbEQ3VzJUQWlhNmc2ZVNPU25GSDVSVDVkcjZGeEF3QU83TTlVV2NDZ2pxNjlCUGJIaG9iMmc?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-08-25T23:59:00Z",
-      "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
+      "title": "EUA querem apertar o cerco económico ao Irão, China diz que pressão não resolve - Público",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFI5ckFjbXdYMHhQRktvRDZRVGtGbUZfenMyamhpNkVqYmxmR2MtM3VncDFKMkt0X3k0TE9ULVpjVUpHV0ZZSVlISmF3TlhRV200ZFVUUk9fMFVJT2p2SWlXdmFGSUYzbTJzTlZzV0hhRHNVTks4eUxtSlJaVERLV3NLd3ljckFvODI0WVIxU0Z2Q0tkSm9GWjB5Q3Fpd3hodkczV3JWRXhkT0hBa3FESDB3cFBGemNUdUp2NU9R?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-24T19:39:15Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
