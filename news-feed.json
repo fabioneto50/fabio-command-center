@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-29T11:22:16.533854Z",
+  "updatedAt": "2026-08-29T12:22:20.023553Z",
   "health": [
-    {
-      "title": "Quase 170 mil utentes inscritos nos centros de saúde mas sem direito a médico de família - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdW1vREVKNVVXaEZTWEVzWS15U1VXZGdFdFIzakpIQXg5N3FPVGxjalEwXzJRUXAzQjVPOGJNaEhYMEFGTHhxVktuVm5DVl9iaGFabmdmN3NIeWVtNXJFbm5jcmN5Qm02dFVqU3NDVTRQZkhoUnZEQk15TFlXeDZlbzkwQncwXzhoWUUwUmE4b3lBRUYwN0dYOTJwa3pTd29TbkZjX0tSNkFjOGJua0NINTFsMGdGNWhRMnFGenRGbktQYWpFYmlvbTFB?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-29T08:07:45Z",
-      "description": "Já são mais de 160 mil os utentes que estão inscritos nos centros de saúde, mas que não têm direito a médico de família.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f9878645fa83108f896ea8cdbfce45d7?w=860&q=90&rect=0,0,1499,822&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/quase-170-mil-utentes-inscritos-nos-centros-de-saude-mas-sem-direito-a-medico-de-familia_n1762211"
-    },
     {
       "title": "Novas regras: há 160 mil utentes inscritos nos centros de saúde que não têm direito a médico de família - Público",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT2tNNGNRVXY5UDN3YXN2VEZ2YUY4eVdsX3J2WWhvNjczV3RqaFlIMjJremV3NGZTSVRCbjByYzNhT0lEWGFuNk1vak1uYkdPZXdiajBLTnROSWp4ODBxX3RYSE1TOFMwQkprRWxDbkJJTHBHcVZFQ3RrUEJSLUpmNWt0Qm9UYTFpbkhlQ295OS05UEpKRlFGX0FJYTVTWXFWdElTa0ZQTWhaNnhkTkRSU3EtZkVoMUwwa0tLS0xYT0U3Z3B6VHVUMEtfZ2xsV0lzTWZNY1gxOFdFUQ?oc=5",
@@ -18,6 +9,15 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/08/29/sociedade/noticia/novas-regras-ha-160-mil-utentes-inscritos-centros-saude-nao-direito-medico-familia-2186430"
+    },
+    {
+      "title": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZnBCcmxhZHpWRDR0Tkk0Q0FhWnhnSDgyX1hGVnREM2lNRjRKbC1JZHZsV29sdDhjdC03ckw2cjFlQ3R6VjRidVNCanU5MVIydl9SclMyUDZlUmE4WnRfWlBncHdjR2ZTdFlobGFVXzczdFJHd25oMTNOMkxtMmlLYVVUYm5CQ0VHRnRhSkd1ODM1R1dydFNQemNxMGRfLTdfV2N5MlFKdXcwaWpPLVEwWWtSSEI5VkZPbXhNRk91dGYtNXE2V21JSzh4NXZBMmZJT3gzeFRicE1wcXlzVHB4VUF0YUdaRUJDa3FiWWpUbWVWd0E?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-08-29T11:34:56Z",
+      "description": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas.",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/790147074_1070774732165946_6800882981505477747_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=iH21PsZRVkMQ7kNvwEQgtUN&_nc_oc=Adp-ZsEiR_WGptNqDGQ9T_STO6lEWG6Gm6HvEFl_2R4yc4cm2V5DdJYtMDgttkRIItk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UDZn4d1XdaNL8_wMxv1WsQ&_nc_ss=7820f&oh=00_AQL8ac8gk4WkyHQql3kzVc8km5e0QdSHZur5yil2ap5W9w&oe=6A98ACB6",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/ministra-da-sa%C3%BAde-estima-em-3800-as-pessoas-que-j%C3%A1-est%C3%A3o-alojadas-e-indicou-que-/1461559242742021/"
     },
     {
       "title": "SNS regista 10,77 milhões de utentes inscritos, com uma taxa de cobertura de médico de família de 87% - Expresso",
@@ -38,49 +38,13 @@
       "articleUrl": "https://cnnportugal.iol.pt/ossos/aterosclerose/quase-60-dos-adultos-podem-sofrer-de-aterosclerose-sem-o-saberem/20260829/6a929639d34ed0733ba825f0"
     },
     {
-      "title": "Vilar de Perdizes: 40 anos de Medicina Popular em Vilar de Perdizes celebrados com homenagem ao padre Fontes - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNYWhHXzVFOXVqV3pLbEIzOXo4TFE4d2l3dXVUQllicjFJN2pLRW5CQTFULTdBVVN2RTVmUVBxd3BvX3BuVzdsZmFLRm9mNlpULU80c1RDREl4ZEE0SkpNazY2RDNoS3Z1UFN2M2x5UXBfR3lhdUFuQlFENE1UeExBaFByRkhyZTRncS1oZkktUFFSbUV5emFWaFMxNUhnY0dYdXJnVjAyM3puTHJndFl4ZkVIS3FMX3RXSWV6bUtyUVRuU2d4S0hCVmR6cUx5dld2b0xXWWl5S3ZNYkhHcUlzOUlteURtczlrV3ZNLVFLSTNsZUxscFFoVVNCNlR0Qm1TU1BTWm45NVo0Q3hqVmtNLVU2N0hWa1YxTzZHNVN6ZFF2MTRnSGwxYWFQMUY2ZzhiclRUUU9ZbGh5ekZsU3ZWaUJKajFJLXMzVWhHSkdYZlVCUlpiUmR3OWJnMDctbldDeWFCYmFIMjFaS01mYUswOXlFOTl2NHZxNnZ6Ri1IRHNXMEpqT3hPdjNWQklKRzhoYVNGT2swNzUzLXNsbXc0OEYwZE83NzZ2NjE3NVUyWEQtemc4dnJSQUlvSmptSGFoNGpfOWExalVqZmF3Ni1HMS1hYlRnZHpuS2FCZnVRQ3R5NFhGNWlWMko0aHBEczdKdXlYZC1Paw?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-29T08:00:00Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/pais/2026-08-29-vilar-de-perdizes-40-anos-de-medicina-popular-em-vilar-de-perdizes-celebrados-com-homenagem-ao-padre-fontes-55c84e8e?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/pais/2026-08-29-vilar-de-perdizes-40-anos-de-medicina-popular-em-vilar-de-perdizes-celebrados-com-homenagem-ao-padre-fontes-55c84e8e"
-    },
-    {
-      "title": "O defeito escondido que pode explicar os surtos súbitos da doença inflamatória intestinal - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVVwQWFyM2g0djA4RW5CRVNMQWx1YUMtb0FTUGdpYTFGZ2VIUGRZNXlMWXh3SnNWTGFTLUVnU1B6VDRSY1RUWDFIR3pvWHFNd2tseVQ1WHRCZDdGZ2NRYzJJUEJEWm0wbk1JZ3ZwYnZrZ3JTWnhFQjJMT0RkZm1ISnNUOHkzcG9uUmx1d0c3N29Ubk4tVU1ZdlY0Q0ctWHdhYkd1N21SbHgxTXdjcWI5b3lpV3lFTmE4Y1NOUGQ3WTE?oc=5",
+      "title": "Amamentação intensa reduz risco de diabetes em mulheres com histórico da doença - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEdTWUdMVGh2enVKdlJ4MmItXzZaYTR0bG5xazFRalcyUUxuT0R4MUZRQ0l6Vk1Zak5Zbms0Yk1zMzQ3bzRxTDJmcnJUTjlpRkZ3cVpQeldEV2plUzdrSmlRMUd1Y2s0Z0xsRkxKTF9YSDNnZkVwVWpYdnRNSFBjTnhIcGF5QzZYUVJJcWxpTlBkcjNFcEJiX1RHZExnanRpUDNTbVNiZGVJZjN2M0hUVVJPTQ?oc=5",
       "source": "HealthNews",
       "publishedAt": "2026-08-29T06:19:59Z",
-      "description": "Investigação do WEHI revela defeito silencioso nas células intestinais que persiste mesmo quando doentes estão sem queixas, abrindo caminho para monitorização mais precisa e tratamentos personalizados",
-      "image": "https://healthnews.pt/wp-content/uploads/2026/08/DII_doctor-explains-colon-anatomy-with-model-tablet-n-2026-03-20-00-18-21-utc_ENVATO.jpg",
-      "articleUrl": "https://healthnews.pt/2026/08/29/o-defeito-escondido-que-pode-explicar-os-surtos-subitos-da-doenca-inflamatoria-intestinal/"
-    },
-    {
-      "title": "Noticias - GNR",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpWEloaVlLWTRWbm5XQlZzRUZzWXEtZXByRHJwMUd2azNaSkZ1VkpfQXdQblBuaTdKVndNakxBQVZ0MmpkbURCZjl2MkpPcmowcHNnN0xXOA?oc=5",
-      "source": "GNR",
-      "publishedAt": "2026-08-29T10:29:15Z",
-      "description": "Notícia publicada por GNR. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.gnr.pt/noticias.aspx?linha=32239"
-    },
-    {
-      "title": "Doente levada ao colo por motorista TVDE após funcionária de hospital recusar cadeira de rodas - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlBuRXRTQ09ZQTFXdUVWQ0ZKcG8tVGE3YWFJeHVVUU04Rm9zaXFsY1BSWURTcTBJYjVIZmxmRlRrbVdTeXJzSmd1QWRQellaNHBpN0lUZU1STVotcjRXVmhoQXo1N0piNEJtTzhsM01tU2hhTC05NkM1Ujc1R3Jla3c4bmNTQ2Z5alplVEl6ZWpjUmZmWEF5VWlGVGZUcUltd3FVb29JX2VaNHI1SzFaOWFFOTk4SmZGazZ2MTdSYTVUUmhQZWk2QWE2blBkUW5xOWfSAcwBQVVfeXFMT3BENEx4MUU1NG9fTEVkV2FMVzhvdy1CSGc0Zm1KdDVYZWJsdzJ5bkdqNzgyY3NRNVZJZEtTQ05kNVFIS1d5SjhlUDZPYkdpckhOZmpSTzNYd1QzNmdOUWgyVmVWUS1HSXdabHc4S2hwX1RCZHRXelBqa1ItQ1h0Wm81cWt6ci1BckEwMUd0TlBkNjFnM0VMTnBIQVp0QmEwenlNZWVnRXhfUGxzTDFGZU8zajRxWU5DclJ3NVFwX2l2ZURXRlRrYjd5NW02?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-28T17:19:00Z",
-      "description": "Insólito aconteceu no hospital de Cascais. Motorista de TVDE decidiu transportar utente para idosa não perder consulta.",
-      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x721uu2026-08-28-18-18-31-2305238.png",
-      "articleUrl": "https://www.cmjornal.pt/sociedade/detalhe/doente-levada-ao-colo-por-motorista-tvde-apos-funcionaria-de-hospital-recusar-cadeira-de-rodas"
-    },
-    {
-      "title": "Calendário de deslocações da Unidade Móvel de Saúde para setembro de 2026 já está disponível - Câmara Municipal de Baião",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2p1SEMzdENsN0tHYmdvcVZFM3ByRGNXWjBGUkgxSlBHUlgydGxqRjQwYWkwSjBiOWVIcXpxM3dlQjU3OEFYdHZhT1RHWXB6emdPQkJGTEU2c1FpTVJJVDU2Z2JEaUNIVllldDVtUkM1amJnc2FEMGJPbDRXSG9YelJMS1M4TGFWbloxdmFjb2I2OURNS24wUXBDdzliVFhvZ1I1WF95VFpicFN3X1UzNUQwZw?oc=5",
-      "source": "Câmara Municipal de Baião",
-      "publishedAt": "2026-08-28T19:23:36Z",
-      "description": "Já está disponível o calendário de deslocações da Unidade Móvel de Saúde para o mês de setembro, com indicação das datas, freguesias, localidades e horários previstos para a passagem deste serviço pelo concelho de Baião. Ao longo do mês, a Unidade Móvel de Saúde estará em diferentes pontos do território, aproximando os cuidados de saúde […]",
-      "image": "https://cm-baiao.pt/storage/2026/08/UMS-1296x700-1.webp",
-      "articleUrl": "https://cm-baiao.pt/calendario-de-deslocacoes-da-unidade-movel-de-saude-para-setembro-de-2026-ja-esta-disponivel/"
+      "description": "Estudo publicado no JAMA Network Open revela que a amamentação de alta intensidade está associada a perfis lipídicos mais favoráveis no pós-parto precoce em mulheres que tiveram diabetes gestacional, sugerindo um efeito protetor contra o desenvolvimento de diabetes tipo 2",
+      "image": "https://healthnews.pt/wp-content/uploads/2026/08/Amamentacao_small-delicate-little-hand-of-newborn-close-port-2026-03-26-06-46-26-utc_ENVATO.jpg",
+      "articleUrl": "https://healthnews.pt/2026/08/29/amamentacao-intensa-reduz-risco-de-diabetes-em-mulheres-com-historico-da-doenca/"
     },
     {
       "title": "Medicamento para o cancro do pâncreas a caminho - Correio da Manhã",
@@ -92,19 +56,55 @@
       "articleUrl": "https://www.cmjornal.pt/viver-com-saude/detalhe/medicamento-para-o-cancro-do-pancreas-a-caminho"
     },
     {
-      "title": "Amamentação intensa reduz risco de diabetes em mulheres com histórico da doença - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEdTWUdMVGh2enVKdlJ4MmItXzZaYTR0bG5xazFRalcyUUxuT0R4MUZRQ0l6Vk1Zak5Zbms0Yk1zMzQ3bzRxTDJmcnJUTjlpRkZ3cVpQeldEV2plUzdrSmlRMUd1Y2s0Z0xsRkxKTF9YSDNnZkVwVWpYdnRNSFBjTnhIcGF5QzZYUVJJcWxpTlBkcjNFcEJiX1RHZExnanRpUDNTbVNiZGVJZjN2M0hUVVJPTQ?oc=5",
+      "title": "Vilar de Perdizes: 40 anos de Medicina Popular em Vilar de Perdizes celebrados com homenagem ao padre Fontes - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORV9xS1QtUzVVUUpQZk1TMEdlcGlIakVFLVVOd2dZRk90MkdtY3pyekxTSGZpSlFWTUhDN0ppYTJ2X2JabnFPZmliYjZ2bTg2REJhaTlHaFJ1YmNSWktOZmF2WGE1OXBvQ2ZnOU95RmxEWlU3QjZhbVlFemdpVzl3LXFSTy1wcDRFVEx5X0RhNm1QOWNlTjE5VGd0WGtqcFpDZWQ0NnFZaGZhMlFXSTRkQkZkOFprU0lBaUQ4TGduS1JZMXpDekRSalRVQXpzdGViNXNRcHBvWWxTZWdKT1B4cDhjYUZxdTltUGRn?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-29T08:00:00Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/pais/2026-08-29-vilar-de-perdizes-40-anos-de-medicina-popular-em-vilar-de-perdizes-celebrados-com-homenagem-ao-padre-fontes-55c84e8e"
+    },
+    {
+      "title": "Morreu Narana Coissoró, antigo líder parlamentar do CDS - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWkwR2Q1VGZCdFo0NEFRQjktMmhhUDc0dmxzNUVJSExBRE95Y1VPcXVsRjZwWkJGdUJnR1htZ21rRlZYdnM4Q05hOGpQMDE0UDhRMVpXdGRFZlNibWtrbFNIb3lNWk5wakRMcHItRTFJSGxqWUJ5eURkUzN0RVZTT0Y3dG8wb0RCcWd6ZXBLd2k2TEIwc1Z2NVZsaVd4cnloZ3c?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-08-29T11:26:45Z",
+      "description": "Narana Coissoró, antigo líder parlamentar do CDS e vice-presidente da Assembleia da República, morreu este sábado. Tinha 94 anos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/88/88e48436ce2d5a1d004392aa6897875d?w=860&q=90&rect=0,0,1499,822&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/politica/morreu-narana-coissoro-antigo-lider-parlamentar-do-cds_n1762224"
+    },
+    {
+      "title": "Calendário de deslocações da Unidade Móvel de Saúde para setembro de 2026 já está disponível - Câmara Municipal de Baião",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2p1SEMzdENsN0tHYmdvcVZFM3ByRGNXWjBGUkgxSlBHUlgydGxqRjQwYWkwSjBiOWVIcXpxM3dlQjU3OEFYdHZhT1RHWXB6emdPQkJGTEU2c1FpTVJJVDU2Z2JEaUNIVllldDVtUkM1amJnc2FEMGJPbDRXSG9YelJMS1M4TGFWbloxdmFjb2I2OURNS24wUXBDdzliVFhvZ1I1WF95VFpicFN3X1UzNUQwZw?oc=5",
+      "source": "Câmara Municipal de Baião",
+      "publishedAt": "2026-08-28T19:23:36Z",
+      "description": "Notícia publicada por Câmara Municipal de Baião. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://cm-baiao.pt/calendario-de-deslocacoes-da-unidade-movel-de-saude-para-setembro-de-2026-ja-esta-disponivel/"
+    },
+    {
+      "title": "O defeito escondido que pode explicar os surtos súbitos da doença inflamatória intestinal - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVVwQWFyM2g0djA4RW5CRVNMQWx1YUMtb0FTUGdpYTFGZ2VIUGRZNXlMWXh3SnNWTGFTLUVnU1B6VDRSY1RUWDFIR3pvWHFNd2tseVQ1WHRCZDdGZ2NRYzJJUEJEWm0wbk1JZ3ZwYnZrZ3JTWnhFQjJMT0RkZm1ISnNUOHkzcG9uUmx1d0c3N29Ubk4tVU1ZdlY0Q0ctWHdhYkd1N21SbHgxTXdjcWI5b3lpV3lFTmE4Y1NOUGQ3WTE?oc=5",
       "source": "HealthNews",
       "publishedAt": "2026-08-29T06:19:59Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "description": "Investigação do WEHI revela defeito silencioso nas células intestinais que persiste mesmo quando doentes estão sem queixas, abrindo caminho para monitorização mais precisa e tratamentos personalizados",
+      "image": "https://healthnews.pt/wp-content/uploads/2026/08/DII_doctor-explains-colon-anatomy-with-model-tablet-n-2026-03-20-00-18-21-utc_ENVATO.jpg",
+      "articleUrl": "https://healthnews.pt/2026/08/29/o-defeito-escondido-que-pode-explicar-os-surtos-subitos-da-doenca-inflamatoria-intestinal/"
+    },
+    {
+      "title": "Doente levada ao colo por motorista TVDE após funcionária de hospital recusar cadeira de rodas - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlBuRXRTQ09ZQTFXdUVWQ0ZKcG8tVGE3YWFJeHVVUU04Rm9zaXFsY1BSWURTcTBJYjVIZmxmRlRrbVdTeXJzSmd1QWRQellaNHBpN0lUZU1STVotcjRXVmhoQXo1N0piNEJtTzhsM01tU2hhTC05NkM1Ujc1R3Jla3c4bmNTQ2Z5alplVEl6ZWpjUmZmWEF5VWlGVGZUcUltd3FVb29JX2VaNHI1SzFaOWFFOTk4SmZGazZ2MTdSYTVUUmhQZWk2QWE2blBkUW5xOWfSAcwBQVVfeXFMT3BENEx4MUU1NG9fTEVkV2FMVzhvdy1CSGc0Zm1KdDVYZWJsdzJ5bkdqNzgyY3NRNVZJZEtTQ05kNVFIS1d5SjhlUDZPYkdpckhOZmpSTzNYd1QzNmdOUWgyVmVWUS1HSXdabHc4S2hwX1RCZHRXelBqa1ItQ1h0Wm81cWt6ci1BckEwMUd0TlBkNjFnM0VMTnBIQVp0QmEwenlNZWVnRXhfUGxzTDFGZU8zajRxWU5DclJ3NVFwX2l2ZURXRlRrYjd5NW02?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-28T17:19:00Z",
+      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Mais de 150 mil crianças até aos 12 anos continuam à espera de ter médico de família - Público",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3A2d2dBZzVDT1dadnUtdGRsM3VGVEYzdEFuZ3NOLTJ4U0UxNGp6M1R1WHdETGJpc3I4dEZtVkUtRkY5T1dXZFZGeHhBYkJFVmxFTTk1SnF4M2g4elJ5UmFsbTJzNEJ4djBPNEhwVFRSZkdsQ0dTWU9EMXp3ajRiMEJvRG5nYmhJUTNwTlJKa0hnQ3VtQjkydzF5Rk5HbU9IN1l5LXoxeTFWM3JZdUlqejgtYzcya2I5YWVSaQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-29T06:01:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Vacina no braço, medo no ar: RDCongo tenta travar o pior surto de sempre - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1pMdGxyWmtwaGZEN2F0RmN0SXVRbnpYM2VnMVRZU2tQNFhyNjVmcjlkZVdweldMSmh3MVZpclFiSVcxaFJBRkpVVDRZRFhJMF9VaEdBbWs3akY3WkR6MHJMb3F4czZ6MTVkejZUcjIxU2R5TFpveUxzZmZxY3JNemM3aHBCeDhkMXR4ZGk1cVlyTF9SbklkeFdrR05YcFdDVnpmWEVSbw?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-08-29T06:09:55Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -173,13 +173,13 @@
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/europeus-e-americanos-tentam-reduzir-peso-da-ida-de-diretor-da-cia-a-russia/"
     },
     {
-      "title": "A visita secreta da CIA à Rússia mostra como Trump e Putin estão presos na mesma armadilha - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNd0l1TmhoV09FMTA1alllWkdtYjdYZGpqZzVabHFobUdlZ0NYZ0xRdENkSVh3bjlpV1NMeUtQZmw2ZFJ6VGYzc1hvQTB1U041djBTb0trWmhPV1B3RHRiMmVmZ1pKelNiOEtJcmpVN2JabjhXRjd1RFppRFl6U3FISktDVC1hVlpqUkRBMmxFNVVKZTctdkNqMjRJRVZlR1lJV3VLRVlZZGFBZmJIN1pLU3RjcnFLMEdGdUJGWHNqNGhZMGlxZFgzLWxVcnlSSXY1emcxTTJDMzlXZmVGUjNZbFM2M0JfbEs0UzVxTmZ1SHhoNTFLay1BSHdB?oc=5",
+      "title": "Mísseis Patriot dos EUA na Europa estão em níveis \"além do crítico\" - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ1I2WUlKZ0x6dzF0Tm5pRl9MREFvQzBTNmU1M3Z4dXBpYzdpRGZoWEk1YVZuUWtyVzJKcUNJLTlTOEJoSXZhUU42ZXdZMnl2LVBMMWczU05JclFMRUxiTkFNTm9Uc3dSbFdleVliQWtNV0NaUzNMcVNzY1dQRERZcElmaFRvYlhwVVhGdXpScEJSbU9EcWJHeUNVeV9sNkdRbGdHRzFqRGVEM1JrUVc5SUx5M0lHYUZQSmpxSFVFTFdsaG05OVhXTEs1TWlMbjFYazdYQ0tqNlM5MGZVSjZJ?oc=5",
       "source": "CNN Portugal",
-      "publishedAt": "2026-08-27T14:02:00Z",
-      "description": "ANÁLISE || Dois líderes em dois conflitos diferentes que enfrentam um dilema semelhante: não conseguem atingir os seus objetivos",
-      "image": "https://img.iol.pt/preset/6a91c76ad34ed0733ba824fe/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/a-visita-secreta-da-cia-a-russia-mostra-como-trump-e-putin-estao-presos-na-mesma-armadilha/20260828/6a91c78cd34e511da0b35cf2"
+      "publishedAt": "2026-08-27T22:15:00Z",
+      "description": "Escassez de munições de defesa antiaérea levanta preocupações sobre a capacidade da NATO para responder a um eventual ataque russo, enquanto Washington canaliza uma parte significativa dos seus stocks para o Médio Oriente",
+      "image": "https://img.iol.pt/preset/6a881942d34ed0733ba80f2d/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/misseis-patriot/eua/misseis-patriot-dos-eua-na-europa-estao-em-niveis-alem-do-critico/20260827/6a90b5d9d34e511da0b35b09"
     },
     {
       "title": "Guerra no Médio Oriente completa esta sexta-feira seis meses - Now Canal",
@@ -200,19 +200,19 @@
       "articleUrl": "https://www.tsf.pt/mundo/artigo/seis-meses-de-guerra-irao-mais-forte-do-que-se-julgava-eua-prejudicados-e-uma-solucao-que-so-pode-ser-politica/18120736"
     },
     {
-      "title": "Rússia: Trump diz ter tido “boas conversas” com Putin e afasta ataque à NATO - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkxjNnBrc0d1MGlDZ0YwQ1RiVTcwaE1lcFQzODdaajhydWZVaHd5TVRRVDdpa0hvR0Nld1A4cVk2X2RJQW9XbFpLQzJUVTQ0UzZMckY1c0VNdm5vTDNtS1c2d1piY3ZQNTh6TWo4ZkpjQXBERV9rQ05VNkRWSTZ4WkVGcXpzaFJkeFVPcFV6alpaOEtnSTBJenZxMV9lM3F4Zkc5M2JGZkVTQ0xpeTE0dENKZHlqVVFhb3c?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-08-28T08:31:17Z",
-      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
       "title": "Islândia vai às urnas hoje para decidir se retoma negociações para entrar na União Europeia - Estadão",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm1HNFgxbUJJWkZheHVvVW1kb08tcGJWQnl2YkRrclgtMjdwdm83SHVpY3p0bU40dXNQREhOTG96R2NwVTVMVGo3WktOVHNYbVBVdnl6QS1YSDJxbTFYRVQ5NHhRdWZKMEgzeUswZ2tZbGxDRnI3bjFDZUJhc0VNbVNjR0pRd3o5Y1FBNm8tUGt4RDFpZ0gwUFNGNk90RDFaeF9RTmM5UU1ZOC13dV95LXFxV0o5enZHSlRhcGtuNXdqVkl1NXZHNTJyOTlXd9IB0wFBVV95cUxOcmJzVWgtam5tMktzMWNuWG90WkY3Y0pFdXNFeUJXbmNKdHYzQ2ZRTGNBc0tWbFVCT0VZZmhYSzJMWXV0WGRUNTBpTnFmTkJORzQwYmFlQWxCUDdBeVk1WnBLdU9JZ0x2Y25RRUMzY2ZFUGRNLUd0WDlMQU16YzI2TUUxSDRpR20tVjZ3YkpwTUdYeW1HQlMtWWF4X1RaY3FtZUFfWnlxeHNPQng5bThJTm1RUEs2dlFSWXk2NWFMSnhoUEJjTkZydnZEOHRieG5FeEFZ?oc=5",
       "source": "Estadão",
       "publishedAt": "2026-08-29T08:30:00Z",
       "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Rússia: Trump diz ter tido “boas conversas” com Putin e afasta ataque à NATO - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkxjNnBrc0d1MGlDZ0YwQ1RiVTcwaE1lcFQzODdaajhydWZVaHd5TVRRVDdpa0hvR0Nld1A4cVk2X2RJQW9XbFpLQzJUVTQ0UzZMckY1c0VNdm5vTDNtS1c2d1piY3ZQNTh6TWo4ZkpjQXBERV9rQ05VNkRWSTZ4WkVGcXpzaFJkeFVPcFV6alpaOEtnSTBJenZxMV9lM3F4Zkc5M2JGZkVTQ0xpeTE0dENKZHlqVVFhb3c?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-08-28T08:31:17Z",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
