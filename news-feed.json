@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T04:21:53.697380Z",
+  "updatedAt": "2026-08-30T05:22:15.216725Z",
   "health": [
     {
       "title": "Urgência do hospital de Leiria adota novo modelo de triagem para diminuir tempo de permanência - Região de Leiria",
@@ -25,7 +25,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-08-29T23:36:58Z",
       "description": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas.",
-      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/790147074_1070774732165946_6800882981505477747_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qYE4KP32uOwQ7kNvwF_Se4l&_nc_oc=AdreoOh9QkfhNmMOqM45DxEW--KtTV6xk9pduelkENMraivGoe3gC6IzJbcTv7EkjpA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=jaqJWhZpnmUo1MBTXgHa9Q&_nc_ss=7820f&oh=00_AQLMETyVMoxTo0Ndj3lfaY5ve2gIGulRJe4-vAGBPdADsw&oe=6A998DB6",
+      "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.99422-6/790147074_1070774732165946_6800882981505477747_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qYE4KP32uOwQ7kNvwELZZRJ&_nc_oc=AdqvL7bfQbl4934YHsOErICbqKTj3T7AcQ8BgM8j_7obXc0nC9fsRXobS1pYgAk1BmE&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=_FlQU7ZJaY81Ij2qgwf56w&_nc_ss=7820f&oh=00_AQKvopUq5EawYsd_sX8eVpSbc3OSpH71Bso4929-EHnqtg&oe=6A998DB6",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/ministra-da-sa%C3%BAde-estima-em-3800-as-pessoas-que-j%C3%A1-est%C3%A3o-alojadas-e-indicou-que-/1461559242742021/"
     },
     {
@@ -83,13 +83,21 @@
       "articleUrl": "https://www.jn.pt/pais/artigo/centro-de-saude-de-vila-verde-entra-em-obras/18121271"
     },
     {
+      "title": "Medicina tradicional chinesa ganha adeptos entre visitantes internacionais em Sanya - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYk5GQlBwb3haSHEyTk8yQlI5d29CcUJkZVBLTUJjVTNfRGZWOFAtNTdubDR0ajRkZlhXMGs3LXRrYUVPNlI3RmpULU1OU1c1MVFoOUcwWFZPN2xNNFMwZ1RHWWhBR3pUZkF5cjQxLTJ2OF94Q2E3aFY1TU4xbk1OT2xqM3RpNk0?oc=5",
+      "source": "新华网",
+      "publishedAt": "2026-08-30T04:30:19Z",
+      "description": "Medicina tradicional chinesa ganha adeptos entre visitantes internacionais em Sanya",
+      "image": "",
+      "articleUrl": "http://portuguese.xinhuanet.com/20260830/19959eaa6c98435d869443a8476ef657/c.html"
+    },
+    {
       "title": "Incêndio em hospital matou 14 bebés: primeiro-ministro do Paquistão suspende responsáveis - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGZNQXdGMlFpQzlxXzNDUjJyZUFDZUVPZ0NaQUNqa0pPYWRndGZSVHRzZHg4cHNneDJGSlQwN2pqUkZPMjVGWHdLdWVESVJfN3N3R2NDR3V2RWtha1BtWUtQUkVJMTJ4eC1yUlVQRHA4bFJfSU41Yk9KVU9BeFBod2tYekJvajJFMzRDSEs5b2JCaFgzaXQ5QzZUNWtDajZHdlNjSHRZSmo2eUtKTy00N0h4bWZhX3haTXRZV2lneGNKcmY1aWotZWxJd01kT0RxWkMw?oc=5",
       "source": "SIC Notícias",
       "publishedAt": "2026-08-29T20:05:15Z",
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/mundo/2026-08-29-incendio-em-hospital-matou-14-bebes-primeiro-ministro-do-paquistao-suspende-responsaveis-6847a562"
+      "image": ""
     },
     {
       "title": "Rebeca atualiza estado de saúde do pai: \"Ainda no hospital\" - SIC",
@@ -98,34 +106,17 @@
       "publishedAt": "2026-08-29T12:50:00Z",
       "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
       "image": ""
-    },
-    {
-      "title": "Israel confirma ataque um hospital no centro da Faixa de Gaza - LUSA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY19YS0NlVi0xeWdmYU5PZnBvX0cyTXVmS0lmQ25FM2s1VXIyYjhxTTFFa0d6MVF0Wno1VjFDa2N6b0JQdzN0S09ydTRCMVljSVhId2VZN2EyYVduUzdNUDJQMThJTmZwMXlHa1NiWHVWbVh5Yk44M055R052T1ZKY2JKVTJ1ZllKOVQ1TXRvZ21UZWljVVEta3o0UWJlWTQ?oc=5",
-      "source": "LUSA",
-      "publishedAt": "2026-08-29T15:18:00Z",
-      "description": "Notícia publicada por LUSA. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
     }
   ],
   "world": [
     {
-      "title": "União Europeia: quatro países renovam proposta para usar ativos russos na Ucrânia - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHpreU9zMmc5M0I4SHZ0RC1HVkZZN0RBbGozMUNLR0ptSVhjaE5VWk5lVXJ0R1BKYmJVV3M3NFptSnBWM3dNTWdQMkpWMXZBZUxYcnpzQUhXZFZ6NEFoZjN3SXBRSHhBdEZhdEd6YWdQT1lDaExiRHhDMEpRdVZQS3hUVWJFc3Q0S01vS1p3alE3UWwwcTk0aXppVkFhaVg4ZUhtVnU4VEFhWnZCZmlMSXZFNld1MVZfZWlVOV9DeHhQOGc?oc=5",
+      "title": "Rússia: Trump diz ter tido “boas conversas” com Putin e afasta ataque à NATO - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkxjNnBrc0d1MGlDZ0YwQ1RiVTcwaE1lcFQzODdaajhydWZVaHd5TVRRVDdpa0hvR0Nld1A4cVk2X2RJQW9XbFpLQzJUVTQ0UzZMckY1c0VNdm5vTDNtS1c2d1piY3ZQNTh6TWo4ZkpjQXBERV9rQ05VNkRWSTZ4WkVGcXpzaFJkeFVPcFV6alpaOEtnSTBJenZxMV9lM3F4Zkc5M2JGZkVTQ0xpeTE0dENKZHlqVVFhb3c?oc=5",
       "source": "Euronews.com",
-      "publishedAt": "2026-08-28T08:26:10Z",
-      "description": "A Ucrânia enfrenta uma forte pressão orçamental e os Estados-membros da UE estão sob pressão para encontrar uma solução antes da próxima época eleitoral. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/89/10/36/1200x675_cmsv2_dca37052-c574-5037-83bd-8d15d130e658-9891036.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/08/28/uniao-europeia-quatro-paises-renovam-proposta-para-usar-ativos-russos-na-ucrania"
-    },
-    {
-      "title": "Trump dizia que guerra no Médio Oriente durava poucas semanas, mas seis meses depois está longe do fim - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYUoyNThtOFBQQjliN0szaThzYWRxYnBGaTROTTdsbW9Rcnc2UHhHWUk4c2FxUEkzZDhiMnAzT1R5UVp3OS1aQy1iTVpXWHN0ZWhZTnlrdm11QVpnN1RHcy1CTUc2ZC0zVm8wVXFCOHNVd2NRdnRyc2NqQXBWcFZIcDJoY3pLV1l6MEpuR1hGTndKZEJZcjhPcElWaDI0OFdadm94bnVsdGJnNk95SGtYalJ6ZzFJUkRRc1pHTHJfby1JMXNiYmM0NDN1VzEwajZZVDJjSU9ROHlVZnJWZkVwRDlldDZkdnFXMVVXUzdnelFOcDlSWXR6bkVpVldfeUNmV2c5eURLMA?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-08-28T13:25:08Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-28-video-trump-dizia-que-guerra-no-medio-oriente-durava-poucas-semanas-mas-seis-meses-depois-esta-longe-do-fim-ebb6623e"
+      "publishedAt": "2026-08-28T08:31:17Z",
+      "description": "O Kremlin também rejeitou como “histórias alarmistas” notícias dos media norte-americanos que sugerem que a Rússia poderá atacar a NATO, após uma rara visita do diretor da CIA a Moscovo. #EuropeNews",
+      "image": "https://images.euronews.com/articles/stories/09/89/19/71/1200x675_cmsv2_4ea3f2c1-a145-53a8-942e-b822538a51e0-9891971.jpg",
+      "articleUrl": "https://pt.euronews.com/my-europe/2026/08/28/russia-trump-diz-ter-tido-boas-conversas-com-putin-e-afasta-ataque-a-nato"
     },
     {
       "title": "Trump afasta ameaça de Putin à NATO e destaca cooperação russa no Médio Oriente - RTP",
@@ -137,13 +128,13 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/trump-afasta-ameaca-de-putin-a-nato-e-destaca-cooperacao-russa-no-medio-oriente_v1762033"
     },
     {
-      "title": "Pressão económica e questão nuclear são fatores-chave após semestre de guerra de atrito no Médio Oriente - ECO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSEVfazJvS0hZRVFvWFRwVlpvcTNlX3NWbk1VUlFrRUpnTC1keWRFd0F2MHpHdHBjUU5DbXFRNDhLQkN2TG5tb3dTX0Q4UndCdE00WE05UnhMbG5DYjVSOUJMVTQyNjJpSVNiTk5PVUlDY0g0WDBSa1ZWSW1ianVaMk5QVFpBNjRFYWwtQW1TSndhLXdwdXYzQUVOalQtcF8zOTg5SkR1RURBQ2dSeDZhS2FJSmFqTXNydnh2ODFjbWZKNmk2UzZBNGJGR0ZKWTE2?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-08-28T04:55:42Z",
-      "description": "Caminho diplomático, stock de mísseis e controlo dos estreitos são alguns dos pontos que poderão ditar o rumo do conflito. Conheça seis fatores que estarão em jogo nos próximos meses.",
-      "image": "https://eco.imgix.net/uploads/2026/08/fatores-guerra-2000x1125-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/especiais/pressao-economica-e-questao-nuclear-sao-fatores-chave-apos-semestre-de-guerra-de-atrito-no-medio-oriente/"
+      "title": "Trump dizia que guerra no Médio Oriente durava poucas semanas, mas seis meses depois está longe do fim - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYUoyNThtOFBQQjliN0szaThzYWRxYnBGaTROTTdsbW9Rcnc2UHhHWUk4c2FxUEkzZDhiMnAzT1R5UVp3OS1aQy1iTVpXWHN0ZWhZTnlrdm11QVpnN1RHcy1CTUc2ZC0zVm8wVXFCOHNVd2NRdnRyc2NqQXBWcFZIcDJoY3pLV1l6MEpuR1hGTndKZEJZcjhPcElWaDI0OFdadm94bnVsdGJnNk95SGtYalJ6ZzFJUkRRc1pHTHJfby1JMXNiYmM0NDN1VzEwajZZVDJjSU9ROHlVZnJWZkVwRDlldDZkdnFXMVVXUzdnelFOcDlSWXR6bkVpVldfeUNmV2c5eURLMA?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-08-28T13:25:08Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-28-video-trump-dizia-que-guerra-no-medio-oriente-durava-poucas-semanas-mas-seis-meses-depois-esta-longe-do-fim-ebb6623e"
     },
     {
       "title": "\"O principal objetivo destas sanções económicas é uma mensagem interna nos Estados Unidos\" - CNN Portugal",
@@ -155,6 +146,15 @@
       "articleUrl": "https://cnnportugal.iol.pt/videos/o-principal-objetivo-destas-sancoes-economicas-e-uma-mensagem-interna-nos-estados-unidos/6a9341c30cf2b42132dbf71a"
     },
     {
+      "title": "Médio Oriente: \"Há uma derrota estratégica clara da administração de Trump\" - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXRydlkyUnNoSmgwZDJqdUV1TTJlNDRvaFcyVDdsVlE4MUt4OEc4LV9FOW5Bby1wd1loVnpkU3k5ckZ3T3FuUzV4REM4SjZkd2VwZUp6SEI5blJ3Rkl1eDJQbWY5TEpCZUE4SEU2WU12UW9BdXNEWklRaXE4cVM5dF9tcDNlc3NhRm9nSDZqeG4wLW1VVVVXVnVyeWFJNG1ZZUJYZVJBUFhKdUZLVUdiNXln?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-08-28T21:11:00Z",
+      "description": "A análise abordou também a situação na Ucrânia, onde se prevê a necessidade de mobilizar 30 mil novos soldados por mês e aumentar a produção mensal de drones de 300 para mil unidades.",
+      "image": "https://cdn.nowcanal.pt/images/2026-08/img_1280x721uu2026-08-28-23-05-24-60769.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-ha-uma-derrota-estrategica-clara-da-administracao-de-trump"
+    },
+    {
       "title": "Seis meses de guerra: Irão mais forte do que se julgava, EUA prejudicados e uma solução que só pode ser política - TSF",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDFsN3YzQ2YxNzNNNXZPcWFQenJlOW1QRWZPYzI0WXRRMXEzN2lEeUFGX09iWEZGa2MyYnRBMU9HUmh3UmI3ems4UHNhSVVUZ2tzLXV6bUNXVlQ4T20teS1pX1gwZEdyZFBKZEtZa01GS095bXIzUi01a0dVajZQOGZ2YnBsTVVkQkpyTzFhT25aaVdXdnNmUVVUMGxXZndWUG5UVy1rU0EzQk9pdFJuLUlIcFhhX2c1bEVsaXpWRHZwN0lscjRsR2NlWVVtV1J1M1p1SVdBcERkcFA5NFhRT25lR01aQdIB2gFBVV95cUxNUkpFMHJTZlFJMUVtenAtLU81RU13RndYYVY0VnR0dEZRbFJxSlozeDNUSHNQZFFOY1loeWtKOWpRVkRwaS1YcGFlNmFEbnkzUlZyc3FMQ3FBVlRRbnVPZzBnNGRkUm01SVJaM1JFNTJrWG5jZ3RqNjdBZ3pSbjJZQ2lGSVI1VGF0VnBZUnVPbDJyLXJwQ1VITzVlVzZUaXhwMHN2aUJaM21rQkZFR0dTWTlQdlNrU19DT2I0TUFLdVB1RmhsWlgyWGstWEg4UFZWVHdsMFhWZUNjQQ?oc=5",
       "source": "TSF",
@@ -162,15 +162,6 @@
       "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.tsf.pt/mundo/artigo/seis-meses-de-guerra-irao-mais-forte-do-que-se-julgava-eua-prejudicados-e-uma-solucao-que-so-pode-ser-politica/18120736"
-    },
-    {
-      "title": "Guerra no Médio Oriente completa esta sexta-feira seis meses - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3RuM2k5eDJ2RkpLYUltMG5ycW5Ib2tiVHJkV0x2MXBrNXdMZTNYVU82V1l0c1RTdThZSzVzY3FKbjYyandIUUpyX29DbzlzT1lOY0pMWEwtZWNJNVBoaGtfc052bDZqM1YxeUVlenpUak10bGYxdlcwYXk3WUVpZUtqakp0ZUxqVF8yNHRCNmUxQWQzWHcxeUlMZlV6d3Etdnc?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-08-28T11:38:00Z",
-      "description": "O conflito começou a 28 de fevereiro, quando os Estados Unidos e Israel lançaram uma ofensiva de grande escala contra o Irão. Entre os mortos esteve o líder supremo iraniano Ali Khamenei.",
-      "image": "https://cdn.nowcanal.pt/images/2026-08/img_1280x721uu2026-08-28-13-29-52-60709.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-no-medio-oriente-completa-esta-sexta-feira-seis-meses"
     },
     {
       "title": "Com empurrão de Trump, Islândia decide em referendo se reabre negociações de adesão à UE - Público",
@@ -182,13 +173,22 @@
       "articleUrl": "https://www.publico.pt/2026/08/29/mundo/noticia/empurrao-trump-islandia-decide-referendo-reabre-negociacoes-adesao-ue-2186225"
     },
     {
-      "title": "Rússia: Trump diz ter tido “boas conversas” com Putin e afasta ataque à NATO - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkxjNnBrc0d1MGlDZ0YwQ1RiVTcwaE1lcFQzODdaajhydWZVaHd5TVRRVDdpa0hvR0Nld1A4cVk2X2RJQW9XbFpLQzJUVTQ0UzZMckY1c0VNdm5vTDNtS1c2d1piY3ZQNTh6TWo4ZkpjQXBERV9rQ05VNkRWSTZ4WkVGcXpzaFJkeFVPcFV6alpaOEtnSTBJenZxMV9lM3F4Zkc5M2JGZkVTQ0xpeTE0dENKZHlqVVFhb3c?oc=5",
+      "title": "União Europeia: quatro países renovam proposta para usar ativos russos na Ucrânia - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHpreU9zMmc5M0I4SHZ0RC1HVkZZN0RBbGozMUNLR0ptSVhjaE5VWk5lVXJ0R1BKYmJVV3M3NFptSnBWM3dNTWdQMkpWMXZBZUxYcnpzQUhXZFZ6NEFoZjN3SXBRSHhBdEZhdEd6YWdQT1lDaExiRHhDMEpRdVZQS3hUVWJFc3Q0S01vS1p3alE3UWwwcTk0aXppVkFhaVg4ZUhtVnU4VEFhWnZCZmlMSXZFNld1MVZfZWlVOV9DeHhQOGc?oc=5",
       "source": "Euronews.com",
-      "publishedAt": "2026-08-28T08:31:17Z",
-      "description": "O Kremlin também rejeitou como “histórias alarmistas” notícias dos media norte-americanos que sugerem que a Rússia poderá atacar a NATO, após uma rara visita do diretor da CIA a Moscovo. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/89/19/71/1200x675_cmsv2_4ea3f2c1-a145-53a8-942e-b822538a51e0-9891971.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/08/28/russia-trump-diz-ter-tido-boas-conversas-com-putin-e-afasta-ataque-a-nato"
+      "publishedAt": "2026-08-28T08:26:10Z",
+      "description": "A Ucrânia enfrenta uma forte pressão orçamental e os Estados-membros da UE estão sob pressão para encontrar uma solução antes da próxima época eleitoral. #EuropeNews",
+      "image": "https://images.euronews.com/articles/stories/09/89/10/36/1200x675_cmsv2_dca37052-c574-5037-83bd-8d15d130e658-9891036.jpg",
+      "articleUrl": "https://pt.euronews.com/my-europe/2026/08/28/uniao-europeia-quatro-paises-renovam-proposta-para-usar-ativos-russos-na-ucrania"
+    },
+    {
+      "title": "Guerra pesa sobre economia do Irã em meio à intensificação das sanções dos EUA - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0NyZmlBMkNwMGtCT0RiaXQxdmtmS253VlVzb0xrVVBPSWlUdnA4My1faXdwaVNFWW1KSEV0WWVwZXUwZEUyU0syU04zdG9PbVZHODJYbGUtX2RXUm00ZmVkRFA4al9ySkxkR1o0bjhjQW03SzBfdU41Nzc5cEROTi1CUXdpTUZZbzRoMVUtdW5FVndHel9hbExpcEg2U1RQVE1wX2w1N1M1SDJTc1AyNDhxel9zZmxpb2hFWHJoSE1GMXdP0gHTAUFVX3lxTE9RTW1vbWFlMXBYYjEyb3JUTE9oRjhiZG5XVWYzMU1XMjdwUjh4UHg2TWx1clJKQUJjUUJzNnVUUTFadDJnNUprZ1RUdW8xY0hyazRVMlVWWE0yNUQ3U1VCN3ZjMlpMeFFKTGp4M3RoVFMwSU9jWFI3QVRIeVpzT01GVG5aLUhEN1YwMWJjOXU2eG1KbjVFbjdoUEhuYU5QS1BtTFQ2RjNFdm8zNGJ0V2lVWUpBX3RyMFd4a24tTHZ5VWJWRVMtUkxyZExDdEJUU2xmYWc?oc=5",
+      "source": "Valor Econômico",
+      "publishedAt": "2026-08-29T17:17:48Z",
+      "description": "Líder supremo iraniano pedu ao governo que enfrente as dificuldades, enquanto presidente da República Islâmica afirmou que o comércio exterior encolheu em um terço",
+      "image": "https://s2-valor.glbimg.com/UXTqDUutCjUwGWeGgDiLY_7cTOA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/W/N/Ud4bRDT5u5baFKviA4kQ/2026-08-24t074257z-1884298334-rc2d4na8aze7-rtrmadp-3-iran-crisis-economy.jpg",
+      "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/29/guerra-pesa-sobre-economia-do-ir-em-meio-intensificao-das-sanes-dos-eua.ghtml"
     },
     {
       "title": "Kremlin diz que vê União Europeia como hostil e não há perspectiva de melhora nas relações - Terra",
@@ -200,19 +200,19 @@
       "articleUrl": "https://www.terra.com.br/noticias/mundo/kremlin-diz-que-ve-uniao-europeia-como-hostil-e-nao-ha-perspectiva-de-melhora-nas-relacoes,d34c7e7913e40d458b804335be6aca7e7crbnkaa.html"
     },
     {
-      "title": "Guerra pesa sobre economia do Irã em meio à intensificação das sanções dos EUA - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0NyZmlBMkNwMGtCT0RiaXQxdmtmS253VlVzb0xrVVBPSWlUdnA4My1faXdwaVNFWW1KSEV0WWVwZXUwZEUyU0syU04zdG9PbVZHODJYbGUtX2RXUm00ZmVkRFA4al9ySkxkR1o0bjhjQW03SzBfdU41Nzc5cEROTi1CUXdpTUZZbzRoMVUtdW5FVndHel9hbExpcEg2U1RQVE1wX2w1N1M1SDJTc1AyNDhxel9zZmxpb2hFWHJoSE1GMXdP0gHTAUFVX3lxTE9RTW1vbWFlMXBYYjEyb3JUTE9oRjhiZG5XVWYzMU1XMjdwUjh4UHg2TWx1clJKQUJjUUJzNnVUUTFadDJnNUprZ1RUdW8xY0hyazRVMlVWWE0yNUQ3U1VCN3ZjMlpMeFFKTGp4M3RoVFMwSU9jWFI3QVRIeVpzT01GVG5aLUhEN1YwMWJjOXU2eG1KbjVFbjdoUEhuYU5QS1BtTFQ2RjNFdm8zNGJ0V2lVWUpBX3RyMFd4a24tTHZ5VWJWRVMtUkxyZExDdEJUU2xmYWc?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-08-29T17:17:48Z",
-      "description": "Notícia publicada por Valor Econômico. Abra o artigo para consultar os detalhes completos.",
+      "title": "Portugal entra no top 25 mundial da qualidade de vida em 2026 - Idealista",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLUNOdzFuQ1hfWWpqTnBsV3cwN1c5cE9tNHJ3LV9FS2RVMzVPa0VKZHRJRk1xZjBQREJ3QmNZbDJaT0JYS21zZnk1TFlxZlFLcF9Sb04zeERWSHJHZlE3R1NQMG1XdkpFcmp3cWVNWGc1WGljM2dWMU1qaXJERkplYmVLRklzQ1YxV3Jmb1ZwVks0RDNQRTdUX2hxN19MYnZvQ3ZqQUxHN1VQektidXRsNXFrQWl4U1VveDlKVWFwLW5WMmZKSVJQU0R6cko3T2dYUVNNadIB1AFBVV95cUxPLUNOdzFuQ1hfWWpqTnBsV3cwN1c5cE9tNHJ3LV9FS2RVMzVPa0VKZHRJRk1xZjBQREJ3QmNZbDJaT0JYS21zZnk1TFlxZlFLcF9Sb04zeERWSHJHZlE3R1NQMG1XdkpFcmp3cWVNWGc1WGljM2dWMU1qaXJERkplYmVLRklzQ1YxV3Jmb1ZwVks0RDNQRTdUX2hxN19MYnZvQ3ZqQUxHN1VQektidXRsNXFrQWl4U1VveDlKVWFwLW5WMmZKSVJQU0R6cko3T2dYUVNNaQ?oc=5",
+      "source": "Idealista",
+      "publishedAt": "2026-08-28T08:00:36Z",
+      "description": "Notícia publicada por Idealista. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Dificuldades na guerra podem levar Rússia a agir contra Otan, dizem fontes - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYU91ZUg2aDhIM2dsYkpNTTVyWWNLRXJqVUVSbkhLa2U5YWRQbzQ2S0QxYTRibmlNOXdlVlNJVmtNTnExNF9BN1pVTTJsWGRJUmxRSEtCeG5nVjZGNFY5Nlh2QkFnT3gtUUduSFQzdFZLbzhqWVpzcEJaQWVKbW5pRFVFcHNyU0NvOFZyTlB6OWY2aWJXRDRINEZyV0lIdmJNLW1MTS1jYm9DME93eU9MbGV5dWNPaE5K?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-08-28T17:37:02Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "title": "Guerra no Médio Oriente completa esta sexta-feira seis meses - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3RuM2k5eDJ2RkpLYUltMG5ycW5Ib2tiVHJkV0x2MXBrNXdMZTNYVU82V1l0c1RTdThZSzVzY3FKbjYyandIUUpyX29DbzlzT1lOY0pMWEwtZWNJNVBoaGtfc052bDZqM1YxeUVlenpUak10bGYxdlcwYXk3WUVpZUtqakp0ZUxqVF8yNHRCNmUxQWQzWHcxeUlMZlV6d3Etdnc?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-08-28T11:38:00Z",
+      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
