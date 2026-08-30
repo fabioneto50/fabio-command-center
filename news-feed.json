@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T09:22:55.320041Z",
+  "updatedAt": "2026-08-30T10:22:22.741305Z",
   "health": [
     {
       "title": "Construir a saúde com as pessoas no centro da decisão - Público",
@@ -9,6 +9,15 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/08/30/opiniao/opiniao/construir-saude-pessoas-centro-decisao-2186315"
+    },
+    {
+      "title": "Pogacar mostra-se no hospital ao som de Stayin' Alive (foto) - A Bola",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblhSbFhtcFpMMy14Y1hBSzRPb0o1bXdKb2xFYVo5TGpPMTJpTG9PQ2dDYnJIQ3h1SDlleHctVXhmSVJWT2wyLTFHZmt3VG1wRjNkVEczZnVjcHRuS0hoUnA5RGhocFBpOS1aZUlfWXNzbHRvWUg2cnNBeFhOT2JSUVV3RVV2ODBTZlV6dWR2UnByWnBSY245MVBEZ3RKWjJYeFl3azloeWFIQUU?oc=5",
+      "source": "A Bola",
+      "publishedAt": "2026-08-30T08:54:00Z",
+      "description": "Grave queda obrigou esloveno a abandonar a Vuelta",
+      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/30082026/45d1c876-a843-41ad-86c5-e15ed1193be8.png?operations=crop(0:101:459:360),autocrop(1200:630)",
+      "articleUrl": "https://www.abola.pt/noticias/pogacar-mostra-se-no-hospital-ao-som-de-stayin-alive-foto-2026083008542519114"
     },
     {
       "title": "Urgência do hospital de Leiria adota novo modelo de triagem para diminuir tempo de permanência - Região de Leiria",
@@ -25,17 +34,8 @@
       "source": "Diário de Aveiro",
       "publishedAt": "2026-08-30T05:45:00Z",
       "description": "O «défice estrutural» de enfermeiros e técnicos auxiliares de saúde, as «limitações» da atual Urgência ou a «insuficiente capacidade» do Bloco Operatório são preocupações",
-      "image": "https://www.diarioaveiro.pt/wp-content/uploads/sites/6/2026/08/Visita-sns-ao-hospital-de-aveiro.webp",
+      "image": "https://www.diarioaveiro.pt/wp-content/uploads/sites/6/2026/08/Diretor-sns1.webp",
       "articleUrl": "https://www.diarioaveiro.pt/2026/08/30/%F0%9D%90%83%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%A8/"
-    },
-    {
-      "title": "Pogacar mostra-se no hospital ao som de Stayin' Alive (foto) - A Bola",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblhSbFhtcFpMMy14Y1hBSzRPb0o1bXdKb2xFYVo5TGpPMTJpTG9PQ2dDYnJIQ3h1SDlleHctVXhmSVJWT2wyLTFHZmt3VG1wRjNkVEczZnVjcHRuS0hoUnA5RGhocFBpOS1aZUlfWXNzbHRvWUg2cnNBeFhOT2JSUVV3RVV2ODBTZlV6dWR2UnByWnBSY245MVBEZ3RKWjJYeFl3azloeWFIQUU?oc=5",
-      "source": "A Bola",
-      "publishedAt": "2026-08-30T08:54:00Z",
-      "description": "Grave queda obrigou esloveno a abandonar a Vuelta",
-      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/30082026/45d1c876-a843-41ad-86c5-e15ed1193be8.png?operations=crop(0:101:459:360),autocrop(1200:630)",
-      "articleUrl": "https://www.abola.pt/noticias/pogacar-mostra-se-no-hospital-ao-som-de-stayin-alive-foto-2026083008542519114"
     },
     {
       "title": "Prisão perpétua ou hospital psiquiátrico? O que pode acontecer a Lindsay Clancy - Jornal SOL",
@@ -47,6 +47,15 @@
       "articleUrl": "https://sol.iol.pt/internacional/noticias/prisao-perpetua-ou-hospital-psiquiatrico-o-que-pode-acontecer-a-lindsay-clancy/20260830/6a93e0f40cf2b42132dbf751"
     },
     {
+      "title": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZnBCcmxhZHpWRDR0Tkk0Q0FhWnhnSDgyX1hGVnREM2lNRjRKbC1JZHZsV29sdDhjdC03ckw2cjFlQ3R6VjRidVNCanU5MVIydl9SclMyUDZlUmE4WnRfWlBncHdjR2ZTdFlobGFVXzczdFJHd25oMTNOMkxtMmlLYVVUYm5CQ0VHRnRhSkd1ODM1R1dydFNQemNxMGRfLTdfV2N5MlFKdXcwaWpPLVEwWWtSSEI5VkZPbXhNRk91dGYtNXE2V21JSzh4NXZBMmZJT3gzeFRicE1wcXlzVHB4VUF0YUdaRUJDa3FiWWpUbWVWd0E?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-08-29T23:36:58Z",
+      "description": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas.",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/790147074_1070774732165946_6800882981505477747_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qYE4KP32uOwQ7kNvwHjIA-n&_nc_oc=AdoXseKltUdKBYGquSYRl9gMt2J1NyvQ4L91SFRo40auewVw3WzmXonqRlAovwS43CY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6QyNK-kDXKkiVExIG6Mxfw&_nc_ss=7820f&oh=00_AQIDaxAedIVBm95bPBfbqDQ_VC_OOkQ7VrGEXOWCIEmxzg&oe=6A99C5F6",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/ministra-da-sa%C3%BAde-estima-em-3800-as-pessoas-que-j%C3%A1-est%C3%A3o-alojadas-e-indicou-que-/1461559242742021/"
+    },
+    {
       "title": "Israel confirma ataque um hospital no centro da Faixa de Gaza - Observador",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTdxQlpkMTFqNWgxT1dyR3FmWXRJeVZ1YzA1N045SXFrOEYyLUxTNENjQ2RpU3VpXzdPZE94OGRUVHJBT2hsLUFYNUhWUWJOdTJ3THB6aVYzMjV2T2RRUDg0ZWpjdExvNEVJOG4wZVppcUxDVmhOcTV0MGN6TVA3bUVhUWx3Q1lIZ1VxbTFuS18xSm9INlFLWVY0Yw?oc=5",
       "source": "Observador",
@@ -56,13 +65,13 @@
       "articleUrl": "https://observador.pt/2026/08/29/israel-confirma-ataque-um-hospital-no-centro-da-faixa-de-gaza/"
     },
     {
-      "title": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZnBCcmxhZHpWRDR0Tkk0Q0FhWnhnSDgyX1hGVnREM2lNRjRKbC1JZHZsV29sdDhjdC03ckw2cjFlQ3R6VjRidVNCanU5MVIydl9SclMyUDZlUmE4WnRfWlBncHdjR2ZTdFlobGFVXzczdFJHd25oMTNOMkxtMmlLYVVUYm5CQ0VHRnRhSkd1ODM1R1dydFNQemNxMGRfLTdfV2N5MlFKdXcwaWpPLVEwWWtSSEI5VkZPbXhNRk91dGYtNXE2V21JSzh4NXZBMmZJT3gzeFRicE1wcXlzVHB4VUF0YUdaRUJDa3FiWWpUbWVWd0E?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-08-29T23:36:58Z",
-      "description": "Ministra da Saúde estima em 3.800 as pessoas que já estão alojadas e indicou que na próxima semana serão disponibilizadas mais mil vagas.",
-      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/790147074_1070774732165946_6800882981505477747_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qYE4KP32uOwQ7kNvwGscmO_&_nc_oc=AdopKc7cSggrUxrVFuTfYpyuIREJJFoUDubCJHHHUpuLanTHWkwOAClyzP3gSxScYkM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Ks_-Nu72orpTA8eb_vcpjA&_nc_ss=7820f&oh=00_AQI9XOV6_2OalE00yI9UXwzhagk98k0uSGb-1V0nAbXw9A&oe=6A99C5F6",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/ministra-da-sa%C3%BAde-estima-em-3800-as-pessoas-que-j%C3%A1-est%C3%A3o-alojadas-e-indicou-que-/1461559242742021/"
+      "title": "Paraguai: guarda-redes manda colega de equipa para o hospital após acertar-lhe com o joelho na cara - Record",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTdJNkl0TGJvQVFRV2NpZUFReXpWSklzOXBSU1ZINHYxR3JzcjRpeU9VWTZwWHcyMVFwM0xNSi1mOFVZeGI3ZEFhUnNVYzZGTHZ1U0djUEJLeWk3SU1VOXRHOS1XbTVoY3VmNjh4XzU1OHdoQU9lbXc0T0Y1SERRMHZIYkpYYkVjZDF6RGozZFh4bWFkV0JoSk5TVDBNZ2xXRHNJTGw0UTJLekdEN1lpaXZHdTRuSzBjOVdHWHBjek03czRnaEJIQ0hvaEdCTTVXSDN6OENIYVE5QndGaUo4?oc=5",
+      "source": "Record",
+      "publishedAt": "2026-08-30T09:22:30Z",
+      "description": "Lance arrepiante no Recoleta-Olimpia",
+      "image": "https://cdn.record.pt/images/2026-08/img_1200x721uu2026-08-30-10-09-58-2459581.png",
+      "articleUrl": "https://www.record.pt/multimedia/videos/detalhe/paraguai-guarda-redes-manda-colega-de-equipa-para-o-hospital-apos-acertar-lhe-com-o-joelho-na-cara"
     },
     {
       "title": "Hospital Termal das Caldas da Rainha deve reabrir na \"próxima semana\" após desinfeção - TSF",
@@ -87,23 +96,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkxlbDZEd2V3M3FwYUNjN25OOWhldDh3UmNnakpya2ZxRDlnNUVtSWFDMGVadDRlMVBTNzRuX09ocUY0bERKbU8zRW1rZ01xTG5udmpzdWNuR05nOWYtMmtLOUI4dkkxU2EzV2ZLa0U5OXM2UlZrWWQzV1NralBBb2NzNktZcDRrZmotNFJRMFAyZ1BNcXc1ck5ZZTc0cGJ4eEtIQWg0Vl8?oc=5",
       "source": "SAPO",
       "publishedAt": "2026-08-30T08:54:25Z",
-      "description": "Grave queda obrigou esloveno a abandonar a Vuelta",
-      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/30082026/45d1c876-a843-41ad-86c5-e15ed1193be8.png?operations=crop(0:101:459:360),fit(960:)",
-      "articleUrl": "https://sapo.pt/artigo/pogacar-mostra-se-no-hospital-ao-som-de-stayin-alive-foto-6a93f1faf8b6a06b67fd5e92"
-    },
-    {
-      "title": "Abaixo-assinado contra fecho de urgências do Hospital VFX continua por discutir no Parlamento - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTVBTOWNmUF9uNC1mNzRzbGZobG1sSlc1TGJuSXZYSFV3MGVTZ1J4VFZMc19UNW1iTWVkUFRoaDQyUkRjR0JnWUpQeXNYaW9BWTA2cDQxb25ieFpWekxhYmxLY3hlVmZRakpuVDItOXRXUkF5dDc2TGF0VGw1ejRjUFpVNnl5c21oT2QtMHY1T1ZveGJVRVo4dzRjdTJJRWIzaE9ERVBad0daLTcyS2Y4NHZQQ19RdE5fOS1qRmVGUzZ4R0psQk1VeGZHNks5a0YtdXZObUROUVI0V3c?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-08-29T20:00:00Z",
-      "description": "Notícia publicada por O Mirante. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por SAPO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
       "title": "Aos 15 anos, Leonor entra em Medicina com média de 19,63 valores - On fm",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFM0bko2VlY1UEhCVWlzMk92dGZMYUNvdm5DRS12WmZuMHJtdEdHYW1LQXpwZWNtY1VRUjlKR3FKOUhJNUFIQjFuTzh6cUFEZS1lSjJ4cENmVkZvcHFUbC0wU1k4eUpsdDNNQUxzdUZJa01xd0phOGZveS0wUHFrZU1XbUJqdkVheGMzZmZfejRyMVBj?oc=5",
       "source": "On fm",
-      "publishedAt": "2026-08-30T09:02:03Z",
+      "publishedAt": "2026-08-30T09:03:10Z",
       "description": "Notícia publicada por On fm. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
@@ -128,6 +128,15 @@
       "articleUrl": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/lider-iraniano-apela-a-paises-muculmanos-para-se-unirem-contra-eua-e-israel_n1762342"
     },
     {
+      "title": "Islândia recusa retomar negociações com a União Europeia, diz TV - 30/08/2026 - Mundo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlRocUpmZG15TkdVQ2xxc3NrTXh1UUw3cEV0ZE5wLXhzUHRmTXA2R25FWlZVRjJCTnZrdFA0RTB4VXp4bHBYSkR6SmFORVlTTldXSER6cTF5d3FpX0dTeDRRNU51VHB2MEZ2eVdXRWwtWHpuNGE1THg0allUQkEwbnNqTmY5UUZmSlo3ZXF4Q0NldGRXVFBmOFVnd05fd3dvOEswQWMweWVnNThKUFNodGdPYw?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-08-30T09:08:00Z",
+      "description": "País insular convocou consulta popular após ameaças de Trump à vizinha Groenlândia",
+      "image": "https://f.i.uol.com.br/fotografia/2026/08/29/17880337006a933aa488799_1788033700_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml"
+    },
+    {
       "title": "Trump dizia que guerra no Médio Oriente durava poucas semanas, mas seis meses depois está longe do fim - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYUoyNThtOFBQQjliN0szaThzYWRxYnBGaTROTTdsbW9Rcnc2UHhHWUk4c2FxUEkzZDhiMnAzT1R5UVp3OS1aQy1iTVpXWHN0ZWhZTnlrdm11QVpnN1RHcy1CTUc2ZC0zVm8wVXFCOHNVd2NRdnRyc2NqQXBWcFZIcDJoY3pLV1l6MEpuR1hGTndKZEJZcjhPcElWaDI0OFdadm94bnVsdGJnNk95SGtYalJ6ZzFJUkRRc1pHTHJfby1JMXNiYmM0NDN1VzEwajZZVDJjSU9ROHlVZnJWZkVwRDlldDZkdnFXMVVXUzdnelFOcDlSWXR6bkVpVldfeUNmV2c5eURLMA?oc=5",
       "source": "SIC Notícias",
@@ -135,6 +144,15 @@
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://sicnoticias.pt/especiais/tensao-eua-irao/2026-08-28-video-trump-dizia-que-guerra-no-medio-oriente-durava-poucas-semanas-mas-seis-meses-depois-esta-longe-do-fim-ebb6623e"
+    },
+    {
+      "title": "Eleitores islandeses rejeitam proposta para reiniciar negociações de adesão à União Europeia - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTNBSHZCZUZ3LW1ycFZzOFg0NkpDbW5kN0hkbmtiLUtHRjVLVzlEdXVmY25nWW90Zmk4Z1Eyem9CTl9yaE94cTdxTEo2aWRrcFJfQV9nMkU4Ukpka2NEeENjY19mN1lDNHdNTmZPUjMyU0RyUi1MaURkOFR3MWFVRjljaTc0V0dDTmFBVVhlc0tZaHlpcWRSSC1kbUsydTBTQklvTUlDSXBPUjl4VjFrcWo2alhudnJLQUZiRjVmY1NJc2NLbnJ2VWQ1bzlHdDDSAdQBQVVfeXFMUEl1ZVJjVEZzQUFmS2ZqRW1MbEZHVUdzaXFncjA1Q3R0UmNhLXBRVDhpeHlQOWYxZW1nNnhRdE0ta3FBYXpuaDBCc2FZbGtxc0JMSEtiMlFzNkVpSzhCVG96ME5ZUncwUFJ2ZEhWakIxb1QxTXBfckNxQmxURDBGZ1EtOUhSMEhWeWItUnhHcnRsLWJKNnJ3LWxGVFlPZjJVZElQTFdTcnBUZkNMMXFQSjhleGRnTFlMYWVCRjk0LVlqbDQxMU9RSjg5a01xS3RFMVNmTXA?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-08-30T09:48:00Z",
+      "description": "Opositores derrotaram a medida por uma margem de 52,8% contra 47,2%; a capital, Reiquiavique, foi a única região na nação insular de 400.000 habitantes a apoiar o referendo",
+      "image": "https://www.estadao.com.br/resizer/v2/GN4WHNH5LRH3LFFTQVXJO2TDUY.jpg?quality=80&auth=3e6b08e0695ca686c20c11674469220a59527c044e6b87f38b4f088137e36840&width=1200&height=630&smart=true",
+      "articleUrl": "https://www.estadao.com.br/internacional/eleitores-islandeses-rejeitam-proposta-para-reiniciar-negociacoes-de-adesao-a-uniao-europeia/"
     },
     {
       "title": "Médio Oriente: \"Há uma derrota estratégica clara da administração de Trump\" - Now Canal",
@@ -186,33 +204,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3RuM2k5eDJ2RkpLYUltMG5ycW5Ib2tiVHJkV0x2MXBrNXdMZTNYVU82V1l0c1RTdThZSzVzY3FKbjYyandIUUpyX29DbzlzT1lOY0pMWEwtZWNJNVBoaGtfc052bDZqM1YxeUVlenpUak10bGYxdlcwYXk3WUVpZUtqakp0ZUxqVF8yNHRCNmUxQWQzWHcxeUlMZlV6d3Etdnc?oc=5",
       "source": "Now Canal",
       "publishedAt": "2026-08-28T11:38:00Z",
-      "description": "O conflito começou a 28 de fevereiro, quando os Estados Unidos e Israel lançaram uma ofensiva de grande escala contra o Irão. Entre os mortos esteve o líder supremo iraniano Ali Khamenei.",
-      "image": "https://cdn.nowcanal.pt/images/2026-08/img_1280x721uu2026-08-28-13-29-52-60709.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-no-medio-oriente-completa-esta-sexta-feira-seis-meses"
-    },
-    {
-      "title": "\"Desafios de subsistência\". Líderes iranianos assumem dificuldades provocadas pela guerra e sanções - RTP",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdDdnaW1CTmJBSEljZWR2TVFfNnVVTGxGM21tNFdyeDNhelRKQXVSSi1VdHR2Y1gxT201blpIdWxPR2lOZ29sM3VGdkhtc2thWElzc3hNUUFndFY0UEM3QmNhNVVsVFotdDdDclRwcGpQUFIzZWloWWhUUWpNdEtpTEIxOGE0RW5UNGs2U28yc1kzWW1NN200M1lvWGdLOFJDZnJaY0RCRFNfb25xbW5EcFFCcWR1QjFzTm0zNGlyS2pGcDNmWks0OVFxZ0x3Q09naHI0ZGlR?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-28T20:44:19Z",
-      "description": "O presidente iraniano afirmou este sábado que as sanções e o bloqueio naval de Ormuz pelos Estados Unidos provocaram quebras de quase 35 por cento nas importações e exportações. Já o líder supremo do país alertou que o Governo deve \"abordar seriamente os vários desafios económicos e de subsistência\" no país.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/54/54334acf4ba22b68e69eee9407daf9f2?w=860&q=90&rect=0,121,5000,2741&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/desafios-de-subsistencia-lideres-iranianos-assumem-dificuldades-provocadas-pela-guerra-e-sancoes_n1762271"
-    },
-    {
-      "title": "'Agora ou nunca': Islândia faz referendo sobre entrada na União Europeia de olho em Trump e guerra na Ucrânia - G1",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTXhHQkx3M3YwekhlTUQxV2tVN0ttWl9icXFuRHloaHlNT1pjT0tjaWlxR0h5WE9wblE5UklCb0taOEp0bzlQRG8xT3FTbHBaWjNNb2s0cVp5b19iSThWM0FnQXd2Z1NCRWN5bXVOaFNnaTJzbmNPWV9NR3Y2eTR0ZGxCV1FxOFRkdlU2VW83MThIOG5mNW9WUkVOeVE5emhZOFZJanhiYS1faUE1YkI5MmFvVW15Tkp6YVhHT25TLUNvbTRRU2x6NE52UUVEa3htZjNCSEo4UUk4dUhEeDNNODRqMlpHdVRoWjdKWTVzONIB_gFBVV95cUxOT1Q4M0pJYnBMb19pR3VwTU9DbnIyTzYwVGY4OS1VV0lVMkhiY09qYnFwQnJseUFQdG4zYXBhNkZNZnJ2NjQ5cUtxRGVITGR3UXFpc1JHVVVTSnk4NzAzX1pzQldZQkhNYmg0NUtWSjRKdXUyRndQWlRvV211ZWs0cjZvZXpPZWhZeE5WYnhFbnh4cHFYZ0lURnF0U3ZRSVBaay1RRm8xWm8tNHE0NTFXakNFOVh4ODliLUVCQm5WVzctZWk5YkFldXVaeXR0dVRITVdNdnNtUHpWb0liaENfSjUyOUNYZnNuX2dQNEo1NFRUNDRoSDV3Z0Nwd0E1UQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-08-29T03:00:19Z",
-      "description": "Notícia publicada por G1. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Europeus e americanos tentam reduzir peso da ida de diretor da CIA à Rússia - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY1h6aTVvZU4zNDlxVUp0bU9EbVY0U3NoNmM1R2RBUEtZVDRaUDl3T3I3YWFfUGljcDBMSXJxdlVVYU83U05yUEJrLXVRMGxKWFNSUkNoUS1McnVtcW4tTzI5MEwyR3lhT3J2cFd1ajdwZ2pyaTcyRXRxSi1oYkczUWoyQnV3T2poYXp5VHhTVmswVVI5NGIwSjBtb0pkVmdLMVlaQ3M1MVVuZE1CUTlVRE9VZWRDdHpSOFNB?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-08-29T01:35:40Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "title": "Com empurrão de Trump, Islândia decide em referendo se reabre negociações de adesão à UE - Público",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlBXZUtsZXE4cUpFYWgyYkd0ZG9JemVwc2hZdm5hS3FmQ3UxWHBBTHFDdmN5WFVrTFJrYmgtQ2ctTEh1T2owU0lMRDc0QmdwWjhvWmVXNGxmT3RVSDdiMXYyb2doT3pIM0c4Ul9wUlRoTjRPcm5JQnBSS1g4azBGTEsyY3pBaHdzZWxySm1ubTFFamRGeU9GdVBwTmZBLVl5aEsyQ1hLa3Z4TVIxQWJKbVE3UFBRNGxJZk81d09OWEpYTEU?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-29T06:00:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
