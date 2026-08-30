@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:22:06.404682Z",
+  "updatedAt": "2026-08-30T18:22:10.943634Z",
   "health": [
     {
       "title": "Construir a saúde com as pessoas no centro da decisão - Público",
@@ -47,15 +47,6 @@
       "articleUrl": "https://recordeuropa.com/noticias/portugal/farmacias-vao-receber-315-euros-por-cada-vacina-na-proxima-campanha-sazonal-30-08-2026-354838"
     },
     {
-      "title": "Urgência do hospital de Leiria adota novo modelo de triagem para diminuir tempo de permanência - Região de Leiria",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmhxYUsxS2hLZVVFbncyb0hFVXhzek5LYVVDMGl6NEU0Y3A5cTN0aTc3Wl9nUEVabjZHUmkzZ1piY211ZFJWMVk4ajBxVThnTVdVVm9ILWJJVWM4bGpMcGhaZWpEaG1LbUFETHJyNDlFR1lfUjFpNDQ1M2liYTRNSEt4UVpURG1ISnlDWjY4QTdwbXJfejlBZmw2WnVzR1hQRm5rMHlvVHJtU0RsbmU4RGFfRnlWS2FEbThDMWVTVTFnX3BMU2JydDJPSzQwZw?oc=5",
-      "source": "Região de Leiria",
-      "publishedAt": "2026-08-29T20:11:29Z",
-      "description": "O circuito de entrada de um doente nas urgências da Unidade Local de Saúde da Região de Leiria mudou há cerca de um mês, com a criação do Posto de Primeira Observação de Enfermagem",
-      "image": "https://www.regiaodeleiria.pt/wp-content/uploads/2024/10/hospital_urgencias_geral_2024_fotos_JD__-1-scaled.jpg",
-      "articleUrl": "https://www.regiaodeleiria.pt/2026/08/urgencia-do-hospital-de-leiria-adota-novo-modelo-de-triagem-para-diminuir-tempo-de-permanencia/"
-    },
-    {
       "title": "Pogacar mostra-se no hospital ao som de Stayin' Alive (foto) - A Bola",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblhSbFhtcFpMMy14Y1hBSzRPb0o1bXdKb2xFYVo5TGpPMTJpTG9PQ2dDYnJIQ3h1SDlleHctVXhmSVJWT2wyLTFHZmt3VG1wRjNkVEczZnVjcHRuS0hoUnA5RGhocFBpOS1aZUlfWXNzbHRvWUg2cnNBeFhOT2JSUVV3RVV2ODBTZlV6dWR2UnByWnBSY245MVBEZ3RKWjJYeFl3azloeWFIQUU?oc=5",
       "source": "A Bola",
@@ -63,6 +54,15 @@
       "description": "Grave queda obrigou esloveno a abandonar a Vuelta",
       "image": "https://sportal365images.com/process/smp-images-production/abola.pt/30082026/45d1c876-a843-41ad-86c5-e15ed1193be8.png?operations=crop(0:101:459:360),autocrop(1200:630)",
       "articleUrl": "https://www.abola.pt/noticias/pogacar-mostra-se-no-hospital-ao-som-de-stayin-alive-foto-2026083008542519114"
+    },
+    {
+      "title": "Urgência do hospital de Leiria adota novo modelo de triagem para diminuir tempo de permanência - Região de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmhxYUsxS2hLZVVFbncyb0hFVXhzek5LYVVDMGl6NEU0Y3A5cTN0aTc3Wl9nUEVabjZHUmkzZ1piY211ZFJWMVk4ajBxVThnTVdVVm9ILWJJVWM4bGpMcGhaZWpEaG1LbUFETHJyNDlFR1lfUjFpNDQ1M2liYTRNSEt4UVpURG1ISnlDWjY4QTdwbXJfejlBZmw2WnVzR1hQRm5rMHlvVHJtU0RsbmU4RGFfRnlWS2FEbThDMWVTVTFnX3BMU2JydDJPSzQwZw?oc=5",
+      "source": "Região de Leiria",
+      "publishedAt": "2026-08-29T20:11:29Z",
+      "description": "O circuito de entrada de um doente nas urgências da Unidade Local de Saúde da Região de Leiria mudou há cerca de um mês, com a criação do Posto de Primeira Observação de Enfermagem",
+      "image": "https://www.regiaodeleiria.pt/wp-content/uploads/2024/10/hospital_urgencias_geral_2024_fotos_JD__-1-scaled.jpg",
+      "articleUrl": "https://www.regiaodeleiria.pt/2026/08/urgencia-do-hospital-de-leiria-adota-novo-modelo-de-triagem-para-diminuir-tempo-de-permanencia/"
     },
     {
       "title": "Diretor executivo do SNS foi conhecer problemas do hospital - Diário de Aveiro",
@@ -100,24 +100,15 @@
       "image": ""
     },
     {
-      "title": "Quase 170 mil utentes inscritos nos centros de saúde mas sem direito a médico de família - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdW1vREVKNVVXaEZTWEVzWS15U1VXZGdFdFIzakpIQXg5N3FPVGxjalEwXzJRUXAzQjVPOGJNaEhYMEFGTHhxVktuVm5DVl9iaGFabmdmN3NIeWVtNXJFbm5jcmN5Qm02dFVqU3NDVTRQZkhoUnZEQk15TFlXeDZlbzkwQncwXzhoWUUwUmE4b3lBRUYwN0dYOTJwa3pTd29TbkZjX0tSNkFjOGJua0NINTFsMGdGNWhRMnFGenRGbktQYWpFYmlvbTFB?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-29T12:24:32Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "title": "Prisão perpétua ou hospital psiquiátrico? O que pode acontecer a Lindsay Clancy - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWUJRRS1iS1Y0OFFlUFMzWlg0bzR4X2NjeEVKakVWbm9DaVllYjkyTk9QU2E1aGZDdWdhaFc4WnBXWndVSkk5alhIVkdOV0RWdU9KXzBrTUNidS1ESXphSWVYM2dSOEpPWmpvaldIUTU3aWVNRm83ak0taHFocXBiUml0NkwtdFhiTTNzS001ZS1UUXVVcjlyZ1RDdUc2TDFObElRYUFsYVQtRVVXZk5PTE9JSEJOQzk4OWtrYjZrZVJpV2gxR2xxY1pjYVhDUGpDdGNBaDhCelU3ZEZ2OHZITXB5NllIOHZueGc?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-08-30T07:50:00Z",
+      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
-    {
-      "title": "Islandeses rejeitam negociações de adesão à UE, noticia a estação pública RUV - Público",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM01vWkloaDNXMnZWSFZNU1pnM2tqRkxvUjYxSTRibEJBUlBzZHlnVGx3cWFZVDdWM2t4c1Q5WFF1SXJncFpDcFV3NmxWT1lERWxKVXEyMENLM2VoZDZmemF0eXdCMndZM1hJMS1xZHVwZl9YSzkycVZMUmJ4d3dRaHJxYkFaUFNWU3hxTXRLYVRxTWR3Q0ZScnZxbDZiVHR1M1dhV3QxTnlWd3FIdm05ZkpZWGRGeVBjWVdmcFM5NWt0YXZ1X2YyT1h5RXB0TkEyZXBIaXlJLWk3cHdHc2c?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-08-30T08:26:40Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/30/mundo/noticia/islandeses-rejeitam-negociacoes-adesao-ue-noticia-estacao-publica-ruv-2186489?ref=hp&cx=ultimas_1"
-    },
     {
       "title": "Não, o Irão não está a vencer: no quarto ato da guerra, Teerão perde influência em Ormuz - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbURFZTJ1SUM1YUdnS1duY3dCSDFIdW0xWTRpZ2FBcDRQanhCQzlsdkFNcHl0SlVxNTNCRzBpd1R4OUJlTjNkQmxLWVJwa1pUY0VvUjZNUDhGNG9QTHZINzAwazR5X0ZRMHF2czZZWHJfeTROV2UzbmpUUURiNGhtZTlNVnNBSHJrTXROdWxFYW16dFJyLVJPaW9XQk1nbnBPN0R6OUpRbHNwS1dXSFVXT1FrUTBaemlqck9pTmJqc2hBWENsRXhMT0pwc0tpT3k2ZE5OdzRZOFU1R3ZRSVZCZVJnQXhja1gzRjdmU2tWdVVmRjh2OXVLZV9UZFJLVDJoT1RoSkwwV3I?oc=5",
@@ -128,6 +119,15 @@
       "articleUrl": "https://cnnportugal.iol.pt/irao/estados-unidos-da-america/nao-o-irao-nao-esta-a-vencer-no-quarto-ato-da-guerra-teerao-perde-influencia-em-ormuz/20260830/6a945b62d34e511da0b3607e"
     },
     {
+      "title": "Islandeses rejeitam negociações de adesão à UE, noticia a estação pública RUV - Público",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM01vWkloaDNXMnZWSFZNU1pnM2tqRkxvUjYxSTRibEJBUlBzZHlnVGx3cWFZVDdWM2t4c1Q5WFF1SXJncFpDcFV3NmxWT1lERWxKVXEyMENLM2VoZDZmemF0eXdCMndZM1hJMS1xZHVwZl9YSzkycVZMUmJ4d3dRaHJxYkFaUFNWU3hxTXRLYVRxTWR3Q0ZScnZxbDZiVHR1M1dhV3QxTnlWd3FIdm05ZkpZWGRGeVBjWVdmcFM5NWt0YXZ1X2YyT1h5RXB0TkEyZXBIaXlJLWk3cHdHc2c?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-30T08:26:40Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/08/30/mundo/noticia/islandeses-rejeitam-negociacoes-adesao-ue-noticia-estacao-publica-ruv-2186489?ref=hp&cx=ultimas_1"
+    },
+    {
       "title": "Oriente Médio é calcanhar de Aquiles dos EUA, avalia professor - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTJCZmhSSi1yNk1KTHNFUEdZLVBieWZwazBGWXBHSTJ1YWY3ZWtIR0lDaHZGeWdJaDZIVWlydzNBQlNLM2V5a0N6X2xHQV9YNUdCbkJXTG1GR29raWxoaGMxRW1zN0RVemd1R3NWNUR2bUUwNXRhQnFxRHJRX3RYRGZjd09XaUx2VEpHemxsb3ZFeEY2Wkk3Q0dFTTM1YzJDQ1AtRGtEOU4?oc=5",
       "source": "CNN Brasil",
@@ -135,6 +135,15 @@
       "description": "Alexandre Coelho avalia que, seis meses após o início da guerra contra o Irã, os EUA não obtiveram vitória estratégica e enfrentam desgaste crescente",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/2026-08-27T214451Z_1_LYNXMPEM7Q1SX_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?w=1200&h=630&crop=1",
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/oriente-medio-e-calcanhar-de-aquiles-dos-eua-avalia-professor/"
+    },
+    {
+      "title": "Vaticano defende diálogo com Rússia para solucionar guerra na Ucrânia - Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMVpMX296Ry1QWENOR3YzakxYX1BJbUhZVTFnUERjWHloQ3QxaHBCWE1fTGMyMzRxUUdoWHRaZUE3WjNZMGEyTEZ6czNpTGZOdjFtZjJWa3hJNi1LUjBENy1FaTh2ZGZQTjkwZFNQbVRtWUJsZkxFVGJnT05zWWtucmkyZE04cU9uQlQ4QVQ5bzlyWl9tdTNYVTlGb0dmRUpOQlpRV1FZR3piTkRVVExFdFB4d0RXTlVyNHViZnFQZHV2X29lcnU2d0djNlNiVG40LUl5TFdVQWI0dm9rdnZsYnVnV2FaVkg5QTdv?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-08-30T17:07:00Z",
+      "description": "Enviado do Papa disse que isolar Moscou não contribui para resolução de conflito",
+      "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "articleUrl": "https://www.terra.com.br/noticias/mundo/vaticano-defende-dialogo-com-russia-para-solucionar-guerra-na-ucrania,0818d64d61910383dad91b69bfc5bed987iuvbwa.html"
     },
     {
       "title": "Médio Oriente: \"Há uma derrota estratégica clara da administração de Trump\" - Now Canal",
@@ -153,6 +162,15 @@
       "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.impala.pt/noticias/portugal-e-o-mundo/lider-do-irao-apela-a-paises-muculmanos-para-se-unirem-contra-eua-e-israel/"
+    },
+    {
+      "title": "Islândia rejeita referendo para entrada na União Europeia - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjMzLTlENExCOVRESkZrVkRBWmFYRXc2RmRrTjNCbUdlb2p0Rk5YSThCVXctUHRublJyaURyQnd0VE5LRDlxUFlTcUl0Ti0tdS03dFoydnR2SWV0MU0zZ0NDMzNVYnI2cU5SQm1tUTcySWVQR2NSUlI0U093ZkVsakttUDdwczQ0NjVRWU9hWmJKVGNFTGJ6SWVjNjVnZWtMNm1CMDZmOHRIelQw0gGsAUFVX3lxTE9WMzMtOUQ0TEI5VERKRmtWREFaYVhFdzZGZGtOM0JtR2VvanRGTlhJOEJVdy1QdG5uUnJpRHJCd3RUTktEOXFQWVNxSXROLS11LTd0WjJ2dHZJZXQxTTNnQ0MzM1VicjZxTlJCbW1RNzJJZVBHY1JSUjRTT3dmRWxqS21QN3BzNDQ2NVFZT2FaYkpUY0VMYnpJZWM2NWdla0w2bUIwNmY4dEh6VDA?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-08-30T07:32:00Z",
+      "description": "Entrada do país na UE poderia ajudar a reduzir o ceticismo de alargamento do bloco e reforçá-lo estrategicamente, numa altura em que se discute o território da Gronelândia. Caso o “sim” vencesse no referendo, a Islândia poderia aderir à UE antes de qualquer outro país candidato.​",
+      "image": "https://images.rr.pt/45254417160608da8a27_socialshare.jpg",
+      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/08/30/islandia-rejeita-referendo-para-entrada-na-uniao-europeia/483557/"
     },
     {
       "title": "Islândia rejeita retoma das negociações de adesão à União Europeia - RFI",
@@ -186,18 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdDdnaW1CTmJBSEljZWR2TVFfNnVVTGxGM21tNFdyeDNhelRKQXVSSi1VdHR2Y1gxT201blpIdWxPR2lOZ29sM3VGdkhtc2thWElzc3hNUUFndFY0UEM3QmNhNVVsVFotdDdDclRwcGpQUFIzZWloWWhUUWpNdEtpTEIxOGE0RW5UNGs2U28yc1kzWW1NN200M1lvWGdLOFJDZnJaY0RCRFNfb25xbW5EcFFCcWR1QjFzTm0zNGlyS2pGcDNmWks0OVFxZ0x3Q09naHI0ZGlR?oc=5",
       "source": "RTP",
       "publishedAt": "2026-08-28T20:44:19Z",
-      "description": "O presidente iraniano afirmou este sábado que as sanções e o bloqueio naval de Ormuz pelos Estados Unidos provocaram quebras de quase 35 por cento nas importações e exportações. Já o líder supremo do país alertou que o Governo deve \"abordar seriamente os vários desafios económicos e de subsistência\" no país.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/54/54334acf4ba22b68e69eee9407daf9f2?w=860&q=90&rect=0,121,5000,2741&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/desafios-de-subsistencia-lideres-iranianos-assumem-dificuldades-provocadas-pela-guerra-e-sancoes_n1762271"
-    },
-    {
-      "title": "Islândia recusa em plebiscito retomar negociações de adesão à União Europeia - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlRocUpmZG15TkdVQ2xxc3NrTXh1UUw3cEV0ZE5wLXhzUHRmTXA2R25FWlZVRjJCTnZrdFA0RTB4VXp4bHBYSkR6SmFORVlTTldXSER6cTF5d3FpX0dTeDRRNU51VHB2MEZ2eVdXRWwtWHpuNGE1THg0allUQkEwbnNqTmY5UUZmSlo3ZXF4Q0NldGRXVFBmOFVnd05fd3dvOEswQWMweWVnNThKUFNodGdPYw?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-08-30T09:08:00Z",
-      "description": "País insular convocou consulta popular após ameaças de Trump à vizinha Groenlândia",
-      "image": "https://f.i.uol.com.br/fotografia/2026/08/29/17880337006a933aa488799_1788033700_3x2_rt.jpg",
-      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml"
+      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "A visita secreta da CIA à Rússia mostra como Trump e Putin estão presos na mesma armadilha - TVI",
@@ -205,14 +213,6 @@
       "source": "TVI",
       "publishedAt": "2026-08-28T18:56:00Z",
       "description": "Notícia publicada por TVI. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Guerra pesa sobre economia do Irã em meio à intensificação das sanções dos EUA - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0NyZmlBMkNwMGtCT0RiaXQxdmtmS253VlVzb0xrVVBPSWlUdnA4My1faXdwaVNFWW1KSEV0WWVwZXUwZEUyU0syU04zdG9PbVZHODJYbGUtX2RXUm00ZmVkRFA4al9ySkxkR1o0bjhjQW03SzBfdU41Nzc5cEROTi1CUXdpTUZZbzRoMVUtdW5FVndHel9hbExpcEg2U1RQVE1wX2w1N1M1SDJTc1AyNDhxel9zZmxpb2hFWHJoSE1GMXdP0gHTAUFVX3lxTE9RTW1vbWFlMXBYYjEyb3JUTE9oRjhiZG5XVWYzMU1XMjdwUjh4UHg2TWx1clJKQUJjUUJzNnVUUTFadDJnNUprZ1RUdW8xY0hyazRVMlVWWE0yNUQ3U1VCN3ZjMlpMeFFKTGp4M3RoVFMwSU9jWFI3QVRIeVpzT01GVG5aLUhEN1YwMWJjOXU2eG1KbjVFbjdoUEhuYU5QS1BtTFQ2RjNFdm8zNGJ0V2lVWUpBX3RyMFd4a24tTHZ5VWJWRVMtUkxyZExDdEJUU2xmYWc?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-08-29T17:17:48Z",
-      "description": "Notícia publicada por Valor Econômico. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
