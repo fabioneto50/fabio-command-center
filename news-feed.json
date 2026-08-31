@@ -1,59 +1,32 @@
 {
-  "updatedAt": "2026-08-31T06:22:26.533958Z",
+  "updatedAt": "2026-08-31T07:22:07.639826Z",
   "health": [
     {
+      "title": "Unidade Local de Saúde sensibiliza diretor executivo do SNS para investimentos prioritários. - terranova.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDd2Y3JHRmJWaEFIVGNFRFdfU3QtYUNaUjJxWEpTVHoyenVfQkNJQlpISlhta1VtWmdsRFNKaDJLS1RnX1Vmd2Rtcm1oX3hMMVRudWR2X3pnMS15TTZza2QtaFVrWjFQZWc2bWYzOGNxYVZPQkxqSEoxV0VrY0NVUU5NdVRwOGgzcGNXSXBxSFZpRnVBbHlJRjlBYlZieURUYjhVcHV1OERhdnRYYkFsdWYtal9taHpJ?oc=5",
+      "source": "terranova.pt",
+      "publishedAt": "2026-08-31T06:11:00Z",
+      "description": "O diretor executivo do Serviço Nacional de Saúde esteve de visita à Unidade Local de Saúde da Região de Aveiro (ULS-RA).Visita passou por algumas das áreas mais críticas e diferenciadas do Hospital Infante D. Pedro, incluindo as Consultas Externas, atualmente instaladas em estruturas modulares, o Laboratório, a Urgência, o Bloco Operatório, o Serviço de Medicina Intensiva, a…",
+      "image": "https://terranova.pt/sites/default/files/styles/medium/public/media/imagens/789303687_1603072368497757_8021106828577175744_n.jpg?itok=AqTIaZ0N",
+      "articleUrl": "https://terranova.pt/noticias/politica/unidade-local-de-saude-sensibiliza-diretor-executivo-do-sns-para-investimentos"
+    },
+    {
       "title": "Há três mil novos enfermeiros no mercado, mas hospitais não conseguem contratar - Público",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXdkNU5YXzN0bFdiYXFyMk1NZVRtcVhDS1hBeTFkTFRIT05uZ01GZ2stYk5fTFJFdDFDaWlSNHlKUm5YbDEwMW1wUjV3VC1rTlFTaHBOeENBWGxuMGYzeGU5clJHMnBJMnJaRVZBejlkUG8waDBNVjBaczNsd3Z0Q3czSGhwbVZTaV9saHQ4dHQ1VXlTTWlmVmpyMUxHbkttQW1IWm5sTFE2empEWXVoLU5IMWpIcGNTOGpnQW51b1BWdlN1ckZsZlN2RQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2VURVQ1MnBCT1BOQWlyZ09fMzBDWl94YU9PdlpEMlhkN3BncFFQdkY2VzdXSWQxNkxFdnVnTjdGbVNJNlRscnEzaXZaU1RvWDJaN1ZuMGc3UVRVWHFJN2s5dVlDbkhlYmZHOVZjUmwwYnEtVXZJeHVhNl9uRERJWS1pSjM3UFc1M2FBcFdhczlZMVFkQWhZZW1DQzA2SlI2dVVnTld2QlpXOTNwNHpJTkN4QU16Y3BaWndnRlpHZU9xbkhETVpjSmk2amxtWGdoVVFRLUptSFY?oc=5",
       "source": "Público",
       "publishedAt": "2026-08-31T05:45:00Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/31/sociedade/noticia/ha-tres-mil-novos-enfermeiros-mercado-hospitais-nao-conseguem-contratar-2186305"
+      "articleUrl": "https://www.publico.pt/2026/08/31/sociedade/noticia/ha-tres-mil-novos-enfermeiros-mercado-hospitais-nao-conseguem-contratar-2186305?ref=saude"
     },
     {
-      "title": "Antevisão: Margarida entra em desespero no hospital ao receber notícia trágica - SIC",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR3R1SmNDb1pqYl9uSHl2aWQ5OHlEeHdaVlo4andPSWhuTVdMSHVHbUNfOG9zOGNNUkRrZkxTb2FoTWwwQXFBM21SUFlTa2pYMVFMZVBZeWtYa2IwZENodEhSeVFBMm05SzJzUi1HNlptNDlCSGNuOG91Z2xrZ0JYT0dDZEhCWVFmbWphVTlrSXc1c29hVzBRQlFjRjBlSUFSNUxPTTZaTnF3aHQ2eUNhVDJTU0h0SHJGajV4NU1IMUN6S1VWSGUxV1lFaDZQRHhSRHR2dlRNN1Axc3J0RFpKd25wUjN2c2s?oc=5",
-      "source": "SIC",
-      "publishedAt": "2026-08-30T13:00:00Z",
-      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sic.pt/programas/vitoria/temporada-3/antevisao/2026-08-30-antevisao-margarida-entra-em-desespero-no-hospital-ao-receber-noticia-tragica-efc772b2"
-    },
-    {
-      "title": "\"A sobreviver\": Tadej Pogacar mostra-se no hospital após queda na Vuelta - O Jogo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSE1IelZTMjMyYjFXdENCR2ptTHJFejEzRkRqclQ4YjFPSXBJeGVYTXE4aHZVMzRjcTluZEJta2U4S0ZvTE02V3JnajVveTNybTdrX2g4Qi00dkxlTFZ2ZHJINDQzdXFsRGdpY3hXWW85d0xHLWN4ZkRnTUtiSDlGZjEzMkVFMzFtSEdGWUFMRVRrY05xLWdLSUFVa2hSdVFTclpVNmRQUzh2NEM0ODBwWmhGdEF3YTJsWWfSAaYBQVVfeXFMTTl5dDZuWDVNNkF2NGQ5SE00RVBoUV9BR1FMNG1nc2dJZENrWHJkNm1Pd1hySm4zLVIteDNPUmtvMndPZmUyMS11Vk5TMUQ0VDBnb1ZUdDFqbXpUWEt1TjV3ZmdXeVk3X0J6ajR3OEFkU0RLc01MdGY1MXdOSUFObzQ4R0VqZEtkcnZzR0NOcTdzVlU5Y2dqeXdxYjhhREFnN2w1TlRLdw?oc=5",
-      "source": "O Jogo",
-      "publishedAt": "2026-08-30T10:50:00Z",
-      "description": "Notícia publicada por O Jogo. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.ojogo.pt/modalidades/artigo/a-sobreviver-tadej-pogacar-mostra-se-no-hospital-apos-queda-na-vuelta/18121411"
-    },
-    {
-      "title": "Comunidade Ásia-Pacífico: Cuidados de MTC chegam a comunidades remotas na fronteira do Camboja - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPempkZjhMNXl4RnotTk1RRmdFM05GMGRuZW11LV9WS1lzd1dXUER3QmhNWkROYWZ1cnlKNVVYWThIMmY1N082V3hGU1ZTUW92VXRXbTdQT2pBWHEyajIxUWJiTXVpX2RQcDAzRTItVjM4NlZsamdocHhWN0FVVWREZUMyQ3Itanc?oc=5",
-      "source": "新华网",
-      "publishedAt": "2026-08-31T01:13:58Z",
-      "description": "Tob Savoeun, uma paciente de 69 anos do noroeste do Camboja, sentiu muito alívio neste sábado após receber tratamento de Medicina Tradicional Chinesa (MTC) de especialistas chineses. O tratamento aliviou efetivamente sua fraqueza crônica nos membros e a dor persistente no quadril.",
-      "image": "",
-      "articleUrl": "http://portuguese.xinhuanet.com/20260831/e74e30f6169844e1a89285f55f899121/c.html"
-    },
-    {
-      "title": "Urgência do hospital de Leiria adota novo modelo de triagem para diminuir tempo de permanência - Região de Leiria",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmhxYUsxS2hLZVVFbncyb0hFVXhzek5LYVVDMGl6NEU0Y3A5cTN0aTc3Wl9nUEVabjZHUmkzZ1piY211ZFJWMVk4ajBxVThnTVdVVm9ILWJJVWM4bGpMcGhaZWpEaG1LbUFETHJyNDlFR1lfUjFpNDQ1M2liYTRNSEt4UVpURG1ISnlDWjY4QTdwbXJfejlBZmw2WnVzR1hQRm5rMHlvVHJtU0RsbmU4RGFfRnlWS2FEbThDMWVTVTFnX3BMU2JydDJPSzQwZw?oc=5",
-      "source": "Região de Leiria",
-      "publishedAt": "2026-08-29T20:10:00Z",
-      "description": "O circuito de entrada de um doente nas urgências da Unidade Local de Saúde da Região de Leiria mudou há cerca de um mês, com a criação do Posto de Primeira Observação de Enfermagem",
-      "image": "https://www.regiaodeleiria.pt/wp-content/uploads/2024/10/hospital_urgencias_geral_2024_fotos_JD__-1-scaled.jpg",
-      "articleUrl": "https://www.regiaodeleiria.pt/2026/08/urgencia-do-hospital-de-leiria-adota-novo-modelo-de-triagem-para-diminuir-tempo-de-permanencia/"
-    },
-    {
-      "title": "Israel confirma ataque um hospital no centro da Faixa de Gaza - Observador",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTdxQlpkMTFqNWgxT1dyR3FmWXRJeVZ1YzA1N045SXFrOEYyLUxTNENjQ2RpU3VpXzdPZE94OGRUVHJBT2hsLUFYNUhWUWJOdTJ3THB6aVYzMjV2T2RRUDg0ZWpjdExvNEVJOG4wZVppcUxDVmhOcTV0MGN6TVA3bUVhUWx3Q1lIZ1VxbTFuS18xSm9INlFLWVY0Yw?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-08-29T15:56:25Z",
-      "description": "O Exército israelita afirmou no seu comunicado que alertou na quinta-feira as autoridades de saúde da Faixa de Gaza \"sobre a proibição de utilizar as instalações médicas para fins terroristas\".",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1333%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F29161946%2F47656647.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/08/29/israel-confirma-ataque-um-hospital-no-centro-da-faixa-de-gaza/"
+      "title": "Escola secundária em Viseu coloca mais de 30 alunos em Medicina - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhTYkZ1RHJkRElDX3VBdDg0REU5anY2dzI3YVdub1dyOEJqUUdMNzVvSFVVQkVITGlKcFR6ellhQTZ4TVJRTDFKaEU2aXhubExTZ2JJVDJOVGFfYURmOTBxUDVsRXJYWVJRWVBTNWVaTVktVHQ1ZTdUQkJrSVkzLXNjcmpWbkpFMDNQUjBnSTUyRzZ6YU1aZEtabU9fVmNaSHYzWVRTQ19CN3M?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-08-30T20:27:00Z",
+      "description": "Segunda parte do 'Investigação CM' deste domingo.",
+      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x722uu2026-08-24-17-05-18-2304470.jpg",
+      "articleUrl": "https://www.cmjornal.pt/cmtv/videos/detalhe/escola-secundaria-em-viseu-coloca-mais-de-30-alunos-em-medicina"
     },
     {
       "title": "4 alimentos que podem prejudicar (e muito) a saúde do seu fígado - Notícias ao Minuto",
@@ -65,50 +38,86 @@
       "articleUrl": "https://www.noticiasaominuto.com/lifestyle/3039230/4-alimentos-que-podem-prejudicar-e-muito-a-saude-do-seu-figado"
     },
     {
-      "title": "Pogacar mostra-se no hospital ao som de \"Stayin' Alive\" após queda na Vuelta - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb29iOE5oMnV5OG1ubi1PZnE0LWZVVVMzcDBkUS1CTHFqWGtCenNTbEpjY3M0YklmNDlCZ3lteDJ5aWtlaEI2T1VZM01qRmc0aDU1c0ZaTWtnWTBDc21RMnNoUXFDcWVBY05rNGowcWRKZVNtODNBV2xTX0pBbFVabGZEbzBYa0ROTFFMWENnNmNpd3I3Mk5BVUtjQzhPQ1JxS2N6d1QxNE41cHhVblZiVVpwOTPSAa8BQVVfeXFMTlFBV044UndlSDJaZTZZMHFHTWw4NHZMTTZQQjJaV3JLWmhtWnFvdThfVnNDbVJEZjFaTTZKUUg0OGdna0dTOUdEYUN0T2VGZVo3eUZmTFdxOHZURnBuMDVqaF9vSzhydUZhekZZejRtcnVpbV9xUWNiYkI2SHZfUkZndnJNdFg3Y0YyUHFUX1R2SzVveXZPOWtjOWtZNVhBUFhYV2lFa2Rtb1BVRmduaw?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-08-30T16:01:00Z",
-      "description": "Tadej Pogacar abandonou no sábado a 81.ª Volta a Espanha em bicicleta, quando liderava a classificação geral de forma destacada, após uma queda na oitava etapa que lhe provocou fraturas na clavícula esquerda e numa vértebra cervical.",
-      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x721uu2026-08-21-17-57-58-2304043.jpg",
-      "articleUrl": "https://www.cmjornal.pt/desporto/detalhe/pogacar-mostra-se-no-hospital-ao-som-de-stayin-alive-apos-queda-na-vuelta"
+      "title": "Antevisão: Margarida entra em desespero no hospital ao receber notícia trágica - SIC",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR3R1SmNDb1pqYl9uSHl2aWQ5OHlEeHdaVlo4andPSWhuTVdMSHVHbUNfOG9zOGNNUkRrZkxTb2FoTWwwQXFBM21SUFlTa2pYMVFMZVBZeWtYa2IwZENodEhSeVFBMm05SzJzUi1HNlptNDlCSGNuOG91Z2xrZ0JYT0dDZEhCWVFmbWphVTlrSXc1c29hVzBRQlFjRjBlSUFSNUxPTTZaTnF3aHQ2eUNhVDJTU0h0SHJGajV4NU1IMUN6S1VWSGUxV1lFaDZQRHhSRHR2dlRNN1Axc3J0RFpKd25wUjN2c2s?oc=5",
+      "source": "SIC",
+      "publishedAt": "2026-08-30T13:00:00Z",
+      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sic.pt/programas/vitoria/temporada-3/antevisao/2026-08-30-antevisao-margarida-entra-em-desespero-no-hospital-ao-receber-noticia-tragica-efc772b2"
+    },
+    {
+      "title": "Comunidade Ásia-Pacífico: Cuidados de MTC chegam a comunidades remotas na fronteira do Camboja - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPempkZjhMNXl4RnotTk1RRmdFM05GMGRuZW11LV9WS1lzd1dXUER3QmhNWkROYWZ1cnlKNVVYWThIMmY1N082V3hGU1ZTUW92VXRXbTdQT2pBWHEyajIxUWJiTXVpX2RQcDAzRTItVjM4NlZsamdocHhWN0FVVWREZUMyQ3Itanc?oc=5",
+      "source": "新华网",
+      "publishedAt": "2026-08-31T01:13:58Z",
+      "description": "Tob Savoeun, uma paciente de 69 anos do noroeste do Camboja, sentiu muito alívio neste sábado após receber tratamento de Medicina Tradicional Chinesa (MTC) de especialistas chineses. O tratamento aliviou efetivamente sua fraqueza crônica nos membros e a dor persistente no quadril.",
+      "image": "",
+      "articleUrl": "http://portuguese.xinhuanet.com/20260831/e74e30f6169844e1a89285f55f899121/c.html"
+    },
+    {
+      "title": "\"A sobreviver\": Tadej Pogacar mostra-se no hospital após queda na Vuelta - O Jogo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSE1IelZTMjMyYjFXdENCR2ptTHJFejEzRkRqclQ4YjFPSXBJeGVYTXE4aHZVMzRjcTluZEJta2U4S0ZvTE02V3JnajVveTNybTdrX2g4Qi00dkxlTFZ2ZHJINDQzdXFsRGdpY3hXWW85d0xHLWN4ZkRnTUtiSDlGZjEzMkVFMzFtSEdGWUFMRVRrY05xLWdLSUFVa2hSdVFTclpVNmRQUzh2NEM0ODBwWmhGdEF3YTJsWWfSAaYBQVVfeXFMTTl5dDZuWDVNNkF2NGQ5SE00RVBoUV9BR1FMNG1nc2dJZENrWHJkNm1Pd1hySm4zLVIteDNPUmtvMndPZmUyMS11Vk5TMUQ0VDBnb1ZUdDFqbXpUWEt1TjV3ZmdXeVk3X0J6ajR3OEFkU0RLc01MdGY1MXdOSUFObzQ4R0VqZEtkcnZzR0NOcTdzVlU5Y2dqeXdxYjhhREFnN2w1TlRLdw?oc=5",
+      "source": "O Jogo",
+      "publishedAt": "2026-08-30T10:50:00Z",
+      "description": "Notícia publicada por O Jogo. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.ojogo.pt/modalidades/artigo/a-sobreviver-tadej-pogacar-mostra-se-no-hospital-apos-queda-na-vuelta/18121411"
+    },
+    {
+      "title": "Urgência do hospital de Leiria adota novo modelo de triagem para diminuir tempo de permanência - Região de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmhxYUsxS2hLZVVFbncyb0hFVXhzek5LYVVDMGl6NEU0Y3A5cTN0aTc3Wl9nUEVabjZHUmkzZ1piY211ZFJWMVk4ajBxVThnTVdVVm9ILWJJVWM4bGpMcGhaZWpEaG1LbUFETHJyNDlFR1lfUjFpNDQ1M2liYTRNSEt4UVpURG1ISnlDWjY4QTdwbXJfejlBZmw2WnVzR1hQRm5rMHlvVHJtU0RsbmU4RGFfRnlWS2FEbThDMWVTVTFnX3BMU2JydDJPSzQwZw?oc=5",
+      "source": "Região de Leiria",
+      "publishedAt": "2026-08-29T20:10:00Z",
+      "description": "O circuito de entrada de um doente nas urgências da Unidade Local de Saúde da Região de Leiria mudou há cerca de um mês, com a criação do Posto de Primeira Observação de Enfermagem",
+      "image": "https://www.regiaodeleiria.pt/wp-content/uploads/2024/10/hospital_urgencias_geral_2024_fotos_JD__-1-scaled.jpg",
+      "articleUrl": "https://www.regiaodeleiria.pt/2026/08/urgencia-do-hospital-de-leiria-adota-novo-modelo-de-triagem-para-diminuir-tempo-de-permanencia/"
+    },
+    {
+      "title": "'Sunburn blush': tendência que imita queimadura de sol acende alerta para a saúde da pele - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRFdlTnNUU3ZwX0lxOVZjQkVZZTZVSXpTQXNzUzRETHp3bGJSTC1HQTZhRElyRnZrOFVFTkR1RHZlT2xXZmRydDRBLXotRmhMRE50c0g2VmIwQy1SUFFETm5QUTRvWENzUFU2OGtpMDVXX1R0MjZyX0l1RldiTTg4UndaUllhaVdDcVotUDh5SzZBaHhtS1JPRmh1VGNWS0NWNTF4U3B6cDRYaVZITl9tdnAwVWZyTTRuamVhVlFoMmNvMXl2bFZTT282MUhHZzBWdW9tNVVwNNIB5gFBVV95cUxQYkRkd0ljbFFoTWVlZmhiSFdxVHpQeHNlVGphUFBZZEo5STczb0xqdHViUTNGLXRodEdvd0tOQnRrVTFsLW5GTlVjeGExelZjNG5xZjJOZzBmUHBleGhOTkMydERJOUZvT2VMRHdHTldIeTlKY3VyY1M2TmpFTVVDNUtuWTRPQ083TlZIejZLa2JXdDh4MklOTmNMdVdfYjk1dDJHY2ROaVJPWER5TUdqS1JhVlc5NENzWWRYSVd3VHdrVlZObTRac3pfR2hPWDNUa1dZM2o0WU1BOUI5ZG9nX0NYU2wxZw?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-08-31T06:30:38Z",
+      "description": "Visual inspirado no rubor de um dia na praia ganha espaço nas redes, enquanto dermatologistas explicam os efeitos da radiação ultravioleta e os cuidados necessários durante o verão",
+      "image": "https://s2-oglobo.glbimg.com/6R4jIb2wYWxm6HGB0IaGLph3yAc=/1800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/q/L/Qw27tARLGTA3suBKIeCA/woman-dealing-with-rosacea-applying-make-up-with-brush-1-.jpg",
+      "articleUrl": "https://oglobo.globo.com/ela/noticia/2026/08/31/sunburn-blush-tendencia-que-imita-queimadura-de-sol-acende-alerta-para-a-saude-da-pele.ghtml"
+    },
+    {
+      "title": "Israel confirma ataque um hospital no centro da Faixa de Gaza - Observador",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTdxQlpkMTFqNWgxT1dyR3FmWXRJeVZ1YzA1N045SXFrOEYyLUxTNENjQ2RpU3VpXzdPZE94OGRUVHJBT2hsLUFYNUhWUWJOdTJ3THB6aVYzMjV2T2RRUDg0ZWpjdExvNEVJOG4wZVppcUxDVmhOcTV0MGN6TVA3bUVhUWx3Q1lIZ1VxbTFuS18xSm9INlFLWVY0Yw?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-29T15:56:25Z",
+      "description": "O Exército israelita afirmou no seu comunicado que alertou na quinta-feira as autoridades de saúde da Faixa de Gaza \"sobre a proibição de utilizar as instalações médicas para fins terroristas\".",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1333%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F29161946%2F47656647.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/08/29/israel-confirma-ataque-um-hospital-no-centro-da-faixa-de-gaza/"
     },
     {
       "title": "FC Oliveira do Hospital, Naval 1893 e Marialvas seguem em frente na Taça de Portugal - Diário de Coimbra",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1dDRnpHcENSVmFTNkNRSDFpdkxBcGxaLUlWMmw0Yy10THFjUHEzUnVacC1kSDdZV0pmUE4wTUVNREsyVFZaR1pUYm1jWWk1LUJHWmMwdVRfa1phbHJzTEZQRHhhTUN1a1BRaFM2cVk3VEdzNUt0S3p6bEUydkNna3g2OHJrTzZaR0RrRFRFV0xkYnE3R2JSVWRjOHBIVDJDeVVzbUJzMDBrTnMtNW5vSTg0U3M0SnhpcUtPQ2J1bjBCZw?oc=5",
       "source": "Diário de Coimbra",
       "publishedAt": "2026-08-30T18:10:00Z",
-      "description": "Oliveirenses venceram Sourense no prolongamento e figueirenses também resolveram duelo na casa do Nogueirense depois dos 90'. Marialvinos golearam Fornos de Algodres",
-      "image": "https://www.diariocoimbra.pt/wp-content/uploads/2026/08/Nogueirense-x-naval-39-agosto-scaled-e1788116990137.webp",
-      "articleUrl": "https://www.diariocoimbra.pt/2026/08/30/fc-oliveira-do-hospital-naval-1893-e-marialvas-seguem-em-frente-na-taca-de-portugal/"
-    },
-    {
-      "title": "Farmácias vão receber 3,15 euros por cada vacina na próxima campanha sazonal - recordeuropa.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelB4YnZEcEpWbDE5dzdIc3E3c3JITVdUZjIyaTdzVzJzUkhyOUdSR2VVenRoWm43bWN2LWc4U1d4RnozVlY1a3A3bUZFRFZNa2NZdzFBNVl4cVdGVlR1ZmNkQXgtdDhWSGIwZUN0ZDdlMkp0S21TNlQ1Y3dHU09uRkU5WWdWU002T0JfT1d1M2xpbTluRFdGNnhvUWJZeDdSZnppRFlVR1p5TEFRVlQ5VER6SlZpS1djVkJMV21zck9ueDVzaEprNlZNaHB3RlN3eEE?oc=5",
-      "source": "recordeuropa.com",
-      "publishedAt": "2026-08-30T14:00:00Z",
-      "description": "Em 2025 foram administradas 1,1 milhões de vacinas contra a gripe e cerca de 631 mil contra a covid-19 nestes estabelecimentos.",
-      "image": "https://i0.wp.com/recordeuropa.com/wp-content/uploads/2026/01/portugal-ultrapassou-a-meta-de-25-milhoes-de-pessoas-vacinadas-contra-a-gripe.jpg?fit=1920%2C1280&ssl=1",
-      "articleUrl": "https://recordeuropa.com/noticias/portugal/farmacias-vao-receber-315-euros-por-cada-vacina-na-proxima-campanha-sazonal-30-08-2026-354838"
-    },
-    {
-      "title": "Saúde e longevidade da população - Notícias de Aveiro",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03ems1emY1d3NiUTZQbUxKVXdab0dOOF9PWTdHMTNLYS1LbGtqMDJTQVdwajFmMVRKeDJ2a1JMV0RaN21fTlhsQ2ZaNnlid3FFRHE5cHdIRG9Bblpwa0NJbktsaTBndnVmUUlQc0hhYU9sMkk?oc=5",
-      "source": "Notícias de Aveiro",
-      "publishedAt": "2026-08-30T23:09:58Z",
-      "description": "Notícia publicada por Notícias de Aveiro. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Diário de Coimbra. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Unidade de Saúde dos Covões está em fase de conclusão - Campeão das Províncias",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkZwVkE2N1FkME5JQTBPQzloZWRQQVBFU2FKUFM4em4tWkRrOURNdjdmWEVfT3VkR3dvenNlUmtrdWJlVG5mbzQ5QUhsZGhpb1lSOEJHcjl4LUJMVnlSWjZHOTYwOHV5dlJzb2xsR1cwWVJrTzdCT2g5bHhXaFM5Z1FZMTU5OEgzaG53U3VZUGhFR2NOMU0wT2ZreU9kdFk?oc=5",
-      "source": "Campeão das Províncias",
-      "publishedAt": "2026-08-30T12:40:51Z",
-      "description": "Notícia publicada por Campeão das Províncias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Uso de inteligência artificial se espalha e reduz riscos na saúde - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlI5R1NOMmF4STVIMkdnUE9nRkg3eTkxVmJzbUJuaVdZLXhtUnNMTmRxVVpUNk1PSzNUQWdIVktXVW9CX3R0QTM4S044SUZGTDVtTzQ3LXVwWUp4d01LdEFoVm5wdzdxQktyVFZBeVpkSWdQYjYyRGRUZVduNXBzLWtHQ3ljY2x4OHlyZGFJNC1BQVNGUkpucnpjazZXV1k0ZXA2OU9tZTNscGItcEl1MmNTSno5d3pWR1VXc0ZHZFBrT2tRVHhKTnFOMTRzWjg20gHfAUFVX3lxTE80ZDVESEVUZG44UFZGMVRzVUtFQVVhMTJyUXptd3puZVVveERYZGFpekdjZnA3a1FmRDhwVDlwNDVEVTNINGdqMHlhdXBRLXRYN3VWNHNmeGp5U0FjQV9NZ2hkcmR6TnQyeEdUdWxMZTRQRkt6ZXk1anZMRi1Dd2l0SEhfOXEzdlJzYTFSQkZvY0tja1BiWnNjejMzTkV3SXpjUlpHbjQ4MWZ0M3NsYW5ZVmdZX1AyWVRENGlBajFjNHY1ZXBHREplTXU4SFBZSU5nSW1QV014Rnl1cW9NeTA?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-08-31T07:01:01Z",
+      "description": "Notícia publicada por O GLOBO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Estará a China a criar uma alternativa ao poder dos EUA? - Observador",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXlNRzFMMmxDNXU4cklwaVBIU09HN2tVdmE1YzVNSDd6eExzdHgxaDJDc0NhWDVKcFMwVFk4QW9yVzQzNTlIU3FJb2dvejJ1YTB6N2x4REh4TVJ5MWF1RlY3VUh6OXA0MUdSZWZlYzdZUVpUM1dSWVdZd0lXNUFpdzRFQ2dyU1pOekhiRHhDM09XM2RldFlpS0QtV2ZsclVOR056UVBJbWxlaWM?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-08-31T06:43:47Z",
+      "description": "Miguel Baumgartner admite que a cimeira no Quirguistão é a prova de que a diplomacia ocidental falhou. O especialista em RI diz que o Irão beneficia e chantageia os EUA com o Estreito de Ormuz.",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/estara-a-china-a-criar-uma-alternativa-ao-poder-dos-eua/"
+    },
     {
       "title": "Não, o Irão não está a vencer: no quarto ato da guerra, Teerão perde influência em Ormuz - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbURFZTJ1SUM1YUdnS1duY3dCSDFIdW0xWTRpZ2FBcDRQanhCQzlsdkFNcHl0SlVxNTNCRzBpd1R4OUJlTjNkQmxLWVJwa1pUY0VvUjZNUDhGNG9QTHZINzAwazR5X0ZRMHF2czZZWHJfeTROV2UzbmpUUURiNGhtZTlNVnNBSHJrTXROdWxFYW16dFJyLVJPaW9XQk1nbnBPN0R6OUpRbHNwS1dXSFVXT1FrUTBaemlqck9pTmJqc2hBWENsRXhMT0pwc0tpT3k2ZE5OdzRZOFU1R3ZRSVZCZVJnQXhja1gzRjdmU2tWdVVmRjh2OXVLZV9UZFJLVDJoT1RoSkwwV3I?oc=5",
@@ -155,15 +164,6 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260830-isl%C3%A2ndia-rejeita-retoma-das-negocia%C3%A7%C3%B5es-de-ades%C3%A3o-%C3%A0-uni%C3%A3o-europeia"
     },
     {
-      "title": "Zelensky: “Rússia deve sentir que a guerra está a voltar para o sítio de onde veio” - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeDBpOVo0X1JZR2ZmbDBScXJNX0U0WkV1dW01RlcwczBPSU91cnFHNERVS2lHMWN4YjlIbDhqaC1qbkg1eTlXMG1WVGFVTU8tSjVvOXdkT1BmSlRsV2lpU1Z1cjB5RFBZT1VEOHROQi1DeWJyeWR4VkU3SnFKTHpDQ0ExWFVsZnB0NmM2alJxQVdaREhUN0dzSkpJMWNnXzU1M09BU2NDLTBwOGhkaWppNXY2WjBtZ0oyUGl1Nkh6d0RENmxweHNpNWhPY9IBywFBVV95cUxQeDBpOVo0X1JZR2ZmbDBScXJNX0U0WkV1dW01RlcwczBPSU91cnFHNERVS2lHMWN4YjlIbDhqaC1qbkg1eTlXMG1WVGFVTU8tSjVvOXdkT1BmSlRsV2lpU1Z1cjB5RFBZT1VEOHROQi1DeWJyeWR4VkU3SnFKTHpDQ0ExWFVsZnB0NmM2alJxQVdaREhUN0dzSkpJMWNnXzU1M09BU2NDLTBwOGhkaWppNXY2WjBtZ0oyUGl1Nkh6d0RENmxweHNpNWhPYw?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-08-30T16:38:00Z",
-      "description": "Presidente ucraniano reivindica novos ataques de longo alcance contra alvos em território russo e pede aos aliados mais sanções contra a infraestrutura militar de Moscovo. Zelensky revela ainda novos contactos com os enviados do Presidente dos Estados Unidos.",
-      "image": "https://images.rr.pt/4444064819535e078d88_socialshare.jpg",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/08/30/zelensky-russia-deve-sentir-que-a-guerra-esta-a-voltar-para-o-sitio-de-onde-veio/483598/"
-    },
-    {
       "title": "Irã lança mísseis contra bases dos EUA após novo ataque americano - Estadão",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2I4Z2NfaHRhTHFKZk95Q0RLbjVjR3VCdGhBYXRpSFZIYkhpZEFmcjk2TThJbC1DSFZzOHU3Q1JwLWdMLUsySVRtRnlXRGhrSHVZNFhWOV90R3VpMEYzM3FfOF9NXy15X3ZRZXFYa2tMQlRBbGdaX2pKYm5keHlOLUZ5UTg5RlU5cDdySk5LMmZad2JGUTkyNmxBSFNfNU9WdFp3d3c3N3hRY0pLUUdRSdIBtgFBVV95cUxOSUxBVXhVcUZIbEdnNjVINExPcDRDTkFYejh2enp4OERQelh1TXlXU0V1SFRUUUtoQWVZMVF1bkpxTU81S0wwNlFxdVlrQmhVLU9HX05pQ0FULUN4Q2dUYnI4R3h3NHFDY3BiYlZNaHFpYzhHOG9IMDhUU2poaGtya3FyZ05KbnhJc1k5NEhTOEhlWkx4N1M5V2M4X0tycXZNSWRHQlJGeklHM3FndmhtQm1WcU1WUQ?oc=5",
       "source": "Estadão",
@@ -200,19 +200,19 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/08/30/ft-vale-a-pena-reconstruir-as-grandes-bases-dos-eua-no-golfo.ghtml"
     },
     {
-      "title": "EUA atingem lançadores de `rockets` iranianos em Ormuz, primeiro ataque em um mês - RTP",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSGpyX1FhQVdHWXF0Q0IwR0tUNTRqU2dtdDl3Yjc1R2JDc1VjLTliLWRkY3FCd2JBTk5Wd3FXS1dENTE2YnJaVlNjUkpFWTNvX3RDQkpuMWxreGxzMV95VlE3NVNRQS0xYkgzX3UwbWRMTjRLcWFmX3VXWDA0S29BS2g5cDNkcldVUVRuOWc5eTNiNHRmYk1uMFd0aUVKbGZ2VGJ5aEJlbEZMRG5PSVROM3VIdVpIVE9uY3FoUzJJSlhyQ2JnZVR5a28wWUMtOVhvVUlORmN3?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-08-31T04:50:26Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "title": "Islândia rejeita referendo para entrada na União Europeia - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjMzLTlENExCOVRESkZrVkRBWmFYRXc2RmRrTjNCbUdlb2p0Rk5YSThCVXctUHRublJyaURyQnd0VE5LRDlxUFlTcUl0Ti0tdS03dFoydnR2SWV0MU0zZ0NDMzNVYnI2cU5SQm1tUTcySWVQR2NSUlI0U093ZkVsakttUDdwczQ0NjVRWU9hWmJKVGNFTGJ6SWVjNjVnZWtMNm1CMDZmOHRIelQw0gGsAUFVX3lxTE9WMzMtOUQ0TEI5VERKRmtWREFaYVhFdzZGZGtOM0JtR2VvanRGTlhJOEJVdy1QdG5uUnJpRHJCd3RUTktEOXFQWVNxSXROLS11LTd0WjJ2dHZJZXQxTTNnQ0MzM1VicjZxTlJCbW1RNzJJZVBHY1JSUjRTT3dmRWxqS21QN3BzNDQ2NVFZT2FaYkpUY0VMYnpJZWM2NWdla0w2bUIwNmY4dEh6VDA?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-08-30T07:32:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "GUERRA GENERALIZADA? ⛴️ O ‘Estadão’ explica o que a guerra na Ucrânia e a guerra no Irã têm em comum e contextualiza como os especialistas analisam os conflitos a partir das últimas atualizações. ⁣ ⁣ Acompanhe o assunto em estadão.com.br - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LaTlwMmJaZTVEUnZJVHlMcElRSnhvcEtNMS0zVkpWTWpJcWNhZlhwUFl3VFFpR1RmdWxESGpSSEtWOFNQMzlYVkJzREkyZkp6Y0RFTTlB?oc=5",
-      "source": "instagram.com",
-      "publishedAt": "2026-08-30T23:16:12Z",
-      "description": "Notícia publicada por instagram.com. Abra o artigo para consultar os detalhes completos.",
+      "title": "Depois de ataque dos EUA, Irão responde contra base nos Emirados Árabes - Público",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmR4YncyRFFiVWFTdVFrdFZ1TXlRXzk3cmZFMG9sTnFHaUFPcGYwQllSMWtvWHZSSkJOUDZ0SWh1ZGV0dklUaHNpLUxuSzRQeVFnc3N6OWZwRGNRMjVaejY1a0tDU1FtMXJ2TWJXdzEyWC03d2F3WGloT3hUMVJ4V0kyendqU1dtS2dHU1pKVVVIMm5jRGthbmh3bFZYMnVfelJJ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-31T07:12:54Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
