@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-09-01T13:28:02.822021Z",
+  "updatedAt": "2026-09-01T14:28:37.505302Z",
   "health": [
     {
-      "title": "Vagas na 2.ª fase sobem para mais de 11 mil e ainda há lugares em Medicina - publico.pt",
+      "title": "Vagas na 2.ª fase sobem para mais de 11 mil e ainda há lugares em Medicina - Público",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDRsVExyXzY1MGlBdGNfUFA5WW1MYmZLWXJKZXRWYXNwTzVKN2RRRGt4ell5OWhOZ1ZSRlVjcS1IV2k4UmZGdVpPNjhJLWtBeGdmeHE3OHBMSVQ0bm0zX2hKbFpjbk94MWJlZkVFd2Myc0d4MHI0aE5HV0tkWnhXSkJ2TkRPQzlKYkYzZ01CRmxGdEZ1ZmN5c0tiX3IxcTRtd1dad3pvaU4?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-01T11:20:10Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/01/sociedade/noticia/vagas-2-fase-sobem-11-mil-ha-lugares-medicina-2186661"
+    },
+    {
+      "title": "SPMS partilha experiência em Saúde Digital com comitiva da Arábia Saudita - SPMS – Serviços Partilhados do Ministério da Saúde",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVExNQWVkd3lqT3NsMTB4QW1mRTE5UXo0M0hsalpxNWtqcEhMaUFlb29vR1JoQlRlOXhldVRVZHF4MXZZN1IwbEJsMy0zV2NiTk9fRnRVd0hsdUF6M2UzRy1Ld3I0WXN2NjM1NVJKemlDUnVhTTNmYW1udFdvTVc5ZWVaOGQ0b1VPYzdGajJCcnBDejUzOWx5dFNrRkFPWnRQWlFmYlB2akltWUlWYmVoY3VB?oc=5",
+      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
+      "publishedAt": "2026-09-01T13:39:41Z",
+      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.spms.min-saude.pt/2026/09/spms-partilha-experiencia-em-saude-digital-com-comitiva-da-arabia-saudita/"
     },
     {
       "title": "Trump impõe cortes de 59% na saúde global através de acordos opacos - Esquerda.net",
@@ -20,6 +29,15 @@
       "articleUrl": "https://www.esquerda.net/artigo/trump-impoe-cortes-de-59-na-saude-global-atraves-de-acordos-opacos/98903"
     },
     {
+      "title": "Unidade de Saúde de Alvarães entra em funcionamento com apoio do PRR - recuperarportugal.gov.pt",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0xFQ0VTazR4S2pIdG91XzYyUnhnS09HR2dIU252MEViLUEzeWx4clI3bzJ3TDZjb09NbC0tVFpZaGNCbFFXNmVHaVROVFl4TTJPdVE2dVhfYWxrNWtzdE1Na1ZQR2QyQ1RfZHVaZUNwTFNVRnBwVjFFZ21jT1Y0bjVWeVNENW5nTEV5SzV6Q1pPRi1vR3hmODB2eUhHUThmT0VkeEMwZmdJWEZ6N0tLMHREcw?oc=5",
+      "source": "recuperarportugal.gov.pt",
+      "publishedAt": "2026-09-01T12:03:22Z",
+      "description": "Notícia publicada por recuperarportugal.gov.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://recuperarportugal.gov.pt/2026/09/01/unidade-de-saude-de-alvaraes-entra-em-funcionamento-com-apoio-do-prr/"
+    },
+    {
       "title": "Cheguei à UC, e agora? Saúde mental, bem estar, cultura e desporto - uc.pt",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91VkNSa1hVUnpxWV95eURRTERWSXY3SVE4UV9XVEdnanVWbUVEY0MySUp0VnlYZHo4TWF1Qms4V2RCQ0lrM2pZQmdnYTEtdUhVbDdOZElXaXBibUJRU19MejVXa2JHdw?oc=5",
       "source": "uc.pt",
@@ -29,22 +47,40 @@
       "articleUrl": "https://noticias.uc.pt/artigos/cheguei-a-uc-e-agora-02/"
     },
     {
-      "title": "Coração mais protegido: cuidados com enfermagem e tecnologia reduzem em 22% o risco de morte - healthnews.pt",
+      "title": "Mais de 11 mil vagas para a 2ª fase do concurso de acesso ao ensino superior; há lugares ainda a Medicina e mais a Engenharia Aeroespacial - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYlFLQmU4STVEUGJNYzVHNmswd1ZOMFBrR2N6MWMtNjVZTWctMzJpM2pPTTBvUUZqY0Y0anRHZTRaNi1HajdxRzIzSUJCbGJqMUxrbnVmSVVIU0g5ZlNGbmxFU2lNY2pWcmFONWZ4VTUta0ttZDNLUU5qRjdMLU1CUFBwN0VXS0R3dndMMlcxd1F2NFRnUW5FRW54c3FDZU9kMktLNVVfbVpnYnRnOG03OURaeGo4RmhJTW1FNzRxM3UzdGxFU0w0UU5xbkhkWU1reDJQdEdRMGVCUXRMeHF5SmRwR1BwU1lPLW9ZLWxtZ0h3ZE5wZmlpalZKM1RIZmUwNEVRbHNzZFRtRGtnWkN0M1Q1Xy1YRmhESlhtUTJvbXc2YmpPUzhiVg?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-01T10:47:01Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/educacao/ensino-superior/2026-09-01-mais-de-11-mil-vagas-para-a-2-fase-do-concurso-de-acesso-ao-ensino-superior-ha-lugares-ainda-a-medicina-e-mais-a-engenharia-aeroespacial-6d588f02"
+    },
+    {
+      "title": "Coração mais protegido: cuidados com enfermagem e tecnologia reduzem em 22% o risco de morte - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFdCaFJoRVMzWTdjdDBoQlc3OWliUmpvVm5mbGt3dVZxQzV0czZTaHpjd0NZTk5tTjlQTmt2RkFMVEttbTN2RHJBVEtsVVdFa1FSR2xnTXlqVUdXZjZoWm5FbXRvZ19RU2ViUkRmT1REREpYU2tlTmctdTRsTVltaFFMVEpSeXA0aVNXaktFSjZURENvM1VBUGswLWppWERMbVV2dlNuMUVXOG9hMklZSkN2ajBzVW84WndCNlNSRlpmdw?oc=5",
-      "source": "healthnews.pt",
+      "source": "HealthNews",
       "publishedAt": "2026-09-01T06:05:23Z",
-      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/01/coracao-mais-protegido-cuidados-com-enfermagem-e-tecnologia-reduzem-em-22-o-risco-de-morte/"
     },
     {
-      "title": "Mais de 11 mil vagas para a 2ª fase do concurso de acesso ao ensino superior; há lugares ainda a Medicina e mais a Engenharia Aeroespacial - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYlFLQmU4STVEUGJNYzVHNmswd1ZOMFBrR2N6MWMtNjVZTWctMzJpM2pPTTBvUUZqY0Y0anRHZTRaNi1HajdxRzIzSUJCbGJqMUxrbnVmSVVIU0g5ZlNGbmxFU2lNY2pWcmFONWZ4VTUta0ttZDNLUU5qRjdMLU1CUFBwN0VXS0R3dndMMlcxd1F2NFRnUW5FRW54c3FDZU9kMktLNVVfbVpnYnRnOG03OURaeGo4RmhJTW1FNzRxM3UzdGxFU0w0UU5xbkhkWU1reDJQdEdRMGVCUXRMeHF5SmRwR1BwU1lPLW9ZLWxtZ0h3ZE5wZmlpalZKM1RIZmUwNEVRbHNzZFRtRGtnWkN0M1Q1Xy1YRmhESlhtUTJvbXc2YmpPUzhiVg?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-09-01T10:47:01Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/educacao/ensino-superior/2026-09-01-mais-de-11-mil-vagas-para-a-2-fase-do-concurso-de-acesso-ao-ensino-superior-ha-lugares-ainda-a-medicina-e-mais-a-engenharia-aeroespacial-6d588f02"
+      "title": "Vídeo. Nepal: famílias colocam fotos de desaparecidos em parede de hospital de Katmandu - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjFhZXU0SGVOcEF5UWNWOE1maHU0RDBQMWNvQWg5dEUtUU5nRDhCRXZQUENUNUFuRTFGZEQyYlhQQXk3N0d1Mzd4dm1keXpXNF83OWlEaTNyOEZZTFhJWExKVFAzWW56N0kta2VGMGhDcmpRVmFrYjlGWGFQWjNfQzBiX1hpZkFmcFgzdUN4NkFDdmstMjBGUElaa0MxVm8zNGhRbXZvOGx5RWdSb1BtRTZ3MXNjMkx2MEV6Ng?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-01T14:06:09Z",
+      "description": "Vídeo. Famílias em Katmandu divulgam fotos de desaparecidos após inundações no Nepal matarem mais de mil pessoas; milhares continuam por localizar",
+      "image": "https://images.euronews.com/articles/stories/09/89/71/21/1200x675_cmsv2_8945049b-ebb9-5329-94b2-c46ca404f786-9897121.jpg",
+      "articleUrl": "https://pt.euronews.com/video/2026/09/01/nepal-familias-colocam-fotos-de-desaparecidos-em-parede-de-hospital-de-katmandu"
+    },
+    {
+      "title": "O subsídio de assistência a filhos com doença prolongada permite que apenas uma pessoa do agregado familiar pode faltar para acompanhar o filho e receber a prestação. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXFGU29YcDEwZGJKTzdTTEw2UlZGM3Q0RW9TZFZyMEE2VWpWWlZhRmgzYjM3OVZNNm44RWlBaFlwWGFobHN0MVd0NGJKUGZnb0V1cG1QQXQtQTNkWkwxVl9wck9kalVrcHJXYV90aGltTTUtN0RfNFVDS2FkSXpxSHRJaTdONXRDZkYzTzhUcEN6LWkwTTJEQlRlSHZnWTFieFBYZG9SUE5lS0pSY0dNR3A4aW5sbHpwZHJhMlJMNDV5R1FiZkQ1X3A5NzQ2SzBrRVV5RTlBMDhnbnJBUmpZTkdnU2NfV1FTal9vX2QzZmp5Wnc?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-01T07:28:23Z",
+      "description": "O subsídio de assistência a filhos com doença prolongada permite que apenas uma pessoa do agregado familiar pode faltar para acompanhar o filho e receber a prestação.",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/790269015_1390936853167944_6737731466640211662_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=107&ccb=1-7&_nc_sid=cae128&_nc_ohc=1Gia55Ik014Q7kNvwES7IFG&_nc_oc=Adpi_mBdGkA_ay48UJw9hkbH3JposwLYPtv7Qfd12-fnoaGlQWjWzerBWIySaQBFzbY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-XZcQATAGHTbEphpwoRuYw&_nc_ss=7820f&oh=00_AQLeWsoUquk1DFPBpNmNsSUamG64sNOgWvly1xw1TlAFyQ&oe=6A9CB4E2",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-subs%C3%ADdio-de-assist%C3%AAncia-a-filhos-com-doen%C3%A7a-prolongada-permite-que-apenas-uma-/1464107042487241/"
     },
     {
       "title": "A inteligência artificial na medicina à luz de Magnifica humanitas - vaticannews.va",
@@ -56,59 +92,32 @@
       "articleUrl": "https://www.vaticannews.va/pt/igreja/news/2026-09/inteligencia-artificial-medicina-luz-magnifica-humanitas.html"
     },
     {
+      "title": "Mosquito-tigre no bairro de Bonnevoie. Ministério da Saúde deixa recomendações aos moradores - contacto.lu",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTk1xT2RzcDNqZ1AxWDNKZVB5M0ZkWkx2YnkwaFdUUlFWaXNnTnVIeWVMOFZvdFBLemctTXk1Y0NXYkpIOHVtR0lGNWkzejB1cWtJVXptTVVvaksyRlE4THRPc2U4ZjJoVGZBY1Y3bC1pajQyaVNoT1FBNXBMNkVyQUJWRDlQS2NORXVWMHlSZGEzdFZYMnM4TnNiRVNsTXM2UzhBVkVtVGZ4bk9ScjNBZHVRTlVFLTREOUJXWHZDZ25wbHM1a3V2eTEyYWtBZTZ3RWwzZEs3Nk5ZQQ?oc=5",
+      "source": "contacto.lu",
+      "publishedAt": "2026-09-01T14:24:39Z",
+      "description": "Notícia publicada por contacto.lu. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "Segurança e Saúde no Trabalho - SST em Números | Gestão da SST em Portugal: Alguns dados - UGT",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmVHZzFUVlRYdjItbUtNSWRyQkVWcFRsYUU0bDI2eUU4ZmlYOFpQRFd4NEVNYkZJMk5lbFVjSjNtR210elBaOUZ6YlRRWUFuakV6M1JIU2t3SnhManJORXgwM0lpek5FZVYzR2hJZXd0RDZWRTliSGdoMVNBcV8tTlA5SEhWZWN1alN1MS0wVUs5X0llUk16VG1ZTzVSOUMzX25KX3ppOTBQd3JOY0IzNjRUYXFMZXgybXNvbw?oc=5",
       "source": "UGT",
       "publishedAt": "2026-09-01T10:15:40Z",
-      "description": "SST em Números | Gestão da SST em Portugal: Alguns dados",
-      "image": "https://www.ugt.pt/publicfiles/okxobbqdo0fwb4ieaqyjh9pl1xsjfbxlzmyrbjhf.png",
-      "articleUrl": "https://www.ugt.pt/seguranca-e-saude-no-trabalho/estatisticas/sst-em-numeros-gestao-da-sst-em-portugal-alguns-dados/6839"
-    },
-    {
-      "title": "Genes de longevidade dos morcegos: pistas para saúde humana - pt.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVFiOXVIUEtDb2tlX042UllBWTNJVndHZDE0c2c4cG1LQnBJNzJSTVJfdDZBemZ3VGdMcDNMMFczOU9QX2FqYW5CSWJjWUZoaFFkS2tnOTBzVDRQRVRYOXF5eXc0T2xWMzAtMWFoUFlvZWtlMmJNTFl1S3VPMWIwVGhwQ2hRdmRpWFhsenNpaGRKTTRmMXFsOXNKNVpvTTUt?oc=5",
-      "source": "pt.euronews.com",
-      "publishedAt": "2026-09-01T05:15:05Z",
-      "description": "Cientistas analisam os mecanismos do sistema imunitário dos morcegos para perceber que ensinamentos podem dar sobre a longevidade humana.",
-      "image": "https://images.euronews.com/articles/stories/09/89/59/08/1200x675_cmsv2_17947fbf-2a84-50b6-87cc-6df43552e437-9895908.jpg",
-      "articleUrl": "https://pt.euronews.com/saude/2026/09/01/genes-de-longevidade-dos-morcegos-pistas-para-saude-humana"
-    },
-    {
-      "title": "Ricardo Araújo Pereira confessa desconforto em falar de saúde mental: \"Não suporto a ideia…\" - sic.pt",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzBwY3B0ZTNITEtLS3E4clBnZ3FTbjZxSEVDemdxbnhNRGhfangyeXRKWTdfS1czelliT3FLN2NUVUhNSlVkZUU3dTJyZTU1djVsS3RzeHkxQ1ZWLW1DRXZaQjJXMWtKQkVGbzkzb1lqMm9TOVpRbHk5SjhBaHRRRFZOQmVzSjhwcmZGQzlzVXFTZkFZellWYVJ2TnhOWXl4UVM0VHdTdXd5cHBIYmdWTkJRZk5ueUdUY1RlZ0dUTUU2MTBhUE5tQmU2R1ZOYXJKVlM0cjA3cHBrbkNlZXJfaEhLaGRyY21oSWZ3QmF4ZnM?oc=5",
-      "source": "sic.pt",
-      "publishedAt": "2026-09-01T11:58:45Z",
-      "description": "Notícia publicada por sic.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sic.pt/sic-caras/passadeira-vermelha/2026-09-01-video-ricardo-araujo-pereira-confessa-desconforto-em-falar-de-saude-mental-nao-suporto-a-ideia-ae9060ba"
-    },
-    {
-      "title": "ULS do Nordeste reforça cuidados de saúde em Mogadouro e Freixo de Espada à Cinta - jornalnordeste.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlpXZEx6cHpvVm1IV09EelN1NURkV0JRakJ1MFU3QUk0NUlhd002ajAtc1hlMjZQakpyTl9wY3FEd1BMRWRoUk8yLXhBX05oR2JWUVlVaERjN0xXOUd4RHlTZDRUUEtNbjdGTjRDa3BKUGxWdm1xdU1KdG5IS2RxNUlmYWZ5MVZTSzBmSlotWEgzUVgzSzY5bm8zZlpPRWVWOVl6bWJRanF4ZXkyOExVUjNNb3ZEZlVi?oc=5",
-      "source": "jornalnordeste.com",
-      "publishedAt": "2026-09-01T09:25:48Z",
-      "description": "Medida entra em vigor a partir de hoje",
-      "image": "https://jornalnordeste.com/api/cms/api/img/file/ULSNE_Centro%20de%20Sa%C3%BAde%20de%20Mogadouro%201-1200x800.webp",
-      "articleUrl": "https://jornalnordeste.com/noticias/uls-do-nordeste-reforca-cuidados-de-saude-em-mogadouro-e-freixo-de-espada-a-cinta"
-    },
-    {
-      "title": "Doença de Newcastle confirmada em aves selvagens de quatro ilhas dos Açores - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE5BbDlkYXdSMFVyMmtvdXd3enIwclRLNDBfdG5UYVpKSlN3NHVQelN2NjlfQnlLM0NKcmEyQ1ZiVGJHVUY4b2lmV3liTDBTM2J1NmVQdHd3SWJiLUtOVUpzcWNyaFI1aDFCNUtfLW9Ka1ZmMW9qLXVqZzVjUmZIdklrX0FudFZSNUwzVlM0LXNSYWZPaTV6THludmF3V1dGM2VMaTFZTWFnZ0lUSTF3eDBoOVR4WVhQ?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-01T13:07:51Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Associação defende subsídio para ambos os pais de filho com cancro nas fases complexas - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWERidFp5azhFd3JnNUpiT29jYXlwODMwMDF4WDBINV9pck9xYS1JS0ZVc3JBWjZ5OE1xUkExVjZfekJMdUlwd2tpQ1JySHF2a2U4Qzc0QzVydW8xcklNUTAycG9IUzNXNFZpaWVCakdaQ2o5dFVibDBMVEo4MTNydHN4R2YtLUNZZ05DQ2NXbVBuMW5LSlBfdS1saG1PYmZMV2dpMEdvcEs1THByV2p6eXVqNzdDQVl6Z2lSZm5EM0tTckktcF81cV9hay1XN0V5eHgtNHFvWjgyTGg0M0NfaEk0dEdFVDU2QXNhaXdvdw?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-01T08:34:51Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por UGT. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Catar pede aos EUA e ao Irão que retomem as negociações - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2VFM2ZQcXR6bnZnWnRJLUxtdkszRWpsaGRHbUdCWFJodUxIcWlWUWpBRFkxOHFJWHJDeWpvelpJeXpHa2t5ZXFQdjg3NGh3MnVwV2g5NEVDUUtIdVkxNEs3czctdEU0THRmTE5iWHg2bEc2eWw3bzVBUmZGNUJkUzBhSVUwT0xfU2ZCTk82dUdxTXZBX3Uzejd0Mk9HU3EtOTZ3amJhRUxiWHA3VEM0SWZDYXZJdmJ2dFE?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-01T13:31:48Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-01-catar-pede-aos-eua-e-ao-irao-que-retomem-as-negociacoes-8ffaa9ed"
+    },
     {
       "title": "Novos ataques russos a Kiev pressionam UE a reforçar apoio à Ucrânia - RFI",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYThVRDVETTBsUUh4T3V0bDFiTDJ6aTdPamg4MGRnV3FVUG5TdE1qWlFSNm5pMGNLS2NaVmhEeTV4NnVsR0Izc3FVOTBUbHM2bXRXSFdsX190bkdlVVJfSHBJMGlTRUphek1GdDF3NVRnbHNuWEVoWU4tYi1iYXRKazd5TUJxcE05LThiVnR6aV9BcmFZV3lGNTNmMjluMG5kSUp5WllSWnpaMENoSi1zYnJRZ2Noc1hwVWtBNg?oc=5",
@@ -119,22 +128,13 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260901-novos-ataques-russos-a-kiev-pressionam-ue-a-refor%C3%A7ar-apoio-%C3%A0-ucr%C3%A2nia"
     },
     {
-      "title": "Teerão promete regressar aos compromissos se Estados Unidos restabelecerem acordo - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ095NldBR1dNRkRqLUZCcXdrWWhQWEFuRmU2OUhDWm1MMDQ0T0IzeG1wemhxUDRSMW1ibzZnMktQSk1QWDJxRzZ5Sk1qSnNOdWhwaWtrVlR2cE9pWVVlTENmcVd1aF8tc3liNFlLeHRTX2Rka0JaWmtybTJmTUtURE9fczZaQm5XbS10c2lKazRTR1FiZXl0WGxKcnNGZ1FUQkQ2Y0pJTTB6czNwTWhxRTBQNy1UUQ?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-01T11:08:56Z",
-      "description": "O ministro dos Negócios Estrangeiros iraniano, Abbas Araghchi, declarou que “tudo poderá voltar aos eixos\" caso os EUA cumpram o memorando de entendimento assinado.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1123%3Anowe%3A0%3A203%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F01%2F11154030%2F46278568.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/01/teerao-promete-regressar-aos-compromissos-se-estados-unidos-restabelecerem-acordo/"
-    },
-    {
-      "title": "Irão rejeita escalada da guerra e apela ao diálogo com os EUA - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOZDJJV0dmaTZmRGl5Uy04bk5zQjFPY0I2MnpGY09EVFd6a2RCdFBOZXN5d0VQdWN2ak5Rd0RNb01mSGx2cTI3Y3RUR1FJMHZRZVBERmp4b2pIOThGNWktQXc4V2RYYTBZUkY4MF9wLVFZTm80US02dUdpbl9VQktQOU4tZzFJSzVrNVg5ejZsclhyU0tJano3clBpeHVvcjVxb0RKOXgxUC1zak9LZndSbl9VdG9lVnlGeVhLdmdjSXR2NkhzRXNENndxZFBaQ3VjSVl4RHlDUVk5Sk5xMmk2QUNHa0ZtWV9hZ0VhOTRkYjdVRE5ManFETlcya3VWM29UdEdEY2JteUk0b3Qybk9fb1lkV0NOb2dJbTh1NGlFVnNsRzY4cG9uSklmVEdDb2ZTN0c4blQxbm9weGtzTndacnExa2cwdWpxcWI5LXhlcG9GeThFOFk0czlIbGl4TFhrWW9PVmQzLS1HajMwUjBwMG1rVWtzR3FGcVdiM09YQ3dvNWxCQ0xPdjJ1TldRWUlPcG5KTURBOENjeUIyZzJnb2Q1cXN1Ry1ybzJN?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-08-31T19:35:24Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "EUA quebram um mês de calma com ataque ao Irão e Teerão responde no Golfo | Médio Oriente - Público",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDlOWjBFeDdNWjBuSjVEVlBKbjRyM1BzcWJ6ZGliY2t5dHRWQ3JKNDlMcUxwQWZkenJqTGIza290b3pVbnRXVHlQUTZiUVpzWlR2d3o2WlVVNXFwRmJrc2VXMzNtSV9QRER6TUJEZmFnRFZ5dkZsUnFCUVhBT3JvRUdqa2swUkpoZ1Vnd0ZnbGU2SjA?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-08-31T11:25:15Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-08-31-irao-rejeita-escalada-da-guerra-e-apela-ao-dialogo-com-os-eua-43fa8a2f?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/medio-oriente/conflito/2026-08-31-irao-rejeita-escalada-da-guerra-e-apela-ao-dialogo-com-os-eua-43fa8a2f"
+      "articleUrl": "https://www.publico.pt/2026/08/31/mundo/noticia/eua-irao-trocam-ataques-mes-calma-2186559"
     },
     {
       "title": "Presidente do Irã agradece apoio de Putin na guerra e critica 'unilateralismo' dos EUA - g1.globo.com",
@@ -146,22 +146,22 @@
       "articleUrl": "https://g1.globo.com/mundo/noticia/2026/09/01/presidente-do-ira-estende-a-mao-aos-eua-antes-de-reuniao-com-putin.ghtml"
     },
     {
-      "title": "Porque é que a União Europeia procura novos Estados-membros? Pergunte ao chatbot da Euronews - pt.euronews.com",
+      "title": "Porque é que a União Europeia procura novos Estados-membros? Pergunte ao chatbot da Euronews - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVNhaW1ncVFuNXAtNHBoZWV1bWxhR0ZtM3pNaUJxOWYwWTR6bVNYaUFfTnpLZDNmQUZKQWlzLXJMMEwzSlNGMTZPLTQxRUF2eDBzUi1YckFRanhyVWY2XzNJQVZGcG9TaU1EeVNPVWt2d3hGeFRRN3JldkwtSUd0eklqRGpkX0dsNktGd1pRRkQ0eDdhVUJHYkJhenRCU2NBbEVUc1JoaUJ2VlNEQVA1QXZ2TlpKVlBiN0RURkV5SG5fX3JYLTYyelhCTU1ZSkhE?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-08-31T10:00:59Z",
       "description": "A Islândia rejeitou reabrir as negociações de adesão à UE: 52,8% votaram contra a proposta do governo, numa altura em que a União procura alargar e reforçar a unidade. Porquê este alargamento? Pergunte ao chatbot de IA da Euronews. #EuXl",
       "image": "https://images.euronews.com/articles/stories/09/88/67/57/1200x675_cmsv2_03bed8a4-e4d7-5fa3-85f4-8a3ae609d1a3-9886757.jpg",
       "articleUrl": "https://pt.euronews.com/my-europe/2026/08/31/porque-e-que-a-uniao-europeia-procura-novos-estados-membros-pergunte-ao-chatbot-da-euronew"
     },
     {
-      "title": "EUA quebram um mês de calma com ataque ao Irão e Teerão responde no Golfo | Médio Oriente - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDlOWjBFeDdNWjBuSjVEVlBKbjRyM1BzcWJ6ZGliY2t5dHRWQ3JKNDlMcUxwQWZkenJqTGIza290b3pVbnRXVHlQUTZiUVpzWlR2d3o2WlVVNXFwRmJrc2VXMzNtSV9QRER6TUJEZmFnRFZ5dkZsUnFCUVhBT3JvRUdqa2swUkpoZ1Vnd0ZnbGU2SjA?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-08-31T11:25:15Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/08/31/mundo/noticia/eua-irao-trocam-ataques-mes-calma-2186559"
+      "title": "Dificuldades na guerra podem levar Rússia a agir contra Otan, dizem fontes - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYU91ZUg2aDhIM2dsYkpNTTVyWWNLRXJqVUVSbkhLa2U5YWRQbzQ2S0QxYTRibmlNOXdlVlNJVmtNTnExNF9BN1pVTTJsWGRJUmxRSEtCeG5nVjZGNFY5Nlh2QkFnT3gtUUduSFQzdFZLbzhqWVpzcEJaQWVKbW5pRFVFcHNyU0NvOFZyTlB6OWY2aWJXRDRINEZyV0lIdmJNLW1MTS1jYm9DME93eU9MbGV5dWNPaE5K?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-01T00:19:13Z",
+      "description": "Para a Rússia, o objetivo seria aumentar os custos do apoio à Ucrânia no conflito prolongado e pressionar por um acordo negociado favorável a Moscou — uma estratégia de “escalar para desescalar”",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/CIA_JohnRatcliffe.jpg?w=1200&h=630&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/dificuldades-na-guerra-podem-levar-russia-a-agir-contra-otan-dizem-fontes/"
     },
     {
       "title": "Guerra no Médio Oriente completa seis meses com impacto no petróleo, alimentos e bolsa - Jornal Económico",
@@ -173,15 +173,6 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/guerra-no-medio-oriente-completa-seis-meses-com-impacto-no-petroleo-alimentos-e-bolsa/"
     },
     {
-      "title": "Convite à Rússia para reunião do G20 amplia tensões entre EUA e União Europeia - UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEFlV3BPelAxM25qNFJZb1d2NFdWYVNjOV9sR29lT3NkRHUyWEl4WUE1Vm5rYjJNOUJ2cnlEQTA5Y2l6VFJ4N1ZEVEI4U1FjZG1VV0VvWWJiQUNka1FiMFRxS1Y2SW1jMGRuamp3OV9WTExkSVdEalhMXzB3WU1zVEtUYlduODJvOHpIYW84TnV4YzM5SWZudEIwRVlBNGZ6ZnItbXJmdXNqcndzazFBUU1BWkFvOG16b3VPbERkX21HX3ZvZ2hsdWZYUGUwZG9DdV9fUDRuaDBpdw?oc=5",
-      "source": "UOL Notícias",
-      "publishedAt": "2026-09-01T10:14:17Z",
-      "description": "Notícia publicada por UOL Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/09/01/convite-a-russia-para-reuniao-do-g20-amplia-tensoes-entre-eua-e-uniao-europeia.htm"
-    },
-    {
       "title": "Não, o Irão não está a vencer: no quarto ato da guerra, Teerão perde influência em Ormuz - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbURFZTJ1SUM1YUdnS1duY3dCSDFIdW0xWTRpZ2FBcDRQanhCQzlsdkFNcHl0SlVxNTNCRzBpd1R4OUJlTjNkQmxLWVJwa1pUY0VvUjZNUDhGNG9QTHZINzAwazR5X0ZRMHF2czZZWHJfeTROV2UzbmpUUURiNGhtZTlNVnNBSHJrTXROdWxFYW16dFJyLVJPaW9XQk1nbnBPN0R6OUpRbHNwS1dXSFVXT1FrUTBaemlqck9pTmJqc2hBWENsRXhMT0pwc0tpT3k2ZE5OdzRZOFU1R3ZRSVZCZVJnQXhja1gzRjdmU2tWdVVmRjh2OXVLZV9UZFJLVDJoT1RoSkwwV3I?oc=5",
       "source": "CNN Portugal",
@@ -191,9 +182,18 @@
       "articleUrl": "https://cnnportugal.iol.pt/irao/estados-unidos-da-america/nao-o-irao-nao-esta-a-vencer-no-quarto-ato-da-guerra-teerao-perde-influencia-em-ormuz/20260830/6a945b62d34e511da0b3607e"
     },
     {
-      "title": "Tensão no Médio Oriente leva Europa a recuos nas bolsas. Petrolíferas sobem - jornaldenegocios.pt",
+      "title": "Convite à Rússia para reunião do G20 amplia tensões entre EUA e União Europeia - UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEFlV3BPelAxM25qNFJZb1d2NFdWYVNjOV9sR29lT3NkRHUyWEl4WUE1Vm5rYjJNOUJ2cnlEQTA5Y2l6VFJ4N1ZEVEI4U1FjZG1VV0VvWWJiQUNka1FiMFRxS1Y2SW1jMGRuamp3OV9WTExkSVdEalhMXzB3WU1zVEtUYlduODJvOHpIYW84TnV4YzM5SWZudEIwRVlBNGZ6ZnItbXJmdXNqcndzazFBUU1BWkFvOG16b3VPbERkX21HX3ZvZ2hsdWZYUGUwZG9DdV9fUDRuaDBpdw?oc=5",
+      "source": "UOL Notícias",
+      "publishedAt": "2026-09-01T10:14:17Z",
+      "description": "Notícia publicada por UOL Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/09/01/convite-a-russia-para-reuniao-do-g20-amplia-tensoes-entre-eua-e-uniao-europeia.htm"
+    },
+    {
+      "title": "Tensão no Médio Oriente leva Europa a recuos nas bolsas. Petrolíferas sobem - Jornal de Negócios",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDl1SnNfLXI3RWhsbWk2OExrYnNGdG5vUlVTR0swcGxMd09NZGJodmRUdi0tblphM0Y4bkxuN3BBQWExWjBjak1Ja2lweGVSQVdNeDZzcXZGUl9YVThvaENXV1dEY2ZYMUN2R0ZURHNmek92X08xYkxZcThzaEsycWxLd3JFU2Y4UW51azZCMUJ5bmNBRkNTSmdaRldLWmhpVUk2SHVVdnpiRl9tMm9Ka1U0V0JvUDluWFpidjF1TkRoNzVGeURmQmVLRXZYVmNTc1Bn0gHOAUFVX3lxTE9RVjBXWWItRHhRZEtxeDFKdklGcHlIbzF6RkFQV3F0NmQxZml5bGNqTm0zdllYUkhoYUVrTW1MYWVqemFGdllWLUg5NGpsa29Md0VaNVFGSEk0Y1VnRENlaXdvaHZWY0hPSnNjMDVOMEFOaU92M21tX0JJZ3lEMzNqRkdSZkVUc0ZrZTNSV3JHSzl2cGpERUJqWjR3UnZJQmVLQThPUmtWQTVsM3JWQUxJZGJsTVhMTkc3ZzNiRlo0dTNHYXFGQ2o1OTFKbHdB?oc=5",
-      "source": "jornaldenegocios.pt",
+      "source": "Jornal de Negócios",
       "publishedAt": "2026-08-31T06:53:41Z",
       "description": "Acompanhe, ao minuto, a evolução dos mercados desta segunda-feira.",
       "image": "https://cdn.jornaldenegocios.pt/images/2026-01/img_1200x676uu2026-01-20-19-25-11-516862.jpg",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Emirados Árabes Unidos intercetam drone iraniano - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQl9seEpKaW9wMHFUVHRQTXdJYk5wTEMza0FwSktQUi1UZ1RQRGhOdl9xLUM5ZDBYbjN4cUdJTElWd3IzVzZpWnZWblpKM2c4OGIxU2NlR0RQQUpZZXEzMlZTMW5lLU16V2Nad01TZ0tUSGRCNDRscXFYcFIxblp5RWdkU1BrdVo0RlhpbHE1NnF0aHh4aFA3cGxNNzFuMllYeHpjQS01NWg5SnVYVTJIQQ?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-08-31T21:42:17Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Irão rejeita escalada da guerra e apela ao diálogo com os EUA - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOZDJJV0dmaTZmRGl5Uy04bk5zQjFPY0I2MnpGY09EVFd6a2RCdFBOZXN5d0VQdWN2ak5Rd0RNb01mSGx2cTI3Y3RUR1FJMHZRZVBERmp4b2pIOThGNWktQXc4V2RYYTBZUkY4MF9wLVFZTm80US02dUdpbl9VQktQOU4tZzFJSzVrNVg5ejZsclhyU0tJano3clBpeHVvcjVxb0RKOXgxUC1zak9LZndSbl9VdG9lVnlGeVhLdmdjSXR2NkhzRXNENndxZFBaQ3VjSVl4RHlDUVk5Sk5xMmk2QUNHa0ZtWV9hZ0VhOTRkYjdVRE5ManFETlcya3VWM29UdEdEY2JteUk0b3Qybk9fb1lkV0NOb2dJbTh1NGlFVnNsRzY4cG9uSklmVEdDb2ZTN0c4blQxbm9weGtzTndacnExa2cwdWpxcWI5LXhlcG9GeThFOFk0czlIbGl4TFhrWW9PVmQzLS1HajMwUjBwMG1rVWtzR3FGcVdiM09YQ3dvNWxCQ0xPdjJ1TldRWUlPcG5KTURBOENjeUIyZzJnb2Q1cXN1Ry1ybzJN?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-08-31T19:35:24Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
