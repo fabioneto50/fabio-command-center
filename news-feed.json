@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-02T13:29:09.549414Z",
+  "updatedAt": "2026-09-02T14:28:12.358676Z",
   "health": [
-    {
-      "title": "Hospital Amadora-Sintra com espera de quase 11 horas para doentes urgentes - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVBocTlBWGJKek5QdWRjbmFhNzhPeXVmVTdERjJkSVIwUjJIbTdpRFNfLWRBZnd4cUtqX3pHY3RjUzdtaFFmYTBjdlNkNFozSThqVDNVUzNrWm1qMmRzeXFidzhxdUpuaFk0Mmh5dVp2QXpYWm5RZEN4ODR0eXIySS1TV1pxYXZ4OWNPX0w2cGplSHhzbTJmbXZKd2c3VzJhNE9BUENQQWdHVG9PVGkxdUJjSlY1NVVHRzB4a0JWd2Ytb01zM0NzR3Nn?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-02T08:53:37Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-02-hospital-amadora-sintra-com-espera-de-quase-11-horas-para-doentes-urgentes-12411db8"
-    },
     {
       "title": "ENFERMEIROS | Ministra da Saúde reconhece a falta de enfermeiros nada faz para resolver - CGTP-IN",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPc2FGbTh2ckZiV1hsY0FSbWs2Q0ExQ09pNkFQdEJqdWNLN2Uxa1Q5d0ViSjVwMFA2M3ctbGdQNFdHd2VYSGN4VGpkMmdnMEdNYmdCSUJPX0ZMTG00RDVqb0NOZEQ2Y1NuQzZkdThydkd6SWxHak5lWWpvaHdSRXZ2RDNXc0F2T05VU25iZE5oQ1dLS3E0VHB5TFpKQndoSG5hcFRqWkVnV2MtSmVXLXhBRU9VM3phdEVJU1NzNWRTaU1tdnJlU1JlSmlDNmlHTVN0d3N6T3VEcGt3a1djTUZZWVdGSHlDQXJNNjNsLTRHQjQ3WWFERXpOZ3R4RktOdDdodl94akM1aXZ6UUZacUJVVnhRLUR5eFVqckhNc2JtbFA5VzlLQ0NCek1UTjFaOWlzRmlWQmFhcjNHb0lVb1B4UWN4YmxmY2U2Tk1WLTR4OXBoUFRjZDRrYWhMYXA5VWJDUV9kT1NwQlNadUpqT1lPUEpDSktHcUk?oc=5",
@@ -18,6 +9,15 @@
       "description": "Em junho e julho, publicamente e em reunião no Ministério da Saúde, afirmamos a necessidade de agilizar os processos para garantir a contratação dos cerca de 3000 jovens enfermeiros que concluíram a sua formação...",
       "image": "https://www.cgtp.pt/images/accao-e-luta/2026/09/sep.jpg",
       "articleUrl": "http://www.cgtp.pt/pt/accao-e-luta/22747-em-junho-e-julho-publicamente-e-em-reuniao-no-ministerio-da-saude-afirmamos-a-necessidade-de-agilizar-os-processos-para-garantir-a-contratacao-dos-cerca-de-3000-jovens-enfermeiros-que-concluiram-a-sua-formacao-academica"
+    },
+    {
+      "title": "Hospital Amadora-Sintra com espera de quase 11 horas para doentes urgentes - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQYlI2TzAzZkRCMklpN0o1ZDhSTGw0ckNlRDQzNm9tTS1jc2YyQWN4b2M4blNmTzVQOU5uSWRzOGZYYVRmM3lEWFRvZmdBQWpKM3B4QWw3Z3N6aElLWndTSG9LZnUySDNSYW1lS1diYWljUWZzdE5hZ0hDY2Q5RVIxVEhIa2g4QWZ5V3gwOEwxMFUxZ1lYb2NUR3kweWVEZk5raE9BTzFkYWdzRm5Bd1pseW0zMTZtaS03cW1tLWtTUTdVRkJDWURVdU9Pd1dYQlZaUGtJWHpidnhCMGppdkFjU2pzUTAzckFMbTdvblBCTFpkR0daN0xvWTJKaThYQTZLS25OUExVT1d3QWxNX2Q0cWJ3XzNmYnNYcEVKZHZ0V1pSU1NBSk1kT2o0cVRDUElQbl9IWUFWUHRkSGVlT0g2XzdTZVRld2NoTEM2bC15SnE0X2tkSUZhLXhMOVJfUFNaNG0wbGl3MmR5a192dFlTX25tdnBTcEJkenR1SzBJdUhrdkpXN2RwVDlsTzNkNTZWMWNWZVEyTl9aU3ZmUzFqVlREZ1dpdnQ2TFJvNk9waVJyWDNCUnFtbGxDbw?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-02T08:53:37Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-02-hospital-amadora-sintra-com-espera-de-quase-11-horas-para-doentes-urgentes-12411db8?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/sociedade/saude/2026-09-02-hospital-amadora-sintra-com-espera-de-quase-11-horas-para-doentes-urgentes-12411db8"
     },
     {
       "title": "Em marco na saúde pública, OMS exalta avanço de Moçambique no controlo sanitário - UN News",
@@ -29,13 +29,13 @@
       "articleUrl": "https://news.un.org/pt/story/2026/09/1854233"
     },
     {
-      "title": "Lote de medicamento para inflamação intestinal retirado do mercado - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0h6c01jbzVHVnNnNG9yLVczZjhRN2hoOTJSeUxYTmJmTWxEU2V0c0ZqMExScVFJUFk5Rlh0V2xIbjV4U0ZGbm9GX3Ftcm1tWE1rR2dBY0plOGt3NUlUSFlhbzhrTk1wQzZlSk43NUMzVjlMVWNjQWZ2TlZFaXRmWTVfNVdDMzFnT0pyeW1kVGhHRG9wNExGd3g0Yks5emFVTFE?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-02T07:57:31Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/02/lote-de-medicamento-para-inflamacao-intestinal-retirado-do-mercado/"
+      "title": "Tomar recebe primeiro Festival da Saúde durante três dias - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVpKc1JuWFYxOVI0anIzc3NQYk43MlFmUGlKaGVXMzhmdko3ZUZoaENtV3ExWFRCamxsNGJ2MXNUWlYtYVB0ay1DWXE5dFBtVzBERUZ5VkhhYVNQaWdGNUhpU24teWJVRGtvTE5sV3BrTjFwN2lMVkRTd3gxLVNYN2dRNFlqTmdOMl9LbmVUWnZmdUNHWHRFOXJyRVpFc0VadGhiMDVrUUpoT2s?oc=5",
+      "source": "O Mirante",
+      "publishedAt": "2026-09-02T14:00:00Z",
+      "description": "A organização pretende que o Festival da Saúde não se fique pela primeira edição, assumindo a intenção de lançar as bases de um projecto anual que possa crescer e afirmar-se como uma referência nacional na promoção da saúde e do bem-estar.",
+      "image": "https://images.impresa.pt/mirante/2020-09-29-coracao.jpg-1",
+      "articleUrl": "https://omirante.pt/sociedade/2026-09-02-tomar-recebe-primeiro-festival-da-saude-durante-tres-dias-611c87a6"
     },
     {
       "title": "Doentes urgentes com quase 11 horas de espera no Hospital Amadora-Sintra - Correio da Manhã",
@@ -65,37 +65,37 @@
       "articleUrl": "https://sicnoticias.pt/sicverifica/2026-09-02-oms-quer-acabar-com-agricultura-mundial--020a2526"
     },
     {
-      "title": "Fármacos para perda de peso à base de GLP-1 são eficazes mesmo em doses baixas - Público",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRi12RTJkU01OdF80UXFZY3ZTSGo1cmhrejczcWtaaTZkb1lMb1ViQ1pxVzk0anB4SGNWNklHSnUtUDlQaG1TbURUVUk5a2hheXZSOG5uZ0s1MDV5WTZEel9ZaWUySlZpXzIwQ2gwYzFTWFFrbGNhTTEybC15T3FoQjVfc0hkb2tHMGZEOFpOTmlPczJGVXUtWmczWWFjeTFobHR0NDk5N285X0thQ0dRZlE0OA?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-02T09:32:15Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Lote de medicamento para inflamação intestinal retirado do mercado - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0h6c01jbzVHVnNnNG9yLVczZjhRN2hoOTJSeUxYTmJmTWxEU2V0c0ZqMExScVFJUFk5Rlh0V2xIbjV4U0ZGbm9GX3Ftcm1tWE1rR2dBY0plOGt3NUlUSFlhbzhrTk1wQzZlSk43NUMzVjlMVWNjQWZ2TlZFaXRmWTVfNVdDMzFnT0pyeW1kVGhHRG9wNExGd3g0Yks5emFVTFE?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-02T07:57:31Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/02/ciencia/noticia/farmacos-perda-peso-base-glp1-sao-eficazes-doses-baixas-2186764"
+      "articleUrl": "https://healthnews.pt/2026/09/02/lote-de-medicamento-para-inflamacao-intestinal-retirado-do-mercado/"
     },
     {
-      "title": "Doentes urgentes com quase 11 horas de espera no Hospital Amadora-Sintra - LUSA",
+      "title": "Mais de 3000 pessoas já morreram por ébola, diz Governo congolês - Público",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3NfLURZLTM1eUhjZzE2cmdlTmdQTGZ5QUxfV2M3d3ZjR2RlbVo5MVZjZFVWOU9QZHdSRktpVElRdVB2U0owZVhJUEpCelBvakpJb3FobmhIZUNKV0RhaHJmUWx5WjJ4QVlWQ0N6dEdCQWdOeE5UWHpSLU5Neng2X2hLY19yM3d3ZkJ3eVVaNG1BQzdEZHBnMnI0WnVPZjlteWZDOC12dl8?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-02T14:04:39Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/02/ciencia/noticia/3000-pessoas-ja-morreram-ebola-governo-congoles-2186763"
+    },
+    {
+      "title": "Doentes urgentes com quase 11 horas de espera no Hospital Amadora-Sintra - Lusa",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWZHMVI5NFZpSHhVR3ppUkt5RUt0NnlEd19BSE1kTHhaNTJHZGRRdUx0TjBaWGppVnlrdjZjbnE2Y3huc2ZlaG9vTERBbkw2aDhrQXVJZG4xUzh6WktBNHl5WV80dGJJOWVGelBUeHRHcDI4WGt6dFpMMkpJenVERGluVXhYUTFMZExJU1hVVUhoaUxRVWxxbkMzdXVWVWRqTml4bkVISWZpdmJpT1E?oc=5",
-      "source": "LUSA",
+      "source": "Lusa",
       "publishedAt": "2026-09-02T08:05:00Z",
       "description": "O tempo de espera para primeira observação de doentes urgentes no Hospital Amadora-Sintra era, na manhã de hoje, de quase 11 horas, segundo o portal do Serviço Nacional de Saúde (SNS).",
       "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_46348861_5435856_14012026122653.JPG",
       "articleUrl": "https://www.lusa.pt/article/47700715/doentes-urgentes-com-quase-11-horas-de-espera-no-hospital-amadora-sintra"
     },
     {
-      "title": "Infarmed retira popular medicamento para o intestino do mercado - nit.pt",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUVtbktFNERaMm9qclpDTnpIWkRjYVJULU5wSW9uR24wYjh3SnpEckdWNHBjMTExNmxabDVUZTRXMzhKZllEdFJVM0xjOGhTWWJRU2dNZml4a1dxM3RicWhCSHdOR0U2XzdEb1VSQmVyckRoLTBJcXdBX1c0TGNWV2tMMllNdlgyZjh2UFRTcDNoTHItVzFn?oc=5",
-      "source": "nit.pt",
-      "publishedAt": "2026-09-02T07:54:00Z",
-      "description": "\"As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar\", disse a autoridade.",
-      "image": "https://www.nit.pt/wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php?post_id=1686809&ts=20260902090912",
-      "articleUrl": "https://www.nit.pt/fit/saude/infarmed-retira-popular-medicamento-para-o-intestino-do-mercado"
-    },
-    {
       "title": "Tempos de espera elevados. Urgências de Lisboa continuam sob forte pressão - RTP",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkYyQVBOa09uaUMtdW5zVEE4Uks3UlFMZS1qS1cxdEhTMzNBMHplUm5RVHE3eFNoSkhfeDllckNaaGlkSzRLZUczc1RUeXA3NXdnSG9PeVNUNUhGaEZtR1piTFdzYkRlR2pNUTZUZDBpQ3RKQ0tINXo2Z2U4OEZadjN1Zm9vMW9STkF6MTFSakpGMGROampkM2tKWWRpSEpNczlpRVR3ekFIQTh2NkdYT05RRHNudw?oc=5",
       "source": "RTP",
-      "publishedAt": "2026-09-02T10:18:47Z",
+      "publishedAt": "2026-09-02T12:29:28Z",
       "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
@@ -110,6 +110,15 @@
   ],
   "world": [
     {
+      "title": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos pôr-lhe fim e alcançar uma paz duradoura e abs - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYnl6Q1phX2JoREFwamp3MDN6ZU9VdmxLbko4QjhlUEZZWjg3NTdhbHc0QUxqd3ZDcmo5b09BUVI4MXhvNWVBcVpqRVhwejkwNG5GMlBOcHF2d1hrMFpsOS15eXlOVVdnZ0o1cU5sd2NuZWZtZ2NIYVdZNzNjUzFzdkJIZVhGTXM2Yko1Z1c3ZjN2RjJyMV94OGZIUXFMNlQwTGRuNlMzUHpNQXFJRmRGN2ltOWM0RUozbGJVWklQWWJ6SERIY2JlZmlrWkdYSUI0M3pxdkxCeFRBNksxTkg3M1BSUU9rX2NrSFVnQkowaDBtMEE?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-02T13:57:23Z",
+      "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
+      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=8ohSomjUWuUQ7kNvwGF9u9Y&_nc_oc=AdoFW4d-z18czNq91qo6nizylUVccFaviqRB8v0H_73vuimR64Mg2mK1LV5hRcBsySw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=pwD_n4kM_ZRVcJ4JIcuZQA&_nc_ss=7820f&oh=00_AQICASYNGIFOwsDiD3et1u2YN--C5uHoXhPbg7AhHPCEiw&oe=6A9DF8B7",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
+    },
+    {
       "title": "Rússia. \"Estados europeus deviam ter reagido de forma mais robusta\" - Observador",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEJFcWNTMzlIcDVzbGZNVUZZeFVSRGJUeENSeFF5UFlLR2lFMVVsWVhMQ3IwQnZjLXhOY1pxNGZ4N1ZFWTlBd0N1ZnhEeWxRS3hrRTFIVUtZTTVEV3IwMmhHTW5OUVg1ZEU5ZUNMN0RoWHd0Z1hUSFJZOGx1RVRzSVV6OElMZ2hONFBBcGd5ekM4ZUJ4bjBoQ0xIVmtPUmFqVGlLNW05bVFIRTlvT290OEhkb2hWYWM?oc=5",
       "source": "Observador",
@@ -119,13 +128,13 @@
       "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/russia-estados-europeus-deviam-ter-reagido-de-forma-mais-robusta/"
     },
     {
-      "title": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos pôr-lhe fim e alcançar uma paz duradoura e abs - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYnl6Q1phX2JoREFwamp3MDN6ZU9VdmxLbko4QjhlUEZZWjg3NTdhbHc0QUxqd3ZDcmo5b09BUVI4MXhvNWVBcVpqRVhwejkwNG5GMlBOcHF2d1hrMFpsOS15eXlOVVdnZ0o1cU5sd2NuZWZtZ2NIYVdZNzNjUzFzdkJIZVhGTXM2Yko1Z1c3ZjN2RjJyMV94OGZIUXFMNlQwTGRuNlMzUHpNQXFJRmRGN2ltOWM0RUozbGJVWklQWWJ6SERIY2JlZmlrWkdYSUI0M3pxdkxCeFRBNksxTkg3M1BSUU9rX2NrSFVnQkowaDBtMEE?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-02T07:54:26Z",
-      "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
-      "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=8ohSomjUWuUQ7kNvwGBOvA5&_nc_oc=Adpcq2uSQnAfD0XGMY5TGYTM7AMlMyV8xWIeDT9y8VOSlXRmcFYua-0Fge9I4tQwXHY&_nc_zt=14&_nc_ht=scontent-sin6-1.xx&_nc_gid=xc9H1tveGoTImgAYH4twlQ&_nc_ss=7820f&oh=00_AQLnT4G7TDZ5VYM01sFn3NWpMJT_olgPDcjUHsFtTW68Zw&oe=6A9DF8B7",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
+      "title": "Médio Oriente: Estados Unidos e Irão voltam a atacar-se - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1ZaX1VDd3lSQ1lWSjBRTkRMUHZiQ1hGQUt6WThRcE9XX2FBVnN1THZiNWJ6SzBiRVZ3VThSQ2Z3bUdjRDFHM1N2NHpXMWRjLUpwZzd5dTFuTmJoeFZ5SVFsS1RyTUJBRXJqQnVaY2RSSm94alB6RHM5Z1VxSkJoX09nTEJyQzhqOHlhNTcxcG1xcVR0czFQWUt6UFMzcUFhNDhJ?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-09-02T12:08:15Z",
+      "description": "O Irão lançou nesta quarta-feira uma ofensiva em larga escala após uma série de ataques norte-americanos que inclusive acabaram por enlutar um casamento no sul do país.",
+      "image": "https://s.rfi.fr/media/display/4302e60c-a6a1-11f1-a126-005056bf30b7/w:1280/p:16x9/000-C73X3DJ.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260902-m%C3%A9dio-oriente-estados-unidos-e-ir%C3%A3o-voltam-a-atacar-se"
     },
     {
       "title": "Espaço aéreo russo está a tornar-se “completamente inseguro” para voos comerciais, diz Zelensky - Público",
@@ -137,22 +146,13 @@
       "articleUrl": "https://www.publico.pt/2026/09/02/mundo/noticia/espaco-aereo-russo-tornarse-completamente-inseguro-voos-comerciais-zelensky-2186779"
     },
     {
-      "title": "Guerras no Irão e na Ucrânia estão \"cada vez mais longe da diplomacia\" - CNN Portugal",
+      "title": "Guerras no Irão e na Ucrânia estão \"cada vez mais longe da diplomacia\" - cnnportugal.iol.pt",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJnTUt0N3NVWl9Nc3JyQlFxMy0wZ2dseEJtUlNFMFJpSHEwNGxFVmtrTmlZTXRGUklhbF92SVkwOXhFWGNYOXlZVGtFcVJCVURYLWZTZXFreENnenhYTE9TRmJnd3I5eFdpOTRNbTd1OGx2RFVZeEZTelFWeEMwd1pFbDZSNjhfVDlMdFF6VkN3angtQWtDSGZpSi10WHUyY1lGVVd1S2V3SV9Gd3l5eTFjTFd5cERfTURlTWhWV1FRS0x4R0E?oc=5",
-      "source": "CNN Portugal",
+      "source": "cnnportugal.iol.pt",
       "publishedAt": "2026-09-02T12:08:00Z",
       "description": "O comentador da CNN Portugal Tiago André Lopes acredita que tanto o conflito entre os Estados Unidos e o Irão como a guerra entre a Rússia e a Ucrânia vão continuar a escalar.",
       "image": "https://img.iol.pt/preset/6a96c1b1d34ed0733ba82d55/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/videos/guerras-no-irao-e-na-ucrania-estao-cada-vez-mais-longe-da-diplomacia/6a97facf0cf2f6a1a1e7616a"
-    },
-    {
-      "title": "Rússia ajuda secretamente Irão a desenvolver mísseis supersónicos - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2IycnpkRWhjR0tpcENMZHNlVnRSd0dqUHNLbmRTb0kxYUcyNzJPYlFsblYyT0xMNVFfNi1nMGhHcFFXdGRYdG9BMzhZWVJUcE5UUkctT1NaVUw5ZW91OWhHeGZXdXdjcUJ0V3ZqMXpoVldNd3RzeGY0ek9tcHZDUW9Yb1pTQThMNzN1MEdkeF93dGFCZzJ5Q2FpZUhiX252TU0yVGZlX2NXdGdoZ05pWFZaRzdsYlBvZGg4?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-01T21:47:19Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/internacional/2026-09-01-russia-ajuda-secretamente-irao-a-desenvolver-misseis-supersonicos-48e23580"
     },
     {
       "title": "O início de uma nova fase da guerra no Médio Oriente? - SIC Notícias",
@@ -164,31 +164,22 @@
       "articleUrl": "https://sicnoticias.pt/programas/estado-de-emergencia/2026-09-01-video-o-inicio-de-uma-nova-fase-da-guerra-no-medio-oriente--2297cbad"
     },
     {
-      "title": "Xi visita Egito numa altura em que China procura ampliar influência no Médio Oriente - RTP",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXEyTHp3S05kTkZmTG1YX09JbGRXSmZuQjFOQ1Y5eVBZQklFTTJYSXVPdjI4V3BNWTh2WldDX3dNWFlrV3VxOExWUHpEV1ZHc0dTNW9pY3NsX201bG1nc2RISVBGX2FERllZNmNSekVNa0FUaHVNRVlETGhqYTBkVUVWOFBUVmU0QWJCNUlsNFVrWVVtNXU1WVJJMFdqVTJfdnJ2Z3VtWnpBMjMzNTFXREdCYVQwalllbnBpUllXeWhFQndKZlE?oc=5",
+      "title": "7h Estados Unidos e Irão voltam a trocar ataques - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEllYml3bVB3Zl9WMmVGZGNLWVhzWHB1LWZld19JUkRubkdZOUloVXZTb29yZGh6V2RoNW5wSF9sZ09ReGlPTGxTWlpmc1RSdGpMQ0RnSkRlbDI2SDZxcUZwUjhURmNCdHZzTW5ycUxlRnJKcGpEcWRTbUtBSEt5QVQxeDM0YVFfMHBKdEVBN0FKQXBSU2w0dWNJTDVvX2ZOSnROcVh3X1pRUQ?oc=5",
       "source": "RTP",
-      "publishedAt": "2026-09-02T06:05:05Z",
-      "description": "O Presidente chinês, Xi Jinping, iniciou uma visita de três dias ao Egito, a primeira em uma década, numa altura em que Pequim procura aprofundar a influência económica e diplomática no Médio Oriente.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=860&q=90&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/xi-visita-egito-numa-altura-em-que-china-procura-ampliar-influencia-no-medio-oriente_n1762882"
+      "publishedAt": "2026-09-02T06:21:02Z",
+      "description": "RTP Notícias - Descrição",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=860&q=90&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/noticiario-antena1/7h-estados-unidos-e-irao-voltam-a-trocar-ataques_a1_1762900"
     },
     {
-      "title": "Alemanha acusa Rússia de ser autora do ataque ao aeroporto de Leipzig - RFI",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFZ6aGxwS0VwY3JXem5tS3RLd2kzTnRzR0d2bFBQRmVNakdwcmpwcWQwYmNhQ3MxYWZtYVVaSU1YV3BTQ1Z5VVV3ODZ2TlIyTXduamFscHc4dWc5Qm5ZMzFtODJWQ3VCRWVuVEd5WmZXWDBJaHdBSjVUV1gzVnNaV0k4NzM5NUNEZnk1Q09wWTk1MEFSNGNaSGJDbkhfckxjQUxzRFcxcE5kODNsTTVfdw?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-02T11:17:44Z",
-      "description": "A Alemanha acusa a Rússia de ser responsável pelo ataque com drone explosivo no aeroporto de Leipzig, no início do mês de Agosto. A União europeia convocou o encarregado de negócios russo em Bruxelas…",
-      "image": "https://s.rfi.fr/media/display/c8f64b20-a622-11f1-a30f-005056a97e36/w:1280/p:16x9/ALLEMAGNE-DRONE-RUSSIE-AEROPORT-LEIPZIG.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260902-alemanha-acusa-r%C3%BAssia-de-ser-autora-do-ataque-ao-aeroporto-de-leipzig"
-    },
-    {
-      "title": "MNE da UE discutem hoje na Irlanda novas sanções à Rússia e Médio Oriente - Portal Impala",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUJmMkhPTDRmWUtNTjQxQ0RNeExac1BkWXFTNHlaNDFHYmRwcUU3Z3BEcjd6UG9UTFdLeGt4d1lCUmY4WF9tODJ3YUpZZnRhWVhXSHJ1VTh6UWVFMzA4N0FBeXM0NUp4MTRJNENVbERtU2R3Y0s2dmU2SnlkTmZFS0VuVWh6cnFoZm5WamRNZzRZVmZfbFRhQXZ3UEVkWnpHTlVNM2FBV0xJNjM3ZjVEX1BfUFg?oc=5",
+      "title": "Guerra no Irão intensifica-se com ataques dos EUA e retaliação em quatro países - Portal Impala",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMVpXSGJWRVdqTE41eGZuWjU4Tk9ZNWk5RkVIakQxR2xicmlvWVIzdDJzRXdVSk5lR1BKT1ZHOHA0ckpoTVVKLWRyQWdKY0dybll6d1U0bndHVXJ6alFQamZBMHRucjNLLUVIRkNMTHV0ZkRjbHdsN0M4LVVhcFk?oc=5",
       "source": "Portal Impala",
-      "publishedAt": "2026-09-02T04:42:00Z",
+      "publishedAt": "2026-09-02T07:52:26Z",
       "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.impala.pt/noticias/politica/mne-da-ue-discutem-hoje-na-irlanda-novas-sancoes-a-russia-e-medio-oriente/"
+      "articleUrl": "https://www.impala.pt/noticias/politica/guerra-irao-ataques-quatro-paises/"
     },
     {
       "title": "Putin pretende terminar guerra, mas negociar com os EUA - Observador",
@@ -200,11 +191,20 @@
       "articleUrl": "https://observador.pt/2026/09/02/putin-garante-que-quer-terminar-com-a-guerra-na-ucrania-mas-manifesta-preferencia-em-negociar-com-os-estados-unidos/"
     },
     {
-      "title": "Kaja Kallas cria grupo de antigos líderes políticos e militares para decidir futuro da Defesa europeia - eco.sapo.pt",
+      "title": "Catar pede aos EUA e ao Irão que retomem as negociações - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOelJGX1BPZjR6S1pHbDBrQUR5eV8zQ19IZXBfUmtqQ1ZiRWRmN0pBTzU3WHJvNnlveFV6RHQzTEU1eWotb1A0SktBV25iTWIzNDI0WUdfZVZkSFF1Z3NwTlJnUGZ3bVJvUmR2RVJwZ2pRa2tYVnJaOVVlWGMzeU4xVkpjbDJCOEVYYndHZ2NwSjZXdXRnRU8zS1YyMEJZcXM2ZDU1UzY2ZU9Fb2lUN2ZuWlc4Wmw0VFBCakdUOS1tMlZTRFdtZzZPcnRNUU5rc0lha1BKeVBacTVVTDBSdUVXZGJyRWlRT2NzeGRSZFVZWXQ1T2ZnYmE3TWVqMTIxNzZEcWI1Qi1QMGZwdWFZVXM1RWMtbjkyZjZjR2RSRklTWmQwVFYyQ2hNTkt0dVBEU29QVlphOWdVR3l4eFhLTU5QM2Z0WWJUbUpoV0dGeTFHYWJQUk5TTkp6clBXT0hsV2NrY0JobDAyODF3QVFFMlJtdkxuSnJPRUZuVWdlOU9IVWRkejhIR09nWW5RWTA5Szk4M0poNHBOdzZvTjQ?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-01T13:31:48Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-01-catar-pede-aos-eua-e-ao-irao-que-retomem-as-negociacoes-8ffaa9ed?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/medio-oriente/conflito/2026-09-01-catar-pede-aos-eua-e-ao-irao-que-retomem-as-negociacoes-8ffaa9ed"
+    },
+    {
+      "title": "Kaja Kallas cria grupo de antigos líderes políticos e militares para decidir futuro da Defesa europeia - ECO",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdm96VkZTZlVuYVEyRVllZnhoeXBRRXJGRms3RklGSmN0NU9TYWxxUURwUkIyMGJIdkRNbjE0Ym9QRzhHdEpQT1IxNUNEa0hzc3NuZE92MkVQSEFXRlBXMXVaSXVVbWNZWmxCeTN5MjdJUmItU196Yks4MTVTYkJ4WFBld05LbWNTU2w5MjhNOG0yQVZ6bXJCMWlwVURNMmVBQUpFRDJLNDI5SFFiNFRDRmNOQ21Fbi1QR05fU0dSY0NhVVBneXh3VjlzaDZoRGc?oc=5",
-      "source": "eco.sapo.pt",
+      "source": "ECO",
       "publishedAt": "2026-09-01T17:44:19Z",
-      "description": "Notícia publicada por eco.sapo.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por ECO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
