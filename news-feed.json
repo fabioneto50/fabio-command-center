@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:27:27.454534Z",
+  "updatedAt": "2026-09-02T08:29:18.323960Z",
   "health": [
     {
       "title": "OMS quer acabar com agricultura mundial? - SIC Notícias",
@@ -11,9 +11,27 @@
       "articleUrl": "https://sicnoticias.pt/sicverifica/2026-09-02-oms-quer-acabar-com-agricultura-mundial--020a2526"
     },
     {
-      "title": "Com o inverno à porta, OMS quer ação imediata na Ucrânia para proteger vidas - UN News",
+      "title": "Doentes urgentes com quase 11 horas de espera no Hospital Amadora-Sintra - LUSA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWZHMVI5NFZpSHhVR3ppUkt5RUt0NnlEd19BSE1kTHhaNTJHZGRRdUx0TjBaWGppVnlrdjZjbnE2Y3huc2ZlaG9vTERBbkw2aDhrQXVJZG4xUzh6WktBNHl5WV80dGJJOWVGelBUeHRHcDI4WGt6dFpMMkpJenVERGluVXhYUTFMZExJU1hVVUhoaUxRVWxxbkMzdXVWVWRqTml4bkVISWZpdmJpT1E?oc=5",
+      "source": "LUSA",
+      "publishedAt": "2026-09-02T08:05:00Z",
+      "description": "O tempo de espera para primeira observação de doentes urgentes no Hospital Amadora-Sintra era, na manhã de hoje, de quase 11 horas, segundo o portal do Serviço Nacional de Saúde (SNS).",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_46348861_5435856_14012026122653.JPG",
+      "articleUrl": "https://www.lusa.pt/article/47700715/doentes-urgentes-com-quase-11-horas-de-espera-no-hospital-amadora-sintra"
+    },
+    {
+      "title": "O regresso não é uma doença - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LMXNpa0NoRjNyNmZxaTJkbWVGb214YVZMNTM5MDhlZkEtWnhXMjFnOFRkME9hTGpOcFc1a2pHeTVtVjFNTjFiMkRnUi1DR2ZzWWVfTVdaLWZlWFo0UzZmc09n?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-02T03:44:59Z",
+      "description": "Todos os anos, por esta altura, a mesma peça reaparece na imprensa com pequenas variações: como sobreviver à “síndrome pós-férias”, como aproveitar o “efeito re",
+      "image": "https://media.assettype.com/dn%2F2026-02-20%2Fsm6vcf81%2FSonia-Soares-Coelho.avif?rect=0%2C13%2C705%2C370&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/opiniao-dn/o-regresso-no-uma-doena"
+    },
+    {
+      "title": "Com o inverno à porta, OMS quer ação imediata na Ucrânia para proteger vidas - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NQzhoTEVSLU80RWJFa2REd0h0emZFMGNlS0ZKczRpb3phUjVVTENmaU5EMXQyXzgtMTljeVBQX2pfR0llaWhfdmpFMnVPSTJUMnB1dzhISQ?oc=5",
-      "source": "UN News",
+      "source": "news.un.org",
       "publishedAt": "2026-09-02T04:02:00Z",
       "description": "Ao encerrar seu mandato, representante da agência no país alerta que mais de 25% dos médicos ucranianos sofrem de depressão grave; setor de saúde já sofreu mais de 3 mil ataques; Jarno Habicht pede auxílio emergencial e reconstrução agora.",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-02-2026-UNICEF-Ukraine.jpg/image770x420cropped.jpg",
@@ -29,103 +47,94 @@
       "articleUrl": "https://rr.pt/noticia/amp/pais/2026/09/02/enfermeiros-necessarios-para-uls-sao-cerca-de-850-diz-ministra-da-saude/483903/"
     },
     {
+      "title": "3h Ministra da Saúde admite pressão nas unidades da grande Lisboa - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmYwdnd1SkdrQzF0TlJXeWtEQ3kyZTVrenZwLWZydU5BVmdBdXZBMVlhNEJ6R0xJUkJTSVJGNzQ2OEVjcEtUV0NEXzN2WXBqQ0VRVDgyRFd6WVhrWGVtMU05SUt6OUJLNWEtN0JORlFyaVAzUGRrUDA4cnl5bG8wXzA5QVJXZlNJQnNCa1QyQUdsYUNtNkVvZWFiT2Mxb0NUWEtXMFpmQy0wQllLci0wLUU5cDVfd1BpdnE5djNCSG8?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-02T02:15:02Z",
+      "description": "RTP Notícias - Descrição",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=860&q=90&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ministra-da-saude-admite-pressao-nas-unidades-da-grande-lisboa_a1_1762878"
+    },
+    {
+      "title": "Vagas na 2.ª fase sobem para mais de 11 mil e ainda há lugares em Medicina - Público",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDRsVExyXzY1MGlBdGNfUFA5WW1MYmZLWXJKZXRWYXNwTzVKN2RRRGt4ell5OWhOZ1ZSRlVjcS1IV2k4UmZGdVpPNjhJLWtBeGdmeHE3OHBMSVQ0bm0zX2hKbFpjbk94MWJlZkVFd2Myc0d4MHI0aE5HV0tkWnhXSkJ2TkRPQzlKYkYzZ01CRmxGdEZ1ZmN5c0tiX3IxcTRtd1dad3pvaU4?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-01T11:20:10Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/01/sociedade/noticia/vagas-2-fase-sobem-11-mil-ha-lugares-medicina-2186661"
+    },
+    {
+      "title": "Adalberto Campos Fernandes, antigo ministro da Saúde, figura próxima de António José Seguro e conselheiro do Presidente da República, considera que se estão a acumular “sinais muito preocupantes que indiciam materialmente um funcionamento irregul - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUVBCNmxqQVdkTHpEeVRBOWZicXBrVVRXZFlReEZHWURTT25qN0NJQ1FrdUxLNkV0eS16Mks4LTVVSXFyTXdWQTRRVGJiaWRHM21yLVpLZ1NxZWtGbHdDRzc0MUd2bDlzUkNxTmRTNXZWUEs5SFlFYnBSTkgtV3VFaFBZQ0lmRXF6OWdBYUVON0FrT3V2XzVYQzVhODN0YmxralZjRDYzRGdaOGtDUkJ2Nng3OHZUMFpsQjZSWU5VWFdqNlNjZkZORjNLWEVSZmJGLWFpMks5dDNKX2ZfZVVGcjVNdzRTc1EwUGt2TEstMmdtd1k?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-02T07:29:58Z",
+      "description": "Adalberto Campos Fernandes, antigo ministro da Saúde, figura próxima de António José Seguro e conselheiro do Presidente da República, considera que se estão a acumular “sinais muito preocupantes que...",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/789594470_998976996531352_5051326216500827243_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=102&ccb=1-7&_nc_sid=cae128&_nc_ohc=qOks7m4Je9cQ7kNvwHPGlkC&_nc_oc=AdqxIVDF_jDdnStMqPm1QoENHcAuHQXmIgXiHWydfN5A-3oXthqpCGgPsfl01rczTzo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WnsqzQYxguwKmvx0IkW3fw&_nc_ss=7820f&oh=00_AQIAfULhWTspSDYyghD9IEfqNcYsX85dVLrnZW4zZBes7g&oe=6A9DC778",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/adalberto-campos-fernandes-antigo-ministro-da-sa%C3%BAde-figura-pr%C3%B3xima-de-ant%C3%B3nio-jo/1464628995768379/"
+    },
+    {
+      "title": "CESPU sobe de estatuto e Norte ganha nova Universidade nas Ciências da Saúde - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82OFhGck1IRmI1ZllBaVBEeG1hU1N2WVA2Z21fOUM3NGJMTk9sc2NOZU9TLWsxdEFqdWU1a2JKOVRLczJhYzg3UVlZY3VWVUZtMWVNaEMxOUQtODA?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-02T07:00:00Z",
+      "description": "A mudança decorre da entrada em vigor do novo RJIES e marca uma nova etapa no percurso de 44 anos da instituição em Gandra, Paredes, liderada por António Almeida-Diaz.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2024/04/professor_antonio_almeida_dias_apesp_4.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/cespu/"
+    },
+    {
+      "title": "Galeria de Ampliação do Hospital da Luz Oeiras / RISCO - 4 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNEpFNFZ6S2xXOGlYRVl1bGhvVTVMMEpxV2dZRmt5eEVjU2ozTm5TYU1YMW92V2I4NmFqRmR4LWJ0c0laXzktWlprc2FIbVpwZE9reVlQb2hZWVppb2tSY3hsS3g1WnVVR3llRmJwM2hhR25BWHZFaWxsT3FqbHAyaWJ1Wm55VVAtWU1pc1ViNjJ0NlN4X3pJczJIYWYtcVJRWlZuOTVncmlYMlR1dUdYeml0Q0Fud0ZsU1dJT1BQQi11QlNQVTNYMHFyZWRHbGhtOFNpZ3UzV2ZuWnNfNHBISHA1cw?oc=5",
+      "source": "ArchDaily",
+      "publishedAt": "2026-09-02T05:23:45Z",
+      "description": "Imagem 4 de 22 da galeria de Ampliação do Hospital da Luz Oeiras / RISCO. Fotografia de Fernando Guerra | FG+SG",
+      "image": "https://images.adsttc.com/media/images/6348/0860/9b3b/3012/722a/527c/large_jpg/ampliacao-do-hospital-da-luz-oeiras-risco_15.jpg?1665665143",
+      "articleUrl": "https://www.archdaily.com/pt/990516/ampliacao-do-hospital-da-luz-oeiras-risco/634808609b3b3012722a527c-ampliacao-do-hospital-da-luz-oeiras-risco-foto"
+    },
+    {
       "title": "Amadora-Sintra: urgência \"mais sobrecarregada do país\" - Observador",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSDhjeXZiXzFKcVhpQkEwRWdmR3hLeDlfd3dNRGpPV2E5WUVzMkxPZ2VKd0ZrYW9WME9tZGQxNGxUUnV6eUV3LXVXYU91Ym9nbU9SeXZGVjRCVWsxalp3RnBFMTlxT2Zmb2t5NElMSU9uRUZsTjBmckNPMGdoaXFSeExlRjVvX3lKcVNkSjB3TGFYd3htamUwS3pZYjJSZEsxemNkOGFfempxTmJsYUhOWUliYVJGbG96UDJ1LTlIaFB4U3NOMDcxYjNMb2ROSDJVbmFmcVMzaGpLbmNSTm9LbG9jekhXSTcwaXJZNTk4UkpFZw?oc=5",
       "source": "Observador",
       "publishedAt": "2026-09-01T16:38:24Z",
-      "description": "Ana Paula Martins aponta falta de médicos e enfermeiros e 240 mil utentes sem médico de família na região como causas do problema.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F21164045%2F46348865.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/01/ministra-da-saude-avisa-proximas-semanas-serao-de-grande-pressao-nas-urgencias-de-amadora-sintra-a-mais-sobrecarregada-do-pais/"
-    },
-    {
-      "title": "Enfermeiros necessários para ULS são cerca de 850, diz ministra - Público",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3cyal9wSmdRaHdfQ3ZOOXlRRy1TVWtwRFBQTG9EZ3pkMjhhUkJ5Wkc1d1M4MjVoM1Rrb0lNWlFyYmxWWWFkR1l1QXRsRFJhMmNoeTJLQ2FzU1lJbVFVeW9tNTNaempqaThvZnRMd2M0UFQ4NnhTQmg0R05xbFZHNG13SnlvamRsQ08zY2FUcTZacUNwVWxSc0dhdHJjckdZRkdTc2dpbVdRUnJaQWNJ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-01T16:04:41Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/01/sociedade/noticia/enfermeiros-necessarios-uls-sao-cerca-850-ministra-2186713"
-    },
-    {
-      "title": "BeOne promove o ‘No Patient Like Me’ para promover cuidados mais personalizados na leucemia linfocítica crónica - ECO",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWNsdEhSbDJGQmpIVHhWMVQ0M3JXVXh5V25GRVRkVk9TSnEwX0k2RTBUaVlCRHI1dDhZcnNWTXVfbWljblJjUk9CdXU5amJLSjlpZjZvVnVMRDRvSWtqOUw1OUktamlCUXQ4eE9XNkdpVWMzVWdPMXdMRERiVG9RVGpTSWZJX0oySGlPUDVOeEdwQ1MwMFladG5UeFpoaTEyZzZRei1yRHhCSER0ZEZ0NWY0Z3UtbUtmX1QtWlBKampuWXZOUEFsWE91VjJaZHpvZHY4ckdDU0o?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-02T04:04:26Z",
-      "description": "Por ocasião do Dia Mundial da Leucemia Linfocítica Crónica e para promover conversas entre pacientes e profissionais de saúde mais focadas na necessidade, prioridade e circunstância de cada pessoa.",
-      "image": "https://eco.imgix.net/uploads/2026/09/1-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/01/beone-promove-o-no-patient-like-me-para-promover-cuidados-mais-personalizados-na-leucemia-linfocitica-cronica/"
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Infarmed retira do mercado lote de medicamento para inflamação intestinal - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcU5qX1dSYTNKVjBCdDgxNWg3c2U0eDYwQzZUcXRra18yd0hFRjZJVHM4bXk2ZGFkVzRMakF3UHJqUVoyRFRMRVJJMjk2eDNmRUlGaTQ0a2xfX3VBSmpUbF9PQXRmUWo4dHdjSHhrZV9jMXJEdjBYbmdUbU5xYWxlTnM4cU9sbXFGVVoxZHQzOVhoQTVHNlZjZzFMNV9qRWU2dlFMUXgyZW1HODBFZjJKNUZnUkNqdklXVkkyd3UzR3J0akVFQVVINHg5a0MyajN1NVJWckE2WW5ueFhVZ1ByUkcza1B5c3l6U3JadU82WXZpLWs?oc=5",
       "source": "CNN Portugal",
       "publishedAt": "2026-09-01T18:19:00Z",
-      "description": "Medicamento é produzido pela empresa especialista em medicina digestiva e metabólica Dr. Falk Pharma Portugal, que vai proceder à recolha do lote identificado",
-      "image": "https://img.iol.pt/preset/5d7fb0800cf24527e48f15fc/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/salofalk/infarmed/infarmed-retira-do-mercado-lote-de-medicamento-salofalk-para-inflamacao-intestinal/20260901/6a97174dd34e511da0b36751"
-    },
-    {
-      "title": "O subsídio de assistência a filhos com doença prolongada permite que apenas uma pessoa do agregado familiar pode faltar para acompanhar o filho e receber a prestação. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXFGU29YcDEwZGJKTzdTTEw2UlZGM3Q0RW9TZFZyMEE2VWpWWlZhRmgzYjM3OVZNNm44RWlBaFlwWGFobHN0MVd0NGJKUGZnb0V1cG1QQXQtQTNkWkwxVl9wck9kalVrcHJXYV90aGltTTUtN0RfNFVDS2FkSXpxSHRJaTdONXRDZkYzTzhUcEN6LWkwTTJEQlRlSHZnWTFieFBYZG9SUE5lS0pSY0dNR3A4aW5sbHpwZHJhMlJMNDV5R1FiZkQ1X3A5NzQ2SzBrRVV5RTlBMDhnbnJBUmpZTkdnU2NfV1FTal9vX2QzZmp5Wnc?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-01T19:17:20Z",
-      "description": "O subsídio de assistência a filhos com doença prolongada permite que apenas uma pessoa do agregado familiar pode faltar para acompanhar o filho e receber a prestação.",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/790269015_1390936853167944_6737731466640211662_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=107&ccb=1-7&_nc_sid=cae128&_nc_ohc=1Gia55Ik014Q7kNvwHG5Knr&_nc_oc=AdrMJaLmyLOmGaX0qjIJv5pZuNpw-p07j64L0GLc0zs7BpQyMgsDxOMSVLxDH_bZbaM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=gHvtZU5iY30xvDoFt6baXg&_nc_ss=7820f&oh=00_AQKLsrATF8RFc_2sKwWy176KwfT4PKvXoZ6themniAUl6w&oe=6A9D95E2",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-subs%C3%ADdio-de-assist%C3%AAncia-a-filhos-com-doen%C3%A7a-prolongada-permite-que-apenas-uma-/1464107042487241/"
-    },
-    {
-      "title": "SPMS partilha experiência em Saúde Digital com comitiva da Arábia Saudita - SPMS – Serviços Partilhados do Ministério da Saúde",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVExNQWVkd3lqT3NsMTB4QW1mRTE5UXo0M0hsalpxNWtqcEhMaUFlb29vR1JoQlRlOXhldVRVZHF4MXZZN1IwbEJsMy0zV2NiTk9fRnRVd0hsdUF6M2UzRy1Ld3I0WXN2NjM1NVJKemlDUnVhTTNmYW1udFdvTVc5ZWVaOGQ0b1VPYzdGajJCcnBDejUzOWx5dFNrRkFPWnRQWlFmYlB2akltWUlWYmVoY3VB?oc=5",
-      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
-      "publishedAt": "2026-09-01T13:39:41Z",
-      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.spms.min-saude.pt/2026/09/spms-partilha-experiencia-em-saude-digital-com-comitiva-da-arabia-saudita/"
-    },
-    {
-      "title": "Clínica Castela renova instalações e alarga oferta de cuidados de saúde - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUFVc1ZzU1ZzM2RES0d4Mnp1OFdpY3Q2TExjWDRUN19GeHFReXltVnRvT1BHR1RYRndSekl6MGdMUUVyZU1IeVN3QjNsSVI5VUNtVnp5UWRiZlhkWWNGY1RsZFdHandsVE9ZX0V4eXZMc1BfZlZhWVUwSUgtTmFaMGxkUExiOHV4cGZ2SGpRZ3Z0V0RSTlJCNXRkdmZXbXl4NlVETnRPMER2cUYybExaWEd0ckxoWUdTVVh0Mw?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-09-02T06:03:05Z",
-      "description": "Para além da oftalmologia, a novidade é a área de medicina dentária, que nasce com uma equipa completa nas várias subespecialidades. Tem ainda consultas de obesidade e diabetes e de nutrição.",
-      "image": "https://images.impresa.pt/mirante/2026-08-26-20260727_150856.jpg-2ae73ee1",
-      "articleUrl": "https://omirante.pt/economia/2026-09-02-clinica-castela-renova-instalacoes-e-alarga-oferta-de-cuidados-de-saude-f9350cf9"
-    },
-    {
-      "title": "Novo Hospital Central do Alentejo já mexe com a Saúde: ULSAC prepara grande viragem com novas equipas - Rádio Pax",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVk1qR1FFM3dISVdaNEkyb28wMDliMjd1c2h2YlFLZUZpaHp4MnVhR3A5cGZuSXJDUUtWRWNQUk5wM0dZbDFMRHJUOENXQldZRThBaVpxY3F3RnlQd3RqZTNQejUxcUQ3Ni1BbDZ4bkExSzlmZDhFZXMxVmV1R2VPRHRyM0kwNkZVdWU3LV9Lak1NYlRNSWdYaXU4MGZnMmlLeHZKQ3l4QjRmTVJxZXZQNzYzLXJXajJrd3dWM0NGbElKdGRL?oc=5",
-      "source": "Rádio Pax",
-      "publishedAt": "2026-09-01T23:10:00Z",
-      "description": "Notícia publicada por Rádio Pax. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Mosquito-tigre no bairro de Bonnevoie. Ministério da Saúde deixa recomendações aos moradores - contacto.lu",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTk1xT2RzcDNqZ1AxWDNKZVB5M0ZkWkx2YnkwaFdUUlFWaXNnTnVIeWVMOFZvdFBLemctTXk1Y0NXYkpIOHVtR0lGNWkzejB1cWtJVXptTVVvaksyRlE4THRPc2U4ZjJoVGZBY1Y3bC1pajQyaVNoT1FBNXBMNkVyQUJWRDlQS2NORXVWMHlSZGEzdFZYMnM4TnNiRVNsTXM2UzhBVkVtVGZ4bk9ScjNBZHVRTlVFLTREOUJXWHZDZ25wbHM1a3V2eTEyYWtBZTZ3RWwzZEs3Nk5ZQQ?oc=5",
-      "source": "contacto.lu",
-      "publishedAt": "2026-09-01T23:21:11Z",
-      "description": "Notícia publicada por contacto.lu. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Rússia. \"Estados europeus deviam ter reagido de forma mais robusta\" - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEJFcWNTMzlIcDVzbGZNVUZZeFVSRGJUeENSeFF5UFlLR2lFMVVsWVhMQ3IwQnZjLXhOY1pxNGZ4N1ZFWTlBd0N1ZnhEeWxRS3hrRTFIVUtZTTVEV3IwMmhHTW5OUVg1ZEU5ZUNMN0RoWHd0Z1hUSFJZOGx1RVRzSVV6OElMZ2hONFBBcGd5ekM4ZUJ4bjBoQ0xIVmtPUmFqVGlLNW05bVFIRTlvT290OEhkb2hWYWM?oc=5",
+      "title": "Putin pretende terminar guerra, mas negociar com os EUA - Observador",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkF5cElMVUlBcDY0aDFWZ1FNZ1FKSVVfOEFrMDF2NmQtVmhuOVgxcmVSakdVOGRqaUhBRUhRUUw5ZkY0eW5VakFrUFJyaVRLU3k0Zl9HRDc1YXdwc24wLXE3ZVoxOTVOcm1iMVo1Qjl5WnltTXdYX0w2Tkd5TGpGaW9DRlRhRFdzZXZkQkNIWkZZVDNPNDBjSUxlWkNySDZ5NHZVSEtseWFoTk5UaC1NU2ZQcGVTVVVNNW1uSndtbWtlRkRzbm15NENnamdyc2QxZm1xcjFCbnVRNkQ0bUFFZnZrbw?oc=5",
       "source": "Observador",
-      "publishedAt": "2026-09-02T06:54:15Z",
-      "description": "Bruno Cardoso Reis, historiador, acredita que os estados europeus já deviam ter respondido de forma bem mais firme aos ataques russos, sinalizando de vez que esta escalada não pode continuar impune.",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
-      "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/russia-estados-europeus-deviam-ter-reagido-de-forma-mais-robusta/"
+      "publishedAt": "2026-09-01T23:21:46Z",
+      "description": "O Presidente russo garante que não quer \"congelar\" o conflito, mas manifesta preferência em negociar com os Estados Unidos e rejeita conversações com a Ucrânia, que apelida de \"terroristas\".",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A114%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F01180221%2F47697094.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/02/putin-garante-que-quer-terminar-com-a-guerra-na-ucrania-mas-manifesta-preferencia-em-negociar-com-os-estados-unidos/"
     },
     {
-      "title": "Porta-aviões Abraham Lincoln chega à Tailândia após missão no Médio Oriente - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEdZa2RzaE9yUTkyQUdkY0Q0ZDZFMDVzUXZ0RGlqME5GTWZzM0JBc2phN29PTmFfSng3dmw3TzJnYnIyYjNMNFVYOURTaFpVaFkzdnE3SDZld2paWGZ3SU1XenBNMm5LS2dNQmgzU3k1YUZTS29ZdnNHZ1AtSjd1WWwyRXBxenBxeWRCdzRaMHkzVmEyWTZBejduVDg3VThBMkVmRWhaVXhQWlUya1RYeXFkQVgyTFhIdHc?oc=5",
+      "title": "Rússia ajuda secretamente Irão a desenvolver mísseis supersónicos - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2IycnpkRWhjR0tpcENMZHNlVnRSd0dqUHNLbmRTb0kxYUcyNzJPYlFsblYyT0xMNVFfNi1nMGhHcFFXdGRYdG9BMzhZWVJUcE5UUkctT1NaVUw5ZW91OWhHeGZXdXdjcUJ0V3ZqMXpoVldNd3RzeGY0ek9tcHZDUW9Yb1pTQThMNzN1MEdkeF93dGFCZzJ5Q2FpZUhiX252TU0yVGZlX2NXdGdoZ05pWFZaRzdsYlBvZGg4?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-01T21:47:19Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/internacional/2026-09-01-russia-ajuda-secretamente-irao-a-desenvolver-misseis-supersonicos-48e23580"
+    },
+    {
+      "title": "7h Estados Unidos e Irão voltam a trocar ataques - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEllYml3bVB3Zl9WMmVGZGNLWVhzWHB1LWZld19JUkRubkdZOUloVXZTb29yZGh6V2RoNW5wSF9sZ09ReGlPTGxTWlpmc1RSdGpMQ0RnSkRlbDI2SDZxcUZwUjhURmNCdHZzTW5ycUxlRnJKcGpEcWRTbUtBSEt5QVQxeDM0YVFfMHBKdEVBN0FKQXBSU2w0dWNJTDVvX2ZOSnROcVh3X1pRUQ?oc=5",
       "source": "RTP",
-      "publishedAt": "2026-09-02T05:57:45Z",
-      "description": "O porta-aviões dos Estados Unidos USS Abraham Lincoln chegou hoje ao leste da Tailândia, após uma longa missão no Médio Oriente, informou a agência de notícias Associated Press (AP).",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=860&q=90&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/porta-avioes-abraham-lincoln-chega-a-tailandia-apos-missao-no-medio-oriente_n1762875"
+      "publishedAt": "2026-09-02T06:21:02Z",
+      "description": "RTP Notícias - Descrição",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=860&q=90&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/noticiario-antena1/7h-estados-unidos-e-irao-voltam-a-trocar-ataques_a1_1762900"
     },
     {
       "title": "O início de uma nova fase da guerra no Médio Oriente? - SIC Notícias",
@@ -144,15 +153,6 @@
       "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.impala.pt/noticias/politica/mne-da-ue-discutem-hoje-na-irlanda-novas-sancoes-a-russia-e-medio-oriente/"
-    },
-    {
-      "title": "Catar pede aos EUA e ao Irão que retomem as negociações - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOelJGX1BPZjR6S1pHbDBrQUR5eV8zQ19IZXBfUmtqQ1ZiRWRmN0pBTzU3WHJvNnlveFV6RHQzTEU1eWotb1A0SktBV25iTWIzNDI0WUdfZVZkSFF1Z3NwTlJnUGZ3bVJvUmR2RVJwZ2pRa2tYVnJaOVVlWGMzeU4xVkpjbDJCOEVYYndHZ2NwSjZXdXRnRU8zS1YyMEJZcXM2ZDU1UzY2ZU9Fb2lUN2ZuWlc4Wmw0VFBCakdUOS1tMlZTRFdtZzZPcnRNUU5rc0lha1BKeVBacTVVTDBSdUVXZGJyRWlRT2NzeGRSZFVZWXQ1T2ZnYmE3TWVqMTIxNzZEcWI1Qi1QMGZwdWFZVXM1RWMtbjkyZjZjR2RSRklTWmQwVFYyQ2hNTkt0dVBEU29QVlphOWdVR3l4eFhLTU5QM2Z0WWJUbUpoV0dGeTFHYWJQUk5TTkp6clBXT0hsV2NrY0JobDAyODF3QVFFMlJtdkxuSnJPRUZuVWdlOU9IVWRkejhIR09nWW5RWTA5Szk4M0poNHBOdzZvTjQ?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-01T13:31:48Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-01-catar-pede-aos-eua-e-ao-irao-que-retomem-as-negociacoes-8ffaa9ed?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/medio-oriente/conflito/2026-09-01-catar-pede-aos-eua-e-ao-irao-que-retomem-as-negociacoes-8ffaa9ed"
     },
     {
       "title": "EUA quebram um mês de calma com ataque ao Irão e Teerão responde no Golfo | Médio Oriente - Público",
@@ -182,15 +182,6 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/01/kaja-kallas-cria-grupo-de-antigos-lideres-politicos-e-militares-para-decidir-futuro-da-defesa-europeia/"
     },
     {
-      "title": "Novos ataques russos a Kiev pressionam UE a reforçar apoio à Ucrânia - RFI",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYThVRDVETTBsUUh4T3V0bDFiTDJ6aTdPamg4MGRnV3FVUG5TdE1qWlFSNm5pMGNLS2NaVmhEeTV4NnVsR0Izc3FVOTBUbHM2bXRXSFdsX190bkdlVVJfSHBJMGlTRUphek1GdDF3NVRnbHNuWEVoWU4tYi1iYXRKazd5TUJxcE05LThiVnR6aV9BcmFZV3lGNTNmMjluMG5kSUp5WllSWnpaMENoSi1zYnJRZ2Noc1hwVWtBNg?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-01T11:21:18Z",
-      "description": "Pelo menos 12 pessoas morreram e dezenas ficaram feridas esta terça-feira, na sequência de um ataque de larga escala lançado pela Rússia com mísseis e drones contra Kiev e os seus arredores. Ao mesmo…",
-      "image": "https://s.rfi.fr/media/display/b8fd27f0-a5e3-11f1-8e15-005056a97e36/w:1280/p:16x9/2026-09-01T085007Z-274289281-RC28ANAWRNT0-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260901-novos-ataques-russos-a-kiev-pressionam-ue-a-refor%C3%A7ar-apoio-%C3%A0-ucr%C3%A2nia"
-    },
-    {
       "title": "China prepara cúpula entre Xi, Trump e Putin, diz Rússia - 01/09/2026 - Mundo - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1l1SUJBMy0yZnE0ZlR6SGpjNERFX0V1RmlhaDUwSlJteVVNMGtGMjc1YmFSSFNXbkxLaklhamFGdlR1a3pSUlBRVDBiZ3F5Y0dWSmljMHNaNlZSOUZIRE1DZW9mc01iSHpZNmZzMnA5YWVNTF9SeVFVQUpzMkJvM3pBY2dRUE1lWVd1WU4yR1hYTXdVdExncUU0ZU83bzNxSVNvWkRSbw?oc=5",
       "source": "Folha de S.Paulo",
@@ -200,12 +191,13 @@
       "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/china-prepara-cupula-entre-xi-trump-e-putin-diz-russia.shtml"
     },
     {
-      "title": "Xi visita Egito numa altura em que China procura ampliar influência no Médio Oriente - RTP",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXEyTHp3S05kTkZmTG1YX09JbGRXSmZuQjFOQ1Y5eVBZQklFTTJYSXVPdjI4V3BNWTh2WldDX3dNWFlrV3VxOExWUHpEV1ZHc0dTNW9pY3NsX201bG1nc2RISVBGX2FERllZNmNSekVNa0FUaHVNRVlETGhqYTBkVUVWOFBUVmU0QWJCNUlsNFVrWVVtNXU1WVJJMFdqVTJfdnJ2Z3VtWnpBMjMzNTFXREdCYVQwalllbnBpUllXeWhFQndKZlE?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-02T06:05:05Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "title": "Guerra no Irão intensifica-se com ataques dos EUA e retaliação em quatro países - Portal Impala",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMVpXSGJWRVdqTE41eGZuWjU4Tk9ZNWk5RkVIakQxR2xicmlvWVIzdDJzRXdVSk5lR1BKT1ZHOHA0ckpoTVVKLWRyQWdKY0dybll6d1U0bndHVXJ6alFQamZBMHRucjNLLUVIRkNMTHV0ZkRjbHdsN0M4LVVhcFk?oc=5",
+      "source": "Portal Impala",
+      "publishedAt": "2026-09-02T07:52:26Z",
+      "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.impala.pt/noticias/politica/guerra-irao-ataques-quatro-paises/"
     },
     {
       "title": "Em plano secreto, Rússia está ajudando Irã a desenvolver mísseis supersônicos, diz jornal - G1",
@@ -213,6 +205,14 @@
       "source": "G1",
       "publishedAt": "2026-09-01T22:04:39Z",
       "description": "Notícia publicada por G1. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Irã amplia ofensiva contra EUA no Oriente Médio após novos ataques americanos - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW1xMDczZnpoWUdDYTNNYVdtOXhlNDBWV3hTZHNEZEJIbHduRzgxaHJrQzRrVXZZb1pEZVJHMFYtMDFtdjd5blpScUx1TWRmcUV5VVBlb2tGVVFuaVpqdXphX01ZZFlSVUI2RE9rQ3ZKVGd6UHdYZGJtR2EtR2k3QkFzaEEwbmVidUZtVk44UXhpRlNDZVhnVV96ZmdYVHZWeFBTMjhXbmlyejlDaTdGcTBiQ0FCd3pPMnZaSV9tQnfSAcYBQVVfeXFMT0Z3Zlh2WFhvaGRrOFdvY1B5UE95M1htdDR0R2dyOF9yUklVLXBZaEw1UHBEcHh4UEJ0SlZXRlpHUXhPLUJyZzh2UTBBNXp0ZHV5aUpGWURaU3VwcTBZajVVM3dnYV9tVkNKeG9OVE5najJER0Zjb1NKRV9QYmNUQ1hib2t0WVJuZW92RVBkcS1EYV9uZXpkSjRJelZYaHdQMjNtNHV3RHoybzhLZ3F0VUhzTGJOMng3ZzhTQUhBNXhFd05mY25B?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-09-02T07:26:10Z",
+      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
