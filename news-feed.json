@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:37:21.205042Z",
+  "updatedAt": "2026-09-03T01:30:30.072083Z",
   "health": [
     {
       "title": "Medicamento à base de GLP-1 mostra retardar o envelhecimento em ratinhos - Público",
@@ -20,22 +20,22 @@
       "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-02-hospital-amadora-sintra-com-espera-de-quase-11-horas-para-doentes-urgentes-12411db8"
     },
     {
-      "title": "PS/Açores questiona Governo Regional sobre dirigentes da Unidade de Saúde da Graciosa - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkdPMk9pZFljdGNIU2tJdGFtWGR2QnVjVVZwUUx5VWlVSkxLclNZM1dDYTdTYnVPTkEyNmdrU296WVFfT25Dd3NDUnAwWGJfU3dRaDBBMW5MWURwZnFJX0JNbU00UXVsbXA4a3pRSGdWU3hCeDhUZWNNUERGRVVQaHF5dC1IRl94dnpqTWFNQ2RvSjA5SGdZb2dRUzExdUo4N2wwZmxvQ1dJOEdVMmFUZ3ZRdlVHMTRCTkwzelp4QVlRdw?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-02T17:13:34Z",
-      "description": "O PS/Açores questionou hoje o Governo Regional sobre a Unidade de Saúde da Graciosa, alegando que está sem diretor de Enfermagem e com cargos dirigentes por preencher, mas o executivo diz que as afirmações “não correspondem à realidade”.",
-      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066519_0000000001.png",
-      "articleUrl": "https://www.saudemais.tv/noticia/66519-ps-acores-questiona-governo-regional-sobre-dirigentes-da-unidade-de-saude-da-graciosa"
-    },
-    {
-      "title": "Tadej Pogacar já teve alta do hospital após ser submetido a cirurgia - Record",
+      "title": "Tadej Pogacar já teve alta do hospital após ser submetido a cirurgia - record.pt",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQW42TUVIaHlvakdfMjBKQzNOY2U4SXlPemIxVnZCVmpJNDU0RmNjT3ZJR2ZrX2ZfREtGcmtqVWI1U1F3a2pQY2NleHJTeW9HYzBoOS00SWwxRW5RbjZSZWVLZU5XWkJWUU5mMGRhLW5PY2x5andSQlc5cmlKSEZrVjVVRno4RE1MM1V6REl3cVpZYmVjYm0xcUxaVURnN3p1RHd4bU9NQ1YxUDdPMlVvanZ4RmFGQdIBtgFBVV95cUxNQW42TUVIaHlvakdfMjBKQzNOY2U4SXlPemIxVnZCVmpJNDU0RmNjT3ZJR2ZrX2ZfREtGcmtqVWI1U1F3a2pQY2NleHJTeW9HYzBoOS00SWwxRW5RbjZSZWVLZU5XWkJWUU5mMGRhLW5PY2x5andSQlc5cmlKSEZrVjVVRno4RE1MM1V6REl3cVpZYmVjYm0xcUxaVURnN3p1RHd4bU9NQ1YxUDdPMlVvanZ4RmFGQQ?oc=5",
-      "source": "Record",
+      "source": "record.pt",
       "publishedAt": "2026-09-02T19:38:02Z",
       "description": "Ciclista esloveno foi operado a uma fratura na clavícula esquerda na sequência de uma queda na Vuelta",
       "image": "https://cdn.record.pt/images/2026-08/img_1200x721uu2026-08-30-10-28-49-2459583.png",
       "articleUrl": "https://www.record.pt/modalidades/ciclismo/amp/tadej-pogacar-ja-teve-alta-do-hospital-apos-ser-submetido-a-cirurgia"
+    },
+    {
+      "title": "PS/Açores questiona Governo Regional sobre dirigentes da Unidade de Saúde da Graciosa - saudemais.tv",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkdPMk9pZFljdGNIU2tJdGFtWGR2QnVjVVZwUUx5VWlVSkxLclNZM1dDYTdTYnVPTkEyNmdrU296WVFfT25Dd3NDUnAwWGJfU3dRaDBBMW5MWURwZnFJX0JNbU00UXVsbXA4a3pRSGdWU3hCeDhUZWNNUERGRVVQaHF5dC1IRl94dnpqTWFNQ2RvSjA5SGdZb2dRUzExdUo4N2wwZmxvQ1dJOEdVMmFUZ3ZRdlVHMTRCTkwzelp4QVlRdw?oc=5",
+      "source": "saudemais.tv",
+      "publishedAt": "2026-09-02T17:13:34Z",
+      "description": "O PS/Açores questionou hoje o Governo Regional sobre a Unidade de Saúde da Graciosa, alegando que está sem diretor de Enfermagem e com cargos dirigentes por preencher, mas o executivo diz que as afirmações “não correspondem à realidade”.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066519_0000000001.png",
+      "articleUrl": "https://www.saudemais.tv/noticia/66519-ps-acores-questiona-governo-regional-sobre-dirigentes-da-unidade-de-saude-da-graciosa"
     },
     {
       "title": "ENFERMEIROS | Ministra da Saúde reconhece a falta de enfermeiros nada faz para resolver - CGTP-IN",
@@ -65,31 +65,39 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/cespu/"
     },
     {
-      "title": "Vítima de acidente em Constância levada algemada para o hospital - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWlQSXBjYUZ0V1dLWjJDd3ZrTDRoNWJyV3lRVmNobVQ4dTdLU2sxYUIzZHFiMFZIbnItMUdwbHVCaDhDMnZHXzVPaEN5OGRxZHVJeGZaMWh4dEJkVWRrVWdDTVBwSGZ5NGUxbGVyR3l2ZHJjR0NsR2NYQkxiMjdKRFlxMktzNjh2MnNMdzZsUERCSzBSWElSWDY1WmdFMjNPYUVmRWE2MWF6V0xDbHQ5WERZN3U?oc=5",
+      "title": "Tomar recebe primeiro Festival da Saúde durante três dias - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVpKc1JuWFYxOVI0anIzc3NQYk43MlFmUGlKaGVXMzhmdko3ZUZoaENtV3ExWFRCamxsNGJ2MXNUWlYtYVB0ay1DWXE5dFBtVzBERUZ5VkhhYVNQaWdGNUhpU24teWJVRGtvTE5sV3BrTjFwN2lMVkRTd3gxLVNYN2dRNFlqTmdOMl9LbmVUWnZmdUNHWHRFOXJyRVpFc0VadGhiMDVrUUpoT2s?oc=5",
       "source": "O Mirante",
-      "publishedAt": "2026-09-02T16:13:00Z",
-      "description": "Camionista sofreu um despiste na terça-feira, 1 de Setembro, e foi levado algemado para o hospital após insultar elementos dos meios de socorro.",
-      "image": "https://images.impresa.pt/mirante/2019-07-15-algemado.jpg",
-      "articleUrl": "https://omirante.pt/sociedade/2026-09-02-vitima-de-acidente-em-constancia-levada-algemada-para-o-hospital-7b3bac19"
+      "publishedAt": "2026-09-02T14:00:00Z",
+      "description": "A organização pretende que o Festival da Saúde não se fique pela primeira edição, assumindo a intenção de lançar as bases de um projecto anual que possa crescer e afirmar-se como uma referência nacional na promoção da saúde e do bem-estar.",
+      "image": "https://images.impresa.pt/mirante/2020-09-29-coracao.jpg-1",
+      "articleUrl": "https://omirante.pt/sociedade/2026-09-02-tomar-recebe-primeiro-festival-da-saude-durante-tres-dias-611c87a6"
     },
     {
-      "title": "Rainha Mette-Marit levada de urgência para o hospital horas após a cerimónia de tomada de posse de Haakon - Correio da Manhã",
+      "title": "Rainha Mette-Marit levada de urgência para o hospital horas após a cerimónia de tomada de posse de Haakon - cmjornal.pt",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Zza2VPZFVJX1ZmLVd4SXBEQk5fOG1STmxSMDdJMDVwQl9uSTdldldONVZZX0o0dGFqSmdnU0RKRkwxQTQ5X2d6dFRVRHE4SFFBcnVFRUthLUF4eXM4NzFPekxncWFFZ1JBTW8xenlFajAwRnJoNTh1Wk9aaEtYc2J6UURfODB5dGlHNEZHZjVhU3dpUGUxclFzZWNtMDJGYkpKR3B6UWsxZ2pYZDNnVU04bWw0bTdNXzlsTThKaGZ5b3hacUZrQlktSWxmUkY4LS1jVXBZNUd0VlHSAdYBQVVfeXFMTVdNcE15OGEwU2R5eGpRdG9fOVdCZUJFZ3BGN1JnWDF2T1NRSDVUUHVPUHRSMmx0czdweGJuWFVXdC15Ql9xSnM1VTVBd3pSb2tzNUVwcDRRLUxCSjFScV92cTdoWFNoZUQ2N2FpeGVGU2stUEdqZFVFVlotalBDdGZycDRadTZjQTFmWGk1LTR5el9IQVgtaEtYbmlCRVpuWS1SS3hfaDEwZV9tTERhRnNrWURWT2Z2OGIwelpsWXpPNmp5QVE2ZEpHU0lHQmtyVVJGS09DUQ?oc=5",
-      "source": "Correio da Manhã",
+      "source": "cmjornal.pt",
       "publishedAt": "2026-09-02T08:21:00Z",
       "description": "Monarca norueguesa ficou de fora de um dos momentos mais importantes do início do reinado do marido devido a complicações com o seu transplante pulmonar.",
       "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x718uu2026-08-28-10-51-41-2305160.jpg",
       "articleUrl": "https://www.cmjornal.pt/vidas/detalhe/rainha-mette-marit-levada-de-urgencia-para-o-hospital-horas-apos-a-cerimonia-de-tomada-de-posse-de-haakon"
     },
     {
+      "title": "Prémios Empatia na Saúde encerram candidaturas com 149 nomeações de todo o país - Mais Algarve",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlB1d3Q0TE50cm5PM01YOVV4UUdSb3I3bFN0X0IzcndYcWxLTGNLVFptYVd5ZThHNGFsZmdJamVITzhncjJWZHRKOFBHYm9OWDhQZmR2bzFueUJ1VUtmdm1TU2ZndHlaUWktWWd3MzdBNDJYNjF5bzVPY3c5dWpWM09KN1FfTEpyQlQtS3kyTTlUZEFIN2JwVUlZakdLVEI1a0FLZkowSjY1MHZjWEV4LVUtbWQ?oc=5",
+      "source": "Mais Algarve",
+      "publishedAt": "2026-09-02T19:17:39Z",
+      "description": "A 1.ª edição dos Prémios Empatia na Saúde encerrou a fase de candidaturas com 149 pessoas, equipas e projetos de diferentes pontos do país nomeados pelas suas",
+      "image": "https://maisalgarve.pt/wp-content/uploads/2026/09/Prémios-Empatia-Saúde.jpg",
+      "articleUrl": "https://maisalgarve.pt/2026/09/02/premios-empatia-na-saude-encerram-candidaturas-com-149-nomeacoes-de-todo-o-pais/"
+    },
+    {
       "title": "Em marco na saúde pública, OMS exalta avanço de Moçambique no controlo sanitário - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfd3BKRktFaDZmYkFKM1RPSllIVTE0UDdsWEdKdGY2dzAzaEY3ZjY4U1Rqc01qenBQcVhubjZhaExsOGtPQWtiMjVUei1PQ01JRzl2cXJyNA?oc=5",
       "source": "UN News",
       "publishedAt": "2026-09-02T10:01:00Z",
-      "description": "Ao alcançar o Nível de Maturidade 3, país se solidifica como o 10º. Estado de África com um sistema regulatório farmacêutico estável e integrado; especialista da agência explica conquista que amplia controlo sobre importação desses itens de saúde, reforçando a proteção da saúde pública e incentivando a integração sanitária regional.",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/01-09-2026_Nelida_Silva.jpg/image770x420cropped.jpg",
-      "articleUrl": "https://news.un.org/pt/story/2026/09/1854233"
+      "description": "Notícia publicada por UN News. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Mercado da Malásia abre novas oportunidades ao negócio português - AICEP",
@@ -97,14 +105,6 @@
       "source": "AICEP",
       "publishedAt": "2026-09-02T23:50:32Z",
       "description": "Notícia publicada por AICEP. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Antiga aluna de medicina em Coimbra ganha ouro nos Jogos do Mediterrâneo - Diário As Beiras",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUNZLXFuSTY3VlktOEduaHhjbUVncjdqMzFSZkZhajBKS0tHVmxSQl9lUE1WLXdBUXAwTWhTSUwtbVVXd0pNMmZsRF9sbkVpRmxzNkxhRkk5emtDOE84MnpvLThSMzloN1NCQzdGQ1RBNU92U0VVV283MXhvRjhhLXFVVU04bXZSQ2o1SGREWHhoRXJUc1J6QTJEaEY4dw?oc=5",
-      "source": "Diário As Beiras",
-      "publishedAt": "2026-09-02T17:20:00Z",
-      "description": "Notícia publicada por Diário As Beiras. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -146,6 +146,15 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260902-m%C3%A9dio-oriente-estados-unidos-e-ir%C3%A3o-voltam-a-atacar-se"
     },
     {
+      "title": "Rússia. \"Estados europeus deviam ter reagido de forma mais robusta\" - Observador",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEJFcWNTMzlIcDVzbGZNVUZZeFVSRGJUeENSeFF5UFlLR2lFMVVsWVhMQ3IwQnZjLXhOY1pxNGZ4N1ZFWTlBd0N1ZnhEeWxRS3hrRTFIVUtZTTVEV3IwMmhHTW5OUVg1ZEU5ZUNMN0RoWHd0Z1hUSFJZOGx1RVRzSVV6OElMZ2hONFBBcGd5ekM4ZUJ4bjBoQ0xIVmtPUmFqVGlLNW05bVFIRTlvT290OEhkb2hWYWM?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-02T06:54:15Z",
+      "description": "Bruno Cardoso Reis, historiador, acredita que os estados europeus já deviam ter respondido de forma bem mais firme aos ataques russos, sinalizando de vez que esta escalada não pode continuar impune.",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/russia-estados-europeus-deviam-ter-reagido-de-forma-mais-robusta/"
+    },
+    {
       "title": "O início de uma nova fase da guerra no Médio Oriente? - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmc5a0dpYTZIM216NGlDdTNhUXh3bzFMRkt0SEpfeEpob1VNQWFibUNYeENOaHdsOEdFaGhnbWRLLUxRbC13QWY0X25hZ1lmbnNZY3U1LXBDNlhXeXJwT192bDRfU2dlSUtsZ3E3V1NUWDRfNFJPRGJaUngxQ0U4QjJwZEtSZ3liNVFjUk1QX0JmMDBJZ3Y2TnJHNU82dWlVa2syS1RJei1Uc3VZQS1Hcm56SHF1bXBoTllhYndyR2Vfb0RkbHFjTUJPTjJjUQ?oc=5",
       "source": "SIC Notícias",
@@ -155,64 +164,55 @@
       "articleUrl": "https://sicnoticias.pt/programas/estado-de-emergencia/2026-09-01-video-o-inicio-de-uma-nova-fase-da-guerra-no-medio-oriente--2297cbad"
     },
     {
-      "title": "“Todos os dados que dizem que Trump é um agente russo são disparatados. Trump é um agente dele próprio” - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQWU3VTNTNnFNZU1fVkVKTXpURzlvOURkSmpZUEZVbVdzWE5EVllXT2hVV0tULUdBZlFKcFczbTZ3MjZ2bWp0V3ZKWDYteVE0aTRVZXZ0b0d5MVZ0bURuVUtwSE5Nb0NPZjBoQlBGSDc2SEJEWG4yZzJPREhBQlVfcUdiNUg2SFNwMmJSV2RlUld0TTg3T3F1bWVLelA3TW9BWEp3TUc1Q1FkSDMtc1EyUEpEM2VCS2pwVldiTUl2bllWTjZ0RV9xRHRxc1liVG91UnZyZExJanNXY0ctNUxDa2Q2Vkp6eWVXSkFfVUstb2xHN2M1YkNxdmhnUWVuM3N3WkVkT1hvUy1fUzdmN3Jyd21GS24zOHExTk8xRDJudEJSOWVSbHBuUDdfbV9CMlNWY0NUSDhXY1lPR2NUMVZJV19FcEtXd1FHQjY4QUU0UERLamJ1WDJSdnRvcGtVeHM1eHJiZS04NFBmQmJpczM1cEp4WjRlcGhPZzdVakRYSXAtYk5QT3hhVEcycUV3TUJDRHoyd3R6MWp1RzBQaXV2VVhmVWN5b05WRmJwcG1KT0p1ay1jSUFROGoxYS1vRTh1cm1nRnZramxPVGZtaXhSdVlTOGtXaFcxRGZIenJzaWxRc0FDaEpONElJakk5ZDVIWGdfWkVWMXpSNnh0b2RQTldIOW1Iczltc2JWRnNFU1dud3d0TVBjTg?oc=5",
+      "title": "Presidente iraniano acredita que será o vencedor da guerra e agradeceu o apoio de Putin durante encontro no Quirguistão - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNalQ0a0liZjc2dmZpQ1hhYnY1S1Y5Q0tackVEZDlDNi1abW5ybEVwSGZjXzdGQlpXcjVYcW5mdGk3TmhmNm9fVUdQWmZLd3o1ZE9rSk5sUDVUOXNPNXE2a2NvcS1pcTQ3UFEzbmxHc2g5VGJFUUFkVVRHdDBuRUhkQTFWX1VvMzhJNHRWSURyc0tKU0wxOWhsQWFMWWdzVzlacDVJdGQwcDJ6NXpIeDczRVBVQkJuTEZtNFEyRFN1b0ZtX0xRbTNEbzU5WmdLNVp1cFV3NHF2czM5T0NTcThROUFfbGVPYkcySkxnTk0tVlBURWNZS3R6NDJySE94QTFwMkFUQjgyc3k5b1Y2UkNscHZDUWlmX0xQcmYydzh1S09DZjB5THJhVFktTkhBUUFnQnNjMlYycEc0Wmg1a09XU3FRY0hXS3BaSEtTal9kZExLWU53c3k5MkVVZnJ5dXVaeF92Y2tTS1hLSm4tUmc0UkNMX1VqVTRIM0RBTGxUei03M1RfVXdFZDJMZGw5NzdJTTllZGtvaDNVX0Y0TjZIZ05DRzdNVmJmY3kwMmxqR0FjLXlmWl9TMU03VVowcUFMTG8xbEg4bDQzRW5wTlhETGVpNG9CZGE2OG1GUEZBajVhNUpQdFE4N0pjR2g0c1JpbVVHa3ljXzY0blpUbHhreXFtSS1mZk95b1VVdDgyNlhNdWlIcExKODZoWWxNTHNUelRaV2R5NzA1V1FMeXBkWXV2aDZhaEx1U0d0WHNBclZ4dWlWWlE?oc=5",
       "source": "Expresso",
-      "publishedAt": "2026-09-02T10:45:51Z",
+      "publishedAt": "2026-09-01T15:46:18Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/podcasts/jogos-de-poder/2026-09-02-todos-os-dados-que-dizem-que-trump-e-um-agente-russo-sao-disparatados.-trump-e-um-agente-dele-proprio-2c89982c?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/jogos-de-poder/2026-09-02-todos-os-dados-que-dizem-que-trump-e-um-agente-russo-sao-disparatados.-trump-e-um-agente-dele-proprio-2c89982c"
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-01-presidente-iraniano-acredita-que-sera-o-vencedor-da-guerra-e-agradeceu-o-apoio-de-putin-durante-encontro-no-quirguistao-bfced4e3?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/medio-oriente/conflito/2026-09-01-presidente-iraniano-acredita-que-sera-o-vencedor-da-guerra-e-agradeceu-o-apoio-de-putin-durante-encontro-no-quirguistao-bfced4e3"
     },
     {
-      "title": "UE fala em \"terrorismo\" no ataque falhado na Alemanha atribuído à Rússia - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOam9uU2hNc3lqR1QzZjY5VHZFUkljOU82WGZ3OGdLbDRiSEVIUFdEckdSMWhfdHZxN2VKUXJZTzRMbmMzMXlqR0VZcG9UV3lOc3dKTFY0RU1FU1lzN1V6RnVfVnUtV1c1aFZocFBENEdsSHdGU19sOWNObWdfWE9TRnlRZXdTNHh1X2xma09kOEJKa0w0dEw3S2hvN3I1MjhjTzVDV0JIYzFIYjZpUHNpVHE5Zw?oc=5",
+      "title": "Irão reivindica ataque a base dos EUA na Jordânia - RTP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEVDaTZUbTNMUzQ0NEtSUjJPTnlKczZCVDkxbi03WFBKcllKQ1V2LUZaNmFMb1JkRWZJeGRTbjFwQXYweHlkVmFYbVVMMUNBSlBlN2JVVXVNcm41VWZ5VTQ2TWFKbVRhbUdYNFZMcEY1VjZ2ZlRDYy1xZUQzZjBCV1dBUmZqUlVEUkt6bHJ1Q2o5UEt5MXlXZk1BaHpHa3Z0NGYzWnRzYzRZb1ZDMXY0?oc=5",
       "source": "RTP",
-      "publishedAt": "2026-09-02T13:58:09Z",
-      "description": "A chefe da diplomacia da União Europeia descreveu como \"terrorismo patrocinado por um Estado\" o ataque falhado num aeroporto alemão atribuído à Rússia. Kaja Kallas anunciou ter convocado o representante russo em Bruxelas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/15/15eeba0727dbe89aac28e2052e3ea36e?w=860&q=90&rect=0,250,5500,3015&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/ue-fala-em-terrorismo-no-ataque-falhado-na-alemanha-atribuido-a-russia_n1762936"
-    },
-    {
-      "title": "UE fala em terrorismo em ataque falhado na Alemanha atribuído à Rússia - SÁBADO",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTZJeFJMOERDLVZfX0RFR0FadWhkUG9OMjBSUXIzOTFnRHdXbnhWZ2VTUFc4QklTZDdEYm9JSlZZRGZyYlNwVkxoT1ZTZzNmcnkwTWVwdG51X1VOOFh3WWZzZnRMcUt2QWlYQm1xM3NPWU1FV1FFS0JtN1lQUWZIZWFHdFJKYk5IU3Y4dW9ncWsxVjIyTU5OVzBKVjREVElmLTcxeNIBpAFBVV95cUxPYTZJeFJMOERDLVZfX0RFR0FadWhkUG9OMjBSUXIzOTFnRHdXbnhWZ2VTUFc4QklTZDdEYm9JSlZZRGZyYlNwVkxoT1ZTZzNmcnkwTWVwdG51X1VOOFh3WWZzZnRMcUt2QWlYQm1xM3NPWU1FV1FFS0JtN1lQUWZIZWFHdFJKYk5IU3Y4dW9ncWsxVjIyTU5OVzBKVjREVElmLTcxeA?oc=5",
-      "source": "SÁBADO",
-      "publishedAt": "2026-09-02T08:16:00Z",
-      "description": "Ministros vão discutir que resposta dar à Rússia pelo ataque falhado, em agosto, no aeroporto de Leipzig.",
-      "image": "https://cdn.sabado.pt/images/2026-09/img_1200x676uu2026-09-02-09-14-28-774515.jpg",
-      "articleUrl": "https://www.sabado.pt/mundo/amp/ue-fala-em-terrorismo-em-ataque-falhado-na-alemanha-atribuido-a-russia"
-    },
-    {
-      "title": "Trump admite encontro com Putin quando Rússia estiver pronta para acordo de paz com a Ucrânia - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRERMd1V4UEwtcnJFcGhtSGhpYVN0MFRxTVRTSmFVQXI1RjlUSEpuZzV1dDI4bjNra09aYW5ZSGRXLWxuai16TUZ4LWlBTjl3aXFOT2RMN3lOQjUxWUZzMHk1cjNmYWJnaUNqdUo5ajdzbjlTUm1teTJNSXFPcDB4THM1ZXpFQTdJaDE1bnN1TU5wNm5sUExZLWxaUXlrYi1ZT1UwSnMxREwzV2hBMllNY0Z6a0RwUXhLeHp2YVY4TllRMUxreTEtRWNtVWJmNi1WQXRmZFBfZHQ3SUhPQTRYbmNNa1JLSVF0TEFOMmZkc0QyZmFTVnZTd09R0gH0AUFVX3lxTFAwT25faHpTSkNXVEEtUjdNLVVnUGQyZC1pWFZmaW01R3BGb2FLdmRIczJndjEyaEhrdUN0aC1id0xZUVJmTzZ5ZjctMURucGg1M1hFVzdBQTExZ2lhV2pGTFlFdWNWTVVWYWFGVlVkSUlJY1UyR19lRGEyVGhqUmJQQ1A4TUN3a2lyalEtSGtVU29JbmlZdUJ5Q3hNRmJQeVhHUVNzUVlnc1lZYXZxZXluWmlXLVJPcXBNWEw0MkpDTC1JUzRCY1k5Z2dlcWVSckJtNXhtSUJTclQzNG1ldnk4S3lCeS1oZHd6a3o3RFoxejMzaDA?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-02T08:41:00Z",
-      "description": "Acompanhe ao minuto a evolução da guerra na Ucrânia.",
-      "image": "https://cdn.cmjornal.pt/images/2026-07/img_1280x721uu2026-08-05-07-51-25-2299989.jpg",
-      "articleUrl": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/putin-acusa-ucrania-de-terrorismo-de-estado-apos-promessa-de-zelensky-sobre-drones-nos-ceus-russos"
-    },
-    {
-      "title": "Espaço aéreo russo está a tornar-se “completamente inseguro” para voos comerciais, diz Zelensky - Público",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmhWVjN5Z1ZZUVlNQ2xWVVdYdVhGUGJleWN3SXdfZ2k3MEhINGdka3RsdG9STUY3QUNuQzBzNlptbG9sOFE2N0pPdVByWGNjYjN1UWRNaXdORDQ1dzhFbE4tQmdCc2NEZHdQX2VJRFpXR2RueGlYZHQ4OE9NZmppck92WHhPMTNVSkpxNDl5ZnVsWWJVQzdyNmx0ZHRWYUItX242TjFnLUU1V3dLQ2x4Zjg3UktIa05aV1JsdEZnbC1BMFoxeEx6YzVBWQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-02T12:02:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/02/mundo/noticia/espaco-aereo-russo-tornarse-completamente-inseguro-voos-comerciais-zelensky-2186779"
+      "publishedAt": "2026-09-02T05:48:51Z",
+      "description": "A Guarda Revolucionária do Irão (GRI) reivindicou hoje um ataque a uma base norte-americana na Jordânia, em resposta aos ataques das forças dos Estados Unidos contra a República Islâmica.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/be/be0d2dad2cda54c1f11db68aebe27c58?w=860&q=90&rect=0,0,859,471&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-reivindica-ataque-a-base-dos-eua-na-jordania_n1762863"
     },
     {
       "title": "Será que a Terceira Guerra Mundial já começou? Olhem para Irã e Ucrânia - Estadão",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0paNFNGMjZnd2syZllrN2ZWYlo4OG9fTEE1VHU0YjFXeFduZVVLYm1qZ0laOFlBbE1ZbXBfWlE0RXA0MDdTdVFHVXhQd3dUSWc2U0N6Szh5eXRTaTFtNmhwVDdMV3hybGlHbDhMbzRYMWplSjVaSFBUY3RzRDRwTVc2a2p0OU15S2YxeVh2RDVrM2kwZFVaNUVhemU0a3hMc0xxVVRnUzFfSnl4el9QZW5B0gG3AUFVX3lxTE5hSHBwNE02cjdTcXJ3dzJOMDR4cENVQk8wa19Idm5mcERNbDNzT04xS2J3ci1GOFpsUnhrWW8tS1VkTWpUZEVadGN2TWxaaUZ0UWNjX2R4OFZ2cUlCYlJNZHM3dkhrX3dzbXVzdXB0U1oyZ05MWEFKWEZQVTI3N250cGhTV3FsN09HRzdmMWF6cXl4YTBrTXRiRjJKSWF2ZkhITjlodDk4cm9xcHRmaDhMZkpiSjlISQ?oc=5",
       "source": "Estadão",
       "publishedAt": "2026-09-02T15:02:00Z",
-      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "description": "As esferas de conflito se multiplicaram e estão se fundindo. Enquanto isso, o Ocidente está um caos",
+      "image": "https://www.estadao.com.br/resizer/v2/C6X42Q43KRCQRAD5DS7NWHHEMQ.jpg?quality=80&auth=6800dd8677f134096a65b271fdabc8888570a71c3dbabfb2b29e8c91858039c6&width=1200&height=630&smart=true",
+      "articleUrl": "https://www.estadao.com.br/internacional/sera-que-a-terceira-guerra-mundial-ja-comecou-olhem-para-ira-e-ucrania/"
     },
     {
       "title": "Kaja Kallas cria grupo de antigos líderes políticos e militares para decidir futuro da Defesa europeia - ECO",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdm96VkZTZlVuYVEyRVllZnhoeXBRRXJGRms3RklGSmN0NU9TYWxxUURwUkIyMGJIdkRNbjE0Ym9QRzhHdEpQT1IxNUNEa0hzc3NuZE92MkVQSEFXRlBXMXVaSXVVbWNZWmxCeTN5MjdJUmItU196Yks4MTVTYkJ4WFBld05LbWNTU2w5MjhNOG0yQVZ6bXJCMWlwVURNMmVBQUpFRDJLNDI5SFFiNFRDRmNOQ21Fbi1QR05fU0dSY0NhVVBneXh3VjlzaDZoRGc?oc=5",
       "source": "ECO",
       "publishedAt": "2026-09-01T17:44:19Z",
-      "description": "Notícia publicada por ECO. Abra o artigo para consultar os detalhes completos.",
+      "description": "O novo órgão reunirá antigos responsáveis políticos e militares da UE, Reino Unido e Ucrânia para estudar como a Europa pode reforçar a sua defesa face à mudança do papel dos EUA no continente.",
+      "image": "https://eco.imgix.net/uploads/2026/08/cropped-47510751-scaled-2.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/01/kaja-kallas-cria-grupo-de-antigos-lideres-politicos-e-militares-para-decidir-futuro-da-defesa-europeia/"
+    },
+    {
+      "title": "«Vamos declarar de uma forma perentória e talvez controversa: a Rússia já está em guerra com a NATO», afirma John Wolf - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPczhnbU40WE5hS3FoNjA1di1HTHhhNm1uR1FsMWc2YlhPVkhxS0w5SkpVTkJQN09wT2VWc25KOWpNMlpFa0UwSXJfYk4yanRvMHZTdEcxSk9JMHBMcUxGWmxKcDViNGUtV2w5eGJhOC1JUjF3R2Y1LTNxd0ladVJEQW5adVNZUVZJSVJSZll3UVRsYzk2R2JQTnpRV1ZoQkkyVmZPWV9RY3ViZnd5dENSX2NZWWNvcDZaQXFmYnB4anNvYzF4aTh3RS1jRU9WSDhObW54cmZpU1ljOFU1VHpadjlOUWJiM0RLLVE?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-09-02T10:57:00Z",
+      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "\"Temos de escalar de forma proporcional e sem demonstrar fraqueza\". Leipzig foi \"o toque a rebate\" para a Europa - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUXZkTWtXbUxCT1pxbl9sTDEtSVo4bXZYRHZKaGVSQVhfUVRaVXpwYmpLZ0JWZE1fMHZXNXdVT2lmVGlfdlBhQ210RXJPSmJxODVlYXFPMGFOLXhINkp6TmtTTENjYzRvV2xuQ0dwTHcycmZ5dlNja2piYUQ5S3hYNWY5NmJZOVJfTmxHOFM3YlFibTVjY1o2MVNIYWkyQzB2ZC14aE9qMXVVdzNvbHFxbW03ZnFWd0ZHMEMybG1MYkJDTTdYOE1iUmZSNGQ0TUo4ZWdNaUxWZzhKcVdmeFczRDBJa0l0cEtDS1RhcndwSzdvMjVvd2xvWG1CN2VCMzl0RWR2NFZ2aXFacll2LVlYUw?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-02T21:50:00Z",
+      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
