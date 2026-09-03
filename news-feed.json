@@ -1,19 +1,37 @@
 {
-  "updatedAt": "2026-09-03T08:30:03.416574Z",
+  "updatedAt": "2026-09-03T09:28:43.428264Z",
   "health": [
     {
-      "title": "Medicamento à base de GLP-1 mostra retardar o envelhecimento em ratinhos - Público",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXRtLWFRWXQxTENHaWlqTTZQMzBnejZzaWx5VTRQZy1xR25tV19wLUdnaHQ3RDFKclRYSTFmWkQ1OE5iM09ZQXc5QlJ0SEY3RFk4aDJKZDJkU3l2QVdXVDJvLWl6RUE2NURSRDNnN21ybjdvcHhmeGFQQ2tXZFFsRzJSd2pNdldaWjNxQzlrbnBFRldBOFdWVFBCS0JtcFhiSHFSQks0ZkRENE43R1JxbVlUQ3ZJejFVWTlR?oc=5",
+      "title": "Menopausa: uma janela para prevenir a doença cardiovascular - Público",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZJaHk1UndleTAwU2ZtaHJrRHVqN2JNUlhhX1ZmRUp3a3FBd1pBRTNabnc0MDFiTUJMYzVGOTZJV0FZcHpTTy1ldFk4d2c1TUFiMHJPbEJPa0JrUFpxRGZZSk93LWJCWjA3a3FsVHdxeWVhUGQ4ZXV4VjBodGRac2Z4QlBjd08zQkg3dkRUR0FwQWZUdkoyRmNTXzMwVHBCUktpM011NFBYMjN6eXl5UnV3?oc=5",
       "source": "Público",
-      "publishedAt": "2026-09-02T18:30:00Z",
+      "publishedAt": "2026-09-03T06:30:00Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/02/ciencia/noticia/medicamento-base-glp1-mostra-retardar-envelhecimento-ratinhos-2186777"
+      "articleUrl": "https://www.publico.pt/2026/09/03/publico-brasil/opiniao/menopausa-janela-prevenir-doenca-cardiovascular-2186867"
     },
     {
-      "title": "PS questiona Governo sobre alterações no serviço de oncologia do hospital de Portalegre - observador.pt",
+      "title": "“Os hospitais não são locais para agredir profissionais” - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUVpU0ZseXN4WWpGMDMxN3ZFVTQ3SHB4UnB1M0ZhREFnSm12Q3VvNkdtRXBmazJfSDFETFpXUUd2LTRoMXJ0c1lhcEFCaEpBaDlXbi1raERKd1RVdEludm1rT3VYR3BhQkFCckpJVkpqQWNMRVB5bm1NNzlybGRJMEtJSzE2UWxUWHZLSFoxTjUzU1NVY0M1UlllcE4?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-03T08:54:00Z",
+      "description": "Jorge Pimenta defende tolerância zero e reforço da prevenção da violência na saúde",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logo9cc8bac0-efcc-47af-b30b-62cf1cfe98af.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/3/504162-os-hospitais-nao-sao-locais-para-agredir-profissionais/"
+    },
+    {
+      "title": "Portugal e Arábia Saudita reforçam cooperação na área da saúde - XXV Governo Constitucional",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjYzTG9CLWJxYlRHbVpBVnhJenVGY0h2OEJaaU45RkRKWmpkXzBERDBXa1RvYzc1T3AtdU55SWRIcFRTR2g0Q1lYeWlKZlU3U1JRRWZSZVJLSl9KNHdLQjVsN2NtbVVaaWc3YlpIbkpISDBrenYwY1JqQWZUbGRpZ0l1dnYwRlFTVk4xZkNtNmdhU0hBNk1Danp2eVRyem9sdEVsVWlsSFJRVzlyb3pBYVAwLXNWUQ?oc=5",
+      "source": "XXV Governo Constitucional",
+      "publishedAt": "2026-09-02T17:33:00Z",
+      "description": "Acordo abrange rastreio neonatal, nutrição, financiamento da saúde e soluções digitais",
+      "image": "https://edge.sitecorecloud.io/centrodeges65c9-cegere0de-prod6279-8af9/media/Project/Portal-do-Governo/Portal-do-Governo/gc25/galeria-fotos/saude/20260902-ms-memorando-entendimento.jpg?h=1000&iar=0&w=1500",
+      "articleUrl": "https://portugal.gov.pt/pt/gc25/comunicacao/noticias/portugal-e-arabia-saudita-reforcam-cooperacao-na-area-da-saude"
+    },
+    {
+      "title": "PS questiona Governo sobre alterações no serviço de oncologia do hospital de Portalegre - Observador",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVJJcnhrZDNOdkpjRHNGVFkxbU1ZZTl6OUxDRk56Rm03RlhTaGhjN2VtME9mMHdQbVlfT09jVGhRVkZVWUVtSTQ3RnZSNVJKeHZjT2hNY2V5aW5SY0REc1FVc1BYSWpMVXBLaER4bnA5ZENaTW9MLVFua3hQb0thZHlET3pXclhyUHhqX050TXlBbENMS1Atcjk5akRsY1FDWER5UUVoZHZKVnpBcl84aEF6TWtpWXB6TjRxSHRn?oc=5",
-      "source": "observador.pt",
+      "source": "Observador",
       "publishedAt": "2026-09-02T23:22:39Z",
       "description": "Sete deputados socialistas exigem à ministra da Saúde os fundamentos da reestruturação prevista num serviço com resultados acima da média nacional e sem listas de espera.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F06%2F16164936%2F16301170.jpg?layer=obstop:T",
@@ -38,15 +56,6 @@
       "articleUrl": "https://healthnews.pt/2026/09/03/governo-rejeita-instabilidade-na-unidade-de-saude-da-graciosa/"
     },
     {
-      "title": "Moçambique com 56 hospitais a administrarem lenacapavir para prevenir VIH - RTP",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcnpyMTJUQTRpb0dGWjhFQ1BuSWdTcl9vcjFMLWRRdFFXb2hON29kdVg2NkdpeDEzT0lpN1FrQTFMYVViSXJ5aDBDNmp5aVAzc2lOTW16Ujg3ZWdDdDJaTmxENlYxcFVtXzBlY3JpU20wQnJYN3UzS0RNNGN5Y1NQSkNpOHh1ekFhSTdkVGV6bzcxV0o4elM5Q0hueHlqNV9VdEd6X0k2SGVkdkVmbmZQTGRZUDVPQlk?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-03T06:04:10Z",
-      "description": "Pelo menos 56 unidades sanitárias em 16 distritos moçambicanos já administram o injetável lenacapavir, para prevenção da infeção por VIH, beneficiando 15.700 pessoas, avançou hoje à Lusa o Ministério da Saúde, que pretende alargar a cobertura.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=860&q=90&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/mocambique-com-56-hospitais-a-administrarem-lenacapavir-para-prevenir-vih_n1763109"
-    },
-    {
       "title": "Leiria dedica página no facebook a informação, prevenção e promoção de saúde - Jornal de Leiria",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmhNdzFMVlJJdDhsZU55elFUSHNyQWVNSHlDdmdWMEFlMlp0VFNSMV9iWEs0YzN0OGZFb0pSNktWclBXZ0djMUFpVU5fN3VFWVZ6NUpnVHhkYTNod2xIeXJxemxMQkFpeFI3dlZLWFhJa0UyU2s1ZHo5VDJaYUdNbmFSWmRna1FIajJWcURseDBOSjVBWXpzeThnbHMyeld1QkFWWnUydFJuWE5ucDhrVEVOOA?oc=5",
       "source": "Jornal de Leiria",
@@ -65,31 +74,30 @@
       "articleUrl": "https://linktoleaders.com/2-a-edicao-do-hospital-innovation-challenge-seleciona-seis-start-ups-para-responder-aos-desafios-de-hospitais/"
     },
     {
-      "title": "Desafios da literacia em saúde vão ser debatidos em Coimbra - Diário As Beiras",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1QxdTYxREJRc0FYZk1vUElycUlzMlZoZlVMbUdaNU1rcFZocHdaQ29BZXBpazNEaDlMNmliUzA5T1dPQXR2eWp5MEUycFYtTnJ0eFIzT0plLVBZRnZnanBGaHRIMXlVSXhDeEVsMzMzSnlEdm9kYkl2dU9Fd0FVOXRRcnFaVlp4d0J5ag?oc=5",
+      "title": "Investigadores de Coimbra testam abordagens terapêuticas para a doença de Machado-Joseph - Diário As Beiras",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnpnN29pNTcyb2F1SXNEcGFWUG9VNVdKQjRzU21lbUZLdGZ2ZUV0R3N3ZjRGWnN3SGNlYzhKUE9iZ0lPSkJHUWktZHg1OHZ2NmhpLU92TzNva2h0RUIxbkk5eU9QX0ZmMGhnZnV1dkhlQ2FudDVLMXprQWUzV0VfZi1UMGZWRlZPR0pWeEpnNmtJZEtLNjkybXp1QWcyS0tPeWJnd3lfdEJkbklfclZ1N1k1bw?oc=5",
       "source": "Diário As Beiras",
-      "publishedAt": "2026-09-03T07:14:00Z",
-      "description": "A literacia em saúde vai estar em debate na segunda e na terça-feira no Centro de Congressos da Unidade Local de Saúde (ULS) de Coimbra, com o foco na navegabilidade...",
-      "image": "https://www.asbeiras.pt/wp-content/uploads/2026/09/22-literacia-dr.jpeg",
-      "articleUrl": "https://www.asbeiras.pt/desafios-da-literacia-em-saude-vao-ser-debatidos-em-coimbra/"
+      "publishedAt": "2026-09-03T08:25:00Z",
+      "description": "Um estudo desenvolvido por investigadores da Universidade de Coimbra e hoje divulgado revelou novos dados que podem contribuir para o desenvolvimento de abordagens terapêuticas para a doença de Machado-Joseph, que...",
+      "image": "https://www.asbeiras.pt/wp-content/uploads/2026/09/Equipa-UC.jpg",
+      "articleUrl": "https://www.asbeiras.pt/investigadores-de-coimbra-testam-abordagens-terapeuticas-para-a-doenca-de-machado-joseph/"
     },
     {
-      "title": "Médicos dentistas a caminho da Unidade Local de Saúde da Região de Aveiro - Diário de Aveiro",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnBRVVBwc2lfTFNuSmQ4NkJqeGxuUTg2MXhzaVpJbEpyTWlVWlVOTTNEWDZzcGFJZTBENU9TamY5WHNoMXlMb2ItMTRXMFNKOTZKOUlWTkU4cERKZ1NzUFpWT01pNGZPVjhrZGxnVWpTWDZXOU8tMTIzaTc3X193VHJ0YWpYTmdRTmZ4VU85RU1hZnlwTFJ1NnppZ1pTYUxlalBOZTRn?oc=5",
-      "source": "Diário de Aveiro",
-      "publishedAt": "2026-09-03T06:45:00Z",
-      "description": "Criada a carreira no SNS, falta a negociação coletiva e incluir a despesa no Orçamento do Estado de 2027 para abrirem os serviços e gabinetes de medicina dentária. Entretanto, ULS fez a primeira cirurgia de expansão maxilar",
-      "image": "https://www.diarioaveiro.pt/wp-content/uploads/sites/6/2026/09/Pbas.webp",
-      "articleUrl": "https://www.diarioaveiro.pt/2026/09/03/medicos-dentistas-a-caminho-da-unidade-local-de-saude-de-aveiro/"
+      "title": "Investigadores da Universidade de Coimbra testam nova abordagem para doença de Machado-Joseph - Campeão das Províncias",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGNNS3d5OGpZY1ZpNDlTOG0tMFUtRHEtQ2Nnb0FKTkplTzdjNHFnd3AzTjc4eXFlNjk4UkxIUDBUNWVJZkJsa1dYelIzOUhlc2Z2azVOSFhsMXBHQWd0UGFIQnhrZkRlVHRJU01la0hzSENIbWJmZ3Bhc2p3VzdWUWxXLWZvSTl1RFhSSmF4YXMtTnJmRllJb2lJc0dmczZxNkNGajh6TWU3cU4xRXhGQVR0OVJQLXN1SFJSXzFqem5LVlNhVkVFb2NmNF9aX1NnaFNZRQ?oc=5",
+      "source": "Campeão das Províncias",
+      "publishedAt": "2026-09-03T09:22:23Z",
+      "description": "Uma equipa do Centro de Neurociências e Biologia Celular da Universidade de Coimbra e do GeneT – desenvolveu uma abordagem que poderá contribuir para novas estratégias terapêuticas para a doença de Machado-Joseph.",
+      "image": "https://www.campeaoprovincias.pt/wp-content/uploads/2026/09/MACHADO-JOSEPH.png",
+      "articleUrl": "https://www.campeaoprovincias.pt/2026/09/03/investigadores-da-universidade-de-coimbra-testam-nova-abordagem-para-doenca-de-machado-joseph/"
     },
     {
       "title": "Hospital Termal mantém-se encerrado devido a bactéria - Jornal das Caldas",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkg2ZnFkRnZpSXd4aHVKVVJkcEdpbllTUTBXZ2k1VEFpRTZuQnpQenZfZFRiak9MY250SXpPQkY4ZEg2RmR0T3ZIQXRLcTA4WE5oY2t4M3ZXLWNXOTA3UnJPMFc5cVI4MmVuQ3kzQy1TazNXNHJ0SU5qdnRRWjJaVk5aR3Ewby1hX0hzSURGRlo4eVgyRGdz?oc=5",
       "source": "Jornal das Caldas",
       "publishedAt": "2026-09-02T20:15:18Z",
-      "description": "O Hospital Termal das Caldas da Rainha continua encerrado, na sequência da deteção de uma colónia da bactéria Pseudomonas na central técnica da unidade, revelou o Município das Caldas da Rainha, em comunicado. O JORNAL DAS CALDAS recebeu ainda declarações do CHEGA, do PSD e da Comissão Cívica Proteção Hospital Termal Rainha D. Leonor e Património, sobre a situação, com os dois…",
-      "image": "https://jornaldascaldas.pt/wp-content/uploads/2026/09/Termal.jpeg",
-      "articleUrl": "https://jornaldascaldas.pt/2026/09/02/hospital-termal-mantem-se-encerrado-devido-a-bacteria/"
+      "description": "Notícia publicada por Jornal das Caldas. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Mercado da Malásia abre novas oportunidades ao negócio português - AICEP",
@@ -98,30 +106,31 @@
       "publishedAt": "2026-09-03T05:50:34Z",
       "description": "Notícia publicada por AICEP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
-    },
-    {
-      "title": "PS/Açores questiona Governo Regional sobre dirigentes da Unidade de Saúde da Graciosa - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkdPMk9pZFljdGNIU2tJdGFtWGR2QnVjVVZwUUx5VWlVSkxLclNZM1dDYTdTYnVPTkEyNmdrU296WVFfT25Dd3NDUnAwWGJfU3dRaDBBMW5MWURwZnFJX0JNbU00UXVsbXA4a3pRSGdWU3hCeDhUZWNNUERGRVVQaHF5dC1IRl94dnpqTWFNQ2RvSjA5SGdZb2dRUzExdUo4N2wwZmxvQ1dJOEdVMmFUZ3ZRdlVHMTRCTkwzelp4QVlRdw?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-02T17:13:34Z",
-      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
     }
   ],
   "world": [
     {
-      "title": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos pôr-lhe fim e alcançar uma paz duradoura e abs - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYnl6Q1phX2JoREFwamp3MDN6ZU9VdmxLbko4QjhlUEZZWjg3NTdhbHc0QUxqd3ZDcmo5b09BUVI4MXhvNWVBcVpqRVhwejkwNG5GMlBOcHF2d1hrMFpsOS15eXlOVVdnZ0o1cU5sd2NuZWZtZ2NIYVdZNzNjUzFzdkJIZVhGTXM2Yko1Z1c3ZjN2RjJyMV94OGZIUXFMNlQwTGRuNlMzUHpNQXFJRmRGN2ltOWM0RUozbGJVWklQWWJ6SERIY2JlZmlrWkdYSUI0M3pxdkxCeFRBNksxTkg3M1BSUU9rX2NrSFVnQkowaDBtMEE?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-03T08:05:56Z",
-      "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=8ohSomjUWuUQ7kNvwEC8QpO&_nc_oc=Adozr7mkbd-4MSuN1ueNczIEeh9-tHCVQLj5sg83wxD07unxLnIjZ3EtDC0l2aNB4k4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ll1CJ4RHp8rZaxW1IP0BEg&_nc_ss=7820f&oh=00_AQI8Bb3KF3Y8teHxWKyE0NTunt3r3nO6VoXhcLu1QoKdhQ&oe=6A9F11F7",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
+      "title": "Estados Unidos impõem tarifas de 100% sobre drones para travar domínio chinês - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHVPVUZtUW9EYnVFeUN5ZEJYaEpNNk9lVzNWaHpVbGNpOEg5NndJbGtXNm4zcUd6eDNvVlFVXzByUlpCWmpXdy1VVnVlbWJQUVhHOG91OTd0QXpoZUlMRVlnNmt2RWNFZ0pOY1hCVnppM1lyY1luSmF3SloxOFl0dzJSRUNpMHNsaWwxcEtoVmFWbUItanhhbXE5a1BMWVZvblFrTnkzOVdoT1k5em5MdS1UQkNTYXN6ZXVDUA?oc=5",
+      "source": "Euronews",
+      "publishedAt": "2026-09-03T06:08:40Z",
+      "description": "Entraram em vigor na quinta-feira novas tarifas norte-americanas até 100% sobre drones e componentes, numa tentativa de reduzir a dependência de fornecedores chineses liderados pela DJI",
+      "image": "https://images.euronews.com/articles/stories/09/89/94/66/1200x675_cmsv2_f18b526b-6153-5b6d-91e3-7166baf34dc7-9899466.jpg",
+      "articleUrl": "https://pt.euronews.com/business/2026/09/03/estados-unidos-impoem-tarifas-de-100-sobre-drones-para-travar-dominio-chines"
     },
     {
-      "title": "Putin pretende terminar guerra, mas negociar com os EUA - observador.pt",
+      "title": "Reservas de gás da União Europeia estão no nível mais baixo em 15 anos - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEdkdUw3VlNONjYtd3Fxd3NMc2dmXy1CSXpMUXJxX0l3cl9FU0ItYlByY3ZOaG1teG5OaEJuWGVFc21MbnpHQ1ZkX1JybWlhUFlucVowRm9lRXc0a2djLWVmZm1sWjBWZm1BM3hvWUh4YnVXRUtLQkQ2N19qRTZpSTE3NGJvY3ljTDJBVmNJbUV1YXhRY09lbmFWT1VQMUFSa01jemtzSndabkk5dERTQzdR?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-03T07:25:00Z",
+      "description": "De acordo com a publicação BiGo Finance o nível de reservas de gás que a União Europeia detém nesta altura deve-se a um erro de cálculo. O bloco europeu vinha adiando as compras de gás na expetativa de que o conflito no Médio Oriente, que se iniciou em fevereiro entre Estados Unidos, Israel, e Irão, tivesse um desfecho rápido, permitindo que o gás natural vindo do Qatar…",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/07/gas-natural-segundo-plano-e1784195627775.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/reservas-de-gas-da-uniao-europeia-estao-no-nivel-mais-baixo-em-15-anos/"
+    },
+    {
+      "title": "Putin pretende terminar guerra, mas negociar com os EUA - Observador",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkF5cElMVUlBcDY0aDFWZ1FNZ1FKSVVfOEFrMDF2NmQtVmhuOVgxcmVSakdVOGRqaUhBRUhRUUw5ZkY0eW5VakFrUFJyaVRLU3k0Zl9HRDc1YXdwc24wLXE3ZVoxOTVOcm1iMVo1Qjl5WnltTXdYX0w2Tkd5TGpGaW9DRlRhRFdzZXZkQkNIWkZZVDNPNDBjSUxlWkNySDZ5NHZVSEtseWFoTk5UaC1NU2ZQcGVTVVVNNW1uSndtbWtlRkRzbm15NENnamdyc2QxZm1xcjFCbnVRNkQ0bUFFZnZrbw?oc=5",
-      "source": "observador.pt",
+      "source": "Observador",
       "publishedAt": "2026-09-01T23:21:46Z",
       "description": "O Presidente russo garante que não quer \"congelar\" o conflito, mas manifesta preferência em negociar com os Estados Unidos e rejeita conversações com a Ucrânia, que apelida de \"terroristas\".",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A114%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F01180221%2F47697094.jpg?layer=obstop:T",
@@ -137,15 +146,6 @@
       "articleUrl": "https://www.publico.pt/2026/09/02/mundo/noticia/ue-nato-prometem-maior-pressao-russia-escalada-leipzig-2186809?ref=hp&cx=manchete_1_destaque_0"
     },
     {
-      "title": "Ataque de drone em Leipzig: UE fala em “terrorismo” de Moscovo, NATO em “imprudência”, vários países já convocaram diplomatas russos - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcXE3cm9oaHhtX3N2SHczTnN6RjhCSC0zV3JxY29KSmFHZlZwQ2RfMW1iQ2JTS3hrdm1OVHhyYjZaUlg1QzFMeUpzbkxZTkswaExnT09NN1oyQWhmRnY4dzJicEkwWUlMdGRkRkZvWEV6QjBJSVJDMkpZLVVmdko5MVI4Mkk4end4RV84anB6YnlEcGhrc043TEEwRThUX3J1VC1qWEJudld6VXJ6MGhDd3hmeEhpeXZFeVBlMUpVRTBsYjlld19ieklqRTVaZks3Q2o5STc4eXNIZ2ppWTdEUFZXQnZHenY4ZXRJbFFSR0VoTVZLaXRVVS04dUxpS3BnUGJIalRTTGlBWWEz?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-02T13:48:49Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-02-ataque-de-drone-em-leipzig-ue-fala-em-terrorismo-de-moscovo-nato-em-imprudencia-varios-paises-ja-convocaram-diplomatas-russos-2bb30461"
-    },
-    {
       "title": "Guerras no Irão e na Ucrânia estão \"cada vez mais longe da diplomacia\" - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJnTUt0N3NVWl9Nc3JyQlFxMy0wZ2dseEJtUlNFMFJpSHEwNGxFVmtrTmlZTXRGUklhbF92SVkwOXhFWGNYOXlZVGtFcVJCVURYLWZTZXFreENnenhYTE9TRmJnd3I5eFdpOTRNbTd1OGx2RFVZeEZTelFWeEMwd1pFbDZSNjhfVDlMdFF6VkN3angtQWtDSGZpSi10WHUyY1lGVVd1S2V3SV9Gd3l5eTFjTFd5cERfTURlTWhWV1FRS0x4R0E?oc=5",
       "source": "CNN Portugal",
@@ -153,15 +153,6 @@
       "description": "O comentador da CNN Portugal Tiago André Lopes acredita que tanto o conflito entre os Estados Unidos e o Irão como a guerra entre a Rússia e a Ucrânia vão continuar a escalar.",
       "image": "https://img.iol.pt/preset/6a96c1b1d34ed0733ba82d55/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/videos/guerras-no-irao-e-na-ucrania-estao-cada-vez-mais-longe-da-diplomacia/6a97facf0cf2f6a1a1e7616a"
-    },
-    {
-      "title": "Médio Oriente: Estados Unidos e Irão voltam a atacar-se - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1ZaX1VDd3lSQ1lWSjBRTkRMUHZiQ1hGQUt6WThRcE9XX2FBVnN1THZiNWJ6SzBiRVZ3VThSQ2Z3bUdjRDFHM1N2NHpXMWRjLUpwZzd5dTFuTmJoeFZ5SVFsS1RyTUJBRXJqQnVaY2RSSm94alB6RHM5Z1VxSkJoX09nTEJyQzhqOHlhNTcxcG1xcVR0czFQWUt6UFMzcUFhNDhJ?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-02T12:08:15Z",
-      "description": "O Irão lançou nesta quarta-feira uma ofensiva em larga escala após uma série de ataques norte-americanos que inclusive acabaram por enlutar um casamento no sul do país.",
-      "image": "https://s.rfi.fr/media/display/4302e60c-a6a1-11f1-a126-005056bf30b7/w:1280/p:16x9/000-C73X3DJ.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260902-m%C3%A9dio-oriente-estados-unidos-e-ir%C3%A3o-voltam-a-atacar-se"
     },
     {
       "title": "Trump impõe fim da guerra como condição para cimeira com Putin - RTP",
@@ -173,13 +164,13 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/trump-impoe-fim-da-guerra-como-condicao-para-cimeira-com-putin_v1763116"
     },
     {
-      "title": "UE prepara novos fundos para defesa aérea da Ucrânia com mísseis Patriot em falta - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3pzN2JxN3ZXUUN5U2c4RHpmVk1Uc052bmFzYkt0UE1lUG1vWnZKY0d3aU5NVDY4aENNM044Q0tjX1Npc19IUTlnREpPUTRmU0kzanNvS1hUM3oyMnB0VF9ENGFzb3dKN2REbTluUFRGRmxVXzUxU1lpVWREQklUeDdLZWdiSVQ0X3hQbUZ0MlVrbHNiM29Db1MzdjRuWjVMaC1fNjF5a2JWWEt1VlB5Z1Nmc0VPUTAwRzlaV09oVjl4ZzNQ?oc=5",
-      "source": "Euronews",
-      "publishedAt": "2026-09-02T14:36:51Z",
-      "description": "A UE avalia um pedido ucraniano de milhares de milhões de euros para intercetores Patriot PAC-3, numa altura em que a Rússia intensifica os ataques aéreos. Bruxelas espera aprovar o financiamento já na próxima semana e discute um eventual contributo da NATO. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/89/85/82/1200x675_cmsv2_a0378e1c-fa58-555c-b1ff-4d362c2bfcbd-9898582.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/09/02/ue-prepara-novos-fundos-para-defesa-aerea-da-ucrania-com-misseis-patriot-em-falta"
+      "title": "Médio Oriente: Estados Unidos e Irão voltam a atacar-se - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1ZaX1VDd3lSQ1lWSjBRTkRMUHZiQ1hGQUt6WThRcE9XX2FBVnN1THZiNWJ6SzBiRVZ3VThSQ2Z3bUdjRDFHM1N2NHpXMWRjLUpwZzd5dTFuTmJoeFZ5SVFsS1RyTUJBRXJqQnVaY2RSSm94alB6RHM5Z1VxSkJoX09nTEJyQzhqOHlhNTcxcG1xcVR0czFQWUt6UFMzcUFhNDhJ?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-09-02T12:08:15Z",
+      "description": "O Irão lançou nesta quarta-feira uma ofensiva em larga escala após uma série de ataques norte-americanos que inclusive acabaram por enlutar um casamento no sul do país.",
+      "image": "https://s.rfi.fr/media/display/4302e60c-a6a1-11f1-a126-005056bf30b7/w:1280/p:16x9/000-C73X3DJ.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260902-m%C3%A9dio-oriente-estados-unidos-e-ir%C3%A3o-voltam-a-atacar-se"
     },
     {
       "title": "O início de uma nova fase da guerra no Médio Oriente? - SIC Notícias",
@@ -191,20 +182,29 @@
       "articleUrl": "https://sicnoticias.pt/programas/estado-de-emergencia/2026-09-01-video-o-inicio-de-uma-nova-fase-da-guerra-no-medio-oriente--2297cbad"
     },
     {
-      "title": "Trump admite encontro com Putin quando Rússia estiver pronta para acordo de paz com a Ucrânia - Correio da Manhã",
+      "title": "Presidente iraniano acredita que será o vencedor da guerra e agradeceu o apoio de Putin durante encontro no Quirguistão - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNalQ0a0liZjc2dmZpQ1hhYnY1S1Y5Q0tackVEZDlDNi1abW5ybEVwSGZjXzdGQlpXcjVYcW5mdGk3TmhmNm9fVUdQWmZLd3o1ZE9rSk5sUDVUOXNPNXE2a2NvcS1pcTQ3UFEzbmxHc2g5VGJFUUFkVVRHdDBuRUhkQTFWX1VvMzhJNHRWSURyc0tKU0wxOWhsQWFMWWdzVzlacDVJdGQwcDJ6NXpIeDczRVBVQkJuTEZtNFEyRFN1b0ZtX0xRbTNEbzU5WmdLNVp1cFV3NHF2czM5T0NTcThROUFfbGVPYkcySkxnTk0tVlBURWNZS3R6NDJySE94QTFwMkFUQjgyc3k5b1Y2UkNscHZDUWlmX0xQcmYydzh1S09DZjB5THJhVFktTkhBUUFnQnNjMlYycEc0Wmg1a09XU3FRY0hXS3BaSEtTal9kZExLWU53c3k5MkVVZnJ5dXVaeF92Y2tTS1hLSm4tUmc0UkNMX1VqVTRIM0RBTGxUei03M1RfVXdFZDJMZGw5NzdJTTllZGtvaDNVX0Y0TjZIZ05DRzdNVmJmY3kwMmxqR0FjLXlmWl9TMU03VVowcUFMTG8xbEg4bDQzRW5wTlhETGVpNG9CZGE2OG1GUEZBajVhNUpQdFE4N0pjR2g0c1JpbVVHa3ljXzY0blpUbHhreXFtSS1mZk95b1VVdDgyNlhNdWlIcExKODZoWWxNTHNUelRaV2R5NzA1V1FMeXBkWXV2aDZhaEx1U0d0WHNBclZ4dWlWWlE?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-01T15:46:18Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-01-presidente-iraniano-acredita-que-sera-o-vencedor-da-guerra-e-agradeceu-o-apoio-de-putin-durante-encontro-no-quirguistao-bfced4e3?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/medio-oriente/conflito/2026-09-01-presidente-iraniano-acredita-que-sera-o-vencedor-da-guerra-e-agradeceu-o-apoio-de-putin-durante-encontro-no-quirguistao-bfced4e3"
+    },
+    {
+      "title": "Trump admite encontro com Putin quando Rússia estiver pronta para acordo de paz com a Ucrânia - cmjornal.pt",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRERMd1V4UEwtcnJFcGhtSGhpYVN0MFRxTVRTSmFVQXI1RjlUSEpuZzV1dDI4bjNra09aYW5ZSGRXLWxuai16TUZ4LWlBTjl3aXFOT2RMN3lOQjUxWUZzMHk1cjNmYWJnaUNqdUo5ajdzbjlTUm1teTJNSXFPcDB4THM1ZXpFQTdJaDE1bnN1TU5wNm5sUExZLWxaUXlrYi1ZT1UwSnMxREwzV2hBMllNY0Z6a0RwUXhLeHp2YVY4TllRMUxreTEtRWNtVWJmNi1WQXRmZFBfZHQ3SUhPQTRYbmNNa1JLSVF0TEFOMmZkc0QyZmFTVnZTd09R0gH0AUFVX3lxTFAwT25faHpTSkNXVEEtUjdNLVVnUGQyZC1pWFZmaW01R3BGb2FLdmRIczJndjEyaEhrdUN0aC1id0xZUVJmTzZ5ZjctMURucGg1M1hFVzdBQTExZ2lhV2pGTFlFdWNWTVVWYWFGVlVkSUlJY1UyR19lRGEyVGhqUmJQQ1A4TUN3a2lyalEtSGtVU29JbmlZdUJ5Q3hNRmJQeVhHUVNzUVlnc1lZYXZxZXluWmlXLVJPcXBNWEw0MkpDTC1JUzRCY1k5Z2dlcWVSckJtNXhtSUJTclQzNG1ldnk4S3lCeS1oZHd6a3o3RFoxejMzaDA?oc=5",
-      "source": "Correio da Manhã",
+      "source": "cmjornal.pt",
       "publishedAt": "2026-09-02T08:41:00Z",
       "description": "Acompanhe ao minuto a evolução da guerra na Ucrânia.",
       "image": "https://cdn.cmjornal.pt/images/2026-09/img_1280x721uu2026-09-03-07-59-31-2306290.jpg",
       "articleUrl": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/putin-acusa-ucrania-de-terrorismo-de-estado-apos-promessa-de-zelensky-sobre-drones-nos-ceus-russos"
     },
     {
-      "title": "Novas sanções à Rússia e Médio Oriente discutidas na Europa - observador.pt",
+      "title": "Novas sanções à Rússia e Médio Oriente discutidas na Europa - Observador",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZF9BbDA5bkFWZjhlMnZmS2p0R3VnNlcwZEFiVHZPLUp6OWE3cFFhY0VIVzUzZURQQzRRU2piczZQOWMzbkc3Zk52LTYybV9KaEl0UlpqcFNwV20wSzdZb2U1eWxyX256T0k2QS1Ob2FIU251R3FWVEVDMDBOTURUNUVidWRfd0EwU2pFUlR3UFg0MmtqT1pUbDVaZG51MFA0OW9qSWZwQVVEMUZMd2dmeVp4eWJ2OHdubTd1QTFUcWNzVi1hT2MxUUM3LXZCU0NnTXl4UnNWNTIzYm81Z2ZadGM1bDBDMnc?oc=5",
-      "source": "observador.pt",
+      "source": "Observador",
       "publishedAt": "2026-09-02T09:39:56Z",
-      "description": "Notícia publicada por observador.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
