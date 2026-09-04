@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T07:27:26.062681Z",
+  "updatedAt": "2026-09-04T08:29:54.522240Z",
   "health": [
     {
       "title": "Pacto para a Saúde. Maioria das entidades já foi ouvida, Seguro fará primeiro balanço no final do ano - Público",
@@ -11,6 +11,15 @@
       "articleUrl": "https://www.publico.pt/2026/09/04/politica/noticia/pacto-saude-maioria-entidades-ja-ouvida-seguro-fara-balanco-final-ano-2186676"
     },
     {
+      "title": "Hospital Dona Estefânia foi palco de demissão em bloco - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXAzTWdJaWpfRzB3UVRhZkZXSno3UTNNM1ptSzYtTGoyY2xmVEVhSGt2YnVrbnUtMEVPN2lTR1F0SXlnaFo1NXJqZUVlWUhIYkJ5YUQwcDRsSFZzWG5odWdtclJNUEUtZGJkNnFFWVFwSnNjQUtKekVNVG1aNk5MRkV0dXRJQXJhUU1Zdnl1OXZQRjA3WVRoS2dlMkFxV2h1TkE?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-04T07:32:28Z",
+      "description": "Todos os os chefes de equipa da Urgência Pediátrica apresentaram a demissão, alegando falta de condições para assegurar o serviço, em especial a falta de anestesistas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/01/01a6bef1e67c6d8d33e6d058b054453c?w=860&q=90&rect=0,0,711,390&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/politica/hospital-dona-estefania-foi-palco-de-demissao-em-bloco_v1763269"
+    },
+    {
       "title": "PRR: Serviço Nacional de Saúde tem a pior taxa de pagamentos - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVpMaDVCUExwdEJSZDJOUEZtNTc3Yy0tcE8tb0lzaS1leGp3NWU2UXNTMl9LOHhGWG83dnZMbURKdXJybG02cXBBVkFvc2REOTd5cmF3OXVuOWxYdUxyUklrWURqaHhERnBVWko3VXpjVXkyY3p6UUpvdzB0OWxkUnVNZGczX0FqeFJkRVN0bGlyU3hOSlhXd3NXT1FmT2pLWk4w?oc=5",
       "source": "Jornal Económico",
@@ -20,31 +29,22 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/prr-servico-nacional-de-saude-tem-a-pior-taxa-de-pagamentos/"
     },
     {
-      "title": "#Eufrásio – O Profissional de Saúde - Observador",
+      "title": "#Eufrásio – O Profissional de Saúde - observador.pt",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZFpYVEMzYmloNUUzQ0NNYkdWdHVPeTZDVnhqdnl1ZFdSWGVHUy1yUVVHbU91WUhXd216RllTUWZEYzFxc01HVlEwV1lyb2JldG12TVJYdGp3OHNBbC1uWENDQzlmN3FIcDJZbkstUG0?oc=5",
-      "source": "Observador",
+      "source": "observador.pt",
       "publishedAt": "2026-09-03T23:01:25Z",
       "description": "Ficámos atónitos. Por breves momentos refletíamos no nosso percurso e nas convicções que enviesadamente e por paralaxe tomávamos por realidade.",
       "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F05%2F03092808%2Fphoto-2021-04-28-22-24-06.jpg",
       "articleUrl": "https://observador.pt/opiniao/eufrasio-o-profissional-de-saude/"
     },
     {
-      "title": "Literacia em saúde em debate durante dois dias em Coimbra - healthnews.pt",
+      "title": "Literacia em saúde em debate durante dois dias em Coimbra - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHFIZ2picFdSS2NJMVNZYUw2YWhWdVk5Vm1GcmJtMlFSbkE3cUtUNzFDa0otWUJUNzc1MXFQRDJqZ0IyT1VTd05UMWRxZU8td1RxYVctLXAyb0VfVHl2ZXlnVy0wSklJUkZudW5pREdSVDdfMWExbTVFSDM3dHVjT0tMM21fZTllUUdHWU94OURUYTUycmc?oc=5",
-      "source": "healthnews.pt",
+      "source": "HealthNews",
       "publishedAt": "2026-09-04T06:51:34Z",
-      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/04/literacia-em-saude-em-debate-durante-dois-dias-em-coimbra/"
-    },
-    {
-      "title": "Balcão SNS 24 reforça acesso aos serviços digitais de saúde em Alfarelos - SPMS – Serviços Partilhados do Ministério da Saúde",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzhCQUs0VkNfQnZ4akxrUmVwdXdaSXBRUWxWVWNXVVJmSTFJN0dIVW82RUxNV1FxUkYwNzVxeDh1amcySnNsYTRWeGNRcTFSY0FGWjhhUUJxT3Q2aml4QVhMLUJxdDhxVkFvWUROS01sS0NTYTlXNzVicFpZMWxXMVJlRmxjUUZzcE9GejdhbklDeXloOVdhbC1UdGxReGVqOGtBUjVPc0tuUGd5aFYwYQ?oc=5",
-      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
-      "publishedAt": "2026-09-03T20:40:12Z",
-      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.spms.min-saude.pt/2026/09/balcao-sns-24-reforca-acesso-aos-servicos-digitais-de-saude-em-alfarelos/"
     },
     {
       "title": "DGS alerta para poeiras do Norte de África e aconselha população vulnerável a permanecer em casa - Expresso",
@@ -54,6 +54,15 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/meteorologia/2026-09-04-dgs-alerta-para-poeiras-do-norte-de-africa-e-aconselha-populacao-vulneravel-a-permanecer-em-casa-47f3d27a"
+    },
+    {
+      "title": "Balcão SNS 24 reforça acesso aos serviços digitais de saúde em Alfarelos - SPMS – Serviços Partilhados do Ministério da Saúde",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzhCQUs0VkNfQnZ4akxrUmVwdXdaSXBRUWxWVWNXVVJmSTFJN0dIVW82RUxNV1FxUkYwNzVxeDh1amcySnNsYTRWeGNRcTFSY0FGWjhhUUJxT3Q2aml4QVhMLUJxdDhxVkFvWUROS01sS0NTYTlXNzVicFpZMWxXMVJlRmxjUUZzcE9GejdhbklDeXloOVdhbC1UdGxReGVqOGtBUjVPc0tuUGd5aFYwYQ?oc=5",
+      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
+      "publishedAt": "2026-09-03T20:40:12Z",
+      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.spms.min-saude.pt/2026/09/balcao-sns-24-reforca-acesso-aos-servicos-digitais-de-saude-em-alfarelos/"
     },
     {
       "title": "Utentes do SNS esperam meio ano por primeira consulta com psicólogo - dnoticias.pt",
@@ -74,50 +83,32 @@
       "articleUrl": "https://funchalnoticias.net/2026/09/04/04-setembro-dia-mundial-da-saude-sexual/"
     },
     {
+      "title": "'A Madrasta': Xavier é assassinado no hospital - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG9Yb1pNTW50N2VkOHBQanNydldoNlptYU5fWmRCa25pU01jWGg0TV9tdnRZWkp5RXhKUDljS0lyaWtYUHY3ZTVyTTN4N0daZF9Zc0R0OHNzLTNzazB4ZWlYWkxKZ09yb2dSRDdPa0FDSzBTOE1qb0h4X1RoSU5tdWxIWTVfcWlvZFJQMU90R2kxSmFkdTNkTUp3Z25DNUdFZzhj?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-04T02:00:00Z",
+      "description": "O empresário tinha marcado uma reunião com todos os suspeitos para revelar quem é o assassino de Artur.",
+      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x721uu2026-08-27-15-12-41-2305021.jpg",
+      "articleUrl": "https://www.cmjornal.pt/tv-media/boa-onda/novelas/detalhe/a-madrasta-xavier-e-assassinado-no-hospital"
+    },
+    {
       "title": "Timor-Leste elimina tracoma e fortalece vigilância sanitária - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UTkFZa0V4Zjc2TjJEczVLbGFjbzMxeVFRQk9LQlc1Zlk4UnphMjMySW4zSmkta0FtQ1FYMUJfUEE0RzQxdzA2TE9rNzlYeHluVnBTc0dMUQ?oc=5",
       "source": "UN News",
       "publishedAt": "2026-09-04T04:04:00Z",
-      "description": "Após anos de estudos epidemiológicos, país recebeu validação internacional pela eliminação do tracoma, tornando-se referência em saúde ocular no Sudeste Asiático; resultado fortalece políticas de saneamento e amplia compromisso com meta global de erradicar a doença até 2030.",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-10-24_WHO_India_Trachoma.jpg/image770x420cropped.jpg",
-      "articleUrl": "https://news.un.org/pt/story/2026/09/1854262"
-    },
-    {
-      "title": "Receção aos estudantes de Medicina - Universidade de Aveiro",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DQU50SDRkRW1VOFR3ek9GY2M3Y003Z0h3aUpqUGlIT2txZnFSczVMS2Y0VlJzTEE4TFVtU2txWTJVMkdvSlN5WFl0b0FjdWc?oc=5",
-      "source": "Universidade de Aveiro",
-      "publishedAt": "2026-09-04T00:14:39Z",
-      "description": "Notícia publicada por Universidade de Aveiro. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.ua.pt/pt/noticias/11/99156"
-    },
-    {
-      "title": "'A Madrasta': Xavier é assassinado no hospital - cmjornal.pt",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG9Yb1pNTW50N2VkOHBQanNydldoNlptYU5fWmRCa25pU01jWGg0TV9tdnRZWkp5RXhKUDljS0lyaWtYUHY3ZTVyTTN4N0daZF9Zc0R0OHNzLTNzazB4ZWlYWkxKZ09yb2dSRDdPa0FDSzBTOE1qb0h4X1RoSU5tdWxIWTVfcWlvZFJQMU90R2kxSmFkdTNkTUp3Z25DNUdFZzhj?oc=5",
-      "source": "cmjornal.pt",
-      "publishedAt": "2026-09-04T02:00:00Z",
-      "description": "Notícia publicada por cmjornal.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por UN News. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "‘Big Health’: medicina tradicional chinesa ganha rota internacional - plataformamedia.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTRWdllTT29Ldy1ZOGdtaWVYWXpqeFg3aWFYUkN4MkpJT2NZX0Z6cU0tbVJuX1NoR0JqOUpJcFBHOGx6TEhIUE92TnVMVHNadHB2R2ZwUVpUcGNVTXVKOEplSm5Od29rRFJ1WjZGQkhacFNoZlFGTnVBdFFNRGdqTEVLekY1WjdDUnJBNkVIQ0dMRmtBMWdOQkVVSDk3eDJEZFg1Y3ViQTBuN0V2?oc=5",
-      "source": "plataformamedia.com",
-      "publishedAt": "2026-09-04T05:13:24Z",
-      "description": "Notícia publicada por plataformamedia.com. Abra o artigo para consultar os detalhes completos.",
+      "title": "Almofada das pensões “é um paliativo para uma doença que é demográfica” - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdTlZcXhoV2ZiYWs4OGRSb2RybWFaZ0ZZRDZIRk1mQlhUV25RZ1VxckdDVFRYV1hGcElnS1p0b2VLSkFoTkk4VlFiN0xXTDAyQk9hUkJVZnYwZVRaX3hoOHZtYkRxdVRSRWRfMnZITmE4cHR1WHVBaXhsaDBITGlrbUtDQ29YNThsTkQtaGswQnl6amlvYTVQMDhGcWU5aGZlcjV4TFlYZDE1V0FvTXhYZg?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-04T05:47:00Z",
+      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
-    {
-      "title": "Trump garante munições \"quase ilimitadas\" para guerra com o Irão e acusa críticos de \"traição\" - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3U1MTFjNDk0dUw3VTF2ckQ2RnRQamlpN0ZCN0thcEc0X05OdE9xWngzUW5wdEkwZERxeEZBUzNoTDVYZUxKZEVaQ1lQV3JoNHZ2ODNTMUFIcW1UU0RKR1FIcXV6eXFMbUc0VWk0elhNbG1IMy1wS05yUFpMVWdhOHdZbUtDb1RNeTFTUmFBZHhBUS1ueTFlVW9EVDdWaVRyWFZaRFZITlhKTmR0MTZiaGdKS3hFdl9teGN0YnZwWlJkZw?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-03T21:08:42Z",
-      "description": "Seis meses depois do início do conflito, o Presidente norte-americano diz que os EUA acumulam produção recorde e retomam em breve vendas de armamento a aliados.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F03201536%2F47705930.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/03/trump-garante-municoes-quase-ilimitadas-para-guerra-com-o-irao-e-acusa-criticos-de-traicao/"
-    },
     {
       "title": "Trump elogia resultados dos EUA na guerra - RTP",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDFrVTRGbEFCS196NzJWZ1hsdURXYWFSZXoyZ0RlbjNFbmZ2LTZuS1NnOW85TlctaUVqV0ljTXBzYkg3WDdlS1VkYi1XNjFDVUwxVl9jdjN2dklVZ3FEMk9JWHZqN2puNEh2b0M0VnY2U1dXOWNQOFVmTGdfXzZoR0VUVGI4NVNFMmpIaw?oc=5",
@@ -142,26 +133,8 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-03T08:05:56Z",
       "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwG_0cBB&_nc_oc=Ado2jEVbTwKSL2SqC-OeRbtX70YgXz22vM4MjZ39UoA-QwWtBQWjzATl4htJARKleIA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=FTpS9zvpAOU0K9mbuYPKPA&_nc_ss=7820f&oh=00_AQK2BOz0_L_8OojAgar0BRqXd39AshHgux9luDthi0WGaA&oe=6AA02B37",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwF4akOK&_nc_oc=AdptfzyTSMOnzDgDCkrGT9qzkvP7ZA0bf3bZjAdpW45Jz9heQ236dOkh2W0Rvm-g7Zk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=bCtjTBU9JzMYnsNRdSsMlQ&_nc_ss=7820f&oh=00_AQKZ591Mw7ShkHGHQSUM5oq6dtGJHBQJSLysf-WVBG6XuA&oe=6AA06377",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
-    },
-    {
-      "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWE5OVUZrbExzZHpqSXZpSHpNbEgtOE5xMEVKZzQxbGF0a1BvWXpGOHNva2dFZWFTR2pNNXJnY0xZY3FhUHA5NzlXWFJYVVRTWUNJZ1hKR2FCNUJwdVZUUVFvSU0yXzlwVUUyZk9mV1JxRGhUNHlDYUstVVlaMHNHR1BzQmtyeFBQVnNwcVVKQktKd1c4U2llOTlGcDg3ZlJ2czBTczBmOG91X2cwUWRORV9XUktFTWs?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-02T23:05:41Z",
-      "description": "Competição geopolítica também se disputa no Ártico. Rússia e China jogam as suas cartadas, Estados Unidos tentam recuperar do atraso e responder.Os chineses est",
-      "image": "https://media.assettype.com/dn%2F2026-09-02%2Fqeeminxz%2FPhotoAliciaGarciaHerrero001.jpg?rect=0%2C286%2C2570%2C1349&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/internacional/a-china-usa-o-rtico-porque-precisa-de-rotas-que-os-estados-unidos-no-consigam-fechar"
-    },
-    {
-      "title": "Putin apresenta proposta a Trump para acabar com guerra no Irã - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSERoRFBpaVd5bE1OT1VuVnN6YnhJTE5uV3RGVjhOS1Fzd3F3SHhJdUtsRjVjZ09vQjhGNTlZWTJVc3lZYXJZcFZLU0VZRnhkZjhhT1EyNE1nTy0zczVxWTZxZWp4TnRHQVJBb2k5Vk56Y1NDVFVLb3g5YUEtOWJydERSemFCaExPNGs1YzJQTERhaTQ5YWhRWGVZemM2U1BlbUplMEpqV1BrQQ?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-04T03:43:54Z",
-      "description": "Presidente russo conversou com líder dos EUA por telefone nesta segunda-feira, segundo o Kremlin",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL7E0WW-BASEIMAGE-e1760636094846.jpg?w=800&h=451&crop=1",
-      "articleUrl": "https://www.cnnbrasil.com.br/internacional/putin-apresenta-proposta-a-trump-para-acabar-com-guerra-no-ira/"
     },
     {
       "title": "Zelensky anuncia nova ronda de contactos entre EUA, Rússia e Ucrânia enquanto Putin admite “possibilidade” de paz - SAPO",
@@ -171,6 +144,15 @@
       "description": "O presidente ucraniano, Volodymyr Zelensky, anunciou que representantes dos Estados Unidos deverão deslocar-se em breve a Kiev e Moscovo para retomar os esforços de negociação. Vladimir Putin admite que existe uma possibilidade de alcançar um acordo de paz, enquanto Donald Trump diz querer pôr fim à guerra.",
       "image": "https://mb.web.sapo.io/1120af38ef929a9b526e061751c96c0dab966a80.jpg",
       "articleUrl": "https://sapo.pt/artigo/zelensky-anuncia-nova-ronda-de-contactos-entre-eua-russia-e-ucrania-enquanto-putin-admite-possibilidade-de-paz-6a9a6b53263e5ff8548cd524"
+    },
+    {
+      "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWE5OVUZrbExzZHpqSXZpSHpNbEgtOE5xMEVKZzQxbGF0a1BvWXpGOHNva2dFZWFTR2pNNXJnY0xZY3FhUHA5NzlXWFJYVVRTWUNJZ1hKR2FCNUJwdVZUUVFvSU0yXzlwVUUyZk9mV1JxRGhUNHlDYUstVVlaMHNHR1BzQmtyeFBQVnNwcVVKQktKd1c4U2llOTlGcDg3ZlJ2czBTczBmOG91X2cwUWRORV9XUktFTWs?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-02T23:05:41Z",
+      "description": "Competição geopolítica também se disputa no Ártico. Rússia e China jogam as suas cartadas, Estados Unidos tentam recuperar do atraso e responder.Os chineses est",
+      "image": "https://media.assettype.com/dn%2F2026-09-02%2Fqeeminxz%2FPhotoAliciaGarciaHerrero001.jpg?rect=0%2C286%2C2570%2C1349&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/internacional/a-china-usa-o-rtico-porque-precisa-de-rotas-que-os-estados-unidos-no-consigam-fechar"
     },
     {
       "title": "União Europeia sem risco imediato de abastecimento de gás apesar de reservas baixas - dnoticias.pt",
@@ -191,6 +173,15 @@
       "articleUrl": "https://www.publico.pt/2026/09/02/mundo/noticia/ue-nato-prometem-maior-pressao-russia-escalada-leipzig-2186809?ref=hp&cx=manchete_1_destaque_0"
     },
     {
+      "title": "Trump garante munições \"quase ilimitadas\" para guerra com o Irão e acusa críticos de \"traição\" - observador.pt",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3U1MTFjNDk0dUw3VTF2ckQ2RnRQamlpN0ZCN0thcEc0X05OdE9xWngzUW5wdEkwZERxeEZBUzNoTDVYZUxKZEVaQ1lQV3JoNHZ2ODNTMUFIcW1UU0RKR1FIcXV6eXFMbUc0VWk0elhNbG1IMy1wS05yUFpMVWdhOHdZbUtDb1RNeTFTUmFBZHhBUS1ueTFlVW9EVDdWaVRyWFZaRFZITlhKTmR0MTZiaGdKS3hFdl9teGN0YnZwWlJkZw?oc=5",
+      "source": "observador.pt",
+      "publishedAt": "2026-09-03T21:08:42Z",
+      "description": "Seis meses depois do início do conflito, o Presidente norte-americano diz que os EUA acumulam produção recorde e retomam em breve vendas de armamento a aliados.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F03201536%2F47705930.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/03/trump-garante-municoes-quase-ilimitadas-para-guerra-com-o-irao-e-acusa-criticos-de-traicao/"
+    },
+    {
       "title": "Ataque de drone em Leipzig: UE fala em “terrorismo” de Moscovo, NATO em “imprudência”, vários países já convocaram diplomatas russos - Expresso",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcXE3cm9oaHhtX3N2SHczTnN6RjhCSC0zV3JxY29KSmFHZlZwQ2RfMW1iQ2JTS3hrdm1OVHhyYjZaUlg1QzFMeUpzbkxZTkswaExnT09NN1oyQWhmRnY4dzJicEkwWUlMdGRkRkZvWEV6QjBJSVJDMkpZLVVmdko5MVI4Mkk4end4RV84anB6YnlEcGhrc043TEEwRThUX3J1VC1qWEJudld6VXJ6MGhDd3hmeEhpeXZFeVBlMUpVRTBsYjlld19ieklqRTVaZks3Q2o5STc4eXNIZ2ppWTdEUFZXQnZHenY4ZXRJbFFSR0VoTVZLaXRVVS04dUxpS3BnUGJIalRTTGlBWWEz?oc=5",
       "source": "Expresso",
@@ -200,19 +191,28 @@
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-02-ataque-de-drone-em-leipzig-ue-fala-em-terrorismo-de-moscovo-nato-em-imprudencia-varios-paises-ja-convocaram-diplomatas-russos-2bb30461"
     },
     {
-      "title": "Será que Putin está a tentar manipular Donald Trump? - Observador",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JrQ0dNeUx0TEtaSEJ1dlhSamhyZzF0SWtncENMal9LeExIUXVZUUJkdm9qWHU4dm9wNk1FQ1Fza2xCSVl2a1c3WVI3VEVwWjVYQjBrZ0pQUlBJVXZqcGtUeVFLZ1h0bHFncElzMWR1azBIR3d5R1FsU1NxSkFldURZMmNjTmJTQlZmQkdFTXp4SDJCYUhhRnFWcXo0MmZtUlFjck5n?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-03T19:54:17Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "title": "União Europeia com consenso amplo para adotar \"sanções muito exigentes\" à Rússia - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZnp1cEszM1dERndZYi1taWNqUlNMSUstaV9GM0doMHk0MkZHa3Fjdnc3ODlwdVhrdEdyVjgtRk1DLThGaHZkVncxZ1dxNFduU05MVGFBb085ZkpPZ0ZCSE43amdGRWhtMzVzaEd5enI0YVkycUc2RWdQazZLamJZRmFzOVFkX0pjd044OGw0VjBGTi1la2ZNRFhkT2UtR1JoaWsyclp3TXU5QWdTeUNDOWo3bXlVN1dkUUxGbDlTNHBPVGRfRm1qcTJWcFc1TlRHLVNiZFVMbVBRZWpiNGhj0gHaAUFVX3lxTE5USEFiMEROb19vRWZabXJhU2ViNWJXS0UtRWZqZ2pzaWdzcEl2WkF4QlZGZy03VlhwcjBKWVI4dV9STkxucHV4S2ptaFdNSmlsNURuMGNzbG5aZzA5a0JVTVJXU1JQRnRtYXU5MjAtRTlfcXFnM2YyeUV0VDMwRV9MSTE5b09XdXBoWEpGSHFFRGFlWkRDdW5vRVgxZlZFSGY0NElSQklVeWVHZ0ViYmlLZ1FETzV2WTlNWlJuNFVDcF9XdzVuWGozQzJSbEpYLUYtZVl6aHhKX2FB?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-02T15:27:55Z",
+      "description": "Paulo Rangel recordou que a UE já tem 'muitos indivíduos e empresas sancionadas', mas indicou, que neste caso concreto, 'seria um pacote verdadeiramente de uma dimensão muito, muito grande'.",
+      "image": "https://cdn.cmjornal.pt/images/2026-03/img_1280x721uu2026-03-20-10-01-09-2273626.jpg",
+      "articleUrl": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/uniao-europeia-com-consenso-amplo-para-adotar-sancoes-muito-exigentes-a-russia"
+    },
+    {
+      "title": "Trump diz que EUA cobrarão da Europa pagamento retroativo da ajuda enviada à Ucrânia - Opera Mundi",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzh0M0lHbmMwaUF2c002X2RGcEg5NzdhYUxPVzIxaVVsaDNSdU56MHdzLXBVdWcweWlsNHZxejBWbHJlU2VUUGdUT3VqUDNjZ0lsbGtPQjVmd1VtRGJSU1VDdl9ldkU3bXUwYVE1bzNaRmIyQ3B6c21EWkxDS2dEYzI3NlViWDNlNWlJbTRLYmZoZjJ2Y2QxRTJlWC1nT0pVbGt2bThZY0xKZUpBYU54RzZzRGJGVkVNNWQ2R05Uend3dGxmYWtrVmNB?oc=5",
+      "source": "Opera Mundi",
+      "publishedAt": "2026-09-03T22:40:00Z",
+      "description": "Notícia publicada por Opera Mundi. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "União Europeia com consenso amplo para adotar \"sanções muito exigentes\" à Rússia - cmjornal.pt",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZnp1cEszM1dERndZYi1taWNqUlNMSUstaV9GM0doMHk0MkZHa3Fjdnc3ODlwdVhrdEdyVjgtRk1DLThGaHZkVncxZ1dxNFduU05MVGFBb085ZkpPZ0ZCSE43amdGRWhtMzVzaEd5enI0YVkycUc2RWdQazZLamJZRmFzOVFkX0pjd044OGw0VjBGTi1la2ZNRFhkT2UtR1JoaWsyclp3TXU5QWdTeUNDOWo3bXlVN1dkUUxGbDlTNHBPVGRfRm1qcTJWcFc1TlRHLVNiZFVMbVBRZWpiNGhj0gHaAUFVX3lxTE5USEFiMEROb19vRWZabXJhU2ViNWJXS0UtRWZqZ2pzaWdzcEl2WkF4QlZGZy03VlhwcjBKWVI4dV9STkxucHV4S2ptaFdNSmlsNURuMGNzbG5aZzA5a0JVTVJXU1JQRnRtYXU5MjAtRTlfcXFnM2YyeUV0VDMwRV9MSTE5b09XdXBoWEpGSHFFRGFlWkRDdW5vRVgxZlZFSGY0NElSQklVeWVHZ0ViYmlLZ1FETzV2WTlNWlJuNFVDcF9XdzVuWGozQzJSbEpYLUYtZVl6aHhKX2FB?oc=5",
-      "source": "cmjornal.pt",
-      "publishedAt": "2026-09-02T15:27:55Z",
-      "description": "Notícia publicada por cmjornal.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Petróleo Brent cede com incertezas no Oriente Médio e falas de Putin - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDI0WldiNGNaRFltWXBKNGJtb0F1TXUzT05Ia2FBSGplRWpsRkZmaG5TMmZuNTJYTVNuT2JhaDZsVVRBSHUwTWcyZXlULXZpbERDdDduQkFYdWs1RlBLVnRZUzJ5ajc3ZnBleUhhbXBMWlVzWXR1MmNwaXNIZFB4SDNNM3NSQWR2a20tcQ?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-03T13:05:06Z",
+      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
