@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T09:28:10.587876Z",
+  "updatedAt": "2026-09-04T10:28:10.726430Z",
   "health": [
     {
       "title": "Pacto para a Saúde. Maioria das entidades já foi ouvida, Seguro fará primeiro balanço no final do ano - Público",
@@ -11,6 +11,15 @@
       "articleUrl": "https://www.publico.pt/2026/09/04/politica/noticia/pacto-saude-maioria-entidades-ja-ouvida-seguro-fara-balanco-final-ano-2186676"
     },
     {
+      "title": "Leucemia Linfocítica Crónica: viver bem, mesmo com uma doença crónica - cnnportugal.iol.pt",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdnNORy1OaXJKeEkwelFublk5ellFR3RSMHNEOC1UaEhwY0VUS2hxVmk1LW5SWjgwblNHY21vblVGSktOZFNQX2VhM2dFUkJ0MmRyaVM1a1FJT0pCUTU1SE9tN0dtd2lJTll0VEQ2Wk1xTkhLTEpVM25HajdTXzJkdTdVTy11YzZPRklBUlJpdmowZ0piWVpCZm5UR3F4ZDhtenVtcDFwNW10V3NTSEM1aXhFM0hWVjNqUERLZlhkZjUyZnBxdDZoRnlXbTFIRTVMcXdHOEhWNm1ZcmkxendXRGlCQ2RLSld5NWhEcnd1V0g?oc=5",
+      "source": "cnnportugal.iol.pt",
+      "publishedAt": "2026-09-04T09:00:00Z",
+      "description": "CNN Portugal",
+      "image": "https://img.iol.pt/preset/6a998d97d34e511da0b36b9f/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/saude/leucemia/fatima-ferreira-leucemia-linfocitica-cronica-viver-bem-mesmo-com-uma-doenca-cronica/20260904/6a998e5ad34e511da0b36ba1"
+    },
+    {
       "title": "Hospital Dona Estefânia foi palco de demissão em bloco - RTP",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXAzTWdJaWpfRzB3UVRhZkZXSno3UTNNM1ptSzYtTGoyY2xmVEVhSGt2YnVrbnUtMEVPN2lTR1F0SXlnaFo1NXJqZUVlWUhIYkJ5YUQwcDRsSFZzWG5odWdtclJNUEUtZGJkNnFFWVFwSnNjQUtKekVNVG1aNk5MRkV0dXRJQXJhUU1Zdnl1OXZQRjA3WVRoS2dlMkFxV2h1TkE?oc=5",
       "source": "RTP",
@@ -18,15 +27,6 @@
       "description": "Todos os os chefes de equipa da Urgência Pediátrica apresentaram a demissão, alegando falta de condições para assegurar o serviço, em especial a falta de anestesistas.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/01/01a6bef1e67c6d8d33e6d058b054453c?w=860&q=90&rect=0,0,711,390&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/politica/hospital-dona-estefania-foi-palco-de-demissao-em-bloco_v1763269"
-    },
-    {
-      "title": "Leucemia Linfocítica Crónica: viver bem, mesmo com uma doença crónica - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdnNORy1OaXJKeEkwelFublk5ellFR3RSMHNEOC1UaEhwY0VUS2hxVmk1LW5SWjgwblNHY21vblVGSktOZFNQX2VhM2dFUkJ0MmRyaVM1a1FJT0pCUTU1SE9tN0dtd2lJTll0VEQ2Wk1xTkhLTEpVM25HajdTXzJkdTdVTy11YzZPRklBUlJpdmowZ0piWVpCZm5UR3F4ZDhtenVtcDFwNW10V3NTSEM1aXhFM0hWVjNqUERLZlhkZjUyZnBxdDZoRnlXbTFIRTVMcXdHOEhWNm1ZcmkxendXRGlCQ2RLSld5NWhEcnd1V0g?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-04T09:00:00Z",
-      "description": "CNN Portugal",
-      "image": "https://img.iol.pt/preset/6a998d97d34e511da0b36b9f/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/saude/leucemia/fatima-ferreira-leucemia-linfocitica-cronica-viver-bem-mesmo-com-uma-doenca-cronica/20260904/6a998e5ad34e511da0b36ba1"
     },
     {
       "title": "OMS São Tomé e Príncipe Boletim Informativo do 2º Trimestre - Abril a Junho de 2026 - WHO | Regional Office for Africa",
@@ -38,6 +38,15 @@
       "articleUrl": "https://www.afro.who.int/pt/countries/sao-tome-and-principe/publication/oms-sao-tome-e-principe-boletim-informativo-do-2o-trimestre-abril-junho-de-2026"
     },
     {
+      "title": "Tôr acolhe sessão sobre saúde mental e prevenção do suicídio - Sul Informação",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOW9oSFBCTXh0VHVLX2ZpNnFKVm9YaDlkZ3hxeXVLSTdqV05ibDVYT0RwTlV3S1Bwdk9BdzNDTk9LaG9fZ25BWkNzZmI4RTJDckhaZm9Za25hanpPWDdsVjNfVC1pOUFKd1Q2RkkzeGNUVTZaVkh4SjVYSHVfSXBBS3NMYVlZSXA3YjRrTkpqTG9JZ1JVUjN3XzJ5cnBqVXc?oc=5",
+      "source": "Sul Informação",
+      "publishedAt": "2026-09-04T10:00:00Z",
+      "description": "O projeto Saúde Mental 360º Algarve 2.0 vai promover, no dia 10 de Setembro, mais uma sessão “Saúde Mental em Dia”, desta vez subordinada ao tema “Prevenção do Suicídio”. A sessão é organizada com o apoio da equipa comunitária de Saúde Mental de Loulé, em…",
+      "image": "https://www.sulinformacao.pt/wp-content/uploads/2025/01/saude-mental-ajuda-unsplash-scaled-3.jpg",
+      "articleUrl": "https://www.sulinformacao.pt/2026/09/tor-acolhe-sessao-sobre-saude-mental-e-prevencao-do-suicidio/"
+    },
+    {
       "title": "PRR: Serviço Nacional de Saúde tem a pior taxa de pagamentos - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVpMaDVCUExwdEJSZDJOUEZtNTc3Yy0tcE8tb0lzaS1leGp3NWU2UXNTMl9LOHhGWG83dnZMbURKdXJybG02cXBBVkFvc2REOTd5cmF3OXVuOWxYdUxyUklrWURqaHhERnBVWko3VXpjVXkyY3p6UUpvdzB0OWxkUnVNZGczX0FqeFJkRVN0bGlyU3hOSlhXd3NXT1FmT2pLWk4w?oc=5",
       "source": "Jornal Económico",
@@ -45,15 +54,6 @@
       "description": "Entre todas as componentes da “bazuca” europeia, a Saúde destaca-se pelo ritmo mais baixo de execução financeira, com 39%, logo seguida pela REpowerEU — o plano da Comissão para acelerar a transição energética.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/pedro-dominguinhos.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/prr-servico-nacional-de-saude-tem-a-pior-taxa-de-pagamentos/"
-    },
-    {
-      "title": "ADN quer estratégia específica para a saúde mental no trabalho - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHlNVHkwaS1iQ09aMWVpV3ctSlBZSHA2R01PMHlycFU2c1JXYndqeS1UcE1MbF9xdVRCdU9ZcVVKSXo0SXR5aVY4RGh2c25mQ2NLanlROGRqY3Z1cXpFQkxkTkVmenRzbTFoZm1XYk1kVUJtQnNGaEdhSkRXM0FUdzhQampIMVZYVThnTHZ2MlQ0WDdSNXR3bUh0blItbU5zT2s5dmlzQQ?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-04T08:59:00Z",
-      "description": "Partido propõe avaliação dos riscos psicossociais e apoio confidencial",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoIMG_3143.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/4/504269-adn-quer-estrategia-especifica-para-a-saude-mental-no-trabalho/"
     },
     {
       "title": "#Eufrásio – O Profissional de Saúde - Observador",
@@ -92,19 +92,19 @@
       "articleUrl": "https://www.spms.min-saude.pt/2026/09/balcao-sns-24-reforca-acesso-aos-servicos-digitais-de-saude-em-alfarelos/"
     },
     {
-      "title": "04 Setembro: Dia Mundial da Saúde Sexual - Funchal Notícias",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVndfT3E2X1BTdnNrNTlyeHFCeXJkSjQ0NGdSMEJINGthVlktSTAxTHZCWEFKVTdKR3VadnNyb19lN1dicDhlci1BMlhfMU5kY1ZMVi1acGs2X0NyOFN1ZEdiMVZSTTlCM2ctQVM3b1NMWnhMall6bnd3b3hEN2QySmxTMmdLQQ?oc=5",
-      "source": "Funchal Notícias",
-      "publishedAt": "2026-09-04T05:30:56Z",
-      "description": "Notícia publicada por Funchal Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
       "title": "Após alerta da Ordem, Ministério das Finanças aprova documento que permite contratação de enfermeiros - Público",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFRpdTRPU1VnVU9iZUFaY1RsMDlaUlk1dzl3V1l4R3FxSE95SzBHOENVNmRKYmhHci1ZVUk2ZU5GdGdHNi13ZE15OUZkdU12Z1NqYkpkdlRtVWFobV9QNEVMMGdCS0tHXy1oZ3hubUFxVDZpV2EwMzltRDRvLVJrVmd0V0diUXVZb0UyNVItWWNHMVpPbmRYczd6c3RteDZpYkZWWHRuSHhaeTIydDU2dUVZWVRVYlV1T0RZUUlTWllrVEVYMnUwbg?oc=5",
       "source": "Público",
       "publishedAt": "2026-09-04T09:05:23Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Almofada das pensões “é um paliativo para uma doença que é demográfica” - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdTlZcXhoV2ZiYWs4OGRSb2RybWFaZ0ZZRDZIRk1mQlhUV25RZ1VxckdDVFRYV1hGcElnS1p0b2VLSkFoTkk4VlFiN0xXTDAyQk9hUkJVZnYwZVRaX3hoOHZtYkRxdVRSRWRfMnZITmE4cHR1WHVBaXhsaDBITGlrbUtDQ29YNThsTkQtaGswQnl6amlvYTVQMDhGcWU5aGZlcjV4TFlYZDE1V0FvTXhYZg?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-04T05:47:00Z",
+      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -133,7 +133,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-03T08:05:56Z",
       "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
-      "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwEPeOWX&_nc_oc=Ado7o4nOYkJLQGg1fAuvFcLtUal8MtBeqvU4A2Tcpj9AeuHqlq_08B6Ote2e55C0WZo&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=cdBq2G5nTJugfpt-3czQGA&_nc_ss=7820f&oh=00_AQJqJU67PT4j3cEoaNT5LJchxFIytZ7W0JnDH69oe_LneA&oe=6AA06377",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwG2IPKN&_nc_oc=AdqGyTFrd2-czZScgknXQwWs5vKc4q-8bEOewZ-cswJAmOksO-xG4MF12sLhmjfXPOg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5vjF8N9fzf5inkL70hV0cQ&_nc_ss=7820f&oh=00_AQI1H8-DPkK1CwmEG9EJ9ziM0MVp3kEGdI_s5zQ2kfcv2Q&oe=6AA06377",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
     },
     {
@@ -146,18 +146,9 @@
       "articleUrl": "https://www.rfi.fr/pt/programas/convidado/20260903-kiev-na-pr%C3%A1tica-%C3%A9-pe%C3%A3o-do-grande-xadrez-entre-as-grandes-pot%C3%AAncias-major-general-carlos-branco"
     },
     {
-      "title": "Irão. Trump elogia resultados dos EUA na guerra - RTP",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTBRaVZuLXR0SlFIRi13cXNBVDdVbkJlNUpjS3ZsOWNtdWUyeEUzRDhhYmtHNHJfN0c5S1hqc3RpSkk0aExSeWprZW1sQ29lemtOVVpuMDVJWW1PcGQ0RE05VmxWWk1lTXpucUNjRU9RX2FJU0lJN1lSWTdPYUJyTnlGeXJPVUVtdGI1VmhPS3BMaWc?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-04T08:05:17Z",
-      "description": "Donald Trump diz que os Estados Unidos se estão a sair muito bem na guerra com o Irão. O Irão avisou que continuará a responder e a China contestou as sanções de Washington.",
-      "image": "https://cdn-images.rtp.pt/icm/images/6e/6eb457022f741e2fd2926c7ee3816347_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-trump-elogia-resultados-dos-eua-na-guerra_v1763275"
-    },
-    {
-      "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - Diário de Notícias",
+      "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - dn.pt",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWE5OVUZrbExzZHpqSXZpSHpNbEgtOE5xMEVKZzQxbGF0a1BvWXpGOHNva2dFZWFTR2pNNXJnY0xZY3FhUHA5NzlXWFJYVVRTWUNJZ1hKR2FCNUJwdVZUUVFvSU0yXzlwVUUyZk9mV1JxRGhUNHlDYUstVVlaMHNHR1BzQmtyeFBQVnNwcVVKQktKd1c4U2llOTlGcDg3ZlJ2czBTczBmOG91X2cwUWRORV9XUktFTWs?oc=5",
-      "source": "Diário de Notícias",
+      "source": "dn.pt",
       "publishedAt": "2026-09-02T23:05:41Z",
       "description": "Competição geopolítica também se disputa no Ártico. Rússia e China jogam as suas cartadas, Estados Unidos tentam recuperar do atraso e responder.Os chineses est",
       "image": "https://media.assettype.com/dn%2F2026-09-02%2Fqeeminxz%2FPhotoAliciaGarciaHerrero001.jpg?rect=0%2C286%2C2570%2C1349&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
@@ -205,14 +196,23 @@
       "source": "Expresso",
       "publishedAt": "2026-09-02T13:48:49Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-02-ataque-de-drone-em-leipzig-ue-fala-em-terrorismo-de-moscovo-nato-em-imprudencia-varios-paises-ja-convocaram-diplomatas-russos-2bb30461"
+    },
+    {
+      "title": "Trump elogia resultados dos EUA na guerra - RTP",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDFrVTRGbEFCS196NzJWZ1hsdURXYWFSZXoyZ0RlbjNFbmZ2LTZuS1NnOW85TlctaUVqV0ljTXBzYkg3WDdlS1VkYi1XNjFDVUwxVl9jdjN2dklVZ3FEMk9JWHZqN2puNEh2b0M0VnY2U1dXOWNQOFVmTGdfXzZoR0VUVGI4NVNFMmpIaw?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-03T20:30:44Z",
+      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "EUA x Irã: saiba tudo o que já aconteceu nos primeiros dez dias de guerra - Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbW9rZ0s3d1V1bkR3QVZpemJXLWNLcmNhUDVBRHNycFZBcXdDS1h2LTB4eXRRWVJNa0FWbWhOeW1DaHFQSTJDY2NkM0hPT1ktazY5OTJUWnN2MWVWTTdUaGotX2RqYjdEVzBNYUpYakp1aFRQaHZjNkVIa0N3dURtNGFKWE9pbEJDaGFkWlRGcXBoNE9HMmhhVUZyVER3T2dWcG5zY21VaTdoaVhjc0VSUDRXYUtTSDRsdm9QR0RESV9FWkU0eDVBczZiejY?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-09-04T02:45:09Z",
-      "description": "Notícia publicada por Times Brasil | CNBC. Abra o artigo para consultar os detalhes completos.",
+      "title": "Será que Putin está a tentar manipular Donald Trump? - Observador",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JrQ0dNeUx0TEtaSEJ1dlhSamhyZzF0SWtncENMal9LeExIUXVZUUJkdm9qWHU4dm9wNk1FQ1Fza2xCSVl2a1c3WVI3VEVwWjVYQjBrZ0pQUlBJVXZqcGtUeVFLZ1h0bHFncElzMWR1azBIR3d5R1FsU1NxSkFldURZMmNjTmJTQlZmQkdFTXp4SDJCYUhhRnFWcXo0MmZtUlFjck5n?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-03T19:54:17Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
