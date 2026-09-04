@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T23:23:48.650569Z",
+  "updatedAt": "2026-09-04T00:34:34.740514Z",
   "health": [
     {
       "title": "#Eufrásio – O Profissional de Saúde - Observador",
@@ -11,15 +11,6 @@
       "articleUrl": "https://observador.pt/opiniao/eufrasio-o-profissional-de-saude/"
     },
     {
-      "title": "Balcão SNS 24 reforça acesso aos serviços digitais de saúde em Alfarelos - spms.min-saude.pt",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzhCQUs0VkNfQnZ4akxrUmVwdXdaSXBRUWxWVWNXVVJmSTFJN0dIVW82RUxNV1FxUkYwNzVxeDh1amcySnNsYTRWeGNRcTFSY0FGWjhhUUJxT3Q2aml4QVhMLUJxdDhxVkFvWUROS01sS0NTYTlXNzVicFpZMWxXMVJlRmxjUUZzcE9GejdhbklDeXloOVdhbC1UdGxReGVqOGtBUjVPc0tuUGd5aFYwYQ?oc=5",
-      "source": "spms.min-saude.pt",
-      "publishedAt": "2026-09-03T20:40:12Z",
-      "description": "Notícia publicada por spms.min-saude.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.spms.min-saude.pt/2026/09/balcao-sns-24-reforca-acesso-aos-servicos-digitais-de-saude-em-alfarelos/"
-    },
-    {
       "title": "​Demissão em bloco nas urgências do Hospital Dona Estefânia - Renascença",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHFMTGhRTXdLYmZpX29XUlpkZVZUMlZDejBzVWpqS0xTRGVYTXJqRzhOUTlvX3FmQ29NMnQ1VndUX3RkcFEyRTUxSHRUTUIyMTc3WGlicFJpWUNMMGQta3Z6S09NakppMVpaTGhUUVRYUzRGMGx2cVdZVG5HUWp2bHBEaWZmRXZNRW5QS2VWYy1lUFBWUmRZdENaUHgzVkotc0ZELUhDSGM5NFNn0gGsAUFVX3lxTE14cUxMaFFNd0tiZmlfb1dSWmRlVlQyVkN6MHNVampLTFNEZVhNcmpHOE5ROW9fcWZDb00ydDVWd1RfdGRwUTJFNTFIdFRNQjIxNzdYaWJwUmlZQ0wwZC1rdnpLT01qSmkxWlpMaFRRVFhTNEYwbHZxV1lUbkdRanZscERpZmZFdk1FblBLZVZjLWVQUFZSZFl0Q1pQeDNWSi1zRkQtSENIYzk0U2c?oc=5",
       "source": "Renascença",
@@ -27,6 +18,15 @@
       "description": "Chefes da urgência justificam a saída com a falta de anestesistas. Dizem até que há turnos sem qualquer especialista escalado, o que impede a realização de cirurgias.",
       "image": "https://images.newrr.rr.pt/hospital_doneestefania_fotodr1561b774_base.jpg",
       "articleUrl": "https://rr.pt/noticia/amp/pais/2026/09/03/demissao-em-bloco-nas-urgencias-do-hospital-dona-estefania/484172/"
+    },
+    {
+      "title": "Balcão SNS 24 reforça acesso aos serviços digitais de saúde em Alfarelos - SPMS – Serviços Partilhados do Ministério da Saúde",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzhCQUs0VkNfQnZ4akxrUmVwdXdaSXBRUWxWVWNXVVJmSTFJN0dIVW82RUxNV1FxUkYwNzVxeDh1amcySnNsYTRWeGNRcTFSY0FGWjhhUUJxT3Q2aml4QVhMLUJxdDhxVkFvWUROS01sS0NTYTlXNzVicFpZMWxXMVJlRmxjUUZzcE9GejdhbklDeXloOVdhbC1UdGxReGVqOGtBUjVPc0tuUGd5aFYwYQ?oc=5",
+      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
+      "publishedAt": "2026-09-03T20:40:12Z",
+      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.spms.min-saude.pt/2026/09/balcao-sns-24-reforca-acesso-aos-servicos-digitais-de-saude-em-alfarelos/"
     },
     {
       "title": "Quem decide sobre a nossa saúde? - Universidade de Lisboa",
@@ -38,13 +38,13 @@
       "articleUrl": "https://www.ulisboa.pt/evento/quem-decide-sobre-nossa-saude"
     },
     {
-      "title": "Timor-Leste elimina tracoma, a principal causa infecciosa de cegueira no mundo - Público",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVB4NHBjcEl1clNGWkp4U09paHRUeFUtNUNkSkg2cU85cEtvM3hXZ21YcVhEMHcyT3ZBQzA3bS1pRTN0RTlWTlVaOHVXaWVPVnFtc29QVHFLT01IYm9KLUI1ZHp4TGpsRmZna2lJTXFzeGpxVURGX1p4UUIyamVUNUFuRTl1aUFJbVZZWGxlb1d4dmd5bkVIaHBFSk8yU2poZHpkcy1PLXVieFZCdjlBbEdDT2hQbC01SmVfNTAtTlhva2It?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-03T18:10:22Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/03/ciencia/noticia/timorleste-elimina-tracoma-principal-causa-infecciosa-cegueira-mundo-2186981"
+      "title": "Fundação Jiménez Díaz é o hospital público com a melhor experiência do paciente em Espanha, segundo a Anpass - ECO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQjdKQ2NGcDRLcmdvRnFJNWxVX2NKNTJqWjVzMjMyal94U2VwWFpCXzVRMThjZG9rWlRCV0FmaFNfUzRiX05TM0ZZaUIyY1FEZFJOdmk3dWQxZWM4cnRVcjgxZUNoS2phSWpQc1NCVGg5WVhNLWJPMk9MczVTSHFNbC1Laldpd3lWRXdGWmk1MXZRTGhPTG1zQzZ4YXppQ1FVN0FWQXBFX2dFLXlCNk16amVrOXJqRktUMjNHakEwOHo5TV9CZnhFZGV4UGwtNFNmMmNtemRn?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-03T20:14:35Z",
+      "description": "É o único a ultrapassar 8 em 10 e coloca Madrid, com quatro hospitais, no top dez.",
+      "image": "https://eco.imgix.net/uploads/2026/09/cropped-1-6.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/03/fundacao-jimenez-diaz-e-o-hospital-publico-com-a-melhor-experiencia-do-paciente-em-espanha-segundo-a-anpass/"
     },
     {
       "title": "Hospital Dona Estefânia foi palco de demissão em bloco - RTP",
@@ -56,6 +56,15 @@
       "articleUrl": "https://www.rtp.pt/noticias/politica/hospital-dona-estefania-foi-palco-de-demissao-em-bloco_v1763269"
     },
     {
+      "title": "Timor-Leste elimina tracoma, a principal causa infecciosa de cegueira no mundo - Público",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVB4NHBjcEl1clNGWkp4U09paHRUeFUtNUNkSkg2cU85cEtvM3hXZ21YcVhEMHcyT3ZBQzA3bS1pRTN0RTlWTlVaOHVXaWVPVnFtc29QVHFLT01IYm9KLUI1ZHp4TGpsRmZna2lJTXFzeGpxVURGX1p4UUIyamVUNUFuRTl1aUFJbVZZWGxlb1d4dmd5bkVIaHBFSk8yU2poZHpkcy1PLXVieFZCdjlBbEdDT2hQbC01SmVfNTAtTlhva2It?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-03T18:10:22Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/03/ciencia/noticia/timorleste-elimina-tracoma-principal-causa-infecciosa-cegueira-mundo-2186981"
+    },
+    {
       "title": "Inauguradas obras de requalificação do Centro de Saúde de Porto Mós - inem.pt",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzBlN0dCVTA2dGtBSzdpODQyeFl3QzdVTlFINmVpV3VjcUlVNnVUeEl6VTF6dlJLM1p1R1hyMnd0Q0VULS10aGg1UzdMenVKb0s1dlIxRm43bmJvME90ZU5nZFAtS1llcXBPUXhONlZMcUVWYzljd3F3ZjlKRUlnWFJZaTU2ZzdwQlhCSWlzVWpOMHJnRjR2ckZlbFIwMlBI?oc=5",
       "source": "inem.pt",
@@ -63,6 +72,15 @@
       "description": "Notícia publicada por inem.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.inem.pt/2026/09/03/inauguradas-obras-de-requalificacao-do-centro-de-saude-de-porto-mos/"
+    },
+    {
+      "title": "Problemas no hospital Amadora-Sintra não ficarão resolvidos a curto prazo – diretor-executivo - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTZndGltRHNMcmhMUzI5aTNFbEtrRDdJcFdHWGQ0encyWUxaZDl3TnB3MHRaUGl3bHY4YUlEcnVtS1NEbktrQWtfRHZvQ0pwZ2VyOFpCb01rRGhCcnl6STZTdnYxZEpwM28xRVlUSWFkZk9vMTVIYUNIcjU1bHFxdVRhX0dEeFM0VG0yR24tNHZ5cXJpYjhaUFh4SEtpZ2lHMFk5Q0M1MkhGN0JlN2RVdEtKVkRRell0Zk5CSGhCdGVPNW1ZOHpPN1h3?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-09-03T18:47:28Z",
+      "description": "O diretor-executivo do SNS, Álvaro Almeida, reconheceu hoje que os problemas estruturais no Amadora-Sintra não vão ficar resolvidos a curto prazo e considerou inaceitáveis os tempos de espera nas urgências daquele hospital.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066535_0000000001.jpg",
+      "articleUrl": "https://www.saudemais.tv/noticia/66535-problemas-no-hospital-amadora-sintra-nao-ficarao-resolvidos-a-curto-prazo-diretor-executivo"
     },
     {
       "title": "Jovem francês desaparecido há 11 dias encontrado em hospital de Lisboa - SIC Notícias",
@@ -74,22 +92,12 @@
       "articleUrl": "https://sicnoticias.pt/pais/2026-09-03-jovem-frances-desaparecido-ha-11-dias-encontrado-em-hospital-de-lisboa-1bfd4b96"
     },
     {
-      "title": "Problemas no hospital Amadora-Sintra não ficarão resolvidos a curto prazo – diretor-executivo - saudemais.tv",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTZndGltRHNMcmhMUzI5aTNFbEtrRDdJcFdHWGQ0encyWUxaZDl3TnB3MHRaUGl3bHY4YUlEcnVtS1NEbktrQWtfRHZvQ0pwZ2VyOFpCb01rRGhCcnl6STZTdnYxZEpwM28xRVlUSWFkZk9vMTVIYUNIcjU1bHFxdVRhX0dEeFM0VG0yR24tNHZ5cXJpYjhaUFh4SEtpZ2lHMFk5Q0M1MkhGN0JlN2RVdEtKVkRRell0Zk5CSGhCdGVPNW1ZOHpPN1h3?oc=5",
-      "source": "saudemais.tv",
-      "publishedAt": "2026-09-03T18:47:28Z",
-      "description": "O diretor-executivo do SNS, Álvaro Almeida, reconheceu hoje que os problemas estruturais no Amadora-Sintra não vão ficar resolvidos a curto prazo e considerou inaceitáveis os tempos de espera nas urgências daquele hospital.",
-      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066535_0000000001.jpg",
-      "articleUrl": "https://www.saudemais.tv/noticia/66535-problemas-no-hospital-amadora-sintra-nao-ficarao-resolvidos-a-curto-prazo-diretor-executivo"
-    },
-    {
-      "title": "General acusado de ataque a hospital pediátrico em Kiev baleado na Rússia - pt.euronews.com",
+      "title": "General acusado de ataque a hospital pediátrico em Kiev baleado na Rússia - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY21hRDBCb2tBbzZ2NnlwdHhGQWVaZ1l2THF0VUdveFFDd2RXVXdYdGk3MW0wQ0VxWTQtVzlwcWN2ai1aNmt3LWpDSkhvTlJ6OU83dkM1NEc3NUJmQmhOc0ZPdmVYSHo5OGtZdDBkSFNLZGJucGxhWi1rdDdNWVhPaFQ5WjYzdjduNmc1VnJwenRqQmlacFZxMEV1Tzh6TWNDYkpmZDhVZk5QcGZm?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-03T16:49:11Z",
-      "description": "O major-general Nikolai Varpakhovich, comandante de divisão de bombardeiros pesados e acusado à revelia pela Ucrânia pelo ataque de 2024 ao hospital Okhmatdyt, foi baleado duas vezes por um motociclista armado perto da base aérea de Engels e levado para Moscovo em estado grave.",
-      "image": "https://images.euronews.com/articles/stories/09/90/04/16/1200x675_cmsv2_75e75c1d-43a3-5f2c-8d37-3795ca3a369c-9900416.jpg",
-      "articleUrl": "https://pt.euronews.com/2026/09/03/general-acusado-de-ataque-a-hospital-pediatrico-em-kiev-baleado-na-russia"
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Miguel Viana Baptista: “O maior desafio” dos doentes com Alzheimer é “aceder a uma consulta de neurologia” - Expresso",
@@ -97,14 +105,6 @@
       "source": "Expresso",
       "publishedAt": "2026-09-03T21:57:00Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Hospital Pedro Hispano está com atividade extra suspensa - Jornal de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbENQc3d5MGlCUmQ0TVgxVnJRTnZ6VG9fcHdNeXgxMWlSX0xMOEVkRm40Q0RpUnFJbnlYMDJ6WGRFQjMxbDVFLWJpZ2hWTFZyalpqa0w3ZnZFdjJ2RnN0MU9VbmRZbElqMGRkNHVTRG5WUGZNS1RBaEh6V1VFV1lxOE92YVY5MWdvNl9ZUTFwaUhQRGJ3Rjd3ZW9vQQ?oc=5",
-      "source": "Jornal de Notícias",
-      "publishedAt": "2026-09-03T18:35:00Z",
-      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,21 +119,12 @@
       "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/sera-que-putin-esta-a-tentar-manipular-donald-trump/"
     },
     {
-      "title": "Trump elogia resultados dos EUA na guerra - RTP",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDFrVTRGbEFCS196NzJWZ1hsdURXYWFSZXoyZ0RlbjNFbmZ2LTZuS1NnOW85TlctaUVqV0ljTXBzYkg3WDdlS1VkYi1XNjFDVUwxVl9jdjN2dklVZ3FEMk9JWHZqN2puNEh2b0M0VnY2U1dXOWNQOFVmTGdfXzZoR0VUVGI4NVNFMmpIaw?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-03T20:30:44Z",
-      "description": "Donald Trump diz que os Estados Unidos se estão a sair muito bem na guerra com o Irão. O Irão avisou que continuará a responder e a China contestou as sanções de Washington.",
-      "image": "https://cdn-images.rtp.pt/icm/images/6e/6eb457022f741e2fd2926c7ee3816347_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/trump-elogia-resultados-dos-eua-na-guerra_v1763275"
-    },
-    {
       "title": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos pôr-lhe fim e alcançar uma paz duradoura e abs - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYnl6Q1phX2JoREFwamp3MDN6ZU9VdmxLbko4QjhlUEZZWjg3NTdhbHc0QUxqd3ZDcmo5b09BUVI4MXhvNWVBcVpqRVhwejkwNG5GMlBOcHF2d1hrMFpsOS15eXlOVVdnZ0o1cU5sd2NuZWZtZ2NIYVdZNzNjUzFzdkJIZVhGTXM2Yko1Z1c3ZjN2RjJyMV94OGZIUXFMNlQwTGRuNlMzUHpNQXFJRmRGN2ltOWM0RUozbGJVWklQWWJ6SERIY2JlZmlrWkdYSUI0M3pxdkxCeFRBNksxTkg3M1BSUU9rX2NrSFVnQkowaDBtMEE?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-09-03T08:05:56Z",
       "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwFElPb9&_nc_oc=AdpKmEl7zdWjZYVFi97I_BWZoUBUEgBfJ4N18MMLRde62AvAK_8qDsbk03b_XjSH09o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mqQWmcG57FTCgFcF-O-ZHQ&_nc_ss=7820f&oh=00_AQJXcjXmcvIOuJ0Veh4D3lH7UMlvjeP3CBmJMR5OouvuVA&oe=6A9FBAB7",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwHAIllK&_nc_oc=AdrIHPcPifImKxR19ccZKuzsz35Ve7Ho-PcBmUAKR3Y5h2gejFLb6S6xziHfb6tQGXc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oONYAAyVarbxYzoxG7SClw&_nc_ss=7820f&oh=00_AQKsfPHYqYALIddXwVfsWNML3NSQSAbZ0MxsiAwjEVyf4Q&oe=6A9FF2F7",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
     },
     {
@@ -146,13 +137,13 @@
       "articleUrl": "https://www.rfi.fr/pt/programas/convidado/20260903-kiev-na-pr%C3%A1tica-%C3%A9-pe%C3%A3o-do-grande-xadrez-entre-as-grandes-pot%C3%AAncias-major-general-carlos-branco"
     },
     {
-      "title": "Trump garante ter munições “quase ilimitadas” para a guerra e nega venda a aliados - ECO",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXpycHFnZE9VOUNwS1IycVpPNWhwc1lKU1lVNjlCUWZDVTlYT3FpalFCZzVwcWF0cEV1Sk5Tb2FIdl9LNnpqVmgtMDE4SzgzdGNxNmpGWUxGdktlUl9LMWNrMU1lblpTb3dUN3VpWUFMZEM2Uk9EY2dtQ1VnajRtOXhTd290dzV3RVNoM2ZwakVra2o5RDI2TjlmeXlPTWlBaEZjYkJHU0FlN0RCNGFtNUFR?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-03T17:14:11Z",
-      "description": "\"Estamos a reservá-las para nós, para os Estados Unidos, ao invés de vendê-las a outros, embora as vendas aos aliados comecem novamente em breve\", escreveu o presidente norte-americano.",
-      "image": "https://eco.imgix.net/uploads/2026/09/cropped-47705930-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/03/trump-garante-ter-municoes-quase-ilimitadas-para-a-guerra-e-nega-venda-a-aliados/"
+      "title": "Reservas de gás da União Europeia estão no nível mais baixo em 15 anos - jornaleconomico.sapo.pt",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEdkdUw3VlNONjYtd3Fxd3NMc2dmXy1CSXpMUXJxX0l3cl9FU0ItYlByY3ZOaG1teG5OaEJuWGVFc21MbnpHQ1ZkX1JybWlhUFlucVowRm9lRXc0a2djLWVmZm1sWjBWZm1BM3hvWUh4YnVXRUtLQkQ2N19qRTZpSTE3NGJvY3ljTDJBVmNJbUV1YXhRY09lbmFWT1VQMUFSa01jemtzSndabkk5dERTQzdR?oc=5",
+      "source": "jornaleconomico.sapo.pt",
+      "publishedAt": "2026-09-03T07:25:00Z",
+      "description": "De acordo com a publicação BiGo Finance o nível de reservas de gás que a União Europeia detém nesta altura deve-se a um erro de cálculo. O bloco europeu vinha adiando as compras de gás na expetativa de que o conflito no Médio Oriente, que se iniciou em fevereiro entre Estados Unidos, Israel, e Irão, tivesse um desfecho rápido, permitindo que o gás natural vindo do Qatar…",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/07/gas-natural-segundo-plano-e1784195627775.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/reservas-de-gas-da-uniao-europeia-estao-no-nivel-mais-baixo-em-15-anos/"
     },
     {
       "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - Diário de Notícias",
@@ -182,6 +173,15 @@
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-02-ataque-de-drone-em-leipzig-ue-fala-em-terrorismo-de-moscovo-nato-em-imprudencia-varios-paises-ja-convocaram-diplomatas-russos-2bb30461"
     },
     {
+      "title": "Trump diz ter munições ilimitadas para guerra e nega venda a aliados - Portal Impala",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2FGY0dWaG1RM3h3a0dSQWt5cU9QMDVYbHNNcmwzSWRRSE1vVEFzUEpxS0g4d3U4QWJ0MHJPNmFzYXVjYkNELUFYMEkyZ2toRk1yMnFwZFIza192RmxrR056blpTZF9OaG8tZXV5QmFXTVVwc3A5ZDFXZ2hnNFFOVV91cGZPdjM5S25yZlBBOGNNUVBseGhGalZUYkNrQ1NOVkg3WTBIb0FVV2pqNVE?oc=5",
+      "source": "Portal Impala",
+      "publishedAt": "2026-09-03T19:14:20Z",
+      "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.impala.pt/noticias/politica/trump-diz-ter-municoes-ilimitadas-para-guerra-e-nega-venda-a-aliados/"
+    },
+    {
       "title": "Petróleo Brent cede com incertezas no Oriente Médio e falas de Putin - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDI0WldiNGNaRFltWXBKNGJtb0F1TXUzT05Ia2FBSGplRWpsRkZmaG5TMmZuNTJYTVNuT2JhaDZsVVRBSHUwTWcyZXlULXZpbERDdDduQkFYdWs1RlBLVnRZUzJ5ajc3ZnBleUhhbXBMWlVzWXR1MmNwaXNIZFB4SDNNM3NSQWR2a20tcQ?oc=5",
       "source": "CNN Brasil",
@@ -191,28 +191,28 @@
       "articleUrl": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-3-setembro-2026/"
     },
     {
-      "title": "Trump diz que EUA cobrarão da Europa pagamento retroativo da ajuda enviada à Ucrânia - Opera Mundi",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzh0M0lHbmMwaUF2c002X2RGcEg5NzdhYUxPVzIxaVVsaDNSdU56MHdzLXBVdWcweWlsNHZxejBWbHJlU2VUUGdUT3VqUDNjZ0lsbGtPQjVmd1VtRGJSU1VDdl9ldkU3bXUwYVE1bzNaRmIyQ3B6c21EWkxDS2dEYzI3NlViWDNlNWlJbTRLYmZoZjJ2Y2QxRTJlWC1nT0pVbGt2bThZY0xKZUpBYU54RzZzRGJGVkVNNWQ2R05Uend3dGxmYWtrVmNB?oc=5",
-      "source": "Opera Mundi",
-      "publishedAt": "2026-09-03T22:40:00Z",
-      "description": "Presidente norte-americano também criticou reportagens sobre suposta crise de estoque de mísseis e munições enfrentada por Washington em meio a guerra contra Irã",
-      "image": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/trump.jpg",
-      "articleUrl": "https://operamundi.uol.com.br/estados-unidos/trump-diz-que-eua-cobrarao-da-europa-pagamento-retroativo-da-ajuda-enviada-a-ucrania/"
-    },
-    {
       "title": "União Europeia com consenso amplo para adotar \"sanções muito exigentes\" à Rússia - Correio da Manhã",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZnp1cEszM1dERndZYi1taWNqUlNMSUstaV9GM0doMHk0MkZHa3Fjdnc3ODlwdVhrdEdyVjgtRk1DLThGaHZkVncxZ1dxNFduU05MVGFBb085ZkpPZ0ZCSE43amdGRWhtMzVzaEd5enI0YVkycUc2RWdQazZLamJZRmFzOVFkX0pjd044OGw0VjBGTi1la2ZNRFhkT2UtR1JoaWsyclp3TXU5QWdTeUNDOWo3bXlVN1dkUUxGbDlTNHBPVGRfRm1qcTJWcFc1TlRHLVNiZFVMbVBRZWpiNGhj0gHaAUFVX3lxTE5USEFiMEROb19vRWZabXJhU2ViNWJXS0UtRWZqZ2pzaWdzcEl2WkF4QlZGZy03VlhwcjBKWVI4dV9STkxucHV4S2ptaFdNSmlsNURuMGNzbG5aZzA5a0JVTVJXU1JQRnRtYXU5MjAtRTlfcXFnM2YyeUV0VDMwRV9MSTE5b09XdXBoWEpGSHFFRGFlWkRDdW5vRVgxZlZFSGY0NElSQklVeWVHZ0ViYmlLZ1FETzV2WTlNWlJuNFVDcF9XdzVuWGozQzJSbEpYLUYtZVl6aHhKX2FB?oc=5",
       "source": "Correio da Manhã",
       "publishedAt": "2026-09-02T15:27:55Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
+      "description": "Paulo Rangel recordou que a UE já tem 'muitos indivíduos e empresas sancionadas', mas indicou, que neste caso concreto, 'seria um pacote verdadeiramente de uma dimensão muito, muito grande'.",
+      "image": "https://cdn.cmjornal.pt/images/2026-03/img_1280x721uu2026-03-20-10-01-09-2273626.jpg",
+      "articleUrl": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/uniao-europeia-com-consenso-amplo-para-adotar-sancoes-muito-exigentes-a-russia"
+    },
+    {
+      "title": "Trump diz que EUA cobrarão da Europa pagamento retroativo da ajuda enviada à Ucrânia - Opera Mundi",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzh0M0lHbmMwaUF2c002X2RGcEg5NzdhYUxPVzIxaVVsaDNSdU56MHdzLXBVdWcweWlsNHZxejBWbHJlU2VUUGdUT3VqUDNjZ0lsbGtPQjVmd1VtRGJSU1VDdl9ldkU3bXUwYVE1bzNaRmIyQ3B6c21EWkxDS2dEYzI3NlViWDNlNWlJbTRLYmZoZjJ2Y2QxRTJlWC1nT0pVbGt2bThZY0xKZUpBYU54RzZzRGJGVkVNNWQ2R05Uend3dGxmYWtrVmNB?oc=5",
+      "source": "Opera Mundi",
+      "publishedAt": "2026-09-03T22:40:00Z",
+      "description": "Notícia publicada por Opera Mundi. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Rússia. \"Estados europeus deviam ter reagido de forma mais robusta\" - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEJFcWNTMzlIcDVzbGZNVUZZeFVSRGJUeENSeFF5UFlLR2lFMVVsWVhMQ3IwQnZjLXhOY1pxNGZ4N1ZFWTlBd0N1ZnhEeWxRS3hrRTFIVUtZTTVEV3IwMmhHTW5OUVg1ZEU5ZUNMN0RoWHd0Z1hUSFJZOGx1RVRzSVV6OElMZ2hONFBBcGd5ekM4ZUJ4bjBoQ0xIVmtPUmFqVGlLNW05bVFIRTlvT290OEhkb2hWYWM?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-02T06:54:15Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "title": "Porta-aviões Abraham Lincoln chega à Tailândia após missão no Médio Oriente - RTP",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaTBFajdoY0JkVVJydzRUOEZ6cWpCRGd6Y0RnU2R3TTc5T2l5VUU0NTd3QTVOMXdqczNUOTFEa1AyUldHOXNGZXNLNVlnU05YSVEtUE8xX1ZwaHBndmFKaVVjdkloMEdHVEZCcE5GbUF5ZF92LWdLR0lCNjM1dS1iam5HQmhqZTJIV2Y1S3R0bW9seFhQeDhmZVN5R1p0U3E0MjY5LW9oLWNjbnNqRUM5VkdPRldpRzJiUHMyU0hZSGpHamt4QTR4cHhOa1dJYVk5TVE?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-02T05:57:45Z",
+      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
