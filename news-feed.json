@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T03:27:03.436764Z",
+  "updatedAt": "2026-09-04T04:28:10.427323Z",
   "health": [
     {
       "title": "#Eufrásio – O Profissional de Saúde - Observador",
@@ -24,9 +24,27 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DQU50SDRkRW1VOFR3ek9GY2M3Y003Z0h3aUpqUGlIT2txZnFSczVMS2Y0VlJzTEE4TFVtU2txWTJVMkdvSlN5WFl0b0FjdWc?oc=5",
       "source": "Universidade de Aveiro",
       "publishedAt": "2026-09-04T00:14:39Z",
-      "description": "Notícia publicada por Universidade de Aveiro. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
+      "description": "Realiza-se no próximo dia 7 de setembro, pelas 11h00, no Departamento de Ciências Médicas (DCM) da Universidade de Aveiro (UA) a receção aos estudantes do Mestrado Integrado em Med...",
+      "image": "https://uaonline.ua.pt/upload/img/joua_i_23157.jpg",
       "articleUrl": "https://www.ua.pt/pt/noticias/11/99156"
+    },
+    {
+      "title": "Timor-Leste elimina tracoma e fortalece vigilância sanitária - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UTkFZa0V4Zjc2TjJEczVLbGFjbzMxeVFRQk9LQlc1Zlk4UnphMjMySW4zSmkta0FtQ1FYMUJfUEE0RzQxdzA2TE9rNzlYeHluVnBTc0dMUQ?oc=5",
+      "source": "UN News",
+      "publishedAt": "2026-09-04T04:04:00Z",
+      "description": "Após anos de estudos epidemiológicos, país recebeu validação internacional pela eliminação do tracoma, tornando-se referência em saúde ocular no Sudeste Asiático; resultado fortalece políticas de saneamento e amplia compromisso com meta global de erradicar a doença até 2030.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-10-24_WHO_India_Trachoma.jpg/image770x420cropped.jpg",
+      "articleUrl": "https://news.un.org/pt/story/2026/09/1854262"
+    },
+    {
+      "title": "​Demissão em bloco nas urgências do Hospital Dona Estefânia - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHFMTGhRTXdLYmZpX29XUlpkZVZUMlZDejBzVWpqS0xTRGVYTXJqRzhOUTlvX3FmQ29NMnQ1VndUX3RkcFEyRTUxSHRUTUIyMTc3WGlicFJpWUNMMGQta3Z6S09NakppMVpaTGhUUVRYUzRGMGx2cVdZVG5HUWp2bHBEaWZmRXZNRW5QS2VWYy1lUFBWUmRZdENaUHgzVkotc0ZELUhDSGM5NFNn0gGsAUFVX3lxTE14cUxMaFFNd0tiZmlfb1dSWmRlVlQyVkN6MHNVampLTFNEZVhNcmpHOE5ROW9fcWZDb00ydDVWd1RfdGRwUTJFNTFIdFRNQjIxNzdYaWJwUmlZQ0wwZC1rdnpLT01qSmkxWlpMaFRRVFhTNEYwbHZxV1lUbkdRanZscERpZmZFdk1FblBLZVZjLWVQUFZSZFl0Q1pQeDNWSi1zRkQtSENIYzk0U2c?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-03T20:33:00Z",
+      "description": "Chefes da urgência justificam a saída com a falta de anestesistas. Dizem até que há turnos sem qualquer especialista escalado, o que impede a realização de cirurgias.",
+      "image": "https://images.newrr.rr.pt/hospital_doneestefania_fotodr1561b774_base.jpg",
+      "articleUrl": "https://rr.pt/noticia/amp/pais/2026/09/03/demissao-em-bloco-nas-urgencias-do-hospital-dona-estefania/484172/"
     },
     {
       "title": "Quem decide sobre a nossa saúde? - Universidade de Lisboa",
@@ -36,15 +54,6 @@
       "description": "Na terceira sessão do ciclo Neuroses Coletivas, que decorrerá a 24 de setembro, pelas 18h00, desafiamos o Enfermeiro e Investigador Ricardo J. O. Ferreira para nos ajudar a pensar uma questão essencial para o futuro da saúde: Quem decide sobre a nossa saúde? Porque precisamos de cidadãos na ciência, na educação e nos serviços de saúde?",
       "image": "https://www.ulisboa.pt/sites/default/files/styles/image_base/public/images/base_image/2026-09/17373-9d187080dbbbbf8f2837caebb55cf2fb.jpg?itok=LGBGrU77",
       "articleUrl": "https://www.ulisboa.pt/evento/quem-decide-sobre-nossa-saude"
-    },
-    {
-      "title": "​Demissão em bloco nas urgências do Hospital Dona Estefânia - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVd1SkI1Y3hXd0hTM2c2SDRCdy0xNjVnZ0tOMW40OVhVQWNXU003MmZCaXlacXNqNWI1VjNWTkVkdmc3SmFEYWxHUmhDY1IyLTRlbGc3d1JWdG5nX1FRM1FOLVQzN0wxc2N4UDg2bWdwZHBGaldLWjE3RG9Ndi1PNWNtcjlDckVmSVpabXJ5OF9fZEdNLUdFTnJXRFFleUJ2MTF1b3RBWdIBrAFBVV95cUxNeHFMTGhRTXdLYmZpX29XUlpkZVZUMlZDejBzVWpqS0xTRGVYTXJqRzhOUTlvX3FmQ29NMnQ1VndUX3RkcFEyRTUxSHRUTUIyMTc3WGlicFJpWUNMMGQta3Z6S09NakppMVpaTGhUUVRYUzRGMGx2cVdZVG5HUWp2bHBEaWZmRXZNRW5QS2VWYy1lUFBWUmRZdENaUHgzVkotc0ZELUhDSGM5NFNn?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-09-03T20:33:00Z",
-      "description": "Chefes da urgência justificam a saída com a falta de anestesistas. Dizem até que há turnos sem qualquer especialista escalado, o que impede a realização de cirurgias.",
-      "image": "https://images.newrr.rr.pt/hospital_doneestefania_fotodr1561b774_capa1.jpg",
-      "articleUrl": "https://rr.pt/noticia/pais/2026/09/03/demissao-em-bloco-nas-urgencias-do-hospital-dona-estefania/484172/"
     },
     {
       "title": "Fundação Jiménez Díaz é o hospital público com a melhor experiência do paciente em Espanha, segundo a Anpass - ECO",
@@ -65,15 +74,6 @@
       "articleUrl": "https://www.rtp.pt/noticias/politica/hospital-dona-estefania-foi-palco-de-demissao-em-bloco_v1763269"
     },
     {
-      "title": "'A Madrasta': Xavier é assassinado no hospital - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG9Yb1pNTW50N2VkOHBQanNydldoNlptYU5fWmRCa25pU01jWGg0TV9tdnRZWkp5RXhKUDljS0lyaWtYUHY3ZTVyTTN4N0daZF9Zc0R0OHNzLTNzazB4ZWlYWkxKZ09yb2dSRDdPa0FDSzBTOE1qb0h4X1RoSU5tdWxIWTVfcWlvZFJQMU90R2kxSmFkdTNkTUp3Z25DNUdFZzhj?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-04T02:00:00Z",
-      "description": "O empresário tinha marcado uma reunião com todos os suspeitos para revelar quem é o assassino de Artur.",
-      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x721uu2026-08-27-15-12-41-2305021.jpg",
-      "articleUrl": "https://www.cmjornal.pt/tv-media/boa-onda/novelas/detalhe/a-madrasta-xavier-e-assassinado-no-hospital"
-    },
-    {
       "title": "Inauguradas obras de requalificação do Centro de Saúde de Porto Mós - inem.pt",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzBlN0dCVTA2dGtBSzdpODQyeFl3QzdVTlFINmVpV3VjcUlVNnVUeEl6VTF6dlJLM1p1R1hyMnd0Q0VULS10aGg1UzdMenVKb0s1dlIxRm43bmJvME90ZU5nZFAtS1llcXBPUXhONlZMcUVWYzljd3F3ZjlKRUlnWFJZaTU2ZzdwQlhCSWlzVWpOMHJnRjR2ckZlbFIwMlBI?oc=5",
       "source": "inem.pt",
@@ -83,13 +83,21 @@
       "articleUrl": "https://www.inem.pt/2026/09/03/inauguradas-obras-de-requalificacao-do-centro-de-saude-de-porto-mos/"
     },
     {
+      "title": "'A Madrasta': Xavier é assassinado no hospital - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG9Yb1pNTW50N2VkOHBQanNydldoNlptYU5fWmRCa25pU01jWGg0TV9tdnRZWkp5RXhKUDljS0lyaWtYUHY3ZTVyTTN4N0daZF9Zc0R0OHNzLTNzazB4ZWlYWkxKZ09yb2dSRDdPa0FDSzBTOE1qb0h4X1RoSU5tdWxIWTVfcWlvZFJQMU90R2kxSmFkdTNkTUp3Z25DNUdFZzhj?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-04T02:00:00Z",
+      "description": "O empresário tinha marcado uma reunião com todos os suspeitos para revelar quem é o assassino de Artur.",
+      "image": "https://cdn.cmjornal.pt/images/2026-08/img_1280x721uu2026-08-27-15-12-41-2305021.jpg",
+      "articleUrl": "https://www.cmjornal.pt/tv-media/boa-onda/novelas/detalhe/a-madrasta-xavier-e-assassinado-no-hospital"
+    },
+    {
       "title": "Timor-Leste elimina tracoma, a principal causa infecciosa de cegueira no mundo - Público",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVB4NHBjcEl1clNGWkp4U09paHRUeFUtNUNkSkg2cU85cEtvM3hXZ21YcVhEMHcyT3ZBQzA3bS1pRTN0RTlWTlVaOHVXaWVPVnFtc29QVHFLT01IYm9KLUI1ZHp4TGpsRmZna2lJTXFzeGpxVURGX1p4UUIyamVUNUFuRTl1aUFJbVZZWGxlb1d4dmd5bkVIaHBFSk8yU2poZHpkcy1PLXVieFZCdjlBbEdDT2hQbC01SmVfNTAtTlhva2It?oc=5",
       "source": "Público",
       "publishedAt": "2026-09-03T18:10:22Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/03/ciencia/noticia/timorleste-elimina-tracoma-principal-causa-infecciosa-cegueira-mundo-2186981"
+      "image": ""
     },
     {
       "title": "Problemas no hospital Amadora-Sintra não ficarão resolvidos a curto prazo – diretor-executivo - Saúde Mais TV",
@@ -97,14 +105,6 @@
       "source": "Saúde Mais TV",
       "publishedAt": "2026-09-03T18:47:28Z",
       "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Profissionais de saúde realizam trabalhos abrangentes de desinfecção no Porto de Gyirong, atingido por deslizamentos de terra - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGswOXg3eVVmLVA1OEowcTZTY0ZMQTlwaUhXb1MtTTJuQ2JZbElaWEFPYTJId0ZLOG9WS0tVWjJ3UUFHSUhBemQyS0RVY0hZTGs1dVRKTVJhUWFzMS1HanVQWUNJVi1NcG0tTXZZVGhUcjFiMGt6VXphNVZXUXZsajA2aVp3NHc?oc=5",
-      "source": "新华网",
-      "publishedAt": "2026-09-04T02:54:16Z",
-      "description": "Notícia publicada por 新华网. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -124,7 +124,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-03T08:05:56Z",
       "description": "O Presidente da Federação Russa, Vladimir Putin, afirmou que não quer “congelar” a guerra na Ucrânia e que pretende alcançar uma “paz duradoura e absoluta”. “Não queremos congelar a guerra; queremos...",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwEtvbcD&_nc_oc=AdrhT_1sZcjJTQ_l3DpEeuyEjD7SJUcMUfahfZgGUJn668nogu7GSXb8HoK6YWTuOOw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=2CIfSVjrWBYbuSI3n3IMFQ&_nc_ss=7820f&oh=00_AQI-a_AB3kihWdAJQYwZ0JTCuVteaYLzKHLh1rvDrJljwQ&oe=6A9FF2F7",
+      "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/792090224_2798633307184348_4664644962794026117_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=DifSVhvHcdEQ7kNvwHu0GsL&_nc_oc=AdpJsSa6eZfEPv_GKhttI1rfe9eXH6T7XLhZuhX57IPf0qFQ0DZSO1ZR6ZDi_j6gVr4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=f8WMHLRJSZNoSNaofq_MOw&_nc_ss=7820f&oh=00_AQJkS53fgRrIjDNNMJLTafrD4jpq8-ZuW06CGCm3RvOshg&oe=6AA02B37",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-presidente-da-federa%C3%A7%C3%A3o-russa-vladimir-putin-afirmou-que-n%C3%A3o-quer-congelar-a-g/1465034822394463/"
     },
     {
@@ -137,9 +137,9 @@
       "articleUrl": "https://www.rfi.fr/pt/programas/convidado/20260903-kiev-na-pr%C3%A1tica-%C3%A9-pe%C3%A3o-do-grande-xadrez-entre-as-grandes-pot%C3%AAncias-major-general-carlos-branco"
     },
     {
-      "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - Diário de Notícias",
+      "title": "“A China precisa de rotas que os Estados Unidos não consigam fechar” - dn.pt",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWE5OVUZrbExzZHpqSXZpSHpNbEgtOE5xMEVKZzQxbGF0a1BvWXpGOHNva2dFZWFTR2pNNXJnY0xZY3FhUHA5NzlXWFJYVVRTWUNJZ1hKR2FCNUJwdVZUUVFvSU0yXzlwVUUyZk9mV1JxRGhUNHlDYUstVVlaMHNHR1BzQmtyeFBQVnNwcVVKQktKd1c4U2llOTlGcDg3ZlJ2czBTczBmOG91X2cwUWRORV9XUktFTWs?oc=5",
-      "source": "Diário de Notícias",
+      "source": "dn.pt",
       "publishedAt": "2026-09-02T23:05:41Z",
       "description": "Competição geopolítica também se disputa no Ártico. Rússia e China jogam as suas cartadas, Estados Unidos tentam recuperar do atraso e responder.Os chineses est",
       "image": "https://media.assettype.com/dn%2F2026-09-02%2Fqeeminxz%2FPhotoAliciaGarciaHerrero001.jpg?rect=0%2C286%2C2570%2C1349&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
@@ -164,15 +164,6 @@
       "articleUrl": "https://www.publico.pt/2026/09/02/mundo/noticia/ue-nato-prometem-maior-pressao-russia-escalada-leipzig-2186809?ref=hp&cx=manchete_1_destaque_0"
     },
     {
-      "title": "Será que Putin está a tentar manipular Donald Trump? - Observador",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JrQ0dNeUx0TEtaSEJ1dlhSamhyZzF0SWtncENMal9LeExIUXVZUUJkdm9qWHU4dm9wNk1FQ1Fza2xCSVl2a1c3WVI3VEVwWjVYQjBrZ0pQUlBJVXZqcGtUeVFLZ1h0bHFncElzMWR1azBIR3d5R1FsU1NxSkFldURZMmNjTmJTQlZmQkdFTXp4SDJCYUhhRnFWcXo0MmZtUlFjck5n?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-03T19:54:17Z",
-      "description": "João Albuquerque rejeita a ideia de manipulação, mas assume haver laços ideológicos. Alerta ainda para o risco de aceitar a lógica das esferas de influência russa e chinesa.",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
-      "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/sera-que-putin-esta-a-tentar-manipular-donald-trump/"
-    },
-    {
       "title": "Ataque de drone em Leipzig: UE fala em “terrorismo” de Moscovo, NATO em “imprudência”, vários países já convocaram diplomatas russos - Expresso",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcXE3cm9oaHhtX3N2SHczTnN6RjhCSC0zV3JxY29KSmFHZlZwQ2RfMW1iQ2JTS3hrdm1OVHhyYjZaUlg1QzFMeUpzbkxZTkswaExnT09NN1oyQWhmRnY4dzJicEkwWUlMdGRkRkZvWEV6QjBJSVJDMkpZLVVmdko5MVI4Mkk4end4RV84anB6YnlEcGhrc043TEEwRThUX3J1VC1qWEJudld6VXJ6MGhDd3hmeEhpeXZFeVBlMUpVRTBsYjlld19ieklqRTVaZks3Q2o5STc4eXNIZ2ppWTdEUFZXQnZHenY4ZXRJbFFSR0VoTVZLaXRVVS04dUxpS3BnUGJIalRTTGlBWWEz?oc=5",
       "source": "Expresso",
@@ -180,6 +171,15 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-02-ataque-de-drone-em-leipzig-ue-fala-em-terrorismo-de-moscovo-nato-em-imprudencia-varios-paises-ja-convocaram-diplomatas-russos-2bb30461"
+    },
+    {
+      "title": "Será que Putin está a tentar manipular Donald Trump? - Observador",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JrQ0dNeUx0TEtaSEJ1dlhSamhyZzF0SWtncENMal9LeExIUXVZUUJkdm9qWHU4dm9wNk1FQ1Fza2xCSVl2a1c3WVI3VEVwWjVYQjBrZ0pQUlBJVXZqcGtUeVFLZ1h0bHFncElzMWR1azBIR3d5R1FsU1NxSkFldURZMmNjTmJTQlZmQkdFTXp4SDJCYUhhRnFWcXo0MmZtUlFjck5n?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-03T19:54:17Z",
+      "description": "João Albuquerque rejeita a ideia de manipulação, mas assume haver laços ideológicos. Alerta ainda para o risco de aceitar a lógica das esferas de influência russa e chinesa.",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "articleUrl": "https://observador.pt/programas/gabinete-de-guerra/sera-que-putin-esta-a-tentar-manipular-donald-trump/"
     },
     {
       "title": "União Europeia com consenso amplo para adotar \"sanções muito exigentes\" à Rússia - Correio da Manhã",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Guerra no Irão intensifica-se com ataques dos EUA e retaliação em quatro países - impala.pt",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMVpXSGJWRVdqTE41eGZuWjU4Tk9ZNWk5RkVIakQxR2xicmlvWVIzdDJzRXdVSk5lR1BKT1ZHOHA0ckpoTVVKLWRyQWdKY0dybll6d1U0bndHVXJ6alFQamZBMHRucjNLLUVIRkNMTHV0ZkRjbHdsN0M4LVVhcFk?oc=5",
-      "source": "impala.pt",
-      "publishedAt": "2026-09-02T07:52:26Z",
-      "description": "Notícia publicada por impala.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Petróleo Brent cede com incertezas no Oriente Médio e falas de Putin - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDI0WldiNGNaRFltWXBKNGJtb0F1TXUzT05Ia2FBSGplRWpsRkZmaG5TMmZuNTJYTVNuT2JhaDZsVVRBSHUwTWcyZXlULXZpbERDdDduQkFYdWs1RlBLVnRZUzJ5ajc3ZnBleUhhbXBMWlVzWXR1MmNwaXNIZFB4SDNNM3NSQWR2a20tcQ?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-03T13:05:06Z",
+      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
