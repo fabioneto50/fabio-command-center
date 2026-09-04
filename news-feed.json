@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-04T15:28:30.021480Z",
+  "updatedAt": "2026-09-04T16:28:00.608080Z",
   "health": [
     {
-      "title": "Cientistas de Coimbra testam abordagens terapêuticas para a doença de Machado-Joseph - Público",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNktLSjRmSGE1M2M5T0xXNVZGLVd1MU9qZ2F2VDV0ZUVURmp4Q21Tdy14RVhmQjVWSUpOM2hvYmRUZUhCQlNZZ3JJaGtfQUYzYmJrMHlqeXltLVpfN0NBdnFzTXVGU05JY1BwckVnNHJaaHhpMHJyYUdKMVdkZGVURDZGRjlob1h0dDA0WFhUTWYtdVZ3TkQtR0RRay1jVmpzUHBxX1o3RnRoUjFTQXdoc3BfR1FlU3FKSjUyX1BXUkY5ZlFXMzdn?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-04T11:51:05Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Nove chefes de equipa da urgência pediátrica do Hospital D. Estefânia apresentam demissão - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1RvbFYyUl8zdGRua2x1M2Rxa3UzSnRqbVk1ZlpsenZrdmQyREVKMVJrSUFZamZoQ1JhOW1qeHpBcEtHYnpWamJRdUpWUHNpTXNBRlVYUFNMeFZWeDFBaVUxLU5XSjdCREtoS2F0TmYtcW1zY3lRb2lNMjZqbFRrQ3VRaWZScTcyTVFmV2x3d2NzQnR1aHRNbm43b3JSR25jaXFOWFl1T0Z0QTc4RmVtTU44VmZ2YXIydFFoNi1BT2JOWkgzR011X3hMODZVSXFHRDFaWUd3?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-04T16:11:20Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/04/ciencia/noticia/cientistas-coimbra-testam-abordagens-terapeuticas-doenca-machadojoseph-2187022"
+      "articleUrl": "https://www.publico.pt/2026/09/04/sociedade/noticia/nove-chefes-equipa-urgencia-pediatrica-hospital-d-estefania-apresentam-demissao-2187037"
     },
     {
       "title": "Universidade de Coimbra alarga cooperação com o Brasil nas áreas da Medicina e Direito - uc.pt",
@@ -25,7 +25,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-04T13:19:05Z",
       "description": "Todos os profissionais de saúde reportam falta de condições para assegurar o serviço. A ministra da Saúde admitiu a falta de médicos anestesiologistas em várias zonas do país.",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/793852779_2257343768440250_5241572712410236105_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=dA20KqKdm80Q7kNvwFo4Po0&_nc_oc=AdpOvv3Mq7Gjx1HX_hoAWLwxAvhklp42yYUI0XWuLz4R8_lVrVAzEkLV6ygipP8e9Ug&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MMp3xTJpwWemb7pIeEYy7A&_nc_ss=7820f&oh=00_AQJppCksvokZ6UuFAcSqTLJcdxXyIw_Cb5-BLIT1cpcD7A&oe=6AA0A805",
+      "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.99422-6/793852779_2257343768440250_5241572712410236105_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=dA20KqKdm80Q7kNvwFxuS4o&_nc_oc=AdoFbUzDvr4P9eGmLGnGfoTSHqua3Ms3Soc1sm6LfW0JU0rVLVjQQfkroPysNEKiT0I&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=xtF1lo-Ds0p28Flm1BonvA&_nc_ss=7820f&oh=00_AQKh-wSYkMOHnqJUysyX6ioUQzSvFdmLnDWoabo6ECpcqA&oe=6AA0E045",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/todos-os-profissionais-de-sa%C3%BAde-reportam-falta-de-condi%C3%A7%C3%B5es-para-assegurar-o-ser/1467083315522947/"
     },
     {
@@ -45,6 +45,15 @@
       "description": "Segundo o IRN, apesar da suspensão do balcão, existem alternativas \"para pedir o registo de nascimento de um bebé”, como o serviço Nascimento Online",
       "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https://www.regiaodeleiria.pt/wp-content/uploads/2024/03/bebes.jpg",
       "articleUrl": "https://www.regiaodeleiria.pt/2026/09/balcao-nascer-cidadao-no-hospital-suspenso-ate-fim-de-setembro/"
+    },
+    {
+      "title": "Dia Mundial da Saúde Sexual apela à justiça e à inclusão - Nações Unidas - ONU Portugal - unric",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmwxdUY3QlNOb3ZWdVFVN012YVRwSks2MHd0WjZEcnVZd3hrdFZSRzMySXFBSWNwOVJyaTZNQVhpeFFoenJqYU9RZHJEelZ6LWpfVVhpNmVuSWc1MFEtdXRYZERFTHl2alFkRm1pSXc1V05ZazlSTm9MdnNVbzZyeXNzSTA?oc=5",
+      "source": "unric",
+      "publishedAt": "2026-09-04T07:46:00Z",
+      "description": "UNFPA e OMS apelam ao reforço dos direitos sexuais e reprodutivos, defendendo informação de qualidade, serviços acessíveis e combate à discriminação Assinala-se hoje o Dia Mundial da Saúde Sexual, uma data que pretende chamar a atenção para a importância da saúde sexual e reprodutiva como componente fundamental do bem-estar humano, dos direitos humanos e do […]",
+      "image": "https://e4k4c4x9.delivery.rocketcdn.me/pt/wp-content/uploads/sites/9/2019/01/13610980474_08d7acd0b9_o.jpg",
+      "articleUrl": "https://unric.org/pt/dia-mundial-da-saude-sexual-apela-a-justica-e-a-inclusao/"
     },
     {
       "title": "Moçambique com falta de profissionais de saúde em áreas prioritárias - ministro - LUSA",
@@ -74,37 +83,28 @@
       "articleUrl": "https://cnnportugal.iol.pt/saude/leucemia/fatima-ferreira-leucemia-linfocitica-cronica-viver-bem-mesmo-com-uma-doenca-cronica/20260904/6a998e5ad34e511da0b36ba1"
     },
     {
-      "title": "Após alerta da Ordem, Ministério das Finanças aprova documento que permite contratação de enfermeiros - Público",
+      "title": "Após alerta da Ordem, Ministério das Finanças aprova documento que permite contratação de enfermeiros - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFRpdTRPU1VnVU9iZUFaY1RsMDlaUlk1dzl3V1l4R3FxSE95SzBHOENVNmRKYmhHci1ZVUk2ZU5GdGdHNi13ZE15OUZkdU12Z1NqYkpkdlRtVWFobV9QNEVMMGdCS0tHXy1oZ3hubUFxVDZpV2EwMzltRDRvLVJrVmd0V0diUXVZb0UyNVItWWNHMVpPbmRYczd6c3RteDZpYkZWWHRuSHhaeTIydDU2dUVZWVRVYlV1T0RZUUlTWllrVEVYMnUwbg?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-04T09:05:23Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/04/sociedade/noticia/ministerio-financas-aprovou-documento-permite-contratacao-enfermeiros-2187011"
     },
     {
-      "title": "Hospital Dona Estefânia foi palco de demissão em bloco - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXAzTWdJaWpfRzB3UVRhZkZXSno3UTNNM1ptSzYtTGoyY2xmVEVhSGt2YnVrbnUtMEVPN2lTR1F0SXlnaFo1NXJqZUVlWUhIYkJ5YUQwcDRsSFZzWG5odWdtclJNUEUtZGJkNnFFWVFwSnNjQUtKekVNVG1aNk5MRkV0dXRJQXJhUU1Zdnl1OXZQRjA3WVRoS2dlMkFxV2h1TkE?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-04T07:32:28Z",
-      "description": "Todos os os chefes de equipa da Urgência Pediátrica apresentaram a demissão, alegando falta de condições para assegurar o serviço, em especial a falta de anestesistas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/01/01a6bef1e67c6d8d33e6d058b054453c?w=860&q=90&rect=0,0,711,390&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/politica/hospital-dona-estefania-foi-palco-de-demissao-em-bloco_v1763269"
-    },
-    {
-      "title": "Nove chefes de equipa da urgência pediátrica do Hospital D. Estefânia apresentam demissão - LUSA",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzR4dFRpWDAtZlRmdGlnaE1WeURTNF9QSmZseHF5S2pGZFR1LWZtOHlrS3JqRmtLUURiQkVRUWtPWmdyRkx4RG9lT3FTYjJGaExGSGhBUlBEVXVrbXZOcDBYZUw5dnhiZ2dfcE1ZTHFOV0VtZmNzNkVkXzlUQzhXSC1oS2Y3MWxybkhGRzc5dWZJamJqS3BlajE0LUJRNFJ4N01lb0dON3A5SVRxU1YxTF9Mc0ZKaDduZEdkQU9KUmlUd3I5Q21CUUUxMWpjbXdWQWRGR1RxUFB2TkpOVEE?oc=5",
-      "source": "LUSA",
-      "publishedAt": "2026-09-04T11:22:00Z",
-      "description": "Notícia publicada por LUSA. Abra o artigo para consultar os detalhes completos.",
+      "title": "Cientistas de Coimbra testam abordagens terapêuticas para a doença de Machado-Joseph - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNktLSjRmSGE1M2M5T0xXNVZGLVd1MU9qZ2F2VDV0ZUVURmp4Q21Tdy14RVhmQjVWSUpOM2hvYmRUZUhCQlNZZ3JJaGtfQUYzYmJrMHlqeXltLVpfN0NBdnFzTXVGU05JY1BwckVnNHJaaHhpMHJyYUdKMVdkZGVURDZGRjlob1h0dDA0WFhUTWYtdVZ3TkQtR0RRay1jVmpzUHBxX1o3RnRoUjFTQXdoc3BfR1FlU3FKSjUyX1BXUkY5ZlFXMzdn?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-04T11:51:05Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Pacto para a Saúde. Maioria das entidades já foi ouvida, Seguro fará primeiro balanço no final do ano - Público",
+      "title": "Pacto para a Saúde. Maioria das entidades já foi ouvida, Seguro fará primeiro balanço no final do ano - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGpYVmE2NmlISnY2NmUwbEliTW00QTZNdlJqUnQtS3pEWWtNeTJVS0dQQkZxQXFHRWdiRUJTZmZpdDIxNUFtZ2Q2X3RXWGc3aGJxRDdydi01RkhjczVxNTFMU3Zhd0hHbTIzV052M3lKTng1cnZtMGxEakxUdFplZF8yTXc1OXRSR3lKOUdhNkdsSF9TR0Z0R0lINmpMN3A3ZzhvMXY5dWJkcXlGMHljcFVGcXZtTFFGOVpyRXZxT1NwWG1fYTcw?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-04T06:11:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -182,11 +182,11 @@
       "articleUrl": "https://www.rfi.fr/pt/programas/convidado/20260903-kiev-na-pr%C3%A1tica-%C3%A9-pe%C3%A3o-do-grande-xadrez-entre-as-grandes-pot%C3%AAncias-major-general-carlos-branco"
     },
     {
-      "title": "Trump pedirá reembolso de países europeus pela ajuda concedida à Ucrânia - folhape.com.br",
+      "title": "Trump pedirá reembolso de países europeus pela ajuda concedida à Ucrânia - Folha PE",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFVaeEFNWHJMb1BxU3FINGgtY25IVU4wX0hDdFV4eEQ0SHdYR3kwNmg0NzUwZmQ1a1FaNUFPRDVFTWF4RkVCUDhWVG40UTI0MHlBWGMxNjBfRmtzUHNiUjBqQVVDZTdNMmJ4WU9lVGRsczYwWXcyNXJzNHpqdkwtYXNrbFFIZXg1RVBHNmJ6N2Zfc1QzOXVQM202bWlHZmlrSk5JMEM4QzdmNGhmSW56S9IBsAFBVV95cUxOSFVaeEFNWHJMb1BxU3FINGgtY25IVU4wX0hDdFV4eEQ0SHdYR3kwNmg0NzUwZmQ1a1FaNUFPRDVFTWF4RkVCUDhWVG40UTI0MHlBWGMxNjBfRmtzUHNiUjBqQVVDZTdNMmJ4WU9lVGRsczYwWXcyNXJzNHpqdkwtYXNrbFFIZXg1RVBHNmJ6N2Zfc1QzOXVQM202bWlHZmlrSk5JMEM4QzdmNGhmSW56Sw?oc=5",
-      "source": "folhape.com.br",
+      "source": "Folha PE",
       "publishedAt": "2026-09-04T12:48:00Z",
-      "description": "Notícia publicada por folhape.com.br. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.folhape.com.br/noticia/amp/510692/trump-pedira-reembolso-de-paises-europeus-pela-ajuda-concedida-a/"
     },
