@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T20:25:42.506788Z",
+  "updatedAt": "2026-09-05T21:24:54.736361Z",
   "health": [
     {
       "title": "Ensaio clínico vai testar medicamento em pessoas sem sintomas para apurar se é possível prevenir Alzheimer - Diário de Notícias",
@@ -11,13 +11,22 @@
       "articleUrl": "https://www.dn.pt/sociedade/ensaio-clnico-vai-testar-medicamento-em-pessoas-sem-sintomas-para-apurar-se-possvel-prevenir-alzheimer"
     },
     {
-      "title": "Froholdt já teve alta depois de passar a noite no hospital: o que está em causa - A Bola",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRzhJWkxaaFRoa1h0enZtT2lrVHRsR2hIVDJNRnk3ak9FX2NUU3NJTDdKWWotUzFSTHViM090YnBEVkN2VjZ3WFFqdUpfNXNtajZCZjlwZ2t6ZENpQWdrNTNwbl9zRWJMT3RHdW0wUTVzZnZGZFNKaDdVY0J5TE5LS3l1M1BHT3lSOXQ0aVF4dTFjWU90WGxzVlkzWmhIYWFURDZVc3YxQU5yaTd0RXdtcnM3YUVCRlQ4RkdwUjFONWExaDJYNlNj?oc=5",
+      "title": "FC Porto: a primeira mensagem de Froholdt após sair do hospital - A Bola",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTdMZnJ3S3VLeXphcExmMm5mMy1DMTNJbUtMZXJ1cnBzYVh5NFJ4cEdtR1pYajFKaERid1VRVWV1Q184NTlNOW9JcTZMWmtRTkI2N1BYYnpya1c4NEZaZHRhQTVPcDhJN0QxMjhBTWxaQ3VhR2Z5WTc2Ry1QZUJDMW05ZXJxcFlOX0JNeV9laWpkNkVVQUVkaHNRQVYyMkItYkI2LXpHSXpHNGdBX21NVUdR?oc=5",
       "source": "A Bola",
-      "publishedAt": "2026-09-05T11:54:00Z",
-      "description": "Médio dinamarquês, que saiu de maca do jogo com o Moreirense, vai falhar a receção ao Manchester City",
-      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/04092026/b92e2c28-5879-46c5-a756-3c8821e46829.jpg?operations=autocrop(1200:630)",
-      "articleUrl": "https://www.abola.pt/noticias/froholdt-ja-teve-alta-depois-de-passar-a-noite-no-hospital-o-que-esta-em-causa-2026090511542142510"
+      "publishedAt": "2026-09-05T19:36:00Z",
+      "description": "Médio dinamarquês sofreu concussão cerebral na ponta final do jogo com o Moreirense",
+      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/05092026/0b8b9ba7-b628-4b71-b035-e83560f4ec51.jpg?operations=autocrop(1200:630)",
+      "articleUrl": "https://www.abola.pt/noticias/fc-porto-a-primeira-mensagem-de-froholdt-apos-sair-do-hospital-2026090519302803512"
+    },
+    {
+      "title": "PS questiona financiamento do Estado para o novo hospital (vídeo) - RTP Madeira",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3hpU0Z2anBNdFdSM2lkVW9hc3hzWG5FUmVfYV9rYTRvemlULTRfQnA0YUNoSUFBRHFabFlfRDBqUlgyZkdBLTB1QVZpUTNVNXpJdFVObTZNQkttM1JFTjVoMl93NF8zQmhBRlNxOXI4a1RRZ0JXNnpzaHdZUEF1N1ZWSmtUZ19WWTJrdjA0OHZHMlJyTGoyTjE0Vm8?oc=5",
+      "source": "RTP Madeira",
+      "publishedAt": "2026-09-05T20:03:00Z",
+      "description": "Notícia publicada por RTP Madeira. Abra o artigo para consultar os detalhes completos.",
+      "image": "https://madeira.rtp.pt/wp-content/uploads/2026/09/PS-M_05.09.2026.jpg",
+      "articleUrl": "https://madeira.rtp.pt/politica/ps-questiona-financiamento-do-estado-para-o-novo-hospital-video/"
     },
     {
       "title": "Setor da saúde assume \"perplexidade\" e contesta meta que reduz cobertura de médico de família - TSF",
@@ -65,6 +74,15 @@
       "articleUrl": "https://www.jn.pt/justica/artigo/psp-e-autoridade-de-saude-encerram-restaurante-em-sintra/18123665"
     },
     {
+      "title": "Coaching em saúde(?) - Jornal do Algarve",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XX29mZkdRb1Z4VnhOamtoM0RPVlhsVGhTRnpleUllcnBSTk9jcmtJendRNUJjUEZrd21KN2pHVlZPbGpvRlFTVXNaS0tQb1NEVXhlMEpnSm4?oc=5",
+      "source": "Jornal do Algarve",
+      "publishedAt": "2026-09-05T15:06:00Z",
+      "description": "Mais um inglesismo para ilustrar um alegado serviço de “vanguarda” na Saúde. Tem sido notícia terem os Serviços Partilhados do Ministério",
+      "image": "https://jornaldoalgarve.pt/wp-content/uploads/2026/01/Esteves-Franco-net.jpg",
+      "articleUrl": "https://jornaldoalgarve.pt/coaching-em-saude/"
+    },
+    {
       "title": "PS quer \"garantias formais\" de financiamento do novo hospital - JM Madeira",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS29UQ1dCcC1wcDg1NkZqQ0p4Si1oNXBEYURXeGM0M0w1ekdKNUJnYi03SlhycjYxN1NUVFVMRkZJUXFlcG43b2g4Z2V2aUN0bkFOTm5DemhtOE1EWHRYV19oeVNTU19kUi1XRWxmRHFRU2R4ZjFBcUJzY2treFFZR2lCUVZsZjZOb1NLS2VWOVJkYng4dmZESnJZMzdkODNsVGhzMURfZEVMc2dBT3Q4TmJ2YUVubmxhOFVNag?oc=5",
       "source": "JM Madeira",
@@ -74,29 +92,11 @@
       "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30004558/ps-quer-garantias-formais-de-financiamento-do-novo-hospital.html"
     },
     {
-      "title": "Turnos rotativos não foram associados a pior saúde em trabalhadores hospitalares - HealthNews",
+      "title": "Turnos rotativos não foram associados a pior saúde em trabalhadores hospitalares - healthnews.pt",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXg4eEp4QjU4ckFPWS1SUXpEcVJNdmZackc3TzRlRV9ULXdVVS0tcDVMdnBub2xCNkd5U05NMTVSdlZ0d0xwdVNNa21PaF9odEl0UkFiR1ByaTdxVW05TC05d1dkMUQxR181T0VlT01pX1dzaXMxRjVHeEp2ZUIwMU1kcDFKeWpkdXR3NzFnZm5IaktiY1RERDFINktVZFN5VklxYy1od3dybWdGZG4xa21tOXE?oc=5",
-      "source": "HealthNews",
+      "source": "healthnews.pt",
       "publishedAt": "2026-09-05T06:10:45Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/05/turnos-rotativos-nao-foram-associados-a-pior-saude-em-trabalhadores-hospitalares/"
-    },
-    {
-      "title": "Ordem dos Médicos diz que quadro do SNS 2026-28 fica \"muito aquém\" do necessário - Observador",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkdzQ0pDa1B3Q000RU40SlRaMDhEalo2RkVoc2x6TkN1TWVHbVp4WFJ1VG53dnNVRzFLU0RjTDFNTkllNWc0LVN1WFdmN2dTcWlZRjN2UmRtemNheURMcFVwbUFCQnhrQ3RCUDZTTDg4b3VFeEplbHJBaEZVOXhpNHc3WmxGaUNzZXo4TmtvdEZHRGZ1WWJuWkkxQnRmWEU1YTc4MFNoenVzMDRORC1RRG53?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-05T11:13:46Z",
-      "description": "Numa altura em que o SNS \"precisa de recuperar capacidade, aumentar o acesso e atrair profissionais, a resposta não pode ser baixar metas\", diz a mesma entidade.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A140%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F07%2F24192257%2F45098332.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/05/ordem-dos-medicos-diz-que-quadro-do-sns-2026-28-fica-muito-aquem-do-necessario/"
-    },
-    {
-      "title": "Farmácia Grave: Saúde materna em destaque - reconquista.pt",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDNLSENyMHc1bU5fNWdwc29ELXJCYkgzWjY2RU5oRUhqNzQ4dnJzVkF1S3JORXlkbWtYOF90SW50TUh3VFJPSDJyNWdpY3Z0N2lHeVBkSDR1djI4Ums0dk5iRWF6Snk3dTRqSlhRVHZ3M18zOTZ4NE01YmlKRkRBSk45TQ?oc=5",
-      "source": "reconquista.pt",
-      "publishedAt": "2026-09-05T11:30:00Z",
-      "description": "Notícia publicada por reconquista.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -135,6 +135,15 @@
       "description": "Os emissários norte-americanos Steve Witkoff e Jared Kushner chegaram este sábado a Moscovo para conversações sobre a paz na Ucrânia. No domingo, estarão em Kiev. Para a ocasião, ambos os países ordenaram…",
       "image": "https://s.rfi.fr/media/display/86856258-40ce-11f1-909d-005056bf30b7/w:1280/p:16x9/AP26102061314573-1.jpg",
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260905-emiss%C3%A1rios-norte-americanos-em-moscovo-e-kiev-para-negocia%C3%A7%C3%B5es-de-paz-na-ucr%C3%A2nia"
+    },
+    {
+      "title": "Exército iraniano promete retaliação \"mais forte\" se ataques de EUA prosseguirem - SÁBADO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2hlTFhtYjUtUFZ6QmtRLUY2UmJzQmlDYTRUS21BMVRrVUx0TXk3dWplbnNTOENwcUlTdldLTlRfRExIS1RKT2VEYllYSExudXZOa29OSzdYSjB5RThjU3dZUlRGWUhieW9qZ1FCWUlfWHN0ZDV0bkFJMXVtVzhKbFlqTV9zdXpLUlRXN21oNFpvaWg1Z2FCSDVHN29ua0p3dGk1UklQVW9RcjRwMnFWOU9RbHl2aHF2MTh5cnprZUF2ZWZPbnRrdVo4ZlFDbmPSAc8BQVVfeXFMTnNoZUxYbWI1LVBWekJrUS1GNlJic0JpQ2E0VEttQTFUa1VMdE15N3VqZW5zUzhDcHFJU3ZXS05UX0RMSEtUSk9lRGJZWEhMbnV2TmtvTks3WEoweUU4Y1N3WVJURllIYnlvamdRQllJX1hzdGQ1dG5BSTF1bVc4SmxZak1fc3V6S1JUVzdtaDRab2loNWdhQkg1RzdvbmtKd3RpNVJJUFVvUXI0cDJxVjlPUWx5dmhxdjE4eXJ6a2VBdmVmT250a3VaOGZRQ25j?oc=5",
+      "source": "SÁBADO",
+      "publishedAt": "2026-09-05T20:09:00Z",
+      "description": "O Exército dos Estados Unidos atacou hoje três petroleiros iranianos, depois de a Guarda Revolucionária Islâmica ter lançado mísseis balísticos contra dois navios de guerra da Marinha norte-americana que patrulhavam a região.",
+      "image": "https://cdn.sabado.pt/images/2026-05/img_1200x676uu2026-05-02-10-30-55-764714.jpg",
+      "articleUrl": "https://www.sabado.pt/mundo/guerra-no-medio-oriente/amp/exercito-iraniano-promete-retaliacao-mais-forte-se-ataques-de-eua-prosseguirem"
     },
     {
       "title": "Meios iranianos noticiam explosões perto da ilha de Kharg enquanto UE diz estar \"alarmada\" com escalada - Expresso",
@@ -182,22 +191,13 @@
       "articleUrl": "https://www.impala.pt/noticias/politica/ucrania-zelensky-denuncia-ataques-ao-aeroporto-de-kiev-como-sabotagem-da-russia-contra-diplomacia/"
     },
     {
-      "title": "Os Estados Unidos estão enviando enviados especiais à Rússia e à Ucrânia com um novo plano para \"acabar com a guerra\". - vietnam.vn",
+      "title": "Os Estados Unidos estão enviando enviados especiais à Rússia e à Ucrânia com um novo plano para \"acabar com a guerra\". - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM09GSHRLZVpsYW5XRl91VmF5MXJCQm1oX1Z4QnR4a0JHREtRdU51bnU1NGhrT2Mwb2QyOXVDNVlhNV9kVE9iZGNzV3gxVGZXMG5BQk0wTmV6UGQzZXVGRjBHZVhKREZMckNqTWVUS3pTYm1RekV4RW1CWE9Dck1pX2NCaXpwbkpOQTRSMDBRbUlaUjBCam5sZGxfdEl0YjA1bkx0RVFrXzF5V1U?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "publishedAt": "2026-09-05T14:14:15Z",
       "description": "ANTD.VN - O presidente dos EUA, Donald Trump, anunciou que dois enviados especiais, Steve Witkoff e Jared Kushner, viajarão a Moscou e Kiev, levando consigo uma nova proposta com o objetivo de pôr fim ao conflito entre Rússia e Ucrânia, que já dura mais de quatro anos.",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/05/1788616789869_1000049564-jpg.webp",
       "articleUrl": "https://www.vietnam.vn/pt/my-cu-dac-phai-vien-toi-nga-va-ukraine-voi-ke-hoach-moi-nham-cham-dut-chien-tranh"
-    },
-    {
-      "title": "Putin abre os braços aos Estados Unidos e aponta o dedo à Europa - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnNLSkF3YlFEVUFBZXdPR2VFNkxvR0MxeEhUcnFpdllCSmw3bXk2dXBBUGdwQXZnc3J4S3dEU1lBcmxPODFjeXZ4MURCdzRxTG44N29kcklfWC1rQVlTLUgxR1NuM3RXa3B4VmQ3MmlvalZDQmtLR1NMMjI0QW9HRWd6cGdmYktpZmE2UXNlbFlMM2gtWDRwWklOUnZXWjc0RkRVN3NRSVRFN2M?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-03T20:30:14Z",
-      "description": "Vladimir Putin voltou a pedir um acordo direto entre a Rússia e os Estados Unidos. O presidente russo elogiou os Estados Unidos e acusou a Europa de ser cúmplice do terrorismo.",
-      "image": "https://cdn-images.rtp.pt/icm/images/04/04d4f9bb8ab2720aef24ef6f206d55b8_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/putin-abre-os-bracos-aos-estados-unidos-e-aponta-o-dedo-a-europa_v1763284"
     },
     {
       "title": "Estados Unidos vão pedir aos europeus reembolso da ajuda à Ucrânia, diz Trump - Euronews.com",
