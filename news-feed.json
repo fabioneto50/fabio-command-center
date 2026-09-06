@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T21:25:13.969072Z",
+  "updatedAt": "2026-09-06T22:25:34.141241Z",
   "health": [
     {
       "title": "Andaram numa montanha-russa mundialmente famosa. Depois foram levados para o hospital para uma cirurgia cerebral de emergência - CNN Portugal",
@@ -9,6 +9,15 @@
       "description": "Uma investigação da CNN identificou mais de uma dúzia de casos de lesões graves associados à X2 ao longo de quase duas décadas, incluindo uma morte. Apesar dos alertas e de anteriores incidentes, a atração continuou a funcionar",
       "image": "https://img.iol.pt/preset/6a94ae09d34e511da0b36153/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/montanha-russa/six-flags-magic-mountain/andaram-numa-montanha-russa-mundialmente-famosa-depois-foram-levados-para-o-hospital-para-uma-cirurgia-cerebral-de-emergencia/20260906/6a930f8bd34e511da0b35eef"
+    },
+    {
+      "title": "O cancro como verdadeiro teste de esforço do sistema de saúde - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2V0YmdYR1FMREtNa1pxekY3amFjNGdrS0lUUTdHY0ZKaWtHZG1YSFpGanVPRUIxSkJqTjBLZXhsTC00ckZSWjY5bWJrNkVILVRIR21lM0NXVlZVeGVYWUVvWnlwTVJJZzQtSFZ1M1NNOUVEX2FjLUNqS2Q2RVRsOGdxQ0NTdWlkbkxGcmRvUy1SaEhyR0JDbDVLN2psQ3FQSFJwc2h5UlA?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-06T13:25:50Z",
+      "description": "Há uma tendência natural para avaliar um sistema de saúde pelo desempenho que revela nos casos mais simples: uma consulta marcada atempadamente, uma cirurgia de",
+      "image": "https://media.assettype.com/dn%2F2026-04-24%2Fmau44092%2FJose-Joao-MendesEgasMonizSchool2.jpg?rect=0%2C3%2C2724%2C1430&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/opiniao-dn/sociedade-aberta/o-cancro-como-verdadeiro-teste-de-esforo-do-sistema-de-sade"
     },
     {
       "title": "Bloco de Esquerda exige reabertura da radioterapia do Hospital de Évora e manifesta preocupação com doentes - Correio da Manhã",
@@ -29,15 +38,6 @@
       "articleUrl": "https://www.nit.pt/fora-de-casa/na-cidade/o-parque-mais-bonito-do-oeste-faz-maravilhas-pela-sua-saude-a-entrada-e-gratuita"
     },
     {
-      "title": "Psicólogos exigem integração “obrigatória e permanente” nas juntas médicas e querem levar tema ao Parlamento - Público",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUXlEQU1DdlAtNW9WSm11V1JsQmhCeTdrdnBMRGdyWEhWUzBCQTVHTDZXSkdzQ25WZ09Ya0RMY1ZkQlhFUWZIeE5fMHUteDlvdXYtWmJDWHJPSzFlUE9XbmV6MEJPRkx2SVJpT3kzYXFnSVNybWZDaXVBTWRyMVFWWndiTjVYaDNWdUs4S1dET1BveDk3SjFUR3RReGVLREI3RlctcWR0X3Zqcy0wUzEtMXQ2VE4yWHYwdDA3Nzlmd1hnN3ZFeDNNOC13UDNsRjdWTlltRHNnczVmR0FrbE5sYUVjZjFZSTRoS01z?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-06T07:30:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/06/sociedade/noticia/psicologos-exigem-integracao-obrigatoria-permanente-juntas-medicas-querem-levar-tema-parlamento-2187099"
-    },
-    {
       "title": "JAD apresenta propostas para área da saúde mental jovem - JM Madeira",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazVFTkNHbG5zOVJhUFFSTllzcVRCQU8tMko0aG1zV3pzTGVKa1QzdXdtT2VNVU5SbGFoRFE4dzRNMURkdmUtU3hhUVZ6XzF4dGN4YnNDNDNXVXpVZlNpb0ZtM2plZFpOSFBJang0VzU2bUlUTElkUjZ0MFpZRi04czNja0dmcmRrVGxfLWVyV1NKazAxRzY0NGN2VGJtdHc2WVZLSmkyZFA4YUlWcEFBSHBJRFBZVWc?oc=5",
       "source": "JM Madeira",
@@ -47,13 +47,22 @@
       "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30004594/jad-apresenta-propostas-para-area-da-saude-mental-jovem.html"
     },
     {
-      "title": "BE questiona tempos de espera para psicologia no SNS - Observador",
+      "title": "Bloco questiona tempos de espera para primeira consulta de psicologia no SNS - Observador",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3N4X0kyMnp3VThmYUhISzdnQXJNbWZFNUNlZlJSMXJBbEx4alAtaWFkRkJjRkpBMzBKUEo0aGQ1dlVETmlqN0p5VlBYYjVRa3B1dEc3T21Cajk0OWJGWW9CM3dKZEp5UVFFdUhJYXJkdmY5M056SEJFS04tQ2xTYjhmSlEzM0lJcVNkUV9qZUJSX3c5QkJNUjQ2OTRKZXFFcGREbDNqbFZPREQzM3dj?oc=5",
       "source": "Observador",
       "publishedAt": "2026-09-06T16:18:46Z",
       "description": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no Serviço Nacional de Saúde. Segundo a bastonária dos psicólogos pode chegar a meio ano.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A213%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F11%2F29182206%2Fdventura-xiv-convencao-be-dia1-77-scaled.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/09/06/bloco-questiona-tempos-de-espera-para-primeira-consulta-de-psicologia-no-sns/"
+    },
+    {
+      "title": "A luta de Lourenço e da mãe por uma vida com menos obstáculos - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXpuZjNRYkJvU0otcTUzRWY3RE8td3VmMGVpeFB1cnYyNXUzZVRYT1ptYmpwc2hTZUVEY0dsZlF3WWpJN2FPZzZrR0ktUGNPS05OaWc0TldCZFl0Vzc2dm9MTjJBaDJuN1RPU3A4bGFETmNlU0FYazdrTVpaX3Jsa3hmRDYwYnlvM1p1eFVRdnNsUXBHckVFQUlKWGdXSEpTa3FEeHloTnI4SmZBX2ZlVw?oc=5",
+      "source": "O Mirante",
+      "publishedAt": "2026-09-06T20:00:00Z",
+      "description": "Lourenço Sousa é um jovem de 19 anos, natural de Azambuja, que nasceu com a doença de Pelizaeus-Merzbacher, uma patologia genética rara e degenerativa do sistema nervoso central. Não fala, não anda, não come sozinho e depende totalmente da mãe. Uma campanha de solidariedade pretende angariar fundos para adaptar a casa de banho de casa, para lhe proporcionar mais segurança e…",
+      "image": "https://images.impresa.pt/mirante/2026-09-02-pag-15---jovem-com-doenca-rara-azb.jpg-1197b824",
+      "articleUrl": "https://omirante.pt/sociedade/2026-09-06-a-luta-de-lourenco-e-da-mae-por-uma-vida-com-menos-obstaculos-0b070f12"
     },
     {
       "title": "Bloco de Esquerda exige reabertura da radioterapia no hospital de Évora - Alentejo Ilustrado",
@@ -74,37 +83,28 @@
       "articleUrl": "https://healthnews.pt/2026/09/06/ps-madeira-pede-garantias-para-comparticipacao-de-50-no-hospital/"
     },
     {
+      "title": "Galeria de Hospital GHESKIO / Model of Architecture Serving Society (MASS) - 21 - archdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVl81b0dHd2VVbk9falZOUlZ3NWJ3TnRicjVJbVRjejl2X3Y5VXhJYVJCRnVLRmJyVjN3VVRrM3VNanlDLW9oRnJjOFZqX3pQejgxd2R6MmNTYU9OSzRBLWZQYzVjQ3pqbVctazY5U0U5djVLTmQxT2VBZmM0dUpnNjR1TnNUbWVJZHpTaV85TzlLMHNWdU5rb2Qtamc2MmozTGdiQmZPV1BmeWZYVmZTU1Qwc1BlRXEzLWFWTkE5ZTQ0TjdoV3ljeUFqYXRONGRnNlVCZTNoU1FOOW1BNEY3dllXeGF5WEZpeHVxWEpEQlY5b2tWM04wMVdlX24?oc=5",
+      "source": "archdaily.com",
+      "publishedAt": "2026-09-06T15:34:48Z",
+      "description": "Imagem 21 de 23 da galeria de Hospital GHESKIO / Model of Architecture Serving Society (MASS). Corte com ventilação",
+      "image": "https://images.adsttc.com/media/images/5e97/7505/b357/65ca/ec00/0f14/large_jpg/1102_N31_webview.jpg?1586984187",
+      "articleUrl": "https://www.archdaily.com/pt/941769/hospital-gheskio-mass-design-group/5e977505b35765caec000f14-gheskio-tuberculosis-hospital-mass-design-group-section-with-ventilation"
+    },
+    {
       "title": "Férias Ativas visitam o Centro de Saúde de Ponte de Sor - Rádio Elvas",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW5yUHhUeW9ab3BCQWVPbnVPbDhhZHc1ekhzQWkzWk9GcVBGV2o3MTNTNjhuMVVxWlNsWDd3N0RyVG9HT0ZkdVRFckJPaVFXUFpiU20zVk1qdEJUZkV4dUdGVXZyckhYSW9iYlZoN1UxMDdEcVJRek1ScXhGcll3V0F0Vmh3VFdBcWdrZVJvQ0xjeEJt?oc=5",
       "source": "Rádio Elvas",
       "publishedAt": "2026-09-06T16:36:48Z",
-      "description": "No passado dia 26 de agosto, 20 crianças do programa Férias Ativas, do ensino pré-escolar e do 4.º ano, visitaram o Centro de Saúde de Ponte de Sor, da U",
-      "image": "https://radioelvas.com/wp-content/uploads/2026/09/ferias-ativas-ponte-de-sor.jpg",
-      "articleUrl": "https://radioelvas.com/2026/09/06/ferias-ativas-visitam-o-centro-de-saude-de-ponte-de-sor/"
+      "description": "Notícia publicada por Rádio Elvas. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Vinhais aproxima saúde das freguesias com novo programa - jornalnordeste.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFVJTHg5cGpNUk41Vmlsd2dta3pBcnBfVnE0dElJZERuTFdQMHB2TnpCWjlRUHZCRzFUQ0NMRHdpdEdMbEZxTWU2NzVRSmoweVQ4R2pZU0VkZVlYNlhmS1pFVFR6bUEzc2kyU09saFF1eW1kbmYtRUR5Wm8zZnhudkJTbVBTV2xlaklBdmlQVlFjdkltaHRvU2l1ZDZ1QTBOdGJn?oc=5",
       "source": "jornalnordeste.com",
       "publishedAt": "2026-09-06T08:31:36Z",
-      "description": "Programa arranca no próximo ano",
-      "image": "https://jornalnordeste.com/api/cms/api/img/file/realistic-scene-with-health-worker-taking-care-elderly-patient-1200x1800.webp",
-      "articleUrl": "https://jornalnordeste.com/noticias/vinhais-aproxima-saude-das-freguesias-com-novo-programa-municipal"
-    },
-    {
-      "title": "Galeria de Forma e funcionalidade na arquitetura para a saúde: entrevista com João Pedro Serôdio - 20 - archdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQTJFc1JVaFQwRmR4VFdHSE5Wakg5bTZ5eVhmd2NhX0pXSzRFbzdUSVdSa1B1T0dzcW5MZDVDaG1MeXVtZ3pIcWtwdzlONE5FazRqTkRZWnliYkRHeWhfVEoxeE5sb3JCcDBmVUpGTXdTOXR4SXVvbm8zc0JqMVdkMzJKOHJMTWN1WjgwbFJoU29qd2tOSzJXM0Vqc0JvZ2dLMGhZQUhmbzR4VndwRmEzZUUxUzg0cXVoZkQ1bk1hbXZ3TzVJdGx1WDdlb3RwWU16SXcyZnltbXhMMFIwR3ZHeU85YkxaVUhVWHFyZm5sb3ItVC15ZkhJYjJUTkkxZlZiRTVCQnFDWmhUTDhGWFQtNnE1eGpzVzl6QkpkUEdyWUltdmh0TVZidng1M1JTbnNVeGp0LTBvRXhZWEVtTmhvTG1tM21BT3VkR3c0LU5oLU02OHFIcFE?oc=5",
-      "source": "archdaily.com",
-      "publishedAt": "2026-09-06T14:09:55Z",
-      "description": "Notícia publicada por archdaily.com. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no Serviço Nacional de Saúde. Segundo a bastonária dos psicólogos pode chegar a meio ano. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNczJ5a1JXNGlNS1p3S3ZTSnUxNVdfUUtpdFBXcEdzMEJWOEpVbHJLT1RYb2JfelBQTVgydUtSTFpXS3NXOG9KNzJiMEFEOEJDM2hEQUUzZFdrYncyR002cFY2U1RpUkRRRGpKdm5fYlhac093aElYbVZkVTJxOFN0TEJfU2FIOU1VRDc1TjRsN2ZGSlR2VnNRTHJOdTJjWU9mR1pacDlsR3dVWUJweTFTQ3I3ZWNZeWRxTE1VMFowbjlja1JxMGhHYXVGQkJmQXNQZVZ6cXdjYkc4cXdLM3JZ?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-06T16:53:29Z",
-      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por jornalnordeste.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,22 +119,13 @@
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-06-zelensky-inicia-reuniao-com-enviados-dos-estados-unidos-em-kiev-8f864173"
     },
     {
-      "title": "Negociações de paz. Enviados dos Estados Unidos já estão em Kiev - RTP",
+      "title": "Negociações de paz. Enviados dos Estados Unidos já estão em Kiev - rtp.pt",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2EwRDQ3OGtJdEhQYWY0ZUFZc2dHNWwyTktLUnNzd3lDOFZiSWZvektuTnF4bkR4WTBOYWFFaHB6OGFYYXd1ejNaSzBZSmoxS3VMYmQ5ZnVFN0ZrQUc5Y0xyOWEzWVZqMTZHQkgtRUlfcHczMzVpX21xTXZzZVRNVUFpTkJ1VWpYWXhzMXhIeTMzX1RpWjlwaXRRS2l6Q2FaOWV1WEplV2RFZw?oc=5",
-      "source": "RTP",
+      "source": "rtp.pt",
       "publishedAt": "2026-09-06T14:10:11Z",
       "description": "Os enviados dos Estados Unidos Steve Witkoff e Jared Kushner chegaram este domingo de manhã a Kiev, onde estão pela primeira vez para se reunir com Volodymyr Zelensky e apresentar uma proposta para pôr fim ao conflito entre a Ucrânia e a Rússia.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/89/89cb3471ab124775f65964dc8385b0d5?w=860&q=90&rect=0,0,1024,561&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-enviados-dos-estados-unidos-ja-estao-em-kiev_n1763660"
-    },
-    {
-      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - rr.pt",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Juc9IBswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Jucw?oc=5",
-      "source": "rr.pt",
-      "publishedAt": "2026-09-06T09:01:00Z",
-      "description": "Os enviados de Donald Trump vão reunir-se com o presidente ucraniano, Volodymyr Zelensky.",
-      "image": "https://images.rr.pt/2026-09-06t103058z-1588532194-rc2mdna0wdy8-rtrmadp-3-ukraine-crisis-usa-envoys1919fa19_socialshare.jpg",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/guerra-na-ucrania-enviados-dos-estados-unidos-ja-estao-em-kiev/484426/"
     },
     {
       "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
@@ -146,13 +137,13 @@
       "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
     },
     {
-      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - nowcanal.pt",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
-      "source": "nowcanal.pt",
-      "publishedAt": "2026-09-06T12:50:00Z",
-      "description": "No plano diplomático, Luís Gomes destacou as negociações confidenciais entre enviados especiais de Donald Trump e Vladimir Putin antes de encontros em Kiev",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-06-13-16-55-61650.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
+      "title": "Comitiva dos EUA elogia reunião “muito significativa”, Zelensky espera novo encontro nas próximas semanas - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2N3MDJtS3lfQ1dNYnpZcmJWeWdxb2pWUllpMjAxNUZnc2dfTGhWbmxoU1NiMU80YkhOTFR2a2dKRXdURzh0NEREdnZyMzA1dG0wd1pUbEtQcjNJZEZuY1BFSnRWcm1jQXZzM2pid0xxcmNHUXFfbUhHRzhLLWp4VTVxbW1abzM4ckp6MkxuRTNrYnNZdXA2ZmVVY3ZQVzFJQVhpREUxVFpQZnZVT05sMVEwZFFHRWs3X3FsLXZ4a2VrQUg4WmZxdktSQzRPZkJPdXVnVDNINUJZa2Rjb0FPaW5KZDNiOTRm0gHoAUFVX3lxTE0zY3cwMm1LeV9DV01iellyYlZ5Z3FvalZSWWkyMDE1RmdzZ19MaFZubGhTU2IxTzRiSE5MVHZrZ0pFd1RHOHQ0RER2dnIzMDV0bTB3WlRsS1ByM0lkRm5jUEVKdFZybWNBdnMzamJ3THFyY0dRcV9tSEdHOEstanhVNXFtbVpvMzhySnoyTG5FM2tic1l1cDZmZVVjdlBXMUlBWGlERTFUWlBmdlVPTmwxUTBkUUdFazdfcWwtdnhrZWtBSDhaZnF2S1JDNE9mQk91dWdUM0g1QllrZGNvQU9pbkpkM2I5NGY?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-06T18:22:00Z",
+      "description": "Apesar do anúncio de que as capitais europeias e os EUA se vão reunir em breve com a Ucrânia para procurar pôr fim à guerra, Zelensky volta a defender a necessidade de conversar com a Rússia para saber o que diz Putin sobre o futuro dos territórios ocupados e as garantias de segurança.",
+      "image": "https://images.rr.pt/4772744118861abfee9f_socialshare.jpg",
+      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/comitiva-dos-eua-elogia-reuniao-muito-significativa-zelensky-espera-novo-encontro-nas-proximas-semanas/484451/"
     },
     {
       "title": "Enviados dos Estados Unidos chegam à Ucrânia - ECO",
@@ -164,9 +155,18 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/06/enviados-dos-estados-unidos-chegam-a-ucrania/"
     },
     {
-      "title": "Em Kiev, enviado de Trump diz que Rússia e Ucrânia 'têm de fazer concessões', e Zelensky faz 'avaliação positiva' das negociações - oglobo.globo.com",
+      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-09-06T12:50:00Z",
+      "description": "No plano diplomático, Luís Gomes destacou as negociações confidenciais entre enviados especiais de Donald Trump e Vladimir Putin antes de encontros em Kiev",
+      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-06-13-16-55-61650.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
+    },
+    {
+      "title": "Em Kiev, enviado de Trump diz que Rússia e Ucrânia 'têm de fazer concessões', e Zelensky faz 'avaliação positiva' das negociações - O GLOBO",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVBPa2p4RjNBVG9JZkNUSExESVAtQ1JXZE1ZMFVFTlJ0cENpV2oxeXBRZVlWaUdPc0dzTEs5Q2NheVVwZGdSTG5nTjFzb0RhUTV2WEFFNDEwYUdpbzI4d2RiSFN1YXMxX21TLUMtWWlLbVBPa0oyM3d1dlhHODRkMEpIQzdOTXFuVFEzcU15NmE1dFhpeWJMRWhjWXRySThYWGJxZ21qaGRiVElGampHOHNTdjZ2RE1rcGJQd2w0NGFoWlo1MEJtVGdOUFM1bDNhQ2s4NXNlSkRoV3lOdWxMdG5yLTZKcXd5TUhETEhvOHJXTm1VMk5BbUtXTUEtN0J6TGhySzRiUTVlUjU2MTBibWlvVVgwemvSAaYCQVVfeXFMTVdabEc1TjVidTB1MTQ2aGJUdEF5MHFIRVdPWjczcENmTm1nWnAyOXJqOHV5eTVEb0R6V0R3RHlJei1oLTlvSGJMelkyMV9ZRmJsVlVNYTVmeUxVNktneWVibDZHUUNQM3VtSFVxVUM1SkR6TXZzWW81OF9JR2RrWHRIOUl2Wi1fcV9GSWhvZUxTdUhlTFZVclJIeWhRRlZrSTNxSXh0eEdIaWhYanZZaWdMT0hmblpTd3diQjFPTEtzVG5TUVZyeUNuZ2trV1RvZ2tpMWU5UFhYeFVxSVBRWHBnWEtQcTlQa1VkMG9KdG5sQ0FPMVczdjhGQmZ5dS1JQm85dEg5YkVETHZmTXpldU5UWGcxdTRUYWdDaWM3S2M4S19ES1V3?oc=5",
-      "source": "oglobo.globo.com",
+      "source": "O GLOBO",
       "publishedAt": "2026-09-06T15:15:48Z",
       "description": "Steve Witkoff e Jared Kushner desembarcam na capital ucraniana pela primeira vez desde o início do conflito, um dia depois de reunião de três horas com Putin em Moscou",
       "image": "https://s2-oglobo.glbimg.com/i6bN3DALnZDQhUqO8XBbSqs2riQ=/2493x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/3/Q/jyLOKASRKVJ7Mx2N0Ssg/afp-20260906-c7gh4tv-v1-highres-ukraineusrussiadiplomacyconflictwar.jpg",
@@ -182,37 +182,37 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260906-emiss%C3%A1rios-norte-americanos-na-ucr%C3%A2nia-para-negociar-a-paz-com-a-r%C3%BAssia"
     },
     {
-      "title": "Estados Unidos: Witkoff e Kushner enviados a Moscovo e Kiev para negociar fim da guerra - Euronews",
+      "title": "Estados Unidos: Witkoff e Kushner enviados a Moscovo e Kiev para negociar fim da guerra - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzFXelF0Qi1aTDB6R25odzJOeDRtWTRzZ2kxelZEQjNWNjhtaG5oN2NDazBYUTE3X1FtM1JocFhhTk5HT3ZpTm50c3d4WjlHNC1jZkdYNHdQR3RHWVR0MlRyWi1wUGNGVm1GeENYM05Sa2p0M0FCSnM1cmVJT3VINzNGTjFSNURBUkhwTnpKS1p1MWJhbGU1Ymg5SFpfUjJkUXdEWjhldHJUT2tOTkV0MkVBVnNGeGlaSXhWRUN3?oc=5",
-      "source": "Euronews",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-05T06:14:24Z",
       "description": "O anúncio surgiu numa altura em que ataques russos à região ucraniana de Dnipropetrovsk mataram quatro pessoas durante a noite, segundo as autoridades locais.",
       "image": "https://images.euronews.com/articles/stories/09/90/23/10/1200x675_cmsv2_8cda4534-6a58-5926-ace2-b6f26182ea9c-9902310.jpg",
       "articleUrl": "https://pt.euronews.com/2026/09/05/estados-unidos-witkoff-e-kushner-enviados-a-moscovo-e-kiev-para-negociar-fim-da-guerra"
     },
     {
-      "title": "Leão XIV apela à paz e à diplomacia no conflito entre Rússia e Ucrânia - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjg0MmJweWg5SkdlTjNhR0FIZWxoeHhuZmNIVjFsU2FYMXFvYW8yQmhaUHZkM1BVQm92cjdfdkNYY2p3OXNJYmxTcm9TNmVaYVhxMGQ4UElKbnZJZ0N0VzcxRHUzYVlLMV91Xy00TWxzaWg2YVhzRHdXcE1rbEJvS09wY1dVaWRqUlJTWm5Uc2xGZGpJUnhpRk5YRUd1a0xkeDdHOFYwQUg3V21RcDB6a2oxWQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-06T13:02:39Z",
-      "description": "O Papa Leão XIV apelou esta manhã à paz e à diplomacia, no contexto das negociações em curso sobre a Ucrânia.",
-      "image": "https://cdn-images.rtp.pt/icm/images/02/020a3e3d81d229ac1a629a0691e0498a_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/leao-xiv-apela-a-paz-e-a-diplomacia-no-conflito-entre-russia-e-ucrania_v1763682"
+      "title": "Lavrov acusa Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlnaGhneVZBVURhWm9rVE1FSFJZYWl0OHhpMXFOUUc4U3R3SzRsY2ZDYWhVdWJ5NW9fLVJOVkFzamRrR19GYzZCRy04ZmlxWkRxM2hCUmhVaVBDWWlZYy1Nd1BfNlJ2dzV1cnZMQ0Zfek5xTTdhRXVmU3VTQVBJRUxid1hWT20zc0lBRUNIempZYTNVM0xoWlpLNF8xVzVoUHQyUlpzZmhwSHFPMkJZOTlvQQ?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-06T15:49:05Z",
+      "description": "\"Leipzig, aeroporto (...) Encontraram lá um drone. Disseram que era russo e ninguém se deu ao trabalho de investigar mais a fundo\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/60/60dcaa156b5482b78c7ee71e3f79e735?w=860&q=90&rect=0,75,1024,561&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/lavrov-acusa-alemanha-de-iniciar-uma-verdadeira-guerra-contra-a-russia_n1763669"
     },
     {
-      "title": "Enviados de Trump se reúnem com Zelensky em Kiev após encontro com Putin - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGtKQlV1WUZjNFZBTjl5RmtwN2hNM0cyTWNjZDJsZE9EVDhoZmpEblh4c0dtaUJaUFgwSEQ2a0VuTnljaVlrSl9xWU90LVpTMDBTMXVoNVQzMF9laDgtWlpTajFXZC1GMGJMLTZaQzljQUJMT3llRzhYdXpzdXFnOTNUMlpfTXd2SVVhRGhNclJEM2VRWUZYMWhvVW9vbFdDVkg5VDF2c0xBOUtTOVdYdV9KMno3YVI2THc?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-06T12:29:19Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWJodDZaQmJOUGtoOVJZNHBHZUFtczNpQ002QUJ4TnkzWFFjeW1aakdMR0wwcGNseUZNUnFtN1NxQ2FibXgwQk1scTIyeFoxYkNyZHl6Y25VcGdmTzZFSklZX1NTVFR4OWdEUUwwQWNUdi1lSmhiZjhMNnV4TEZyc1FSUmQ4VFE4VjlnUHNuX011U2NIMzBVaEd4bDZLdFptRVZHZDQ4VEk0OHJoQmJ0X21IN3ZQcnlpbFhJVW5HVV9qVV9NdVYtckIyOFVldw?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-06T09:01:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Exército iraniano promete retaliação \"mais forte\" se ataques de EUA prosseguirem - SÁBADO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2hlTFhtYjUtUFZ6QmtRLUY2UmJzQmlDYTRUS21BMVRrVUx0TXk3dWplbnNTOENwcUlTdldLTlRfRExIS1RKT2VEYllYSExudXZOa29OSzdYSjB5RThjU3dZUlRGWUhieW9qZ1FCWUlfWHN0ZDV0bkFJMXVtVzhKbFlqTV9zdXpLUlRXN21oNFpvaWg1Z2FCSDVHN29ua0p3dGk1UklQVW9RcjRwMnFWOU9RbHl2aHF2MTh5cnprZUF2ZWZPbnRrdVo4ZlFDbmPSAc8BQVVfeXFMTnNoZUxYbWI1LVBWekJrUS1GNlJic0JpQ2E0VEttQTFUa1VMdE15N3VqZW5zUzhDcHFJU3ZXS05UX0RMSEtUSk9lRGJZWEhMbnV2TmtvTks3WEoweUU4Y1N3WVJURllIYnlvamdRQllJX1hzdGQ1dG5BSTF1bVc4SmxZak1fc3V6S1JUVzdtaDRab2loNWdhQkg1RzdvbmtKd3RpNVJJUFVvUXI0cDJxVjlPUWx5dmhxdjE4eXJ6a2VBdmVmT250a3VaOGZRQ25j?oc=5",
-      "source": "SÁBADO",
-      "publishedAt": "2026-09-05T20:09:00Z",
-      "description": "Notícia publicada por SÁBADO. Abra o artigo para consultar os detalhes completos.",
+      "title": "Acordo luso-americano sobre Base das Lajes faz 75 anos com possível revisão à vista - Público",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVBicUpuSEszbGk5Wm5ZaTJNRmlROXRFcEdJZzF1UXI1MjZiR01GTzZmNGY1dG1aWE5TNlZ4eHcyU2tNc2hoMWlmM2VzSklMaFZtQlo5UV9ZUjRjVFcyQkV3Mkd4X3ltQjJFcG96Vm9mallLTnVWeVJpdV9LVGZ6M2RIZWRfNmlFWjQ3RlRiSGRDNFNCMm9CaGFhbjhpdEQ2MEhTN20tenpoY2JYSGZQTjhxSXdCTVJFc211UFlsQUl0bkU?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T20:01:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
