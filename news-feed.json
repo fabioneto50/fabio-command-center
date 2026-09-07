@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-07T04:28:58.215508Z",
+  "updatedAt": "2026-09-07T05:27:13.050877Z",
   "health": [
+    {
+      "title": "Primeira ambulância solar do mundo leva cuidados de saúde remotos mesmo sem sol - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGxkaHUwZ0dHcHJqMDUwWldCT0R1LWo0OFIxaUxtTWVMNjBQby1yYUtqSTY4amFiQjlwN3dFQUdmOWpYM2lWTy1pY3FHczlrTFJRRUdLczcwWTQtZldyMjk4ZW9CTFBZMDZ0N3YzUHkyS0JyV1VGRjRTb1duUGE5VTBBR21xZTFMWFNKUkNFbnFkTngwTXZvWmVCcGpOSjFxdXU5ODl0U1FBUmduQ25oajZOUGY?oc=5",
+      "source": "Euronews",
+      "publishedAt": "2026-09-07T05:00:07Z",
+      "description": "A ambulância solar Stella Juva pode transformar o acesso aos cuidados de saúde em regiões sem infraestruturas fiáveis, eletricidade nem combustível.",
+      "image": "https://images.euronews.com/articles/stories/09/89/98/28/1200x675_cmsv2_a3a77a42-c365-582e-a136-8da78b1d4272-9899828.jpg",
+      "articleUrl": "https://pt.euronews.com/2026/09/07/primeira-ambulancia-solar-do-mundo-leva-cuidados-de-saude-remotos-mesmo-sem-sol"
+    },
     {
       "title": "De Boa Saúde Episódio 1 - de 07 set 2026 - RTP",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ya3lLZWNEYXpQTUdiWjlsRUtWa0gta1V0VHB4aFBIWXhPc1ZXenc5SXFFaUp0OWJJTHJjalBTRVpsYkFVVnhqci1rUmdpb0NxS0ZnR3RWX2VqbnpITTYwTQ?oc=5",
@@ -9,15 +18,6 @@
       "description": "Qual o antídoto para a desinformação em saúde? - Entre os especialistas que 'saltam da banheira, todos nus, e gritam Eureka' e os 'charlatães que",
       "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8336_13757_86660.png?v=3&w=860",
       "articleUrl": "https://www.rtp.pt/play/p17015/e951908/de-boa-saude"
-    },
-    {
-      "title": "36 horas nas urgências do Amadora-Sintra - Observador",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjc0RGgxYmdEcUFKQmJXRmF5RXREd3NwMHBaUmUxZzdmNDdUb2FTNFRHWk01c3ljZTVKSTFkQVVFbi0zUkkwR2xpZkFmN0E0TnRiOE41N1pKM3loR2RhV2d6Ui1HTG9sNzlweklKd0JfUlFaMTBxQ3phUEFCdzk4MTFvYXFqNnA4R0lqaDVDSlM0bVpuVUE?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-07T04:03:08Z",
-      "description": "Um homem entrou no Amadora-Sintra com sintomas de possível AVC e só saiu 36 horas depois. O que aconteceu e porque é que neste hospital os números são piores que nos outros?",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
-      "articleUrl": "https://observador.pt/programas/a-hist-ria-do-dia/36-horas-nas-urgencias-do-amadora-sintra/"
     },
     {
       "title": "Andaram numa montanha-russa mundialmente famosa. Depois foram levados para o hospital para uma cirurgia cerebral de emergência - CNN Portugal",
@@ -29,13 +29,22 @@
       "articleUrl": "https://cnnportugal.iol.pt/montanha-russa/six-flags-magic-mountain/andaram-numa-montanha-russa-mundialmente-famosa-depois-foram-levados-para-o-hospital-para-uma-cirurgia-cerebral-de-emergencia/20260906/6a930f8bd34e511da0b35eef"
     },
     {
-      "title": "Bloco de Esquerda exige reabertura da radioterapia do Hospital de Évora e manifesta preocupação com doentes - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT1hXY2doLXJVeVZNRTZLM3dIWlh2NEJUYklvNjV6RmJNZ2FlVDhXZmFlbG9FSjI4X3JKWW5Xa0x4V0Vfd1NvcDdrMU9IdEdUbTA2VDFQbUE3NlRGU3pqNW9EX19NYU9iN2IyR1BXN3puRmpfMjdab1N5TW9UTVJhNENxSUJtVmZwdGxLVTBHR2JXWFJ3X1ZqYU1YNzBGS2RCZnh4YUxlc2pKSThvR18taWc0aHo1RjdrTG9nY09mUF9lRTZfUEJ0UnBWT2lmd3BCWE1SUldONldtVS1WZVRlQld30gHcAUFVX3lxTE5tZ0tHT2ptVTBDTTBxQzAtczZiMi00ZGZqM1R1N09naUk4RzFuVGd0aE9jbXo5QkQ0TlBKR2RUenFSLXJ2ZllkcWQ2MS1seC13OHcwdEltbHpJQ3ZqU00zSTV3ODFJUnhMN25lT2VmeEZjdFhlYnpXT3Jlay1oRkRJTGFMNGVkT25uSzA4TnpaUzBDV0hkTHFmV09EY1FSTWRjYnZkX3kzbktkajF3eFhuZmFrZUg4R2ZKMl9DaWx1a0VOb0ZSU3V2ZmFseERnSG1hUHRWUERpOWVDQmU?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-06T18:33:55Z",
-      "description": "BE de Évora desafia ainda a administração da ULSAC para que, 'de forma transparente', informe doentes, trabalhadores e público em geral das medidas que pretende adotar.",
-      "image": "https://cdn.cmjornal.pt/images/2024-08/img_1280x721uu2024-08-16-21-06-24-1727128.jpg",
-      "articleUrl": "https://www.cmjornal.pt/politica/detalhe/bloco-de-esquerda-exige-reabertura-da-radioterapia-do-hospital-de-evora-e-manifesta-preocupacao-com-doentes"
+      "title": "36 horas nas urgências do Amadora-Sintra - Observador",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjc0RGgxYmdEcUFKQmJXRmF5RXREd3NwMHBaUmUxZzdmNDdUb2FTNFRHWk01c3ljZTVKSTFkQVVFbi0zUkkwR2xpZkFmN0E0TnRiOE41N1pKM3loR2RhV2d6Ui1HTG9sNzlweklKd0JfUlFaMTBxQ3phUEFCdzk4MTFvYXFqNnA4R0lqaDVDSlM0bVpuVUE?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-07T04:03:08Z",
+      "description": "Um homem entrou no Amadora-Sintra com sintomas de possível AVC e só saiu 36 horas depois. O que aconteceu e porque é que neste hospital os números são piores que nos outros?",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
+      "articleUrl": "https://observador.pt/programas/a-hist-ria-do-dia/36-horas-nas-urgencias-do-amadora-sintra/"
+    },
+    {
+      "title": "Expansão econômica e sustentabilidade podem caminhar juntas, afirma Guterres - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HSHpkU0ZmRld6emZXanJ4VTRReEw3cXJNMks0VUR2eTFFajlaLUhjZWo3cV9VRWNxYVRGZ2VkMVRWS0w3OVl1QmZhMHdTVXJlLVdUREIzMA?oc=5",
+      "source": "UN News",
+      "publishedAt": "2026-09-07T04:02:00Z",
+      "description": "Em Dia Internacional do Ar Limpo para o Céu Azul, celebrado em 7 de setembro, ONU reforça urgência de combater a poluição atmosférica, tida como uma das maiores ameaças ambientais à saúde pública global.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/27-08-2026-UNDP-Maldives-03.jpg/image770x420cropped.jpg",
+      "articleUrl": "https://news.un.org/pt/story/2026/09/1854277"
     },
     {
       "title": "O cancro como verdadeiro teste de esforço do sistema de saúde - Diário de Notícias",
@@ -47,31 +56,13 @@
       "articleUrl": "https://www.dn.pt/opiniao-dn/sociedade-aberta/o-cancro-como-verdadeiro-teste-de-esforo-do-sistema-de-sade"
     },
     {
-      "title": "Legislar sem bússola - Público",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZlRWZmFDVzVuZzI5aHhTaTBGZGxDQUNLOTl0NkRpMnpRTXVwRlQ0YXZUdDBSVnhrM2RDU1ZCTXpTWFlCS1h0MEFPalRlOE0wN3RsY0pwRkJuVVo1eVNxbGJyNmR2Z3lNRG1HeTlPUE9fNlMxUDNXdnQ3d2VJMW8?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-06T22:25:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/07/opiniao/opiniao/legislar-bussola-2186799"
-    },
-    {
-      "title": "O parque mais bonito do oeste faz maravilhas pela sua saúde. A entrada é gratuita - nit.pt",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlhxM0RpMzRYTmo3Vzg4dUlnWG1ZT215ZmpxRG5NNTZ1VlAzSzNvR3FUajRxZTJKWmUtTnViUkZYNFVJdFBkRkxURy1RYnVjam5ZakpiRzhnaGRjQ0x0S2hYN1hkSGZnaVBlTEpQdmFKUWVyazBPd0VOckxaRUZfTldqS1J4WmlxQTNXYmR2cVRURFlNbWVfODJ2UjhrVmJDcTB2M1JoNFItUEJrTDV0UFBQYUM2QnhMX3EzNU8yRQ?oc=5",
-      "source": "nit.pt",
-      "publishedAt": "2026-09-06T14:25:00Z",
-      "description": "O Parque D. Carlos I nasceu ligado aos tratamentos termais. Tem um lago, jardins e vários recantos para descobrir.",
-      "image": "https://www.nit.pt/wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php?post_id=1689046&ts=20260906200916",
-      "articleUrl": "https://www.nit.pt/fora-de-casa/na-cidade/o-parque-mais-bonito-do-oeste-faz-maravilhas-pela-sua-saude-a-entrada-e-gratuita"
-    },
-    {
-      "title": "JAD apresenta propostas para área da saúde mental jovem - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazVFTkNHbG5zOVJhUFFSTllzcVRCQU8tMko0aG1zV3pzTGVKa1QzdXdtT2VNVU5SbGFoRFE4dzRNMURkdmUtU3hhUVZ6XzF4dGN4YnNDNDNXVXpVZlNpb0ZtM2plZFpOSFBJang0VzU2bUlUTElkUjZ0MFpZRi04czNja0dmcmRrVGxfLWVyV1NKazAxRzY0NGN2VGJtdHc2WVZLSmkyZFA4YUlWcEFBSHBJRFBZVWc?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-09-06T13:25:00Z",
-      "description": "Jovens do partido consideram a saúde mental \"um desafio que exige respostas cada vez mais próximas, preventivas e eficazes\".",
-      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_06/psychologist-making-notes-medical-history-while-understanding-problems-woman-patient-1788701088637.jpg--jad_apresenta_propostas_para__rea_da_sa_de_mental_jovem.webp?1788701090721",
-      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30004594/jad-apresenta-propostas-para-area-da-saude-mental-jovem.html"
+      "title": "Bloco de Esquerda exige reabertura da radioterapia do Hospital de Évora e manifesta preocupação com doentes - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT1hXY2doLXJVeVZNRTZLM3dIWlh2NEJUYklvNjV6RmJNZ2FlVDhXZmFlbG9FSjI4X3JKWW5Xa0x4V0Vfd1NvcDdrMU9IdEdUbTA2VDFQbUE3NlRGU3pqNW9EX19NYU9iN2IyR1BXN3puRmpfMjdab1N5TW9UTVJhNENxSUJtVmZwdGxLVTBHR2JXWFJ3X1ZqYU1YNzBGS2RCZnh4YUxlc2pKSThvR18taWc0aHo1RjdrTG9nY09mUF9lRTZfUEJ0UnBWT2lmd3BCWE1SUldONldtVS1WZVRlQld30gHcAUFVX3lxTE5tZ0tHT2ptVTBDTTBxQzAtczZiMi00ZGZqM1R1N09naUk4RzFuVGd0aE9jbXo5QkQ0TlBKR2RUenFSLXJ2ZllkcWQ2MS1seC13OHcwdEltbHpJQ3ZqU00zSTV3ODFJUnhMN25lT2VmeEZjdFhlYnpXT3Jlay1oRkRJTGFMNGVkT25uSzA4TnpaUzBDV0hkTHFmV09EY1FSTWRjYnZkX3kzbktkajF3eFhuZmFrZUg4R2ZKMl9DaWx1a0VOb0ZSU3V2ZmFseERnSG1hUHRWUERpOWVDQmU?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-06T18:33:55Z",
+      "description": "BE de Évora desafia ainda a administração da ULSAC para que, 'de forma transparente', informe doentes, trabalhadores e público em geral das medidas que pretende adotar.",
+      "image": "https://cdn.cmjornal.pt/images/2024-08/img_1280x721uu2024-08-16-21-06-24-1727128.jpg",
+      "articleUrl": "https://www.cmjornal.pt/politica/detalhe/bloco-de-esquerda-exige-reabertura-da-radioterapia-do-hospital-de-evora-e-manifesta-preocupacao-com-doentes"
     },
     {
       "title": "Bloco de Esquerda exige reabertura da radioterapia no hospital de Évora - Alentejo Ilustrado",
@@ -83,28 +74,37 @@
       "articleUrl": "https://alentejoilustrado.pt/bloco-de-esquerda-exige-reabertura-da-radioterapia-no-hospital-de-evora/"
     },
     {
+      "title": "As obras de requalificação do Centro de Saúde de Porto Mós foram inauguradas est… - sapo.pt",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMjMzWmdScHN2X3kwLWd0OG0tdTdsTzRVazZoZGVZYkE3UlJHZzBtdnpvbDA1NnQzWUdfZjIxNDJMLWNYMkNabmRaN0x3THNjR0gzMVFZN2ZBNWl3ak1ybVotRVJrdGpLajUwZEJ6a3NmcTkzMndQOVpDN2c4X3VWNVJDbGgzN3RSS3ViUlZQNUlNQ3BKWUJvanhGY0xlcEtBSk9PbzNKZldkY0RkRmh1dWlleDY3aC0ySGtkYVpLU28zeXQ1akJV?oc=5",
+      "source": "sapo.pt",
+      "publishedAt": "2026-09-07T02:42:57Z",
+      "description": "As obras de requalificação do Centro de Saúde de Porto Mós foram inauguradas esta terça-feira, dia 1 de setembro, pela Ministra da Saúde, Ana Paula Martins. #Saúde #SNS Link no Facebook",
+      "image": "https://canalalentejo.sapo.pt/wp-content/uploads/2026/09/As-obras-de-requalificacao-do-Centro-de-Saude-de-Porto.webp",
+      "articleUrl": "https://sapo.pt/artigo/as-obras-de-requalificacao-do-centro-de-saude-de-porto-mos-foram-inauguradas-est-6a9e22cb263e5ff854fdea05"
+    },
+    {
+      "title": "Psicólogos exigem integração “obrigatória e permanente” nas juntas médicas e querem levar tema ao Parlamento - Público",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUXlEQU1DdlAtNW9WSm11V1JsQmhCeTdrdnBMRGdyWEhWUzBCQTVHTDZXSkdzQ25WZ09Ya0RMY1ZkQlhFUWZIeE5fMHUteDlvdXYtWmJDWHJPSzFlUE9XbmV6MEJPRkx2SVJpT3kzYXFnSVNybWZDaXVBTWRyMVFWWndiTjVYaDNWdUs4S1dET1BveDk3SjFUR3RReGVLREI3RlctcWR0X3Zqcy0wUzEtMXQ2VE4yWHYwdDA3Nzlmd1hnN3ZFeDNNOC13UDNsRjdWTlltRHNnczVmR0FrbE5sYUVjZjFZSTRoS01z?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T07:30:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/06/sociedade/noticia/psicologos-exigem-integracao-obrigatoria-permanente-juntas-medicas-querem-levar-tema-parlamento-2187099"
+    },
+    {
+      "title": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no Serviço Nacional de Saúde. Segundo a bastonária dos psicólogos pode chegar a meio ano. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNczJ5a1JXNGlNS1p3S3ZTSnUxNVdfUUtpdFBXcEdzMEJWOEpVbHJLT1RYb2JfelBQTVgydUtSTFpXS3NXOG9KNzJiMEFEOEJDM2hEQUUzZFdrYncyR002cFY2U1RpUkRRRGpKdm5fYlhac093aElYbVZkVTJxOFN0TEJfU2FIOU1VRDc1TjRsN2ZGSlR2VnNRTHJOdTJjWU9mR1pacDlsR3dVWUJweTFTQ3I3ZWNZeWRxTE1VMFowbjlja1JxMGhHYXVGQkJmQXNQZVZ6cXdjYkc4cXdLM3JZ?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-07T04:50:26Z",
+      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "Manuel Gonçalves Neto - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TbFFBWnEtWGJ3dXVVWEtBa29pQ0NtY1lBZk5hRTRFUHJPb18wN3pCSGhYVW9OV1dta1dqd1V4aFE3aVlkbVM2b25SMDVaTEt5VzdZejBpY0dHMTBRRVd5Y3lQTGpsZ1FTMHFJNlFuOU83eGd6M3c?oc=5",
       "source": "dnoticias.pt",
       "publishedAt": "2026-09-07T01:41:43Z",
-      "description": "Sua esposa, Maria Elsa da Silva Vieira, sua filha, Maria Carmen Gonçalves da Silva e esposo, sua mãe, Maria Gonçalves Rocha, sua irmã, seu sogro, cunhados, sobrinhos e restantes familiares, participam a todas as pessoas de suas relações e amizade, o falecimento do seu saudoso parente, natural dos Canhas e residente à Estrada da Achada, freguesia dos Canhas, concelho da Ponta…",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/Imagem_Manuel_Gon%C3%A7alves_Neto.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/app/2026/9/7/504494-manuel-goncalves-neto/"
-    },
-    {
-      "title": "Expansão econômica e sustentabilidade podem caminhar juntas, afirma Guterres - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HSHpkU0ZmRld6emZXanJ4VTRReEw3cXJNMks0VUR2eTFFajlaLUhjZWo3cV9VRWNxYVRGZ2VkMVRWS0w3OVl1QmZhMHdTVXJlLVdUREIzMA?oc=5",
-      "source": "UN News",
-      "publishedAt": "2026-09-07T04:02:00Z",
-      "description": "Notícia publicada por UN News. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "As obras de requalificação do Centro de Saúde de Porto Mós foram inauguradas est… - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMjMzWmdScHN2X3kwLWd0OG0tdTdsTzRVazZoZGVZYkE3UlJHZzBtdnpvbDA1NnQzWUdfZjIxNDJMLWNYMkNabmRaN0x3THNjR0gzMVFZN2ZBNWl3ak1ybVotRVJrdGpLajUwZEJ6a3NmcTkzMndQOVpDN2c4X3VWNVJDbGgzN3RSS3ViUlZQNUlNQ3BKWUJvanhGY0xlcEtBSk9PbzNKZldkY0RkRmh1dWlleDY3aC0ySGtkYVpLU28zeXQ1akJV?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-09-07T02:42:57Z",
-      "description": "Notícia publicada por SAPO. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -137,15 +137,6 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/06/enviados-dos-estados-unidos-chegam-a-ucrania/"
     },
     {
-      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Juc9IBswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Jucw?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-09-06T09:01:00Z",
-      "description": "Os enviados de Donald Trump vão reunir-se com o presidente ucraniano, Volodymyr Zelensky.",
-      "image": "https://images.rr.pt/2026-09-06t103058z-1588532194-rc2mdna0wdy8-rtrmadp-3-ukraine-crisis-usa-envoys1919fa19_socialshare.jpg",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/guerra-na-ucrania-enviados-dos-estados-unidos-ja-estao-em-kiev/484426/"
-    },
-    {
       "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
       "source": "Público",
@@ -153,6 +144,15 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
+    },
+    {
+      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Juc9IBswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Jucw?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-06T09:01:00Z",
+      "description": "Os enviados de Donald Trump vão reunir-se com o presidente ucraniano, Volodymyr Zelensky.",
+      "image": "https://images.rr.pt/2026-09-06t103058z-1588532194-rc2mdna0wdy8-rtrmadp-3-ukraine-crisis-usa-envoys1919fa19_socialshare.jpg",
+      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/guerra-na-ucrania-enviados-dos-estados-unidos-ja-estao-em-kiev/484426/"
     },
     {
       "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
@@ -182,9 +182,9 @@
       "articleUrl": "https://pt.euronews.com/2026/09/05/estados-unidos-witkoff-e-kushner-enviados-a-moscovo-e-kiev-para-negociar-fim-da-guerra"
     },
     {
-      "title": "Os Estados Unidos estão pressionando por negociações de paz na Ucrânia após sua visita à Rússia. - vietnam.vn",
+      "title": "Os Estados Unidos estão pressionando por negociações de paz na Ucrânia após sua visita à Rússia. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjlGUVAxNkNfNEZCeXZQdG8zNnUyQ1BYRnlzbHpQZmI1TkUtVGNLeWVEVlNxa3F1eDEySGRWYWVGRzJPOERMcE55RGxyVEYzOHBWNG9aeTRYYXB6U1NKMDZ2SS11SnJuc2cyejVBckM4aGFoZEVTQzZOWlZyWmtBMmZYZDl6eVJzTE5J?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "publishedAt": "2026-09-07T00:44:32Z",
       "description": "O enviado dos EUA, Jared Kushner, disse que Washington espera fazer progressos nos esforços para pôr fim à guerra na Ucrânia, após uma delegação americana visitar Kiev pela primeira vez desde o início do conflito.",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/07/1788739882573_tham-kiev.jpeg",
