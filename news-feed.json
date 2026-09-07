@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T02:28:15.824665Z",
+  "updatedAt": "2026-09-07T03:28:55.116180Z",
   "health": [
     {
       "title": "De Boa Saúde Episódio 1 - de 07 set 2026 - RTP",
@@ -47,15 +47,6 @@
       "articleUrl": "https://www.nit.pt/fora-de-casa/na-cidade/o-parque-mais-bonito-do-oeste-faz-maravilhas-pela-sua-saude-a-entrada-e-gratuita"
     },
     {
-      "title": "Psicólogos exigem integração “obrigatória e permanente” nas juntas médicas e querem levar tema ao Parlamento - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUXlEQU1DdlAtNW9WSm11V1JsQmhCeTdrdnBMRGdyWEhWUzBCQTVHTDZXSkdzQ25WZ09Ya0RMY1ZkQlhFUWZIeE5fMHUteDlvdXYtWmJDWHJPSzFlUE9XbmV6MEJPRkx2SVJpT3kzYXFnSVNybWZDaXVBTWRyMVFWWndiTjVYaDNWdUs4S1dET1BveDk3SjFUR3RReGVLREI3RlctcWR0X3Zqcy0wUzEtMXQ2VE4yWHYwdDA3Nzlmd1hnN3ZFeDNNOC13UDNsRjdWTlltRHNnczVmR0FrbE5sYUVjZjFZSTRoS01z?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-06T07:30:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/06/sociedade/noticia/psicologos-exigem-integracao-obrigatoria-permanente-juntas-medicas-querem-levar-tema-parlamento-2187099"
-    },
-    {
       "title": "JAD apresenta propostas para área da saúde mental jovem - JM Madeira",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazVFTkNHbG5zOVJhUFFSTllzcVRCQU8tMko0aG1zV3pzTGVKa1QzdXdtT2VNVU5SbGFoRFE4dzRNMURkdmUtU3hhUVZ6XzF4dGN4YnNDNDNXVXpVZlNpb0ZtM2plZFpOSFBJang0VzU2bUlUTElkUjZ0MFpZRi04czNja0dmcmRrVGxfLWVyV1NKazAxRzY0NGN2VGJtdHc2WVZLSmkyZFA4YUlWcEFBSHBJRFBZVWc?oc=5",
       "source": "JM Madeira",
@@ -63,6 +54,15 @@
       "description": "Jovens do partido consideram a saúde mental \"um desafio que exige respostas cada vez mais próximas, preventivas e eficazes\".",
       "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_06/psychologist-making-notes-medical-history-while-understanding-problems-woman-patient-1788701088637.jpg--jad_apresenta_propostas_para__rea_da_sa_de_mental_jovem.webp?1788701090721",
       "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30004594/jad-apresenta-propostas-para-area-da-saude-mental-jovem.html"
+    },
+    {
+      "title": "Psicólogos exigem integração “obrigatória e permanente” nas juntas médicas e querem levar tema ao Parlamento - Público",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUXlEQU1DdlAtNW9WSm11V1JsQmhCeTdrdnBMRGdyWEhWUzBCQTVHTDZXSkdzQ25WZ09Ya0RMY1ZkQlhFUWZIeE5fMHUteDlvdXYtWmJDWHJPSzFlUE9XbmV6MEJPRkx2SVJpT3kzYXFnSVNybWZDaXVBTWRyMVFWWndiTjVYaDNWdUs4S1dET1BveDk3SjFUR3RReGVLREI3RlctcWR0X3Zqcy0wUzEtMXQ2VE4yWHYwdDA3Nzlmd1hnN3ZFeDNNOC13UDNsRjdWTlltRHNnczVmR0FrbE5sYUVjZjFZSTRoS01z?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T07:30:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/06/sociedade/noticia/psicologos-exigem-integracao-obrigatoria-permanente-juntas-medicas-querem-levar-tema-parlamento-2187099"
     },
     {
       "title": "Bloco de Esquerda exige reabertura da radioterapia no hospital de Évora - Alentejo Ilustrado",
@@ -92,11 +92,11 @@
       "articleUrl": "https://observador.pt/2026/09/06/bloco-questiona-tempos-de-espera-para-primeira-consulta-de-psicologia-no-sns/"
     },
     {
-      "title": "A luta de Lourenço e da mãe por uma vida com menos obstáculos - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXpuZjNRYkJvU0otcTUzRWY3RE8td3VmMGVpeFB1cnYyNXUzZVRYT1ptYmpwc2hTZUVEY0dsZlF3WWpJN2FPZzZrR0ktUGNPS05OaWc0TldCZFl0Vzc2dm9MTjJBaDJuN1RPU3A4bGFETmNlU0FYazdrTVpaX3Jsa3hmRDYwYnlvM1p1eFVRdnNsUXBHckVFQUlKWGdXSEpTa3FEeHloTnI4SmZBX2ZlVw?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-09-06T20:00:00Z",
-      "description": "Notícia publicada por O Mirante. Abra o artigo para consultar os detalhes completos.",
+      "title": "As obras de requalificação do Centro de Saúde de Porto Mós foram inauguradas est… - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMjMzWmdScHN2X3kwLWd0OG0tdTdsTzRVazZoZGVZYkE3UlJHZzBtdnpvbDA1NnQzWUdfZjIxNDJMLWNYMkNabmRaN0x3THNjR0gzMVFZN2ZBNWl3ak1ybVotRVJrdGpLajUwZEJ6a3NmcTkzMndQOVpDN2c4X3VWNVJDbGgzN3RSS3ViUlZQNUlNQ3BKWUJvanhGY0xlcEtBSk9PbzNKZldkY0RkRmh1dWlleDY3aC0ySGtkYVpLU28zeXQ1akJV?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-09-07T02:42:57Z",
+      "description": "Notícia publicada por SAPO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -137,22 +137,22 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/06/enviados-dos-estados-unidos-chegam-a-ucrania/"
     },
     {
-      "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-06T19:30:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
+      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Juc9IBswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Jucw?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-06T09:01:00Z",
+      "description": "Os enviados de Donald Trump vão reunir-se com o presidente ucraniano, Volodymyr Zelensky.",
+      "image": "https://images.rr.pt/2026-09-06t103058z-1588532194-rc2mdna0wdy8-rtrmadp-3-ukraine-crisis-usa-envoys1919fa19_socialshare.jpg",
+      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/guerra-na-ucrania-enviados-dos-estados-unidos-ja-estao-em-kiev/484426/"
     },
     {
-      "title": "Comitiva dos EUA elogia reunião “muito significativa”, Zelensky espera novo encontro nas próximas semanas - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2N3MDJtS3lfQ1dNYnpZcmJWeWdxb2pWUllpMjAxNUZnc2dfTGhWbmxoU1NiMU80YkhOTFR2a2dKRXdURzh0NEREdnZyMzA1dG0wd1pUbEtQcjNJZEZuY1BFSnRWcm1jQXZzM2pid0xxcmNHUXFfbUhHRzhLLWp4VTVxbW1abzM4ckp6MkxuRTNrYnNZdXA2ZmVVY3ZQVzFJQVhpREUxVFpQZnZVT05sMVEwZFFHRWs3X3FsLXZ4a2VrQUg4WmZxdktSQzRPZkJPdXVnVDNINUJZa2Rjb0FPaW5KZDNiOTRm0gHoAUFVX3lxTE0zY3cwMm1LeV9DV01iellyYlZ5Z3FvalZSWWkyMDE1RmdzZ19MaFZubGhTU2IxTzRiSE5MVHZrZ0pFd1RHOHQ0RER2dnIzMDV0bTB3WlRsS1ByM0lkRm5jUEVKdFZybWNBdnMzamJ3THFyY0dRcV9tSEdHOEstanhVNXFtbVpvMzhySnoyTG5FM2tic1l1cDZmZVVjdlBXMUlBWGlERTFUWlBmdlVPTmwxUTBkUUdFazdfcWwtdnhrZWtBSDhaZnF2S1JDNE9mQk91dWdUM0g1QllrZGNvQU9pbkpkM2I5NGY?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-09-06T18:22:00Z",
-      "description": "Apesar do anúncio de que as capitais europeias e os EUA se vão reunir em breve com a Ucrânia para procurar pôr fim à guerra, Zelensky volta a defender a necessidade de conversar com a Rússia para saber o que diz Putin sobre o futuro dos territórios ocupados e as garantias de segurança.",
-      "image": "https://images.rr.pt/4772744118861abfee9f_socialshare.jpg",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/comitiva-dos-eua-elogia-reuniao-muito-significativa-zelensky-espera-novo-encontro-nas-proximas-semanas/484451/"
+      "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T19:30:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
     },
     {
       "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
@@ -182,37 +182,37 @@
       "articleUrl": "https://pt.euronews.com/2026/09/05/estados-unidos-witkoff-e-kushner-enviados-a-moscovo-e-kiev-para-negociar-fim-da-guerra"
     },
     {
-      "title": "Os Estados Unidos estão pressionando por negociações de paz na Ucrânia após sua visita à Rússia. - Vietnam.vn",
+      "title": "Os Estados Unidos estão pressionando por negociações de paz na Ucrânia após sua visita à Rússia. - vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjlGUVAxNkNfNEZCeXZQdG8zNnUyQ1BYRnlzbHpQZmI1TkUtVGNLeWVEVlNxa3F1eDEySGRWYWVGRzJPOERMcE55RGxyVEYzOHBWNG9aeTRYYXB6U1NKMDZ2SS11SnJuc2cyejVBckM4aGFoZEVTQzZOWlZyWmtBMmZYZDl6eVJzTE5J?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "publishedAt": "2026-09-07T00:44:32Z",
       "description": "O enviado dos EUA, Jared Kushner, disse que Washington espera fazer progressos nos esforços para pôr fim à guerra na Ucrânia, após uma delegação americana visitar Kiev pela primeira vez desde o início do conflito.",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/07/1788739882573_tham-kiev.jpeg",
       "articleUrl": "https://www.vietnam.vn/pt/my-thuc-day-dam-phan-hoa-binh-ukraine-sau-chuyen-tham-nga"
     },
     {
-      "title": "Lavrov acusa Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlnaGhneVZBVURhWm9rVE1FSFJZYWl0OHhpMXFOUUc4U3R3SzRsY2ZDYWhVdWJ5NW9fLVJOVkFzamRrR19GYzZCRy04ZmlxWkRxM2hCUmhVaVBDWWlZYy1Nd1BfNlJ2dzV1cnZMQ0Zfek5xTTdhRXVmU3VTQVBJRUxid1hWT20zc0lBRUNIempZYTNVM0xoWlpLNF8xVzVoUHQyUlpzZmhwSHFPMkJZOTlvQQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-06T15:49:05Z",
-      "description": "\"Leipzig, aeroporto (...) Encontraram lá um drone. Disseram que era russo e ninguém se deu ao trabalho de investigar mais a fundo\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/60/60dcaa156b5482b78c7ee71e3f79e735?w=860&q=90&rect=0,75,1024,561&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/lavrov-acusa-alemanha-de-iniciar-uma-verdadeira-guerra-contra-a-russia_n1763669"
-    },
-    {
       "title": "Análise: Enviados de Trump levam incentivos para fim da guerra na Ucrânia - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2dVX3FBSG1KZDR2Q3dHVGlud29qc3pjclZGVFB6bVZjUHVUVmRqRk1YMU1paXlHeF9xRVBMTmZFV1JlS0Rjd0NCd0ZNdHV3Z3hkRnMwYmZSYkdNTnZmUnMzRVhwbTNacDBXUklJTi1rZ3plc2l5MmFGdTFZaUY3bkZ1TEZHREdzeFdJRFQ3T09SSVEyS19fVUFzWHd0SEZOV3hFeVJ5RVdfcExjZVAtVnY0X0s2Zkk?oc=5",
       "source": "CNN Brasil",
       "publishedAt": "2026-09-06T23:24:28Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "description": "Lourival Sant'Anna aponta sinais concretos de avanços para a Ucrânia, com mudança de postura de Trump e maior envolvimento da Europa nas negociações",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/ATAQUE-RUSSO.png?w=1200&h=630&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/analise-enviados-de-trump-levam-incentivos-para-fim-da-guerra-na-ucrania/"
+    },
+    {
+      "title": "Lavrov acusa Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlnaGhneVZBVURhWm9rVE1FSFJZYWl0OHhpMXFOUUc4U3R3SzRsY2ZDYWhVdWJ5NW9fLVJOVkFzamRrR19GYzZCRy04ZmlxWkRxM2hCUmhVaVBDWWlZYy1Nd1BfNlJ2dzV1cnZMQ0Zfek5xTTdhRXVmU3VTQVBJRUxid1hWT20zc0lBRUNIempZYTNVM0xoWlpLNF8xVzVoUHQyUlpzZmhwSHFPMkJZOTlvQQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-06T15:49:05Z",
+      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Acordo luso-americano sobre Base das Lajes faz 75 anos com possível revisão à vista - publico.pt",
+      "title": "Acordo luso-americano sobre Base das Lajes faz 75 anos com possível revisão à vista - Público",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVBicUpuSEszbGk5Wm5ZaTJNRmlROXRFcEdJZzF1UXI1MjZiR01GTzZmNGY1dG1aWE5TNlZ4eHcyU2tNc2hoMWlmM2VzSklMaFZtQlo5UV9ZUjRjVFcyQkV3Mkd4X3ltQjJFcG96Vm9mallLTnVWeVJpdV9LVGZ6M2RIZWRfNmlFWjQ3RlRiSGRDNFNCMm9CaGFhbjhpdEQ2MEhTN20tenpoY2JYSGZQTjhxSXdCTVJFc211UFlsQUl0bkU?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-06T20:01:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
