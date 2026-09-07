@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-07T15:28:08.385687Z",
+  "updatedAt": "2026-09-07T16:28:28.155705Z",
   "health": [
+    {
+      "title": "Instrumento vital para a gestão do SNS foi aprovado, mas director executivo desconhecia - Público",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1BPeWpOTW1lY3J6MGtlZ3dsbE9nUDZNS2VURUtJTEdySmtjd1A3STFsN1FBaVJxclk1QTF1VXI1cldyRHhmNVlGTHNiVmxFU29iR2xqMndoYXM2QmJDVFBqbS1WYnZsYlBBS3hZcXhXSEE1cDQ5dG5ULWwyUFQtRTNUbFBkM3BEOWRUTFZFMkZiYzU5UWk4NXdlVFdRaEZHMzFBVno0TGJEV1plU2VDRWRMR2VTYXExU0hlZjhHNkJFb0ZUeUhz?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-07T07:58:50Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/07/sociedade/noticia/instrumento-vital-gestao-sns-aprovado-director-executivo-desconhecia-2187103"
+    },
     {
       "title": "Morreu Nuno Cardoso, antigo autarca do Porto - RTP",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckgycXU1QnhhRURjNnNHSjl4Tzd2OXVWTUh5SUh0aFg2cGVpaUlhVGdUT3dFNGFYRDNoNUExMy05MXU3UjY5SGtOTmJGSUhOTnp6Z2RJTUpnOG42RlZlSURoZExUS0gwRHI5ZzY1NEwwLTAzdUROaFlmcmxPTTdDdnlUYjY3NVVzbDZBaUVR?oc=5",
@@ -20,15 +29,6 @@
       "articleUrl": "https://observador.pt/2026/09/07/primeiro-ministro-timorense-apela-a-que-decisoes-da-organizacao-mundial-de-saude-em-dili-se-traduzam-em-acoes-concretas/"
     },
     {
-      "title": "Boletim da Nutrição e Saúde de setembro - cm-paredes.pt",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2NWSWpSYlVpYzI5LU1jdUhMaWlTWVZ0aHdfQmVRVk4zYmxTbHcwQXBnNVBvTmxnU2dJNk9FdXVIMzlhTDhjYlY4WmV2OWY5OW5jTHVSeFI2R1ZrMFVXVVhKOXQ0eGd6VVNtQWprLUxYVV9yRF9oZlhPWDBtN0dZVzJoazlIQ2Znei05bFEwMGJoaG1sZENjbzhqdFBjQWhRYldyVER3LWNWT0FiLWlibmlWSnA?oc=5",
-      "source": "cm-paredes.pt",
-      "publishedAt": "2026-09-07T10:54:24Z",
-      "description": "Já está disponível a quinta edição do Boletim Nutrição e Saúde. Consulte aqui: Boletim Nutrição e Saúde",
-      "image": "https://www.cm-paredes.pt/cmparedes/uploads/news/image/3367/009.jpg",
-      "articleUrl": "https://www.cm-paredes.pt/atividade-municipal/comunicacao/noticias/noticia/boletim-da-nutricao-e-saude-de-setembro"
-    },
-    {
       "title": "Morreu o antigo presidente da Câmara do Porto Nuno Cardoso - contacto.lu",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXZEM2RnSU1IX2E1aEdZYWg3UVh3SjNBU01DQXduVFJHN3pBOHpmb3Vsd1BQUXlqVld5SjY2RjU0dXlGZ2FTdG5ubDJHeEptdFZEOWV2dlRLTGsyY2dHX3Z1bERLRFB3YzltVk9Xcm1YRU1JeG1iTUUwUldhWnZfa2QwNnM5Tk9FcTlPTGVDalU5MG1UQ0xnekR6N2JkVmJFVFBlOWM3bEdMdw?oc=5",
       "source": "contacto.lu",
@@ -38,6 +38,15 @@
       "articleUrl": "https://www.contacto.lu/portugal/morreu-o-antigo-presidente-da-camara-do-porto-nuno-cardoso/161090593.html"
     },
     {
+      "title": "Boletim da Nutrição e Saúde de setembro - cm-paredes.pt",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2NWSWpSYlVpYzI5LU1jdUhMaWlTWVZ0aHdfQmVRVk4zYmxTbHcwQXBnNVBvTmxnU2dJNk9FdXVIMzlhTDhjYlY4WmV2OWY5OW5jTHVSeFI2R1ZrMFVXVVhKOXQ0eGd6VVNtQWprLUxYVV9yRF9oZlhPWDBtN0dZVzJoazlIQ2Znei05bFEwMGJoaG1sZENjbzhqdFBjQWhRYldyVER3LWNWT0FiLWlibmlWSnA?oc=5",
+      "source": "cm-paredes.pt",
+      "publishedAt": "2026-09-07T10:54:24Z",
+      "description": "Já está disponível a quinta edição do Boletim Nutrição e Saúde. Consulte aqui: Boletim Nutrição e Saúde",
+      "image": "https://www.cm-paredes.pt/cmparedes/uploads/news/image/3367/009.jpg",
+      "articleUrl": "https://www.cm-paredes.pt/atividade-municipal/comunicacao/noticias/noticia/boletim-da-nutricao-e-saude-de-setembro"
+    },
+    {
       "title": "Candidaturas abertas à nova edição das Bolsas de Jornalismo em Saúde - Sindicato dos Jornalistas",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTREVktFYWRSODdDWkFieF9OcDNqNy1RUnM5Ty1YWS0wdTdGNUhUOExkRVpHVTR3Zml6cUVtamF4TTM5X2N1dzI5UjhGQ0pRbm9kWThQcXdlQmpxQ2l0eGs3NlhFbGV1a3ROZHFhSlEwS3RQakhLM3Q4S1pacmZnWmY2eG0zUW9mLTBqWTdId0Nrb19ZR0kw?oc=5",
       "source": "Sindicato dos Jornalistas",
@@ -45,6 +54,15 @@
       "description": "Notícia publicada por Sindicato dos Jornalistas. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://jornalistas.eu/candidaturas-abertas-a-nova-edicao-das-bolsas-de-jornalismo-em-saude/"
+    },
+    {
+      "title": "Medicina veterinária de abrigo: “É cativante fazer parte da construção de uma área científica” - veterinaria-atual.pt",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOU8xVWp2YWNnRU5ZY0VUWXF4NHJyZ21Ja1lhdmM4TGpkWlg5VExiQWpzR1VzWmRvSmVzMUlrcXc1Vng1VTM4R3UzckxyM0owMHBKTnktbDBIMmpObDFYZFdrS0RkRDRNa1BvVVBCd1NUNVRRYzJqQ3N0Yi1UZ1ZqYjBVYnF4YlR1RzNCeDNjSVVoTWRETmx2bm1uVUZ6NlRHejNFQ2Y2YlEzTl8zUi13NWRYblJzNldFU29JQklpSG5CSGhnV2NXVkJDT1Q0N0x3UWc?oc=5",
+      "source": "veterinaria-atual.pt",
+      "publishedAt": "2026-09-07T15:39:14Z",
+      "description": "Medicina veterinária de abrigo: “É cativante fazer parte da construção de uma área científica” - Veterinaria Atual",
+      "image": "https://www.veterinaria-atual.pt/wp-content/uploads/sites/4/2026/09/Paulo-Afonso.jpg",
+      "articleUrl": "https://www.veterinaria-atual.pt/na-pratica/medicina-veterinaria-de-abrigo-e-cativante-fazer-parte-da-construcao-de-uma-area-cientifica/"
     },
     {
       "title": "OMS debate em Díli prioridades de saúde no Sudeste Asiático - HealthNews",
@@ -78,30 +96,12 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0txQzV4bk9CX0R6aTNLbEpvb3g3eWNjNlJLMGQ4YmstRzIwWWgxRUdnczI3Ykk1T09KSUFteEJ6LVdfUi03VFV0R2JGZHg2aVBNZGlpRXFhLVJBTTdLQTNySWlNZjJGOXI5dmprSGRsS3J5OG0zVVN1S0tMUHVaUTR5TGhUbDNkWDJlTWZVQWNWM2Rnb1BJQlhMNll5OHZSeE1rX0prQ2o5YjdZRmk3VXNkVWl1MVZrMkVfbUdzTV9XM1U4b0FhR1Q5OXlxbnk2Mzc5dG5hR0VZQkdfcGxnaks0dFZIMnlCTWJxMlh1MG1OaFZo?oc=5",
       "source": "ihmt.unl.pt",
       "publishedAt": "2026-09-07T14:17:51Z",
-      "description": "O artigo “O Labirinto da Gestão Pública da Saúde, em Portugal”, da autoria do Professor Doutor Jorge Simões, membro do Global Health and Tropical Medicine (GHTM | IHMT NOVA), centro de investigação do Instituto de Higiene e Medicina Tropical da Universidade NOVA de Lisboa (IHMT NOVA), e de Mariana Mota Torres, foi distinguido pelo […]Ler mais",
-      "image": "https://www.ihmt.unl.pt/wp-content/uploads/2026/09/Artigo-publicado-nos-Anais-do-IHMT-NOVA-em-destaque-no-IndexRMP-1.png",
-      "articleUrl": "https://www.ihmt.unl.pt/artigo-publicado-nos-anais-do-ihmt-nova-dedicado-a-gestao-publica-da-saude-em-destaque-no-index-das-revistas-medicas-portuguesas-indexrmp/"
-    },
-    {
-      "title": "Instrumento vital para a gestão do SNS foi aprovado, mas director executivo desconhecia - Público",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1BPeWpOTW1lY3J6MGtlZ3dsbE9nUDZNS2VURUtJTEdySmtjd1A3STFsN1FBaVJxclk1QTF1VXI1cldyRHhmNVlGTHNiVmxFU29iR2xqMndoYXM2QmJDVFBqbS1WYnZsYlBBS3hZcXhXSEE1cDQ5dG5ULWwyUFQtRTNUbFBkM3BEOWRUTFZFMkZiYzU5UWk4NXdlVFdRaEZHMzFBVno0TGJEV1plU2VDRWRMR2VTYXExU0hlZjhHNkJFb0ZUeUhz?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-07T07:58:50Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/07/sociedade/noticia/instrumento-vital-gestao-sns-aprovado-director-executivo-desconhecia-2187103"
-    },
-    {
-      "title": "Castelo Branco: Hospital promove Dia da Grávida - reconquista.pt",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSi0tcGJ1REpZNzh0NFNOdTB1Q0Z5Y0R5bGpSRTRPWUdENEZoOWJVQjBMNmw2bVZCNVhyZnhVOUtaNDQ3YXhEWWNyanA5M3JEdWlXcFR2dDBGaWtCZXpxRnBBY2ZYSWlZVEtTTjByZUp6ZURNa09XVnNfc3RXQ3Bhd21GTTMxUllRaW9r?oc=5",
-      "source": "reconquista.pt",
-      "publishedAt": "2026-09-07T14:52:00Z",
-      "description": "Notícia publicada por reconquista.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por ihmt.unl.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
       "title": "Empresa de Oliveira do Hospital aposta na construção de casas modulares - Idealista",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWN4LUZHN2JGNGo4NE41WWNxTFN6dmFmZXdCa1NaRktHOGZjSkRRSFkxaEpoTFlDRDVvdmdZdE8zNVFrUWhKMmtiWHBIYjBGWDk1NDJESGkwSVVDS1Q4UnBhZm0zMTVCSW9WZ25qREowWFpMaUdDSzB4WEpsM3V2bDMtUXBBS0VFeVJ0Q05DMVBsbDFfbHFTOHJOX3Bta0R0S2lzNzBXMkg2SHhHZUpWZUZISnBZRTBPMkVyYkNsdThFZ25pUzBvbkRuWFdrQ2JkRGdDTENqcjRPWTBD0gHcAUFVX3lxTE1BY3gtRkc3YkY0ajg0TjVZY3FMU3p2YWZld0JrU1pGS0c4ZmNKRFFIWTFoSmhMWUNENW92Z1l0TzM1UWtRaEoya2JYcEhiMEZYOTU0MkRIaTBJVUNLVDhScGFmbTMxNUJJb1ZnbmpESjBYWkxpR0NLMHhYSmwzdXZsMy1RcEFLRUV5UnRDTkMxUGxsMV9scVM4ck5fcG1rRHRLaXM3MFcySDZIeEdlSlZlRkhKcFlFME8yRXJiQ2x1OEVnbmlTMG9uRG5YV2tDYmREZ0NMQ2pyNE9ZMEM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXl0bnF0SjVDc2NqUUZFNTVLb1ZzTXE5YWRPby0zYmZZdmZvSmpFTzZxTWpiOTRiVEhmTXdNT2FESkIxZ1lMcW5YUlNNUTZhNjVLdXVpVHRGYUV0M2dXOFNhcHRjM1VVZm44eWtHS2hMTl92QTBzVlNpRlpjeDZYckRRY2JfZVhtNTI3bVViMkdpNWNGUVliZVY3N3IyZk5MakZfRGt5T1JybTgyd2s3SVM5cFBwdzZZT0lFeV9hM1NJZndZTmRhdnRVNTBQQ25iTFVkcWkxSdIB3AFBVV95cUxNQWN4LUZHN2JGNGo4NE41WWNxTFN6dmFmZXdCa1NaRktHOGZjSkRRSFkxaEpoTFlDRDVvdmdZdE8zNVFrUWhKMmtiWHBIYjBGWDk1NDJESGkwSVVDS1Q4UnBhZm0zMTVCSW9WZ25qREowWFpMaUdDSzB4WEpsM3V2bDMtUXBBS0VFeVJ0Q05DMVBsbDFfbHFTOHJOX3Bta0R0S2lzNzBXMkg2SHhHZUpWZUZISnBZRTBPMkVyYkNsdThFZ25pUzBvbkRuWFdrQ2JkRGdDTENqcjRPWTBD?oc=5",
       "source": "Idealista",
       "publishedAt": "2026-09-07T11:31:23Z",
       "description": "Notícia publicada por Idealista. Abra o artigo para consultar os detalhes completos.",
@@ -110,11 +110,11 @@
   ],
   "world": [
     {
-      "title": "Zelensky inicia reunião com enviados dos Estados Unidos em Kiev - expresso.pt",
+      "title": "Zelensky inicia reunião com enviados dos Estados Unidos em Kiev - Expresso",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjB3U1FJV1E5aFluSWxnbWw3bVR6dzFOY1ZzcU1ITjQ3ZWJQOHYwSU4tWGgzZ3JXbzZGWGpRZXFCTEFNbVRWUk1FRnpmQTFJeTlQWXBhV1drSGI1MDB1UGNFS181bG1RdVFOeFdKR2o3TENjbUdBODFYdmx5ZXA4NXFmS1NpaWpyZ3pWSGJJcHoyVXZ1MTZjaUR4MURQTm90Y280QW9RaGowU1cydnM5bW5JbFhzcHVuQWc?oc=5",
-      "source": "expresso.pt",
+      "source": "Expresso",
       "publishedAt": "2026-09-06T12:16:06Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-06-zelensky-inicia-reuniao-com-enviados-dos-estados-unidos-em-kiev-8f864173"
     },
@@ -164,15 +164,6 @@
       "articleUrl": "https://24noticias.sapo.pt/atualidade/artigos/medio-oriente-ninguem-esta-seguro-em-gaza-eua-irao-potencial-de-uma-guerra-para-sempre"
     },
     {
-      "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-06T19:30:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
-    },
-    {
       "title": "O saldo da reunião entre Zelensky e enviados dos EUA para encerrar guerra na Ucrânia - VEJA",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU9DNFdmcUZvU2JlZXgxSEhtR2IxUnBsLXVnbmRmRGkyLVZMUzNZQ0ZxeWUxVGdUY0RVMUdFSzE3SjN0c1o3ZFgzMllvdkNLdjhNMDBoLURYWlRJQncxMnBaRGw0elZPdTd0X2szc2Z3c2sxV1htLUZNNmFtUHp2TU8yNWMwZVZVc045UGlnZlY4OGRTVjBqYV9CZHdxajJCRkxZaENoN1YtbFJ6Qk9OS0piVkZ1VDVR?oc=5",
       "source": "VEJA",
@@ -182,9 +173,18 @@
       "articleUrl": "https://veja.abril.com.br/mundo/o-saldo-da-reuniao-entre-zelensky-e-enviados-dos-eua-para-encerrar-guerra-na-ucrania/"
     },
     {
-      "title": "Kremlin diz que é \"cedo\" para negociação de paz com EUA e Ucrânia - cnnbrasil.com.br",
+      "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T19:30:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
+    },
+    {
+      "title": "Kremlin diz que é \"cedo\" para negociação de paz com EUA e Ucrânia - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk1rSV9HQktVY2IyYXlKN2FXdFFJdy1CR3lxeUNEc29pZEFFV3lnT3MxdklpWEFjLTNNdDhXbW5IdWoyYU9WY01QemRTZFk3LTJwN29ZM3BLdDhsNDh3YmUzRTI5VEJOQlJkS2VBWGdJSEJuSkpCd05MZ1JONldQU21GNTRIeWdQcTV3S0RtbHZBM3BWOW01d2haOXhXTlh4RDZyZkRmOS05eFk?oc=5",
-      "source": "cnnbrasil.com.br",
+      "source": "CNN Brasil",
       "publishedAt": "2026-09-07T12:22:28Z",
       "description": "Porta-voz do governo russo, Dmitry Peskov, não descarta reuniões, mas que ainda não é o momento para decidir local e data de diálogos trilaterais entre Kiev, Moscou e Washington",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM1J0M1-BASEIMAGE.jpg?w=800&h=501&crop=1",
