@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:28:50.291229Z",
+  "updatedAt": "2026-09-07T15:28:08.385687Z",
   "health": [
     {
       "title": "Morreu Nuno Cardoso, antigo autarca do Porto - RTP",
@@ -29,6 +29,24 @@
       "articleUrl": "https://www.cm-paredes.pt/atividade-municipal/comunicacao/noticias/noticia/boletim-da-nutricao-e-saude-de-setembro"
     },
     {
+      "title": "Morreu o antigo presidente da Câmara do Porto Nuno Cardoso - contacto.lu",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXZEM2RnSU1IX2E1aEdZYWg3UVh3SjNBU01DQXduVFJHN3pBOHpmb3Vsd1BQUXlqVld5SjY2RjU0dXlGZ2FTdG5ubDJHeEptdFZEOWV2dlRLTGsyY2dHX3Z1bERLRFB3YzltVk9Xcm1YRU1JeG1iTUUwUldhWnZfa2QwNnM5Tk9FcTlPTGVDalU5MG1UQ0xnekR6N2JkVmJFVFBlOWM3bEdMdw?oc=5",
+      "source": "contacto.lu",
+      "publishedAt": "2026-09-07T13:25:26Z",
+      "description": "Notícia publicada por contacto.lu. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.contacto.lu/portugal/morreu-o-antigo-presidente-da-camara-do-porto-nuno-cardoso/161090593.html"
+    },
+    {
+      "title": "Candidaturas abertas à nova edição das Bolsas de Jornalismo em Saúde - Sindicato dos Jornalistas",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTREVktFYWRSODdDWkFieF9OcDNqNy1RUnM5Ty1YWS0wdTdGNUhUOExkRVpHVTR3Zml6cUVtamF4TTM5X2N1dzI5UjhGQ0pRbm9kWThQcXdlQmpxQ2l0eGs3NlhFbGV1a3ROZHFhSlEwS3RQakhLM3Q4S1pacmZnWmY2eG0zUW9mLTBqWTdId0Nrb19ZR0kw?oc=5",
+      "source": "Sindicato dos Jornalistas",
+      "publishedAt": "2026-09-07T14:14:17Z",
+      "description": "Notícia publicada por Sindicato dos Jornalistas. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://jornalistas.eu/candidaturas-abertas-a-nova-edicao-das-bolsas-de-jornalismo-em-saude/"
+    },
+    {
       "title": "OMS debate em Díli prioridades de saúde no Sudeste Asiático - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1lLbF9Gb0FDWGd5czhVUUF2SXdOQ1d3SkJidVBUUmRac2xWN2s4NUwwU2dSZG9XaElwaUsxMDFZZ1d5a0k2VXh4cWFvSl9uVUJKNGFTc1Z3cDVwR1ljcW5KY2FoMU9iV2x3M1B4SEM2Z0o2ZjFEYWx4bzMxSllLM3hvY2ZPMmhhRjRPd093TGJfNEVuUzg1Sw?oc=5",
       "source": "HealthNews",
@@ -56,15 +74,6 @@
       "articleUrl": "https://noticias.up.pt/pessoas-da-up/leonor-meira-lopes-tem-15-anos-e-sobredotada-e-entrou-em-medicina-na-fmup/"
     },
     {
-      "title": "Candidaturas abertas à nova edição das Bolsas de Jornalismo em Saúde - Sindicato dos Jornalistas",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTREVktFYWRSODdDWkFieF9OcDNqNy1RUnM5Ty1YWS0wdTdGNUhUOExkRVpHVTR3Zml6cUVtamF4TTM5X2N1dzI5UjhGQ0pRbm9kWThQcXdlQmpxQ2l0eGs3NlhFbGV1a3ROZHFhSlEwS3RQakhLM3Q4S1pacmZnWmY2eG0zUW9mLTBqWTdId0Nrb19ZR0kw?oc=5",
-      "source": "Sindicato dos Jornalistas",
-      "publishedAt": "2026-09-07T14:14:17Z",
-      "description": "Notícia publicada por Sindicato dos Jornalistas. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://jornalistas.eu/candidaturas-abertas-a-nova-edicao-das-bolsas-de-jornalismo-em-saude/"
-    },
-    {
       "title": "Artigo publicado nos Anais do IHMT NOVA, dedicado à gestão pública da saúde, em destaque no Índex das Revistas Médicas Portuguesas (ÍndexRMP) - ihmt.unl.pt",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0txQzV4bk9CX0R6aTNLbEpvb3g3eWNjNlJLMGQ4YmstRzIwWWgxRUdnczI3Ykk1T09KSUFteEJ6LVdfUi03VFV0R2JGZHg2aVBNZGlpRXFhLVJBTTdLQTNySWlNZjJGOXI5dmprSGRsS3J5OG0zVVN1S0tMUHVaUTR5TGhUbDNkWDJlTWZVQWNWM2Rnb1BJQlhMNll5OHZSeE1rX0prQ2o5YjdZRmk3VXNkVWl1MVZrMkVfbUdzTV9XM1U4b0FhR1Q5OXlxbnk2Mzc5dG5hR0VZQkdfcGxnaks0dFZIMnlCTWJxMlh1MG1OaFZo?oc=5",
       "source": "ihmt.unl.pt",
@@ -83,40 +92,40 @@
       "articleUrl": "https://www.publico.pt/2026/09/07/sociedade/noticia/instrumento-vital-gestao-sns-aprovado-director-executivo-desconhecia-2187103"
     },
     {
+      "title": "Castelo Branco: Hospital promove Dia da Grávida - reconquista.pt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSi0tcGJ1REpZNzh0NFNOdTB1Q0Z5Y0R5bGpSRTRPWUdENEZoOWJVQjBMNmw2bVZCNVhyZnhVOUtaNDQ3YXhEWWNyanA5M3JEdWlXcFR2dDBGaWtCZXpxRnBBY2ZYSWlZVEtTTjByZUp6ZURNa09XVnNfc3RXQ3Bhd21GTTMxUllRaW9r?oc=5",
+      "source": "reconquista.pt",
+      "publishedAt": "2026-09-07T14:52:00Z",
+      "description": "Notícia publicada por reconquista.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "Empresa de Oliveira do Hospital aposta na construção de casas modulares - Idealista",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWN4LUZHN2JGNGo4NE41WWNxTFN6dmFmZXdCa1NaRktHOGZjSkRRSFkxaEpoTFlDRDVvdmdZdE8zNVFrUWhKMmtiWHBIYjBGWDk1NDJESGkwSVVDS1Q4UnBhZm0zMTVCSW9WZ25qREowWFpMaUdDSzB4WEpsM3V2bDMtUXBBS0VFeVJ0Q05DMVBsbDFfbHFTOHJOX3Bta0R0S2lzNzBXMkg2SHhHZUpWZUZISnBZRTBPMkVyYkNsdThFZ25pUzBvbkRuWFdrQ2JkRGdDTENqcjRPWTBD0gHcAUFVX3lxTE1BY3gtRkc3YkY0ajg0TjVZY3FMU3p2YWZld0JrU1pGS0c4ZmNKRFFIWTFoSmhMWUNENW92Z1l0TzM1UWtRaEoya2JYcEhiMEZYOTU0MkRIaTBJVUNLVDhScGFmbTMxNUJJb1ZnbmpESjBYWkxpR0NLMHhYSmwzdXZsMy1RcEFLRUV5UnRDTkMxUGxsMV9scVM4ck5fcG1rRHRLaXM3MFcySDZIeEdlSlZlRkhKcFlFME8yRXJiQ2x1OEVnbmlTMG9uRG5YV2tDYmREZ0NMQ2pyNE9ZMEM?oc=5",
       "source": "Idealista",
       "publishedAt": "2026-09-07T11:31:23Z",
       "description": "Notícia publicada por Idealista. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.idealista.pt/news/imobiliario/habitacao/2026/09/07/77494-empresa-de-oliveira-do-hospital-aposta-na-construcao-de-casas-modulares?amp"
-    },
-    {
-      "title": "Morreu Nuno Cardoso, antigo presidente da Câmara do Porto, aos 64 anos - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2NsRUJQbE9Fc3d5QUNfTExES25wRDBDeWZmZTFrSEhXb0Z5bXRHM0F4LTAxWnhidXVJbTNoNUVaazFURlBXSXMwYlNHdnNxQnlOdS1mYkR5dy1ybFVsdUgwQ2ZvOWhlTk43ZXJNNDBXeHJtRWt6NUJLSnpKT0M3X2hjOEFnTWdSSDFV?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-07T10:19:57Z",
-      "description": "Notícia publicada por Diário de Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Festas honram Nossa Senhora da Saúde - Município de Setúbal",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0NPLUVQN0QwVERuVmlZUzFJc3NLNTE3bzd5YWxrTUVrUDFIUC1hRnhhRVdRYUloMkM5bzRDY01uc2dvM1AzRm4zZ0pqaXVHUmpzck5qTlZseVh0M3luTGlsV2xfVjZ4OVVEeW5xX0RPaXc4bTlUQWViTEVGUGxUY3lxcw?oc=5",
-      "source": "Município de Setúbal",
-      "publishedAt": "2026-09-07T09:56:00Z",
-      "description": "Notícia publicada por Município de Setúbal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Zelensky inicia reunião com enviados dos Estados Unidos em Kiev - Expresso",
+      "title": "Zelensky inicia reunião com enviados dos Estados Unidos em Kiev - expresso.pt",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjB3U1FJV1E5aFluSWxnbWw3bVR6dzFOY1ZzcU1ITjQ3ZWJQOHYwSU4tWGgzZ3JXbzZGWGpRZXFCTEFNbVRWUk1FRnpmQTFJeTlQWXBhV1drSGI1MDB1UGNFS181bG1RdVFOeFdKR2o3TENjbUdBODFYdmx5ZXA4NXFmS1NpaWpyZ3pWSGJJcHoyVXZ1MTZjaUR4MURQTm90Y280QW9RaGowU1cydnM5bW5JbFhzcHVuQWc?oc=5",
-      "source": "Expresso",
+      "source": "expresso.pt",
       "publishedAt": "2026-09-06T12:16:06Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-06-zelensky-inicia-reuniao-com-enviados-dos-estados-unidos-em-kiev-8f864173"
+    },
+    {
+      "title": "Kremlin \"não exclui\" novas negociações com Ucrânia e Estados Unidos - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFE1bVA4NEtwS28tMUNsX1g2NEIyS0x1Z21xMGRLNWR5RW1iQWNLUVIzemJZZHQ2N2pBOVp4bk8yZ2lCY0hxckpUbFVIcE1TVmNXd0k2VlR6b1AzX3k5Q1I3bEp3NDAtU19yVGFoM3VnVEw4bXRjZFV5eEpWVDJaTEtIenMxc0RaaHJFOHVHemk4MTBld1NnQm84RFRNVlEwU2lucGZPTW9xOWk3al82enBWZWkyYjN4S0I2LW1qMEZyZw?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-09-07T15:19:03Z",
+      "description": "\"Também não excluímos a retomada do formato trilateral, mas ainda é muito cedo para falar sobre o local e datas específicos\", declarou o porta-voz da presidênci...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_686e54d809951.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MzgsImNyb3BZIjoxNzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MCwiY3JvcEhlaWdodCI6MTY3MSwiY3JvcFgiOjEwMjQsImNyb3BZIjoyMH19",
+      "articleUrl": "https://www.noticiasaominuto.com/mundo/3047630/ucrania-kremlin-diz-nao-excluir-retomada-de-negociacoes-com-kiev-e-washington"
     },
     {
       "title": "Negociações de paz. Enviados dos Estados Unidos já estão em Kiev - RTP",
@@ -128,6 +137,15 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-enviados-dos-estados-unidos-ja-estao-em-kiev_n1763660"
     },
     {
+      "title": "Gronelândia: Dinamarca e União Europeia garantem apoios, apesar de ameaças americanas - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYnMyYUkwVnp0cGRhT2tyZW0xQTZFcTlwbmNyaUVkYU1INnc4Tk4wYnpKbWNtWkVYRjZ0REtJYkM3VVVSZnFUdGJGVjMwQVNobVVXcnpzb1pMb3dMdUdDVmlKVV81S0JJQUljeWZoQW42bmJtTVlNbzNmZkFGQXlHYjNUZ3p0WjFDSFpVX3ZiTlEyVjIwSXNDWWNwRnBWRGR4N082bFVmVDhJQW53MTRpR0dSNWJLS0hSZXpJS2JPcTRTcGNaUmlJWVAtSTVYb20w?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-09-07T14:24:02Z",
+      "description": "A Presidente da Comissão Europeia, acompanhada da primeira-ministra dinamarquesa, estão em visita desde este domingo a esta enorme ilha do Árctico, cobiçada por Donald Trump, que citava razões de segurança…",
+      "image": "https://s.rfi.fr/media/display/298c391c-aa11-11f1-81bd-005056a97e36/w:1280/p:16x9/2026-09-06T135611Z-2102364853-RC2PDNAC6NTT-RTRMADP-3-EU-GREENLAND.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260907-gronel%C3%A2ndia-dinamarca-e-uni%C3%A3o-europeia-garantem-apoios-apesar-de-amea%C3%A7as-americanas"
+    },
+    {
       "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - Renascença",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Juc9IBswFBVV95cUxObGd1Q0RSei00d0pXN1hFTFdMaGh4T0VoV0IyXzRibEN6TEhOOVRnTWNBN0UwSTZmMk90cDRkQjJQc2EtSzRCMjBjZ1picmVkaE44QW1hVEZHNWh5SnZfblBzQkpacFhOR2dYWjhzNGhGVjlQMlFhb201c0N2X3BYQWZYc2c5T0dkNDdvSGJtaUpNdGVWWHVWZkh1dkdVaVFEVnFGNDk0V3JwcnE2NHF2X3Jucw?oc=5",
       "source": "Renascença",
@@ -137,15 +155,6 @@
       "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/guerra-na-ucrania-enviados-dos-estados-unidos-ja-estao-em-kiev/484426/"
     },
     {
-      "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-06T19:30:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
-    },
-    {
       "title": "Médio Oriente: \"ninguém está seguro\" em Gaza; EUA-Irão potencial de uma \"guerra para sempre\" - 24 Notícias",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVFc3VkozaC1kQ0l5MEJjeFRtQWM2WTZnblBjRmhVTkFMSGd5bzc5X1Boa1c2N2IzakM0dEx0bkJrVF9LZ2VyOHRCMHVLMDRUUEdsNEpfZmh6R0lHcUxYSkVCVVdTTWhscTRNTk15YUpndWtmQXNnTlhiejVDSGtYeXRQT29hT3lGNzFQbXNRdVJZOUJxQk9hMTg4SWNnY3RWMHBadmcyeFpDVUI1M0ZISWNWT2VHSU9JbGlsRzl3ZXJwWnRMLU1JT1ZFRGE?oc=5",
       "source": "24 Notícias",
@@ -153,6 +162,15 @@
       "description": "Israel voltou a atacar Gaza e matou pelo menos 10 pessoas no sul do Líbano, enquanto prosseguem as tensões com o Irão e os Estados Unidos. Netanyahu prepara-se ...",
       "image": "https://thumbs.web.sapo.io/?W=1200&H=630&delay_optim=1&tv=1&crop=center&bottom_overlay=https%3A%2F%2Fsapo24.web.sapo.io%2Fassets%2Fimg%2F24-sapo%2Foverlay.png&epic=N2QxaXjE2Q6yprQMoNj97Nfen+KiMdtlp3V9G3E0NpgoGUApav6rHoOLyWVqs3ANd6d+ytO7mshqiyEg3xhI4XLW6rSlm5M0HPg4xEUVml0CeBQ=",
       "articleUrl": "https://24noticias.sapo.pt/atualidade/artigos/medio-oriente-ninguem-esta-seguro-em-gaza-eua-irao-potencial-de-uma-guerra-para-sempre"
+    },
+    {
+      "title": "Von der Leyen mostra na Gronelândia que o Árctico também é uma prioridade para a UE - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzB3SEs5TkZNSTBoNDhhT3RfNGxzanppY0hDc2dQUmc0Q2g4Ty1KbDdEZ21XYjFEVmFOSEZFdERqckF0cGpMdTZKSld2QksweHdpdHF5M0toNGpaTXp3NEpNMGVXZ0RGUk9PMEZQN2FEdDFJMG5wSDgteEVhRDFJYkdRcDEwbkpLSkppTU5JazJNNHg1T0NvZHpveWZaU0dwRld1emJ5S01jYVJvNUF2amxmdWM0U2hM?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T19:30:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/06/mundo/noticia/von-der-leyen-mostra-gronelandia-arctico-tambem-prioridade-ue-2187194"
     },
     {
       "title": "O saldo da reunião entre Zelensky e enviados dos EUA para encerrar guerra na Ucrânia - VEJA",
@@ -173,46 +191,28 @@
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/kremlin-diz-que-e-cedo-para-negociacao-de-paz-com-eua-e-ucrania/"
     },
     {
+      "title": "União Europeia: serviço diplomático cancela novo grupo de defesa de alto nível - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1pzRlYxV1BpQW5xckJtWW5xOUozSkdYWDVUT3h6X0Rwa0pYRnpnR0NXOG1CRHJvX19SM1dRN3BKeXp4YWM0M3lEQm1WYkh3QjUyY05rY3RFd21mUUlLazc1VnF4QW1kYklqTXVWMUVFM1JEcFFJR2R3T1FRYS1DUFI0V2UySFBCVVpFMmlFM3Z0WWpKWEFiYVVzc21GSDJpNlBSX3VITUFwbFdZSU42T21UZGp1bDZkUG1ESEZPZw?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-07T09:13:21Z",
+      "description": "Chefe da diplomacia da UE, Kaja Kallas, anulou um novo grupo consultivo de defesa dias após o apresentar, após contestação dos Estados‑membros. #EuropeNews",
+      "image": "https://images.euronews.com/articles/stories/09/90/36/02/1200x675_cmsv2_69c58207-7815-535c-989c-f9534371bd86-9903602.jpg",
+      "articleUrl": "https://pt.euronews.com/my-europe/2026/09/07/uniao-europeia-servico-diplomatico-cancela-novo-grupo-de-defesa-de-alto-nivel"
+    },
+    {
       "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
       "source": "Now Canal",
       "publishedAt": "2026-09-06T12:50:00Z",
-      "description": "No plano diplomático, Luís Gomes destacou as negociações confidenciais entre enviados especiais de Donald Trump e Vladimir Putin antes de encontros em Kiev",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-06-13-16-55-61650.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
-    },
-    {
-      "title": "Emissários norte-americanos na Ucrânia para negociar a paz com a Rússia - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDVvMjh5bTZvaFo5VUhMV2otaWRsS3lkZHo0QmRBcXE2UlZETWVzRmdHcF9jT1FfanZERzAyZHlwQktFaUl2YXZxdWFmNnRBbkp5aUxyWXlLNFFtS0paM0V6aUFKYUZNMGJuYUFvMjFyckV6WmNyTnBidEk3NnJCQ09QZ1NBd2V4bHhYVDdkekg2ZEdteVZkdGptcEdORnVDb3Z0NmtwQV9YaEJiaW5UT3U0ajRUQk1rLVkwT3BoYko?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-06T15:06:53Z",
-      "description": "A reunião entre o Presidente ucraniano, Volodymyr Zelensky, e os emissários da Casa Branca para tentar reactivar o diálogo para pôr fim à guerra entre a Rússia e a Ucrânia, decorreu esta tarde em Kiev.",
-      "image": "https://s.rfi.fr/media/display/49df7008-a9ee-11f1-8521-005056a90284/w:1280/p:16x9/2026-09-06T110614Z-320167065-RC2MDNA3E7RF-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260906-emiss%C3%A1rios-norte-americanos-na-ucr%C3%A2nia-para-negociar-a-paz-com-a-r%C3%BAssia"
-    },
-    {
-      "title": "Em Kiev, enviado de Trump diz que Rússia e Ucrânia 'têm de fazer concessões', e Zelensky faz 'avaliação positiva' das negociações - oglobo.globo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVBPa2p4RjNBVG9JZkNUSExESVAtQ1JXZE1ZMFVFTlJ0cENpV2oxeXBRZVlWaUdPc0dzTEs5Q2NheVVwZGdSTG5nTjFzb0RhUTV2WEFFNDEwYUdpbzI4d2RiSFN1YXMxX21TLUMtWWlLbVBPa0oyM3d1dlhHODRkMEpIQzdOTXFuVFEzcU15NmE1dFhpeWJMRWhjWXRySThYWGJxZ21qaGRiVElGampHOHNTdjZ2RE1rcGJQd2w0NGFoWlo1MEJtVGdOUFM1bDNhQ2s4NXNlSkRoV3lOdWxMdG5yLTZKcXd5TUhETEhvOHJXTm1VMk5BbUtXTUEtN0J6TGhySzRiUTVlUjU2MTBibWlvVVgwemvSAaYCQVVfeXFMTVdabEc1TjVidTB1MTQ2aGJUdEF5MHFIRVdPWjczcENmTm1nWnAyOXJqOHV5eTVEb0R6V0R3RHlJei1oLTlvSGJMelkyMV9ZRmJsVlVNYTVmeUxVNktneWVibDZHUUNQM3VtSFVxVUM1SkR6TXZzWW81OF9JR2RrWHRIOUl2Wi1fcV9GSWhvZUxTdUhlTFZVclJIeWhRRlZrSTNxSXh0eEdIaWhYanZZaWdMT0hmblpTd3diQjFPTEtzVG5TUVZyeUNuZ2trV1RvZ2tpMWU5UFhYeFVxSVBRWHBnWEtQcTlQa1VkMG9KdG5sQ0FPMVczdjhGQmZ5dS1JQm85dEg5YkVETHZmTXpldU5UWGcxdTRUYWdDaWM3S2M4S19ES1V3?oc=5",
-      "source": "oglobo.globo.com",
-      "publishedAt": "2026-09-06T15:15:48Z",
-      "description": "Steve Witkoff e Jared Kushner desembarcam na capital ucraniana pela primeira vez desde o início do conflito, um dia depois de reunião de três horas com Putin em Moscou",
-      "image": "https://s2-oglobo.glbimg.com/i6bN3DALnZDQhUqO8XBbSqs2riQ=/2493x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/3/Q/jyLOKASRKVJ7Mx2N0Ssg/afp-20260906-c7gh4tv-v1-highres-ukraineusrussiadiplomacyconflictwar.jpg",
-      "articleUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/enviado-de-trump-diz-que-conversas-com-zelensky-foram-significativas-um-dia-apos-reuniao-com-putin-para-discutir-a-guerra-na-ucrania.ghtml"
-    },
-    {
-      "title": "Os Estados Unidos estão pressionando por negociações de paz na Ucrânia após sua visita à Rússia. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjlGUVAxNkNfNEZCeXZQdG8zNnUyQ1BYRnlzbHpQZmI1TkUtVGNLeWVEVlNxa3F1eDEySGRWYWVGRzJPOERMcE55RGxyVEYzOHBWNG9aeTRYYXB6U1NKMDZ2SS11SnJuc2cyejVBckM4aGFoZEVTQzZOWlZyWmtBMmZYZDl6eVJzTE5J?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-07T00:44:32Z",
-      "description": "Notícia publicada por Vietnam.vn. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Enviados dos Estados Unidos chegam à Ucrânia - ECO",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGtjX2ZIcGxyNktTdmV1T0ExZU93dE1pUFliVWhsMzBWaWltOWZwaXFDZks3aGxzaGQ4aVpoamRFUTEwQlJmY1hVLWxaSUxQWTF6c1lESXFnWFVMTUJHUmJ4M1psem1BTFpqMGpiX2Frd3JzdFVYd1ZyNVROZWdhcW1B?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-06T11:29:03Z",
-      "description": "Notícia publicada por ECO. Abra o artigo para consultar os detalhes completos.",
+      "title": "Em Kiev, enviado de Trump diz que Rússia e Ucrânia 'têm de fazer concessões', e Zelensky faz 'avaliação positiva' das negociações - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVBPa2p4RjNBVG9JZkNUSExESVAtQ1JXZE1ZMFVFTlJ0cENpV2oxeXBRZVlWaUdPc0dzTEs5Q2NheVVwZGdSTG5nTjFzb0RhUTV2WEFFNDEwYUdpbzI4d2RiSFN1YXMxX21TLUMtWWlLbVBPa0oyM3d1dlhHODRkMEpIQzdOTXFuVFEzcU15NmE1dFhpeWJMRWhjWXRySThYWGJxZ21qaGRiVElGampHOHNTdjZ2RE1rcGJQd2w0NGFoWlo1MEJtVGdOUFM1bDNhQ2s4NXNlSkRoV3lOdWxMdG5yLTZKcXd5TUhETEhvOHJXTm1VMk5BbUtXTUEtN0J6TGhySzRiUTVlUjU2MTBibWlvVVgwemvSAaYCQVVfeXFMTVdabEc1TjVidTB1MTQ2aGJUdEF5MHFIRVdPWjczcENmTm1nWnAyOXJqOHV5eTVEb0R6V0R3RHlJei1oLTlvSGJMelkyMV9ZRmJsVlVNYTVmeUxVNktneWVibDZHUUNQM3VtSFVxVUM1SkR6TXZzWW81OF9JR2RrWHRIOUl2Wi1fcV9GSWhvZUxTdUhlTFZVclJIeWhRRlZrSTNxSXh0eEdIaWhYanZZaWdMT0hmblpTd3diQjFPTEtzVG5TUVZyeUNuZ2trV1RvZ2tpMWU5UFhYeFVxSVBRWHBnWEtQcTlQa1VkMG9KdG5sQ0FPMVczdjhGQmZ5dS1JQm85dEg5YkVETHZmTXpldU5UWGcxdTRUYWdDaWM3S2M4S19ES1V3?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-09-06T15:15:48Z",
+      "description": "Notícia publicada por O GLOBO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
