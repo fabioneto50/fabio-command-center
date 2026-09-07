@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T20:28:09.844173Z",
+  "updatedAt": "2026-09-07T21:27:23.228607Z",
   "health": [
     {
       "title": "Instrumento vital para a gestão do SNS foi aprovado, mas director executivo desconhecia - Público",
@@ -9,6 +9,15 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/07/sociedade/noticia/instrumento-vital-gestao-sns-aprovado-director-executivo-desconhecia-2187103"
+    },
+    {
+      "title": "Hospital de Aveiro inicia broncoscopias com apoio anestésico - Observador",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcS14Qy1qM3I1b3FaLWtfV0kwaVVKejJMTmg3anJzTWZWby16aXNfV09QYTRJNVdsZzMyQUFuNkw1U0tscDd6VERpM3RJZlhqQ2JPMUZLZGVwOVFaUzY3eHYzR0F1Y0d3TE1YN3V2LUxHTEV2TFdrd0tlYzFJWFJuclFubEhBak4yX3FNaGd0VW5JbDFlMHIyTHpR?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-07T15:08:37Z",
+      "description": "\"A possibilidade de realizar estes procedimentos com apoio anestésico permite torná-los significativamente mais confortáveis, seguros e simples para quem os realiza\", afirma o diretor do serviço.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A214%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F20165532%2Fstart-lisbon-infusion-chair-scaled.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/07/hospital-de-aveiro-inicia-broncoscopias-com-apoio-anestesico/"
     },
     {
       "title": "Arábia Saudita. Empresas portuguesas avançam em força na área da saúde - RTP",
@@ -38,15 +47,6 @@
       "articleUrl": "https://www.cm-guimaraes.pt/areas-de-intervencao/noticia/camara-municipal-lanca-vai-e-vem-entre-o-multiusos-e-o-hospital-de-guimaraes"
     },
     {
-      "title": "Erva-das-pampas, planta invasora perigosa para a saúde, continua a alastrar em Portugal - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1hHQmpLZzZUNWp1dEpZa0xFeC12bS1KaFpoWHNGdnIyQzJQR1QyOG45Q3NFZXBQcGJIYlUwX2NEeW1Pb1dNVHkyaURCV2hwbkd5aUpsZkhaeS1jOXczcUJ4RkNTMGZtVFJReGVucTQ1UzJzVl9naktFZnFVcVhfZFVvbnJQcmpQNV9FRXhhSkdTV01QRXdROWtkTkJPQ2ZKSUNoMGdsTXBVRHUwa01TczEwNkh3NFJRaGQzYXdTVTd3OXVqbnpCSE9oQ3B5TUFmcVhKeTVXY3BuQXp4RHFfNDM1bXVuQQ?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-07T16:21:12Z",
-      "description": "Vista à beira das estradas, em jardins e espaços públicos, a cortadéria já se espalhou por mais de 200 municípios portugueses. Especialistas alertam para os riscos ambientais e para o potencial alergénico da espécie, criticando a demora na aplicação de medidas de controlo",
-      "image": "https://images.impresa.pt/expresso/2026-09-07-herbe_pampa_fr_2008--1-.jpg-b7e8f72f-1/1.91x1?wm=true&outputFormat=jpeg",
-      "articleUrl": "https://expresso.pt/sustentabilidade/ambiente/2026-09-07-erva-das-pampas-planta-invasora-perigosa-para-a-saude-continua-a-alastrar-em-portugal-42fb86c2"
-    },
-    {
       "title": "Acesso ao aborto. Inspeção da Saúde abre investigação ao Hospital Garcia de Orta - Diário de Notícias",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk0tOEFoX2VTbzdCNzBtdk00V25XUUR5T3psOFljS0dQODVUVDBpeTc0a2FVdGE1V0JWX2w1S0pIeDBVMlI4aF9Sa0JUam5KMkpUVFRIdWVsM3o5SjdQYWFTc0NtYjE4YTlJQWo2aDl0TXkxNWZ2eTZaSENuNzVSNzZXM1lqZmpsc3NhY1ZXTV8zelducE80SDh6RjFsQWw3Q3M0TQ?oc=5",
       "source": "Diário de Notícias",
@@ -54,6 +54,15 @@
       "description": "A Inspeção Geral das Atividades em Saúde (IGAS) decidiu avançar com uma “ação inspetiva” ao Hospital Garcia de Orta na sequência da suspensão, a 10 de agosto, d",
       "image": "https://media.assettype.com/dn%2Fimport%2Fdncxpgxxypnfpero%2Fh4aryu8xoqtt.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/sociedade/acesso-ao-aborto-inspeo-da-sade-abre-investigao-ao-hospital-garcia-de-orta"
+    },
+    {
+      "title": "Erva-das-pampas, planta invasora perigosa para a saúde, continua a alastrar em Portugal - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1hHQmpLZzZUNWp1dEpZa0xFeC12bS1KaFpoWHNGdnIyQzJQR1QyOG45Q3NFZXBQcGJIYlUwX2NEeW1Pb1dNVHkyaURCV2hwbkd5aUpsZkhaeS1jOXczcUJ4RkNTMGZtVFJReGVucTQ1UzJzVl9naktFZnFVcVhfZFVvbnJQcmpQNV9FRXhhSkdTV01QRXdROWtkTkJPQ2ZKSUNoMGdsTXBVRHUwa01TczEwNkh3NFJRaGQzYXdTVTd3OXVqbnpCSE9oQ3B5TUFmcVhKeTVXY3BuQXp4RHFfNDM1bXVuQQ?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-07T16:21:12Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/sustentabilidade/ambiente/2026-09-07-erva-das-pampas-planta-invasora-perigosa-para-a-saude-continua-a-alastrar-em-portugal-42fb86c2"
     },
     {
       "title": "Neuroses Coletivas - Quem decide sobre a nossa saúde? - ciencias.ulisboa.pt",
@@ -65,6 +74,15 @@
       "articleUrl": "https://ciencias.ulisboa.pt/eventos/neuroses-coletivas-quem-decide-sobre-a-nossa-saude"
     },
     {
+      "title": "Hospital Garcia de Orta alvo de inspeção da IGAS por ter deixado de ter consultas de IVG - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0t2MFF1VmplWFRieFpEZ2lHWUdSSXBEc1NaNW9lcHNldjVFVXp5NVczQkJaclZhYk1hcHR5ZVJNMmZrUzlZY0s2SEhDeThZcS14RXNnU1F6MXVPVWxVOENnVU81ZlFnaDJZQzZFMDVQNlVMUVBFRnlpSnhKdUJuU2ItSkh0TlMwZDRFMTI2WHo4WlB3eEV0dU4xejBVUTNkbEx5T05RMHlidXdpZHQwTTJVbWl0OEJEVmN5R0pPdDd5TTlUWkE?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-09-07T16:52:51Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/pais/2026-09-07-hospital-garcia-de-orta-alvo-de-inspecao-da-igas-por-nao-garantir-acesso-ao-ivg-429b45ca"
+    },
+    {
       "title": "Morreu o antigo presidente da Câmara do Porto Nuno Cardoso - contacto.lu",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXZEM2RnSU1IX2E1aEdZYWg3UVh3SjNBU01DQXduVFJHN3pBOHpmb3Vsd1BQUXlqVld5SjY2RjU0dXlGZ2FTdG5ubDJHeEptdFZEOWV2dlRLTGsyY2dHX3Z1bERLRFB3YzltVk9Xcm1YRU1JeG1iTUUwUldhWnZfa2QwNnM5Tk9FcTlPTGVDalU5MG1UQ0xnekR6N2JkVmJFVFBlOWM3bEdMdw?oc=5",
       "source": "contacto.lu",
@@ -74,29 +92,11 @@
       "articleUrl": "https://www.contacto.lu/portugal/morreu-o-antigo-presidente-da-camara-do-porto-nuno-cardoso/161090593.html"
     },
     {
-      "title": "Primeiro-ministro de Timor apela a ações concretas na saúde - Observador",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGdRMlNrekpUbDJ3dUYyRkJxdG83UHd3NDlXdVdDbDZ2U0I0YWVGem14TWNhSEJ5aUFZZ0I2SmhoVVdfdDdoQzVmVmJzRWw4c0pFa3RmQkd4ZkFCcjRTaTJfQm5iU21qMnlDZzZadkdnMzZHMnl0TkFqU1pMUTB6SG5SMDRaX1YyT3UyVWJCVTlPYklJXzB3VUZwdUVydWxxdnl6c0Ywa1dFZlpuS3R3dVE0ZG9paU1DaFVMMXZGTE93UWJ2T2pRQ0RoMVQ1R2ZuV2VtX1NhbVgxMGZNUUg1cVhCeXAwY3pl?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-07T09:12:33Z",
-      "description": "De segunda a quinta-feira decorre a 79.ª sessão do Comité Regional da Organização Mundial de Saúde para o Sudeste Asiático, que vai decidir quais as ações na área da saúde prioritárias para a zona.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F24030825%2F47550875.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/07/primeiro-ministro-timorense-apela-a-que-decisoes-da-organizacao-mundial-de-saude-em-dili-se-traduzam-em-acoes-concretas/"
-    },
-    {
       "title": "Candidaturas abertas à nova edição das Bolsas de Jornalismo em Saúde - Sindicato dos Jornalistas",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTREVktFYWRSODdDWkFieF9OcDNqNy1RUnM5Ty1YWS0wdTdGNUhUOExkRVpHVTR3Zml6cUVtamF4TTM5X2N1dzI5UjhGQ0pRbm9kWThQcXdlQmpxQ2l0eGs3NlhFbGV1a3ROZHFhSlEwS3RQakhLM3Q4S1pacmZnWmY2eG0zUW9mLTBqWTdId0Nrb19ZR0kw?oc=5",
       "source": "Sindicato dos Jornalistas",
       "publishedAt": "2026-09-07T14:14:17Z",
       "description": "Notícia publicada por Sindicato dos Jornalistas. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://jornalistas.eu/candidaturas-abertas-a-nova-edicao-das-bolsas-de-jornalismo-em-saude/"
-    },
-    {
-      "title": "Hospital Garcia de Orta alvo de inspeção da IGAS por ter deixado de ter consultas de IVG - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0t2MFF1VmplWFRieFpEZ2lHWUdSSXBEc1NaNW9lcHNldjVFVXp5NVczQkJaclZhYk1hcHR5ZVJNMmZrUzlZY0s2SEhDeThZcS14RXNnU1F6MXVPVWxVOENnVU81ZlFnaDJZQzZFMDVQNlVMUVBFRnlpSnhKdUJuU2ItSkh0TlMwZDRFMTI2WHo4WlB3eEV0dU4xejBVUTNkbEx5T05RMHlidXdpZHQwTTJVbWl0OEJEVmN5R0pPdDd5TTlUWkE?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-07T16:52:51Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -111,12 +111,12 @@
   "world": [
     {
       "title": "Kremlin não exclui negociações trilaterais, mas Kiev já teme a chegada do Inverno - Público",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTXlUd25xZG9vbW11QTlVMlpvSEMxcVdEaUVVbERMNlNfVGo3ajQtdkxqYXBlZXNGV2xFVDdNVl9RcnFfUFJVNm5xOHp5TUJXSFphVkVnM2ZxQWFwOFc3eVlORDU3ZDduWFhIcThqYVVFMWdqTTRXVC01X1VTWXZGZHYxYlZ1OEttQ1BwQWRGZENwWWZHLTA1bzUzNTNYTWJhSVUxQ1djOTVDZ3IwSzUwVUxLLVJCUzc0cVRqY2JJQ2o1WXpNM3F6anY4V05uY0RCeXdzTG9PSXBGNlUySEFJbzFKYjJlT0FfOUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDU4NkNIT3o0dVhFaEQtQjFvME81WWNwVDk4QkFyX1RnS0VaZDlCTm00N1hPeTlJVmpIQjRRVWU1T0VudFFnVE95czg0SkhvUVg1TkVqUXMtbm9iQ1BBUDVKcGVHLVpaWkpWM1dwQWVlVFB3UDgzYW9yXzFIQ25PUEZwVWlScE1aQkU1TERDQ083R0RMa3QteV9CbVh5LUNMZUh5QkhQb2NsYk5KYW1SWnZrdTNkcFhjanhDc0hwU09uQk44NkE?oc=5",
       "source": "Público",
       "publishedAt": "2026-09-07T18:50:36Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/07/mundo/noticia/kremlin-nao-exclui-negociacoes-trilaterais-kiev-ja-teme-chegada-inverno-2187315?ref=mundo&cx=page__content"
+      "articleUrl": "https://www.publico.pt/2026/09/07/mundo/noticia/kremlin-nao-exclui-negociacoes-trilaterais-kiev-ja-teme-chegada-inverno-2187315"
     },
     {
       "title": "Zelensky inicia reunião com enviados dos Estados Unidos em Kiev - Expresso",
@@ -182,22 +182,22 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/06/enviados-dos-estados-unidos-chegam-a-ucrania/"
     },
     {
-      "title": "União Europeia acelera revisão da política para o Ártico numa corrida global pelo poder - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzk2S2lxakRSMkJWMmNUYnZFXzVFbW5aSzFzMnVIZVNLa1BaNWJqMUJ2TF9GcUpTUG9ncnJIZ0ZxZ21ud3kzZHR2YVJiRXRNVV9Ea3kta0E2WmI3SXpzZFdHTlJXSU53Qkl1YXJBZEEyb1lhZnhSYUlybDBQeXBDNVdGcUoxaFpCaEFnRFE5TGdKeGFMQ3c2OHVRbDMyNVhzN0QzVk1zOHd1UGNZcHE3U3NpLTdZcmladm1LSG5mWGdxNGlId19lcFRhdDc?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-07T09:20:53Z",
-      "description": "A presidente da Comissão Europeia, Ursula von der Leyen, está na Gronelândia para discutir a crescente importância do Ártico entre aliados. A visita ocorre numa altura em que Bruxelas prepara uma nova política para o Ártico, com especialistas a alertarem que deve ter a segurança e a defesa no centro #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/90/19/23/1200x675_cmsv2_6da3a40b-64d1-5be0-ac85-c8593a6c6c4b-9901923.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/09/07/uniao-europeia-acelera-revisao-da-politica-para-o-artico-numa-corrida-global-pelo-poder"
-    },
-    {
-      "title": "O saldo da reunião entre Zelensky e enviados dos EUA para encerrar guerra na Ucrânia - veja.abril.com.br",
+      "title": "O saldo da reunião entre Zelensky e enviados dos EUA para encerrar guerra na Ucrânia - VEJA",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU9DNFdmcUZvU2JlZXgxSEhtR2IxUnBsLXVnbmRmRGkyLVZMUzNZQ0ZxeWUxVGdUY0RVMUdFSzE3SjN0c1o3ZFgzMllvdkNLdjhNMDBoLURYWlRJQncxMnBaRGw0elZPdTd0X2szc2Z3c2sxV1htLUZNNmFtUHp2TU8yNWMwZVZVc045UGlnZlY4OGRTVjBqYV9CZHdxajJCRkxZaENoN1YtbFJ6Qk9OS0piVkZ1VDVR?oc=5",
-      "source": "veja.abril.com.br",
+      "source": "VEJA",
       "publishedAt": "2026-09-07T13:23:17Z",
       "description": "A mando de Trump, Steve Witkoff e Jared Kushner visitaram Kiev após passagem por Moscou, onde se encontraram com Vladimir Putin",
       "image": "https://veja.abril.com.br/wp-content/uploads/2026/09/AFP__20260906__C7H649E__v1__HighRes__UkraineUsRussiaDiplomacyConflictWar.jpg?quality=70&strip=info&resize=1200,630&crop=1",
       "articleUrl": "https://veja.abril.com.br/mundo/o-saldo-da-reuniao-entre-zelensky-e-enviados-dos-eua-para-encerrar-guerra-na-ucrania/"
+    },
+    {
+      "title": "Kremlin diz que é \"cedo\" para negociação de paz com EUA e Ucrânia - cnnbrasil.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk1rSV9HQktVY2IyYXlKN2FXdFFJdy1CR3lxeUNEc29pZEFFV3lnT3MxdklpWEFjLTNNdDhXbW5IdWoyYU9WY01QemRTZFk3LTJwN29ZM3BLdDhsNDh3YmUzRTI5VEJOQlJkS2VBWGdJSEJuSkpCd05MZ1JONldQU21GNTRIeWdQcTV3S0RtbHZBM3BWOW01d2haOXhXTlh4RDZyZkRmOS05eFk?oc=5",
+      "source": "cnnbrasil.com.br",
+      "publishedAt": "2026-09-07T12:22:28Z",
+      "description": "Porta-voz do governo russo, Dmitry Peskov, não descarta reuniões, mas que ainda não é o momento para decidir local e data de diálogos trilaterais entre Kiev, Moscou e Washington",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM1J0M1-BASEIMAGE.jpg?w=800&h=501&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/kremlin-diz-que-e-cedo-para-negociacao-de-paz-com-eua-e-ucrania/"
     },
     {
       "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Kremlin diz que é \"cedo\" para negociação de paz com EUA e Ucrânia - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk1rSV9HQktVY2IyYXlKN2FXdFFJdy1CR3lxeUNEc29pZEFFV3lnT3MxdklpWEFjLTNNdDhXbW5IdWoyYU9WY01QemRTZFk3LTJwN29ZM3BLdDhsNDh3YmUzRTI5VEJOQlJkS2VBWGdJSEJuSkpCd05MZ1JONldQU21GNTRIeWdQcTV3S0RtbHZBM3BWOW01d2haOXhXTlh4RDZyZkRmOS05eFk?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-07T12:22:28Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "title": "Diante da pressão de Trump, União Europeia anuncia 200 milhões de euros para a Groenlândia - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdlZSeWVzZmk1Q0pYZFFHSEt6bkQzR2VMV05FbnRoNW5TazlsWDhsVS10SnJjclA0U2ktN0xTWXdBeHpJd0tTek03NFdBOERId3p6Zk5aU1M2a3lQLXhWX3BmQWhEMTN6Z1JzeXZEZFM3bElDdVg5WlY3RkNwTk9EMzhZMzBTRHBoWnQ4UEt1MEpFZnBvYW1INnZSQV8zeS0tamxlQ2VxM2hjbl9WWlI2UTJBRGl2aHJ6a1hlZkZEZ9IBxAFBVV95cUxPYlEwdHpVNUN0N1EzbDgtOF9PRXhkM0lLbHNTUHd0eGk1eVhHSjNGVWtGck5DbU5oUjZOWUpSSW5mbl9JektlSXEyclU0VzUtTUdtX3l0RG1UREdKaS1Ddjl2d0ZrVDg1MjB4VDhtNXo2Sk8yMW5OTjJJZ1VFQ2paaWFQblZWTWJOT2hwS1cyTDJBbngyR0ZuVDBuazhMMWNWbmNCcWNlMGllRm0zUHg5MmFCVUZkaWJ6UE5lQXI5cjA3clhR?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-09-07T19:10:00Z",
+      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
