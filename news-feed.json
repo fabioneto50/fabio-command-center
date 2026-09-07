@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:28:55.116180Z",
+  "updatedAt": "2026-09-07T04:28:58.215508Z",
   "health": [
     {
       "title": "De Boa Saúde Episódio 1 - de 07 set 2026 - RTP",
@@ -9,6 +9,15 @@
       "description": "Qual o antídoto para a desinformação em saúde? - Entre os especialistas que 'saltam da banheira, todos nus, e gritam Eureka' e os 'charlatães que",
       "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8336_13757_86660.png?v=3&w=860",
       "articleUrl": "https://www.rtp.pt/play/p17015/e951908/de-boa-saude"
+    },
+    {
+      "title": "36 horas nas urgências do Amadora-Sintra - Observador",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjc0RGgxYmdEcUFKQmJXRmF5RXREd3NwMHBaUmUxZzdmNDdUb2FTNFRHWk01c3ljZTVKSTFkQVVFbi0zUkkwR2xpZkFmN0E0TnRiOE41N1pKM3loR2RhV2d6Ui1HTG9sNzlweklKd0JfUlFaMTBxQ3phUEFCdzk4MTFvYXFqNnA4R0lqaDVDSlM0bVpuVUE?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-07T04:03:08Z",
+      "description": "Um homem entrou no Amadora-Sintra com sintomas de possível AVC e só saiu 36 horas depois. O que aconteceu e porque é que neste hospital os números são piores que nos outros?",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
+      "articleUrl": "https://observador.pt/programas/a-hist-ria-do-dia/36-horas-nas-urgencias-do-amadora-sintra/"
     },
     {
       "title": "Andaram numa montanha-russa mundialmente famosa. Depois foram levados para o hospital para uma cirurgia cerebral de emergência - CNN Portugal",
@@ -38,6 +47,15 @@
       "articleUrl": "https://www.dn.pt/opiniao-dn/sociedade-aberta/o-cancro-como-verdadeiro-teste-de-esforo-do-sistema-de-sade"
     },
     {
+      "title": "Legislar sem bússola - Público",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZlRWZmFDVzVuZzI5aHhTaTBGZGxDQUNLOTl0NkRpMnpRTXVwRlQ0YXZUdDBSVnhrM2RDU1ZCTXpTWFlCS1h0MEFPalRlOE0wN3RsY0pwRkJuVVo1eVNxbGJyNmR2Z3lNRG1HeTlPUE9fNlMxUDNXdnQ3d2VJMW8?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-06T22:25:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/07/opiniao/opiniao/legislar-bussola-2186799"
+    },
+    {
       "title": "O parque mais bonito do oeste faz maravilhas pela sua saúde. A entrada é gratuita - nit.pt",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlhxM0RpMzRYTmo3Vzg4dUlnWG1ZT215ZmpxRG5NNTZ1VlAzSzNvR3FUajRxZTJKWmUtTnViUkZYNFVJdFBkRkxURy1RYnVjam5ZakpiRzhnaGRjQ0x0S2hYN1hkSGZnaVBlTEpQdmFKUWVyazBPd0VOckxaRUZfTldqS1J4WmlxQTNXYmR2cVRURFlNbWVfODJ2UjhrVmJDcTB2M1JoNFItUEJrTDV0UFBQYUM2QnhMX3EzNU8yRQ?oc=5",
       "source": "nit.pt",
@@ -54,15 +72,6 @@
       "description": "Jovens do partido consideram a saúde mental \"um desafio que exige respostas cada vez mais próximas, preventivas e eficazes\".",
       "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_06/psychologist-making-notes-medical-history-while-understanding-problems-woman-patient-1788701088637.jpg--jad_apresenta_propostas_para__rea_da_sa_de_mental_jovem.webp?1788701090721",
       "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30004594/jad-apresenta-propostas-para-area-da-saude-mental-jovem.html"
-    },
-    {
-      "title": "Psicólogos exigem integração “obrigatória e permanente” nas juntas médicas e querem levar tema ao Parlamento - Público",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUXlEQU1DdlAtNW9WSm11V1JsQmhCeTdrdnBMRGdyWEhWUzBCQTVHTDZXSkdzQ25WZ09Ya0RMY1ZkQlhFUWZIeE5fMHUteDlvdXYtWmJDWHJPSzFlUE9XbmV6MEJPRkx2SVJpT3kzYXFnSVNybWZDaXVBTWRyMVFWWndiTjVYaDNWdUs4S1dET1BveDk3SjFUR3RReGVLREI3RlctcWR0X3Zqcy0wUzEtMXQ2VE4yWHYwdDA3Nzlmd1hnN3ZFeDNNOC13UDNsRjdWTlltRHNnczVmR0FrbE5sYUVjZjFZSTRoS01z?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-06T07:30:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/06/sociedade/noticia/psicologos-exigem-integracao-obrigatoria-permanente-juntas-medicas-querem-levar-tema-parlamento-2187099"
     },
     {
       "title": "Bloco de Esquerda exige reabertura da radioterapia no hospital de Évora - Alentejo Ilustrado",
@@ -83,13 +92,12 @@
       "articleUrl": "https://www.dnoticias.pt/app/2026/9/7/504494-manuel-goncalves-neto/"
     },
     {
-      "title": "Bloco questiona tempos de espera para primeira consulta de psicologia no SNS - Observador",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3N4X0kyMnp3VThmYUhISzdnQXJNbWZFNUNlZlJSMXJBbEx4alAtaWFkRkJjRkpBMzBKUEo0aGQ1dlVETmlqN0p5VlBYYjVRa3B1dEc3T21Cajk0OWJGWW9CM3dKZEp5UVFFdUhJYXJkdmY5M056SEJFS04tQ2xTYjhmSlEzM0lJcVNkUV9qZUJSX3c5QkJNUjQ2OTRKZXFFcGREbDNqbFZPREQzM3dj?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-06T16:18:46Z",
-      "description": "O Bloco de Esquerda questionou o Governo sobre os tempos de espera para a primeira consulta de psicologia no Serviço Nacional de Saúde. Segundo a bastonária dos psicólogos pode chegar a meio ano.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A213%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F11%2F29182206%2Fdventura-xiv-convencao-be-dia1-77-scaled.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/06/bloco-questiona-tempos-de-espera-para-primeira-consulta-de-psicologia-no-sns/"
+      "title": "Expansão econômica e sustentabilidade podem caminhar juntas, afirma Guterres - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HSHpkU0ZmRld6emZXanJ4VTRReEw3cXJNMks0VUR2eTFFajlaLUhjZWo3cV9VRWNxYVRGZ2VkMVRWS0w3OVl1QmZhMHdTVXJlLVdUREIzMA?oc=5",
+      "source": "UN News",
+      "publishedAt": "2026-09-07T04:02:00Z",
+      "description": "Notícia publicada por UN News. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "As obras de requalificação do Centro de Saúde de Porto Mós foram inauguradas est… - SAPO",
@@ -97,14 +105,6 @@
       "source": "SAPO",
       "publishedAt": "2026-09-07T02:42:57Z",
       "description": "Notícia publicada por SAPO. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Oliveira do Hospital derrota Naval, Marialvas vence e Nogueirense empata - Diário de Coimbra",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcV9RbUdGY0todm90UERESm5TaWlnSVFlakxDOExPMnZWc2U4RXhNVXJqeTVLVmU4bkJQcU1jVS03MzVDUnBOQ1pETl8wRnUyRWlHUHB0UXVfdF9LVnhOMEdqMHNyYlRXRlh1NGFYamlzNk4yT3kyZ215YnFqYmdmQ2hwa0QzOXRrbU1YOXktQjEwQ0I4Z0h2cmVfTXRaUjE1cFJ5a3BOUmJXU1gyeXJmc19B?oc=5",
-      "source": "Diário de Coimbra",
-      "publishedAt": "2026-09-06T19:29:00Z",
-      "description": "Notícia publicada por Diário de Coimbra. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Acordo luso-americano sobre Base das Lajes faz 75 anos com possível revisão à vista - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVBicUpuSEszbGk5Wm5ZaTJNRmlROXRFcEdJZzF1UXI1MjZiR01GTzZmNGY1dG1aWE5TNlZ4eHcyU2tNc2hoMWlmM2VzSklMaFZtQlo5UV9ZUjRjVFcyQkV3Mkd4X3ltQjJFcG96Vm9mallLTnVWeVJpdV9LVGZ6M2RIZWRfNmlFWjQ3RlRiSGRDNFNCMm9CaGFhbjhpdEQ2MEhTN20tenpoY2JYSGZQTjhxSXdCTVJFc211UFlsQUl0bkU?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-06T20:01:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Comitiva dos EUA elogia reunião “muito significativa”, Zelensky espera novo encontro nas próximas semanas - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2N3MDJtS3lfQ1dNYnpZcmJWeWdxb2pWUllpMjAxNUZnc2dfTGhWbmxoU1NiMU80YkhOTFR2a2dKRXdURzh0NEREdnZyMzA1dG0wd1pUbEtQcjNJZEZuY1BFSnRWcm1jQXZzM2pid0xxcmNHUXFfbUhHRzhLLWp4VTVxbW1abzM4ckp6MkxuRTNrYnNZdXA2ZmVVY3ZQVzFJQVhpREUxVFpQZnZVT05sMVEwZFFHRWs3X3FsLXZ4a2VrQUg4WmZxdktSQzRPZkJPdXVnVDNINUJZa2Rjb0FPaW5KZDNiOTRm0gHoAUFVX3lxTE0zY3cwMm1LeV9DV01iellyYlZ5Z3FvalZSWWkyMDE1RmdzZ19MaFZubGhTU2IxTzRiSE5MVHZrZ0pFd1RHOHQ0RER2dnIzMDV0bTB3WlRsS1ByM0lkRm5jUEVKdFZybWNBdnMzamJ3THFyY0dRcV9tSEdHOEstanhVNXFtbVpvMzhySnoyTG5FM2tic1l1cDZmZVVjdlBXMUlBWGlERTFUWlBmdlVPTmwxUTBkUUdFazdfcWwtdnhrZWtBSDhaZnF2S1JDNE9mQk91dWdUM0g1QllrZGNvQU9pbkpkM2I5NGY?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-06T18:22:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
