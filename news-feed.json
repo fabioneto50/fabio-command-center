@@ -1,23 +1,14 @@
 {
-  "updatedAt": "2026-09-08T12:35:16.963572Z",
+  "updatedAt": "2026-09-08T13:30:44.323826Z",
   "health": [
     {
-      "title": "IGAS avança com acção inspectiva ao Hospital de Almada devido a suspensão da IVG - publico.pt",
+      "title": "IGAS avança com acção inspectiva ao Hospital de Almada devido a suspensão da IVG - Público",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWYxWE10aTVLZTI5RDBsampOY0paS0ZyMHQ0SzJpajNRMlotTTFoQWZQNk9lTU9qUmVtakM1T0FGcTQ5bnNYYk9Nb2Fkb2wyak5NY1BkWlNMMlFZWXlMNjQ5eGlaOWdSTnNDMjdUN0Y5ZU4tQ0ZRZkZxUHppb3FpOEt5SlV2eVVrbU5BeF9YSXBxQ1dTOUhIZmpDSl9xeWdMcklyWHpaRFppX29vNC12WDVQTlVDak5tYVl5SklBMVdNNjQ?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-08T07:53:29Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/igas-avanca-accao-inspectiva-hospital-almada-devido-suspensao-ivg-2187338"
-    },
-    {
-      "title": "IGAS avança com ação inspetiva ao Hospital de Almada devido a suspensão da IVG - Observador",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYW9SRGlOZDBadzlIekJaNlhrSGswMk1ERV9KcmRNdk9TM3lsZ3dsc3VNYVh2Mmx6S21iM2RLdDJHTk1hN29WTUVBMkEyRDk5cjdfdUNDb294dGVENXpFWE95cXRJMXpmRnF5WXlFb2ZybFU4ejh0ZUR5M0QzelJXcUw1R3NWTm1iQTAzMThVOENYa0c5cWdyYmNMa0RfdnFoU05uVmtXOTh4STc4ZnB5V0h3?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-08T07:52:57Z",
-      "description": "A Inspeção-Geral das Atividades em Saúde vai realizar uma ação inspetiva ao Hospital Garcia de Orta devido à suspensão da IVG e o direcionamento dos utentes para uma clínica privada em Lisboa.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4000%3A2249%3Anowe%3A0%3A209%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F14222052%2Fobs14082024ritachantre73.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/08/igas-avanca-com-acao-inspetiva-ao-hospital-de-almada-devido-a-suspensao-da-ivg/"
     },
     {
       "title": "Ministra da Saúde timorense recebe prémio de reconhecimento da OMS - LUSA",
@@ -47,11 +38,20 @@
       "articleUrl": "https://www.dn.pt/sociedade/mulheres-fumadoras-com-risco-de-infertilidade-40-maior"
     },
     {
-      "title": "Surto? Vacina? Recursos? Nova base da OMS diz onde e quando agir em África - HealthNews",
+      "title": "Refeições ao fim de semana fora de horas podem prejudicar coração dos homens - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2Zmd0l2Q3gweEU3LV9RRkJGNzhEVmt4Y18tNEcza0JKbjJHdEh2emFWaFZqTnhoUS1DUjVJNUpmczFhdDV0VUM1M3c4bmYtRXEwWjNrY3JkVGQ1S1BPa1VPSGtFN3p1LVUtNUxpS2I0bXJHZjZ4cXZsbDFGNWtUOWdKX2hVb0NNOW4tbHM5MklJZkVGVWFiWWx4aVl3d1gtTVd5a0VHc3RlYVhpV2xSakMzaHFDVHFT?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-08T12:53:47Z",
+      "description": "Um novo estudo indica que fazer as refeições a horas irregulares ao fim de semana face aos dias úteis pode aumentar o risco de doença cardíaca.",
+      "image": "https://images.euronews.com/articles/stories/09/90/56/98/1200x675_cmsv2_860a448a-cf9e-5dee-bed0-26a2a3f00155-9905698.jpg",
+      "articleUrl": "https://pt.euronews.com/saude/2026/09/08/refeicoes-ao-fim-de-semana-fora-de-horas-podem-prejudicar-coracao-dos-homens"
+    },
+    {
+      "title": "Surto? Vacina? Recursos? Nova base da OMS diz onde e quando agir em África - healthnews.pt",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTZJbjEzWGIxN0ZHRGNXQWROTllKVklDbGszaEh2UEc0MjNZTnJqOFFZYm9HeW9IVXYtbDczRE5oZzNsTmYwWWZSTmhWU0NiX2FfZWNER0RrVVZ6MjhlZEpfN0REb2FUQkY0a21aSTZQYUpka3NLNk8ySmZ1WDNxOWlpUGJQMzRiYjF6SUdseFpERlNSbk0wX1JobW9wUUdQLTRxanpBOXk?oc=5",
-      "source": "HealthNews",
+      "source": "healthnews.pt",
       "publishedAt": "2026-09-08T06:08:56Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/08/surto-vacina-recursos-nova-base-da-oms-diz-onde-e-quando-agir-em-africa/"
     },
@@ -74,6 +74,15 @@
       "articleUrl": "https://www.saudemais.tv/noticia/66604-aprovada-declaracao-de-dili-para-reforco-dos-recursos-humanos-e-mais-acesso-a-cuidados-de-saude"
     },
     {
+      "title": "Necessários 5.000 profissionais e 1.600 camas para combater epidemia na RDCongo - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm9lclhSaTNKZUg4eXpnYUR3Z0NoeEREMWoyV1ZNdTYyRVp0NlNGb1p1ZjREUFU5N1lCUk9BaGFIald2UmhhMmF5OVBSLXZ0ZlZ2cFFFZncwSnZyWlpTcEdnUENuUkJBajZyQmllS1FmUmxMUUt6SEZ6dXV2cUl4T1Q3MHhYbHFyZkR1WW5XcThGc2EwRlZpSS0yaGhTQUVES2JoeFlCQW5QRW13MTFNdnFpQ2hOMkdMOHdn?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-08T13:15:00Z",
+      "description": "A Organização Mundial da Saúde (OMS) estima que sejam necessárias 1.600 camas hospitalares e mais 5.000 profissionais de saúde para responder à epidemia de ébola na República Democrática do Congo (RDCongo), anunciou hoje esta agência da ONU.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoshutterstock_2762851891_9181vQA.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/8/504665-necessarios-5000-profissionais-e-1600-camas-para-combater-epidemia-na-rdcongo/"
+    },
+    {
       "title": "PSD/Açores defende reforço do investimento na Saúde e Habitação no Orçamento para 2027 - PSD/Açores",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnJMZ255eHBlTGk2TXgwVlBuODZZZEdDYnN4c2VpcGM0ZXppejVpUG5fR1pWSVZtMVZ0T3NVaFpCVU1DcU1QV1AtVlFGNXhnVUExQkEyaHdYYm5fdWNqUm56YWpPSEU0enJ1UEY5Vl96Zll0WWxySVpWeHowNkFYcm8yOUtFRDB3VDVIb3B6VVBSeFJDbWlZOHN1eTl4ZVpSUzVZdFhtSkJEbHg3ekpKbFQ3Mm5zblE?oc=5",
       "source": "PSD/Açores",
@@ -81,15 +90,6 @@
       "description": "O líder parlamentar do PSD/Açores, João Bruto da Costa, defendeu esta segunda-feira que a proposta de Orçamento da Região para 2027 deve assegurar o reforço do investimento na Saúde e na Habitação.",
       "image": "https://psdacores.pt/wp-content/uploads/2026/09/JOAO-BRUTO-DA-COSTA-PEDRO-GOMES-E-DELIA-MELO_SET2026-scaled.jpeg",
       "articleUrl": "https://psdacores.pt/2026/09/psd-acores-defende-reforco-do-investimento-na-saude-e-habitacao-no-orcamento-para-2027/"
-    },
-    {
-      "title": "Hospital Dr. Nélio Mendonça assinala 53.º aniversário esta quarta-feira - Jornal da Madeira | Diocese do Funchal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnlJbFBxVF92NVBvOUhyTloyUEEtUzNHZ093YTJRc2tjb1FWYk5ZYnREaXF5VVh3MllLTjh0b1dYZE16TXJUb0tqMkJ5MTk2YnRCbWRwOERleUNHc3gwU29ZZURJX0c3YTVGVkVhV3ZTclFTRDBhbkMyQVNEQWhmcl9NdHNsbHVxU1dob1RmRnQwUzNETjlia0tfYVlkbFAxaExCNnZzOTVTX1g0RktCVlBlY2I?oc=5",
-      "source": "Jornal da Madeira | Diocese do Funchal",
-      "publishedAt": "2026-09-08T11:45:13Z",
-      "description": "Notícia publicada por Jornal da Madeira | Diocese do Funchal. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.jornaldamadeira.com/2026/09/08/hospital-dr-nelio-mendonca-assinala-53-o-aniversario-esta-quarta-feira/"
     },
     {
       "title": "SOM Saúde Mental: uma visão 360º - Observador",
@@ -100,23 +100,32 @@
       "image": ""
     },
     {
-      "title": "Ministra da Saúde timorense recebe prémio da OMS - HealthNews",
+      "title": "Ministra da Saúde timorense recebe prémio da OMS - healthnews.pt",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkxkTHE1OGlFZkZkbFN1ZlhqUll2YldaZHNXRkdPY1dHbWVYaFkxVG1DWDJ1eW9yVmw0anAtdHo4eWpOS2hNOXB2R1NZbUVRTExmNXQ1dUNHYlZTeHBHWFNpUHU0RGFmUTJBYmpZR1U3Rk0zcTBQVlg4anV6TnF0MnVpdm1hdTQ3UEE?oc=5",
-      "source": "HealthNews",
+      "source": "healthnews.pt",
       "publishedAt": "2026-09-08T08:39:41Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Kremlin não exclui negociações trilaterais, mas Kiev já teme a chegada do Inverno | Guerra na Ucrânia - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDU4NkNIT3o0dVhFaEQtQjFvME81WWNwVDk4QkFyX1RnS0VaZDlCTm00N1hPeTlJVmpIQjRRVWU1T0VudFFnVE95czg0SkhvUVg1TkVqUXMtbm9iQ1BBUDVKcGVHLVpaWkpWM1dwQWVlVFB3UDgzYW9yXzFIQ25PUEZwVWlScE1aQkU1TERDQ083R0RMa3QteV9CbVh5LUNMZUh5QkhQb2NsYk5KYW1SWnZrdTNkcFhjanhDc0hwU09uQk44NkE?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-07T18:50:36Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Hungria expulsa dez diplomatas russos, Moscovo promete resposta “dura e dolorosa” - Público",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVVltd0J2YlFLczl1VDVuT0tRbGdjSVdUaTQtSFVtR1ZCYVJNVy1Vc1Rab3VkdnowY19jSElITXFxQnhrQlpkbEJmdzZYMGwwTUs1aXkzX0dtVFgzNTl6Z1o5a1RuNnRNUW9MamRxUWU1aTlrUTF4WnJnOXVFeHBBYmxyaDIzamE0dmtIM2FzN29zZ3Z1emxvangtMWFHaEhzTzRJOGZwX2RYa0w4aC1qOFdXMEYyMjRfVExFTDNsQUc2RE1vRHN3S1pRYXQ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-08T12:35:39Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/07/mundo/noticia/kremlin-nao-exclui-negociacoes-trilaterais-kiev-ja-teme-chegada-inverno-2187315"
+      "articleUrl": "https://www.publico.pt/2026/09/08/mundo/noticia/hungria-expulsa-dez-diplomatas-russos-moscovo-promete-resposta-dura-dolorosa-2187372"
+    },
+    {
+      "title": "Rússia retoma ataques contra Kiev após três dias de trégua - 08/09/2026 - Mundo - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNW1nbFQzc3hWX3dhRjRTY3RLS29LZEUzTzhfZzhkdFYtb3BDWUNVbEw1YzFjenk1TTRsNTkxdGMwQVVmNEllMHBjamdfcHBMeEVWMHVER0dwTGk5WW4xQ2dRTUc2cndsNjVCNHNBRlVNZ1V2cTJCVEVPUzBpZWlCbXl1WWl0WF9zcVQ2NlZxU1d5WkFlMjBYZGxSLTlEbDdvSkpuZHhST0pmaWRz?oc=5",
+      "source": "folha.uol.com.br",
+      "publishedAt": "2026-09-08T08:34:00Z",
+      "description": "Explosões na madrugada espalham fumaça e incêndio pela capital ucraniana",
+      "image": "https://f.i.uol.com.br/fotografia/2026/08/01/17855754236a6db7ff78cce_1785575423_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-retoma-ataques-contra-kiev-apos-tres-dias-de-tregua.shtml"
     },
     {
       "title": "Negociações de paz. Enviados dos Estados Unidos já estão em Kiev - RTP",
@@ -137,13 +146,13 @@
       "articleUrl": "https://pt.euronews.com/my-europe/2026/09/07/uniao-europeia-servico-diplomatico-cancela-novo-grupo-de-defesa-de-alto-nivel"
     },
     {
-      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-09-06T12:50:00Z",
-      "description": "No plano diplomático, Luís Gomes destacou as negociações confidenciais entre enviados especiais de Donald Trump e Vladimir Putin antes de encontros em Kiev",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-06-13-16-55-61650.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
+      "title": "Kremlin não exclui negociações trilaterais, mas Kiev já teme a chegada do Inverno | Guerra na Ucrânia - Público",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDU4NkNIT3o0dVhFaEQtQjFvME81WWNwVDk4QkFyX1RnS0VaZDlCTm00N1hPeTlJVmpIQjRRVWU1T0VudFFnVE95czg0SkhvUVg1TkVqUXMtbm9iQ1BBUDVKcGVHLVpaWkpWM1dwQWVlVFB3UDgzYW9yXzFIQ25PUEZwVWlScE1aQkU1TERDQ083R0RMa3QteV9CbVh5LUNMZUh5QkhQb2NsYk5KYW1SWnZrdTNkcFhjanhDc0hwU09uQk44NkE?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-07T18:50:36Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/07/mundo/noticia/kremlin-nao-exclui-negociacoes-trilaterais-kiev-ja-teme-chegada-inverno-2187315"
     },
     {
       "title": "“Progressos substanciais” para negociações trilaterais com Moscovo e Kiev – EUA - Portal Impala",
@@ -159,18 +168,9 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2N3MDJtS3lfQ1dNYnpZcmJWeWdxb2pWUllpMjAxNUZnc2dfTGhWbmxoU1NiMU80YkhOTFR2a2dKRXdURzh0NEREdnZyMzA1dG0wd1pUbEtQcjNJZEZuY1BFSnRWcm1jQXZzM2pid0xxcmNHUXFfbUhHRzhLLWp4VTVxbW1abzM4ckp6MkxuRTNrYnNZdXA2ZmVVY3ZQVzFJQVhpREUxVFpQZnZVT05sMVEwZFFHRWs3X3FsLXZ4a2VrQUg4WmZxdktSQzRPZkJPdXVnVDNINUJZa2Rjb0FPaW5KZDNiOTRm0gHoAUFVX3lxTE0zY3cwMm1LeV9DV01iellyYlZ5Z3FvalZSWWkyMDE1RmdzZ19MaFZubGhTU2IxTzRiSE5MVHZrZ0pFd1RHOHQ0RER2dnIzMDV0bTB3WlRsS1ByM0lkRm5jUEVKdFZybWNBdnMzamJ3THFyY0dRcV9tSEdHOEstanhVNXFtbVpvMzhySnoyTG5FM2tic1l1cDZmZVVjdlBXMUlBWGlERTFUWlBmdlVPTmwxUTBkUUdFazdfcWwtdnhrZWtBSDhaZnF2S1JDNE9mQk91dWdUM0g1QllrZGNvQU9pbkpkM2I5NGY?oc=5",
       "source": "Renascença",
       "publishedAt": "2026-09-06T18:22:00Z",
-      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
+      "description": "Apesar do anúncio de que as capitais europeias e os EUA se vão reunir em breve com a Ucrânia para procurar pôr fim à guerra, Zelensky volta a defender a necessidade de conversar com a Rússia para saber o que diz Putin sobre o futuro dos territórios ocupados e as garantias de segurança.",
+      "image": "https://images.rr.pt/4772744118861abfee9f_socialshare.jpg",
       "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/comitiva-dos-eua-elogia-reuniao-muito-significativa-zelensky-espera-novo-encontro-nas-proximas-semanas/484451/"
-    },
-    {
-      "title": "Kremlin \"não exclui\" novas negociações com Ucrânia e Estados Unidos - Notícias ao Minuto",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFE1bVA4NEtwS28tMUNsX1g2NEIyS0x1Z21xMGRLNWR5RW1iQWNLUVIzemJZZHQ2N2pBOVp4bk8yZ2lCY0hxckpUbFVIcE1TVmNXd0k2VlR6b1AzX3k5Q1I3bEp3NDAtU19yVGFoM3VnVEw4bXRjZFV5eEpWVDJaTEtIenMxc0RaaHJFOHVHemk4MTBld1NnQm84RFRNVlEwU2lucGZPTW9xOWk3al82enBWZWkyYjN4S0I2LW1qMEZyZw?oc=5",
-      "source": "Notícias ao Minuto",
-      "publishedAt": "2026-09-07T15:19:03Z",
-      "description": "\"Também não excluímos a retomada do formato trilateral, mas ainda é muito cedo para falar sobre o local e datas específicos\", declarou o porta-voz da presidênci...",
-      "image": "https://media-manager.noticiasaominuto.com/960/naom_686e54d809951.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MzgsImNyb3BZIjoxNzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MCwiY3JvcEhlaWdodCI6MTY3MSwiY3JvcFgiOjEwMjQsImNyb3BZIjoyMH19",
-      "articleUrl": "https://www.noticiasaominuto.com/mundo/3047630/ucrania-kremlin-diz-nao-excluir-retomada-de-negociacoes-com-kiev-e-washington"
     },
     {
       "title": "Trump pode ficar preso mais seis meses numa “guerra sem fim” com o Irão, avisa ex-chefe do Pentágono - cnnportugal.iol.pt",
@@ -180,6 +180,15 @@
       "description": "Leon Panetta considera que Washington e Teerão estão num “terrível impasse”, sem uma saída clara para um conflito que já dura há mais de seis meses. O antigo secretário da Defesa alerta também para a instabilidade no comando militar norte-americano",
       "image": "https://img.iol.pt/preset/698374aed34e92a344986bc3/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/guerra/donald-trump/trump-pode-ficar-preso-mais-seis-meses-numa-guerra-sem-fim-com-o-irao-avisa-ex-chefe-do-pentagono/20260906/6a9db945d34ed0733ba83ae8"
+    },
+    {
+      "title": "Kremlin \"não exclui\" novas negociações com Ucrânia e Estados Unidos - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFE1bVA4NEtwS28tMUNsX1g2NEIyS0x1Z21xMGRLNWR5RW1iQWNLUVIzemJZZHQ2N2pBOVp4bk8yZ2lCY0hxckpUbFVIcE1TVmNXd0k2VlR6b1AzX3k5Q1I3bEp3NDAtU19yVGFoM3VnVEw4bXRjZFV5eEpWVDJaTEtIenMxc0RaaHJFOHVHemk4MTBld1NnQm84RFRNVlEwU2lucGZPTW9xOWk3al82enBWZWkyYjN4S0I2LW1qMEZyZw?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-09-07T15:19:03Z",
+      "description": "\"Também não excluímos a retomada do formato trilateral, mas ainda é muito cedo para falar sobre o local e datas específicos\", declarou o porta-voz da presidênci...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_686e54d809951.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MzgsImNyb3BZIjoxNzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MCwiY3JvcEhlaWdodCI6MTY3MSwiY3JvcFgiOjEwMjQsImNyb3BZIjoyMH19",
+      "articleUrl": "https://www.noticiasaominuto.com/mundo/3047630/ucrania-kremlin-diz-nao-excluir-retomada-de-negociacoes-com-kiev-e-washington"
     },
     {
       "title": "Em Kiev, enviado de Trump diz que Rússia e Ucrânia 'têm de fazer concessões', e Zelensky faz 'avaliação positiva' das negociações - O GLOBO",
@@ -195,24 +204,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDVvMjh5bTZvaFo5VUhMV2otaWRsS3lkZHo0QmRBcXE2UlZETWVzRmdHcF9jT1FfanZERzAyZHlwQktFaUl2YXZxdWFmNnRBbkp5aUxyWXlLNFFtS0paM0V6aUFKYUZNMGJuYUFvMjFyckV6WmNyTnBidEk3NnJCQ09QZ1NBd2V4bHhYVDdkekg2ZEdteVZkdGptcEdORnVDb3Z0NmtwQV9YaEJiaW5UT3U0ajRUQk1rLVkwT3BoYko?oc=5",
       "source": "RFI",
       "publishedAt": "2026-09-06T15:06:53Z",
-      "description": "A reunião entre o Presidente ucraniano, Volodymyr Zelensky, e os emissários da Casa Branca para tentar reactivar o diálogo para pôr fim à guerra entre a Rússia e a Ucrânia, decorreu esta tarde em Kiev.",
-      "image": "https://s.rfi.fr/media/display/49df7008-a9ee-11f1-8521-005056a90284/w:1280/p:16x9/2026-09-06T110614Z-320167065-RC2MDNA3E7RF-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260906-emiss%C3%A1rios-norte-americanos-na-ucr%C3%A2nia-para-negociar-a-paz-com-a-r%C3%BAssia"
-    },
-    {
-      "title": "Leão XIV apela à paz e à diplomacia no conflito entre Rússia e Ucrânia - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjg0MmJweWg5SkdlTjNhR0FIZWxoeHhuZmNIVjFsU2FYMXFvYW8yQmhaUHZkM1BVQm92cjdfdkNYY2p3OXNJYmxTcm9TNmVaYVhxMGQ4UElKbnZJZ0N0VzcxRHUzYVlLMV91Xy00TWxzaWg2YVhzRHdXcE1rbEJvS09wY1dVaWRqUlJTWm5Uc2xGZGpJUnhpRk5YRUd1a0xkeDdHOFYwQUg3V21RcDB6a2oxWQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-06T13:02:39Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por RFI. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Rússia não descarta retomada das negociações com Ucrânia e EUA após reuniões dos enviados de Trump em Moscou e Kiev - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSVF6bVhzdEVHR1A5b2N0enRqaHVBRmFhZGZFMEFWWFE1d2ZZckltR0ZqUXVtNDVBUFdJandUd2JrVUtVNUgyX3Rxc1EzMTNBcUNkM19oZmhwZ3RaaUNJUzlCNG1SdkRIYW5Pa0tRM1o4ZU85b2U5MUFRZFZXWU00UFpLdzdfSGt0bkZyOTlSTlVEeTNxbmM2TDY1Wmg5eE4yNmVxelEtMWNlWWsyNGkwVVFSTmNBLXl4b1czUFllTU9FeW9HUzdvQ3psdzlPaDVCSjdfM1puN0pGaUs4VnRFZzNJVkVBZkNMNTcxQVA5VlBPdk1UUTBoSl9odFloNF92cnNMTHlyc25HNzltY2JF0gGPAkFVX3lxTFBJUXptWHN0RUdHUDlvY3R6dGpodUFGYWFkZkUwQVZYUTV3ZllySW1HRmpRdW00NUFQV0lqd1R3YmtVS1U1SDJfdHFzUTMxM0FxQ2QzX2hmaHBndFppQ0lTOUI0bVJ2REhhbk9rS1EzWjhlTzlvZTkxQVFkVldZTTRQWkt3N19Ia3RuRnI5OVJOVUR5M3FuYzZMNjVaaDl4TjI2ZXF6US0xY2VZazI0aTBVUVJOY0EteXhvVzNQWWVNT0V5b0dTN29Demx3OU9oNUJKN18zWm43SkZpSzhWdEVnM0lWRUFmQ0w1NzFBUDlWUE92TVRRMGhKX2h0WWg0X3Zyc0xMeXJzbkc3OW1jYkU?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-09-07T11:12:39Z",
-      "description": "Notícia publicada por O GLOBO. Abra o artigo para consultar os detalhes completos.",
+      "title": "Lavrov acusa Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTlnaGhneVZBVURhWm9rVE1FSFJZYWl0OHhpMXFOUUc4U3R3SzRsY2ZDYWhVdWJ5NW9fLVJOVkFzamRrR19GYzZCRy04ZmlxWkRxM2hCUmhVaVBDWWlZYy1Nd1BfNlJ2dzV1cnZMQ0Zfek5xTTdhRXVmU3VTQVBJRUxid1hWT20zc0lBRUNIempZYTNVM0xoWlpLNF8xVzVoUHQyUlpzZmhwSHFPMkJZOTlvQQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-06T15:49:05Z",
+      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
