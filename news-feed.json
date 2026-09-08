@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-08T07:29:10.150718Z",
+  "updatedAt": "2026-09-08T08:30:29.173680Z",
   "health": [
+    {
+      "title": "IGAS avança com acção inspectiva ao Hospital de Almada devido a suspensão da IVG - Público",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWYxWE10aTVLZTI5RDBsampOY0paS0ZyMHQ0SzJpajNRMlotTTFoQWZQNk9lTU9qUmVtakM1T0FGcTQ5bnNYYk9Nb2Fkb2wyak5NY1BkWlNMMlFZWXlMNjQ5eGlaOWdSTnNDMjdUN0Y5ZU4tQ0ZRZkZxUHppb3FpOEt5SlV2eVVrbU5BeF9YSXBxQ1dTOUhIZmpDSl9xeWdMcklyWHpaRFppX29vNC12WDVQTlVDak5tYVl5SklBMVdNNjQ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-08T07:53:29Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/igas-avanca-accao-inspectiva-hospital-almada-devido-suspensao-ivg-2187338"
+    },
+    {
+      "title": "Sem reabilitação acessível, a saúde fica a meio caminho - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGVFcXRKU2ZTNmhOcUpxY3FzRkhISW5wbVVPTHR0YWlpVnBNZVQ0RkQxWVJQbWhfd29DbXN5cUFTaU8ydlljc0k1Xy00a3BodjZfZTdhcklHZlZDUC1vWVZjZlI1RFczd1pWQ3hxYXdpTWhzbW8xQjFZSWp4QXBLMUlaWmEtSmdScGNWczJJUHR1TjZCUWk5RGdUNFJ5TjVHSUJrZWVyTmFlWThkR1FJT1NiSXMyYnZlZUMwZ3dzbWFRTHZsejJJWFJJYzNXUE4zVnFXdlNDYXV2b184emZQRUpPaGhOa0RrbUE?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-08T08:00:00Z",
+      "description": "CNN Portugal",
+      "image": "https://img.iol.pt/preset/6a9ad1f4d34e511da0b36e2f/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/fisioterapia/reabilitacao/pedro-branco-sem-reabilitacao-acessivel-a-saude-fica-a-meio-caminho/20260908/6a9ad207d34e511da0b36e30"
+    },
     {
       "title": "Surto? Vacina? Recursos? Nova base da OMS diz onde e quando agir em África - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTZJbjEzWGIxN0ZHRGNXQWROTllKVklDbGszaEh2UEc0MjNZTnJqOFFZYm9HeW9IVXYtbDczRE5oZzNsTmYwWWZSTmhWU0NiX2FfZWNER0RrVVZ6MjhlZEpfN0REb2FUQkY0a21aSTZQYUpka3NLNk8ySmZ1WDNxOWlpUGJQMzRiYjF6SUdseFpERlNSbk0wX1JobW9wUUdQLTRxanpBOXk?oc=5",
@@ -20,6 +38,15 @@
       "articleUrl": "https://news.un.org/pt/story/2026/09/1854270"
     },
     {
+      "title": "\"Vai e Vem\" leva utentes ao hospital de Guimarães em menos de dez minutos - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHVrUGItNjRhZEpwSVBkN216Z05rSzN2WWJ5ZVVDazJjMTdoU05nWnN5Q1NhSEhQRjZUQk1hYkxlY0VwazB2UW01a2g3X2FCeVlJT2xFNGJTVlhSbXYyNWJIY0l3UGxXbG9PUm9TQjEzTlEzQjFJeTRYRmx5eTNJb3A0NjZTV2ZXSDBsRXhsUzVEVnNKenJMVHBEZU9iZUtMSHlpeF9jdkw2Njk4Z2R3?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-09-08T07:22:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.jn.pt/pais/artigo/vai-e-vem-leva-utentes-ao-hospital-de-guimaraes-em-menos-de-dez-minutos/18124248"
+    },
+    {
       "title": "Iberis Capital lidera ronda de seis milhões de euros na startup de saúde Hope Care - ECO",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUk53cWM3V3NxampFaGdreThSeUxjT3ZyREFqbkh1dzBFZk5uUXNNZGJPMTVqdl9tY3g1MEN4eFdYRGFheHhxc1haUnp3VW1ramtaa0xaZHYwQnVhSi1tRThySXlYTmJLOEM4U18xQXA3d3J3bW1rVk1vRnpYWUNybXJ1aUlKZFRUV1VpX2lhTUxDS2lSRnVYU2c1aC1OdEh0cTFhTjNmdGRlVTVNQ0xfeFBTd2Q?oc=5",
       "source": "ECO",
@@ -27,15 +54,6 @@
       "description": "Com a participação da VDM Capital e da Buenavista Equity Partners, acionista da empresa, a ronda irá apoiar o crescimento em França e na Alemanha e reforçar as operações europeias da startup de saúde.",
       "image": "https://eco.imgix.net/uploads/2026/09/cropped-hope-care-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
       "articleUrl": "https://eco.sapo.pt/2026/09/08/iberis-capital-lidera-ronda-de-seis-milhoes-de-euros-na-startup-de-saude-hope-care/"
-    },
-    {
-      "title": "“O reconhecimento do médico veterinário como profissional de saúde urge acontecer” - Veterinaria Atual",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bUNzRWFrWGVjVmdqaUlCRGV3MjJnX281bzduSXFSdkpWeFpBamlNcTMtemtTSjV5MVhuNkpzUE1ad2U3OW5NVC1EUzBoLXpxWmZ0dVgtTm40ZHBNQWtnNU45cGx5Sll3Q3EwN19VVmxwSEkwcVVZbA?oc=5",
-      "source": "Veterinaria Atual",
-      "publishedAt": "2026-09-08T06:00:22Z",
-      "description": "Notícia publicada por Veterinaria Atual. Abra o artigo para consultar os detalhes completos.",
-      "image": "https://www.veterinaria-atual.pt/wp-content/uploads/sites/4/2026/08/iStock-1447454728-1.jpg",
-      "articleUrl": "https://www.veterinaria-atual.pt/na-pratica/medico-veterinario-saude/"
     },
     {
       "title": "Fumo passivo afeta mais de 2 mil milhões de pessoas e é responsável por 1,66 milhões de mortes - Expresso",
@@ -47,22 +65,13 @@
       "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-08-estudo-revela-que-exposicao-ao-fumo-passivo-do-tabaco-afetou-mais-de-2-mil-milhoes-de-pessoas-incluindo-menores-de-15-anos-16e32661"
     },
     {
-      "title": "Vagas para formar anestesistas são todas ocupadas, mas só metade dos especialistas estão no SNS - Público",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX21sNk83LWlXd0VpaWZLNmczd3Qwd0djb0x0OHZWamhZWTZxZWZSUUJkbjNyclRWLVE2aFpjWlJkNkFHVk5JdWtZdU14ekw2MlRMZGs5YnEtMk1KLTM3UVc4SUdMcG5Wb1E5eTlCWk5LX0JyR3k3b0ZTQ3BOZVdZb2s4MVZfN2pwVl9SclpsRU1zREtBWjFINTFmNkpmd2c3MGJfODBxUTVIamRjTTRLMGtHaE5VXzUxQ3J1Ymp5VVJWNE5hSzJqZHRKMU9acGhnMWlRM2JNSXFGcnNoRzd3LXJlbE9ybzF2T0R6eUZLZjU?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-08T05:40:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/vagas-formar-anestesistas-sao-ocupadas-so-metade-especialistas-estao-sns-2187321?ref=saude&cx=page__content"
-    },
-    {
-      "title": "Arábia Saudita. Empresas portuguesas avançam em força na área da saúde - RTP",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGtSUkFhek4yZmFRT2xTM3piemwtbENoVHA1MUlnUjBRLUtyZkpjN04zUjBHRlJNd1BrNnE4ek1ydXVNMDRuQ3FpWVdTSDZMQzdhZTBCd2VtZVN1YXpXZnVlNzJkZzBFNEp2bXBtMUJsUDJHYV9RQnJaMVVncjZudGppaUNkN2pzbFFoSURBRG5tMEFyYWhNODZMZG5Sc1hxNDlHOG9SWUhDYjl4NFJZcQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-07T18:16:37Z",
-      "description": "Inteligência artificial, novas tecnologias na medicina e saúde, são o começo de uma jornada a caminho da internacionalização das empresas portuguesas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dd/ddb2f86276674f62181e0bfac7f24995?w=860&q=90&rect=0,204,1096,601&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/arabia-saudita-empresas-portuguesas-avancam-em-forca-na-area-da-saude_n1763915"
+      "title": "“O reconhecimento do médico veterinário como profissional de saúde urge acontecer” - Veterinaria Atual",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bUNzRWFrWGVjVmdqaUlCRGV3MjJnX281bzduSXFSdkpWeFpBamlNcTMtemtTSjV5MVhuNkpzUE1ad2U3OW5NVC1EUzBoLXpxWmZ0dVgtTm40ZHBNQWtnNU45cGx5Sll3Q3EwN19VVmxwSEkwcVVZbA?oc=5",
+      "source": "Veterinaria Atual",
+      "publishedAt": "2026-09-08T06:00:22Z",
+      "description": "Notícia publicada por Veterinaria Atual. Abra o artigo para consultar os detalhes completos.",
+      "image": "https://www.veterinaria-atual.pt/wp-content/uploads/sites/4/2026/08/iStock-1447454728-1.jpg",
+      "articleUrl": "https://www.veterinaria-atual.pt/na-pratica/medico-veterinario-saude/"
     },
     {
       "title": "Morreu o antigo presidente da Câmara do Porto Nuno Cardoso - contacto.lu",
@@ -74,37 +83,28 @@
       "articleUrl": "https://www.contacto.lu/portugal/morreu-o-antigo-presidente-da-camara-do-porto-nuno-cardoso/161090593.html"
     },
     {
+      "title": "Arábia Saudita. Empresas portuguesas avançam em força na área da saúde - RTP",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGtSUkFhek4yZmFRT2xTM3piemwtbENoVHA1MUlnUjBRLUtyZkpjN04zUjBHRlJNd1BrNnE4ek1ydXVNMDRuQ3FpWVdTSDZMQzdhZTBCd2VtZVN1YXpXZnVlNzJkZzBFNEp2bXBtMUJsUDJHYV9RQnJaMVVncjZudGppaUNkN2pzbFFoSURBRG5tMEFyYWhNODZMZG5Sc1hxNDlHOG9SWUhDYjl4NFJZcQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-07T18:16:37Z",
+      "description": "Inteligência artificial, novas tecnologias na medicina e saúde, são o começo de uma jornada a caminho da internacionalização das empresas portuguesas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dd/ddb2f86276674f62181e0bfac7f24995?w=860&q=90&rect=0,204,1096,601&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/arabia-saudita-empresas-portuguesas-avancam-em-forca-na-area-da-saude_n1763915"
+    },
+    {
       "title": "Fisioterapia no desporto: um compromisso global com a saúde dos atletas - A Bola",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR09PU2ZfNFJDMi10b2RPanBOck5ULUdWZHpxeE1RMFRYV1VnWDFENGRpTzVfOUV2bDczYlZ1RmozTjNMb1dxTE5ibmh6MTUtamg0RVJrUDA2bTEteW9ZNHVKeTJnYjFpWFNqLUdtM0tKejhjVXh3T1ZEZXUyX01DTUVWTWN6R0lUMTg0TVhqRS1Xa2RMMHJDb0JGMFllX1hvMEx0LV9rX1ZjTThfNVV3VzRKWkEzTmtUNXNlbQ?oc=5",
       "source": "A Bola",
       "publishedAt": "2026-09-08T07:00:00Z",
-      "description": "Esta Tribuna Livre é da responsabilidade de Sérgio Loureiro Nuno, Fisioterapeuta olímpico dedicado a performance e recuperação de lesões desportivas; professor universitário; doutorado em Ciências da Saúde e Motricidade Humana",
-      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/07092026/39a32849-32b5-4d8d-b8f7-9795befe3858.jpg?operations=crop(0:79:3551:2076),autocrop(1200:630)",
-      "articleUrl": "https://www.abola.pt/noticias/fisioterapia-no-desporto-um-compromisso-global-com-a-saude-dos-atletas-2026090718041669064"
-    },
-    {
-      "title": "Serviço Nacional de Saúde precisa de 600 anestesistas - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGFpY3ZPVHY0dVZiTHNBXzVkbEJBaXFCZHlNWnhnanotTm91R0liUUtPMjVidzlXc3JOcnRMbzVHZEtCdnlIYm9TcHVtWjZMUURYZXBnQ2JlNUlET1A5Uy1sU0xsSUFraHBjNEJZOG1zWk03TjdPSUU0MUtSSjlWR05oZ1VmYTVaa3YtSVMwT2VDdHd5RWfSAZYBQVVfeXFMTTRhaWN2T1R2NHVWYkxzQV81ZGxCQWlxQmR5TVp4Z2p6LU5vdUdJYlFLTzI1Ync5V3NyTnJ0TG81R2RLQnZ5SGJvU3B1bVo2TFFEWGVwZ0NiZTVJRE9QOVMtbFNMbElBa2hwYzRCWThtc1pNN043T0lFNDFLUko5VkdOaGdVZmE1Wmt2LUlTME9lQ3R3eUVn?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-07T23:30:00Z",
-      "description": "Situação no serviço público de saúde preocupa, apesar de o País até estar acima da média europeia nestes especialistas. Ordem vai pedir mais vagas.",
-      "image": "https://cdn.cmjornal.pt/images/2026-09/img_1280x721uu2026-09-07-18-59-37-2307146.jpg",
-      "articleUrl": "https://www.cmjornal.pt/sociedade/amp/servico-nacional-de-saude-precisa-de-600-anestesistas"
-    },
-    {
-      "title": "\"Vai e Vem\" leva utentes ao hospital de Guimarães em menos de dez minutos - Jornal de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHVrUGItNjRhZEpwSVBkN216Z05rSzN2WWJ5ZVVDazJjMTdoU05nWnN5Q1NhSEhQRjZUQk1hYkxlY0VwazB2UW01a2g3X2FCeVlJT2xFNGJTVlhSbXYyNWJIY0l3UGxXbG9PUm9TQjEzTlEzQjFJeTRYRmx5eTNJb3A0NjZTV2ZXSDBsRXhsUzVEVnNKenJMVHBEZU9iZUtMSHlpeF9jdkw2Njk4Z2R3?oc=5",
-      "source": "Jornal de Notícias",
-      "publishedAt": "2026-09-08T07:22:00Z",
-      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por A Bola. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Hospital de Aveiro inicia broncoscopias com apoio anestésico - Observador",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcS14Qy1qM3I1b3FaLWtfV0kwaVVKejJMTmg3anJzTWZWby16aXNfV09QYTRJNVdsZzMyQUFuNkw1U0tscDd6VERpM3RJZlhqQ2JPMUZLZGVwOVFaUzY3eHYzR0F1Y0d3TE1YN3V2LUxHTEV2TFdrd0tlYzFJWFJuclFubEhBak4yX3FNaGd0VW5JbDFlMHIyTHpR?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-07T15:08:37Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "title": "IGAS avança com ação inspetiva ao Hospital de Almada devido a suspensão da IVG - Lusa",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTm1fWFBwdFFFOW04OUZzYlhnUlB0eGZwSnk4MEllX0hTVFNVQWRwSjNybDB1QjFub3FCZ2U1RElSRkxaMTNJZklzckZ1eEZmN3NuWlhTT1BxdDVjaFhDeXhUeUFGVlFzYU1IUVBHNDVrQkN2QVZST1FBdjVFNmZoWDAtbjlURmNuUVBaLWhjVlJQSU1DenhqdVdMM1hyM2RqQVE1VWI0WDFiQ2JFYVBWWXU4OEpNbzhmT0h5ZW4wWGk2MHFoWUl4emFHVWtjZlpOdkl5Y21Xd25WM3VvZ3VHM3Y3SDNldUl1VnRV?oc=5",
+      "source": "Lusa",
+      "publishedAt": "2026-09-08T08:13:00Z",
+      "description": "Notícia publicada por Lusa. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -146,9 +146,9 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/06/enviados-dos-estados-unidos-chegam-a-ucrania/"
     },
     {
-      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - Renascença",
+      "title": "Guerra na Ucrânia: Enviados dos Estados Unidos já estão em Kiev - rr.pt",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlBZNUxENlRwMy1RTDFkS1YwSEM3MUctNTZONUx2VUZYT2N4SzA0b3JiV2EzYzc5TDJTSVY2OXRQemswT1p5dEJveWRraG9pLVpwWjdVSzVDNGRBZlIwTWlHQURuTHY0X2s4WFZ3bG1NVWpFQWZZM2l5QlVPdUlzVmxJUVJJS0ZYNEpUYmJJU3c5cHhVemJVeERwckJ3aDFDSzd6azhxNGlNRF93UWfSAbMBQVVfeXFMTmxndUNEUnotNHdKVzdYRUxXTGhoeE9FaFdCMl80YmxDekxITjlUZ01jQTdFMEk2ZjJPdHA0ZEIyUHNhLUs0QjIwY2daYnJlZGhOOEFtYVRGRzVoeUp2X25Qc0JKWnBYTkdnWFo4czRoRlY5UDJRYW9tNXNDdl9wWEFmWHNnOU9HZDQ3b0hibWlKTXRlVlh1VmZIdXZHVWlRRFZxRjQ5NFdycHJxNjRxdl9ybnM?oc=5",
-      "source": "Renascença",
+      "source": "rr.pt",
       "publishedAt": "2026-09-06T09:01:00Z",
       "description": "Os enviados de Donald Trump vão reunir-se com o presidente ucraniano, Volodymyr Zelensky.",
       "image": "https://images.rr.pt/2026-09-06t103058z-1588532194-rc2mdna0wdy8-rtrmadp-3-ukraine-crisis-usa-envoys1919fa19_socialshare.jpg",
