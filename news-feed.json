@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-09-08T05:27:39.669901Z",
+  "updatedAt": "2026-09-08T06:34:10.272232Z",
   "health": [
     {
-      "title": "De Moçambique para os Palop: A ponte linguística rumo à excelência regulatória da OMS - UN News",
+      "title": "Surto? Vacina? Recursos? Nova base da OMS diz onde e quando agir em África - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTZJbjEzWGIxN0ZHRGNXQWROTllKVklDbGszaEh2UEc0MjNZTnJqOFFZYm9HeW9IVXYtbDczRE5oZzNsTmYwWWZSTmhWU0NiX2FfZWNER0RrVVZ6MjhlZEpfN0REb2FUQkY0a21aSTZQYUpka3NLNk8ySmZ1WDNxOWlpUGJQMzRiYjF6SUdseFpERlNSbk0wX1JobW9wUUdQLTRxanpBOXk?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-08T06:08:56Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/09/08/surto-vacina-recursos-nova-base-da-oms-diz-onde-e-quando-agir-em-africa/"
+    },
+    {
+      "title": "De Moçambique para os Palop: A ponte linguística rumo à excelência regulatória da OMS BR - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rOS1GVHJwR2VCSURnVktKdURHbmJUVk5fTW9QcG5NakQwSmlFV2otX0phWG1GSkx4Q3JXNTlGQmFfSEY1X1VES3g0N0t5X3llV3haOElORQ?oc=5",
-      "source": "UN News",
+      "source": "news.un.org",
       "publishedAt": "2026-09-08T04:10:00Z",
       "description": "O que pode mudar para a Lusofonia agora que o primeiro país africano de língua portuguesa conquistou o exigente selo de Nível de Maturidade 3 em regulação de medicamentos? Uma especialista da OMS revela os benefícios práticos de fazer parte desse grupo de 10 nações no continente.",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-11-25_World_Bank_India_Biotech_Pharma-5.jpeg/image770x420cropped.jpg",
       "articleUrl": "https://news.un.org/pt/story/2026/09/1854270"
+    },
+    {
+      "title": "“O reconhecimento do médico veterinário como profissional de saúde urge acontecer” - Veterinaria Atual",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bUNzRWFrWGVjVmdqaUlCRGV3MjJnX281bzduSXFSdkpWeFpBamlNcTMtemtTSjV5MVhuNkpzUE1ad2U3OW5NVC1EUzBoLXpxWmZ0dVgtTm40ZHBNQWtnNU45cGx5Sll3Q3EwN19VVmxwSEkwcVVZbA?oc=5",
+      "source": "Veterinaria Atual",
+      "publishedAt": "2026-09-08T06:00:22Z",
+      "description": "Notícia publicada por Veterinaria Atual. Abra o artigo para consultar os detalhes completos.",
+      "image": "https://www.veterinaria-atual.pt/wp-content/uploads/sites/4/2026/08/iStock-1447454728-1.jpg",
+      "articleUrl": "https://www.veterinaria-atual.pt/na-pratica/medico-veterinario-saude/"
+    },
+    {
+      "title": "Arábia Saudita. Empresas portuguesas avançam em força na área da saúde - RTP",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGtSUkFhek4yZmFRT2xTM3piemwtbENoVHA1MUlnUjBRLUtyZkpjN04zUjBHRlJNd1BrNnE4ek1ydXVNMDRuQ3FpWVdTSDZMQzdhZTBCd2VtZVN1YXpXZnVlNzJkZzBFNEp2bXBtMUJsUDJHYV9RQnJaMVVncjZudGppaUNkN2pzbFFoSURBRG5tMEFyYWhNODZMZG5Sc1hxNDlHOG9SWUhDYjl4NFJZcQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-07T18:16:37Z",
+      "description": "Inteligência artificial, novas tecnologias na medicina e saúde, são o começo de uma jornada a caminho da internacionalização das empresas portuguesas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dd/ddb2f86276674f62181e0bfac7f24995?w=860&q=90&rect=0,204,1096,601&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/arabia-saudita-empresas-portuguesas-avancam-em-forca-na-area-da-saude_n1763915"
     },
     {
       "title": "Instrumento vital para a gestão do SNS foi aprovado, mas director executivo desconhecia - Público",
@@ -29,21 +56,12 @@
       "articleUrl": "https://www.contacto.lu/portugal/morreu-o-antigo-presidente-da-camara-do-porto-nuno-cardoso/161090593.html"
     },
     {
-      "title": "Arábia Saudita. Empresas portuguesas avançam em força na área da saúde - RTP",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGtSUkFhek4yZmFRT2xTM3piemwtbENoVHA1MUlnUjBRLUtyZkpjN04zUjBHRlJNd1BrNnE4ek1ydXVNMDRuQ3FpWVdTSDZMQzdhZTBCd2VtZVN1YXpXZnVlNzJkZzBFNEp2bXBtMUJsUDJHYV9RQnJaMVVncjZudGppaUNkN2pzbFFoSURBRG5tMEFyYWhNODZMZG5Sc1hxNDlHOG9SWUhDYjl4NFJZcQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-07T18:16:37Z",
-      "description": "Inteligência artificial, novas tecnologias na medicina e saúde, são o começo de uma jornada a caminho da internacionalização das empresas portuguesas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dd/ddb2f86276674f62181e0bfac7f24995?w=860&q=90&rect=0,204,1096,601&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/arabia-saudita-empresas-portuguesas-avancam-em-forca-na-area-da-saude_n1763915"
-    },
-    {
       "title": "Serviço Nacional de Saúde precisa de 600 anestesistas - Correio da Manhã",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGFpY3ZPVHY0dVZiTHNBXzVkbEJBaXFCZHlNWnhnanotTm91R0liUUtPMjVidzlXc3JOcnRMbzVHZEtCdnlIYm9TcHVtWjZMUURYZXBnQ2JlNUlET1A5Uy1sU0xsSUFraHBjNEJZOG1zWk03TjdPSUU0MUtSSjlWR05oZ1VmYTVaa3YtSVMwT2VDdHd5RWfSAZYBQVVfeXFMTTRhaWN2T1R2NHVWYkxzQV81ZGxCQWlxQmR5TVp4Z2p6LU5vdUdJYlFLTzI1Ync5V3NyTnJ0TG81R2RLQnZ5SGJvU3B1bVo2TFFEWGVwZ0NiZTVJRE9QOVMtbFNMbElBa2hwYzRCWThtc1pNN043T0lFNDFLUko5VkdOaGdVZmE1Wmt2LUlTME9lQ3R3eUVn?oc=5",
       "source": "Correio da Manhã",
       "publishedAt": "2026-09-07T23:30:00Z",
-      "description": "Situação no serviço público de saúde preocupa, apesar de o País até estar acima da média europeia nestes especialistas. Ordem vai pedir mais vagas.",
-      "image": "https://cdn.cmjornal.pt/images/2026-09/img_1280x721uu2026-09-07-18-59-37-2307146.jpg",
+      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://www.cmjornal.pt/sociedade/amp/servico-nacional-de-saude-precisa-de-600-anestesistas"
     },
     {
@@ -78,33 +96,15 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NZnR4OXZ4SkItM2Z2ZzZKZVRtZnJPNEtrQ1RCeDJQZmdvUzJjakJNQlAtRjFpeU1MR3lwV1JLM1prX1BxY0JYRXNueDBtUnEyek5GQlJYOWpDOG9RQUppOXNNLThDTnRkbmpoRVpjQ1B0Y3VjWkpj?oc=5",
       "source": "Diário de Notícias",
       "publishedAt": "2026-09-07T23:01:00Z",
-      "description": "Na década dos anos 1990, vivemos na Europa a crise da doença das vacas loucas, que afetou um número muito elevado de gado bovino, e que criou um grande receio d",
-      "image": "https://media.assettype.com/dn%2F2026-07-27%2Fwu5drc9m%2FTiago-Fleming-Outeiro4.jpg?rect=0%2C64%2C1846%2C969&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/opiniao-dn/os-ciclos-da-cincia-pries-esto-de-volta"
+      "description": "Notícia publicada por Diário de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Câmara Municipal lança “Vai e Vem” entre o Multiusos e o Hospital de Guimarães - cm-guimaraes.pt",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0xKdmszZWVfMTV2dHdIcWdtcGk3X1E0WEpPWm9RaEdYTVZsSk52TlNyN1ZfN0ZEbW5QWS1aWWcyNmhkc2RJWlZ5c1B6OTJINzlvTkZXNi0wVkZKWjRxTUNOVTNyTDZ5QndNcmtOcFVfYk42NzFEWkFZN1RsbW5hMGpIVkVROXRkRXhhZjRLd084NDAyQnN6OGhrSzgwdU8yV0ZaUE1BT05uTkR0bkppZUF5a3M5X0xVa28yemxpbFhHc1dWVFFORzJjRVBldw?oc=5",
       "source": "cm-guimaraes.pt",
       "publishedAt": "2026-09-07T16:36:08Z",
-      "description": "Ligação gratuita, com frequência de 10 minutos, cria uma alternativa gratuita e direta de acesso ao Hospital de Guimarães e pretende contribuir ...",
-      "image": "https://www.cm-guimaraes.pt/cmguimaraes/uploads/news/image/10148/2026_09_07_vai_e_vem_autocarro_do_multiusos_ao_hospital_6194.jpg",
-      "articleUrl": "https://www.cm-guimaraes.pt/areas-de-intervencao/noticia/camara-municipal-lanca-vai-e-vem-entre-o-multiusos-e-o-hospital-de-guimaraes"
-    },
-    {
-      "title": "Neuroses Coletivas - Quem decide sobre a nossa saúde? - ciencias.ulisboa.pt",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWRVNUNQMF9zN0hBdDB1ekE1bHItWkJuVUJYUjM5QTFqbl9NNTNOczY3SnU5REVlcHB2X0YyNFhXV1dxUGhvUzViVmxMNmJGQUgtN242V0F1Z1VrUnVQZXRXUGtLbWJWZjB2VS1rZ2E0WkhHVU1PWGROaVJ5QUlERFpLeDIyekViSXpVRzlSYw?oc=5",
-      "source": "ciencias.ulisboa.pt",
-      "publishedAt": "2026-09-07T14:37:05Z",
-      "description": "Notícia publicada por ciencias.ulisboa.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Hospital Garcia de Orta alvo de inspeção da IGAS por ter deixado de ter consultas de IVG - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0t2MFF1VmplWFRieFpEZ2lHWUdSSXBEc1NaNW9lcHNldjVFVXp5NVczQkJaclZhYk1hcHR5ZVJNMmZrUzlZY0s2SEhDeThZcS14RXNnU1F6MXVPVWxVOENnVU81ZlFnaDJZQzZFMDVQNlVMUVBFRnlpSnhKdUJuU2ItSkh0TlMwZDRFMTI2WHo4WlB3eEV0dU4xejBVUTNkbEx5T05RMHlidXdpZHQwTTJVbWl0OEJEVmN5R0pPdDd5TTlUWkE?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-07T16:52:51Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por cm-guimaraes.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -182,12 +182,12 @@
       "articleUrl": "https://pt.euronews.com/my-europe/2026/09/07/uniao-europeia-acelera-revisao-da-politica-para-o-artico-numa-corrida-global-pelo-poder"
     },
     {
-      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
+      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - nowcanal.pt",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
-      "source": "Now Canal",
+      "source": "nowcanal.pt",
       "publishedAt": "2026-09-06T12:50:00Z",
-      "description": "No plano diplomático, Luís Gomes destacou as negociações confidenciais entre enviados especiais de Donald Trump e Vladimir Putin antes de encontros em Kiev",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-06-13-16-55-61650.jpg",
+      "description": "Notícia publicada por nowcanal.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
     },
     {
