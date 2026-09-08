@@ -1,86 +1,50 @@
 {
-  "updatedAt": "2026-09-08T10:29:24.983674Z",
+  "updatedAt": "2026-09-08T12:35:16.963572Z",
   "health": [
     {
-      "title": "IGAS avança com acção inspectiva ao Hospital de Almada devido a suspensão da IVG - Público",
+      "title": "IGAS avança com acção inspectiva ao Hospital de Almada devido a suspensão da IVG - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWYxWE10aTVLZTI5RDBsampOY0paS0ZyMHQ0SzJpajNRMlotTTFoQWZQNk9lTU9qUmVtakM1T0FGcTQ5bnNYYk9Nb2Fkb2wyak5NY1BkWlNMMlFZWXlMNjQ5eGlaOWdSTnNDMjdUN0Y5ZU4tQ0ZRZkZxUHppb3FpOEt5SlV2eVVrbU5BeF9YSXBxQ1dTOUhIZmpDSl9xeWdMcklyWHpaRFppX29vNC12WDVQTlVDak5tYVl5SklBMVdNNjQ?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-08T07:53:29Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/igas-avanca-accao-inspectiva-hospital-almada-devido-suspensao-ivg-2187338"
     },
     {
-      "title": "Sem reabilitação acessível, a saúde fica a meio caminho - CNN Portugal",
+      "title": "IGAS avança com ação inspetiva ao Hospital de Almada devido a suspensão da IVG - Observador",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYW9SRGlOZDBadzlIekJaNlhrSGswMk1ERV9KcmRNdk9TM3lsZ3dsc3VNYVh2Mmx6S21iM2RLdDJHTk1hN29WTUVBMkEyRDk5cjdfdUNDb294dGVENXpFWE95cXRJMXpmRnF5WXlFb2ZybFU4ejh0ZUR5M0QzelJXcUw1R3NWTm1iQTAzMThVOENYa0c5cWdyYmNMa0RfdnFoU05uVmtXOTh4STc4ZnB5V0h3?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-08T07:52:57Z",
+      "description": "A Inspeção-Geral das Atividades em Saúde vai realizar uma ação inspetiva ao Hospital Garcia de Orta devido à suspensão da IVG e o direcionamento dos utentes para uma clínica privada em Lisboa.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4000%3A2249%3Anowe%3A0%3A209%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F14222052%2Fobs14082024ritachantre73.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/08/igas-avanca-com-acao-inspetiva-ao-hospital-de-almada-devido-a-suspensao-da-ivg/"
+    },
+    {
+      "title": "Ministra da Saúde timorense recebe prémio de reconhecimento da OMS - LUSA",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWlMWGNEam9EalMxc01zZnpTRmNJMVJrTXVjeVhXYUlybXB0SnYxZllkN214WmQ5V29SNHRqdWQ1M1NNLWY5VFRpaEhJME00VG5MR0FVQldyazF0a3ZmUGZteWN5R2x6eDZ6X2JiUEFnaElOT2FPa3d5MUZ4aEpNQThrSnJ4ZWRfY0RxSklCMVN0aDVJTVMwOWx2VWpZLVNmZ2daWHVjUVNfNmNBb3FYSzhIWDZGUGhVN0lBTTExLU1GZXNYdlBFaUMya3hNZE0?oc=5",
+      "source": "LUSA",
+      "publishedAt": "2026-09-08T11:14:00Z",
+      "description": "A ministra da Saúde de Timor-Leste, Élia dos Reis Amaral, recebeu hoje o prémio de reconhecimento por resultados em saúde pública da Organização Mundial da Saúde (OMS) pela eliminação do tracoma no país, anunciou o Governo timorense.",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_28644025_6247538_17032021022545.JPG",
+      "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-09-08/47735051/ministra-da-sa%C3%BAde-timorense-recebe-pr%C3%A9mio-de-reconhecimento-da-oms"
+    },
+    {
+      "title": "Sem reabilitação acessível, a saúde fica a meio caminho - cnnportugal.iol.pt",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNGVFcXRKU2ZTNmhOcUpxY3FzRkhISW5wbVVPTHR0YWlpVnBNZVQ0RkQxWVJQbWhfd29DbXN5cUFTaU8ydlljc0k1Xy00a3BodjZfZTdhcklHZlZDUC1vWVZjZlI1RFczd1pWQ3hxYXdpTWhzbW8xQjFZSWp4QXBLMUlaWmEtSmdScGNWczJJUHR1TjZCUWk5RGdUNFJ5TjVHSUJrZWVyTmFlWThkR1FJT1NiSXMyYnZlZUMwZ3dzbWFRTHZsejJJWFJJYzNXUE4zVnFXdlNDYXV2b184emZQRUpPaGhOa0RrbUE?oc=5",
-      "source": "CNN Portugal",
+      "source": "cnnportugal.iol.pt",
       "publishedAt": "2026-09-08T08:00:00Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
+      "description": "CNN Portugal",
+      "image": "https://img.iol.pt/preset/6a9ad1f4d34e511da0b36e2f/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/fisioterapia/reabilitacao/pedro-branco-sem-reabilitacao-acessivel-a-saude-fica-a-meio-caminho/20260908/6a9ad207d34e511da0b36e30"
     },
     {
-      "title": "Ministra da Saúde timorense recebe prémio da OMS - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkxkTHE1OGlFZkZkbFN1ZlhqUll2YldaZHNXRkdPY1dHbWVYaFkxVG1DWDJ1eW9yVmw0anAtdHo4eWpOS2hNOXB2R1NZbUVRTExmNXQ1dUNHYlZTeHBHWFNpUHU0RGFmUTJBYmpZR1U3Rk0zcTBQVlg4anV6TnF0MnVpdm1hdTQ3UEE?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-08T08:39:41Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/08/ministra-da-saude-timorense-recebe-premio-da-oms/"
-    },
-    {
-      "title": "Aprovada Declaração de Díli para reforço dos recursos humanos e mais acesso a cuidados de saúde - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWNxZHRJY2lXX2c0T0dOMDNabU9RSDNBYVJHVTE3RENTVURrd0hyZ01VUEEzc0ZGdkJKQlhMa2h4bC1JREZNMWxvem45Q25FZWlpNG5GZDBnUllLWC00eVdzQUVtNUd3MVBCTlB0QnZ2THJZZWh6Nmh4MklXQ0loc2trMWxpeWk0MzV4SzBlN2lMZHp6OTRXQ0Y3X1FHTVNxa2laSDk1TTNPcTNtNU5qY1JtZm9xcXZ5b2RrQmhQTFFQaUJ5eUQ3X2p2bDBCSDA?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-08T10:04:30Z",
-      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.saudemais.tv/noticia/66604-aprovada-declaracao-de-dili-para-reforco-dos-recursos-humanos-e-mais-acesso-a-cuidados-de-saude"
-    },
-    {
-      "title": "Erva-das-pampas, planta invasora perigosa para a saúde, continua a alastrar em Portugal - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1hHQmpLZzZUNWp1dEpZa0xFeC12bS1KaFpoWHNGdnIyQzJQR1QyOG45Q3NFZXBQcGJIYlUwX2NEeW1Pb1dNVHkyaURCV2hwbkd5aUpsZkhaeS1jOXczcUJ4RkNTMGZtVFJReGVucTQ1UzJzVl9naktFZnFVcVhfZFVvbnJQcmpQNV9FRXhhSkdTV01QRXdROWtkTkJPQ2ZKSUNoMGdsTXBVRHUwa01TczEwNkh3NFJRaGQzYXdTVTd3OXVqbnpCSE9oQ3B5TUFmcVhKeTVXY3BuQXp4RHFfNDM1bXVuQQ?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-07T16:21:12Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sustentabilidade/ambiente/2026-09-07-erva-das-pampas-planta-invasora-perigosa-para-a-saude-continua-a-alastrar-em-portugal-42fb86c2"
-    },
-    {
-      "title": "Hospital de Almada alvo de inspeção devido a suspensão da IVG - jn.pt",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmE3TGstS1V1UWRCaTQ2R2l5ZzNSSThFYThOWG5obGpEWllEeFJZeEJpTDNvTmpSeVVwTDRNS0lEVjdLT1VsN0luMzVieHZ2OFdQN0JRdEpZZzcyVUUzMnFDdjRzaVU0ZTEtT1JITE5OZ0M1bGZtWlZIMTVFZ1QxTlF0aDI5NWU3RFY3bVQtOV9CUnY4a3RtOThR0gGaAUFVX3lxTE1iYTdMay1LVXVRZEJpNDZHaXlnM1JJOEVhOE5YbmhsakRaWUR4Ull4QmlMM29OalJ5VXBMNE1LSURWN0tPVWw3SW4zNWJ4dnY4V1A3QlF0SllnNzJVRTMycUN2NHNpVTRlMS1PUkhMTk5nQzVsZm1aVkgxNUVnVDFOUXRoMjk1ZTdEVjdtVC05X0JSdjhrdG05OFE?oc=5",
-      "source": "jn.pt",
-      "publishedAt": "2026-09-08T07:13:00Z",
-      "description": "Notícia publicada por jn.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.jn.pt/amp/18124454/inspecao-aberta-ao-hospital-de-almada-devido-a-suspensao-da-ivg"
-    },
-    {
-      "title": "De Moçambique para os Palop: A ponte linguística rumo à excelência regulatória da OMS - news.un.org",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rOS1GVHJwR2VCSURnVktKdURHbmJUVk5fTW9QcG5NakQwSmlFV2otX0phWG1GSkx4Q3JXNTlGQmFfSEY1X1VES3g0N0t5X3llV3haOElORQ?oc=5",
-      "source": "news.un.org",
-      "publishedAt": "2026-09-08T04:10:00Z",
-      "description": "O que pode mudar para a Lusofonia agora que o primeiro país africano de língua portuguesa conquistou o exigente selo de Nível de Maturidade 3 em regulação de medicamentos? Uma especialista da OMS revela os benefícios práticos de fazer parte desse grupo de 10 nações no continente.",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-11-25_World_Bank_India_Biotech_Pharma-5.jpeg/image770x420cropped.jpg",
-      "articleUrl": "https://news.un.org/pt/story/2026/09/1854270"
-    },
-    {
-      "title": "Fisioterapia no desporto: um compromisso global com a saúde dos atletas - abola.pt",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR09PU2ZfNFJDMi10b2RPanBOck5ULUdWZHpxeE1RMFRYV1VnWDFENGRpTzVfOUV2bDczYlZ1RmozTjNMb1dxTE5ibmh6MTUtamg0RVJrUDA2bTEteW9ZNHVKeTJnYjFpWFNqLUdtM0tKejhjVXh3T1ZEZXUyX01DTUVWTWN6R0lUMTg0TVhqRS1Xa2RMMHJDb0JGMFllX1hvMEx0LV9rX1ZjTThfNVV3VzRKWkEzTmtUNXNlbQ?oc=5",
-      "source": "abola.pt",
-      "publishedAt": "2026-09-08T07:00:00Z",
-      "description": "Esta Tribuna Livre é da responsabilidade de Sérgio Loureiro Nuno, Fisioterapeuta olímpico dedicado a performance e recuperação de lesões desportivas; professor universitário; doutorado em Ciências da Saúde e Motricidade Humana",
-      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/07092026/39a32849-32b5-4d8d-b8f7-9795befe3858.jpg?operations=crop(0:79:3551:2076),autocrop(1200:630)",
-      "articleUrl": "https://www.abola.pt/noticias/fisioterapia-no-desporto-um-compromisso-global-com-a-saude-dos-atletas-2026090718041669064"
-    },
-    {
-      "title": "SOM Saúde Mental: uma visão 360º - observador.pt",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IUlFJd0gtRU9mR2plTjhYSUFqQ1A5X2o3dWlCOGJ3bTFXbnFkQm1KcE5GMjYxSzRJR1lhRm8zSEpOd3RXNzhnZkhWUXpScUoyMzdRZndCRW1qTHh5QzBCOEM2TXJ6U1Nfa2MybDkycGlHUQ?oc=5",
-      "source": "observador.pt",
-      "publishedAt": "2026-09-08T09:40:54Z",
-      "description": "E se, num só local, pudesse ter acesso a informação simples, fidedigna e esclarecedora sobre saúde mental? O SOM Saúde Mental 360º é a plataforma onde isto se torna possível e chega agora a Portugal.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2298%3A1292%3Anowe%3A0%3A120%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F20121023%2Fmockup-som-pt-03.jpg?layer=obslabtop:T",
-      "articleUrl": "https://observador.pt/especiais/som-saude-mental-uma-visao-360o/"
+      "title": "Mulheres fumadoras com risco de infertilidade 40% maior - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDJjQmZSM2FrLWwzMFgtc0hTa0dMaThTNl9BWERKOEZDdF92ZlhZck5FQ3ItSWQzZUJIM1hlZmdnN2gzY01vcG1GZVZkbnQ5UGJGTHZ1MkFpYmlVUFZRdWlGMk4ycEE3VklNOUI0ZTVSZGxiRGxNTC1YQXF4aTlRSnZ2WUJVXzRtNGc?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-08T10:29:43Z",
+      "description": "As mulheres que são fumadoras apresentam um risco 40% maior de sofrerem de infertilidade em comparação com as que não fumam, alertou esta terça-feira, 8 de sete",
+      "image": "https://media.assettype.com/dn%2F2025-12-02%2Flx1uo8v2%2Fclose-seletivo-de-uma-mulher-acendendo-um-cigarro-com-um-isqueiro.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/mulheres-fumadoras-com-risco-de-infertilidade-40-maior"
     },
     {
       "title": "Surto? Vacina? Recursos? Nova base da OMS diz onde e quando agir em África - HealthNews",
@@ -92,40 +56,67 @@
       "articleUrl": "https://healthnews.pt/2026/09/08/surto-vacina-recursos-nova-base-da-oms-diz-onde-e-quando-agir-em-africa/"
     },
     {
-      "title": "Mulheres que fumam têm mais 40% de risco de infertilidade, alerta a OMS - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGNETkgycTZhWlNna2kyUXVHUU8weUNsUHJ3QXpSRjE0OXZWdVhXZVY2cEctTDlmbjg0cUVJblpiTVdDZzM1SXJyS1dkalY3ZlZSTnM4Umt6c2RHR3ljTDc5NzRHNkdzQmJIZEpaRGJZSlBGcEVHZk4wc05ScFhMcEM2SjV5M3NJUnBiVWdqbUpHUUtYa1I4U2dITmk5aGtWekJ6OXpsVzcwU1V0YXp4MkVfS1ZvdThhVk5FcUFKUllmRkxlVTVtUlpZa19hUUFLVGZhRWtFcDk?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-09-08T09:31:46Z",
-      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
+      "title": "“O reconhecimento do médico veterinário como profissional de saúde urge acontecer” - Veterinaria Atual",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bUNzRWFrWGVjVmdqaUlCRGV3MjJnX281bzduSXFSdkpWeFpBamlNcTMtemtTSjV5MVhuNkpzUE1ad2U3OW5NVC1EUzBoLXpxWmZ0dVgtTm40ZHBNQWtnNU45cGx5Sll3Q3EwN19VVmxwSEkwcVVZbA?oc=5",
+      "source": "Veterinaria Atual",
+      "publishedAt": "2026-09-08T06:00:22Z",
+      "description": "Notícia publicada por Veterinaria Atual. Abra o artigo para consultar os detalhes completos.",
+      "image": "https://www.veterinaria-atual.pt/wp-content/uploads/sites/4/2026/08/iStock-1447454728-1.jpg",
+      "articleUrl": "https://www.veterinaria-atual.pt/na-pratica/medico-veterinario-saude/"
+    },
+    {
+      "title": "Aprovada Declaração de Díli para reforço dos recursos humanos e mais acesso a cuidados de saúde - saudemais.tv",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWNxZHRJY2lXX2c0T0dOMDNabU9RSDNBYVJHVTE3RENTVURrd0hyZ01VUEEzc0ZGdkJKQlhMa2h4bC1JREZNMWxvem45Q25FZWlpNG5GZDBnUllLWC00eVdzQUVtNUd3MVBCTlB0QnZ2THJZZWh6Nmh4MklXQ0loc2trMWxpeWk0MzV4SzBlN2lMZHp6OTRXQ0Y3X1FHTVNxa2laSDk1TTNPcTNtNU5qY1JtZm9xcXZ5b2RrQmhQTFFQaUJ5eUQ3X2p2bDBCSDA?oc=5",
+      "source": "saudemais.tv",
+      "publishedAt": "2026-09-08T10:04:30Z",
+      "description": "Os ministros da Saúde do Sudeste Asiático aprovaram hoje uma declaração a comprometerem-se com o reforço dos recursos humanos naquele setor e a garantir que todas as pessoas têm acesso a serviços de saúde de qualidade.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066604_0000000001.png",
+      "articleUrl": "https://www.saudemais.tv/noticia/66604-aprovada-declaracao-de-dili-para-reforco-dos-recursos-humanos-e-mais-acesso-a-cuidados-de-saude"
+    },
+    {
+      "title": "PSD/Açores defende reforço do investimento na Saúde e Habitação no Orçamento para 2027 - PSD/Açores",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnJMZ255eHBlTGk2TXgwVlBuODZZZEdDYnN4c2VpcGM0ZXppejVpUG5fR1pWSVZtMVZ0T3NVaFpCVU1DcU1QV1AtVlFGNXhnVUExQkEyaHdYYm5fdWNqUm56YWpPSEU0enJ1UEY5Vl96Zll0WWxySVpWeHowNkFYcm8yOUtFRDB3VDVIb3B6VVBSeFJDbWlZOHN1eTl4ZVpSUzVZdFhtSkJEbHg3ekpKbFQ3Mm5zblE?oc=5",
+      "source": "PSD/Açores",
+      "publishedAt": "2026-09-08T12:01:14Z",
+      "description": "O líder parlamentar do PSD/Açores, João Bruto da Costa, defendeu esta segunda-feira que a proposta de Orçamento da Região para 2027 deve assegurar o reforço do investimento na Saúde e na Habitação.",
+      "image": "https://psdacores.pt/wp-content/uploads/2026/09/JOAO-BRUTO-DA-COSTA-PEDRO-GOMES-E-DELIA-MELO_SET2026-scaled.jpeg",
+      "articleUrl": "https://psdacores.pt/2026/09/psd-acores-defende-reforco-do-investimento-na-saude-e-habitacao-no-orcamento-para-2027/"
+    },
+    {
+      "title": "Hospital Dr. Nélio Mendonça assinala 53.º aniversário esta quarta-feira - Jornal da Madeira | Diocese do Funchal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnlJbFBxVF92NVBvOUhyTloyUEEtUzNHZ093YTJRc2tjb1FWYk5ZYnREaXF5VVh3MllLTjh0b1dYZE16TXJUb0tqMkJ5MTk2YnRCbWRwOERleUNHc3gwU29ZZURJX0c3YTVGVkVhV3ZTclFTRDBhbkMyQVNEQWhmcl9NdHNsbHVxU1dob1RmRnQwUzNETjlia0tfYVlkbFAxaExCNnZzOTVTX1g0RktCVlBlY2I?oc=5",
+      "source": "Jornal da Madeira | Diocese do Funchal",
+      "publishedAt": "2026-09-08T11:45:13Z",
+      "description": "Notícia publicada por Jornal da Madeira | Diocese do Funchal. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.jornaldamadeira.com/2026/09/08/hospital-dr-nelio-mendonca-assinala-53-o-aniversario-esta-quarta-feira/"
+    },
+    {
+      "title": "SOM Saúde Mental: uma visão 360º - Observador",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IUlFJd0gtRU9mR2plTjhYSUFqQ1A5X2o3dWlCOGJ3bTFXbnFkQm1KcE5GMjYxSzRJR1lhRm8zSEpOd3RXNzhnZkhWUXpScUoyMzdRZndCRW1qTHh5QzBCOEM2TXJ6U1Nfa2MybDkycGlHUQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-08T09:40:54Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "\"Vai e Vem\" leva utentes ao hospital de Guimarães em menos de dez minutos - jn.pt",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHVrUGItNjRhZEpwSVBkN216Z05rSzN2WWJ5ZVVDazJjMTdoU05nWnN5Q1NhSEhQRjZUQk1hYkxlY0VwazB2UW01a2g3X2FCeVlJT2xFNGJTVlhSbXYyNWJIY0l3UGxXbG9PUm9TQjEzTlEzQjFJeTRYRmx5eTNJb3A0NjZTV2ZXSDBsRXhsUzVEVnNKenJMVHBEZU9iZUtMSHlpeF9jdkw2Njk4Z2R3?oc=5",
-      "source": "jn.pt",
-      "publishedAt": "2026-09-08T07:22:00Z",
-      "description": "Notícia publicada por jn.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Ministra da Saúde timorense recebe prémio da OMS - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkxkTHE1OGlFZkZkbFN1ZlhqUll2YldaZHNXRkdPY1dHbWVYaFkxVG1DWDJ1eW9yVmw0anAtdHo4eWpOS2hNOXB2R1NZbUVRTExmNXQ1dUNHYlZTeHBHWFNpUHU0RGFmUTJBYmpZR1U3Rk0zcTBQVlg4anV6TnF0MnVpdm1hdTQ3UEE?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-08T08:39:41Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Kremlin não exclui negociações trilaterais, mas Kiev já teme a chegada do Inverno | Guerra na Ucrânia - Público",
+      "title": "Kremlin não exclui negociações trilaterais, mas Kiev já teme a chegada do Inverno | Guerra na Ucrânia - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDU4NkNIT3o0dVhFaEQtQjFvME81WWNwVDk4QkFyX1RnS0VaZDlCTm00N1hPeTlJVmpIQjRRVWU1T0VudFFnVE95czg0SkhvUVg1TkVqUXMtbm9iQ1BBUDVKcGVHLVpaWkpWM1dwQWVlVFB3UDgzYW9yXzFIQ25PUEZwVWlScE1aQkU1TERDQ083R0RMa3QteV9CbVh5LUNMZUh5QkhQb2NsYk5KYW1SWnZrdTNkcFhjanhDc0hwU09uQk44NkE?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-07T18:50:36Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/07/mundo/noticia/kremlin-nao-exclui-negociacoes-trilaterais-kiev-ja-teme-chegada-inverno-2187315"
-    },
-    {
-      "title": "Zelensky inicia reunião com enviados dos Estados Unidos em Kiev - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjB3U1FJV1E5aFluSWxnbWw3bVR6dzFOY1ZzcU1ITjQ3ZWJQOHYwSU4tWGgzZ3JXbzZGWGpRZXFCTEFNbVRWUk1FRnpmQTFJeTlQWXBhV1drSGI1MDB1UGNFS181bG1RdVFOeFdKR2o3TENjbUdBODFYdmx5ZXA4NXFmS1NpaWpyZ3pWSGJJcHoyVXZ1MTZjaUR4MURQTm90Y280QW9RaGowU1cydnM5bW5JbFhzcHVuQWc?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-06T12:16:06Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-06-zelensky-inicia-reuniao-com-enviados-dos-estados-unidos-em-kiev-8f864173"
     },
     {
       "title": "Negociações de paz. Enviados dos Estados Unidos já estão em Kiev - RTP",
@@ -137,22 +128,22 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-enviados-dos-estados-unidos-ja-estao-em-kiev_n1763660"
     },
     {
-      "title": "Enviados dos Estados Unidos chegam à Ucrânia - ECO",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGtjX2ZIcGxyNktTdmV1T0ExZU93dE1pUFliVWhsMzBWaWltOWZwaXFDZks3aGxzaGQ4aVpoamRFUTEwQlJmY1hVLWxaSUxQWTF6c1lESXFnWFVMTUJHUmJ4M1psem1BTFpqMGpiX2Frd3JzdFVYd1ZyNVROZWdhcW1B?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-06T11:29:03Z",
-      "description": "Os enviados Steve Witkoff e Jared Kushner chegaram a Kiev, onde estão pela primeira vez, levando uma proposta para pôr fim ao conflito entre a Ucrânia e a Rússia.",
-      "image": "https://eco.imgix.net/uploads/2026/09/cropped-47722095-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/06/enviados-dos-estados-unidos-chegam-a-ucrania/"
+      "title": "União Europeia: serviço diplomático cancela novo grupo de defesa de alto nível - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1pzRlYxV1BpQW5xckJtWW5xOUozSkdYWDVUT3h6X0Rwa0pYRnpnR0NXOG1CRHJvX19SM1dRN3BKeXp4YWM0M3lEQm1WYkh3QjUyY05rY3RFd21mUUlLazc1VnF4QW1kYklqTXVWMUVFM1JEcFFJR2R3T1FRYS1DUFI0V2UySFBCVVpFMmlFM3Z0WWpKWEFiYVVzc21GSDJpNlBSX3VITUFwbFdZSU42T21UZGp1bDZkUG1ESEZPZw?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-07T09:13:21Z",
+      "description": "Chefe da diplomacia da UE, Kaja Kallas, anulou um novo grupo consultivo de defesa dias após o apresentar, após contestação dos Estados‑membros. #EuropeNews",
+      "image": "https://images.euronews.com/articles/stories/09/90/36/02/1200x675_cmsv2_69c58207-7815-535c-989c-f9534371bd86-9903602.jpg",
+      "articleUrl": "https://pt.euronews.com/my-europe/2026/09/07/uniao-europeia-servico-diplomatico-cancela-novo-grupo-de-defesa-de-alto-nivel"
     },
     {
-      "title": "União Europeia acelera revisão da política para o Ártico numa corrida global pelo poder - pt.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzk2S2lxakRSMkJWMmNUYnZFXzVFbW5aSzFzMnVIZVNLa1BaNWJqMUJ2TF9GcUpTUG9ncnJIZ0ZxZ21ud3kzZHR2YVJiRXRNVV9Ea3kta0E2WmI3SXpzZFdHTlJXSU53Qkl1YXJBZEEyb1lhZnhSYUlybDBQeXBDNVdGcUoxaFpCaEFnRFE5TGdKeGFMQ3c2OHVRbDMyNVhzN0QzVk1zOHd1UGNZcHE3U3NpLTdZcmladm1LSG5mWGdxNGlId19lcFRhdDc?oc=5",
-      "source": "pt.euronews.com",
-      "publishedAt": "2026-09-07T09:20:53Z",
-      "description": "A presidente da Comissão Europeia, Ursula von der Leyen, está na Gronelândia para discutir a crescente importância do Ártico entre aliados. A visita ocorre numa altura em que Bruxelas prepara uma nova política para o Ártico, com especialistas a alertarem que deve ter a segurança e a defesa no centro #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/90/19/23/1200x675_cmsv2_6da3a40b-64d1-5be0-ac85-c8593a6c6c4b-9901923.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/09/07/uniao-europeia-acelera-revisao-da-politica-para-o-artico-numa-corrida-global-pelo-poder"
+      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-09-06T12:50:00Z",
+      "description": "No plano diplomático, Luís Gomes destacou as negociações confidenciais entre enviados especiais de Donald Trump e Vladimir Putin antes de encontros em Kiev",
+      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-06-13-16-55-61650.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
     },
     {
       "title": "“Progressos substanciais” para negociações trilaterais com Moscovo e Kiev – EUA - Portal Impala",
@@ -164,13 +155,13 @@
       "articleUrl": "https://www.impala.pt/noticias/politica/progressos-substanciais-para-negociacoes-trilaterais-com-moscovo-e-kiev-eua/"
     },
     {
-      "title": "Médio Oriente: \"A guerra já não é apenas militar, mas é fundamentalmente uma guerra económica\" - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkYyR1FvS3BjU1Raa2RKV2IwUHF3aTBHTXZ0UlZwenhmd1lFN05GcWl1ZlBPM1F5akdzUjFGSHY0aGpCRGxReFd5cDhzd0s3WGRWT21MellGTXpkOFYxUE1FaDlGcFZtYXpONHVIUl8waXNPTm42VWZjRHh1OEx2WnNKMDdCODBuWkNvVUJWcmhDck5SUlltZHUtT19YcDVCX3I4SHlJOHNUelZiQ01KekxZSGpKUlFQTjQ3UFNlbkU5Y3NTb2hUOEVB?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-09-06T12:50:00Z",
-      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
+      "title": "Comitiva dos EUA elogia reunião “muito significativa”, Zelensky espera novo encontro nas próximas semanas - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2N3MDJtS3lfQ1dNYnpZcmJWeWdxb2pWUllpMjAxNUZnc2dfTGhWbmxoU1NiMU80YkhOTFR2a2dKRXdURzh0NEREdnZyMzA1dG0wd1pUbEtQcjNJZEZuY1BFSnRWcm1jQXZzM2pid0xxcmNHUXFfbUhHRzhLLWp4VTVxbW1abzM4ckp6MkxuRTNrYnNZdXA2ZmVVY3ZQVzFJQVhpREUxVFpQZnZVT05sMVEwZFFHRWs3X3FsLXZ4a2VrQUg4WmZxdktSQzRPZkJPdXVnVDNINUJZa2Rjb0FPaW5KZDNiOTRm0gHoAUFVX3lxTE0zY3cwMm1LeV9DV01iellyYlZ5Z3FvalZSWWkyMDE1RmdzZ19MaFZubGhTU2IxTzRiSE5MVHZrZ0pFd1RHOHQ0RER2dnIzMDV0bTB3WlRsS1ByM0lkRm5jUEVKdFZybWNBdnMzamJ3THFyY0dRcV9tSEdHOEstanhVNXFtbVpvMzhySnoyTG5FM2tic1l1cDZmZVVjdlBXMUlBWGlERTFUWlBmdlVPTmwxUTBkUUdFazdfcWwtdnhrZWtBSDhaZnF2S1JDNE9mQk91dWdUM0g1QllrZGNvQU9pbkpkM2I5NGY?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-06T18:22:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/medio-oriente-a-guerra-ja-nao-e-apenas-militar-mas-e-fundamentalmente-uma-guerra-economica"
+      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/comitiva-dos-eua-elogia-reuniao-muito-significativa-zelensky-espera-novo-encontro-nas-proximas-semanas/484451/"
     },
     {
       "title": "Kremlin \"não exclui\" novas negociações com Ucrânia e Estados Unidos - Notícias ao Minuto",
@@ -182,22 +173,31 @@
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3047630/ucrania-kremlin-diz-nao-excluir-retomada-de-negociacoes-com-kiev-e-washington"
     },
     {
-      "title": "Comitiva dos EUA elogia reunião “muito significativa”, Zelensky espera novo encontro nas próximas semanas - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2N3MDJtS3lfQ1dNYnpZcmJWeWdxb2pWUllpMjAxNUZnc2dfTGhWbmxoU1NiMU80YkhOTFR2a2dKRXdURzh0NEREdnZyMzA1dG0wd1pUbEtQcjNJZEZuY1BFSnRWcm1jQXZzM2pid0xxcmNHUXFfbUhHRzhLLWp4VTVxbW1abzM4ckp6MkxuRTNrYnNZdXA2ZmVVY3ZQVzFJQVhpREUxVFpQZnZVT05sMVEwZFFHRWs3X3FsLXZ4a2VrQUg4WmZxdktSQzRPZkJPdXVnVDNINUJZa2Rjb0FPaW5KZDNiOTRm0gHoAUFVX3lxTE0zY3cwMm1LeV9DV01iellyYlZ5Z3FvalZSWWkyMDE1RmdzZ19MaFZubGhTU2IxTzRiSE5MVHZrZ0pFd1RHOHQ0RER2dnIzMDV0bTB3WlRsS1ByM0lkRm5jUEVKdFZybWNBdnMzamJ3THFyY0dRcV9tSEdHOEstanhVNXFtbVpvMzhySnoyTG5FM2tic1l1cDZmZVVjdlBXMUlBWGlERTFUWlBmdlVPTmwxUTBkUUdFazdfcWwtdnhrZWtBSDhaZnF2S1JDNE9mQk91dWdUM0g1QllrZGNvQU9pbkpkM2I5NGY?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-09-06T18:22:00Z",
-      "description": "Apesar do anúncio de que as capitais europeias e os EUA se vão reunir em breve com a Ucrânia para procurar pôr fim à guerra, Zelensky volta a defender a necessidade de conversar com a Rússia para saber o que diz Putin sobre o futuro dos territórios ocupados e as garantias de segurança.",
-      "image": "https://images.rr.pt/4772744118861abfee9f_socialshare.jpg",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/06/comitiva-dos-eua-elogia-reuniao-muito-significativa-zelensky-espera-novo-encontro-nas-proximas-semanas/484451/"
+      "title": "Trump pode ficar preso mais seis meses numa “guerra sem fim” com o Irão, avisa ex-chefe do Pentágono - cnnportugal.iol.pt",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNenMwQnBVZG93cDhJbks5Zk5pLUhIUnd4aUJVMmFTTVl1ay1aNmdnSml4LVBsWEtWZlRYMlJpQ3ZPZE02SlBVS2hENVR5TUNkVXJPdDJxbGl4MW5LQTZ5UW84dTBwODRXUkNRSzN6Sll0S01zWS1BdWYyY2dQalFGUFVNem1xWUZQbWxZQkJTUFNUdjFENmlnY2ZZcmVCcXNyNGFRRUxmU2pOZUR5RUszS3NCUzFLNFFIdEVpTjRhNVR6WXJoQlpHU1JFWjhRN3IyRjFqRDlfNXdPcEkzenVaeTZ5bnlHRE5FeFB0RHZTcXhJcWFxWXJhZ1dxS2I2N0lwMUl2dFFYWElWUQ?oc=5",
+      "source": "cnnportugal.iol.pt",
+      "publishedAt": "2026-09-06T20:30:00Z",
+      "description": "Leon Panetta considera que Washington e Teerão estão num “terrível impasse”, sem uma saída clara para um conflito que já dura há mais de seis meses. O antigo secretário da Defesa alerta também para a instabilidade no comando militar norte-americano",
+      "image": "https://img.iol.pt/preset/698374aed34e92a344986bc3/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra/donald-trump/trump-pode-ficar-preso-mais-seis-meses-numa-guerra-sem-fim-com-o-irao-avisa-ex-chefe-do-pentagono/20260906/6a9db945d34ed0733ba83ae8"
     },
     {
-      "title": "Trump pode ficar preso mais seis meses numa “guerra sem fim” com o Irão, avisa ex-chefe do Pentágono - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNenMwQnBVZG93cDhJbks5Zk5pLUhIUnd4aUJVMmFTTVl1ay1aNmdnSml4LVBsWEtWZlRYMlJpQ3ZPZE02SlBVS2hENVR5TUNkVXJPdDJxbGl4MW5LQTZ5UW84dTBwODRXUkNRSzN6Sll0S01zWS1BdWYyY2dQalFGUFVNem1xWUZQbWxZQkJTUFNUdjFENmlnY2ZZcmVCcXNyNGFRRUxmU2pOZUR5RUszS3NCUzFLNFFIdEVpTjRhNVR6WXJoQlpHU1JFWjhRN3IyRjFqRDlfNXdPcEkzenVaeTZ5bnlHRE5FeFB0RHZTcXhJcWFxWXJhZ1dxS2I2N0lwMUl2dFFYWElWUQ?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-06T20:30:00Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/donald-trump/trump-pode-ficar-preso-mais-seis-meses-numa-guerra-sem-fim-com-o-irao-avisa-ex-chefe-do-pentagono/20260906/6a9db945d34ed0733ba83ae8"
+      "title": "Em Kiev, enviado de Trump diz que Rússia e Ucrânia 'têm de fazer concessões', e Zelensky faz 'avaliação positiva' das negociações - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVBPa2p4RjNBVG9JZkNUSExESVAtQ1JXZE1ZMFVFTlJ0cENpV2oxeXBRZVlWaUdPc0dzTEs5Q2NheVVwZGdSTG5nTjFzb0RhUTV2WEFFNDEwYUdpbzI4d2RiSFN1YXMxX21TLUMtWWlLbVBPa0oyM3d1dlhHODRkMEpIQzdOTXFuVFEzcU15NmE1dFhpeWJMRWhjWXRySThYWGJxZ21qaGRiVElGampHOHNTdjZ2RE1rcGJQd2w0NGFoWlo1MEJtVGdOUFM1bDNhQ2s4NXNlSkRoV3lOdWxMdG5yLTZKcXd5TUhETEhvOHJXTm1VMk5BbUtXTUEtN0J6TGhySzRiUTVlUjU2MTBibWlvVVgwemvSAaYCQVVfeXFMTVdabEc1TjVidTB1MTQ2aGJUdEF5MHFIRVdPWjczcENmTm1nWnAyOXJqOHV5eTVEb0R6V0R3RHlJei1oLTlvSGJMelkyMV9ZRmJsVlVNYTVmeUxVNktneWVibDZHUUNQM3VtSFVxVUM1SkR6TXZzWW81OF9JR2RrWHRIOUl2Wi1fcV9GSWhvZUxTdUhlTFZVclJIeWhRRlZrSTNxSXh0eEdIaWhYanZZaWdMT0hmblpTd3diQjFPTEtzVG5TUVZyeUNuZ2trV1RvZ2tpMWU5UFhYeFVxSVBRWHBnWEtQcTlQa1VkMG9KdG5sQ0FPMVczdjhGQmZ5dS1JQm85dEg5YkVETHZmTXpldU5UWGcxdTRUYWdDaWM3S2M4S19ES1V3?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-09-06T15:15:48Z",
+      "description": "Steve Witkoff e Jared Kushner desembarcam na capital ucraniana pela primeira vez desde o início do conflito, um dia depois de reunião de três horas com Putin em Moscou",
+      "image": "https://s2-oglobo.glbimg.com/i6bN3DALnZDQhUqO8XBbSqs2riQ=/2493x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/3/Q/jyLOKASRKVJ7Mx2N0Ssg/afp-20260906-c7gh4tv-v1-highres-ukraineusrussiadiplomacyconflictwar.jpg",
+      "articleUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/enviado-de-trump-diz-que-conversas-com-zelensky-foram-significativas-um-dia-apos-reuniao-com-putin-para-discutir-a-guerra-na-ucrania.ghtml"
+    },
+    {
+      "title": "Emissários norte-americanos na Ucrânia para negociar a paz com a Rússia - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDVvMjh5bTZvaFo5VUhMV2otaWRsS3lkZHo0QmRBcXE2UlZETWVzRmdHcF9jT1FfanZERzAyZHlwQktFaUl2YXZxdWFmNnRBbkp5aUxyWXlLNFFtS0paM0V6aUFKYUZNMGJuYUFvMjFyckV6WmNyTnBidEk3NnJCQ09QZ1NBd2V4bHhYVDdkekg2ZEdteVZkdGptcEdORnVDb3Z0NmtwQV9YaEJiaW5UT3U0ajRUQk1rLVkwT3BoYko?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-09-06T15:06:53Z",
+      "description": "A reunião entre o Presidente ucraniano, Volodymyr Zelensky, e os emissários da Casa Branca para tentar reactivar o diálogo para pôr fim à guerra entre a Rússia e a Ucrânia, decorreu esta tarde em Kiev.",
+      "image": "https://s.rfi.fr/media/display/49df7008-a9ee-11f1-8521-005056a90284/w:1280/p:16x9/2026-09-06T110614Z-320167065-RC2MDNA3E7RF-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260906-emiss%C3%A1rios-norte-americanos-na-ucr%C3%A2nia-para-negociar-a-paz-com-a-r%C3%BAssia"
     },
     {
       "title": "Leão XIV apela à paz e à diplomacia no conflito entre Rússia e Ucrânia - RTP",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "União Europeia: serviço diplomático cancela novo grupo de defesa de alto nível - pt.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1pzRlYxV1BpQW5xckJtWW5xOUozSkdYWDVUT3h6X0Rwa0pYRnpnR0NXOG1CRHJvX19SM1dRN3BKeXp4YWM0M3lEQm1WYkh3QjUyY05rY3RFd21mUUlLazc1VnF4QW1kYklqTXVWMUVFM1JEcFFJR2R3T1FRYS1DUFI0V2UySFBCVVpFMmlFM3Z0WWpKWEFiYVVzc21GSDJpNlBSX3VITUFwbFdZSU42T21UZGp1bDZkUG1ESEZPZw?oc=5",
-      "source": "pt.euronews.com",
-      "publishedAt": "2026-09-07T09:13:21Z",
-      "description": "Notícia publicada por pt.euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "title": "Rússia não descarta retomada das negociações com Ucrânia e EUA após reuniões dos enviados de Trump em Moscou e Kiev - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSVF6bVhzdEVHR1A5b2N0enRqaHVBRmFhZGZFMEFWWFE1d2ZZckltR0ZqUXVtNDVBUFdJandUd2JrVUtVNUgyX3Rxc1EzMTNBcUNkM19oZmhwZ3RaaUNJUzlCNG1SdkRIYW5Pa0tRM1o4ZU85b2U5MUFRZFZXWU00UFpLdzdfSGt0bkZyOTlSTlVEeTNxbmM2TDY1Wmg5eE4yNmVxelEtMWNlWWsyNGkwVVFSTmNBLXl4b1czUFllTU9FeW9HUzdvQ3psdzlPaDVCSjdfM1puN0pGaUs4VnRFZzNJVkVBZkNMNTcxQVA5VlBPdk1UUTBoSl9odFloNF92cnNMTHlyc25HNzltY2JF0gGPAkFVX3lxTFBJUXptWHN0RUdHUDlvY3R6dGpodUFGYWFkZkUwQVZYUTV3ZllySW1HRmpRdW00NUFQV0lqd1R3YmtVS1U1SDJfdHFzUTMxM0FxQ2QzX2hmaHBndFppQ0lTOUI0bVJ2REhhbk9rS1EzWjhlTzlvZTkxQVFkVldZTTRQWkt3N19Ia3RuRnI5OVJOVUR5M3FuYzZMNjVaaDl4TjI2ZXF6US0xY2VZazI0aTBVUVJOY0EteXhvVzNQWWVNT0V5b0dTN29Demx3OU9oNUJKN18zWm43SkZpSzhWdEVnM0lWRUFmQ0w1NzFBUDlWUE92TVRRMGhKX2h0WWg0X3Zyc0xMeXJzbkc3OW1jYkU?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-09-07T11:12:39Z",
+      "description": "Notícia publicada por O GLOBO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
