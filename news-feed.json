@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-08T23:25:34.922390Z",
+  "updatedAt": "2026-09-09T00:38:34.913219Z",
   "health": [
     {
-      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - rtp.pt",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV6NF90dUdRcVdmRXU0WXQyaDcwZHg5Y3doVWNOVkpzcTktNUxwcm1hRDdyLVBwMVRUYlZDWnBycGJUNDlWdXZDN0JlTTBRSDNJRGRsQnBpcnVQa2ZxV1ViSkFUX29HeVJsRFIydVlreWVJSk1KRDdiRkR1eWY1MDZCUlN1NklKcUlyZHFKb2J5cTJKYWl1eWNTWDh6dHc4MjRHUW03cE9Nakl1OXVHaWZwazZqZVFNM0lzRkxB?oc=5",
+      "title": "IVG. Hospital Garcia de Orta alvo de inspeção da IGAS - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2pLZ29WU1FZS05EWXNYXy1oVHpWcVNJRko1UGpEU3hCaTRLR21BNjdha0ZWbDJCaFh0SkJTYTF3dzZKSnd1cS0xaHY5M2dFS1ZzbTlFaUpIQkFJNjk1SWFsUTNSYVYwT2VjYV9qSUJkNUVad25FRENBckd4Y0lpbF95M01CZlBGc3FzMHRnVEh0VnhxWjVhcm1B?oc=5",
       "source": "rtp.pt",
-      "publishedAt": "2026-09-08T16:56:39Z",
-      "description": "A Ordem dos Enfermeiros (OE) anunciou hoje a criação de um programa gratuito de saúde mental e bem-estar dirigido a esses profissionais de saúde, que inclui consultas e uma linha SOS disponível 24 horas por dia.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=860&q=90&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/ordem-lanca-programa-de-saude-mental-para-enfermeiros-com-consultas-e-linha-sos_n1764140"
+      "publishedAt": "2026-09-08T19:41:47Z",
+      "description": "A Inspeção-Geral das Atividades em Saúde abriu uma inspeção ao Hospital Garcia de Orta, em Almada.",
+      "image": "https://cdn-images.rtp.pt/icm/images/a1/a1bb7dee3773db467b4cff5c148473cc_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/ivg-hospital-garcia-de-orta-alvo-de-inspecao-da-igas_v1764238"
     },
     {
       "title": "Transformar a Saúde através dos Dados - Faculdade de Ciências da Universidade de Lisboa",
@@ -29,13 +29,22 @@
       "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/ps-quer-voltar-ouvir-ministra-saude-cpi-inem-deputados-aguardam-dados-microsoft-2187426"
     },
     {
-      "title": "Porque falar de medicina e ciência importa - sulinformacao.pt",
+      "title": "Porque falar de medicina e ciência importa - Sul Informação",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkttN042M2h3NnN1bGFYb1dVVUE3OG40RXhFanlFaFlVclJVRWQyRHQxZVRJa1VUVkFSOXlzb2hKZnFBdnNDYUItOXh2MG1PSm9mZGZXcUE4RGlET1JaUDRBMXNydnVDUkk0YmdlWTFEc3R6NjJwek5OX2RCOUtnQ0dIUzZ0X0k?oc=5",
-      "source": "sulinformacao.pt",
+      "source": "Sul Informação",
       "publishedAt": "2026-09-08T16:30:00Z",
       "description": "Bem-vindos à “Medicina e Ciência no Sul”, um novo espaço mensal dedicado à medicina e investigação biomédica do Sul Informação. Neste espaço, criado em colaboração com a Faculdade de Medicina e Ciências Biomédicas (FMCB), da Universidade do Algarve , pretendemos abordar temas…",
       "image": "https://www.sulinformacao.pt/wp-content/uploads/2026/08/Medicina-e-Ciencia-no-Sul.jpeg",
       "articleUrl": "https://www.sulinformacao.pt/2026/09/porque-falar-de-medicina-e-ciencia-importa/"
+    },
+    {
+      "title": "A medicalização do abandono - Observador",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acTEwYUFtLU9HYTNqdVA5R3RYVEhaZENid3V4X2pkWHIxM2VZLUtWc3VraDJmNlBXR3hGR3RqNTVGUnVsUHdtZHNYOXpmUU9YaHlnZUkyY0RBLVhwT3hhVEU3SnJYMU5iSnc?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-08T23:06:49Z",
+      "description": "Quando o hospital deixa de ser um espaço de tratamento para passar a ser um lugar de espera, já não estamos a medicar a doença; estamos a legitimar o abandono.",
+      "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A26%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F06%2F22142103%2Fjorgemota-2026.jpg",
+      "articleUrl": "https://observador.pt/opiniao/a-medicalizacao-do-abandono/"
     },
     {
       "title": "OMS alerta que o vírus do Ébola continua \"fora de controlo\" na RDCongo - LUSA",
@@ -56,13 +65,13 @@
       "articleUrl": "https://pt.euronews.com/video/2026/09/08/grecia-crias-de-tigre-de-sumatra-recebem-primeiros-exames-de-saude-em-jardim-zoologico"
     },
     {
-      "title": "A medicalização do abandono - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acTEwYUFtLU9HYTNqdVA5R3RYVEhaZENid3V4X2pkWHIxM2VZLUtWc3VraDJmNlBXR3hGR3RqNTVGUnVsUHdtZHNYOXpmUU9YaHlnZUkyY0RBLVhwT3hhVEU3SnJYMU5iSnc?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-08T23:06:49Z",
-      "description": "Quando o hospital deixa de ser um espaço de tratamento para passar a ser um lugar de espera, já não estamos a medicar a doença; estamos a legitimar o abandono.",
-      "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A26%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F06%2F22142103%2Fjorgemota-2026.jpg",
-      "articleUrl": "https://observador.pt/opiniao/a-medicalizacao-do-abandono/"
+      "title": "PCP exige esclarecimentos sobre reorganização da oncologia do hospital de Portalegre - saudemais.tv",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlFveV80emV1b0k5Q0R6QzBHc3JMWEpTV19Tb0dGeGRuYlZtUEVSbDhzbFB6eGhLWXJ1N202UjlvQ19najlRYmtONjhMeXlrSUx4RUt3eGZkQnFOemV5LXd3WXdXOXhNYjNfVUI3T1BRcFc0bUZKQk9qdUp4Q0VQS001bWQ2Ui0yUW1OQUJ4emN6SF9oR0tweGNqOXdVYlJzTUVrd05QRVpIMTJob2tacXZiQ0VlbDBWUjNjQnd3SVM?oc=5",
+      "source": "saudemais.tv",
+      "publishedAt": "2026-09-08T16:09:51Z",
+      "description": "O PCP exigiu hoje esclarecimentos sobre a reorganização da Unidade de Oncologia do hospital de Portalegre, argumentando que as explicações apresentadas pela Unidade Local de Saúde (ULS) do Alto Alentejo “não são compatíveis” com a atividade assistencial.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066612_0000000001.jpg",
+      "articleUrl": "https://www.saudemais.tv/noticia/66612-pcp-exige-esclarecimentos-sobre-reorganizacao-da-oncologia-do-hospital-de-portalegre"
     },
     {
       "title": "Entidades de Coimbra unem-se para facilitar acesso à saúde - Diário de Coimbra",
@@ -72,15 +81,6 @@
       "description": "ULS de Coimbra, Câmara, universidades, Secção Regional da Ordem dos Médicos e outras estruturas assinaram compromisso para tornar o sistema mais simples e compreensível para os cidadãos.",
       "image": "https://www.diariocoimbra.pt/wp-content/uploads/2026/09/Carta-compromisso-saude-1.webp",
       "articleUrl": "https://www.diariocoimbra.pt/2026/09/08/entidades-de-coimbra-unem-se-para-facilitar-acesso-a-saude/"
-    },
-    {
-      "title": "PCP exige esclarecimentos sobre reorganização da oncologia do hospital de Portalegre - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlFveV80emV1b0k5Q0R6QzBHc3JMWEpTV19Tb0dGeGRuYlZtUEVSbDhzbFB6eGhLWXJ1N202UjlvQ19najlRYmtONjhMeXlrSUx4RUt3eGZkQnFOemV5LXd3WXdXOXhNYjNfVUI3T1BRcFc0bUZKQk9qdUp4Q0VQS001bWQ2Ui0yUW1OQUJ4emN6SF9oR0tweGNqOXdVYlJzTUVrd05QRVpIMTJob2tacXZiQ0VlbDBWUjNjQnd3SVM?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-08T16:09:51Z",
-      "description": "O PCP exigiu hoje esclarecimentos sobre a reorganização da Unidade de Oncologia do hospital de Portalegre, argumentando que as explicações apresentadas pela Unidade Local de Saúde (ULS) do Alto Alentejo “não são compatíveis” com a atividade assistencial.",
-      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066612_0000000001.jpg",
-      "articleUrl": "https://www.saudemais.tv/noticia/66612-pcp-exige-esclarecimentos-sobre-reorganizacao-da-oncologia-do-hospital-de-portalegre"
     },
     {
       "title": "A Madrasta: Pedro é levado para o hospital em perigo - TVI",
@@ -100,10 +100,10 @@
       "image": ""
     },
     {
-      "title": "IVG. Hospital Garcia de Orta alvo de inspeção da IGAS - rtp.pt",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2pLZ29WU1FZS05EWXNYXy1oVHpWcVNJRko1UGpEU3hCaTRLR21BNjdha0ZWbDJCaFh0SkJTYTF3dzZKSnd1cS0xaHY5M2dFS1ZzbTlFaUpIQkFJNjk1SWFsUTNSYVYwT2VjYV9qSUJkNUVad25FRENBckd4Y0lpbF95M01CZlBGc3FzMHRnVEh0VnhxWjVhcm1B?oc=5",
+      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV6NF90dUdRcVdmRXU0WXQyaDcwZHg5Y3doVWNOVkpzcTktNUxwcm1hRDdyLVBwMVRUYlZDWnBycGJUNDlWdXZDN0JlTTBRSDNJRGRsQnBpcnVQa2ZxV1ViSkFUX29HeVJsRFIydVlreWVJSk1KRDdiRkR1eWY1MDZCUlN1NklKcUlyZHFKb2J5cTJKYWl1eWNTWDh6dHc4MjRHUW03cE9Nakl1OXVHaWZwazZqZVFNM0lzRkxB?oc=5",
       "source": "rtp.pt",
-      "publishedAt": "2026-09-08T19:41:47Z",
+      "publishedAt": "2026-09-08T16:56:39Z",
       "description": "Notícia publicada por rtp.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
@@ -155,9 +155,9 @@
       "articleUrl": "https://cbn.globo.com/mundo/noticia/2026/09/08/trump-diz-a-putin-que-fim-da-guerra-contra-ucrania-poderia-restaurar-relacoes-entre-eua-e-russia.ghtml"
     },
     {
-      "title": "Trump pede a Putin fim rápido da guerra para reatar relações económicas - rr.pt",
+      "title": "Trump pede a Putin fim rápido da guerra para reatar relações económicas - Renascença",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdVlXUDBCaTM0RjNteURWNU1UamhLWjhLLTNpc00tSFlrY1RocFJ1WDZ5SWhsdG5Odm1KQjN6S3U1REJTYjgybTdiZlJ2SGNwRUJOUTFTS2pVdU5TRDBVYjYzQ240TkgxazNYUjhRVmhKVlhZbFdfOHc3QV9OLXVvZDNFdndkSVZ5dk4yVEUzYzlxZndkN3ZpNW5wN2MwQ3N2NllEQUNQb2pfeXVqZFc3NkpvM1AtY05XMHNvVERKWdIBvwFBVV95cUxNdVlXUDBCaTM0RjNteURWNU1UamhLWjhLLTNpc00tSFlrY1RocFJ1WDZ5SWhsdG5Odm1KQjN6S3U1REJTYjgybTdiZlJ2SGNwRUJOUTFTS2pVdU5TRDBVYjYzQ240TkgxazNYUjhRVmhKVlhZbFdfOHc3QV9OLXVvZDNFdndkSVZ5dk4yVEUzYzlxZndkN3ZpNW5wN2MwQ3N2NllEQUNQb2pfeXVqZFc3NkpvM1AtY05XMHNvVERKWQ?oc=5",
-      "source": "rr.pt",
+      "source": "Renascença",
       "publishedAt": "2026-09-08T14:11:00Z",
       "description": "Presidente norte-americano e líder russo falaram ao telefone após deslocação de enviados de Trump a Moscovo e a Kiev.",
       "image": "https://images.rr.pt/454896111755e71a89d9_socialshare.jpg",
@@ -173,9 +173,9 @@
       "articleUrl": "https://www.publico.pt/2026/09/08/mundo/noticia/netanyahu-tera-ignorado-aviso-emirados-arabes-unidos-ataque-7-outubro-2187381"
     },
     {
-      "title": "Em telefonema, Putin e Trump têm conversa ‘extremamente franca’ sobre guerra na Ucrânia - VEJA",
+      "title": "Em telefonema, Putin e Trump têm conversa ‘extremamente franca’ sobre guerra na Ucrânia - veja.abril.com.br",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3NBSjJZOC04T3dmRXo3YnQ4WXRvSTBONEFTWGpFQ05TOHBiazNCWVBWdThJcTRyaW1ycWMyVWNiQzg3YnhEYVJZYW1NbzBKYWZHVlFnaUFwV0lYdU5YbDlfallvSmV1X3o5MHlrT3ZFYldMbWExLWt1WVpxbVFVc2FXb1BWZ29HWHRzQWh2bTRoelluRXdQMk1fNTQxOWktMkZyOGt4aTV3UWN3T3VKNEZQdkk0dDBQ?oc=5",
-      "source": "VEJA",
+      "source": "veja.abril.com.br",
       "publishedAt": "2026-09-08T21:31:36Z",
       "description": "Ligação acontece após a visita de enviados especiais americanos às capitais Moscou e Kiev no último fim de semana",
       "image": "https://veja.abril.com.br/wp-content/uploads/2026/09/AFP__20260908__C7MK7KE__v1__HighRes__UkraineRussiaConflictWar.jpg?quality=70&strip=info&resize=1200,630&crop=1",
