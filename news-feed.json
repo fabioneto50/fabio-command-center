@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T00:38:34.913219Z",
+  "updatedAt": "2026-09-09T01:28:40.305276Z",
   "health": [
     {
-      "title": "IVG. Hospital Garcia de Orta alvo de inspeção da IGAS - rtp.pt",
+      "title": "IVG. Hospital Garcia de Orta alvo de inspeção da IGAS - RTP",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2pLZ29WU1FZS05EWXNYXy1oVHpWcVNJRko1UGpEU3hCaTRLR21BNjdha0ZWbDJCaFh0SkJTYTF3dzZKSnd1cS0xaHY5M2dFS1ZzbTlFaUpIQkFJNjk1SWFsUTNSYVYwT2VjYV9qSUJkNUVad25FRENBckd4Y0lpbF95M01CZlBGc3FzMHRnVEh0VnhxWjVhcm1B?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-08T19:41:47Z",
       "description": "A Inspeção-Geral das Atividades em Saúde abriu uma inspeção ao Hospital Garcia de Orta, em Almada.",
       "image": "https://cdn-images.rtp.pt/icm/images/a1/a1bb7dee3773db467b4cff5c148473cc_N.jpg",
@@ -20,15 +20,6 @@
       "articleUrl": "https://ciencias.ulisboa.pt/eventos/transformar-a-saude-atraves-dos-dados"
     },
     {
-      "title": "PS quer voltar a ouvir ministra da Saúde na CPI do INEM, deputados aguardam dados da Microsoft - Público",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcy1XUHk4VVFUcXB2MUlwM0s5Q2E1ekw1S0FKRHFnYzRTM2wtN3o5ZTUtb3FCbE1tUVNvNTNsVm9jeUJEa285bHkwbktQVHNpMllTdzFpMlI3X3lLT0lkRWxzMjhUVTNBMlZDYUp3dEVabHBwQl91dm50YXN5emRXT3FSSWlZeFo3aEJmM2pfRWFVVmRyM3FNek1SWWkwQVdjYXpVelo0OFJmSG9aMHhuOHhBdmR4eVZhLUV6SXZwTUtiWWF6NnZUV2p0MXpGdEc4TFRyalpR?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-08T20:01:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/ps-quer-voltar-ouvir-ministra-saude-cpi-inem-deputados-aguardam-dados-microsoft-2187426"
-    },
-    {
       "title": "Porque falar de medicina e ciência importa - Sul Informação",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkttN042M2h3NnN1bGFYb1dVVUE3OG40RXhFanlFaFlVclJVRWQyRHQxZVRJa1VUVkFSOXlzb2hKZnFBdnNDYUItOXh2MG1PSm9mZGZXcUE4RGlET1JaUDRBMXNydnVDUkk0YmdlWTFEc3R6NjJwek5OX2RCOUtnQ0dIUzZ0X0k?oc=5",
       "source": "Sul Informação",
@@ -36,6 +27,15 @@
       "description": "Bem-vindos à “Medicina e Ciência no Sul”, um novo espaço mensal dedicado à medicina e investigação biomédica do Sul Informação. Neste espaço, criado em colaboração com a Faculdade de Medicina e Ciências Biomédicas (FMCB), da Universidade do Algarve , pretendemos abordar temas…",
       "image": "https://www.sulinformacao.pt/wp-content/uploads/2026/08/Medicina-e-Ciencia-no-Sul.jpeg",
       "articleUrl": "https://www.sulinformacao.pt/2026/09/porque-falar-de-medicina-e-ciencia-importa/"
+    },
+    {
+      "title": "PS quer voltar a ouvir ministra da Saúde na CPI do INEM, deputados aguardam dados da Microsoft - Público",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcy1XUHk4VVFUcXB2MUlwM0s5Q2E1ekw1S0FKRHFnYzRTM2wtN3o5ZTUtb3FCbE1tUVNvNTNsVm9jeUJEa285bHkwbktQVHNpMllTdzFpMlI3X3lLT0lkRWxzMjhUVTNBMlZDYUp3dEVabHBwQl91dm50YXN5emRXT3FSSWlZeFo3aEJmM2pfRWFVVmRyM3FNek1SWWkwQVdjYXpVelo0OFJmSG9aMHhuOHhBdmR4eVZhLUV6SXZwTUtiWWF6NnZUV2p0MXpGdEc4TFRyalpR?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-08T20:01:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/ps-quer-voltar-ouvir-ministra-saude-cpi-inem-deputados-aguardam-dados-microsoft-2187426"
     },
     {
       "title": "A medicalização do abandono - Observador",
@@ -65,13 +65,22 @@
       "articleUrl": "https://pt.euronews.com/video/2026/09/08/grecia-crias-de-tigre-de-sumatra-recebem-primeiros-exames-de-saude-em-jardim-zoologico"
     },
     {
-      "title": "PCP exige esclarecimentos sobre reorganização da oncologia do hospital de Portalegre - saudemais.tv",
+      "title": "PCP exige esclarecimentos sobre reorganização da oncologia do hospital de Portalegre - Saúde Mais TV",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlFveV80emV1b0k5Q0R6QzBHc3JMWEpTV19Tb0dGeGRuYlZtUEVSbDhzbFB6eGhLWXJ1N202UjlvQ19najlRYmtONjhMeXlrSUx4RUt3eGZkQnFOemV5LXd3WXdXOXhNYjNfVUI3T1BRcFc0bUZKQk9qdUp4Q0VQS001bWQ2Ui0yUW1OQUJ4emN6SF9oR0tweGNqOXdVYlJzTUVrd05QRVpIMTJob2tacXZiQ0VlbDBWUjNjQnd3SVM?oc=5",
-      "source": "saudemais.tv",
+      "source": "Saúde Mais TV",
       "publishedAt": "2026-09-08T16:09:51Z",
       "description": "O PCP exigiu hoje esclarecimentos sobre a reorganização da Unidade de Oncologia do hospital de Portalegre, argumentando que as explicações apresentadas pela Unidade Local de Saúde (ULS) do Alto Alentejo “não são compatíveis” com a atividade assistencial.",
       "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066612_0000000001.jpg",
       "articleUrl": "https://www.saudemais.tv/noticia/66612-pcp-exige-esclarecimentos-sobre-reorganizacao-da-oncologia-do-hospital-de-portalegre"
+    },
+    {
+      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - RTP",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV6NF90dUdRcVdmRXU0WXQyaDcwZHg5Y3doVWNOVkpzcTktNUxwcm1hRDdyLVBwMVRUYlZDWnBycGJUNDlWdXZDN0JlTTBRSDNJRGRsQnBpcnVQa2ZxV1ViSkFUX29HeVJsRFIydVlreWVJSk1KRDdiRkR1eWY1MDZCUlN1NklKcUlyZHFKb2J5cTJKYWl1eWNTWDh6dHc4MjRHUW03cE9Nakl1OXVHaWZwazZqZVFNM0lzRkxB?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-08T16:56:39Z",
+      "description": "A Ordem dos Enfermeiros (OE) anunciou hoje a criação de um programa gratuito de saúde mental e bem-estar dirigido a esses profissionais de saúde, que inclui consultas e uma linha SOS disponível 24 horas por dia.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=860&q=90&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/ordem-lanca-programa-de-saude-mental-para-enfermeiros-com-consultas-e-linha-sos_n1764140"
     },
     {
       "title": "Entidades de Coimbra unem-se para facilitar acesso à saúde - Diário de Coimbra",
@@ -87,24 +96,15 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEQ2U1Nia3NHcXJObkNyWXhLcHFPLVFrMTBqb1UwaVludTdpZ3BvaFhvY2ItZnZEb0xTcXVYR3RqQ1U1RlFLdTZseGE2TDRlNkdIM01JUUtwR09rbVItOWJGN3ExR3dfT3dvSjZKZTlVcGxJd2FLN2U5Q3J0emtjekJ0cW0wSlhOYVIxbDhiRnN6ZHVCSkdXY3o2OThNVGNZbHpLeA?oc=5",
       "source": "TVI",
       "publishedAt": "2026-09-08T22:03:00Z",
-      "description": "Em «A Madrasta», todos ficam em choque com o que acabou de acontecer. Diana (Inês Castel-Branco) continua agarrada a Pedro (Albano Jerónimo), que está a sangrar, enquanto os presentes tentam perceber o que aconteceu. Os paramédicos chegam e levam Pedro. Felícia quer acompanhá-lo, mas Diana garante que será ela a ir. Entretanto, todos questionam de onde veio o tiro e quem…",
-      "image": "https://img.iol.pt/preset/6a998f04d34ed0733ba833b7/og/tvi",
-      "articleUrl": "https://tvi.iol.pt/videos/a-madrasta-pedro-e-levado-para-o-hospital-em-perigo/6a998c8e0cf2b42132dbff82"
-    },
-    {
-      "title": "Beja: falta de hematologistas deixa Hospital José Joaquim Fernandes dependente de médica do Algarve - Rádio Pax",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2pJSHV4bWFHRkpYQ2RCVWppc0VWNjVFRnV0TzROa2xaYmV0a1ljT2E5TUZZbWx3VzFtVk1TSjBwRmNCWU1sWXdObTFlQlJhVXJlcFA2ZHpGUXgteVA2Q1lLVnAyMDJDVkhmWDRPSGo0bXl0M2hmWG5NbTR3Qnpvd0p5dzVWOXpKcG1veGRDOEJOOFQ5cWYxdXBnZk5RV0JXS085UWtqYUhUdTZQcHAycHNnbUh6TW1uakRWa2pzQ0JhQQ?oc=5",
-      "source": "Rádio Pax",
-      "publishedAt": "2026-09-08T23:02:00Z",
-      "description": "Notícia publicada por Rádio Pax. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por TVI. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - rtp.pt",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV6NF90dUdRcVdmRXU0WXQyaDcwZHg5Y3doVWNOVkpzcTktNUxwcm1hRDdyLVBwMVRUYlZDWnBycGJUNDlWdXZDN0JlTTBRSDNJRGRsQnBpcnVQa2ZxV1ViSkFUX29HeVJsRFIydVlreWVJSk1KRDdiRkR1eWY1MDZCUlN1NklKcUlyZHFKb2J5cTJKYWl1eWNTWDh6dHc4MjRHUW03cE9Nakl1OXVHaWZwazZqZVFNM0lzRkxB?oc=5",
-      "source": "rtp.pt",
-      "publishedAt": "2026-09-08T16:56:39Z",
-      "description": "Notícia publicada por rtp.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "SOM Saúde Mental: uma visão 360º - Observador",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IUlFJd0gtRU9mR2plTjhYSUFqQ1A5X2o3dWlCOGJ3bTFXbnFkQm1KcE5GMjYxSzRJR1lhRm8zSEpOd3RXNzhnZkhWUXpScUoyMzdRZndCRW1qTHh5QzBCOEM2TXJ6U1Nfa2MybDkycGlHUQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-08T09:40:54Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,13 +119,22 @@
       "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-08-zelensky-espera-retomar-negociacoes-entre-ucrania-russia-e-estados-unidos-ainda-em-setembro-e970cabd"
     },
     {
-      "title": "Trump telefona a Putin e pede fim rápido da guerra na Ucrânia - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGFMRWc5TERFbUxtU2xoZGNUbXYyMVJCOG10T2FUTGN5RlhsN2xLWmZua3huM0pEdGpIVU1GN19BN1QtdTdGZm5ZTElfMF9GM1JaOE16b0RSSm5SWEVlLTVjaWtkU1FlRl9ILXRzMjJsbDdtYWlURGxtRGJISGxvblhBcXRjVmFKRUdmbVBKWkpJTzlJbzdvSUNTZ0cwRFB2WGdYZG13Y0dlOWR3bFhNcy1oT0ZteFprRjJsVmxqa3FRT1p2aDRmeEpfaWhjRmp5dHNF?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-09-08T17:46:24Z",
-      "description": "Donald Trump apelou a Vladimir Putin para terminar o conflito rapidamente, com o objetivo de restabelecer as relações entre os EUA e a Rússia. Na chamada, o líder russo negou quaisquer planos hostis contra a Europa e explicou os passos que Washington pode dar para o fim das hostilidades.",
-      "image": "https://img.iol.pt/preset/6aa04b2e0cf2b42132dc0b31/og/sol",
-      "articleUrl": "https://sol.iol.pt/internacional/noticias/trump-telefona-a-putin-e-pede-fim-rapido-da-guerra-na-ucrania/20260908/6aa04ba90cf2b42132dc0b34"
+      "title": "O que Trump e Putin disseram um ao outro numa conversa \"positiva\" por telefone - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNREtnT3NrUFllQU5YR1hIcFBxd0t5VmFWNS1WRTk0SGUwV3lacEdZbGtpWEd4YmY3VDF0VF9OTUN1RVdoZjFPYXBUWW5lNmxFSzVRTS12OWlZVDJIME1HQ0pQc2tlVEhBdlJfdVlxWVBDa3hoaHoxSE5Edmc1cVJjQWlCRi1FS1A0VnBZNVc4b3gyQWhoYWNoOEpBemVQZjNKb2JoZ01xb190M2F5d1pxX19fMUJfRnQ4aUpPanJRMUpHQ2JBckZoek5mU0gtSk02MjEzWW1VTkcwdHp5RFQxSEVfR3MxMXRCNFJLSk1XYThuWFhJ?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-08T18:31:00Z",
+      "description": "Líderes dos Estados Unidos e da Rússia falaram à distância esta terça-feira",
+      "image": "https://img.iol.pt/preset/6978f275d34e0ec52ec2caab/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra-na-ucrania/russia/o-que-trump-e-putin-disseram-um-ao-outro-numa-conversa-positiva-por-telefone/20260908/6aa04a01d34e511da0b3787c"
+    },
+    {
+      "title": "Irão e Estados Unidos trocam ataques contra navios no Golfo Pérsico - RTP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXJsWG9kOHhlR1VRUXUtcjhGZ19iUjRUNWdYS29EQU52TWtvUjZQVFhBRmkxckJ2VV9Tc3RKREptbDdtRmV1djRWVlJ2VlRwNUFtaEtReTJaTnJCMm1jS2lJeG1tUmxld09uV1lOdXhxbUVrWVZpWExFck42Sm9zQnlMVVktY1VsUU9hUE9wZ0FYNGVxb1ZFVUZFR1lEUDNLbWFRdkhPdTlkRzF4Nk13?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-08T20:59:57Z",
+      "description": "O Irão voltou a lançar ataques contra navios norte-americanos. Em resposta, os EUA atacaram múltiplos petroleiros ligados à Guarda Revolucionária iraniana.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/19/1971b79d65b6bd639a8b699496658faa?w=860&q=90&rect=1,0,3019,1655&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-e-estados-unidos-trocam-ataques-contra-navios-no-golfo-persico_n1764258"
     },
     {
       "title": "Preço do gás na Europa atinge máximos de três anos devido ao conflito no Médio Oriente - Dinheiro Vivo",
@@ -137,18 +146,9 @@
       "articleUrl": "http://dinheirovivo.dn.pt/economia/preo-do-gs-na-europa-atinge-mximos-de-trs-anos-devido-ao-conflito-no-mdio-oriente"
     },
     {
-      "title": "Irão e Estados Unidos trocam ataques contra navios no Golfo Pérsico - rtp.pt",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXJsWG9kOHhlR1VRUXUtcjhGZ19iUjRUNWdYS29EQU52TWtvUjZQVFhBRmkxckJ2VV9Tc3RKREptbDdtRmV1djRWVlJ2VlRwNUFtaEtReTJaTnJCMm1jS2lJeG1tUmxld09uV1lOdXhxbUVrWVZpWExFck42Sm9zQnlMVVktY1VsUU9hUE9wZ0FYNGVxb1ZFVUZFR1lEUDNLbWFRdkhPdTlkRzF4Nk13?oc=5",
-      "source": "rtp.pt",
-      "publishedAt": "2026-09-08T20:59:57Z",
-      "description": "O Irão voltou a lançar ataques contra navios norte-americanos. Em resposta, os EUA atacaram múltiplos petroleiros ligados à Guarda Revolucionária iraniana.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/19/1971b79d65b6bd639a8b699496658faa?w=860&q=90&rect=1,0,3019,1655&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-e-estados-unidos-trocam-ataques-contra-navios-no-golfo-persico_n1764258"
-    },
-    {
-      "title": "Trump diz a Putin que fim da guerra contra Ucrânia poderia restaurar relações entre EUA e Rússia - CBN",
+      "title": "Trump diz a Putin que fim da guerra contra Ucrânia poderia restaurar relações entre EUA e Rússia - cbn.globo.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTzFrRW9leW9rZXh3SkYxSTdQN2lfMFJfY1JDc2pOUEJEOU9PSERoN0QwTjBvQ3Z3eVd5MEJwblBRYXcyVXA5NV9RdUxlQkVFd0d3cFVJbUpaQk1rRDZ6N2hxRE1ZSkV4elNrQWdSakhob1FhSDl0SHNEdDRKc2ZOMVVMbnlGN3U2VDRaeFFvajdRSFk4R1FpLWlHM21mN3BsZjFPd0tRdWhBV1cycl9ldmNmMGJJVWdKVy1qUC1TaDZ4TE9MWVBYcU1uNlhxNkFOaUtXUDF6dUFmYnYzQkRXQlJYZ9IB8gFBVV95cUxQSDR4LTZxck5WWkVvbWVyS2I0VlhxV1BrajZoc0VlQUJMX3VSdmpyamxDRGZmcW45MmIwSmxVVlB0VVRMVHFDYVR4WWRkaHVjc0EteGh1Y2p2YmtHNXdpWjhEMnFhbk4tbGZhTDNESjdRcEluY3FXNFdLSmtHaS1mWDROUjkxSktpV3VoQVJPYnladlN2U3FCUm1UWERYdkFwa0piOEcwZmRSd0ZFdFp4NWVIeXpWalF2d3BqVDlfdlYyS1NWd0pLZ3VIM2YtNUM3MnprOV9CMmhiUUpnQnh6a1ZPTXFuZ0d5OFZmMHI3U2Y2dw?oc=5",
-      "source": "CBN",
+      "source": "cbn.globo.com",
       "publishedAt": "2026-09-08T20:46:23Z",
       "description": "Segundo o assessor presidencial russo Iuri Uchakov, Trump teria pontuado que os laços políticos e econômicos seriam completamente restabelecidos.",
       "image": "https://s2-cbn.glbimg.com/hAj-ICtHHx7m33a0zPJqwfvJ88Y=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2026/K/A/mlFXMqTvqOAnTpvTylcA/trump.png",
@@ -173,18 +173,27 @@
       "articleUrl": "https://www.publico.pt/2026/09/08/mundo/noticia/netanyahu-tera-ignorado-aviso-emirados-arabes-unidos-ataque-7-outubro-2187381"
     },
     {
-      "title": "Em telefonema, Putin e Trump têm conversa ‘extremamente franca’ sobre guerra na Ucrânia - veja.abril.com.br",
+      "title": "Em telefonema, Putin e Trump têm conversa ‘extremamente franca’ sobre guerra na Ucrânia - VEJA",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3NBSjJZOC04T3dmRXo3YnQ4WXRvSTBONEFTWGpFQ05TOHBiazNCWVBWdThJcTRyaW1ycWMyVWNiQzg3YnhEYVJZYW1NbzBKYWZHVlFnaUFwV0lYdU5YbDlfallvSmV1X3o5MHlrT3ZFYldMbWExLWt1WVpxbVFVc2FXb1BWZ29HWHRzQWh2bTRoelluRXdQMk1fNTQxOWktMkZyOGt4aTV3UWN3T3VKNEZQdkk0dDBQ?oc=5",
-      "source": "veja.abril.com.br",
+      "source": "VEJA",
       "publishedAt": "2026-09-08T21:31:36Z",
       "description": "Ligação acontece após a visita de enviados especiais americanos às capitais Moscou e Kiev no último fim de semana",
       "image": "https://veja.abril.com.br/wp-content/uploads/2026/09/AFP__20260908__C7MK7KE__v1__HighRes__UkraineRussiaConflictWar.jpg?quality=70&strip=info&resize=1200,630&crop=1",
       "articleUrl": "https://veja.abril.com.br/mundo/em-telefonema-putin-e-trump-tem-conversa-extremamente-franca-sobre-guerra-na-ucrania/"
     },
     {
-      "title": "Trump defende fim rápido de guerra na Ucrânia em ligação com Putin - CNN Brasil",
+      "title": "UE dá luz verde à compra de mísseis Patriot pela Ucrânia - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1A3dDk3aXYyOXh5SjNDQVYzZVJib3F4dWQ5Y2dOUmludmZfLWIwZ084a2FkdGRmOUZET3I4SlJrWDhFbVNZZGx2VjdxdWc2UG11OXdBc3FTbko1ZHZVaGVJd0k5bnBXcnZ4aEd6Y2VGLWVnN19pZzlxQUltVm9fTEZsbkFCTUV4TE9rR1lGdnVLY1BPanJUek8zUjZQeEdsSHp4REd1aDJDWVk2QVZJdA?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-08T14:33:41Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-08-ue-da-luz-verde-a-compra-de-misseis-patriot-pela-ucrania-f0162cb0"
+    },
+    {
+      "title": "Trump defende fim rápido de guerra na Ucrânia em ligação com Putin - cnnbrasil.com.br",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dPUXYyZGZTVnVLMDl6bWY5b3lpUS04OUtjVF9kSVptS2hfckQ2WjRReE90V2V4dWhiRzl4bm43Z1R3VnpTcE9wQ1g3VVUxTHB5TnhuS2JUS3oyS1dSYlhEMk9JcWNqdG54VTVnZHp0N1Y3dlpIRjllcldqS01fa192R2xiZklSYjNYTkZpYjc3ZW50dVdFYlQyOExIRVBtSUYyYXpZUFNBREtUazE0?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "publishedAt": "2026-09-08T18:58:18Z",
       "description": "Kremlin diz que chamada durou uma hora e que presidente dos EUA também falou sobre restauração plena das relações com a Rússia",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM281GA-BASEIMAGE.jpg?w=800&h=533&crop=1",
@@ -195,9 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcEQ2SURvb20yNkx5QTRaTVBZSEZ3bTBQcFQ5SHZGZW90a1ZXMWkzMFRldUtGYVAzY2dBbHRRZzBFMmZtT2NydDNCQ3JoZWxHZUk0bzQyRkYzcWxvc05ZMmVwQnI2ZF9PQ1FnTG9hWllMRmg3UHMwLVEzbFpGaW95MzBPTnlSNXlxN2JacHVZUWl6RHBYR044OS13NlhsckVNbGJwSmRIcVVqMF9iSTNxbzYxRm9oczlpSUFJczB3cTV2X1pXQ0QtU281UGhYbENMcEpnUXRJSzhhWGE3bWc?oc=5",
       "source": "Jornal do Comércio",
       "publishedAt": "2026-09-08T14:37:30Z",
-      "description": "Três pessoas morreram, segundo o prefeito de Kiev, Vitali Klitschko, e incêndios foram registrados por toda a capital ucraniana",
-      "image": "https://www.jornaldocomercio.com/_midias/jpg/2026/09/08/2025_06_17t125533z_1_lynxmpel5g0n0_rtroptp_4_ukraine_crisis_attack_kyiv-12019716.jpg",
-      "articleUrl": "https://www.jornaldocomercio.com/internacional/2026/09/1262574-russia-ataca-kiev-apos-breve-pausa-para-visita-de-enviados-dos-estados-unidos.html"
+      "description": "Notícia publicada por Jornal do Comércio. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Putin e Trump discutem resolução da guerra da Ucrânia após visita de enviados dos EUA - Brasil de Fato",
@@ -205,14 +213,6 @@
       "source": "Brasil de Fato",
       "publishedAt": "2026-09-08T15:54:00Z",
       "description": "Notícia publicada por Brasil de Fato. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "\"É mais um exemplo da Europa a assumir as suas responsabilidades\": UE autoriza Kiev a comprar mísseis Patriot com empréstimo de 90 mil milhões de euros - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQejFXaGNub0xIaGpwZUR5UjFKSDlaRllLMUhwUDlRd0V3TnR0YWtXU1dIYUxZRWt5TktmX256WE1kRFhwUmRUb2lLbmotS0U4Wm90eXhRZVhlRWZSY3NBWWVKMHZCMlQ3QnlKSkVHZHRFS3BUNE02bmRGbjdVZFRGZnRFRHZPUWtCeTFmUkl6ZkNYdW9QQ1ZOMUNIZDh1SDJ5SXl6TmthUm1IVk4zYTVtRUU5NWQteXVuQ2xHc3pTdEl2SmxzMlRvVWs1bEo1RGFEMklEQzFkSk1ZRnk2enRWYUNxeDV6b1VTY25mdmI1eklpUC1nVC1uWHd5bENid0h6V3B2LXczZlZ3MURNSTZPMWVCZHhlaW9uV1BTblVqWjVweUNyWHc3b3NKVU5oTzUyZWw3SkdpZDZ2eE9ZVDJzcGRnU0d0ZTA?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-08T15:23:00Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
