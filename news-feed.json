@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-09T05:28:01.340949Z",
+  "updatedAt": "2026-09-09T06:34:45.789784Z",
   "health": [
+    {
+      "title": "Por uma nova arquitetura, categorias e taxonomia dos cuidados de saúde - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWNVMk9nMUFiLU1IazExLTczc3pNbG0xbDZuMFhlY3ZmMHl5Zy1QOGpZQ241NmRCYXYzUVdwN1VETFpWYS0za2RJVkNTNkFqaTFPZ2VUd3pHcEFCX2NCOEc0LV8wSklieEZiMFZOcF9Ia1hIdkRiR2ZzempwZUxQMjFkT0ZPeW5mM3k4aVpLTVhBR1NsSG1LY2Rib2E0SGFDcmdya01CQ0x2N1JKQldsTmk1ZG5zWGlw?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-09T06:00:00Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/opiniao/2026-09-09-por-uma-nova-arquitetura-categorias-e-taxonomia-dos-cuidados-de-saude-e0327ccd"
+    },
+    {
+      "title": "«Ricos em especialistas, pobres no interior – declaração da OMS promete virar o jogo» - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRElhakE2SGYzQnhJdFNnUHRBMzcyU05fSWhJRVBuU2lGTmdRZHRxcHI3YTRydnBydkNHSXREZ2NIQXdtdUlxMDJRQlcwVnp3WFdWYXUya2liUjlOTm9PVFNQOVVhRjdDaFpLYmcwVS14X3EzYmtJb0ItTlU4aXNDYjRRcDhqS0gwbzlRT1BZVGFwYm1uemRUaFc5N1RLRnRXZlcyUGJ4Qk9ZUG83R1JUcnJfQk0?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-09T06:11:59Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/09/09/ricos-em-especialistas-pobres-no-interior-declaracao-da-oms-promete-virar-o-jogo/"
+    },
+    {
+      "title": "Quando o hospital deixa de ser um espaço de tratamento para passar a ser um lugar de espera, já não estamos a medicar a doença; estamos a legitimar o abandono. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOXZ6ZEp0RTREcXpHNXZwUGw5QTM5MjlSb1VyWHdWb3UtRFQyNXNBTXNzNzdBWWhLZDE0N3JQZTBtLXpoZFNYUW5mdDZwTUltMzFGYUlHS0o1ZGp4alFmT0FQMlVWYXREczNCcHF4ZjczTklyOElkcS05NTNwRk9CZlNFM3cxNHhkcnc5ZGttdjdoZUMtay04LW9vU1pyTjd4SVJSNlNFY1lTd190dWd4ZkJXYktKVF9ibXBuUDRpd2RsZmlmaVhhbTBaVVhNM2RiNS1YaXJWSG8xVlBWM1dEcEVfcEdhdw?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-09T05:54:20Z",
+      "description": "Quando o hospital deixa de ser um espaço de tratamento para passar a ser um lugar de espera, já não estamos a medicar a doença; estamos a legitimar o abandono.",
+      "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.99422-6/801284246_1052894444027594_6062463203737283434_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qcXVYEm8SjoQ7kNvwH1DjQY&_nc_oc=Adp_Aujhi14jk5LL3GD3s_68oG_ui6R2qg11dr3VaIBMsDphRroKpmI_oUY2x6VBSpI&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=S6hRitxv0qTMADcw9MuhyA&_nc_ss=7820f&oh=00_AQIe4YtueN724OgQmW7XjvEJ16CKYJKGLXKewbssyy3bqw&oe=6AA6C861",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/quando-o-hospital-deixa-de-ser-um-espa%C3%A7o-de-tratamento-para-passar-a-ser-um-luga/1471449051753040/"
+    },
+    {
+      "title": "Regulador da saúde aplica quase 500 mil euros de coimas nos primeiros seis meses do ano - LUSA",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVlaNWN3TDZGUzNnU0RLVnZ4ZDJzNEtGVzVzNDN0RzVWSloyWjVjS2tZUGFxVEdiRHRwQlNvTVF5ako3cEp1a2VNcDhKemNNdzB3T29YLUVqZ3IyNVQtMG12Q2JCeFFoYV8wZ0YtZmdKVFc4NVlDR3BMMmplM1c1V2ZkV0I2YlVkOXNpbU1mb3lBVHRGSlQyOUt4WlJTSVlGbEVVNVQ3WHIwbm41cXAyWW9WYmx0OHZ0VnFENmx4WC1PcmpzZWl4Tg?oc=5",
+      "source": "LUSA",
+      "publishedAt": "2026-09-09T06:01:00Z",
+      "description": "A Entidade Reguladora da Saúde (ERS) aplicou quase meio milhão de euros de coimas no primeiro semestre deste ano, referentes a 143 processos de contraordenação instaurados no âmbito da supervisão de estabelecimento de saúde.",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_8744517_911055_27042019021609.JPG",
+      "articleUrl": "https://www.lusa.pt/article/47738927/regulador-da-sa%C3%BAde-aplica-quase-500-mil-euros-de-coimas-nos-primeiros-seis-meses-do-ano"
+    },
     {
       "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - RTP",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV6NF90dUdRcVdmRXU0WXQyaDcwZHg5Y3doVWNOVkpzcTktNUxwcm1hRDdyLVBwMVRUYlZDWnBycGJUNDlWdXZDN0JlTTBRSDNJRGRsQnBpcnVQa2ZxV1ViSkFUX29HeVJsRFIydVlreWVJSk1KRDdiRkR1eWY1MDZCUlN1NklKcUlyZHFKb2J5cTJKYWl1eWNTWDh6dHc4MjRHUW03cE9Nakl1OXVHaWZwazZqZVFNM0lzRkxB?oc=5",
@@ -11,9 +47,18 @@
       "articleUrl": "https://www.rtp.pt/noticias/pais/ordem-lanca-programa-de-saude-mental-para-enfermeiros-com-consultas-e-linha-sos_n1764140"
     },
     {
-      "title": "Transformar a Saúde através dos Dados - Faculdade de Ciências da Universidade de Lisboa",
+      "title": "Saúde mental nas prisões. Caxias com lotação a 160%, a norte há um psiquiatra para 400 reclusos - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNlJabDliaVYtdzhzbGk0UzFBR0VjTHNUMFdlbUpVSlpBOTdVNWx3SWVkS3YybVloQ0ZielVpcmQxNUpOR1E4U05yVFRGc0pLdTk1S3pHNldEUjQ0R2ZwWEhYQ3lmMFJUMEZldTVRR1VNVmdPOWZGMjZ5VVNqSXZkYTg5T2hWU2wtd2FPOUZDdWlhbmp1YTNzWGlScmZyQl9BNWhDdnE3cElzdzI2MzhoM1RqRm4xZHNlMkk4NC1fYldGVkVPRk50bkwxcjhWbDgyQ0JEVHZEMldKc3RXU09qV29KR0VGN2vSAesBQVVfeXFMTmVCN3RuaGNjVkthbFNDYy0yQnNLRENDUlRVbnhZZEh6ZFV3NmJXWURZT0NrWHhTRVRrX1psNFk5MmlwSmZ0a25QRWxZVlQ5RXQwVWd2VGkzeklfUzZERDBlTl92YktUYk5MY0ZDa3VhTXd6dm5zZEJpeS1DNkNlZmpSUFpUd2xlcm85Z2d3VkVoRVF4NTZhRzd6c1Fqd3hYT29UZENmWXpUajA2Q1NCbnVYaTgwU1l2MHlUcHRaQXVEb3hiYW1vUlVUZ0JDN0pMS0FSNWZjcXk0REd0bXhjemtJTnBfam01dFVuaw?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-09T05:01:00Z",
+      "description": "Fernando Vieira, subespecialista em psiquiatria forense da Ordem dos Médicos, fala em falta de recursos humanos e permanência excessiva de reclusos com problemas do foro psiquiátrico nas alas de saúde prisional, mesmo quando podem ter alta.",
+      "image": "https://images.rr.pt/25876c4ab_socialshare.png",
+      "articleUrl": "https://rr.pt/especial/direito-a-justica/2026/09/09/saude-mental-nas-prisoes-caxias-com-lotacao-a-160-a-norte-ha-um-psiquiatra-para-400-reclusos/484745/"
+    },
+    {
+      "title": "Transformar a Saúde através dos Dados - ciencias.ulisboa.pt",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44TVNrcXAyb3lseHZqOThVNDRyTE1vSm5hOG1qZDZuMFVXNzN0NnVScVIyNmliZGJuN0xpVkYxUVRsbzF2ZVVpSVVMWWV3Nk1qNkl3ZHJLRnZpVDRuWmJOX05CV0oyNERvS2ZEVmNYYzQ1cl83NE9tbHVqMGsxZw?oc=5",
-      "source": "Faculdade de Ciências da Universidade de Lisboa",
+      "source": "ciencias.ulisboa.pt",
       "publishedAt": "2026-09-08T17:40:37Z",
       "description": "Como podem os dados transformar a saúde em Portugal? Especialistas discutem o impacto do Espaço Europeu de Dados de Saúde (EEDS) e os desafios e oportunidades que este novo quadro traz ao sistema nacional.",
       "image": "https://ciencias.ulisboa.pt/multimedia/faculdade-ciencias/doctor-holding-tablet-with-health-data-graphics-2026-01-09-14-46-17-utc.png",
@@ -29,82 +74,37 @@
       "articleUrl": "https://observador.pt/2026/09/08/oms-alerta-que-o-virus-do-ebola-continua-fora-de-controlo-na-republica-democratica-do-congo/"
     },
     {
+      "title": "Regulador da saúde aplica quase 500 mil euros de coimas nos primeiros seis meses do ano - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUzUxci1oMENmUDYtUnRkNVFJQXFUa3liOE8wTkoweEI4MTJDLWpNYnU4WEVycXNBUFFMMmtjbUhHb1pOUTZQTDVUeW5wZXk2SjFFZHdlWHd3dTFJdHA1WE16OGRGeUl1R1FmbnZTTjBGX2FVNWdFcVAzRG56UURDa0tsWDY5QktFckM4TWhHYjMzcHR5SURUVmpfYzRTbmE5bWZIOUpfMW1JaVk1cHFJbjQteEdHVmtYeExBakR6cVdFOW5CY0psVdIBwwFBVV95cUxNeXM2ZERzcXN3eTNCQU1QMUJCZjdiMVZoLXBvaTFLUkpJWHpva2RKeHBGakZyLTY4ZUJxZVM1X0xnUllRejBuOXpoVm5wZkdjNV9Gd1ZRTVNaWmEzZFdKRjlNSmU4R1BTSlZZZ3ZLNXBqLW0teFhVYURVVjQxYncwOUxxM05Lc3BXMmtJQ2xPaFZzR3pJM1E1QjBJTENUVDhvLTVwTnFnOUZfeWx1c0tLdzJKQWFQRDVJWU54am5ySWJ5TjA?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-09T06:29:17Z",
+      "description": "No segundo semestre de 2025, o valor das coimas aplicadas pela ERS foi de mais de 660 mil euros, referentes a 184 processos de contraordenação.",
+      "image": "https://cdn.cmjornal.pt/images/2026-07/img_1280x721uu2026-07-15-18-57-31-2297167.jpg",
+      "articleUrl": "https://www.cmjornal.pt/sociedade/detalhe/regulador-da-saude-aplica-quase-500-mil-euros-de-coimas-nos-primeiros-seis-meses-do-ano"
+    },
+    {
+      "title": "Hospital francês multado em 500 mil euros após ciberataque expor dados de pacientes - Pplware",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFRjRmluYkNKTVRJS3llQnFUTjBIY29XWlFDS1VsY19DM2NDenhwTkw3czdjUlJZMzcwOGlLQUpzOVFwa2tORXpjQ29JUzlrTU92N2hoTy1jWkVLa1RIdjZvOXJPVXhUWjN5aHJud3NGQ0ZGcmtnR25Eb21Nd1lKM09KbUZmQ0R4UFU4bElIbnRmNV85WDVpNjBEQTQ3WGt2TUNrUDN2WlJYT1ZEeTJwU3hHejAteFlk0gG-AUFVX3lxTE5UNUIzUkFjQUU0a1NQenphYVdFb2pxaExDYTdJOUM3QWlHXzc0WEVOWllnSGlDQ19TcGVXamplMldid0FGVHhiRDRiNHFRRUNiaG5tQTNaTGNNLUhVSlg1MWNqU2VpZEYzRmR4d2hXa3RHSm9UenZxZ2M2cXdHNUl0bXNCNFFoTTRnSW05aElaS3V2bXBOUjQ5NllmWm1rVnhpcWhwcUppMFkzT2VIaUtmM2VjMk1OaTREY1ZObVE?oc=5",
+      "source": "Pplware",
+      "publishedAt": "2026-09-09T06:00:34Z",
+      "description": "Um ciberataque a um hospital francês colocou os dados pessoais de centenas de milhares de pessoas nas mãos de um atacante.",
+      "image": "https://pplware.sapo.pt/wp-content/uploads/2026/09/1200x680.jpg",
+      "articleUrl": "https://pplware.sapo.pt/internet/hospital-frances-multado-em-500-mil-euros-apos-ciberataque-expor-dados-de-pacientes/"
+    },
+    {
       "title": "Porque falar de medicina e ciência importa - Sul Informação",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkttN042M2h3NnN1bGFYb1dVVUE3OG40RXhFanlFaFlVclJVRWQyRHQxZVRJa1VUVkFSOXlzb2hKZnFBdnNDYUItOXh2MG1PSm9mZGZXcUE4RGlET1JaUDRBMXNydnVDUkk0YmdlWTFEc3R6NjJwek5OX2RCOUtnQ0dIUzZ0X0k?oc=5",
       "source": "Sul Informação",
       "publishedAt": "2026-09-08T16:30:00Z",
-      "description": "Bem-vindos à “Medicina e Ciência no Sul”, um novo espaço mensal dedicado à medicina e investigação biomédica do Sul Informação. Neste espaço, criado em colaboração com a Faculdade de Medicina e Ciências Biomédicas (FMCB), da Universidade do Algarve , pretendemos abordar temas…",
-      "image": "https://www.sulinformacao.pt/wp-content/uploads/2026/08/Medicina-e-Ciencia-no-Sul.jpeg",
-      "articleUrl": "https://www.sulinformacao.pt/2026/09/porque-falar-de-medicina-e-ciencia-importa/"
+      "description": "Notícia publicada por Sul Informação. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Vídeo. Grécia: crias de tigre-de-Sumatra recebem primeiros exames de saúde em jardim zoológico - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVV9mSEh1Z3lKS1ZDbjFmQXA1c0doOF9lelhWY2Z6ZUo5eXpQYkdMZEtHTGt4MWw4UDlOOXB3cmhJcmhsOTU1ZkNCdGhfWElCQWxaV0pWTm81TXpYdHNoMTFGZUxBYW9DQmh0SmVxRGxMTDBBUFFrcDh3dEcxQzZoT1lEekpQM1U5cmFiS0xwQXNTdGFYTFktYTRmTy1YNUJpRnVROGNQMXdnM2dYdlUwdHREb2RnYVlsZHJrVmVOZ01TZ2NFR2c?oc=5",
       "source": "Euronews.com",
       "publishedAt": "2026-09-08T16:19:47Z",
-      "description": "Vídeo. Três crias de tigre-de-Sumatra criticamente ameaçadas recebem vacinas e microchips num jardim zoológico perto de Atenas, num esforço de conservação",
-      "image": "https://images.euronews.com/articles/stories/09/90/58/53/1200x675_cmsv2_c13bb4c1-f530-5e5f-9865-4e8e3fa1ed8e-9905853.jpg",
-      "articleUrl": "https://pt.euronews.com/video/2026/09/08/grecia-crias-de-tigre-de-sumatra-recebem-primeiros-exames-de-saude-em-jardim-zoologico"
-    },
-    {
-      "title": "PCP exige esclarecimentos sobre reorganização da oncologia do hospital de Portalegre - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlFveV80emV1b0k5Q0R6QzBHc3JMWEpTV19Tb0dGeGRuYlZtUEVSbDhzbFB6eGhLWXJ1N202UjlvQ19najlRYmtONjhMeXlrSUx4RUt3eGZkQnFOemV5LXd3WXdXOXhNYjNfVUI3T1BRcFc0bUZKQk9qdUp4Q0VQS001bWQ2Ui0yUW1OQUJ4emN6SF9oR0tweGNqOXdVYlJzTUVrd05QRVpIMTJob2tacXZiQ0VlbDBWUjNjQnd3SVM?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-08T16:09:51Z",
-      "description": "O PCP exigiu hoje esclarecimentos sobre a reorganização da Unidade de Oncologia do hospital de Portalegre, argumentando que as explicações apresentadas pela Unidade Local de Saúde (ULS) do Alto Alentejo “não são compatíveis” com a atividade assistencial.",
-      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066612_0000000001.jpg",
-      "articleUrl": "https://www.saudemais.tv/noticia/66612-pcp-exige-esclarecimentos-sobre-reorganizacao-da-oncologia-do-hospital-de-portalegre"
-    },
-    {
-      "title": "OMS alerta que o vírus do Ébola continua \"fora de controlo\" na RDCongo - LUSA",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWhZd1NKa0dSM3BFNTFXUzhETjRDa2phMFZFM2N2bFNxX0JXU3RCRHYzcDJuYm1rbUlXaEZ3LTNXSlhtRldTQVl5a1NFU21PMERoOU9XZUJHRy1tMnZYdUxtcVNVVUFpMTMtVWl1QnROZm93VnAySk5tX2tHSUh6aW15U0drUHJUVnFoSlc3MlFWUzVxdktCQ1VjLTdtSkFpLXVCZ0tHQndZbUtESUNCM0lyRlBkQQ?oc=5",
-      "source": "LUSA",
-      "publishedAt": "2026-09-08T19:44:00Z",
-      "description": "A epidemia de Ébola causada pelo vírus de Bundibugyo na República Democrática do Congo continua \"fora de controlo\" após atingir 6.686 casos e 3.226 mortos, alertou hoje a Organização Mundial da Saúde.",
-      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_47657453_238261324000077.JPG",
-      "articleUrl": "https://www.lusa.pt/article/47738437/oms-alerta-que-o-v%C3%ADrus-do-%C3%A9bola-continua-fora-de-controlo-na-rdcongo"
-    },
-    {
-      "title": "PS quer voltar a ouvir ministra da Saúde na CPI do INEM, deputados aguardam dados da Microsoft - Público",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcy1XUHk4VVFUcXB2MUlwM0s5Q2E1ekw1S0FKRHFnYzRTM2wtN3o5ZTUtb3FCbE1tUVNvNTNsVm9jeUJEa285bHkwbktQVHNpMllTdzFpMlI3X3lLT0lkRWxzMjhUVTNBMlZDYUp3dEVabHBwQl91dm50YXN5emRXT3FSSWlZeFo3aEJmM2pfRWFVVmRyM3FNek1SWWkwQVdjYXpVelo0OFJmSG9aMHhuOHhBdmR4eVZhLUV6SXZwTUtiWWF6NnZUV2p0MXpGdEc4TFRyalpR?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-08T20:01:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/08/sociedade/noticia/ps-quer-voltar-ouvir-ministra-saude-cpi-inem-deputados-aguardam-dados-microsoft-2187426"
-    },
-    {
-      "title": "Entidades de Coimbra unem-se para facilitar acesso à saúde - diariocoimbra.pt",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVh6MDdCOEhwb19yUXJrOXV1LW5RZW05YjR2eFJZUHctcldlcXlEbzhNeFFwRWdWSDFJUzBINWNURDBhOENFU2djX2xINThFa2lwbHdsd1g2Z2V4U1NfOURiYTdQZlBFUHdBNF84U3Bna3NpbnBQdFRnZ2R1R1hYRUlvaU5FUVBFWEcxa2drdmtYZWNZOEtsUmpDeG9xZTgt?oc=5",
-      "source": "diariocoimbra.pt",
-      "publishedAt": "2026-09-08T18:03:00Z",
-      "description": "ULS de Coimbra, Câmara, universidades, Secção Regional da Ordem dos Médicos e outras estruturas assinaram compromisso para tornar o sistema mais simples e compreensível para os cidadãos.",
-      "image": "https://www.diariocoimbra.pt/wp-content/uploads/2026/09/Carta-compromisso-saude-1.webp",
-      "articleUrl": "https://www.diariocoimbra.pt/2026/09/08/entidades-de-coimbra-unem-se-para-facilitar-acesso-a-saude/"
-    },
-    {
-      "title": "IVG. Hospital Garcia de Orta alvo de inspeção da IGAS - RTP",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2pLZ29WU1FZS05EWXNYXy1oVHpWcVNJRko1UGpEU3hCaTRLR21BNjdha0ZWbDJCaFh0SkJTYTF3dzZKSnd1cS0xaHY5M2dFS1ZzbTlFaUpIQkFJNjk1SWFsUTNSYVYwT2VjYV9qSUJkNUVad25FRENBckd4Y0lpbF95M01CZlBGc3FzMHRnVEh0VnhxWjVhcm1B?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-08T19:41:47Z",
-      "description": "A Inspeção-Geral das Atividades em Saúde abriu uma inspeção ao Hospital Garcia de Orta, em Almada.",
-      "image": "https://cdn-images.rtp.pt/icm/images/a1/a1bb7dee3773db467b4cff5c148473cc_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/ivg-hospital-garcia-de-orta-alvo-de-inspecao-da-igas_v1764238"
-    },
-    {
-      "title": "A medicalização do abandono - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acTEwYUFtLU9HYTNqdVA5R3RYVEhaZENid3V4X2pkWHIxM2VZLUtWc3VraDJmNlBXR3hGR3RqNTVGUnVsUHdtZHNYOXpmUU9YaHlnZUkyY0RBLVhwT3hhVEU3SnJYMU5iSnc?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-08T23:06:49Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Hospital de Almada diz que ainda não foi notificado pela IGAS devido a suspensão da IVG - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYU5LMVpXbEZtQnVqcWc2aFdQTW9EaTZmOXVXZk01dTZ0WW1PMkxLdHdkenpSWlRVa1RkdUcxXzAzelZYbkZ5QWxhcHJZelFuU1BvRWFiU05uQy1odWJFSzR5aHBMQzR1czBHbnpXc1VVbnpUTlBHQUJoNklTWjBZUmpWWUprWmlQZFpCRWZjYldfTW1GR1BBNW1DbERwMHpoYWZCd1g5NmlxTVVmbTNDX1BMVU1EZGVqRnpRbXNLeDMzOGxV?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-08T17:07:07Z",
-      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -128,9 +128,9 @@
       "articleUrl": "https://sol.iol.pt/internacional/noticias/trump-telefona-a-putin-e-pede-fim-rapido-da-guerra-na-ucrania/20260908/6aa04ba90cf2b42132dc0b34"
     },
     {
-      "title": "Preço do gás na Europa atinge máximos de três anos devido ao conflito no Médio Oriente - Dinheiro Vivo",
+      "title": "Preço do gás na Europa atinge máximos de três anos devido ao conflito no Médio Oriente - dinheirovivo.dn.pt",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOendITnJ4SGdsdVdUekZOVWNMblUtOE8xLTVRcElCQkdkZGx2QU5MeTl2NzMyYzRmVjFxcWd3ZGdmX0w3eXhoYl90aFZES1I3d1pwMGlaZTBtQXNMZTUwVlBOdjNUamVNUi1CVlFfREhfdmI1MHZpR0xnNFlEWU53MlQyMHpUaEJwUFJDSTRQX2N3dHlTeC02OW5UQ0Y0M1k5WnJwSjlZeXJaOHR0bHJtM2NUb3hkTGs?oc=5",
-      "source": "Dinheiro Vivo",
+      "source": "dinheirovivo.dn.pt",
       "publishedAt": "2026-09-08T19:09:06Z",
       "description": "O preço do gás natural para entrega a um mês no mercado TTF dos Países Baixos subiu esta terça-feira, 8 de setembro, mais de 4%, superando 76 euros por megawatt",
       "image": "https://media.assettype.com/dn%2Fimport%2Fdncxpgxxypnfpero%2Fcijfxudcztwo.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
