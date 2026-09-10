@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-10T21:25:25.005896Z",
+  "updatedAt": "2026-09-10T22:25:39.266630Z",
   "health": [
-    {
-      "title": "Receção aos Novos Alunos da ESDH - Universidade de Évora",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tZHJTSVJ0dGpqRDFZRDhRUmQzTWpPeXVMalVua0ZTSmlEX1RQTDJWekxZMUEzb19OQnlOSmxFZENnSEpJWGhFcDBvQTdkOHV4QTZrbGVpc3dONWhtalB6UmJ2OEtNM2c5a3JYV0l5dFRyZw?oc=5",
-      "source": "Universidade de Évora",
-      "publishedAt": "2026-09-10T18:30:10Z",
-      "description": "Um novo percurso começa aqui.Bem-vindos à ESDH! #eusouesdh CLAV | Anfiteatro 214h30 | Sessão de Boas-Vindas - Momento de acolhimento e apresentação da comunidade académica da ESDH, com a presença:• Reitor da Universidade de Évora• Diretor da ESDH• Presidente do Conselho Científico da ESDH• Presidente do Conselho Pedagógico da ESDH• Presidente da Associação de Estudantes da…",
-      "image": "https://siiue-ws.uevora.pt/files/media_imagem/884024/size:600",
-      "articleUrl": "https://www.uevora.pt/unidades/organicas/esdh/eventos?item=47418"
-    },
     {
       "title": "Acessos curso de Medicina. Diretor da Faculdade do Porto alvo de suspensão de um mês e meio - Observador",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEh4VkVJemRTdlQzajd0QWQzekhTbDQ4T1FYdUlrNnJmZ09XRHNKRUxYZDlSZjdUbkRfZ25YdXh3djRtWVVMOUtkSlR2YU55TG91T3hSNjV5NlR2ZWFydThINEJZeHdySzQxemdEV1Q1bzZTQ2JnWkVMQWFWMFFWRE5wUGdpV1J2NTVuMmRkZ2tRaDJXTEtHZkY3WmV0STBacGQzMmd2WmpMSHdHMEE?oc=5",
@@ -18,6 +9,15 @@
       "description": "Reitor da Universidade do Porto denunciou alegadas pressões para aceitar candidatos no curso de Medicina sem nota mínima. Faculdade instaurou processos disciplinares a 11 membros, incluindo o diretor.",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/11/25160345/770-podcast-onde-para-o-caso.jpg",
       "articleUrl": "https://observador.pt/programas/onde-para-o-caso/acessos-medicina-diretor-alvo-de-suspensao-de-um-mes-e-meio/"
+    },
+    {
+      "title": "Ministra da Saúde tenta travar greve no INEM - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGlGYVhkMEhZN3ZPZENqZ1QtUG1lSUNNTUJDOUVtQ1Q5eFlkc3ZydkNVdFViTHRTTkkweUFpRXZHWWVPNDcxZHVRTi10SDVyRE5laXZRMlp4QmlJYVZQYUJ4eGptczYxRFZuVFg4QUdwZERsNWoyMlJnT1ZCQ0Q0T3Z0OHBPNjN2NUNISTVwYVYteW5tZy1VWVp3?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-10T11:54:56Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/sociedade/2026-09-10-ministra-da-saude-tenta-travar-greve-no-inem-b4189a2d"
     },
     {
       "title": "Torre Solidária contribui para os cuidados de saúde de cardiologia do Hospital de Gaia - Torre dos Clérigos",
@@ -29,22 +29,13 @@
       "articleUrl": "https://www.torredosclerigos.pt/torre-solidaria-contribui-para-os-cuidados-de-saude-de-cardiologia-do-hospital-de-gaia/"
     },
     {
-      "title": "Ministra da Saúde tenta travar greve no INEM - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGlGYVhkMEhZN3ZPZENqZ1QtUG1lSUNNTUJDOUVtQ1Q5eFlkc3ZydkNVdFViTHRTTkkweUFpRXZHWWVPNDcxZHVRTi10SDVyRE5laXZRMlp4QmlJYVZQYUJ4eGptczYxRFZuVFg4QUdwZERsNWoyMlJnT1ZCQ0Q0T3Z0OHBPNjN2NUNISTVwYVYteW5tZy1VWVp3?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-09-10T11:54:56Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/2026-09-10-ministra-da-saude-tenta-travar-greve-no-inem-b4189a2d"
-    },
-    {
-      "title": "Dia Mundial da Fisioterapia: Professora Marisa Vitorino participa em webinar sobre saúde no trabalho - ESS CVP Lisboa",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHFNa284TzJ5dmpBOEZRYXd1QWpaMml2NjVwWjZIOWVRTnVCM3FmSGV3dDMxV0lMOVRqMjMtQVU2RU80LWo5bFViUXJQN0V0ek9fZ09qOE42bVhUeW1NWmM4QjBpdjJ5X1NvZmV2YURsbWI2dkxBQzZ2eUdGdHBLMHU3YWw5VHktWjhCLVc3aDhBQXFXYVB0ZVFCLVNFNFBUUV94ZzNZSkF0Rno0NGlWYQ?oc=5",
-      "source": "ESS CVP Lisboa",
-      "publishedAt": "2026-09-10T15:06:38Z",
-      "description": "Notícia publicada por ESS CVP Lisboa. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.esscvp.eu/dia-mundial-da-fisioterapia-marisa-vitorino-participa-em-webinar-sobre-saude-no-trabalho/"
+      "title": "Urgências do Hospital de Aveiro poderão entrar em obras antes da desejada ampliação - LUSA",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDRZRER0TXlCUi1PZUNiRGd6eC02NW1UY3g3alJtSEtJc0JpQnVuMHl3VVE3aXR6VVRkXzFuZnpWTFc0a2ExVVNNVXNnczBHZ01DQS1yQTRrTWxQeDByelhWUTNidThCMElBQ2RTR1VRR0JDRlh5M0gyWlBFcUhDLWVCdmdVdnVPRmV1Rkg4OGZSQl9vNHd2U1E2ZXhWc24zRTBYUjVZMGNVWldCY2lZakR0a0NWbjZHa1M0MVhyMkV3NzlRdXdmZnQ1ZzVGenFRUlZicWVQbw?oc=5",
+      "source": "LUSA",
+      "publishedAt": "2026-09-10T22:01:00Z",
+      "description": "O presidente da Câmara de Aveiro informou hoje que as Urgências do Hospital de Aveiro poderão entrar em obras antes de começar a construção do novo edifício de ambulatório, uma obra estruturante há muito aguardada pela população local.",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_22985475_2391837_07032019121655.JPG",
+      "articleUrl": "https://www.lusa.pt/article/47754081/urg%C3%AAncias-do-hospital-de-aveiro-poder%C3%A3o-entrar-em-obras-antes-da-desejada-amplia%C3%A7%C3%A3o"
     },
     {
       "title": "IMBISA - Religiosos e religiosas refletem sobre saúde mental - Vatican News",
@@ -56,6 +47,15 @@
       "articleUrl": "https://www.vaticannews.va/pt/africa/news/2026-09/imbisa-religiosos-e-religiosas-refletem-sobre-saude-mental.html"
     },
     {
+      "title": "Dia Mundial da Fisioterapia: Professora Marisa Vitorino participa em webinar sobre saúde no trabalho - ESS CVP Lisboa",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHFNa284TzJ5dmpBOEZRYXd1QWpaMml2NjVwWjZIOWVRTnVCM3FmSGV3dDMxV0lMOVRqMjMtQVU2RU80LWo5bFViUXJQN0V0ek9fZ09qOE42bVhUeW1NWmM4QjBpdjJ5X1NvZmV2YURsbWI2dkxBQzZ2eUdGdHBLMHU3YWw5VHktWjhCLVc3aDhBQXFXYVB0ZVFCLVNFNFBUUV94ZzNZSkF0Rno0NGlWYQ?oc=5",
+      "source": "ESS CVP Lisboa",
+      "publishedAt": "2026-09-10T15:06:38Z",
+      "description": "Notícia publicada por ESS CVP Lisboa. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.esscvp.eu/dia-mundial-da-fisioterapia-marisa-vitorino-participa-em-webinar-sobre-saude-no-trabalho/"
+    },
+    {
       "title": "A longevidade obriga-nos a reinventar o sistema de saúde - Jornal SOL",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOWtsNzBOQVlzV3VBYzdMU2RsVElobVAwcjRKQjJySllDSkVaTjZpQ2tIZm1kcXdYWEZvbndVMGN6RVRJX2xWS2IydVBveEFnNjluWUJFUUJ1R2R4QnV1X1FmWnJHX3V3OWUySUNRSnBLZDBJWExNQTY5enA2YTNGajlMZnVVeDZDWExsQUFRa0hkZVI4R2tTTlhyTzVlTVVBZ1hRam1hMkRPSmQwSjBoTTR3ZVRycndBQkxsTnpCT3YxQ0lTaFNLNk1FTlg2TVBEa1lSUXZ1Z2lTQnViYXBsY0VR?oc=5",
       "source": "Jornal SOL",
@@ -65,17 +65,8 @@
       "articleUrl": "https://sol.iol.pt/opiniao/noticias/carlos-santos-moreira-a-longevidade-obriga-nos-a-reinventar-o-sistema-de-saude/20260910/6aa2cac80cf299bc2953c067"
     },
     {
-      "title": "Fotogalerias - LUSA",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKNUdMV1FjbUlTaFJFZ1lYSTRubWJDaEV6Y1djdEVsaEstNnNEOGpwb0Z6Tk5aUmJRTmtEVzNUbVlyRGZFYW1iSHJSb0JwM2RVbkRMd2psXzRrTDNnT0lYSQ?oc=5",
-      "source": "LUSA",
-      "publishedAt": "2026-09-10T16:10:33Z",
-      "description": "LUSA - Fotogalerias",
-      "image": "",
-      "articleUrl": "https://www2.lusa.pt/image-gallery?storyid=47751442"
-    },
-    {
       "title": "ULS do Algarve nega ter proibido trabalhadores de frequentarem Medicina - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzRWVEJwWVpiWmIzekVrdDlJQXNKUThaUGViSUZNWjd1Y3FqTzhJYk4wUHJyUkJORXJYRmdFa0wwXzgtZVR5SjFhZWlIcWVMV2wydFg4QXNNU3lONjh2RFhvVUw4c2RCWmRsd0ZyQy1neUNQbEpZaV92YzMxd3M1N1Z4bW56c2w0UTE3bDl4Mk1hMDJPamFjTU5BX25Kc1NOd3YzT2U0U0otd3FNVnpCZHRMcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzRWVEJwWVpiWmIzekVrdDlJQXNKUThaUGViSUZNWjd1Y3FqTzhJYk4wUHJyUkJORXJYRmdFa0wwXzgtZVR5SjFhZWlIcWVMV2wydFg4QXNNU3lONjh2RFhvVUw4c2RCWmRsd0ZyQy1neUNQbEpZaV92YzMxd3M1N1Z4bW56c2w0UTE3bDl4Mk1hMDJPamFjTU5BX25Kc1NOd3YzT2U0U0otd3FNVnpCZHRMc9IBrgFBVV95cUxOYUluTnllWnR3aXhuSERxLWFuLTh4cTBZZjBrcVNfSnFXN29fZnI2WENwNTVsUWpSYUJPaks3eERoMjh3NS05aGRkZDBOVG02VUlvTFo3cmgxRFNIdDRLa3pJb0xYMnkxWkM0al9NZWpyYzVKbHVsTWdxVlpYUWRjSDJpQXZrdThRMEFRajJPRU1WVU5VdUU3ZnM3OVAwNVZXQ21FYS10VmJRdVVhMEE?oc=5",
       "source": "Correio da Manhã",
       "publishedAt": "2026-09-10T18:08:24Z",
       "description": "PS questionou a ministra da Saúde sobre a alegada decisão da ULS do Algarve de impedir trabalhadores de manterem o vínculo laboral enquanto frequentam Medicina na Universidade do Algarve.",
@@ -97,6 +88,15 @@
       "source": "HealthNews",
       "publishedAt": "2026-09-10T13:59:03Z",
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/09/10/mosaico-de-licoes-o-que-13-professores-de-enfermagem-levaram-as-provas-de-agregacao/"
+    },
+    {
+      "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkxEZ0dkTFVOd0JDUktUNmJPQkkxd2hqX0xVQ0VfbUFabHk0b1IwdXlkQVR4a295VFpVTEdzWTc3SFdCdlAxRE5wRHEwRE5ETFh1MkltQ2czZUlmN1lGQmtQbGQwcV9PY00ybnpLR3JlalBmeFI0M3NSMDVXa2lubWJNWDBYbVgxRFVXc0ZlcXlfVzUtTW1sQQ?oc=5",
+      "source": "Junta de Freguesia do Parque das Nações",
+      "publishedAt": "2026-09-10T10:29:01Z",
+      "description": "Notícia publicada por Junta de Freguesia do Parque das Nações. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -128,27 +128,18 @@
       "articleUrl": "https://cnnportugal.iol.pt/russia/putin/putin-apresentou-a-trump-uma-visao-distorcida-da-guerra-para-pressionar-a-ucrania/20260909/6aa12066d34ed0733ba842ed"
     },
     {
-      "title": "Ataques ucranianos na Rússia fazem pelo menos quatro mortos, incluindo uma criança - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQbVV0Xzl1b0tKcDFJbTVjQlI2OXFyZC1DMHlNVktsNzl5aGpTWjYzMUUtQ2JoQXZaUHpBRlh6UnhHTEdpSi1udjN6bVVDWTJjbkRfUFdoQ0NMa1FQNmNTWjdBZ2gwN0dqbVBhS1h5RUtCT0NUd2l0YWdXRjlVdTlHYVBTMTA1emdfdHEzdDcySjJ3RFNGRkZoVWhLOGNmcTJfbkU4MV8wT3duX0FjYVFlLTNMcXVUa1JGdEl1WVI5ei1lUTFEVWVLRWQ3Q0Q3RWFmaFk0djQtM3U5ZEJ6OXlULUQ3cVJrRzVvUDZfVkxSc1FiaHkwT2JqdEhEbUZHZl8zVUYwaXVFbjA1U3NZc29lSHg3eXpPV2FyRXU3bmdBeDRZLVRjemJJT29WRlRFSjFGclFqbEZzNzlFemRMV29rMExpRzR5TjhpMDdjempLcFVHY2I1eC01R2JqUi1IMjZpTW1wcWVJT2dhdldtQV9vSllKb296NldxeTlOamFSRmJGcTJmWld0ekdQNlV1VzBPZlhaWElfRk8wOXBpM2hycEJrNGIwT2pWTE1vZ2xXcHZOQlNrSm8xNm12cGlYeEZNZG1yQVowYUVvZTA?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-09-09T08:19:38Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-09-ataques-ucranianos-na-russia-fazem-pelo-menos-quatro-mortos-incluindo-uma-crianca-de1f780a?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/guerra-ucrania/2026-09-09-ataques-ucranianos-na-russia-fazem-pelo-menos-quatro-mortos-incluindo-uma-crianca-de1f780a"
-    },
-    {
-      "title": "Putin, Trump e Xi poderão reunir-se em novembro - Diário de Notícias",
+      "title": "Putin, Trump e Xi poderão reunir-se em novembro - dn.pt",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVh0cHMxc1BBUDZiSThWaEsyLUZoRGtVZG1oTk9ZQWszdTFaYV83b2J0WUppams0b2Fod3VVczNYelNvTnFmVWxVTnAwSlF6OG53bjlwMl9pQUpfZ1RpblNWd1ZlbFJJX011dnRRWFQ4VzRFMEVGeXNoRzRicWlHS3dSYw?oc=5",
-      "source": "Diário de Notícias",
+      "source": "dn.pt",
       "publishedAt": "2026-09-09T14:47:51Z",
       "description": "A presidência russa admitiu hoje a possibilidade de uma reunião trilateral dos líderes da Rússia, dos Estados Unidos e da China em novembro, na cimeira da APEC",
       "image": "https://media.assettype.com/dn%2F2026-05-20%2Fo5nztaq5%2FDOC.20260520.47141345.12976312.jpg?rect=0%2C0%2C3771%2C1980&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/internacional/putin-trump-e-xi-podero-reunir-se-em-novembro"
     },
     {
-      "title": "Guerra na Ucrânia. Putin e Trump discutiram solução para o conflito - rtp.pt",
+      "title": "Guerra na Ucrânia. Putin e Trump discutiram solução para o conflito - RTP",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWJDZ285cjRKR211R2NBbkY4akU5bml3QmtRTGVlNlNfUENib19RUE5pU3M4Ql9KRjBEcnlPZkNKQllRMnR0eVhQa1lCTjVqMGJHSW5pSUJ3NW9GSVhfaWJkejVaVExCNE9zS0JjTUtNWnVIaUp3RW14SExFRVZCMmVZdU9wRTctOHptNWludDBOSmlaVHRiLTFkX3hxTkZwOU14YjJBMk50cDU3dHc?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-09T08:00:22Z",
       "description": "Putin e Trump discutiram por telefone uma solução para o conflito na Ucrânia.",
       "image": "https://cdn-images.rtp.pt/icm/images/47/473eb36b3f7a28fa12d65e3c109b6c14_N.jpg",
@@ -164,18 +155,18 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
     },
     {
-      "title": "Estados Unidos vão proibir importação de lacticínios e bebidas alcoólicas canadianos - publico.pt",
+      "title": "Estados Unidos vão proibir importação de lacticínios e bebidas alcoólicas canadianos - Público",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEpMcXB4dlRoRXh1eFhPcHRjVGc4Qm85OTVOYmFQVHlpZ2lGX1ZvdW1LeXNxTzdWY2hjMUxneFV6YXBWakJ0eEFHdzdYdEdsbzFNNjZYZVZ5VmJLTzBGOU9RN0VrYkoxOTJ6eHJncVRZMVpMN3lGal9WbEl6OEVNNk55MGpBVXhrSU1idlB5SEVWRHpsODUxN0JNMGx0b2ZoYkpRVUpwUU1HRU9uZXlYN3I0TjBCQjR3TWt2eUY4eEVieVAtN1VOcURBSDlDQXN5?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-09T06:56:32Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/09/mundo/noticia/estados-unidos-vao-proibir-importacao-lacticinios-bebidas-alcoolicas-canadianos-2187452"
     },
     {
-      "title": "Trump prevê fim da guerra com Irã após eleições de Meio de Mandato - CNN Brasil",
+      "title": "Trump prevê fim da guerra com Irã após eleições de Meio de Mandato - cnnbrasil.com.br",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEZDUmxIdEpOMlZhQkdSLTlhRThaWlFscjF5d25nRkNZckpVRkMxM0trNmxkTVpvdlpYbXR4VjZ2bXljODFURVA2d0tsWkNYWjFmOWxnTmJSMGJzX0poWmE3XzAxMkJVRFZqZ2wyWksxdG9VYnVLMEphYmQ0Mm1MNWxqVncweklOV1l4cmJHNWtXcGx3aTdLOG5sa1JsWlhFa3MxX2RkR19BVWNVdXY4?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "publishedAt": "2026-09-10T06:33:21Z",
       "description": "Presidente dos EUA volta a ameaçar ataque a instalação ligada ao programa nuclear iraniano",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/2025-04-07T111654Z_1_LYNXNPEL360EZ_RTROPTP_4_USA-TRUMP-IRAN.jpg?w=1200&h=630&crop=1",
@@ -200,19 +191,28 @@
       "articleUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-vai-ao-sudeste-asiatico-mirando-virar-parceiro-pleno-da-asean"
     },
     {
-      "title": "Putin, Trump e Xi poderão reunir-se em novembro no sul da China - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUdlT1BtY1hGRUFVWTNHT2luakQxWE1hbHpmTWRoTkY5aEtxX1AzY2VTYzhWME9GWFZKenBYMnRaWVI4NC1SNlZjR3NKV3EycTM4LVA4WW55Z3dWRW5CWl9BVmFhMDNSTVQtdnA1U2RJdHJUSlBEeTcxdlRoc1ZNVnd0WkxwVnVUcGtJRU5YRGM0djJmdTBLdEpnYWbSAZwBQVVfeXFMT1lHZU9QbWNYRkVBVVkzR09pbmpEMVhNYWx6Zk1kaE5GOWhLcV9QM2NlU2M4VjBPRlhWSnpwWDJ0WllSODQtUjZWY0dzSldxMnEzOC1QOFlueWd3VkVuQlpfQVZhYTAzUk1ULXZwNVNkSXRyVEpQRHk3MXZUaHNWTVZ3dFpMcFZ1VHBrSUVOWERjNHYyZnUwS3RKZ2Fm?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-09T13:31:00Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
       "title": "Putin, Trump e Xi poderão reunir-se em novembro no sul da China - Plataforma Media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWdobnpuZVhPQXBMektYMExmZ2NjTHdPX3NJOEtMWlM0RVRIay1VX25uMnBNb0VuUXRXQmkwRE1Mb2tEUk5SbTNPX2RUcDhkOEhDYW03N3VOSHVXT0ZRdmV3MUJjN2RkV3dVU3AtTW5UN3d6QzVkQm1aMVVraUpwR3lxdzNaUjRUVFNpUFo0Z1NCbnlCZ1lkU0szVFF1cWQ0Z3drckxKSUZMZw?oc=5",
       "source": "Plataforma Media",
       "publishedAt": "2026-09-09T15:00:42Z",
-      "description": "Notícia publicada por Plataforma Media. Abra o artigo para consultar os detalhes completos.",
+      "description": "Descubra os detalhes sobre a cimeira da APEC com Putin, Trump e Xi Jinping. Um encontro histórico pode estar a caminho.",
+      "image": "https://cdn.plataformamedia.com/2026/04/trump-Putin-Credit-Xinhua.webp",
+      "articleUrl": "https://www.plataformamedia.com/2026/09/09/putin-trump-e-xi-poderao-reunir-se-em-novembro-no-sul-da-china/"
+    },
+    {
+      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWpJNHl0Y1I2aG5GeFdXMnM5UWp0U0VsUkJBYXBuSDhsN0lXd0Y4TEY3X0lLQmVoRGlCNTNqRDZ2dXNZYlRmNnhQdlJabjUwQUFUTmRFQUJLWTlITkx3eE4wS2d0UUdudEVEN3RUZkpWXzdWMWs3WGdWSTdnQUljUnBLWkRsVExDSjRGRmhOcWNiZ0FQWG5EaVRQbXR0U1lfT1FkYXhXNkNKSDFOVVJwNzV1dDRzeS1QVFNhMjZ4YTNnMzcxeDd6bmdaM3NBWHN0RzctSm9DUXM?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-09-10T11:19:17Z",
+      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "BCE eleva taxa de juros em meio à guerra no Oriente Médio e revisa projeções de inflação - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSlRteTRseXd5QUwwLTVaZGw3WGNSU1JmWWNWejdpMDQwR3hsNnl1VWNLM2ZKaW1vM01TVWotbXRlS1c4WTZvMlR2NFVfUURxZ2lzdk1RY1htRmlwcC1qT19WaFR0dDU0YUgwdkpnRjRsR3hRUGRlQkpPWUFYQ2paZDdYeDQySmh5NXJZN1U1MzRrU1VlODZybnZ4QmNRdlNsQkpoNmMxd2N1TWVmUU9HbGRiX2RoUWdsMGN0MFZKaTBlSk5BMkFhQQ?oc=5",
+      "source": "Bora Investir",
+      "publishedAt": "2026-09-10T13:43:00Z",
+      "description": "Notícia publicada por Bora Investir. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
