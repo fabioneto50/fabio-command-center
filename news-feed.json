@@ -1,41 +1,68 @@
 {
-  "updatedAt": "2026-09-10T16:27:26.901898Z",
+  "updatedAt": "2026-09-10T17:26:26.050734Z",
   "health": [
     {
-      "title": "Acessos curso de Medicina. Diretor da Faculdade do Porto alvo de suspensão de um mês e meio - Observador",
+      "title": "Acessos curso de Medicina. Diretor da Faculdade do Porto alvo de suspensão de um mês e meio - observador.pt",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEh4VkVJemRTdlQzajd0QWQzekhTbDQ4T1FYdUlrNnJmZ09XRHNKRUxYZDlSZjdUbkRfZ25YdXh3djRtWVVMOUtkSlR2YU55TG91T3hSNjV5NlR2ZWFydThINEJZeHdySzQxemdEV1Q1bzZTQ2JnWkVMQWFWMFFWRE5wUGdpV1J2NTVuMmRkZ2tRaDJXTEtHZkY3WmV0STBacGQzMmd2WmpMSHdHMEE?oc=5",
-      "source": "Observador",
+      "source": "observador.pt",
       "publishedAt": "2026-09-10T05:31:38Z",
       "description": "Reitor da Universidade do Porto denunciou alegadas pressões para aceitar candidatos no curso de Medicina sem nota mínima. Faculdade instaurou processos disciplinares a 11 membros, incluindo o diretor.",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/11/25160345/770-podcast-onde-para-o-caso.jpg",
       "articleUrl": "https://observador.pt/programas/onde-para-o-caso/acessos-medicina-diretor-alvo-de-suspensao-de-um-mes-e-meio/"
     },
     {
-      "title": "Ministra da Saúde tenta travar greve no INEM - expresso.pt",
+      "title": "Torre Solidária contribui para os cuidados de saúde de cardiologia do Hospital de Gaia - Torre dos Clérigos",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWx4MzJqSzFWMHF1b0hPWXNPRzJEb3MtT1FwSk8wdXVTR0ZpU05Zd0JVYzlfU1N1SXFqQXIxSWZoMENZU2JUZm5tSm9mOWlHYmRYVmdZSDRYbHAtRFN6OGg4V0dCZXpwdUJBRHRMNXk3VHI1Y2d5UlZSSTVYajhiV2ctSVlabFZmcDlVbU96eW5la29JUDlkeER5UXdoamlQQTMzVlo4U2UyVVBabktJbXNSWFZuaVpMU0pN?oc=5",
+      "source": "Torre dos Clérigos",
+      "publishedAt": "2026-09-10T15:01:24Z",
+      "description": "A Irmandade dos Clérigos entregou, ontem numa cerimónia especial, o valor angariado através da iniciativa “Torre Solidária”, […]",
+      "image": "https://www.torredosclerigos.pt/wp-content/uploads/2026/09/Site_TS.png",
+      "articleUrl": "https://www.torredosclerigos.pt/torre-solidaria-contribui-para-os-cuidados-de-saude-de-cardiologia-do-hospital-de-gaia/"
+    },
+    {
+      "title": "A longevidade obriga-nos a reinventar o sistema de saúde - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOWtsNzBOQVlzV3VBYzdMU2RsVElobVAwcjRKQjJySllDSkVaTjZpQ2tIZm1kcXdYWEZvbndVMGN6RVRJX2xWS2IydVBveEFnNjluWUJFUUJ1R2R4QnV1X1FmWnJHX3V3OWUySUNRSnBLZDBJWExNQTY5enA2YTNGajlMZnVVeDZDWExsQUFRa0hkZVI4R2tTTlhyTzVlTVVBZ1hRam1hMkRPSmQwSjBoTTR3ZVRycndBQkxsTnpCT3YxQ0lTaFNLNk1FTlg2TVBEa1lSUXZ1Z2lTQnViYXBsY0VR?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-09-10T15:15:58Z",
+      "description": "Viver mais não chega",
+      "image": "https://img.iol.pt/image/id/696645770cf2b450a1467765/1280.png",
+      "articleUrl": "https://sol.iol.pt/opiniao/noticias/carlos-santos-moreira-a-longevidade-obriga-nos-a-reinventar-o-sistema-de-saude/20260910/6aa2cac80cf299bc2953c067"
+    },
+    {
+      "title": "IMBISA - Religiosos e religiosas refletem sobre saúde mental - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaU9DR2VzM1ByQ1YteVVpakpGMUlnT0RRcEJPX3UyVG5DVTN5bGM0ODRqaWpqTW92a1hnLWxBWTVMOVlHTUh4d1VlOVdNclVEVGhFS0tUd0tWWm9fNHJMOXg0NVVUcGdoamZYSzgzTUJIcEcwNzdacy1IdUZMX0lVRndDcXB4SE9sT2xnbDZ4YTFPWjZFb2dKTHJsdjZXOVdPdEJrMEZTQUZlM01iZ29uNXdBVQ?oc=5",
+      "source": "Vatican News",
+      "publishedAt": "2026-09-10T13:59:31Z",
+      "description": "“Cuidar de nós para cuidar dos outros”. A saúde mental e o autocuidado na vida consagrada estiveram no centro de um encontro regional promovido pela ...",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/09/imbisa-grupo.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "articleUrl": "https://www.vaticannews.va/pt/africa/news/2026-09/imbisa-religiosos-e-religiosas-refletem-sobre-saude-mental.html"
+    },
+    {
+      "title": "Ministra da Saúde tenta travar greve no INEM - Expresso",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGlGYVhkMEhZN3ZPZENqZ1QtUG1lSUNNTUJDOUVtQ1Q5eFlkc3ZydkNVdFViTHRTTkkweUFpRXZHWWVPNDcxZHVRTi10SDVyRE5laXZRMlp4QmlJYVZQYUJ4eGptczYxRFZuVFg4QUdwZERsNWoyMlJnT1ZCQ0Q0T3Z0OHBPNjN2NUNISTVwYVYteW5tZy1VWVp3?oc=5",
-      "source": "expresso.pt",
+      "source": "Expresso",
       "publishedAt": "2026-09-10T11:54:56Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/sociedade/2026-09-10-ministra-da-saude-tenta-travar-greve-no-inem-b4189a2d"
     },
     {
-      "title": "Prevenção do suicídio: linha recebeu mais de 25 mil chamadas em um ano, quase 700 em risco iminente - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ1dmSG5FbGtKWEMtNEJGaEFhX1pmUW1RWUJaaEJGNFZZcnhmX3FINnl0MHNfUVVPakd6YkpzSzBQOU13MXRVdFV3bDJ2ZndOck8tOXBzTXpJcVZFOVlZT2NNbjhKWTBEQTUtdHF3N0dnWlZWSWF2Vk5IN1k1V3lYR09XVGxudnREbXBya09IaHJweE14cEtEdmhtMGU0ckpVeFRkVUVJUEpza2JibDlPTl9BV1BUdm5IakY1WC0wWkd6aE9SUjI2QWNBMGdBd1VSb3pNaDRUa2U3U1NZWUZnLXJFNVNhN1lUZHE4eHNTTDlOd2pXa1Z2MTRDRm5HUQ?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-10T10:14:01Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/especiais/saude-mental/2026-09-10-video-prevencao-do-suicidio-linha-recebeu-mais-de-25-mil-chamadas-em-um-ano-quase-700-em-risco-iminente-7a90ad34"
-    },
-    {
-      "title": "Pastoral da Saúde: Bispo do Funchal presidiu à Eucaristia dos 53 anos do Hospital Dr. Nélio Mendonça - Agência ECCLESIA",
+      "title": "Pastoral da Saúde: Bispo do Funchal presidiu à Eucaristia dos 53 anos do Hospital Dr. Nélio Mendonça - agencia.ecclesia.pt",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWJ2azUtVlc1a1ZCaHYzYU03eDZZYlcxWHd4Ri04bnRhODhEQ1ZkMHYtUUJZcXVIU21QSm1jTEw5YnUybDF2R1V5SFhWaGlEWndMWENSY1VpbEx2Tk1oMWNoSU9wTVJRdjA1YjZUbUdLOXNaeWdiQlRtYTZ4V3YtV0s3ODhybzkzWFZzeXZVYmpzQURKQXBtYXU2VFpMdjJuNzVCeUhlOVZOTnZCcnNCSUVBaFRERnJNdkpzU1JYMWJYQ2FpbU93NzJZT1UzbTg?oc=5",
-      "source": "Agência ECCLESIA",
+      "source": "agencia.ecclesia.pt",
       "publishedAt": "2026-09-10T13:54:00Z",
-      "description": "Notícia publicada por Agência ECCLESIA. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por agencia.ecclesia.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "https://agencia.ecclesia.pt/portal/wp-content/uploads/2026/09/Funchal_53-anos-Hospital-Dr.-Nelio-Mendonca_Foto_Governo-Regional-da-Madeira.jpg",
       "articleUrl": "https://agencia.ecclesia.pt/portal/pastoral-da-saude-bispo-do-funchal-presidiu-a-eucaristia-dos-53-anos-do-hospital-dr-nelio-mendonca/"
+    },
+    {
+      "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkxEZ0dkTFVOd0JDUktUNmJPQkkxd2hqX0xVQ0VfbUFabHk0b1IwdXlkQVR4a295VFpVTEdzWTc3SFdCdlAxRE5wRHEwRE5ETFh1MkltQ2czZUlmN1lGQmtQbGQwcV9PY00ybnpLR3JlalBmeFI0M3NSMDVXa2lubWJNWDBYbVgxRFVXc0ZlcXlfVzUtTW1sQQ?oc=5",
+      "source": "Junta de Freguesia do Parque das Nações",
+      "publishedAt": "2026-09-10T10:29:01Z",
+      "description": "Vai realizar-se uma Feira de Saúde Infantojuvenil, no dia 19 de setembro, das 9h00 às 13h30, na Escola Superior de Saúde de Lisboa.Esta é uma iniciativa dinamizada pelo grupo de trabalho constituído pela Junta de Freguesia do Parque das Nações, CUF, Grupo Farmaspot, ULS São José, Escola Superior de Saúde de Lisboa e Santa Casa da Misericórdia de Lisboa (Unidade de Proximidade…",
+      "image": "https://www.jf-parquedasnacoes.pt/images/autarquia/noticias/3093/imagem_3093.jpg",
+      "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3093-feira_de_saude_infantojuvenil_no_pn"
     },
     {
       "title": "Fotogalerias - LUSA",
@@ -47,6 +74,15 @@
       "articleUrl": "https://www.lusa.pt/image-gallery?storyid=47751442"
     },
     {
+      "title": "Medicina, ecologia e água potável – unidade curricular do Técnico foca-se em aplicações humanitárias da engenharia - Técnico ULisboa",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbmdBZFUxX3d2U1M4dGYwcHFYbmVFVEY2R2tfTkhaNC1qMTdLdGhRWWU3U1lZcEhNMmVoU2tNRDZFMHVoZXhRY1NVV19JQmdKcHczQ0ZjVDZnNzVQSGtvWWJJX3JQVGQ3YVB2dXNhSHJJYkdMY3B3eDBzZzVQTE5ST2tHZl9XZDdxOWE1QjNZblRILTNMVkl6d0ZMMDA5bFRia0NUaEdyQnRuWVhMcTlfQTgwRHRUQkFsNVFYclNtWE1Yblo5aXJINkMtdy02Wkl0djlPODJDNEJlZEt4LXJNYmpXOXRWVzZBcWd3X0FyZlRUeUpOVGFFVVMyZC1sSGNU?oc=5",
+      "source": "Técnico ULisboa",
+      "publishedAt": "2026-09-10T12:19:43Z",
+      "description": "Disciplina de Engenharia Humanitária recebeu oradores da Médicos Sem Fronteiras e outras iniciativas ligadas à preservação de direitos humanos.",
+      "image": "https://tecnico.ulisboa.pt/files/2026/09/sesso-es-engenharia-humanita-ria-2026-2027-sessa-o-1.jpg",
+      "articleUrl": "https://tecnico.ulisboa.pt/pt/noticias/campus-e-comunidade/medicina-ecologia-e-agua-potavel-unidade-curricular-do-tecnico-foca-se-em-aplicacoes-humanitarias-da-engenharia/"
+    },
+    {
       "title": "Um terço dos portugueses pode ter sintomas de doença venosa crónica, alerta nova campanha - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmFhX0xPVlFPU2docnkzRUZVTl9HZmlJTEpRdHJwSmMtT1FDT3JCVHVJZ0lwb1RqR3VfeVM1UGloUnJwUVFRdTlwZ1dWV3FEek83RmZQSVBGcFRxR1NkcEpMeUxHR2pkdVhibW1CZzNFOG1YVVcyenN4ZHo2RDQ5ZHlhWS1mV3VVNXlWdHBUcWhhVEU1ZFJ0bjhPdy1yOXN6cnE5dU5XOHJhVlBjRE1rRGZiZ3A2UWo3Mi1QV1l4TQ?oc=5",
       "source": "HealthNews",
@@ -56,55 +92,19 @@
       "articleUrl": "https://healthnews.pt/2026/09/10/um-terco-dos-portugueses-pode-ter-sintomas-de-doenca-venosa-cronica-alerta-nova-campanha/"
     },
     {
-      "title": "Atestados médicos deixam os centros de saúde: o que muda com os novos CAMP - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkl0eXNjMXZJdUpnYnk3bF83TUdETlJ1UnpGR3E5SzlYMm43V1hnWkxmTmo2SERKUXJObzI4Wmh6YTJJLTF1UnpSdTdQVGFma2VPaXE5anlmT2wzUEVpTVZWTEdTbXMxdTJ0SkhiZktNZU9DdUFINWhzMEJzQ1ZQdWdqcVFEX09vV0tETkdfSF92TEpya1Z0MVlxT2lYZF8tdFBISFp5eGpSRnlBb1ZtMXh5RjFCZw?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-10T09:53:00Z",
-      "description": "Precisar de um atestado para renovar a carta de condução, obter uma licença de caça ou exercer determinadas atividades poderá deixar de significar marcar uma consulta no centro de saúde. Os novos Centros de Avaliação Médica e Psicológica (CAMP) vão concentrar este tipo de avaliações, com o objetivo de libertar os cuidados de saúde primários de tarefas administrativas.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/05/sasint-surgery-1807541_1920-e1778859158530.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/atestados-medicos-deixam-os-centros-de-saude-o-que-muda-com-os-novos-camp/"
-    },
-    {
-      "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkxEZ0dkTFVOd0JDUktUNmJPQkkxd2hqX0xVQ0VfbUFabHk0b1IwdXlkQVR4a295VFpVTEdzWTc3SFdCdlAxRE5wRHEwRE5ETFh1MkltQ2czZUlmN1lGQmtQbGQwcV9PY00ybnpLR3JlalBmeFI0M3NSMDVXa2lubWJNWDBYbVgxRFVXc0ZlcXlfVzUtTW1sQQ?oc=5",
-      "source": "Junta de Freguesia do Parque das Nações",
-      "publishedAt": "2026-09-10T10:28:56Z",
-      "description": "Vai realizar-se uma Feira de Saúde Infantojuvenil, no dia 19 de setembro, das 9h00 às 13h30, na Escola Superior de Saúde de Lisboa.Esta é uma iniciativa dinamizada pelo grupo de trabalho constituído pela Junta de Freguesia do Parque das Nações, CUF, Grupo Farmaspot, ULS São José, Escola Superior de Saúde de Lisboa e Santa Casa da Misericórdia de Lisboa (Unidade de Proximidade…",
-      "image": "https://www.jf-parquedasnacoes.pt/images/autarquia/noticias/3093/imagem_3093.jpg",
-      "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3093-feira_de_saude_infantojuvenil_no_pn"
-    },
-    {
       "title": "ERS | Conhece os seus direitos na saúde? - inem.pt",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWODlfMWpSaHFCdDNIOXJDaEpxQU51UmhXcThwU01abTN0Y1pMS0M4OXRBRXRxNld2SmNRaGh1Umx4UkVhRGR5b2gzU2U3Z3hBQWo2Znh4Z0NITU1VUzN0NEIyTVJONUhwbUFxMVh4Zl9NV0U2T0hESw?oc=5",
       "source": "inem.pt",
       "publishedAt": "2026-09-10T13:07:30Z",
       "description": "Notícia publicada por inem.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.inem.pt/2026/09/10/ers-conhece-os-seus-direitos-na-saude/"
-    },
-    {
-      "title": "Medicina, ecologia e água potável – unidade curricular do Técnico foca-se em aplicações humanitárias da engenharia - Técnico ULisboa",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbmdBZFUxX3d2U1M4dGYwcHFYbmVFVEY2R2tfTkhaNC1qMTdLdGhRWWU3U1lZcEhNMmVoU2tNRDZFMHVoZXhRY1NVV19JQmdKcHczQ0ZjVDZnNzVQSGtvWWJJX3JQVGQ3YVB2dXNhSHJJYkdMY3B3eDBzZzVQTE5ST2tHZl9XZDdxOWE1QjNZblRILTNMVkl6d0ZMMDA5bFRia0NUaEdyQnRuWVhMcTlfQTgwRHRUQkFsNVFYclNtWE1Yblo5aXJINkMtdy02Wkl0djlPODJDNEJlZEt4LXJNYmpXOXRWVzZBcWd3X0FyZlRUeUpOVGFFVVMyZC1sSGNU?oc=5",
-      "source": "Técnico ULisboa",
-      "publishedAt": "2026-09-10T11:23:12Z",
-      "description": "Notícia publicada por Técnico ULisboa. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://tecnico.ulisboa.pt/pt/noticias/campus-e-comunidade/medicina-ecologia-e-agua-potavel-unidade-curricular-do-tecnico-foca-se-em-aplicacoes-humanitarias-da-engenharia/"
-    },
-    {
-      "title": "IHMT NOVA acolhe reunião do Painel de Especialistas de Alto Nível (OHHLEP) sobre One Health. - ihmt.unl.pt",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjBPS3RuRndwTFNuTGIwR3RmcF84Nl9Kdm9wSHJBcHRVdTFyeW45b18xeW1UMFdsTm5ETXVjcUNZQUdWT3BZUGtTNENuWWs4amRfS3gxRVBqbTcxd3VUbGtXMjUta0J3eVRKdFdaUzFPNlI2QmlsdGY2c01Pc0RmRFhTZURnT3JNUFNUTWFIcjZhTE4wUDJ4bUV4YzFwdkQzR2VGNXhRQ1hNS3kzM2txenpnSWY?oc=5",
-      "source": "ihmt.unl.pt",
-      "publishedAt": "2026-09-10T15:52:38Z",
-      "description": "Notícia publicada por ihmt.unl.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "FDI: Bastonário da OMD eleito para o Comité de Saúde Pública - omd.pt",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RbkRKZnI2VDhLeHZodTZTZ3ZvaFZ3VFI5UzJ1LU1fNG1yV000Um1wQ3FUazZqMlppam5wREZseDFqUmdXSHVPRUZ3bEhEYm1WQjNzZHBqV0lscnVqUzZINm9ZRnVXN1MwSTVv?oc=5",
-      "source": "omd.pt",
-      "publishedAt": "2026-09-10T10:06:30Z",
-      "description": "Notícia publicada por omd.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Atestados médicos deixam os centros de saúde: o que muda com os novos CAMP - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkl0eXNjMXZJdUpnYnk3bF83TUdETlJ1UnpGR3E5SzlYMm43V1hnWkxmTmo2SERKUXJObzI4Wmh6YTJJLTF1UnpSdTdQVGFma2VPaXE5anlmT2wzUEVpTVZWTEdTbXMxdTJ0SkhiZktNZU9DdUFINWhzMEJzQ1ZQdWdqcVFEX09vV0tETkdfSF92TEpya1Z0MVlxT2lYZF8tdFBISFp5eGpSRnlBb1ZtMXh5RjFCZw?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-10T09:53:00Z",
+      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -128,18 +128,9 @@
       "articleUrl": "https://www.dn.pt/internacional/putin-trump-e-xi-podero-reunir-se-em-novembro"
     },
     {
-      "title": "Trump pede a Putin o fim da guerra, presidente russo nega \"planos hostis\" contra a Europa - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3VsLXBRVUdWQ3EtQkxMdmZZU2FTNDQzZlpaTTBScERWUkFpUktlTURkQThqWE9JZXRUbjlGOVpWeFZNekdWb2JXZ3RselphdkJzU0w1MDk5RlNQRXZQbHFIUTFFVkF6OEJGcENiVWlkUkNPNW1BNC1pQndOQUpMQkZmMkFxdWswa1pRREZsOXg5ZFJxekxza21nRnJrOTBveFhmU3dqSFF3VXF4d194Y3ZCbGZWd1BqX21Xc3FQMURGdUhyd1VNaThoV0V0TWlfVUZDZWdUTTY?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-09-08T17:09:55Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-08-trump-pede-a-putin-o-fim-da-guerra-presidente-russo-nega-planos-hostis-contra-a-europa-5dd41260"
-    },
-    {
-      "title": "Guerra na Ucrânia. Putin e Trump discutiram solução para o conflito - rtp.pt",
+      "title": "Guerra na Ucrânia. Putin e Trump discutiram solução para o conflito - RTP",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWJDZ285cjRKR211R2NBbkY4akU5bml3QmtRTGVlNlNfUENib19RUE5pU3M4Ql9KRjBEcnlPZkNKQllRMnR0eVhQa1lCTjVqMGJHSW5pSUJ3NW9GSVhfaWJkejVaVExCNE9zS0JjTUtNWnVIaUp3RW14SExFRVZCMmVZdU9wRTctOHptNWludDBOSmlaVHRiLTFkX3hxTkZwOU14YjJBMk50cDU3dHc?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-09T08:00:22Z",
       "description": "Putin e Trump discutiram por telefone uma solução para o conflito na Ucrânia.",
       "image": "https://cdn-images.rtp.pt/icm/images/47/473eb36b3f7a28fa12d65e3c109b6c14_N.jpg",
@@ -155,11 +146,11 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
     },
     {
-      "title": "Estados Unidos vão proibir importação de lacticínios e bebidas alcoólicas canadianos - Público",
+      "title": "Estados Unidos vão proibir importação de lacticínios e bebidas alcoólicas canadianos - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEpMcXB4dlRoRXh1eFhPcHRjVGc4Qm85OTVOYmFQVHlpZ2lGX1ZvdW1LeXNxTzdWY2hjMUxneFV6YXBWakJ0eEFHdzdYdEdsbzFNNjZYZVZ5VmJLTzBGOU9RN0VrYkoxOTJ6eHJncVRZMVpMN3lGal9WbEl6OEVNNk55MGpBVXhrSU1idlB5SEVWRHpsODUxN0JNMGx0b2ZoYkpRVUpwUU1HRU9uZXlYN3I0TjBCQjR3TWt2eUY4eEVieVAtN1VOcURBSDlDQXN5?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-09T06:56:32Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/09/mundo/noticia/estados-unidos-vao-proibir-importacao-lacticinios-bebidas-alcoolicas-canadianos-2187452"
     },
@@ -204,8 +195,9 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQakVuaDhDRGtUSmFDVEl6cmpCaEJiQW1nTmFKbXRpUFpQbUc3LXg1eHhsc0FoRGNjeEMzd3dza3V1N19HbG1Rd28yS19QM1o1SGdKeU53SWFhLWtQWlNtY2I2TU1Nc3B0Nm1IaEFCWUFSRkk3TTF6SmR4S0NybElINlVmZUZkUTEwZEgzeHdfQm9lcU11N1FkTzNaWEZDWUlOTEpYNnNyNkJpb3Jfc2RpODdEZ2NrNDFCZmdtcXNvOVN6ekhLMmI2bzdXOHQ?oc=5",
       "source": "Folha de S.Paulo",
       "publishedAt": "2026-09-09T20:24:00Z",
-      "description": "Notícia publicada por Folha de S.Paulo. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "description": "Americano afirma que Teerã tenta influenciar pleito de novembro, mas que não conseguirá resistir a pressão",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/09/17889838006aa1b9f8a9b1b_1788983800_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-terminara-logo-apos-eleicao-de-meio-de-mandato-nos-eua.shtml"
     },
     {
       "title": "Trump diz que Putin quer chegar a um acordo sobre Ucrânia - Terra",
@@ -213,6 +205,14 @@
       "source": "Terra",
       "publishedAt": "2026-09-10T03:50:00Z",
       "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "EUA retaliam após novo ataque do Irão contra navios norte-americanos - RTP",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGFNQkZ2WFFEcHNYdnVUTlZEVlV0dGNMRXVmY1NILXdOVnZWTDJ4S0tJcjI0YzlGb2VaZWwxZ3dQRVVHT3VPdF9CajlJTjhOOURtRkVQMHZ6VmZsZ0VwclFUNXZJQzdjd1ItaC1jeEdGR1dmZUtwUTh1bnJQTUp5dFJBTUR4MlVETm1saUtuQjhuZEYtUkJ4MDF6UVVxZmpwSDBfVHY0MzROQ1N0WmRNVg?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-08T21:18:12Z",
+      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
