@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-10T14:28:35.030080Z",
+  "updatedAt": "2026-09-10T15:29:24.100070Z",
   "health": [
     {
-      "title": "Acessos curso de Medicina. Diretor da Faculdade do Porto alvo de suspensão de um mês e meio - Observador",
+      "title": "Acessos curso de Medicina. Diretor da Faculdade do Porto alvo de suspensão de um mês e meio - observador.pt",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEh4VkVJemRTdlQzajd0QWQzekhTbDQ4T1FYdUlrNnJmZ09XRHNKRUxYZDlSZjdUbkRfZ25YdXh3djRtWVVMOUtkSlR2YU55TG91T3hSNjV5NlR2ZWFydThINEJZeHdySzQxemdEV1Q1bzZTQ2JnWkVMQWFWMFFWRE5wUGdpV1J2NTVuMmRkZ2tRaDJXTEtHZkY3WmV0STBacGQzMmd2WmpMSHdHMEE?oc=5",
-      "source": "Observador",
+      "source": "observador.pt",
       "publishedAt": "2026-09-10T05:31:38Z",
       "description": "Reitor da Universidade do Porto denunciou alegadas pressões para aceitar candidatos no curso de Medicina sem nota mínima. Faculdade instaurou processos disciplinares a 11 membros, incluindo o diretor.",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2024/11/25160345/770-podcast-onde-para-o-caso.jpg",
@@ -18,6 +18,15 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/sociedade/2026-09-10-ministra-da-saude-tenta-travar-greve-no-inem-b4189a2d"
+    },
+    {
+      "title": "Pastoral da Saúde: Bispo do Funchal presidiu à Eucaristia dos 53 anos do Hospital Dr. Nélio Mendonça - Agência ECCLESIA",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWJ2azUtVlc1a1ZCaHYzYU03eDZZYlcxWHd4Ri04bnRhODhEQ1ZkMHYtUUJZcXVIU21QSm1jTEw5YnUybDF2R1V5SFhWaGlEWndMWENSY1VpbEx2Tk1oMWNoSU9wTVJRdjA1YjZUbUdLOXNaeWdiQlRtYTZ4V3YtV0s3ODhybzkzWFZzeXZVYmpzQURKQXBtYXU2VFpMdjJuNzVCeUhlOVZOTnZCcnNCSUVBaFRERnJNdkpzU1JYMWJYQ2FpbU93NzJZT1UzbTg?oc=5",
+      "source": "Agência ECCLESIA",
+      "publishedAt": "2026-09-10T13:54:00Z",
+      "description": "Notícia publicada por Agência ECCLESIA. Abra o artigo para consultar os detalhes completos.",
+      "image": "https://agencia.ecclesia.pt/portal/wp-content/uploads/2026/09/Funchal_53-anos-Hospital-Dr.-Nelio-Mendonca_Foto_Governo-Regional-da-Madeira.jpg",
+      "articleUrl": "https://agencia.ecclesia.pt/portal/pastoral-da-saude-bispo-do-funchal-presidiu-a-eucaristia-dos-53-anos-do-hospital-dr-nelio-mendonca/"
     },
     {
       "title": "IMBISA - Religiosos e religiosas refletem sobre saúde mental - Vatican News",
@@ -74,37 +83,28 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/10/504938-regiao-confia-nos-50-da-republica-para-o-novo-hospital/"
     },
     {
+      "title": "A longevidade obriga-nos a reinventar o sistema de saúde - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOWtsNzBOQVlzV3VBYzdMU2RsVElobVAwcjRKQjJySllDSkVaTjZpQ2tIZm1kcXdYWEZvbndVMGN6RVRJX2xWS2IydVBveEFnNjluWUJFUUJ1R2R4QnV1X1FmWnJHX3V3OWUySUNRSnBLZDBJWExNQTY5enA2YTNGajlMZnVVeDZDWExsQUFRa0hkZVI4R2tTTlhyTzVlTVVBZ1hRam1hMkRPSmQwSjBoTTR3ZVRycndBQkxsTnpCT3YxQ0lTaFNLNk1FTlg2TVBEa1lSUXZ1Z2lTQnViYXBsY0VR?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-09-10T15:15:58Z",
+      "description": "Viver mais não chega",
+      "image": "https://img.iol.pt/image/id/696645770cf2b450a1467765/1280.png",
+      "articleUrl": "https://sol.iol.pt/opiniao/noticias/carlos-santos-moreira-a-longevidade-obriga-nos-a-reinventar-o-sistema-de-saude/20260910/6aa2cac80cf299bc2953c067"
+    },
+    {
+      "title": "Atestados médicos deixam os centros de saúde: o que muda com os novos CAMP - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkl0eXNjMXZJdUpnYnk3bF83TUdETlJ1UnpGR3E5SzlYMm43V1hnWkxmTmo2SERKUXJObzI4Wmh6YTJJLTF1UnpSdTdQVGFma2VPaXE5anlmT2wzUEVpTVZWTEdTbXMxdTJ0SkhiZktNZU9DdUFINWhzMEJzQ1ZQdWdqcVFEX09vV0tETkdfSF92TEpya1Z0MVlxT2lYZF8tdFBISFp5eGpSRnlBb1ZtMXh5RjFCZw?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-10T09:53:00Z",
+      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "FDI: Bastonário da OMD eleito para o Comité de Saúde Pública - Ordem dos Médicos Dentistas",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RbkRKZnI2VDhLeHZodTZTZ3ZvaFZ3VFI5UzJ1LU1fNG1yV000Um1wQ3FUazZqMlppam5wREZseDFqUmdXSHVPRUZ3bEhEYm1WQjNzZHBqV0lscnVqUzZINm9ZRnVXN1MwSTVv?oc=5",
       "source": "Ordem dos Médicos Dentistas",
       "publishedAt": "2026-09-10T10:06:30Z",
-      "description": "Miguel Pavão vai integrar um dos órgãos mais importantes desta organização. “A candidatura demonstrou determinação em afirmar a medicina dentária a nível internacional”, sublinha.",
-      "image": "https://www.omd.pt/content/uploads/2026/09/bastonario-omd-jose-miguel-pavao.jpg",
-      "articleUrl": "https://www.omd.pt/2026/09/bastonario-comite-saude-publica/"
-    },
-    {
-      "title": "Saúde Mental: Vítor Cotovio alerta número de suicídios é superior ao «impacto dos acidentes de viação - Agência ECCLESIA",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd0dQYTdXV2VrN0VJZnRid3NLdkRObHpGeUlNV0kzN3RmdkFwM3dkNXl4WXUweUVOTURucFpibFpGUEhRcWhZZUtSSU1fb1J4SkZtZXFGQmlud3R0bFk2QUYzNGhIT2luYkkwZWpBRHRNLW1TT2stVlFUeDdQSmsyZTNnZTVBWWFFVXNGaE8zNG9uelJWaUVWQ3N1TTlvVXlwZGxrN3lDRHRRal9GaWFCMDRJeXlNWnVPZHowQ01DTXF2MkxGT2VIMVhnZnhSSEJR?oc=5",
-      "source": "Agência ECCLESIA",
-      "publishedAt": "2026-09-10T06:00:00Z",
-      "description": "Notícia publicada por Agência ECCLESIA. Abra o artigo para consultar os detalhes completos.",
-      "image": "https://agencia.ecclesia.pt/portal/wp-content/uploads/2020/10/saude-mental-manchete-1.jpg",
-      "articleUrl": "https://agencia.ecclesia.pt/portal/saude-mental-vitor-cotovio-alerta-numero-de-suicidios-e-superior-ao-impacto-dos-acidentes-de-viacao/"
-    },
-    {
-      "title": "Novo centro de saúde do Cartaxo com abertura prevista para início de 2027 - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3RCYlQ1aUxBS1FYNFdPVDV5QnpqMU4yTEFrT1VObjN2ZkRRQ09iVmlBSDlTX0M1d21Ebk15N2hPb2NkZFdJRXVkR18tb201ZldadUt6dWZlVVU1NUVlLTVGcnZDVmZCUzVsUGItNW5KT0RQNjhqRUhkeXYzWVdueWZ4Z0oxTzFUQ3QzSnI4VXdYa19TZnAyLVQ3U0hhcGxqdjZXNWxVT3QyQkl1Y3AwU3FuTFJtUdIBsAFBVV95cUxOdHh0SktWTTRPaV9vazQyZ295ZHRVcXBJV2xQQjVMMmNhVFZhdmp5cnM1S2t5UFFYR0tGcXU4VjV1ZFdFY2hTckpLV1E2TmlBMC1GNG9NWG1LOWt3dW9JX3BJOGpjbGJhVmRPZnZrYlNhLWQ5eTdLTGJ5T0RiSjh5N0xCTGQ4SFRRRmJ4M2pqY0FUczJmMEhncmE2ZG0xdnRBaFlfamRsbnltRXBUMDhTSw?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-10T13:58:57Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "“Na Suécia a saúde oral é gratuita até aos 23 anos, incluindo pôr aparelho”: em Portugal, só vamos ao dentista em caso de urgência (e isso tem sérias consequências para a saúde) - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcXVIelQ5RkhtcFBBSjU2UDQ0Y20wVHpnSEpvSFBGLWcwVTRpM2FaaC1KLVNwVnVRal94WVRqUlVkX29GRU0tblN5ekhwNG5sZklqUk9uSl9iaEtYZzZmMWpJejhNQjV1VUFPRmZFLVdWV1QxTU5LSktZUWlLMGdIRDNUT0RTUm5vdWtBZF9OWmR4d2JWWERIbUZ4My1TMDZtdWpEQkY2cTZkLVhETVR3LXlDX1NtYlNXWmNtQ3VtUGMyVFZldFo4UExTVnQ1dWU3V28tNzJvTFQxZld3VWItX1BraXVTQm9YQ0tEX2JiM2M4Y1BFSVk2bEJwNlZLVDVLU0JPa1pzUlYwWUFZYTdsdXlwTHh6SFJ6WGc?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-10T06:45:00Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Ordem dos Médicos Dentistas. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -146,31 +146,31 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/guerra-na-ucrania-putin-e-trump-discutiram-solucao-para-o-conflito_v1764243"
     },
     {
-      "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - Valor Econômico",
+      "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - valor.globo.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRldkSDRsZEhia012czVRZTQtdVB6d0FJYXF5VVZmOVF5OFY2UXRVMjBHT2ZFWThLNTdXamxQVVhOMWJsclNpclBQQWROcGxTTVpqRjRjd3ZqZVdXbS1GTkxLQkVwVl8yVzcwaFBGd2U1TW1YYnNJbF9ZM1NfTHkxQU5NenJ5ZHdHOVhGSmJkdnM5d1k5dldrRGZsM3NqXzlndmJDb2h1T3UzcGloajktVG9ZbzBmMzQwUnJaUXZBX2p1SGtZWmRyc0J6dmpOWGRNZHfSAeABQVVfeXFMUHdsTUdjZUVVdGZZbVRJNlFwUlktdTlLX1VvQzduQnNoZGM2WmdiR0pVVkhnS2xmdFh1N3REU1I3dmk2bU9GVVpRcE1KSUIxRzdQU2VDdXhvaWYwckJMbWt0aS1IaFVwN0wxMkFFcG1QQnZWemhRN1BKVk1RMkpGNG1PSzUwaXVSN1pUT1FZMGVELUtrWUlvN1hDZXE0SGVUNHJXVzFPRmRUV3lka0RWc2dVLS1QaXNCR0wzWmJtMnNtQUFvZWhXT2FGZkJFak9RMHFTN3R5cGI3VmFHZ1lDREU?oc=5",
-      "source": "Valor Econômico",
+      "source": "valor.globo.com",
       "publishedAt": "2026-09-10T12:11:34Z",
       "description": "Emirados Árabes Unidos, integrantes do grupo, suspenderam em agosto todas as transações comerciais e financeiras com Teerã, depois de serem atingidos por mísseis da República Islâmica",
       "image": "https://s2-valor.glbimg.com/uHcJLQ2dF8ITk7ZBskFvK_sh_W4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/B/F/AH0DFqSeAd0RNzZYkOPQ/2026-09-03t144419z-214326589-rc2fbnaqmr00-rtrmadp-3-brics-summit-india.jpg",
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
     },
     {
-      "title": "Estados Unidos vão proibir importação de lacticínios e bebidas alcoólicas canadianos - publico.pt",
+      "title": "Estados Unidos vão proibir importação de lacticínios e bebidas alcoólicas canadianos - Público",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEpMcXB4dlRoRXh1eFhPcHRjVGc4Qm85OTVOYmFQVHlpZ2lGX1ZvdW1LeXNxTzdWY2hjMUxneFV6YXBWakJ0eEFHdzdYdEdsbzFNNjZYZVZ5VmJLTzBGOU9RN0VrYkoxOTJ6eHJncVRZMVpMN3lGal9WbEl6OEVNNk55MGpBVXhrSU1idlB5SEVWRHpsODUxN0JNMGx0b2ZoYkpRVUpwUU1HRU9uZXlYN3I0TjBCQjR3TWt2eUY4eEVieVAtN1VOcURBSDlDQXN5?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-09T06:56:32Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/09/mundo/noticia/estados-unidos-vao-proibir-importacao-lacticinios-bebidas-alcoolicas-canadianos-2187452"
     },
     {
-      "title": "Índia recebe cúpula do Brics em meio a divisões sobre guerra no Irã - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWRPVW5SajBZdTY5QmZCdDJhTWtpcEFYMFh5QTFXblRsSEQtbW5IVUZDd0FpYWJ4M2gwMlYzVFdtMVRlX1JWTVhqdExRSjVQRlRISHRhN09sN3ppVDRzeXhwOEFSRWFHVEtKUFdjR1JabnItLTR2VUg1QmhQbEFkZFUzX3ZfNUtUSVdiTFlDSnNYYnQ5RldfSnBsLXRTQThjY2FHcTVyRHRRZw?oc=5",
+      "title": "Trump prevê fim da guerra com Irã após eleições de Meio de Mandato - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEZDUmxIdEpOMlZhQkdSLTlhRThaWlFscjF5d25nRkNZckpVRkMxM0trNmxkTVpvdlpYbXR4VjZ2bXljODFURVA2d0tsWkNYWjFmOWxnTmJSMGJzX0poWmE3XzAxMkJVRFZqZ2wyWksxdG9VYnVLMEphYmQ0Mm1MNWxqVncweklOV1l4cmJHNWtXcGx3aTdLOG5sa1JsWlhFa3MxX2RkR19BVWNVdXY4?oc=5",
       "source": "CNN Brasil",
-      "publishedAt": "2026-09-10T10:54:56Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.cnnbrasil.com.br/noticias/india-recebe-cupula-do-brics-em-meio-a-divisoes-sobre-guerra-no-ira/"
+      "publishedAt": "2026-09-10T06:33:21Z",
+      "description": "Presidente dos EUA volta a ameaçar ataque a instalação ligada ao programa nuclear iraniano",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/2025-04-07T111654Z_1_LYNXNPEL360EZ_RTROPTP_4_USA-TRUMP-IRAN.jpg?w=1200&h=630&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/trump-preve-fim-da-guerra-com-ira-apos-eleicoes-de-meio-de-mandato/"
     },
     {
       "title": "Putin apresentou a Trump uma visão \"distorcida\" da guerra para pressionar a Ucrânia - CNN Portugal",
@@ -191,13 +191,13 @@
       "articleUrl": "https://www.plataformamedia.com/2026/09/09/putin-trump-e-xi-poderao-reunir-se-em-novembro-no-sul-da-china/"
     },
     {
-      "title": "UE dá luz verde à compra de mísseis Patriot pela Ucrânia - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxONlJIWDNEck9aVUtsUjNJc2ZjRHA2akpTaG1FU2F6cEVJZHNtZ05XaEVIZ3BnR3VWMWlwSGlzQXZpR28wR3VvZ1BYSG1adDRPcm5iallOUFFRQ0dkME5iZ0lTbFBlSS1kTW44aVUweVdyTjUyU0ZlMGVoRm5FdUdBSEhmYWlNSWJEWXdkLUE4bThaWjN2ZzVaQWt1Z3pLNUhzVndHNzdaekdFMlBvX3hsOV9EeTJ0MTc0Rmc3N09tekhYbGp2QUFNTWpxelk3OF9Ka2FXaE5HdXRqZl9WQkthWG1sc2pzLVh5YWRjdDZ0QUhURkUzSzhteEZKTEozR21yME53cGpnQ3BLMm9tRm5OSURMdVpZWXZlamt5S093cGJVa1R2dUwwU2xHZ2hGanhyMnlfVGpKWkJDNDJyMUd3Znc4VlY1alZlNi1nb012YUF0QTZuRXQ5bnNfZHA5dDJrQmhCQWZOalZnU2duQ0xZUWlyQ0c1RGtyNFhoMTYtUElfQnpNSlZVbg?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-08T14:33:41Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-08-ue-da-luz-verde-a-compra-de-misseis-patriot-pela-ucrania-f0162cb0?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/guerra-ucrania/2026-09-08-ue-da-luz-verde-a-compra-de-misseis-patriot-pela-ucrania-f0162cb0"
+      "title": "Trump diz que guerra no Irã terminará logo após eleição de meio de mandato nos EUA - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQakVuaDhDRGtUSmFDVEl6cmpCaEJiQW1nTmFKbXRpUFpQbUc3LXg1eHhsc0FoRGNjeEMzd3dza3V1N19HbG1Rd28yS19QM1o1SGdKeU53SWFhLWtQWlNtY2I2TU1Nc3B0Nm1IaEFCWUFSRkk3TTF6SmR4S0NybElINlVmZUZkUTEwZEgzeHdfQm9lcU11N1FkTzNaWEZDWUlOTEpYNnNyNkJpb3Jfc2RpODdEZ2NrNDFCZmdtcXNvOVN6ekhLMmI2bzdXOHQ?oc=5",
+      "source": "folha.uol.com.br",
+      "publishedAt": "2026-09-09T20:24:00Z",
+      "description": "Americano afirma que Teerã tenta influenciar pleito de novembro, mas que não conseguirá resistir a pressão",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/09/17889838006aa1b9f8a9b1b_1788983800_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-terminara-logo-apos-eleicao-de-meio-de-mandato-nos-eua.shtml"
     },
     {
       "title": "EUA retaliam após novo ataque do Irão contra navios norte-americanos - RTP",
