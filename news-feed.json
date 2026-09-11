@@ -1,28 +1,37 @@
 {
-  "updatedAt": "2026-09-11T20:28:10.235271Z",
+  "updatedAt": "2026-09-11T21:25:39.869331Z",
   "health": [
     {
-      "title": "Hospital de Santa Maria tem novo modelo de urgência - rtp.pt",
+      "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm1wNHNtQTk2ODZ4QkJLWk5QLXljQldHd05GcGRQNDhITUVUZjEwOGlxZ1M3RXBXNDRwLUREU0QzU0ZhSkJpZGswVFJMZzRZMnJQQ2VoSUpjRWN6bTFhZ1dhTjN6UFg0VFV6UkVQT2dmbnB1SmpySlFNUzhINi1YZzZpWjVzSUQtU1kzaGJVeGlZUzQtN2hsaw?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-11T12:34:47Z",
       "description": "As alterações no circuito de atendimento evitam a permanência em macas e agilizam também os internamentos.",
       "image": "https://cdn-images.rtp.pt/icm/images/f2/f26654736c165230bf7544e8adf0f383_N.jpg",
       "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
     },
     {
-      "title": "Porto investe 11 milhões em centros de saúde sem PRR - Observador",
+      "title": "Porto investe 11 milhões em centros de saúde sem PRR - observador.pt",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaWhyM3E1N2Z1YWo4eWpvZ1MwSG0zOTJ5WWdDUDQzQWY5MUh3LUVPclJ0YWM1dGRBOE5nb3BkUFA4QlotTWZnbWJEODdXS1lkWTRnUVZFZ2pqRE8wWEtmd1RTakk5amI0ck5Mbmx5M3ZOeWZVTTdjREZVWV9xZm0xQUktSFBYQkszTWtqYnQ4T1FCcC1mcHh3bFJQMDJ2bEZ2TWJQdG5hMmVZcWxLdnFyay1NX0RDdlRhcDJQaFFmc0VsY1RpanlSeE1OYXhDRURpUG8zTC14Y1NxOTRpOUQ5QTFybDAzalpnRG9jdXJjbHA?oc=5",
-      "source": "Observador",
+      "source": "observador.pt",
       "publishedAt": "2026-09-11T17:45:42Z",
       "description": "Falhas no processo de descentralização da gestão do PRR obrigam autarquia do Porto a assumir investimento avultado. Pedro Duarte vê como \"justo e adequado\" que Estado apoie futuras obras na saúde.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4032%3A2270%3Anowe%3A0%3A716%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F11180030%2Ftempimageudiwoj.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/09/11/com-criticas-ao-estado-central-e-quase-sem-apoio-do-prr-camara-do-porto-avanca-com-11-milhoes-para-construir-centros-de-saude/"
     },
     {
-      "title": "Fundo Vivalto Partners põe dona da Lusíadas Saúde e gestora do hospital de Cascais à venda - eco.sapo.pt",
+      "title": "Projeto quer transformar extensão desativada em “Casa da Saúde” - Região de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFd5Sk9aVWlGVE53bHJDOG40cFJWeFNpd29rSy0tbHVoVFJlWUhMSXdXYkZzcDF2UnhxT01yNXQ1elFLT29VYldmN0d4SG9TSEo5bnJuWlBLSTh0cndlTTNQaWVRd2JpYXplcU9mSXVFTEUxNWVjQ0x3TTJaWGV5MW9ZdEFuT2pGaVY5TTV4R3YzQ1JKN2E0QktMalhaVnpjd1E?oc=5",
+      "source": "Região de Leiria",
+      "publishedAt": "2026-09-11T20:30:00Z",
+      "description": "Objetivo, frisam os promotores, não é fazer diagnósticos com as atividades ali promovidas, mas identificar fatores de risco e encaminhar os participantes para os cuidados adequados.",
+      "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https://www.regiaodeleiria.pt/wp-content/uploads/2026/09/P24_MOITA.jpg",
+      "articleUrl": "https://www.regiaodeleiria.pt/2026/09/projeto-quer-transformar-extensao-desativada-em-casa-da-saude/"
+    },
+    {
+      "title": "Fundo Vivalto Partners põe dona da Lusíadas Saúde e gestora do hospital de Cascais à venda - ECO",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3dnaVEzZnJWRDZWRFJTUHhTVDlwWFZSTXF4MU5Rc2c1QUJGMTVWU3drc0dvR0szOGZlbGZJWjdIZzF0bGRib0RWcFI2Uk1SVnBqNzdXekkzeFlzbXlXM29vWGpGZkVFcGRGSzY4UUpTc0VxMW04dnFJZkZqcVlzQ0FsSjctdlZMdzl5Q0dzdGNJb3N4dkZGODdUbnNCa0U4ZUZxc3ZqYTN4UTExeS1ROElmN1hWX1h1Y05LZHRNZw?oc=5",
-      "source": "eco.sapo.pt",
+      "source": "ECO",
       "publishedAt": "2026-09-11T14:01:38Z",
       "description": "Grupo Vivalto Santé está em processo de alienação, coordenado pelo banco de investimento Houlihan Lokey, com o objetivo de reduzir o endividamento, avança o 'El Confidencial'.",
       "image": "https://eco.imgix.net/uploads/2024/01/cropped-23807653-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
@@ -45,6 +54,15 @@
       "description": "O novo hospital de Santarém, que se apronta para abrir portas, convidou instituições da região a plantar árvores junto à unidade de saúde, numa parceria que visa reforçar a responsabilidade social do grupo e estreitar laços com a comunidade.",
       "image": "https://images.impresa.pt/mirante/2026-09-11-original.webp-1fdd2919",
       "articleUrl": "https://omirante.pt/sociedade/2026-09-11-nove-instituicoes-vao-criar-raizes-nos-jardins-do-novo-hospital-da-luz-ribatejo-c791eb6a"
+    },
+    {
+      "title": "Moçambique prevê registar seis milhões de casos de doença devido ao El Niño - Lusa",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYmc5Y2h6ZzRvNl9nR2lpUTZPa0JObEpxSHVRWTdQN05fTDBJRUMtSnhYM2xpTnhnTHpYcGpsRFFsYTZ6QjVXWU1kSEViRWNRSVFCandoNEEwOEtqTl9ienlrOEFtVHB6S1R4VEFjVUpPOXQzZWdFNEtucE9HbjhEZ2NaakNFZnJieEZKamR0Zm1UU2hYMy1HTE5nN1I3WHZ5dVk4anN4MGc0akx1S2pVU01hQlZxbGEzZ3d2X0lrc2tIUG42WXlpdEI5OGtLenl1SnJDRUM0V0p6MGhFYXdTcWcteW9OX3RmX3hzZm1pdw?oc=5",
+      "source": "Lusa",
+      "publishedAt": "2026-09-11T14:48:00Z",
+      "description": "Moçambique estima registar seis milhões de casos de doenças sensíveis a mudanças climáticas, com destaque para a malária, meningite e diarreia, devido aos impactos do fenómeno meteorológico El Niño, previsto para o período 2026-2027, foi hoje avançado.",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_29265517_2779821_24072020115650.JPG",
+      "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-09-11/47758215/mo%C3%A7ambique-prev%C3%AA-registar-seis-milh%C3%B5es-de-casos-de-doen%C3%A7a-devido-ao-el-ni%C3%B1o"
     },
     {
       "title": "Saúde: da proposta à implementação de políticas públicas - Expresso",
@@ -74,29 +92,11 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505106-paulo-barreto-manda-publicar-nova-organica-da-secretaria-regional-de-saude-e-protecao-civil/"
     },
     {
-      "title": "Greve do INEM desconvocada após reunião no Ministério da Saúde - dn.pt",
+      "title": "Greve do INEM desconvocada após reunião no Ministério da Saúde - Diário de Notícias",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlFpVzJ2MHVxSld4Rm5zZVg4SndHM3hVeTUxMDRwaVdNSTdDZ0Jocl9BZE5LQkFNUF9hamtibzVJcnhVZWdqWEwwS0FWUFpFX0tLRW5nWXBjcUV2VWRVeEhiekZFMXpYOVpHb3I0cnRFLXZCQjVDWFJzWDAwc1ZXQTVJMDZiYUtybGt4Q2VfYw?oc=5",
-      "source": "dn.pt",
+      "source": "Diário de Notícias",
       "publishedAt": "2026-09-11T11:46:53Z",
-      "description": "A greve no INEM marcada para os dias 14 e 28 de setembro foi desconvocada, após a reunião da manhã desta sexta-feira, 11 de setembro, entre o ministério da Saúd",
-      "image": "https://media.assettype.com/dn%2F2026-01-08%2Fbfotdl3v%2Finem-1.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/greve-do-inem-desconvocada-aps-reunio-no-ministrio-da-sade"
-    },
-    {
-      "title": "Moçambique prevê registar seis milhões de casos de doença devido ao El Niño - Lusa",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYmc5Y2h6ZzRvNl9nR2lpUTZPa0JObEpxSHVRWTdQN05fTDBJRUMtSnhYM2xpTnhnTHpYcGpsRFFsYTZ6QjVXWU1kSEViRWNRSVFCandoNEEwOEtqTl9ienlrOEFtVHB6S1R4VEFjVUpPOXQzZWdFNEtucE9HbjhEZ2NaakNFZnJieEZKamR0Zm1UU2hYMy1HTE5nN1I3WHZ5dVk4anN4MGc0akx1S2pVU01hQlZxbGEzZ3d2X0lrc2tIUG42WXlpdEI5OGtLenl1SnJDRUM0V0p6MGhFYXdTcWcteW9OX3RmX3hzZm1pdw?oc=5",
-      "source": "Lusa",
-      "publishedAt": "2026-09-11T14:48:00Z",
-      "description": "Moçambique estima registar seis milhões de casos de doenças sensíveis a mudanças climáticas, com destaque para a malária, meningite e diarreia, devido aos impactos do fenómeno meteorológico El Niño, previsto para o período 2026-2027, foi hoje avançado.",
-      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_29265517_2779821_24072020115650.JPG",
-      "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-09-11/47758215/mo%C3%A7ambique-prev%C3%AA-registar-seis-milh%C3%B5es-de-casos-de-doen%C3%A7a-devido-ao-el-ni%C3%B1o"
-    },
-    {
-      "title": "SPMS participa na terceira edição Health Parliament Portugal 2026 - SPMS – Serviços Partilhados do Ministério da Saúde",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0lRd2Y3NldWaVduYThId1daS0x5ZlpxMGxDVDE4VmVMVFdIYzdEMWpSd2FLM3lnM0FPZ0NCeG5rY29SekFtQlVzV1FkQ3IwQnQ4bHJCVWNQUVZJSVZWdVo0OTlkRklOcEt3dlg3ckxVU0tKYUphY0JRWktDTjBwT3U4OTNKUVpzQW9GQnlTZFFIQWpYdmNyU2tNTEZlSU5rcGtlV2J2VQ?oc=5",
-      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
-      "publishedAt": "2026-09-11T14:57:12Z",
-      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Diário de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -115,7 +115,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-11T17:30:01Z",
       "description": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos....",
-      "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwHI-TYX&_nc_oc=Adpk4VALCbpnMYXnglk1ACwgqRMMnfSBgcO9ocgFq2uqI3MxMiVxv8BA_CPsnD61H6s&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=5ys5VPAq0O8gepfm6fDlXQ&_nc_ss=7820f&oh=00_AQL0wKnHsXjKGye4Eao50CDYzInsHPZVrh4gj_Z9Fyu8jA&oe=6AAA370F",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwGmPbC2&_nc_oc=Adqhcb6RdzXxD5qC-YcfFT_ZduEvr9YNCZ80P6VYeYbMj_hnRRrhLWYooUUW3NpQzbQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xTk_N1S9L_v9TM8DR8afeg&_nc_ss=7820f&oh=00_AQJtoarohbKpFCkX56FmjJEoQiXYSL18aSlL4fgCJSftmA&oe=6AAA370F",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/se-eu-pudesse-fazer-tudo-de-novo-faria-exatamente-como-fiz-disse-o-presidente-do/1473543658210246/"
     },
     {
@@ -137,18 +137,18 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505051-gasoleo-supera-pela-primeira-vez-os-seis-dolares-por-galao-nos-eua/"
     },
     {
-      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Notícias ao Minuto",
+      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - noticiasaominuto.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEVPa3dGclpjQXJxSzNpWC1lOEdMT3BpX0NLcXNVRGhtVE03QW56dGdiNHIzbVpVUjJnd1V3RGtTUEFSdVA0Ui04ck5QYXVpZjV4Yi0tcVNsOTd1ejl5ZHFtMlAzSHR5VEZ1N0dPVGNOVDdYZkxwdVlETDZoOElxdGROcFRSaktUdjAtLXAyM3hSWXQ2eHh2RUdaQ3dnU0poVnI2VUo3R0FZdy1XTlNwdzBMRm9TdWhHelN0Q1R5RFcyRlpySHc?oc=5",
-      "source": "Notícias ao Minuto",
+      "source": "noticiasaominuto.com",
       "publishedAt": "2026-09-11T19:23:17Z",
       "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da c...",
       "image": "https://media-manager.noticiasaominuto.com/960/naom_6842e13f644f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc0LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6MCwiY3JvcFkiOjIxNX19",
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3050149/irao-india-pede-a-presidente-iraniano-para-resolver-guerra-atraves-da-diplomacia"
     },
     {
-      "title": "Ucrânia em conversações com a União Europeia para aderir à IRIS 2 - eco.sapo.pt",
+      "title": "Ucrânia em conversações com a União Europeia para aderir à IRIS 2 - ECO",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYktDdG55alJIajQ4RlBNM3dzWGkxZXdGX0xWWlVtWDg4cjFPdDh5aHdWdVNyZkE3TS1IMTE3bmxQZE5mTTVIc1dXbWR4eTNCN1prYkllNy1OWWtGSG9FS3hzaEVyc21lMVY0SHplekkxLTMzcXFHcXlRckV3T05wVFR6REIxcmt2V0M0RE01cVJlcFNkd2M2MFhEMGIzQQ?oc=5",
-      "source": "eco.sapo.pt",
+      "source": "ECO",
       "publishedAt": "2026-09-10T19:32:46Z",
       "description": "A Comissão Europeia iniciou negociações com a Ucrânia para a adesão aos programas de comunicações seguras por satélite da UE, numa altura em que procura competir com a Starlink.",
       "image": "https://eco.imgix.net/uploads/2026/01/cropped-andrius-kubilius09.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
@@ -159,14 +159,14 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemh0X3FFcVdoblZPYm1iS29fZk93NHlSSExkVVlXS19tSDg4X05TTWRVcFZoRGtaLVRaNEpkbzNjNE41Z1RPalJWS3B3cVNFNEFSTy1ZcGN6UXlXbmlRY0NWY2Z0QTJXd1hOZjl4dklUZTYzaFlORV96LW13c3FNR2dMQ2NDelVpQ2ZDaWlNbGYwV0RlS3E5c0dtRGlaaDdMVDdJQm5UVHNVSjdaSlVUdUtwem1uZmZfbFhMaXlyT2E5dTdM?oc=5",
       "source": "areferencia.com",
       "publishedAt": "2026-09-11T19:13:44Z",
-      "description": "Guerra no Oriente Médio coloca Irã e Emirados Árabes Unidos em lados opostos às vésperas da cúpula do bloco, que reúne 11 países em Nova Délhi",
-      "image": "https://areferencia.com/wp-content/uploads/2023/08/53136599816_1b061882b8_c-1-e1693234472218.jpg",
+      "description": "Notícia publicada por areferencia.com. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://areferencia.com/destaque-home-principal/brics-descobre-que-desafiar-o-ocidente-e-mais-facil-do-que-concordar-entre-si/"
     },
     {
-      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - Jornal SOL",
+      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - sol.iol.pt",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWpJNHl0Y1I2aG5GeFdXMnM5UWp0U0VsUkJBYXBuSDhsN0lXd0Y4TEY3X0lLQmVoRGlCNTNqRDZ2dXNZYlRmNnhQdlJabjUwQUFUTmRFQUJLWTlITkx3eE4wS2d0UUdudEVEN3RUZkpWXzdWMWs3WGdWSTdnQUljUnBLWkRsVExDSjRGRmhOcWNiZ0FQWG5EaVRQbXR0U1lfT1FkYXhXNkNKSDFOVVJwNzV1dDRzeS1QVFNhMjZ4YTNnMzcxeDd6bmdaM3NBWHN0RzctSm9DUXM?oc=5",
-      "source": "Jornal SOL",
+      "source": "sol.iol.pt",
       "publishedAt": "2026-09-10T11:19:17Z",
       "description": "Os pedidos de proteção internacional na UE+ caíram para 332 mil na primeira metade do ano, atingindo os níveis mais baixos desde 2021. Segundo a Agência Europeia para o Asilo, a escalada de tensão no Médio Oriente não fez aumentar os pedidos, com a França e a Itália a liderarem as receções",
       "image": "https://img.iol.pt/preset/6aa2953f0cf20dc52778bdfb/og/sol",
@@ -200,19 +200,19 @@
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
     },
     {
-      "title": "Putin chega à Índia para cúpula do Brics marcada por tensões geopolíticas - Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWhWVktoMWI4T2k5ZHhORWdrWGRwNzE5cGVWcHdrdzZjTVpESXo1dVhrY1FpTzZkNWZGc01iMHF0d3FMdW1jTzBOSElER1lUR3F6RjVpTnMxRlFKcndfbUZIMGs1Qmx2UENpcWNfb0I1N19jdVBnd2x2NlFPLS1VdFE4SU83bXBGWGZIRUpBamdYU2JMaHZSa2FLazZVcDJicmxER1FNajN2d3fSAasBQVVfeXFMTm1oVlZLaDFiOE9pOWR4TkVna1hkcDcxOXBlVnB3a3c2Y01aREl6NXVYa2NRaU82ZDVmRnNNYjBxdHdxTHVtY08wTkhJREdZVEdxekY1aU5zMUZRSnJ3X21GSDBrNUJsdlBDaXFjX29CNTdfY3VQZ3dsdjZRTy0tVXRROElPN21wRlhmSEVKQWpnWFNiTGh2UmthS2s2VXAyYnJsREdRTWozdnd3?oc=5",
-      "source": "Folha PE",
-      "publishedAt": "2026-09-10T23:53:04Z",
-      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
       "title": "Preço do diesel atinge máxima histórica nos EUA - CartaCapital",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzJtU1dxbk16czNFbVRmSXg5NXl4a1VDRHA2TnJNS0FUNVZvQTJQZzZrRjd6Vi15UGJaSDB4Z0hsRDRZNjU5VURWZFR6Q2V6bjA3b2FZVzhKSGNKN05TdTVTYTZoRVJZMERKRXhweFlzc0p4SktEbFdaZmIzaFhMaWQwdGhScjJyVWJSWmprbw?oc=5",
       "source": "CartaCapital",
       "publishedAt": "2026-09-11T10:22:00Z",
       "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Putin chega à Índia para cúpula do Brics marcada por tensões geopolíticas - Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWhWVktoMWI4T2k5ZHhORWdrWGRwNzE5cGVWcHdrdzZjTVpESXo1dVhrY1FpTzZkNWZGc01iMHF0d3FMdW1jTzBOSElER1lUR3F6RjVpTnMxRlFKcndfbUZIMGs1Qmx2UENpcWNfb0I1N19jdVBnd2x2NlFPLS1VdFE4SU83bXBGWGZIRUpBamdYU2JMaHZSa2FLazZVcDJicmxER1FNajN2d3fSAasBQVVfeXFMTm1oVlZLaDFiOE9pOWR4TkVna1hkcDcxOXBlVnB3a3c2Y01aREl6NXVYa2NRaU82ZDVmRnNNYjBxdHdxTHVtY08wTkhJREdZVEdxekY1aU5zMUZRSnJ3X21GSDBrNUJsdlBDaXFjX29CNTdfY3VQZ3dsdjZRTy0tVXRROElPN21wRlhmSEVKQWpnWFNiTGh2UmthS2s2VXAyYnJsREdRTWozdnd3?oc=5",
+      "source": "Folha PE",
+      "publishedAt": "2026-09-10T23:53:04Z",
+      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
