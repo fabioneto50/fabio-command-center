@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-09-11T09:28:28.733146Z",
+  "updatedAt": "2026-09-11T10:28:31.462346Z",
   "health": [
     {
-      "title": "INEM. Sindicato reunido com Ministério da Saúde para tentar travar greve - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEZwZWZidlVES0NTT3dfNlVIZ2I0bnJaVEFxVWtpLTVqZWV6SlZNdi1Dc1BKbkF6UVN6T0VvWFFMZk5KMGVhZ0toU3g4bmlDUHZXRERtNm1wRXl6UFpRckZHWGdmRHZlZW4tc3ppa0V2dF8tYjFSM1lLc3F6MHdqWjNXSGtEXy1WYnV2em1HZE1pdGpHM21OQnFxX05qNjJ4aGpyX3NfRkdvRWVIRWgyZ1dnUQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-11T08:31:47Z",
-      "description": "O Sindicato dos Técnicos de Emergência Pré-Hospitalar (STEPH) encontra-se reunido com o Ministério da Saúde com o objetivo de negociar e evitar a greve agendada.",
-      "image": "https://cdn-images.rtp.pt/icm/images/95/95842f833e8c3dc46eb3fcd13c72b446_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/inem-sindicato-reunido-com-ministerio-da-saude-para-tentar-travar-greve_v1764786"
+      "title": "Saúde marca eleição na Suécia: grandes promessas, poucas soluções - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlJNM1RGNDJJNE1lYTUyU3g3cmtuMHhvMTQyNFZmQjlTbW96bGFUR2RfXzZqckJLcnBVaEhHYmFXakpzZm1sQjVXMVVjOTZzbXlXSEFsZFZ2RXFRWFZkT1B6VGFiaXpzQWt2a1NEaVQxaVc1ajVmTTd5UFZyMld3SU5JZWJ1U01CNERCS21DajRJNTZ4N2tVb3l0aDhWR2hVSDdoazJKUQ?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-11T09:28:40Z",
+      "description": "Eleições suecas de domingo centram-se em recuperar o sistema de saúde, prioridade para os eleitores, mas especialistas dizem que as promessas falham o essencial",
+      "image": "https://images.euronews.com/articles/stories/09/90/90/04/1200x675_cmsv2_100280ba-6f88-5037-8662-25a9b4eec1db-9909004.jpg",
+      "articleUrl": "https://pt.euronews.com/saude/2026/09/11/saude-marca-eleicao-na-suecia-grandes-promessas-poucas-solucoes"
+    },
+    {
+      "title": "Médicos pedem indicadores ajustados à falta de recursos e à população envelhecida para as ULS do interior - Público",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRi1XR1RaSFltV1VXcXFaeV9vOGUweEQ3ZGxXTk9OVExTZzdkTExCYWVHSlpwU3FidkZGQUtHWDJnc0FtS3JhN1F4WUduUi1abnBxc0xpTUduYmV5ZWVLeGRjdzk5OF93MHpxbm04WVJZZDJtZ2RRSFZVSHlsNENXUXQ1eWE5RzQwc092aWhWVnE5M0VJVFVKQTY2RGJaWWdFd1J2ZWllemQ1V0J6aEdPSGJJSHpCSGxfWTBUeTZzSU9vdVMxXzRWUEt4c2NsaWdVdlRRem9relBCZjNibWZzdWZDZ29IbDBoU0szb0NPTS0?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-11T10:24:38Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/11/sociedade/noticia/medicos-pedem-indicadores-ajustados-falta-recursos-populacao-envelhecida-uls-interior-2187709?ref=sociedade"
     },
     {
       "title": "Rotunda do Hospital é o paradigma do início do novo ano lectivo - dnoticias.pt",
@@ -20,6 +29,15 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505033-rotunda-do-hospital-e-o-paradigma-do-inicio-do-novo-ano-lectivo/"
     },
     {
+      "title": "INEM. Sindicato reunido com Ministério da Saúde para tentar travar greve - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEZwZWZidlVES0NTT3dfNlVIZ2I0bnJaVEFxVWtpLTVqZWV6SlZNdi1Dc1BKbkF6UVN6T0VvWFFMZk5KMGVhZ0toU3g4bmlDUHZXRERtNm1wRXl6UFpRckZHWGdmRHZlZW4tc3ppa0V2dF8tYjFSM1lLc3F6MHdqWjNXSGtEXy1WYnV2em1HZE1pdGpHM21OQnFxX05qNjJ4aGpyX3NfRkdvRWVIRWgyZ1dnUQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-11T08:46:07Z",
+      "description": "O Sindicato dos Técnicos de Emergência Pré-Hospitalar (STEPH) encontra-se reunido com o Ministério da Saúde com o objetivo de negociar e evitar a greve agendada.",
+      "image": "https://cdn-images.rtp.pt/icm/images/95/95842f833e8c3dc46eb3fcd13c72b446_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/inem-sindicato-reunido-com-ministerio-da-saude-para-tentar-travar-greve_v1764786"
+    },
+    {
       "title": "Receção aos Novos Alunos da ESDH - Universidade de Évora",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81VWlTRWdwd19mUkdlVzNhVVdpcGVJQ3I1dlZNSGtlNVcxRFY5OVNNbHNEY0ZuVzZzM3FieGMxUDc1czZzNlZZeFVHcTJnV0hTTlZ0X0NNd3NwaEVGLXhoWDk1NVg2MTk3MlRTMzBndkNNUVk?oc=5",
       "source": "Universidade de Évora",
@@ -29,13 +47,22 @@
       "articleUrl": "https://www.uevora.pt/unidades/organicas/esdh/noticias?item=47418"
     },
     {
-      "title": "ULS do Algarve desmente proibição a trabalhadores que frequentam Medicina - healthnews.pt",
+      "title": "ULS do Algarve desmente proibição a trabalhadores que frequentam Medicina - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3VJUUFDc2xhVExtdnBiY2tDSUpoLXVZcXBLOEJ2NDhRSFJOak1OdzhKSVFuV0M3TlBhVUVzOXg1bUUwMk5CN1hmdUFLUmtIOVNlMDBjMXoycDNNanB4WGNnRC1qM3ZjNmRMOWF1ZTF6WkwxdTFROENyTlVYY3E0d3lydjdRQTBxLXFFWkc3NHpiX0JhYlpaZDVXLW9NZTA0SF9lXy1zQ3IzZjQ?oc=5",
-      "source": "healthnews.pt",
+      "source": "HealthNews",
       "publishedAt": "2026-09-11T06:21:01Z",
-      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/11/uls-do-algarve-desmente-proibicao-a-trabalhadores-que-frequentam-medicina/"
+    },
+    {
+      "title": "Observador. . Notas de 0 a 20 aos protagonistas da atualidade política. Comentários de Bruno Vieira Amaral, Paulo Ferreira, José Manuel Fernandes e Sara Antunes de Oliveira. #EOVencedorÉObservador #Direto #Política #Saúde #PedroPassosCoelho - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjRCYVU5a3hYUDZ2UDEtZjFabUwzcTd1VTA1MS1oaktZVGgwOV9UZHI4YzkwSnJ4MTVvUmhORUZmWFo1bEVtZ0lDQ1JIQTctSnNoUHdBa244TlY0VDZkLTVhRU5za1NOYzRMU0NTWXlNSUU5NFduLWx5RlNKU2ZaUkhTVTBkZGFwMldFOUJhWHE5QzRvNkFpN3dGTlNjX0JkU2ZIUGh0LVJ0Vng3VjNhX0x0NmJEQktyMXhieVFac0ZueTB5dVpFcQ?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-11T07:37:18Z",
+      "description": "Notas de 0 a 20 aos protagonistas da atualidade política. Comentários de Bruno Vieira Amaral, Paulo Ferreira, José Manuel Fernandes e Sara Antunes de Oliveira. #EOVencedorÉObservador #Direto...",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/805119740_1046605458274453_7209441720388536282_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a27664&_nc_ohc=Upkjd9MSCegQ7kNvwELPTxR&_nc_oc=Adqt4KUtp6jPDTVX80wPQc509jsqxRYXDAFRGejXGYlws2rVbmG9QJhuQVWcaUCTT3w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=KKmSoIatbEtOy6wYaqicsw&_nc_ss=7820f&oh=00_AQLLkx79twbbgtuPKsZad9fYQFpKGf3DCnYg065VXEthZA&oe=6AA9A56E",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/videos/o-caos-da-sa%C3%BAde-e-as-farpas-de-passos-e-o-vencedor-%C3%A9/1046604574941208/"
     },
     {
       "title": "Urgências do Hospital de Aveiro poderão entrar em obras antes da ampliação - Observador",
@@ -47,64 +74,37 @@
       "articleUrl": "https://observador.pt/2026/09/10/urgencias-do-hospital-de-aveiro-poderao-entrar-em-obras-antes-da-ampliacao/"
     },
     {
-      "title": "Incentivos fiscais, vagas prioritárias e centros de afiliação: o plano da Ordem para levar médicos para o interior - Público",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWGEwNW9GR2VjeTBEVkE3OXFTQlZDOG1Va184OGtwOUZhbUhodFZSenowbkxJNkEyZTIxRWlKR3N1QUxoOHdGemhuYVlZS1dEX1JWZUhoN3oyNjFIUkdNcjFKRUVCSEREM2h6ODZDd0luUWtONDhHVm9zMHRCT2tDamp3ZC1rMFVhUENvZm13NWVfZ0JPRnp5THNIMHNkZFZfLThzbml6d2FqcEpkMGdNMjJUdW9RVmhmUUlISzU2YkNwd3d3Y1dXUGFTRF9qX1NQYkF0LXlYWldseE9rMjI2VXNlQ0E?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-11T06:01:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/11/sociedade/noticia/incentivos-fiscais-vagas-prioritarias-centros-afiliacao-plano-ordem-levar-medicos-interior-2187634"
+      "title": "Urologia do Hospital de Guimarães em destaque no maior fórum europeu de cirurgia robótica - O MINHO",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGJSYUVxNkNqdkp2ZW1TUWplc05qTWNRMDBqQ3pQT3owOWZxc2pwb3dVRTU2cnY5dk9oWkhjQUxNSDBHa0R3Z0RwR2EwazQtTS1OQU9jc1BOUHF4cTlGQXY0VDM2RXkyRXlaTVJ0TmZkUExtZDZrdTdvUE5RUnV5SHBpdzREQW95TjJEajdYdVBwdGp4ZTJBRGtMT05pY010SU9EQkNnOHB1SFJD?oc=5",
+      "source": "O MINHO",
+      "publishedAt": "2026-09-11T09:07:02Z",
+      "description": "Equipa apresentou 9 trabalhos científicos",
+      "image": "https://ominho.pt/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=650234&type=watermark&hash=bfdfd0dbacde011a3f4858a2bb2efa52",
+      "articleUrl": "https://ominho.pt/urologia-do-hospital-de-guimaraes-em-destaque-no-maior-forum-europeu-de-cirurgia-robotica/"
     },
     {
-      "title": "ULS do Algarve nega ter proibido trabalhadores de frequentarem Medicina - jornaldoalgarve.pt",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENDTFpjZ1pZdDUxN19QdGlQdllQZnBpWnFZQndvRFVMRVdTV2Y2RWZPYTgwbGtqOXF0NW90UHd0dlVZVzl2cWtISWkwVVFtbGNrdWFhRU5ZeU5ZQ1YtbEdMaEtUdFg5NUtRZ3poQzZTZ2hzaU1hMGpHdTFkZ1BhS0JveDVzdUNWRGFacTBZX0xxblBfaF9qYU9kX2VLZGNI?oc=5",
-      "source": "jornaldoalgarve.pt",
-      "publishedAt": "2026-09-11T09:15:36Z",
-      "description": "A ULS do Algarve negou ter proibido os seus trabalhadores de frequentarem o curso de Medicina da Universidade do Algarve, esclarecendo que as declarações de Tiago Botelho “foram indevidamente interpretadas e retiradas do respetivo contexto”. Na terça-feira, o PS questionou a ministra da Saúde sobre a alegada decisão da ULS do Algarve de impedir trabalhadores […]",
-      "image": "https://jornaldoalgarve.pt/wp-content/uploads/2022/03/LOGO_OG.png",
-      "articleUrl": "https://jornaldoalgarve.pt/uls-do-algarve-nega-ter-proibido-trabalhadores-de-frequentarem-medicina/"
-    },
-    {
-      "title": "«Empreender em saúde tem uma complexidade acrescida.» - Revista human",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUhDVDctTUdUSlFqZUxSQ2psVGd0dDR4V1VoTjBSdHdaVDRVX3c2OGxKelFTb0pUOUhua29ud0tLLXZma1FoX0JKQnF2Z0w1UElwSGVodHZWOFVjc2RMcTgwZ084Wk1SU2VFbzZlV1c5aXFReW8tQkNXMV9OdWF6MjkyMGFtVDc0eUJR?oc=5",
-      "source": "Revista human",
-      "publishedAt": "2026-09-11T08:55:53Z",
-      "description": "Notícia publicada por Revista human. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.human.pt/2026/09/11/empreender-em-saude-tem-uma-complexidade-acrescida/"
-    },
-    {
-      "title": "Urgências do Hospital de Aveiro poderão entrar em obras antes da desejada ampliação - LUSA",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDRZRER0TXlCUi1PZUNiRGd6eC02NW1UY3g3alJtSEtJc0JpQnVuMHl3VVE3aXR6VVRkXzFuZnpWTFc0a2ExVVNNVXNnczBHZ01DQS1yQTRrTWxQeDByelhWUTNidThCMElBQ2RTR1VRR0JDRlh5M0gyWlBFcUhDLWVCdmdVdnVPRmV1Rkg4OGZSQl9vNHd2U1E2ZXhWc24zRTBYUjVZMGNVWldCY2lZakR0a0NWbjZHa1M0MVhyMkV3NzlRdXdmZnQ1ZzVGenFRUlZicWVQbw?oc=5",
-      "source": "LUSA",
-      "publishedAt": "2026-09-10T22:01:00Z",
-      "description": "O presidente da Câmara de Aveiro informou hoje que as Urgências do Hospital de Aveiro poderão entrar em obras antes de começar a construção do novo edifício de ambulatório, uma obra estruturante há muito aguardada pela população local.",
-      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_22985475_2391837_07032019121655.JPG",
-      "articleUrl": "https://www.lusa.pt/article/47754081/urg%C3%AAncias-do-hospital-de-aveiro-poder%C3%A3o-entrar-em-obras-antes-da-desejada-amplia%C3%A7%C3%A3o"
-    },
-    {
-      "title": "Feira da Saúde Jovem de Paredes abre inscrições para expositores - Verdadeiro Olhar",
+      "title": "Feira da Saúde Jovem de Paredes abre inscrições para expositores - verdadeiroolhar.pt",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0NSSG44LTJZT2V0ZnVFMzNUMU56UkFzWkJEZ0FaVks0NkRSSDFLRWJjTHdyUzFBbktoSURqeXhaeTQ0eWM2MDRyeVA0R1M4SDA2UUMzZ3NDZWRaeGhfbHpSNms4MzhCeExRcTZXb2tXYzJDRXRJWC15RGJDS1plZ0F1RllDUl9YSjVmTF9PMUd1RHBIUW9aSHdnTFI?oc=5",
-      "source": "Verdadeiro Olhar",
+      "source": "verdadeiroolhar.pt",
       "publishedAt": "2026-09-11T09:19:05Z",
-      "description": "Notícia publicada por Verdadeiro Olhar. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por verdadeiroolhar.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.verdadeiroolhar.pt/feira-da-saude-jovem-de-paredes-abre-inscricoes-para-expositores/"
     },
     {
-      "title": "Torre Solidária contribui para os cuidados de saúde de cardiologia do Hospital de Gaia - Torre dos Clérigos",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWx4MzJqSzFWMHF1b0hPWXNPRzJEb3MtT1FwSk8wdXVTR0ZpU05Zd0JVYzlfU1N1SXFqQXIxSWZoMENZU2JUZm5tSm9mOWlHYmRYVmdZSDRYbHAtRFN6OGg4V0dCZXpwdUJBRHRMNXk3VHI1Y2d5UlZSSTVYajhiV2ctSVlabFZmcDlVbU96eW5la29JUDlkeER5UXdoamlQQTMzVlo4U2UyVVBabktJbXNSWFZuaVpMU0pN?oc=5",
-      "source": "Torre dos Clérigos",
-      "publishedAt": "2026-09-10T15:01:24Z",
-      "description": "Notícia publicada por Torre dos Clérigos. Abra o artigo para consultar os detalhes completos.",
+      "title": "ULS do Algarve nega ter proibido trabalhadores de frequentarem Medicina - Jornal do Algarve",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENDTFpjZ1pZdDUxN19QdGlQdllQZnBpWnFZQndvRFVMRVdTV2Y2RWZPYTgwbGtqOXF0NW90UHd0dlVZVzl2cWtISWkwVVFtbGNrdWFhRU5ZeU5ZQ1YtbEdMaEtUdFg5NUtRZ3poQzZTZ2hzaU1hMGpHdTFkZ1BhS0JveDVzdUNWRGFacTBZX0xxblBfaF9qYU9kX2VLZGNI?oc=5",
+      "source": "Jornal do Algarve",
+      "publishedAt": "2026-09-11T09:15:36Z",
+      "description": "Notícia publicada por Jornal do Algarve. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Pastoral da Saúde: Bispo do Funchal presidiu à Eucaristia dos 53 anos do Hospital Dr. Nélio Mendonça - Agência ECCLESIA",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWJ2azUtVlc1a1ZCaHYzYU03eDZZYlcxWHd4Ri04bnRhODhEQ1ZkMHYtUUJZcXVIU21QSm1jTEw5YnUybDF2R1V5SFhWaGlEWndMWENSY1VpbEx2Tk1oMWNoSU9wTVJRdjA1YjZUbUdLOXNaeWdiQlRtYTZ4V3YtV0s3ODhybzkzWFZzeXZVYmpzQURKQXBtYXU2VFpMdjJuNzVCeUhlOVZOTnZCcnNCSUVBaFRERnJNdkpzU1JYMWJYQ2FpbU93NzJZT1UzbTg?oc=5",
-      "source": "Agência ECCLESIA",
-      "publishedAt": "2026-09-10T13:54:00Z",
-      "description": "Notícia publicada por Agência ECCLESIA. Abra o artigo para consultar os detalhes completos.",
+      "title": "ULS vai debater uso da inteligência artificial no Serviço Nacional de Saúde - Sul Informação Alentejo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3VFSzFUVXl4Ujg1Uno5aFgxSEZONXZUR1lkcFd2NkxiRWtXZHVjWGlrWHhWV3Nnei01SEpkOUtBZm10dUhhT21fUkNaUHJvSUMyTmFqb2Vac3BYQll6ZDZIaHlQRThPRnhYTHozU2l5N2pWTGdKeWNJR041MWxTb1E0MGthSl9GaUxPcEF3UDJxc2UwWGtfZjlpQ2c3RWowTGJTLXFDTHRBcE5fSDdyTDhlUTNoZVNXWHc?oc=5",
+      "source": "Sul Informação Alentejo",
+      "publishedAt": "2026-09-11T08:24:00Z",
+      "description": "Notícia publicada por Sul Informação Alentejo. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -117,6 +117,15 @@
       "description": "A Comissão Europeia iniciou negociações com a Ucrânia para a adesão aos programas de comunicações seguras por satélite da UE, numa altura em que procura competir com a Starlink.",
       "image": "https://eco.imgix.net/uploads/2026/01/cropped-andrius-kubilius09.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
       "articleUrl": "https://eco.sapo.pt/2026/09/10/ucrania-em-conversacoes-com-a-uniao-europeia-para-aderir-a-iris-2/"
+    },
+    {
+      "title": "Gasóleo supera pela primeira vez os seis dólares por galão nos EUA - Portal Impala",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWkU4dzAwYlJoR1Rid0tiMVZHVXVmLWlPd3VFV2RMQkVGQk1ZRVJKckJvRzM2d0J6NzF2VmluNEZlNzN2eTBiNmx3NmR3b0pnUW1yX1B4b1pRNEZmdGp2TV96dExRc09nTVRQandfajVEQUMtVnVWTU5vcHhsUHAyYnBKbUlzd1VPNlI2UFZ1X1lRczViSl80SmZqR1FTVjdYQWZHQ3VlY01kd3M?oc=5",
+      "source": "Portal Impala",
+      "publishedAt": "2026-09-11T09:23:09Z",
+      "description": "Notícia publicada por Portal Impala. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.impala.pt/noticias/economia/gasoleo-supera-pela-primeira-vez-os-seis-dolares-por-galao-nos-eua/"
     },
     {
       "title": "Putin apresentou a Trump uma visão \"distorcida\" da guerra para pressionar a Ucrânia - cnnportugal.iol.pt",
@@ -146,6 +155,24 @@
       "articleUrl": "https://www.vietnam.vn/pt/ca-my-va-iran-deu-san-sang-cho-mot-cuoc-chien-dai-hoi"
     },
     {
+      "title": "Análise: Cúpula do Brics reúne Putin, Xi e Modi mas rachas travam o bloco - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXBWNm5uYl9Kc1JKNFV2bHI2OGI4U1BVNS1jNXNpTnZaZWxHSERVQzNWNGhBcWlfbXUxWDh2V0IwcDVobE1JMk9idWhPRWMxUGROWjF5TGNvNjNoUFh4UmtkS1lOeWJpTTlNd2dDalhQb293RW1UY18yMTBqQTdVNnNHbkZZSE1vcEVFSXd5QjFNNXZuMHpTcS1ULXBCNDNGTVBmTEFuSHpXcDg2TE9vYktQSzZISlpRWU92cko3UWw3MjZUYWdJSkRQUlZVLWtvM2Vz?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-11T10:00:36Z",
+      "description": "Lula será a principal ausência da reunião de líderes do Sul Global, que estão divididos com relação à guerra no Oriente Médio e respostas às políticas do presidente Donald Trump",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL620WX-BASEIMAGE.jpg?w=800&h=533&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/blogs/americo-martins/internacional/analise-cupula-do-brics-reune-putin-xi-e-modi-mas-rachas-travam-o-bloco/"
+    },
+    {
+      "title": "Preço do diesel atinge máxima histórica nos EUA - cartacapital.com.br",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzJtU1dxbk16czNFbVRmSXg5NXl4a1VDRHA2TnJNS0FUNVZvQTJQZzZrRjd6Vi15UGJaSDB4Z0hsRDRZNjU5VURWZFR6Q2V6bjA3b2FZVzhKSGNKN05TdTVTYTZoRVJZMERKRXhweFlzc0p4SktEbFdaZmIzaFhMaWQwdGhScjJyVWJSWmprbw?oc=5",
+      "source": "cartacapital.com.br",
+      "publishedAt": "2026-09-11T10:22:00Z",
+      "description": "O galão (3,78 litros) passou dos 6 dólares pela primeira vez, em meio ao conflito no Oriente Médio",
+      "image": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/AFP__20260904__2293564567__v1__MidRes__AveragePricePerGallonOfGasInUSIsHighestOnReco.jpg",
+      "articleUrl": "https://www.cartacapital.com.br/mundo/preco-do-diesel-atinge-maxima-historica-nos-eua/"
+    },
+    {
       "title": "Impasse na guerra no Oriente Médio faz petróleo disparar mais de 6%, fechando a US$ 107,63 - O GLOBO",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWUI3d1E0X25LUUZ1ZGdPVXpkM0FvVDJwalRkLUJzTnVsN25jQW5wdGF6Mm9yLVlrdkd4M2tEUGY2RG5Ua1pid0VSckRzX184djZ4anNldVB6ZHhPdV9iTkhBRzFDWTJTOFdRNG5SYi11dTFGVG9EU3dSdGc2RDFHTGljYWZRQkYzZzRkSHYycnpKSTA2b1F3eUxNVGpDY0R2QzlUUlFiZjRTYkNBZDBTMWlyYVpkUjFaeXZVa1JkOVRHdFV6NVRoYzVIX2Y1OVhtRzRxTGVNTGM0cE1WTmNMVEViQkdzMTI2M0trcGhrandJQ3fSAYICQVVfeXFMTnZRVUp2b0E2WjI1X1ZxX0VvREVpbkhaSWdzWUx5YVBBQWpxUk9renRmZl9jVTNTTW80TUtNNVlWWEhDTk5RdnZyYmJsb0ZkNm10Z2dUOWRTOWx4cGdCbkhDMzJpWVVxb2d6Q240WDVUX2FBSnN2SHJmZXZia0xNVU1lWTJXRldkOFNhZDNQSFhPcmpMT1VwUVVpbkRZWThCRi1weVV2bU15YjRYNDNibWg2dGNjNzlJN2lLVlJ3MVMtQ0d0Z0FPNnRyQ0ZoQXB4RElrUm1jOE84Q1ZGd1hnSkdaVFNBNVlWaHRhclZWWHJLRmZ1Ul9lRnJNdE5SbllGTjBn?oc=5",
       "source": "O GLOBO",
@@ -155,22 +182,13 @@
       "articleUrl": "https://oglobo.globo.com/economia/financas/noticia/2026/09/10/impasse-na-guerra-no-oriente-medio-faz-petroleo-disparar-mais-de-6percent-fechando-a-us-10763.ghtml"
     },
     {
-      "title": "Putin chega à Índia para cúpula do Brics marcada por tensões geopolíticas - folhape.com.br",
+      "title": "Putin chega à Índia para cúpula do Brics marcada por tensões geopolíticas - Folha PE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWhWVktoMWI4T2k5ZHhORWdrWGRwNzE5cGVWcHdrdzZjTVpESXo1dVhrY1FpTzZkNWZGc01iMHF0d3FMdW1jTzBOSElER1lUR3F6RjVpTnMxRlFKcndfbUZIMGs1Qmx2UENpcWNfb0I1N19jdVBnd2x2NlFPLS1VdFE4SU83bXBGWGZIRUpBamdYU2JMaHZSa2FLazZVcDJicmxER1FNajN2d3fSAasBQVVfeXFMTm1oVlZLaDFiOE9pOWR4TkVna1hkcDcxOXBlVnB3a3c2Y01aREl6NXVYa2NRaU82ZDVmRnNNYjBxdHdxTHVtY08wTkhJREdZVEdxekY1aU5zMUZRSnJ3X21GSDBrNUJsdlBDaXFjX29CNTdfY3VQZ3dsdjZRTy0tVXRROElPN21wRlhmSEVKQWpnWFNiTGh2UmthS2s2VXAyYnJsREdRTWozdnd3?oc=5",
-      "source": "folhape.com.br",
+      "source": "Folha PE",
       "publishedAt": "2026-09-10T23:53:04Z",
-      "description": "Notícia publicada por folhape.com.br. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.folhape.com.br/noticia/amp/511866/putin-chega-a-india-para-cupula-do-brics-marcada-por-tensoes/"
-    },
-    {
-      "title": "Putin, Trump e Xi poderão reunir-se em novembro no sul da China - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUdlT1BtY1hGRUFVWTNHT2luakQxWE1hbHpmTWRoTkY5aEtxX1AzY2VTYzhWME9GWFZKenBYMnRaWVI4NC1SNlZjR3NKV3EycTM4LVA4WW55Z3dWRW5CWl9BVmFhMDNSTVQtdnA1U2RJdHJUSlBEeTcxdlRoc1ZNVnd0WkxwVnVUcGtJRU5YRGM0djJmdTBLdEpnYWbSAZwBQVVfeXFMT1lHZU9QbWNYRkVBVVkzR09pbmpEMVhNYWx6Zk1kaE5GOWhLcV9QM2NlU2M4VjBPRlhWSnpwWDJ0WllSODQtUjZWY0dzSldxMnEzOC1QOFlueWd3VkVuQlpfQVZhYTAzUk1ULXZwNVNkSXRyVEpQRHk3MXZUaHNWTVZ3dFpMcFZ1VHBrSUVOWERjNHYyZnUwS3RKZ2Fm?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-09T13:31:00Z",
-      "description": "A acontecer, encontro será no contexto da cimeira da APEC (Cooperação Económica Ásia-Pacífico).",
-      "image": "https://cdn.cmjornal.pt/images/2025-08/img_1280x721uu2025-08-15-20-50-08-2229370.jpg",
-      "articleUrl": "https://www.cmjornal.pt/mundo/amp/putin-trump-e-xi-poderao-reunir-se-em-novembro-no-sul-da-china"
     },
     {
       "title": "Putin, Trump e Xi poderão reunir-se em novembro no sul da China - Plataforma Media",
@@ -186,18 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMnB6bDVoUnhIdjRnb25yWXkybHM5Nkh0cUMtcUMyLXFia011OTVOZXRHU1gxdnhEUnM0QmdHTHo5M2R5Z0hWT3Qyd3BQd184d285QmhTRnVsTE1MekhBLW9LaU9mQ29wZ1AxUmJ0aVU0TWNPRkQwYWtpaHFiX0dHbVlNUVdPS2xfLU9TNTRRMUxpaDliaEJ0aDVYY0IweWZQNnFFM3l0X1lFRDBZNjE1OVpxNzhqRnJObURsMkxtbXVBcmRsYVVWaXZWMG4?oc=5",
       "source": "Agência eixos",
       "publishedAt": "2026-09-10T21:54:10Z",
-      "description": "Petróleo | Brent sobe 6,34%, a US$ 107,63, com investidores se preparando para uma guerra prolongada entre Estados Unidos e Irã",
-      "image": "https://uploads.eixos.com.br/2026/08/Donald-Trump-discursa-no-centro-de-treinamento-e-inteligencia-policial-David-S.-Mack-em-Garden-City-Nova-York-em-14-de-agosto-de-2026-Foto-Molly-Riley-Casa-Branca-1.jpg",
-      "articleUrl": "https://eixos.com.br/petroleo-e-gas/petroleo-fecha-em-alta-com-aumento-das-hostilidades-no-oriente-medio-e-pausa-no-dialogo-eua-ira/"
-    },
-    {
-      "title": "Trump prevê fim da guerra com Irã após eleições de Meio de Mandato - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEZDUmxIdEpOMlZhQkdSLTlhRThaWlFscjF5d25nRkNZckpVRkMxM0trNmxkTVpvdlpYbXR4VjZ2bXljODFURVA2d0tsWkNYWjFmOWxnTmJSMGJzX0poWmE3XzAxMkJVRFZqZ2wyWksxdG9VYnVLMEphYmQ0Mm1MNWxqVncweklOV1l4cmJHNWtXcGx3aTdLOG5sa1JsWlhFa3MxX2RkR19BVWNVdXY4?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-10T06:33:21Z",
-      "description": "Presidente dos EUA volta a ameaçar ataque a instalação ligada ao programa nuclear iraniano",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/2025-04-07T111654Z_1_LYNXNPEL360EZ_RTROPTP_4_USA-TRUMP-IRAN.jpg?w=1200&h=630&crop=1",
-      "articleUrl": "https://www.cnnbrasil.com.br/internacional/trump-preve-fim-da-guerra-com-ira-apos-eleicoes-de-meio-de-mandato/"
+      "description": "Notícia publicada por Agência eixos. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Trump diz que Putin quer chegar a um acordo sobre Ucrânia - Terra",
@@ -205,14 +213,6 @@
       "source": "Terra",
       "publishedAt": "2026-09-10T16:13:00Z",
       "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Bab el-Mandeb: a outra passagem marítima estratégica ameaçada pela guerra no Oriente Médio - CartaCapital",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUxfVUJPUTNrNUNlNmFNOFVuVks4dEd0QzJvRXVVYnU0a1l0dTNBMnFxbklvRVI4c2REMTE3dHVDZkJoS191emJ1LWlqdGV5RjRiTUktSlVDc0xDVjhsZHI3V0JoQ0MtX2VVNTZGS0g4WWdnMzdhbEJ3OW4yOEt2d1JzZ0VyeUpFQjVEWWZDcHdPc04wcmNvVC1qV0FYdTE2YUdCLWQtdG9MekFBc0JTby1RQkdMLWdXRmtRZ2VmU0h5WVAtcEJMaVVVQ0dfNVIxSGc?oc=5",
-      "source": "CartaCapital",
-      "publishedAt": "2026-09-10T20:36:00Z",
-      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
