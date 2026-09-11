@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-11T12:33:49.392395Z",
+  "updatedAt": "2026-09-11T13:28:53.522266Z",
   "health": [
+    {
+      "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm1wNHNtQTk2ODZ4QkJLWk5QLXljQldHd05GcGRQNDhITUVUZjEwOGlxZ1M3RXBXNDRwLUREU0QzU0ZhSkJpZGswVFJMZzRZMnJQQ2VoSUpjRWN6bTFhZ1dhTjN6UFg0VFV6UkVQT2dmbnB1SmpySlFNUzhINi1YZzZpWjVzSUQtU1kzaGJVeGlZUzQtN2hsaw?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-11T12:34:47Z",
+      "description": "As alterações no circuito de atendimento evitam a permanência em macas e agilizam também os internamentos.",
+      "image": "https://cdn-images.rtp.pt/icm/images/f2/f26654736c165230bf7544e8adf0f383_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
+    },
     {
       "title": "Saúde: da proposta à implementação de políticas públicas - Expresso",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllUWUZPcGg0cUxoaHRYOFlNcHM0TF9ESXFOMlRZVVV3SmVObUMwX3BrYUFXeXYzM25qblNrSU9nSnNQV0lPR0cwVFItT05xNzVZeTFSczIxV1hNUGo2Ync5OTdNS1Y4VVZsemlDT1FnejFBN1FndXFaWjdiMElvLUJfRkNqajJpUkxrX0oyLXZkdHVxam11b29jWmxyaUdwc2hJTjRQQW5aVWxKX3BKOGVXSVdwVHlHN0hJZjl4aw?oc=5",
@@ -9,15 +18,6 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/health-parliament-portugal/2026-09-11-saude-da-proposta-a-implementacao-de-politicas-publicas-e5b971f1"
-    },
-    {
-      "title": "Greve do INEM desconvocada após reunião no Ministério da Saúde - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlFpVzJ2MHVxSld4Rm5zZVg4SndHM3hVeTUxMDRwaVdNSTdDZ0Jocl9BZE5LQkFNUF9hamtibzVJcnhVZWdqWEwwS0FWUFpFX0tLRW5nWXBjcUV2VWRVeEhiekZFMXpYOVpHb3I0cnRFLXZCQjVDWFJzWDAwc1ZXQTVJMDZiYUtybGt4Q2VfYw?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-11T11:46:53Z",
-      "description": "A greve no INEM marcada para os dias 14 e 28 de setembro foi desconvocada, após a reunião da manhã desta sexta-feira, 11 de setembro, entre o ministério da Saúd",
-      "image": "https://media.assettype.com/dn%2F2026-01-08%2Fbfotdl3v%2Finem-1.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/greve-do-inem-desconvocada-aps-reunio-no-ministrio-da-sade"
     },
     {
       "title": "Saúde marca eleição na Suécia: grandes promessas, poucas soluções - Euronews.com",
@@ -29,13 +29,13 @@
       "articleUrl": "https://pt.euronews.com/saude/2026/09/11/saude-marca-eleicao-na-suecia-grandes-promessas-poucas-solucoes"
     },
     {
-      "title": "Desconvocada greve do INEM após reunião no Ministério da Saúde - RTP",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUtnSEhiaU5uNGJLRFBBbGtCejhPdlB1U1lmN1ZjeC1RRUlDbUUwTU5iSEFuX1BFMGktVzRiaEhRUXBSZTN0a2VvcFJGUmNubXo3MDdGMERlcUIwNWk1OEViZi11dnFtTTFSWmhhYjNXa01rb3d0amhhVlpqcmVkd2pzR0NIcHlycUZIelhMTE9rY0VTSm1IZEtzQzRTa0h4VXhmelVTMA?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-11T11:41:39Z",
-      "description": "A greve do INEM que estava marcada para 14 e 28 de setembro foi desconvocada depois de o Governo e o sindicato terem chegado a um acordo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b5ce7ec20bc07831ab00d8aadfbd4ba?w=860&q=90&rect=0,38,5333,2924&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/desconvocada-greve-do-inem-apos-reuniao-no-ministerio-da-saude_n1764822"
+      "title": "Festa das Vindimas obriga Centro de Saúde do Estreito a encerrar mais cedo - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDQ5azdSdzJkMGNFWm5ETWxNSFdaUmhkaFl4Yll2VE01RUlHVU1FNkVGLWg3TEFBTC1idHN6bEVzRWI1VEF1MnVYajFEbGtYM3h0elZUYkFCdEtsS3o4V2FRYUltZmJQUEN5WXBMak9JV0lUbzNzaDUxU2ZfTXotYlNJN0IyZzhrWHk4cU5BMTF5bGV2MG03MUVvNzdKbGU2Yk8zQkFJUkhjY3RpMXF4bmhJVDNVeVpN?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-11T11:39:00Z",
+      "description": "O Centro de Saúde do Estreito de Câmara de Lobos vai encerrar, excepcionalmente, às 18 horas esta sexta-feira, devido aos constrangimentos provocados pela montagem das infra-estruturas para a Festa das Vindimas, que decorre naquela localidade entre hoje e domingo, 13 de Setembro.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoWhatsApp_Image_2022-09-09_at_11.45.36.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/11/505076-festa-das-vindimas-obriga-centro-de-saude-do-estreito-a-encerrar-mais-cedo/"
     },
     {
       "title": "Helena Leal destaca aposta do Município do Funchal na promoção da saúde e do bem-estar - Município do Funchal",
@@ -47,13 +47,31 @@
       "articleUrl": "https://www.funchal.pt/helena-leal-destaca-aposta-do-municipio-do-funchal-na-promocao-da-saude-e-do-bem-estar/"
     },
     {
-      "title": "Festa das Vindimas obriga Centro de Saúde do Estreito a encerrar mais cedo - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDQ5azdSdzJkMGNFWm5ETWxNSFdaUmhkaFl4Yll2VE01RUlHVU1FNkVGLWg3TEFBTC1idHN6bEVzRWI1VEF1MnVYajFEbGtYM3h0elZUYkFCdEtsS3o4V2FRYUltZmJQUEN5WXBMak9JV0lUbzNzaDUxU2ZfTXotYlNJN0IyZzhrWHk4cU5BMTF5bGV2MG03MUVvNzdKbGU2Yk8zQkFJUkhjY3RpMXF4bmhJVDNVeVpN?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-11T11:39:00Z",
-      "description": "O Centro de Saúde do Estreito de Câmara de Lobos vai encerrar, excepcionalmente, às 18 horas esta sexta-feira, devido aos constrangimentos provocados pela montagem das infra-estruturas para a Festa das Vindimas, que decorre naquela localidade entre hoje e domingo, 13 de Setembro.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoWhatsApp_Image_2022-09-09_at_11.45.36.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/11/505076-festa-das-vindimas-obriga-centro-de-saude-do-estreito-a-encerrar-mais-cedo/"
+      "title": "Greve do INEM desconvocada após reunião no Ministério da Saúde - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlFpVzJ2MHVxSld4Rm5zZVg4SndHM3hVeTUxMDRwaVdNSTdDZ0Jocl9BZE5LQkFNUF9hamtibzVJcnhVZWdqWEwwS0FWUFpFX0tLRW5nWXBjcUV2VWRVeEhiekZFMXpYOVpHb3I0cnRFLXZCQjVDWFJzWDAwc1ZXQTVJMDZiYUtybGt4Q2VfYw?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-11T11:46:53Z",
+      "description": "A greve no INEM marcada para os dias 14 e 28 de setembro foi desconvocada, após a reunião da manhã desta sexta-feira, 11 de setembro, entre o ministério da Saúd",
+      "image": "https://media.assettype.com/dn%2F2026-01-08%2Fbfotdl3v%2Finem-1.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/greve-do-inem-desconvocada-aps-reunio-no-ministrio-da-sade"
+    },
+    {
+      "title": "Kate: desafio dos três picos foi o “pequeno” agradecimento da princesa de Gales ao hospital - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaU1ZT244ZlJEUmxUdzhVNnRPY001T3BJREZCYjhBWUxrTWQ2dEl6STFpX3VvY193V2MwM2RjenZ3SnNKb3QxNWFIeXdNeHBmenFndFc3ck5CMlhUejBGS2dTRkxuTDc1Q1VrRUhEN2dZVWFhMEZabFNZZFlfVkFfZ1RobUNxM3hqZU9QNjJsWF94RndTQkk3QjhIRm1YaGpuWDFoajFOUjJNai00c0JXdVlLMnNtZjRQ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-11T13:05:30Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/11/impar/noticia/kate-desafio-tres-picos-agradecimento-princesa-gales-hospital-2187744"
+    },
+    {
+      "title": "ULS vai debater uso da inteligência artificial no Serviço Nacional de Saúde - Sul Informação",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXBlTVdRenlDOVlzR3UxNjl1V0wzdGVaME5qYkRyd291SnVhMy1QUE14enlqZ0NIOG54YnZvb3hyc3cwRkxsdEFLaS1QTVJXa3lreHBROVozTnhRaUlMX2IxaWxWLXpzNDdUZl9wZ0tzN29vVk14c2lmc29xVFMxS1ZMTC1EaFRWeENXWkdtUjNoYXhYT2hMRkNxeWJnenBkbXdQSnpQSHY0Z1laZjRxVmV0SQ?oc=5",
+      "source": "Sul Informação",
+      "publishedAt": "2026-09-11T09:24:00Z",
+      "description": "Um webseminário dedicado ao tema “A Inteligência Artificial no SNS e na Saúde” realiza-se no dia 15 de Setembro, organizado pela Unidade Local de Saúde (ULS) do Algarve. De acordo com a equipa dinamizadora, «a Inteligência Artificial (IA) está a assumir um…",
+      "image": "https://www.sulinformacao.pt/wp-content/uploads/2025/01/Depositphotos_72446087_l-2015.jpg",
+      "articleUrl": "https://www.sulinformacao.pt/2026/09/uls-vai-debater-uso-da-inteligencia-artificial-no-servico-nacional-de-saude/"
     },
     {
       "title": "Saúde oral na idade sénior e utilização de flúor em debate no plano internacional - Ordem dos Médicos Dentistas",
@@ -79,32 +97,14 @@
       "source": "HealthNews",
       "publishedAt": "2026-09-11T06:25:24Z",
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/11/uls-do-algarve-desmente-proibicao-a-trabalhadores-que-frequentam-medicina/"
-    },
-    {
-      "title": "Médicos pedem indicadores ajustados à falta de recursos e à população envelhecida para as ULS do interior - Público",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejRlTDlOenk5MkhHdVMxRDE2T0ZPS1RHeXJXWUFhaEdjZjlMbXYwU1o5bXY1RnY0bGlMZHlfck94N05HN2JjNUVSOV9CeE1KeFVkMlllb0I5Rzh6a29jaWZsNVNkcEVzVWNSaUFlQkxqTkhkcnFaamkwc01Hd3B1V1Jrbm1kMy1CSFpBRnFMTkNWT1ZMQTRhbmRJeDJ0U0tQWnpuZ3c4dG56QlU3bG50THA3YVg2Y0hsLVlUZmx5elBDYXRiOEVqdzBxTlV0ME9fd0VBelNJV0E2Z3hPRkE?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-11T10:24:38Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/11/sociedade/noticia/medicos-pedem-indicadores-ajustados-falta-recursos-populacao-envelhecida-uls-interior-2187709"
-    },
-    {
-      "title": "Aspartame não apresenta riscos para a saúde segundo agência da UE - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOTVEczNzcWt0SDFmbnFwWHU0QTIxMmQxaDVpcFNEbzY1TDNjLUdmTHFFRENrdzJuWmVrMGhmQkFFUC1BSzRpM0I5SmY2NlpzWHIxUXo0UGZJUVdLeC1FSm9JbWxpb0NiU2R3Ym1lbUhmd0doSHFybUVSNWladk54WGwwdTBucHg3a3lkcnp2bXRGaU5sZ1ltcG5UT0VqMDZ6US1jeWNnaw?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-11T10:03:32Z",
-      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "José Manuel Castro Lopes é o novo Provedor do Estudante da U.Porto - Notícias U.Porto",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEhRQnFkMUZ4QkFKMXNHMWJ1WmlDNGtXSjNFN3hjRjlFdE8zY2I1a19wbEFFaEdKOVh4Nk5saUNJNDFaR1REbUxqZWZZWWpWNTVXTjNlM3QyYVp1MGx0Y3lmaWNCRWVaR1laZGllX2RBYkF5bjlLYmhMSFdPWlFnWUUyT1k2RWxobENXUVFZeXlHRUV0S1J6MHdKYlJIOHk2QVNB?oc=5",
-      "source": "Notícias U.Porto",
-      "publishedAt": "2026-09-11T11:22:23Z",
-      "description": "Notícia publicada por Notícias U.Porto. Abra o artigo para consultar os detalhes completos.",
+      "title": "Ana Garcia Martins adia espetáculo devido a problema de saúde: \"Tenho uns nódulos nas...\" - sic.pt",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPZVB2TXNzVVJBYmc0TkNxWHlZT3p2OHNoMUZNLVhtMktNNmNEUEdCQTVLUmZrWXpBQTA1X0F3NWQ4WE5SdzkwdWRLRi1Qc2Y1Qjg1OFRqd0hzWi1nVXlNZEJyc25UN3lMbTRndUlkbTVveXA1dTlROXQxWVl5WE5LSVdqaDg1QjlpLWJWS3c1RHVDdV9ZekYxNHhHV2lVNkFxV19zWkdBRzFRdDNGcGFOM3ExVk5SSWxyRGZUNmtpWTFUZzlGN25fOWM0MndodmhOdHcyMlUta0FDaU80UEFXS1NjN2dsVXpSNDNBZjVocGJnTDA1U1JnaDM4bmMxSmZoNXExaFM1SnU2dngwQjBmdXBveGotZTRZMDVqVkt0d19pS1BhWmN3Ylk2UERZWWVCQ2RfMi0wZ3JYT29YNHZzLUFmR19YZXVIM3N4U0hPdHVwUGQyeGgwZGNhcjFnZ0FXcUwxNGx2eGtzbVN4QnZoVll2UDI5RVYyZThBWkxyc3RISFZYaU9lUkh5RUZtbDY5RF83WnBzZEJwX1p2ejJqM1JMSzBtdFJhV2VFSTNQaU5TeFdDRC00N0NzTDZOM3VId0RQY2hzaFBTUl9jaWRsY2w2R25HZw?oc=5",
+      "source": "sic.pt",
+      "publishedAt": "2026-09-11T11:35:59Z",
+      "description": "Notícia publicada por sic.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -173,13 +173,22 @@
       "articleUrl": "https://sol.iol.pt/internacional/noticias/pedidos-de-asilo-na-uniao-europeia-recuam-17-no-primeiro-semestre/20260910/6aa2959e0cf22b9f8904b5f9"
     },
     {
-      "title": "Impasse na guerra no Oriente Médio faz petróleo disparar mais de 6%, fechando a US$ 107,63 - oglobo.globo.com",
+      "title": "Impasse na guerra no Oriente Médio faz petróleo disparar mais de 6%, fechando a US$ 107,63 - O GLOBO",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWUI3d1E0X25LUUZ1ZGdPVXpkM0FvVDJwalRkLUJzTnVsN25jQW5wdGF6Mm9yLVlrdkd4M2tEUGY2RG5Ua1pid0VSckRzX184djZ4anNldVB6ZHhPdV9iTkhBRzFDWTJTOFdRNG5SYi11dTFGVG9EU3dSdGc2RDFHTGljYWZRQkYzZzRkSHYycnpKSTA2b1F3eUxNVGpDY0R2QzlUUlFiZjRTYkNBZDBTMWlyYVpkUjFaeXZVa1JkOVRHdFV6NVRoYzVIX2Y1OVhtRzRxTGVNTGM0cE1WTmNMVEViQkdzMTI2M0trcGhrandJQ3fSAYICQVVfeXFMTnZRVUp2b0E2WjI1X1ZxX0VvREVpbkhaSWdzWUx5YVBBQWpxUk9renRmZl9jVTNTTW80TUtNNVlWWEhDTk5RdnZyYmJsb0ZkNm10Z2dUOWRTOWx4cGdCbkhDMzJpWVVxb2d6Q240WDVUX2FBSnN2SHJmZXZia0xNVU1lWTJXRldkOFNhZDNQSFhPcmpMT1VwUVVpbkRZWThCRi1weVV2bU15YjRYNDNibWg2dGNjNzlJN2lLVlJ3MVMtQ0d0Z0FPNnRyQ0ZoQXB4RElrUm1jOE84Q1ZGd1hnSkdaVFNBNVlWaHRhclZWWHJLRmZ1Ul9lRnJNdE5SbllGTjBn?oc=5",
-      "source": "oglobo.globo.com",
+      "source": "O GLOBO",
       "publishedAt": "2026-09-10T21:43:58Z",
       "description": "Barril não atingia esse nível desde maio pouco antes de uma trégua na região e da assinatura, em junho, de um protocolo de acordo entre o Irã e os Estados Unidos para pôr fim ao conflito",
       "image": "https://s2-oglobo.glbimg.com/0y0k0-JqN6QEIlQEEiRI4TYNZ5w=/8192x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/I/c/MAnMbITbA04HJIvgKYwQ/466996247.jpg",
       "articleUrl": "https://oglobo.globo.com/economia/financas/noticia/2026/09/10/impasse-na-guerra-no-oriente-medio-faz-petroleo-disparar-mais-de-6percent-fechando-a-us-10763.ghtml"
+    },
+    {
+      "title": "Putin, Trump e Xi poderão reunir-se em novembro no sul da China - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUdlT1BtY1hGRUFVWTNHT2luakQxWE1hbHpmTWRoTkY5aEtxX1AzY2VTYzhWME9GWFZKenBYMnRaWVI4NC1SNlZjR3NKV3EycTM4LVA4WW55Z3dWRW5CWl9BVmFhMDNSTVQtdnA1U2RJdHJUSlBEeTcxdlRoc1ZNVnd0WkxwVnVUcGtJRU5YRGM0djJmdTBLdEpnYWbSAZwBQVVfeXFMT1lHZU9QbWNYRkVBVVkzR09pbmpEMVhNYWx6Zk1kaE5GOWhLcV9QM2NlU2M4VjBPRlhWSnpwWDJ0WllSODQtUjZWY0dzSldxMnEzOC1QOFlueWd3VkVuQlpfQVZhYTAzUk1ULXZwNVNkSXRyVEpQRHk3MXZUaHNWTVZ3dFpMcFZ1VHBrSUVOWERjNHYyZnUwS3RKZ2Fm?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-09T13:31:00Z",
+      "description": "A acontecer, encontro será no contexto da cimeira da APEC (Cooperação Económica Ásia-Pacífico).",
+      "image": "https://cdn.cmjornal.pt/images/2025-08/img_1280x721uu2025-08-15-20-50-08-2229370.jpg",
+      "articleUrl": "https://www.cmjornal.pt/mundo/amp/putin-trump-e-xi-poderao-reunir-se-em-novembro-no-sul-da-china"
     },
     {
       "title": "Putin chega à Índia para cúpula do Brics marcada por tensões geopolíticas - Folha PE",
@@ -195,9 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzJtU1dxbk16czNFbVRmSXg5NXl4a1VDRHA2TnJNS0FUNVZvQTJQZzZrRjd6Vi15UGJaSDB4Z0hsRDRZNjU5VURWZFR6Q2V6bjA3b2FZVzhKSGNKN05TdTVTYTZoRVJZMERKRXhweFlzc0p4SktEbFdaZmIzaFhMaWQwdGhScjJyVWJSWmprbw?oc=5",
       "source": "CartaCapital",
       "publishedAt": "2026-09-11T10:22:00Z",
-      "description": "O galão (3,78 litros) passou dos 6 dólares pela primeira vez, em meio ao conflito no Oriente Médio",
-      "image": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/AFP__20260904__2293564567__v1__MidRes__AveragePricePerGallonOfGasInUSIsHighestOnReco.jpg",
-      "articleUrl": "https://www.cartacapital.com.br/mundo/preco-do-diesel-atinge-maxima-historica-nos-eua/"
+      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Putin, Trump e Xi poderão reunir-se em novembro no sul da China - Plataforma Media",
@@ -205,14 +213,6 @@
       "source": "Plataforma Media",
       "publishedAt": "2026-09-09T15:00:42Z",
       "description": "Notícia publicada por Plataforma Media. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Petróleo fecha em alta com aumento das hostilidades no Oriente Médio e pausa no diálogo EUA-Irã - eixos.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMnB6bDVoUnhIdjRnb25yWXkybHM5Nkh0cUMtcUMyLXFia011OTVOZXRHU1gxdnhEUnM0QmdHTHo5M2R5Z0hWT3Qyd3BQd184d285QmhTRnVsTE1MekhBLW9LaU9mQ29wZ1AxUmJ0aVU0TWNPRkQwYWtpaHFiX0dHbVlNUVdPS2xfLU9TNTRRMUxpaDliaEJ0aDVYY0IweWZQNnFFM3l0X1lFRDBZNjE1OVpxNzhqRnJObURsMkxtbXVBcmRsYVVWaXZWMG4?oc=5",
-      "source": "eixos.com.br",
-      "publishedAt": "2026-09-10T21:54:10Z",
-      "description": "Notícia publicada por eixos.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
