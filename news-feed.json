@@ -1,41 +1,32 @@
 {
-  "updatedAt": "2026-09-12T11:25:11.596833Z",
+  "updatedAt": "2026-09-12T12:30:50.786290Z",
   "health": [
     {
-      "title": "Gestão da saúde para totós - Público",
+      "title": "\"A automedicação é uma consequência da falta de acesso ao sistema de saúde\" - observador.pt",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbllreHBxUmdPLWtOVXZ0V3NPT3lhQ0h1TndPaVR6bUdQQWFhLVY4aFNmT2ZRZ2hvMHlvMU9VRVBhNnYyQW9QVHFkSThoTWRNdmJnSmR1ZFJJTlNLU1ZUMkN5VEtZY3NNaEFhWDU1c2s3MXljTk5UUmRYVTB1NTRfblMyV3gzTEZjOTJzMFhPTkpiSndhZWw5aEVjT1hHTHJ3TTQxakJLeDQ4TEhKOEdYQXdyVERvT0xoUDh5Q3ZKbFhoamRG?oc=5",
+      "source": "observador.pt",
+      "publishedAt": "2026-09-12T06:03:15Z",
+      "description": "\"A automedicação pontual e informada pode ser um exercício de autonomia\", diz a investigadora Carolina Santos. Para a médica de família Nélia Isaac, \"o risco surge se for feito de forma prolongada\".",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2025/10/16210620/770-podcastconsulta-informal.jpg",
+      "articleUrl": "https://observador.pt/programas/conversas-sobre-dor/a-automedicacao-e-uma-consequencia-da-falta-de-acesso-ao-sistema-de-saude/"
+    },
+    {
+      "title": "Gestão da saúde para totós - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcng5Q3IxUVJKai1sUWVSQjQ1alZTNTdCWkVkX1ZyS2h3cW4xTWZaTHRVUktCSjhEZXh2VmVZbDBNOGpNSzJ1SlFMTlV0R2llVExJMG9YUFBQZVFnV213X3pxckhRUWg5V0F6ZXQ0VDlaSHp6X0dIQzgxNGU0Q0tZU3Jn?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-12T04:55:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/12/opiniao/opiniao/gestao-saude-totos-2187572"
     },
     {
-      "title": "“É justo”: Porto quer Estado a pagar novos centros de saúde - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWtGanBIXzdBbXdvSXcwdnF1WThEZEluY2g2d1JaWndFQUotSlh0aE9EOXRXcy1uZkk5Z0xzNHM1M09OUWFueExnX3ZfUVN1WW5SVWFDNnR3TGo0X190bDZXY1JGZGFLMEZtUHZ3T3BzamRGOHVsQVBKVG5GWE1GME1mWm5mTGVTellSQ3ozdTFvSFdC?oc=5",
+      "title": "Porto: novo centro da Unilabs faz 85% dos exames de Medicina Nuclear para o SNS - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmdfUWdSVVJoalVuU3R5ZHhWMGlkVVV5eG43V01Ec05wVDh3T082NjF0aW5mODl1bXZhSEgyVmwyeVFqVUpFb0dnc0lwYUpyUTU3VXlJWTAxWG52aW05d181d3g4MlctSGtCNUNmSE1Nak14X0dVbVdrelpBcHBZZm1IOWpqUWVJOENwWHFzLTJaZEsxMURNalNRRmNtLUhZcGdPZFlnZGFxSV95RnpSUA?oc=5",
       "source": "HealthNews",
-      "publishedAt": "2026-09-12T06:16:14Z",
+      "publishedAt": "2026-09-12T06:25:46Z",
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/12/e-justo-porto-quer-estado-a-pagar-novos-centros-de-saude/"
-    },
-    {
-      "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm1wNHNtQTk2ODZ4QkJLWk5QLXljQldHd05GcGRQNDhITUVUZjEwOGlxZ1M3RXBXNDRwLUREU0QzU0ZhSkJpZGswVFJMZzRZMnJQQ2VoSUpjRWN6bTFhZ1dhTjN6UFg0VFV6UkVQT2dmbnB1SmpySlFNUzhINi1YZzZpWjVzSUQtU1kzaGJVeGlZUzQtN2hsaw?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-11T12:34:47Z",
-      "description": "As alterações no circuito de atendimento evitam a permanência em macas e agilizam também os internamentos.",
-      "image": "https://cdn-images.rtp.pt/icm/images/f2/f26654736c165230bf7544e8adf0f383_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
-    },
-    {
-      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQb0Jna05zeDNuT2lnaWxTbHY5aTZncWZOcjdwOGFfa2V6NGlnTHNPRkwwbXdPdWM5am9McTFsNjh4N3NZTTNBZmFpMXRpQTFZdVpOT04xbE9JVVI4LURmSGpXcHo3V0JDdU1uN1FRRWkxb05xLXR2c0lWaGFubFVNLWRFX2Z6SThKWjFLamZ5REJ4VG5aamVTdU80bkRfRmI2U0Q5dm53SXN4Y1h6VFk4VDZZUmJMWVZWQVRiaFRnZ0ZxYmNTSllwUXhvTVVLcWZfWmpUZkNNczh2WTc5NFVUYlkzMThCTFQ2M1oxcWhHMmlPTUFscEtRU3Nvd1JtSHA5b213d2lrdDBvR3VrMVF6UFJCei1rd21TMGkxRmpXSGlLaXgwZVZGY3R0dWVwa1hYUXVZVXJBTU5hQTQxRXc2clUwUUNjWkluWUlWdDhCX25VUm0xZGlyLUloenMzTDVKRU1hUUxsSzByV2pWMmRzNnZUbzRBOFVna25Bem5WbGFtbEdwN0RDaXd3bS1nb1ZEQWhQMEROMDg2S08wT0dXdHJRbWtEc0pERDZyN09aR2xLTkhtXzF4b09vVkxmdWgxR0Y0ZkVWZi14eDB2Tm5PTUZaWFVRVHpDZWk5cw?oc=5",
-      "source": "SIC",
-      "publishedAt": "2026-09-12T08:45:09Z",
-      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb?utm_source=sic&utm_medium=content&utm_campaign=WEB&utm_content=/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
+      "articleUrl": "https://healthnews.pt/2026/09/12/porto-novo-centro-da-unilabs-faz-85-dos-exames-de-medicina-nuclear-para-o-sns/"
     },
     {
       "title": "Fundo Vivalto Partners põe dona da Lusíadas Saúde e gestora do hospital de Cascais à venda - ECO",
@@ -47,13 +38,22 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/11/fundo-vivalto-partners-poe-dona-da-lusiadas-saude-e-gestora-do-hospital-de-cascais-a-venda/"
     },
     {
-      "title": "Três anos depois de a OMS classificá-lo como 'possivelmente cancerígeno', Europa reafirma que o aspartame continua sendo seguro - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUlN0Y0R6TUhDbnNNYmRZWWFPNFVNbXJwNy13Zk5neFBRSFNCbDh2bjdLSU52bG0yX1ltM0E4Qmt5ODJqWTZCM1piRVgtQzE1STB0UW5IWGVJalE4YWg2RlQ3MW9BWERCUUdiWTRJM1RXeHFqaTliRUlTQnlkaDhtQ296dmRmd01IQW9jZzB3REtFdUNkYlM1WDJjMWR4WGc3UlNBZXpzcnQxMVdheDByeTNIdjM3OWZCQmhFVFA3SXhtZ3M0bXdnMHJ2MGR1SVRnMVJWMnhoY0R0NGxFOHdnUEFuMWw2UkZIR2VnQ19JZU1rR0YxNmVUQzNVdlNQLUlUVGNKQ24wNzNpSXZa0gGbAkFVX3lxTE1aUHYxcXRuQUs2ZzdJYy1TcHRoa0llUEVqUkdxcEdyNkdnVHVkTWxYdEhiWmhxWWVFXzZoV0x2LWRoNjRtem1nM0w5NmdMaXhucDFRcmJtV2d5REFlcUwwV1k0ZVV4emtGYVBuWkFTd0tORlJtcmNVcUctSmtZQl9vbWpUSHN0RVJzeUZocm5sdUNVUTg1bnRyc0t0VlNyMEtpV3dkTEVJVVNDSkl0c2UxNW1wN19hTG4wWVNlZUtCQXh5cFlYaDJBSTNVdHp5VE5Eem5TOTgxd2FESWNKOU5BRlBxVFJfYVVIMWZ1TndCcGJnLW5QU2N4NHVuek4wc3RHUHYwdEQzMlFJV3ZDTXI5Mm9JNk95UHN4d0k?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-09-12T07:30:00Z",
-      "description": "Autoridade Europeia para a Segurança dos Alimentos revisou novamente as evidências científicas sobre o aspartame e manteve os limites atuais de consumo; no Brasil, a Anvisa recomenda que o uso é seguro",
-      "image": "https://s2-oglobo.glbimg.com/txwtaf5OAdd3r8Hr8qcgsH61uzM=/5760x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/d/s/lzyVjpTeKS3ItWVFBbLw/world-diabetes-day-sugar-wooden-bowl-dark-surface.jpg",
-      "articleUrl": "https://oglobo.globo.com/saude/noticia/2026/09/12/tres-anos-depois-de-a-oms-classifica-lo-como-possivelmente-cancerigeno-europa-reafirma-que-o-aspartame-continua-sendo-seguro.ghtml"
+      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
+      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQb0Jna05zeDNuT2lnaWxTbHY5aTZncWZOcjdwOGFfa2V6NGlnTHNPRkwwbXdPdWM5am9McTFsNjh4N3NZTTNBZmFpMXRpQTFZdVpOT04xbE9JVVI4LURmSGpXcHo3V0JDdU1uN1FRRWkxb05xLXR2c0lWaGFubFVNLWRFX2Z6SThKWjFLamZ5REJ4VG5aamVTdU80bkRfRmI2U0Q5dm53SXN4Y1h6VFk4VDZZUmJMWVZWQVRiaFRnZ0ZxYmNTSllwUXhvTVVLcWZfWmpUZkNNczh2WTc5NFVUYlkzMThCTFQ2M1oxcWhHMmlPTUFscEtRU3Nvd1JtSHA5b213d2lrdDBvR3VrMVF6UFJCei1rd21TMGkxRmpXSGlLaXgwZVZGY3R0dWVwa1hYUXVZVXJBTU5hQTQxRXc2clUwUUNjWkluWUlWdDhCX25VUm0xZGlyLUloenMzTDVKRU1hUUxsSzByV2pWMmRzNnZUbzRBOFVna25Bem5WbGFtbEdwN0RDaXd3bS1nb1ZEQWhQMEROMDg2S08wT0dXdHJRbWtEc0pERDZyN09aR2xLTkhtXzF4b09vVkxmdWgxR0Y0ZkVWZi14eDB2Tm5PTUZaWFVRVHpDZWk5cw?oc=5",
+      "source": "SIC",
+      "publishedAt": "2026-09-12T08:45:09Z",
+      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb?utm_source=sic&utm_medium=content&utm_campaign=WEB&utm_content=/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
+    },
+    {
+      "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm1wNHNtQTk2ODZ4QkJLWk5QLXljQldHd05GcGRQNDhITUVUZjEwOGlxZ1M3RXBXNDRwLUREU0QzU0ZhSkJpZGswVFJMZzRZMnJQQ2VoSUpjRWN6bTFhZ1dhTjN6UFg0VFV6UkVQT2dmbnB1SmpySlFNUzhINi1YZzZpWjVzSUQtU1kzaGJVeGlZUzQtN2hsaw?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-11T12:34:47Z",
+      "description": "As alterações no circuito de atendimento evitam a permanência em macas e agilizam também os internamentos.",
+      "image": "https://cdn-images.rtp.pt/icm/images/f2/f26654736c165230bf7544e8adf0f383_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
     },
     {
       "title": "Investigação com 'cunho' português desenvolve enzima devoradora de plástico - SÁBADO",
@@ -65,58 +65,58 @@
       "articleUrl": "https://www.sabado.pt/ciencia---saude/detalhe/investigacao-com-cunho-portugues-desenvolve-enzima-devoradora-de-plastico"
     },
     {
-      "title": "\"A automedicação é uma consequência da falta de acesso ao sistema de saúde\" - Observador",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbllreHBxUmdPLWtOVXZ0V3NPT3lhQ0h1TndPaVR6bUdQQWFhLVY4aFNmT2ZRZ2hvMHlvMU9VRVBhNnYyQW9QVHFkSThoTWRNdmJnSmR1ZFJJTlNLU1ZUMkN5VEtZY3NNaEFhWDU1c2s3MXljTk5UUmRYVTB1NTRfblMyV3gzTEZjOTJzMFhPTkpiSndhZWw5aEVjT1hHTHJ3TTQxakJLeDQ4TEhKOEdYQXdyVERvT0xoUDh5Q3ZKbFhoamRG?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-12T06:03:15Z",
-      "description": "\"A automedicação pontual e informada pode ser um exercício de autonomia\", diz a investigadora Carolina Santos. Para a médica de família Nélia Isaac, \"o risco surge se for feito de forma prolongada\".",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2025/10/16210620/770-podcastconsulta-informal.jpg",
-      "articleUrl": "https://observador.pt/programas/conversas-sobre-dor/a-automedicacao-e-uma-consequencia-da-falta-de-acesso-ao-sistema-de-saude/"
-    },
-    {
-      "title": "Gallery of Vila da Saúde Studio / Plareng + Consoante Arquitetura e Integração - 11 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOak5xc1M3anplb0hTeFhBLUlPaE5QRTZ5aVFpSndGaFN0blBVT091MzR0aWVHWG5veGhEbWZGbVlySmotTnoxeENfbUIwS0xROThhbUlEOExVb2owVXlrZmkyRWlXZ0wwNzZsWFhpU20wVnFnSmpnTjFmMVdoT3RJclFYb09nU3FLWXp5aWNLZmRrSEpxWWptbkRvQXMyM0ZmMkM5Mjg1dmJhQWZQLS0yTnFtOUtBNGliSHEzNW5ZMDVGUldHNm1yU0syaHI2Q1BkQS1XcDFaV2FPX1hSV0VPc094UWFEaFdhdXEtdTBmT1JBd1kzeGdIMnUtMmg1STVDdWoxMnFveEFjdGFoRC1ubk9yNGpsbnVsRlFZSjhEejYzY3k2ODdaNm53?oc=5",
-      "source": "ArchDaily",
-      "publishedAt": "2026-09-12T09:28:13Z",
-      "description": "Image 11 of 37 from gallery of Vila da Saúde Studio / Plareng + Consoante Arquitetura e Integração. Photograph by Lela Leme",
-      "image": "https://images.adsttc.com/media/images/6a97/5cfe/e52b/d301/896a/7d16/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_12.jpg?1788304674",
-      "articleUrl": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao/6a975cfee52bd301896a7d16-vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao-photo"
-    },
-    {
-      "title": "Agente da PSP esfaqueado na esquadra morreu no hospital - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkpjdkRMMmg0ejgyMDFKcDJqSUxzWWlBcFVIaWpoU3dSdFByX0ppaDhLX2FtcFY3aU13MnhLdDFOWmktT0tSU2lhV2NxSzVybl91WGxxZ0NLNy1HV2ZmUkdCMWt1YU9ucEVpV3NNS18talVucUZjVmtnN2ZsdUs0WGMxa0ZqdFVaTjZaQXJXSFBIVVZXd21Bd1FDZzfSAZcBQVVfeXFMTmMxTF9ZMXAzR211UkRNUnlTV1BUbV9OZ1YyYV82UG5NQTFTbEt3c2xSOTh5R0prcDdQUWdwYXh6TFNibXp1Wlg1eXZvTXhCdDhrN2FNaGVrb0dnMGxXNmVia05XcW9UYzRNaTl1cTJXSzlZZHk5MGE5bzl6VVNFTXRuMkl3RXVqaG1kZ3BzZXVCYkRrM3Bsdw?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-12T10:05:14Z",
-      "description": "José Coelho, de 57 anos, tinha saúde fragilizada devido a várias doenças. Em abril, foi atacado por jovem de 19 anos.",
-      "image": "https://cdn.cmjornal.pt/images/2026-09/img_1280x721uu2026-09-11-12-06-54-2307811.jpg",
-      "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/agente-da-psp-esfaqueado-na-esquadra-morreu-no-hospital"
+      "title": "Três anos depois de a OMS classificá-lo como 'possivelmente cancerígeno', Europa reafirma que o aspartame continua sendo seguro - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUlN0Y0R6TUhDbnNNYmRZWWFPNFVNbXJwNy13Zk5neFBRSFNCbDh2bjdLSU52bG0yX1ltM0E4Qmt5ODJqWTZCM1piRVgtQzE1STB0UW5IWGVJalE4YWg2RlQ3MW9BWERCUUdiWTRJM1RXeHFqaTliRUlTQnlkaDhtQ296dmRmd01IQW9jZzB3REtFdUNkYlM1WDJjMWR4WGc3UlNBZXpzcnQxMVdheDByeTNIdjM3OWZCQmhFVFA3SXhtZ3M0bXdnMHJ2MGR1SVRnMVJWMnhoY0R0NGxFOHdnUEFuMWw2UkZIR2VnQ19JZU1rR0YxNmVUQzNVdlNQLUlUVGNKQ24wNzNpSXZa0gGbAkFVX3lxTE1aUHYxcXRuQUs2ZzdJYy1TcHRoa0llUEVqUkdxcEdyNkdnVHVkTWxYdEhiWmhxWWVFXzZoV0x2LWRoNjRtem1nM0w5NmdMaXhucDFRcmJtV2d5REFlcUwwV1k0ZVV4emtGYVBuWkFTd0tORlJtcmNVcUctSmtZQl9vbWpUSHN0RVJzeUZocm5sdUNVUTg1bnRyc0t0VlNyMEtpV3dkTEVJVVNDSkl0c2UxNW1wN19hTG4wWVNlZUtCQXh5cFlYaDJBSTNVdHp5VE5Eem5TOTgxd2FESWNKOU5BRlBxVFJfYVVIMWZ1TndCcGJnLW5QU2N4NHVuek4wc3RHUHYwdEQzMlFJV3ZDTXI5Mm9JNk95UHN4d0k?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-09-12T07:30:00Z",
+      "description": "Autoridade Europeia para a Segurança dos Alimentos revisou novamente as evidências científicas sobre o aspartame e manteve os limites atuais de consumo; no Brasil, a Anvisa recomenda que o uso é seguro",
+      "image": "https://s2-oglobo.glbimg.com/txwtaf5OAdd3r8Hr8qcgsH61uzM=/5760x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/d/s/lzyVjpTeKS3ItWVFBbLw/world-diabetes-day-sugar-wooden-bowl-dark-surface.jpg",
+      "articleUrl": "https://oglobo.globo.com/saude/noticia/2026/09/12/tres-anos-depois-de-a-oms-classifica-lo-como-possivelmente-cancerigeno-europa-reafirma-que-o-aspartame-continua-sendo-seguro.ghtml"
     },
     {
       "title": "António Bravo internado no hospital - SELFIE",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnBKYzBSNURHNllkMk96Q2UydjlxVWloeEdLb3ZFMW9PQy1fVHhqMTZlWkZ4ZFJpdlNPeDBxdFRLWEk1dzZ5a2VyWkU4WFpCSExuVzJKY1ZBU2lqVTYyZ3ZvOWVEdWVKQnlrdk1qcDdoNUxuVEQ4RVRMWTFXMnFNeW1YOXNxb00xeHRnSnYwOUFZTE9SamNPQXl2dmRPX0JaRUtpQ2twdGttdjRPdEQ3Vg?oc=5",
       "source": "SELFIE",
       "publishedAt": "2026-09-12T07:41:00Z",
-      "description": "Notícia publicada por SELFIE. Abra o artigo para consultar os detalhes completos.",
+      "description": "Através do Instagram, foi partilhado que António Bravo, finalista do \"Big Brother 2021\", se encontra internado.",
+      "image": "https://img.iol.pt/preset/6aa5010a0cf23b0ed4fd8345/og/selfie",
+      "articleUrl": "https://selfie.iol.pt/famosos/big-brother/antonio-bravo-internado-no-hospital/20260912/6aa502440cf22b9f8904b853"
+    },
+    {
+      "title": "Gallery of Vila da Saúde Studio / Plareng + Consoante Arquitetura e Integração - 11 - archdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOak5xc1M3anplb0hTeFhBLUlPaE5QRTZ5aVFpSndGaFN0blBVT091MzR0aWVHWG5veGhEbWZGbVlySmotTnoxeENfbUIwS0xROThhbUlEOExVb2owVXlrZmkyRWlXZ0wwNzZsWFhpU20wVnFnSmpnTjFmMVdoT3RJclFYb09nU3FLWXp5aWNLZmRrSEpxWWptbkRvQXMyM0ZmMkM5Mjg1dmJhQWZQLS0yTnFtOUtBNGliSHEzNW5ZMDVGUldHNm1yU0syaHI2Q1BkQS1XcDFaV2FPX1hSV0VPc094UWFEaFdhdXEtdTBmT1JBd1kzeGdIMnUtMmg1STVDdWoxMnFveEFjdGFoRC1ubk9yNGpsbnVsRlFZSjhEejYzY3k2ODdaNm53?oc=5",
+      "source": "archdaily.com",
+      "publishedAt": "2026-09-12T09:28:13Z",
+      "description": "Image 11 of 37 from gallery of Vila da Saúde Studio / Plareng + Consoante Arquitetura e Integração. Photograph by Lela Leme",
+      "image": "https://images.adsttc.com/media/images/6a97/5cfe/e52b/d301/896a/7d16/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_12.jpg?1788304674",
+      "articleUrl": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao/6a975cfee52bd301896a7d16-vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao-photo"
+    },
+    {
+      "title": "“É justo”: Porto quer Estado a pagar novos centros de saúde - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWtGanBIXzdBbXdvSXcwdnF1WThEZEluY2g2d1JaWndFQUotSlh0aE9EOXRXcy1uZkk5Z0xzNHM1M09OUWFueExnX3ZfUVN1WW5SVWFDNnR3TGo0X190bDZXY1JGZGFLMEZtUHZ3T3BzamRGOHVsQVBKVG5GWE1GME1mWm5mTGVTellSQ3ozdTFvSFdC?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-12T06:16:14Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Porto: novo centro da Unilabs faz 85% dos exames de Medicina Nuclear para o SNS - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmdfUWdSVVJoalVuU3R5ZHhWMGlkVVV5eG43V01Ec05wVDh3T082NjF0aW5mODl1bXZhSEgyVmwyeVFqVUpFb0dnc0lwYUpyUTU3VXlJWTAxWG52aW05d181d3g4MlctSGtCNUNmSE1Nak14X0dVbVdrelpBcHBZZm1IOWpqUWVJOENwWHFzLTJaZEsxMURNalNRRmNtLUhZcGdPZFlnZGFxSV95RnpSUA?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-12T06:21:38Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "title": "ULS Viseu Dão-Lafões alarga perímetro de ação das equipas de apoio à saúde mental - observador.pt",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczdVQXVpSUtPZW1Mb0VZclNUS0JPTElfa1hjZW44MWZab3ljR1FQN1puMmJxcTZBSFk5Wlo0MEpseUMwMzBHZ2hpVWs4WGUya0RKZGVpN0JsUXNDS2F4SnN5c0t0V0JDMFVjcU1xUGxLSk5jbTNUZ1k1QnI1SmJiTlVLRkxBQ0JKNkZOX2lfMUxqSURmaXZLNVNhMlZaaEVJVVd0OWl2dDFvTnN2Q0RMQU1pbDBjZw?oc=5",
+      "source": "observador.pt",
+      "publishedAt": "2026-09-11T19:10:47Z",
+      "description": "Notícia publicada por observador.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-12T11:00:00Z",
-      "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
+      "title": "BRICS superam divisões sobre Médio Oriente e fecham acordo antes de cimeira em Deli - ECO",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekMzYlFsWlhOeXVMQVBnWlFUZmpSek85aW1JX3p5ZmRRa1dhbEt3WTBhZllfNWhUX2plRUZUVER2cEJyUURabkp4UlF0N05QS1JtZngwb3MtV2lCcE9HcmNMNW1WcmJYRm12TjJUdEpOS3dCR0d5aVpiNVVPajI1SVJnUnZBR0NMTzdtRjYwbngxVzRVaWY5ckdGYUJZLXJ5?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-12T10:25:52Z",
+      "description": "O impasse centrou-se na disputa entre Irão e Emirados Árabes Unidos sobre o conflito no Golfo, resolvida com um texto que não nomeia diretamente nenhum país envolvido no conflito atual.",
+      "image": "https://eco.imgix.net/uploads/2025/05/cropped-44883750-scaled-3.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/12/brics-superam-divisoes-sobre-medio-oriente-antes-de-cimeira-em-deli/"
     },
     {
       "title": "Putin alerta que envio de tropas europeias equivale a \"guerra contra a Rússia\" - dnoticias.pt",
@@ -142,7 +142,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-11T23:20:17Z",
       "description": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos....",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwETym9_&_nc_oc=AdpeLADrCPWrx71qsIe5gQVxRM_WveHCioW5RQuv8Atgj7lUL5tZXobMMZ-ozKI6RqU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CKSIJQ5aFVXc3Af_b2FWRw&_nc_ss=7820f&oh=00_AQJfVfJldSoNbVquAcWzuPucY8truFGK-5XkrNu1k2e1Qw&oe=6AAB180F",
+      "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwEMlvsj&_nc_oc=AdqmXbhS1DNw-cpLY6aZNJzoWzSxhIQz0rvyWe0Izo6UebEzGeORdsGlc7k4ZqJ8lyk&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=qx6jYmtfxDvWS22WZ0Mpjw&_nc_ss=7820f&oh=00_AQKNJeSyswtFIvy7A2lMg5u-FIjFwVRZhhzdzalUJdnRyw&oe=6AAB180F",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/se-eu-pudesse-fazer-tudo-de-novo-faria-exatamente-como-fiz-disse-o-presidente-do/1473543658210246/"
     },
     {
@@ -155,6 +155,15 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-11-uniao-europeia-aprova-verba-de-61-mil-milhoes-de-euros-para-a-defesa-aerea-da-ucrania-70ae67da"
     },
     {
+      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-12T00:00:00Z",
+      "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
+    },
+    {
       "title": "Vladimir Putin e Xi Jinping na Índia para a cimeira dos BRICS - RFI",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUo0ZVVvQV9GV25XRDhveUVPNkw5czk5X3VacmdoLVF1OENIa3A1VHU0elR2VWJ2N1NkaEgzMU9TaHFrZlltSWxNNm1pWXlLb2Jra2dKUGVnSHFVeV9uU3hVbnk5dUllNnJ2NlpVc0pJN2I5dXZXRHE4dkttR3dDMGdIbkp6SC1qelF2NG5aeENxTTI2MDM2TnJqU0ZQQ0R3eG5iUk13?oc=5",
       "source": "RFI",
@@ -164,18 +173,27 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260911-vladimir-putin-e-xi-jinping-na-%C3%ADndia-para-a-cimeira-dos-brics"
     },
     {
-      "title": "Putin e Modi discutem impacto dos conflitos no Médio Oriente e Ucrânia - Notícias ao Minuto",
+      "title": "Putin e Modi discutem impacto dos conflitos no Médio Oriente e Ucrânia - noticiasaominuto.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWg1dXRxbU5raWd4LWtTLVVqMW9lbGxNU0lqNWNVd1Y3Mk5CdnVpQXdhb1cwT2pPNkh1N1hBa2I5UVJ0am1kZTJQSDJqTXhld1NKZjBjaEFQWHcxT1U0Z1k1WkszSktadFJ2VlYwMGtGOG4xUGVrV1JYNG0tUUoxU091bmRrUXJRNWdadHc1a09YUmVROXI0Nl90aDd0b2pTMzNZWUdOejZuMmVURW9RUHBZYW16SFZW?oc=5",
-      "source": "Notícias ao Minuto",
+      "source": "noticiasaominuto.com",
       "publishedAt": "2026-09-11T16:06:18Z",
       "description": "Os dois responsáveis encontraram-se numa reunião bilateral, realizada em Nova Deli antes da cimeira dos líderes dos BRICS (Brasil, Rússia, Índia, China, África...",
       "image": "https://media-manager.noticiasaominuto.com/960/naom_6639c211a0665.webp",
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3050056/putin-e-modi-discutem-impacto-dos-conflitos-no-medio-oriente-e-ucrania"
     },
     {
-      "title": "BRICS descobre que desafiar o Ocidente é mais fácil do que concordar entre si - A Referência",
+      "title": "Presidente do Irã diz que o Oriente Médio não precisa de um ‘policial’ dos EUA - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXdKNzYtOWpZeVRQakR6MjNDMGhCT0x0WlVQYWhEYVJvMUpiZFlLUzEwcWtrdm1nWHFoQ09hNGxuUzVzeVEwYXFNV1lISmdXMmZSalZsZTRLYXZzRy1SdkdlU1Z5WGpuZFRQem1ISmhyQmNUWUpnaUh2blBCVXZMbGQtbFd5MEtOOW1JaGRpanZoZlNjZDI1VUhVQl9ZTE5ycWZneHFsZlo1Z2pMSmFTbHZkdzdVQ3o5YnY1VUx5TdIBxAFBVV95cUxNUUlFTVdnTGRWcnRXSnR0UGZ5d2U4eFVIMjFER25TbERkaERNVzdWeHNmZF9oajBwZUpTR0h4djlUeHVOQzR2dUozaVJ5Rk9TQ0oxbG13bEs4M21vN2RSWEdaUm1YY0VOdFN1ZThaWUw5RG9NU3BrS0hZY2NpelY5ZEFFNThsWmpsMVBHTnppMGZBYU5oQWZDWDVFdlo0dE50VEtiV2ZzRHhla3AzV3NKck9ZUS1UaXluUFFLWEJZNHk5aVdx?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-09-12T10:53:00Z",
+      "description": "Masoud Pezeshkian fez a declaração neste sábado, 12, durante uma reunião com o primeiro-ministro da Malásia, Anwar Ibrahim, à margem da cúpula do Brics na Índia",
+      "image": "https://www.estadao.com.br/resizer/v2/BARKOIGLRRC25FWMD5IUS7Y2ZA.jpg?quality=80&auth=9e670899c9348742a879a0c6c568ef1fdf7b1ee18d7fb8929277f856197769c6&width=1200&height=630&focal=516,637",
+      "articleUrl": "https://www.estadao.com.br/internacional/presidente-do-ira-diz-que-o-oriente-medio-nao-precisa-de-um-policial-dos-eua-npr/"
+    },
+    {
+      "title": "BRICS descobre que desafiar o Ocidente é mais fácil do que concordar entre si - areferencia.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemh0X3FFcVdoblZPYm1iS29fZk93NHlSSExkVVlXS19tSDg4X05TTWRVcFZoRGtaLVRaNEpkbzNjNE41Z1RPalJWS3B3cVNFNEFSTy1ZcGN6UXlXbmlRY0NWY2Z0QTJXd1hOZjl4dklUZTYzaFlORV96LW13c3FNR2dMQ2NDelVpQ2ZDaWlNbGYwV0RlS3E5c0dtRGlaaDdMVDdJQm5UVHNVSjdaSlVUdUtwem1uZmZfbFhMaXlyT2E5dTdM?oc=5",
-      "source": "A Referência",
+      "source": "areferencia.com",
       "publishedAt": "2026-09-11T19:43:28Z",
       "description": "Guerra no Oriente Médio coloca Irã e Emirados Árabes Unidos em lados opostos às vésperas da cúpula do bloco, que reúne 11 países em Nova Délhi",
       "image": "https://areferencia.com/wp-content/uploads/2023/08/53136599816_1b061882b8_c-1-e1693234472218.jpg",
@@ -186,18 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMm41OXFkSDJNcVQ5T2NEZTRULVlPOWoyT1gzZTJncUw4cG9RSlVMWmxwSEpaUWVWME9qaU9PZ2VVTENrSlQxNEUxVnoydlVfanZMYkFFdlN5S0VkSm04RGFYd1Ywa1c2YkdhVTJwY08yUGtxYUVoaHhPQWlaUXpFQS1neHlCV1lCQkRGRDBxckpvVklsRkFLMTBfQ2pjLTlzd2RqZlZLRGtMNGFyZVVGUlMxaTFwT2ZiVjdpN3pJdXZFTmhjYWdoZmp4RFMxZ0I5X29kVTJrM1dtQ2RxbmZNaGo0ZFUxM2hrby1oQTBvTmtoQmc0X1RuV1FrVDROOEE?oc=5",
       "source": "Terra",
       "publishedAt": "2026-09-12T10:12:00Z",
-      "description": "A 18ª Cúpula do BRICS foi aberta oficialmente neste sábado (12) na capital indiana em um contexto internacional marcado por conflitos armados, tensões geopolíticas e incertezas econômicas. Durante dois dias, os líderes dos onze países do bloco discutirão temas como comércio, energia, governança global e os impactos das guerras no Oriente Médio e na Ucrânia.",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/12/1538733540-rp-inter-12-09.jpg",
-      "articleUrl": "https://www.terra.com.br/noticias/mundo/oriente-medio-nao-precisa-de-um-policial-diz-presidente-iraniano-na-cupula-dos-brics,cfc6ec59be96d1a710a2f5e2b44b6ce6zrqcfcs7.html"
-    },
-    {
-      "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRldkSDRsZEhia012czVRZTQtdVB6d0FJYXF5VVZmOVF5OFY2UXRVMjBHT2ZFWThLNTdXamxQVVhOMWJsclNpclBQQWROcGxTTVpqRjRjd3ZqZVdXbS1GTkxLQkVwVl8yVzcwaFBGd2U1TW1YYnNJbF9ZM1NfTHkxQU5NenJ5ZHdHOVhGSmJkdnM5d1k5dldrRGZsM3NqXzlndmJDb2h1T3UzcGloajktVG9ZbzBmMzQwUnJaUXZBX2p1SGtZWmRyc0J6dmpOWGRNZHfSAeABQVVfeXFMUHdsTUdjZUVVdGZZbVRJNlFwUlktdTlLX1VvQzduQnNoZGM2WmdiR0pVVkhnS2xmdFh1N3REU1I3dmk2bU9GVVpRcE1KSUIxRzdQU2VDdXhvaWYwckJMbWt0aS1IaFVwN0wxMkFFcG1QQnZWemhRN1BKVk1RMkpGNG1PSzUwaXVSN1pUT1FZMGVELUtrWUlvN1hDZXE0SGVUNHJXVzFPRmRUV3lka0RWc2dVLS1QaXNCR0wzWmJtMnNtQUFvZWhXT2FGZkJFak9RMHFTN3R5cGI3VmFHZ1lDREU?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-09-10T12:11:34Z",
-      "description": "Emirados Árabes Unidos, integrantes do grupo, suspenderam em agosto todas as transações comerciais e financeiras com Teerã, depois de serem atingidos por mísseis da República Islâmica",
-      "image": "https://s2-valor.glbimg.com/uHcJLQ2dF8ITk7ZBskFvK_sh_W4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/B/F/AH0DFqSeAd0RNzZYkOPQ/2026-09-03t144419z-214326589-rc2fbnaqmr00-rtrmadp-3-brics-summit-india.jpg",
-      "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
+      "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Gasóleo supera pela primeira vez os seis dólares por galão nos EUA - dnoticias.pt",
@@ -205,14 +213,6 @@
       "source": "dnoticias.pt",
       "publishedAt": "2026-09-11T09:34:00Z",
       "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Ucrânia em conversações com a União Europeia para aderir à IRIS 2 - ECO",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYktDdG55alJIajQ4RlBNM3dzWGkxZXdGX0xWWlVtWDg4cjFPdDh5aHdWdVNyZkE3TS1IMTE3bmxQZE5mTTVIc1dXbWR4eTNCN1prYkllNy1OWWtGSG9FS3hzaEVyc21lMVY0SHplekkxLTMzcXFHcXlRckV3T05wVFR6REIxcmt2V0M0RE01cVJlcFNkd2M2MFhEMGIzQQ?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-10T19:32:46Z",
-      "description": "Notícia publicada por ECO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
