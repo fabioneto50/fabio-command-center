@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-12T17:24:57.681208Z",
+  "updatedAt": "2026-09-12T18:28:41.680050Z",
   "health": [
-    {
-      "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ljNk9mOVJ5RjZMYk8zUjhqWGxrQy1COUNKLUZlNm1sMEJzcEJxaXFIRm5tem4xaG1vRUVMbnhTeV9IZ0w0c2J6QU5qclMwMi1YRlN2a2VoaERPSGt2UmpjTHJmQ3lkc1ZqM0VnTm1ZRERnZFg1YkZmTGFiRHR0QVFRakR1dzE3d3djbGdYTTFRTWVnTjV0ellCTHVrcDlESzBnNWNn?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-12T16:22:23Z",
-      "description": "Seguros de saúde individuais cresceram 6,3% em 2025, muito acima dos seguros de grupo. Longe de os substituir, as apólices oferecidas pelas empresas estão a impulsionar o mercado particular.",
-      "image": "https://eco.imgix.net/uploads/2025/10/cropped-45098332-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
-    },
     {
       "title": "No cancro, quanto medicamento é demasiado medicamento? Doentes e investigadores questionam as doses aprovadas pela FDA - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPS1ZTWmc1SjIwb3M0YnhtbnBQQkNRc1hoY3d4dGhZZmhmRU91R2Etelkwanlpa29EZWtJUjMxZXdXNUotcmRpcVdzb056cnlpeGlDOGk3SVRsaDkzRG03SzhuRm91Wk1aWV83ZXUzQWtCQzhGODVQdXRhYTR1TFFHSGoxX0ZXVTRKbEhTTUtGNXd3VTBZcDZFWUg4dWJEbW5ZUDZ0OE5zcFV0LXZjSTdpWjRNTHVhbHJhaThyMzlYUlgwV0hmb2t1c0EwQzE1OXd6cVZYMmZGSzY1LXY5V0RkRzE0WFpfQnA1SW1GMGM0dTd3OTdaeEFpcDRNUlI0QTVuUWRuNEZPbkI3UGVmMml5OXRoN1JxUFNFQlVVcVNMOXBHUlVMYXRqWERaQnBKUQ?oc=5",
@@ -20,13 +11,22 @@
       "articleUrl": "https://cnnportugal.iol.pt/cancro/tratamento-do-cancro/no-cancro-quanto-medicamento-e-demasiado-medicamento-doentes-e-investigadores-questionam-as-doses-aprovadas-pela-fda/20260912/6aa022b1d34e511da0b37807"
     },
     {
-      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
+      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-12T16:00:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
+    },
+    {
+      "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ljNk9mOVJ5RjZMYk8zUjhqWGxrQy1COUNKLUZlNm1sMEJzcEJxaXFIRm5tem4xaG1vRUVMbnhTeV9IZ0w0c2J6QU5qclMwMi1YRlN2a2VoaERPSGt2UmpjTHJmQ3lkc1ZqM0VnTm1ZRERnZFg1YkZmTGFiRHR0QVFRakR1dzE3d3djbGdYTTFRTWVnTjV0ellCTHVrcDlESzBnNWNn?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-12T16:22:23Z",
+      "description": "Seguros de saúde individuais cresceram 6,3% em 2025, muito acima dos seguros de grupo. Longe de os substituir, as apólices oferecidas pelas empresas estão a impulsionar o mercado particular.",
+      "image": "https://eco.imgix.net/uploads/2025/10/cropped-45098332-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
     },
     {
       "title": "Fazer bem à saúde, à entreajuda e à solidariedade - OCC | Ordem dos Contabilistas Certificados",
@@ -65,13 +65,13 @@
       "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
     },
     {
-      "title": "Céline Dion prepara-se para regresso emocionante em Paris - Jornal de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVViNVBmcTdtWEFsLUloVGpCNldtLTZnUkl3TDZTR2hGb2l3SUFBVU9icWlJWTF6U0ZQbUVXTGtrc3RXbnZRRGZIa2d3eEFTOURpSkFUQzJrVU9qaTZZRmVHLXJBc3Mta3JGcEI5ZVR1Q09VYjE3eXhKV0locEtJWmQ4Y2lDbnZvYk1oU3NFeTJkTDh6V3dMMlJ5YUEtdzc10gGSAUFVX3lxTFBzTUpLNVNoYy0yZjQ2dTZTYnZLMy02OGd5MlZmUkRCNE1pQTV6akVxaTJXb3JEeEFkMXJwWXdQQmpYMERNcTRKb3IycllEbHFLNXZ5MjctTHhxZFc5RENUVjZlOUhKdU9yUXRPLTVGZkFTb05oVDBVLUJXRjdEYmRPZ1p0U3ZDV1BuSnA0QlR3OHhB?oc=5",
-      "source": "Jornal de Notícias",
-      "publishedAt": "2026-09-12T15:49:00Z",
-      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.jn.pt/pessoas/artigo/celine-dion-prepara-se-para-regresso-emocionante-em-paris/18125944"
+      "title": "Hospital da Luz entrega um Desfibrilhador ao Desportivo da Póvoa - Voz da Póvoa",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3dHUklMWnJYUk0wMDFzWEY0anJ3YlhXQUV1czdGeFNKaHJmZjBlWFZhcDhOM1dmRUtaQXNjbERXTW1ybTdjVUIzN2dMNGVGM3ZpeWtUWEdjVlNadndLdm9rbERVZVNGWTdodEkxX3VsTnJuUkY2VlRHS0JydTByRzJJbm1id0ZxQmQyYUhrZ01ITm41NFJEX0VqSGpOM1lqVjAwQWRMbWhtZw?oc=5",
+      "source": "Voz da Póvoa",
+      "publishedAt": "2026-09-12T17:28:44Z",
+      "description": "O Hospital da Luz Póvoa de Varzim entregou, no dia 11 de Setembro, um Desfibrilhador Automático Externo (DAE) ao Clube Desportivo da Póvoa – Basquetebol, uma iniciativa que possibilita reforçar a segurança de atletas, equipas técnicas, colaboradores, mas também de toda a comunidade desportiva. A cerimónia contou com a presença do Administrado do Hospital da Luz da Póvoa de…",
+      "image": "https://www.vozdapovoa.com/imagens/3968/RS5_0007_.jpg",
+      "articleUrl": "https://www.vozdapovoa.com/noticias/local/hospital-da-luz-entrega-um-desfibrilhador-ao-desportivo-da-povoa"
     },
     {
       "title": "Dois mortos vítimas de doença súbita no Caniço e em Santa Cruz - JM Madeira",
@@ -83,20 +83,20 @@
       "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/ocorr-ncias/30004974/dois-mortos-vitimas-de-doenca-subita-no-canico-e-em-santa-cruz.html"
     },
     {
-      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - sic.pt",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFRXdmQ1ZnR5Qmt1MXpBUlB3M3dlTnRqM0toM1N0RTBndjUzUHhNU2ZxczZURHUyZ0FOX3NPZlFDOWZOY001OWpfeUZVRGFKVjZwSWZEUVoxSzNtSThGR3BGQ0JKWGdrdW0xemlXdkpSX2p1eFBCOVp4UjVYZDRiS2ZWSko5M2lVaVU0NndNM3doS0paWFNnd192WUVFalJacGhQRE9iaE5LdnFnNnFHWHVsVWZSQlNDOU9BOW9aaWNCbjBFWGJ3c250NzJoVHVrTHpLWmtncmV6MEU?oc=5",
-      "source": "sic.pt",
-      "publishedAt": "2026-09-12T08:45:09Z",
-      "description": "Notícia publicada por sic.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Céline Dion prepara-se para regresso emocionante em Paris - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVViNVBmcTdtWEFsLUloVGpCNldtLTZnUkl3TDZTR2hGb2l3SUFBVU9icWlJWTF6U0ZQbUVXTGtrc3RXbnZRRGZIa2d3eEFTOURpSkFUQzJrVU9qaTZZRmVHLXJBc3Mta3JGcEI5ZVR1Q09VYjE3eXhKV0locEtJWmQ4Y2lDbnZvYk1oU3NFeTJkTDh6V3dMMlJ5YUEtdzc10gGSAUFVX3lxTFBzTUpLNVNoYy0yZjQ2dTZTYnZLMy02OGd5MlZmUkRCNE1pQTV6akVxaTJXb3JEeEFkMXJwWXdQQmpYMERNcTRKb3IycllEbHFLNXZ5MjctTHhxZFc5RENUVjZlOUhKdU9yUXRPLTVGZkFTb05oVDBVLUJXRjdEYmRPZ1p0U3ZDV1BuSnA0QlR3OHhB?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-09-12T15:49:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
+      "articleUrl": "https://www.jn.pt/pessoas/artigo/celine-dion-prepara-se-para-regresso-emocionante-em-paris/18125944"
     },
     {
-      "title": "Investigação com 'cunho' português desenvolve enzima devoradora de plástico - SÁBADO",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT29hS3F0VWloc3hkTElBdzhLaHRMdndXdWlhYUVhSWtOdWJhTkx3QVJkVEtTQVZfWGcwZVZMeFhFb2M2c0U0cEY1Mm1aaDM2QzVsZWJyemEwWjlHak1UTENqczVGUjRFOEZ5ZllwU0JwSEZtYWgwbGlKZXdjQ0RQYUQxbmJibkZvREVjaVJPMzJZRXVVYzNNUkUxNm53dTRNZFI0MjE1MUhnVXZtRVp2eDk5UUNYeHQ5SGFv?oc=5",
-      "source": "SÁBADO",
-      "publishedAt": "2026-09-12T10:12:51Z",
-      "description": "Notícia publicada por SÁBADO. Abra o artigo para consultar os detalhes completos.",
+      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFRXdmQ1ZnR5Qmt1MXpBUlB3M3dlTnRqM0toM1N0RTBndjUzUHhNU2ZxczZURHUyZ0FOX3NPZlFDOWZOY001OWpfeUZVRGFKVjZwSWZEUVoxSzNtSThGR3BGQ0JKWGdrdW0xemlXdkpSX2p1eFBCOVp4UjVYZDRiS2ZWSko5M2lVaVU0NndNM3doS0paWFNnd192WUVFalJacGhQRE9iaE5LdnFnNnFHWHVsVWZSQlNDOU9BOW9aaWNCbjBFWGJ3c250NzJoVHVrTHpLWmtncmV6MEU?oc=5",
+      "source": "SIC",
+      "publishedAt": "2026-09-12T08:45:09Z",
+      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -126,6 +126,15 @@
       "description": "Decorre este sábado e amanhã em Nova Deli a 18a cimeira dos BRICS, bloco inicialmente formado pelo Brasil, Rússia, Índia, China e África do Sul e que abrange um total de 11 países. Na sua declaração…",
       "image": "https://s.rfi.fr/media/display/454b4bbe-adfb-11f1-b404-005056bfb2b6/w:1280/p:16x9/2026-09-11T142648Z-80287782-RC2ZGNA1LEQI-RTRMADP-3-BRICS-SUMMIT.jpg",
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
+    },
+    {
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTdIBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
+      "source": "dw.com",
+      "publishedAt": "2026-09-12T16:11:58Z",
+      "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
+      "image": "https://static.dw.com/image/79245316_6.jpg",
+      "articleUrl": "https://amp.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498"
     },
     {
       "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - Diário de Notícias",
@@ -191,28 +200,19 @@
       "articleUrl": "https://sicnoticias.pt/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a"
     },
     {
-      "title": "Brics pedem 'cautela máxima' em meio à guerra e China quer bloco como mediador no Oriente Médio - Terra",
+      "title": "Brics pedem 'cautela máxima' em meio à guerra e China quer bloco como mediador no Oriente Médio - terra.com.br",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUExnWFZjWEZXWGQxM3VHMjlVcEt2NjFYS2pLelowcGpDQ002SGVyVWNXWjB4Z1RmYWZidWRSOXBFaUNIcGNQQWpWNW45M3pQWUY5SHMyQTAzMGFsT0RGZGh1NVA5ZmJvcjhPb01VRmRDRF9FaXBBd3R6ckJTazEyRkdoNTluR0tDdHNUUHBvVXRHOUVzT2haVl9jcmtRc0pfblNic3o0MkJjTk9LTzNDNzdUeFNiRVJXUktISnVhT2sxRWdOS2ZMdGoxV2VnU1V6dE5CWkk1c3JydFZfVFBPdDh1T2VZMXpMNU1KZThfR0ZLWjVZeFVpRm5vWFA3ekJZQ3VtVDRiakdRRjQ?oc=5",
-      "source": "Terra",
+      "source": "terra.com.br",
       "publishedAt": "2026-09-12T16:03:00Z",
-      "description": "Os Brics pediram neste sábado (12), em Nova Délhi, \"cautela máxima\" às partes envolvidas no conflito no Oriente Médio, numa declaração que traduz preocupação com a escalada regional. O apelo ocorre no mesmo dia em que Xi Jinping defendeu que o bloco atue como mediador, afirmando que a guerra \"não serve aos interesses comuns da comunidade internacional\". A reunião também marcou…",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/12/1347908492-000-c84e8ct.jpg",
-      "articleUrl": "https://www.terra.com.br/noticias/mundo/brics-pedem-cautela-maxima-em-meio-a-guerra-e-china-quer-bloco-como-mediador-no-oriente-medio,f92785e6799837f5fa6eebff72b7689bxo6lspja.html"
-    },
-    {
-      "title": "Xi Jinping diz na cúpula do BRICS que guerra no Oriente Médio não serve a interesses comuns - Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc05vQ0N0ekNZUlhkOWNka2h3bVF0cDIwR3d6Q3J0eWdZTUY1Uzl1MVd1R1VuZ3ZSRjFHb0lXTnFuQWxYZTF0SU5ZYnVBcW4xMFpLTXpwVTQtWTVkMnRFSElJWmx4dTdLU1BoSDA3UnFwN1YwRllXSVZPTXg5Q3h3TXJiNjM1V3RfUnRRckhR?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-09-12T13:22:00Z",
-      "description": "Notícia publicada por Times Brasil | CNBC. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por terra.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - CartaCapital",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlhVWHdPNjZuOUdnamtqZXNmZnVmSzhSdWJOdzl6Y1JkTHJMRzNlWEpNTTJJX3lTc01aSnBpdEdQREpFdkVLMXJ6dXNMdlJnWlA2TEJDRUxHVmhpdjBFMW1URWp1LVdkTXZfWHBtSzIwd2dnSW1hTEo3WlBZNjVUVHZwT1dlV2RkMVV3ZncwZHhYbFJDOFlXRnJITjBxQQ?oc=5",
-      "source": "CartaCapital",
-      "publishedAt": "2026-09-12T16:37:00Z",
-      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
+      "title": "Brics pede cautela no Oriente Médio, enquanto China tenta transformar bloco em mediador da crise - Exame",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVI0aXVJS25kb2FHU2JVZkVBRXJXNUpJd21hZFFzbUVoQUZyUG5zSHVhb09RcjRKa2dwWENwbU03QU9wcVN4cm1qUUNRZF80ZzB1dlVkdkFWVlJqWDhtRzlsLVBOb2NGaUtpdG1iUGVmYzVpWktyZzdVX1M2d1VweEpLVFBmZndPV0tCempYbGJIX3Q3WnB6OGZNWks2cWtlZF9rQmhiZDFvbXIxU1RqV0tnZm9OekNhcEMxbw?oc=5",
+      "source": "Exame",
+      "publishedAt": "2026-09-12T17:24:10Z",
+      "description": "Notícia publicada por Exame. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
