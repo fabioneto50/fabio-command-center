@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:25:40.506900Z",
+  "updatedAt": "2026-09-12T23:25:16.595407Z",
   "health": [
     {
       "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
@@ -65,15 +65,6 @@
       "articleUrl": "https://www.flash.pt/celebridades/nacional/amp/problemas-de-saude-e-lagrimas-no-nascimento-da-filha-sara-barradas-e-jose-raposo-desabaram-apos-momento-dramatico"
     },
     {
-      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFRXdmQ1ZnR5Qmt1MXpBUlB3M3dlTnRqM0toM1N0RTBndjUzUHhNU2ZxczZURHUyZ0FOX3NPZlFDOWZOY001OWpfeUZVRGFKVjZwSWZEUVoxSzNtSThGR3BGQ0JKWGdrdW0xemlXdkpSX2p1eFBCOVp4UjVYZDRiS2ZWSko5M2lVaVU0NndNM3doS0paWFNnd192WUVFalJacGhQRE9iaE5LdnFnNnFHWHVsVWZSQlNDOU9BOW9aaWNCbjBFWGJ3c250NzJoVHVrTHpLWmtncmV6MEU?oc=5",
-      "source": "SIC",
-      "publishedAt": "2026-09-12T08:45:09Z",
-      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
-    },
-    {
       "title": "Dois mortos vítimas de doença súbita no Caniço e em Santa Cruz - JM Madeira",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW1pVXIxYkFUTmlKMHJPcWxza2NCd1lZQkxqSHRsZVdCWHh3Tjk1YXZfRGx3TGd0azBEeUh1amlCNlZ3WXhsUkI4aDktcDVpRzFmSzVIUEtNcWZtSDVOSHZkWkdxamZzRk9Ec0w2dE0tLVJINVRhODNhN2dsMWRZazctTWtfSWZ2cnVGZkJjM25PWHVjNnNzbEVYZHVlY2lBLWNZRDBHall2QW1VTzlOOGxORndNdTFqYzlBMzdyM3ZwS0E5UnpR?oc=5",
       "source": "JM Madeira",
@@ -90,6 +81,15 @@
       "description": "O Hospital da Luz Póvoa de Varzim entregou, no dia 11 de Setembro, um Desfibrilhador Automático Externo (DAE) ao Clube Desportivo da Póvoa – Basquetebol, uma iniciativa que possibilita reforçar a segurança de atletas, equipas técnicas, colaboradores, mas também de toda a comunidade desportiva. A cerimónia contou com a presença do Administrado do Hospital da Luz da Póvoa de…",
       "image": "https://www.vozdapovoa.com/imagens/3968/RS5_0007_.jpg",
       "articleUrl": "https://www.vozdapovoa.com/noticias/local/hospital-da-luz-entrega-um-desfibrilhador-ao-desportivo-da-povoa"
+    },
+    {
+      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFRXdmQ1ZnR5Qmt1MXpBUlB3M3dlTnRqM0toM1N0RTBndjUzUHhNU2ZxczZURHUyZ0FOX3NPZlFDOWZOY001OWpfeUZVRGFKVjZwSWZEUVoxSzNtSThGR3BGQ0JKWGdrdW0xemlXdkpSX2p1eFBCOVp4UjVYZDRiS2ZWSko5M2lVaVU0NndNM3doS0paWFNnd192WUVFalJacGhQRE9iaE5LdnFnNnFHWHVsVWZSQlNDOU9BOW9aaWNCbjBFWGJ3c250NzJoVHVrTHpLWmtncmV6MEU?oc=5",
+      "source": "SIC",
+      "publishedAt": "2026-09-12T08:45:09Z",
+      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
     },
     {
       "title": "No cancro, quanto medicamento é demasiado medicamento? Doentes e investigadores questionam as doses aprovadas pela FDA - CNN Portugal",
@@ -110,13 +110,13 @@
   ],
   "world": [
     {
-      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOellJOXQyQkxnVWVOTm9oVmtsRTJjV25yOVJXX2hFZk5ONWhZRjhwYlpqWmZKVFhfVlhoOVZaMEJqZ2syOE1kZV9Pd1pDUHlOX2hHX1RnZ0dnWTVhQkxFb1VjcFd2Z3hGWnhOTnBWWjBVZ3pxWnJ5MVp3UVU3OVRoZHhkdU5ueU9ZRllOUXo5WWpIU0lzaWNaa01SYVdOZTBoMWg2Z3BkVG9JRzZxNDlqSVdnVDhBY2tqSTBRYklicjlNYkx5ekZwREZWcXpJUUtYRGd6dzJ2S25rOHlLQ3R3?oc=5",
+      "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDIzeDhnSGljUFd4UzZGdTVadmVnQ1lPTThfMVYyNTRtQlFFTHJQN1lSZmhFOVNPRWFYTDlmNm1kdVdaeXlMeWFjYzlOekpxYVFtRE5MQzcyM01vOWVPZ21lb21IT2RUNTR0Zm80SHh1cEJYY294Wm8tMzdKbWFieWJ2UUZNWmlXMEtBbW5vczRIRnV6eWhtTXJYYXo4a0p1aklmcTlScm5aZHpsaFhnNWl3N1dWUUx4cjhDeVoyQmpLSmlhUHREUTlHSy0yNHBoRVJITUhEZGpabFJTQk5qa0EzQUo1S09Gb1cwOXJZMGQxSXc?oc=5",
       "source": "SIC Notícias",
-      "publishedAt": "2026-09-12T14:28:03Z",
+      "publishedAt": "2026-09-12T22:35:54Z",
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://sicnoticias.pt/mundo/medio-oriente/2026-09-12-lideres-dos-brics-pedem-maxima-contencao-face-a-escalada-na-guerra-no-medio-oriente-f5a98aa6"
+      "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
     },
     {
       "title": "Conflito no Médio Oriente na ementa do primeiro dos dois dias de cimeira dos BRICS em Nova Deli - RFI",
@@ -128,22 +128,31 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
     },
     {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - DW.com",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - dw.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTdIBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "publishedAt": "2026-09-12T16:11:58Z",
       "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
       "image": "https://static.dw.com/image/79245316_6.jpg",
       "articleUrl": "https://amp.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498"
     },
     {
-      "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - Diário de Notícias",
+      "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - dn.pt",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVQ1NTlkQUd0N0pTWjRzcFZxc2dXLXhhS290SThVYWUwM0tYLTFUeVNEYm0xSXRjVk9FQ2xwd20yN1NMaUFTRWFTdWc4S01JdURzM3Bqdkhqc1VkT2tQWVVFSWVhZy1HOENnRGZtaWVLdTB3NDc3Vk5MRm5Yb1dVTXNoX212TEEyV09sZmlKeVF3eTN5OUFGU3psMGItaF9NNlcyMmZlUzlkWG80MHZ6bHVKRUppNWE3b1lOejhmTFgwdw?oc=5",
-      "source": "Diário de Notícias",
+      "source": "dn.pt",
       "publishedAt": "2026-09-12T14:43:07Z",
       "description": "Reunidos em Nova Deli, os 11 líderes do bloco dos BRICS convergiram este sábado, 12 de setembro, num apelo urgente à \"contenção máxima\" face à escalada bélica n",
       "image": "https://media.assettype.com/dn%2F2026-09-12%2Fgxvezfj6%2FDOC.20260912.47762423.13233968.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/internacional/cimeira-dos-brics-lderes-apelam-a-conteno-mxima-no-mdio-oriente-e-rejeitam-sanes-unilaterais"
+    },
+    {
+      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOellJOXQyQkxnVWVOTm9oVmtsRTJjV25yOVJXX2hFZk5ONWhZRjhwYlpqWmZKVFhfVlhoOVZaMEJqZ2syOE1kZV9Pd1pDUHlOX2hHX1RnZ0dnWTVhQkxFb1VjcFd2Z3hGWnhOTnBWWjBVZ3pxWnJ5MVp3UVU3OVRoZHhkdU5ueU9ZRllOUXo5WWpIU0lzaWNaa01SYVdOZTBoMWg2Z3BkVG9JRzZxNDlqSVdnVDhBY2tqSTBRYklicjlNYkx5ekZwREZWcXpJUUtYRGd6dzJ2S25rOHlLQ3R3?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-09-12T14:28:03Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/mundo/medio-oriente/2026-09-12-lideres-dos-brics-pedem-maxima-contencao-face-a-escalada-na-guerra-no-medio-oriente-f5a98aa6"
     },
     {
       "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
@@ -164,18 +173,18 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505142-putin-alerta-que-envio-de-tropas-europeias-equivale-a-guerra-contra-a-russia/"
     },
     {
-      "title": "EUA avaliam reduzir tropas no Oriente Médio após conflito com Irã - CNN Brasil",
+      "title": "EUA avaliam reduzir tropas no Oriente Médio após conflito com Irã - cnnbrasil.com.br",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDViNEJFM3ZvdW81VFFENHprYXA1VDl2TGJrdE96ZUtzdllVQjJHanducnBHU2U2alM2RGQ3QzNiWkoxS2dwdWZTdXNOOVRESE1vamVfOHFsTE8xaWRhdEw0RW02dFZsR21RMkVaTTNzUEdNdkg5OUxrUWRvaXJsU19Pc3JZbzA?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "publishedAt": "2026-09-12T13:00:00Z",
       "description": "Discussões internas no Pentágono e na comunidade de inteligência avaliam cortes de pessoal e instalações na região caso acordo de paz seja alcançado",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/AP21243461310576.jpg?w=1200&h=630&crop=1",
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/eua-reduzir-tropas-oriente-medio-ira/"
     },
     {
-      "title": "11 de setembro. Bombeiro português recorda operação de salvamento nos Estados Unidos - RTP",
+      "title": "11 de setembro. Bombeiro português recorda operação de salvamento nos Estados Unidos - rtp.pt",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMERxVTRUVktaVGd5UmNvRmY2WEk2UmlsOVprTVpnWmNELW5JdmhKMldQbTBZUnRfemxvWmFOQ1BNZ3FSM3VRYmtKZFVHQVQyV3R2Y1ZmRUl5cUVSZWs4TURNOFYxS3kwSUlKaVVxUjJ3ZldMdHYtNlJfdTh0U3FMQlpyeEhCZm5Wd2RCUzVUeGJXWTZJMXhiWE5JckY4NDUyeTBFMlZEcG5tSU05U0YxSHBYeTZCN1RwdFBoU1oxWVAtNUli?oc=5",
-      "source": "RTP",
+      "source": "rtp.pt",
       "publishedAt": "2026-09-11T21:36:40Z",
       "description": "Nas operações de busca e salvamento após o atentado de 11 de setembro de 2001 estiveram dois bombeiros portugueses. José Ricardo Bismarck recorda os oito dias em que esteve em solo norte-americano.",
       "image": "https://cdn-images.rtp.pt/icm/images/58/5807ee16816b1f0cd7aebefa73e47b11_N.jpg",
@@ -191,15 +200,6 @@
       "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/resolucao-generica-sobre-guerra-marca-cupula-dos-brics.shtml"
     },
     {
-      "title": "Trump diz que guerra no Médio Oriente vai acabar depois das eleições intercalares nos EUA - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPQTM0d0J6MmZHcU14ZmR0bjA1R1hkbC15ejNRVWVDaGtDUHFFRkNuY2xTQlNwb2s5aEdlazMtOE9wendoNnlLQ2k4MW1MWXJyQ1I0SHROZ1BYakstMElSZ3RMamFqaDc4TGo2aEdxQTNuelY4Y09SLTYzcnhTMEFVSjUwX1RlZDdZYVNSc3doRjFHekN0Qjl3RFRneWxiNEprTXNOeDF0aUVSbmxIYjBKczFPU1ZzbWpXSzNQMEZyQmhVVEFjbEdYaklxS3BsWXdQUk5feWRGU3d3aFgwWnJSVW5EanNadml5UTZXNm9WSV9jUjFOSHV6ajdWN3BRSC1DMUhiSWRwZHIzck8xTWNTYjdlSm8yTmc3ZU8zcENGcXdkb1QtMFoyQmFBZ0JtRFFfckgtN0ZlYm4xb1ZqOS1wOXZzc2RiVG9NYnlkV2cyZnQzUHZEbVdraW12RFoxXzNDM3NCZmV0SEpsRExjdXdhOEdaNlVyeDdia1lqU2JoNHFMV1lMeVI4dXZVVlFqaERtc2taNXlnQU1SaWtDZXMxUElWSDlDaENsa2V1cGxHaFZ3MmtUVEJDeFduZVQ3QjNmQWFhcDY5UzJoM0RRSkdSWjdiUkhIbWpHWUdIcTZKeXZvdG8?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-12T11:19:01Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a"
-    },
-    {
       "title": "Brics pedem 'cautela máxima' em meio à guerra e China quer bloco como mediador no Oriente Médio - Terra",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUExnWFZjWEZXWGQxM3VHMjlVcEt2NjFYS2pLelowcGpDQ002SGVyVWNXWjB4Z1RmYWZidWRSOXBFaUNIcGNQQWpWNW45M3pQWUY5SHMyQTAzMGFsT0RGZGh1NVA5ZmJvcjhPb01VRmRDRF9FaXBBd3R6ckJTazEyRkdoNTluR0tDdHNUUHBvVXRHOUVzT2haVl9jcmtRc0pfblNic3o0MkJjTk9LTzNDNzdUeFNiRVJXUktISnVhT2sxRWdOS2ZMdGoxV2VnU1V6dE5CWkk1c3JydFZfVFBPdDh1T2VZMXpMNU1KZThfR0ZLWjVZeFVpRm5vWFA3ekJZQ3VtVDRiakdRRjQ?oc=5",
       "source": "Terra",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Brics expressa preocupação com tensões no Oriente Médio - folhape.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjRxMmpGVW1DYVE1RlZuYkdWeE92Y0tnY2t3TGNtTzhYOTNDVWJsLW5ONWZ5RDZYTUlGbGVBVXluVHd0WWVINlVvRUJCaWp2QmtLdkRQS01rd3pGbEZkV3pKWFREaVViYTdycnIwaTA2QjZZN2xQaXpjcy02OEhrTGJxeHY2Yk9IbXUxMUN6S3UtVFdzLTdORXVPOUJldmRoSkwyMdIBpAFBVV95cUxQNjRxMmpGVW1DYVE1RlZuYkdWeE92Y0tnY2t3TGNtTzhYOTNDVWJsLW5ONWZ5RDZYTUlGbGVBVXluVHd0WWVINlVvRUJCaWp2QmtLdkRQS01rd3pGbEZkV3pKWFREaVViYTdycnIwaTA2QjZZN2xQaXpjcy02OEhrTGJxeHY2Yk9IbXUxMUN6S3UtVFdzLTdORXVPOUJldmRoSkwyMQ?oc=5",
-      "source": "folhape.com.br",
-      "publishedAt": "2026-09-12T19:24:06Z",
-      "description": "Notícia publicada por folhape.com.br. Abra o artigo para consultar os detalhes completos.",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - CartaCapital",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlhVWHdPNjZuOUdnamtqZXNmZnVmSzhSdWJOdzl6Y1JkTHJMRzNlWEpNTTJJX3lTc01aSnBpdEdQREpFdkVLMXJ6dXNMdlJnWlA2TEJDRUxHVmhpdjBFMW1URWp1LVdkTXZfWHBtSzIwd2dnSW1hTEo3WlBZNjVUVHZwT1dlV2RkMVV3ZncwZHhYbFJDOFlXRnJITjBxQQ?oc=5",
+      "source": "CartaCapital",
+      "publishedAt": "2026-09-12T16:37:00Z",
+      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
