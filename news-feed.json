@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-12T13:25:47.932703Z",
+  "updatedAt": "2026-09-12T14:27:12.376870Z",
   "health": [
     {
-      "title": "Gestão da saúde para totós - publico.pt",
+      "title": "Gestão da saúde para totós - Público",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcng5Q3IxUVJKai1sUWVSQjQ1alZTNTdCWkVkX1ZyS2h3cW4xTWZaTHRVUktCSjhEZXh2VmVZbDBNOGpNSzJ1SlFMTlV0R2llVExJMG9YUFBQZVFnV213X3pxckhRUWg5V0F6ZXQ0VDlaSHp6X0dIQzgxNGU0Q0tZU3Jn?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-12T04:55:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/12/opiniao/opiniao/gestao-saude-totos-2187572"
     },
@@ -29,13 +29,22 @@
       "articleUrl": "https://healthnews.pt/2026/09/12/porto-novo-centro-da-unilabs-faz-85-dos-exames-de-medicina-nuclear-para-o-sns/"
     },
     {
-      "title": "Fundo Vivalto Partners põe dona da Lusíadas Saúde e gestora do hospital de Cascais à venda - ECO",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3dnaVEzZnJWRDZWRFJTUHhTVDlwWFZSTXF4MU5Rc2c1QUJGMTVWU3drc0dvR0szOGZlbGZJWjdIZzF0bGRib0RWcFI2Uk1SVnBqNzdXekkzeFlzbXlXM29vWGpGZkVFcGRGSzY4UUpTc0VxMW04dnFJZkZqcVlzQ0FsSjctdlZMdzl5Q0dzdGNJb3N4dkZGODdUbnNCa0U4ZUZxc3ZqYTN4UTExeS1ROElmN1hWX1h1Y05LZHRNZw?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-11T15:45:32Z",
-      "description": "Grupo Vivalto Santé está em processo de alienação, coordenado pelo banco de investimento Houlihan Lokey, com o objetivo de reduzir o endividamento, avança o 'El Confidencial'.",
-      "image": "https://eco.imgix.net/uploads/2024/01/cropped-23807653-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/11/fundo-vivalto-partners-poe-dona-da-lusiadas-saude-e-gestora-do-hospital-de-cascais-a-venda/"
+      "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM3YwWXdHTEpnbl9zMW5vc2tTV3VzLVBOSVJGalZRZ2UzNE80LU1MR1Joa1lscDhIT3BwUXNoVXJIcThpQ2ViOGpaOTl4RDR1eEowcENJalVnaFk4cFdKRVAzQW1PbEpQMllXRzZ3aDZVOTFNeXM4Wm9KdzJaVHFzeU9TbTcxbGxWXzM0d1NOUUwwMVpUb3F0bDFiNE5SYXJ5Wk1ibzZUcEk4eEdQV1AyaXh4NGRCMmZ3Sk9vRjBOcHNNOFhFV2tCem8zZ0hfTmlWNGdtSlU4bXQ1cGdlOWFIUw?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-12T14:21:00Z",
+      "description": "O homem estaria a perturbar o normal funcionamento do hospital quando ameaçou o agente, dizendo-lhe “vou-te abrir a cabeça”, enquanto empunhava uma pedra",
+      "image": "https://img.iol.pt/preset/67fe4a3fd34ef72ee444c338/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/psp/hospital/vou-te-abrir-a-cabeca-homem-provoca-caos-no-hospital-e-e-baleado-pela-psp/20260912/6aa55fdbd34e9a786e757afb"
+    },
+    {
+      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFRXdmQ1ZnR5Qmt1MXpBUlB3M3dlTnRqM0toM1N0RTBndjUzUHhNU2ZxczZURHUyZ0FOX3NPZlFDOWZOY001OWpfeUZVRGFKVjZwSWZEUVoxSzNtSThGR3BGQ0JKWGdrdW0xemlXdkpSX2p1eFBCOVp4UjVYZDRiS2ZWSko5M2lVaVU0NndNM3doS0paWFNnd192WUVFalJacGhQRE9iaE5LdnFnNnFHWHVsVWZSQlNDOU9BOW9aaWNCbjBFWGJ3c250NzJoVHVrTHpLWmtncmV6MEU?oc=5",
+      "source": "SIC",
+      "publishedAt": "2026-09-12T08:45:09Z",
+      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
     },
     {
       "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
@@ -47,13 +56,13 @@
       "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
     },
     {
-      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQb0Jna05zeDNuT2lnaWxTbHY5aTZncWZOcjdwOGFfa2V6NGlnTHNPRkwwbXdPdWM5am9McTFsNjh4N3NZTTNBZmFpMXRpQTFZdVpOT04xbE9JVVI4LURmSGpXcHo3V0JDdU1uN1FRRWkxb05xLXR2c0lWaGFubFVNLWRFX2Z6SThKWjFLamZ5REJ4VG5aamVTdU80bkRfRmI2U0Q5dm53SXN4Y1h6VFk4VDZZUmJMWVZWQVRiaFRnZ0ZxYmNTSllwUXhvTVVLcWZfWmpUZkNNczh2WTc5NFVUYlkzMThCTFQ2M1oxcWhHMmlPTUFscEtRU3Nvd1JtSHA5b213d2lrdDBvR3VrMVF6UFJCei1rd21TMGkxRmpXSGlLaXgwZVZGY3R0dWVwa1hYUXVZVXJBTU5hQTQxRXc2clUwUUNjWkluWUlWdDhCX25VUm0xZGlyLUloenMzTDVKRU1hUUxsSzByV2pWMmRzNnZUbzRBOFVna25Bem5WbGFtbEdwN0RDaXd3bS1nb1ZEQWhQMEROMDg2S08wT0dXdHJRbWtEc0pERDZyN09aR2xLTkhtXzF4b09vVkxmdWgxR0Y0ZkVWZi14eDB2Tm5PTUZaWFVRVHpDZWk5cw?oc=5",
-      "source": "SIC",
-      "publishedAt": "2026-09-12T08:45:09Z",
-      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb?utm_source=sic&utm_medium=content&utm_campaign=WEB&utm_content=/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
+      "title": "Fundo Vivalto Partners põe dona da Lusíadas Saúde e gestora do hospital de Cascais à venda - ECO",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3dnaVEzZnJWRDZWRFJTUHhTVDlwWFZSTXF4MU5Rc2c1QUJGMTVWU3drc0dvR0szOGZlbGZJWjdIZzF0bGRib0RWcFI2Uk1SVnBqNzdXekkzeFlzbXlXM29vWGpGZkVFcGRGSzY4UUpTc0VxMW04dnFJZkZqcVlzQ0FsSjctdlZMdzl5Q0dzdGNJb3N4dkZGODdUbnNCa0U4ZUZxc3ZqYTN4UTExeS1ROElmN1hWX1h1Y05LZHRNZw?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-11T15:45:32Z",
+      "description": "Grupo Vivalto Santé está em processo de alienação, coordenado pelo banco de investimento Houlihan Lokey, com o objetivo de reduzir o endividamento, avança o 'El Confidencial'.",
+      "image": "https://eco.imgix.net/uploads/2024/01/cropped-23807653-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/11/fundo-vivalto-partners-poe-dona-da-lusiadas-saude-e-gestora-do-hospital-de-cascais-a-venda/"
     },
     {
       "title": "Investigação com 'cunho' português desenvolve enzima devoradora de plástico - SÁBADO",
@@ -83,15 +92,6 @@
       "articleUrl": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao/6a975cfee52bd301896a7d16-vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao-photo"
     },
     {
-      "title": "António Bravo internado no hospital - SELFIE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnBKYzBSNURHNllkMk96Q2UydjlxVWloeEdLb3ZFMW9PQy1fVHhqMTZlWkZ4ZFJpdlNPeDBxdFRLWEk1dzZ5a2VyWkU4WFpCSExuVzJKY1ZBU2lqVTYyZ3ZvOWVEdWVKQnlrdk1qcDdoNUxuVEQ4RVRMWTFXMnFNeW1YOXNxb00xeHRnSnYwOUFZTE9SamNPQXl2dmRPX0JaRUtpQ2twdGttdjRPdEQ3Vg?oc=5",
-      "source": "SELFIE",
-      "publishedAt": "2026-09-12T07:41:00Z",
-      "description": "Através do Instagram, foi partilhado que António Bravo, finalista do \"Big Brother 2021\", se encontra internado.",
-      "image": "https://img.iol.pt/preset/6aa5010a0cf23b0ed4fd8345/og/selfie",
-      "articleUrl": "https://selfie.iol.pt/famosos/big-brother/antonio-bravo-internado-no-hospital/20260912/6aa502440cf22b9f8904b853"
-    },
-    {
       "title": "“É justo”: Porto quer Estado a pagar novos centros de saúde - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWtGanBIXzdBbXdvSXcwdnF1WThEZEluY2g2d1JaWndFQUotSlh0aE9EOXRXcy1uZkk5Z0xzNHM1M09OUWFueExnX3ZfUVN1WW5SVWFDNnR3TGo0X190bDZXY1JGZGFLMEZtUHZ3T3BzamRGOHVsQVBKVG5GWE1GME1mWm5mTGVTellSQ3ozdTFvSFdC?oc=5",
       "source": "HealthNews",
@@ -110,13 +110,13 @@
   ],
   "world": [
     {
-      "title": "BRICS superam divisões sobre Médio Oriente e fecham acordo antes de cimeira em Deli - ECO",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekMzYlFsWlhOeXVMQVBnWlFUZmpSek85aW1JX3p5ZmRRa1dhbEt3WTBhZllfNWhUX2plRUZUVER2cEJyUURabkp4UlF0N05QS1JtZngwb3MtV2lCcE9HcmNMNW1WcmJYRm12TjJUdEpOS3dCR0d5aVpiNVVPajI1SVJnUnZBR0NMTzdtRjYwbngxVzRVaWY5ckdGYUJZLXJ5?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-12T10:25:52Z",
-      "description": "O impasse centrou-se na disputa entre Irão e Emirados Árabes Unidos sobre o conflito no Golfo, resolvida com um texto que não nomeia diretamente nenhum país envolvido no conflito atual.",
-      "image": "https://eco.imgix.net/uploads/2025/05/cropped-44883750-scaled-3.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/12/brics-superam-divisoes-sobre-medio-oriente-antes-de-cimeira-em-deli/"
+      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-12T00:00:00Z",
+      "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
     },
     {
       "title": "Putin alerta que envio de tropas europeias equivale a \"guerra contra a Rússia\" - dnoticias.pt",
@@ -142,7 +142,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-11T23:20:17Z",
       "description": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos....",
-      "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwFOdiNt&_nc_oc=AdrezQS0slSvWFMFKvnJulpvKinmrSzB1UCq_BXSqy3KGWExsUKHRvCdYBJd1dvkqq4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=5Ku5S2xa3XB8y-r4csam8Q&_nc_ss=7820f&oh=00_AQJLsi4nfNh6njbIlCeI2h6TQ3viFAgE05L0Ch69y5uVvA&oe=6AAB180F",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwFuR-_o&_nc_oc=AdqBIjul4uOk2vnKIk8mUjdv3VWkUuDnPeeJY0QhF15ZSt1ASiKOws5BcJUvOnRRPWg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=428kQHokdkTtIr6m7qReEA&_nc_ss=7820f&oh=00_AQKKMsmqORRrIz245s3MEcpLRpe4uVfn9D6lQ2AH5ycZMA&oe=6AAB180F",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/se-eu-pudesse-fazer-tudo-de-novo-faria-exatamente-como-fiz-disse-o-presidente-do/1473543658210246/"
     },
     {
@@ -155,22 +155,40 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-11-uniao-europeia-aprova-verba-de-61-mil-milhoes-de-euros-para-a-defesa-aerea-da-ucrania-70ae67da"
     },
     {
-      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-12T00:00:00Z",
-      "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
+      "title": "Resolução genérica sobre guerra marca cúpula dos Brics - 12/09/2026 - Mundo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXhzZ0NUUzhFT2xTc1h6M0liVXB4ZlZocmNPZFVRcnExRzV1N2Vhbld0aVJBNzFOUVZiTnd0eDQxTE84aV9zVXZ1QndHbkFMMnhFdjZrb0M5d1pXd01ydGdHSVE1RVRTYjJYRFpMb1Y3Qy1QVVJhblBRaGlKUHdsQ2ZNRTRHaUZSTjJDTnNic3hzR3NON2hCTmFIVDZaTFByVlBHZFQtbw?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-09-12T13:15:00Z",
+      "description": "Com rivais Irã e Emirados à mesa, texto pede paz no Oriente Médio e critica tarifas, mas não cita os EUA",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/12/17892185036aa54ec72945f_1789218503_3x2_xl.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/resolucao-generica-sobre-guerra-marca-cupula-dos-brics.shtml"
     },
     {
-      "title": "Vladimir Putin e Xi Jinping na Índia para a cimeira dos BRICS - RFI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUo0ZVVvQV9GV25XRDhveUVPNkw5czk5X3VacmdoLVF1OENIa3A1VHU0elR2VWJ2N1NkaEgzMU9TaHFrZlltSWxNNm1pWXlLb2Jra2dKUGVnSHFVeV9uU3hVbnk5dUllNnJ2NlpVc0pJN2I5dXZXRHE4dkttR3dDMGdIbkp6SC1qelF2NG5aeENxTTI2MDM2TnJqU0ZQQ0R3eG5iUk13?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-11T14:13:20Z",
-      "description": "O presidente russo Vladimir Putin chegou esta sexta-feira, 11 de Setembro, à Índia para participar na cimeira dos BRICS, na qual também é esperado o homólogo chinês Xi Jinping. As guerras na Ucrânia…",
-      "image": "https://s.rfi.fr/media/display/212b2ae4-ade5-11f1-a417-005056bfb2b6/w:1280/p:16x9/AP26254418381988.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260911-vladimir-putin-e-xi-jinping-na-%C3%ADndia-para-a-cimeira-dos-brics"
+      "title": "Xi Jinping diz na cúpula do BRICS que guerra no Oriente Médio não serve a interesses comuns - timesbrasil.com.br",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc05vQ0N0ekNZUlhkOWNka2h3bVF0cDIwR3d6Q3J0eWdZTUY1Uzl1MVd1R1VuZ3ZSRjFHb0lXTnFuQWxYZTF0SU5ZYnVBcW4xMFpLTXpwVTQtWTVkMnRFSElJWmx4dTdLU1BoSDA3UnFwN1YwRllXSVZPTXg5Q3h3TXJiNjM1V3RfUnRRckhR?oc=5",
+      "source": "timesbrasil.com.br",
+      "publishedAt": "2026-09-12T13:22:00Z",
+      "description": "Xi Jinping disse na cúpula do BRICS que a guerra no Oriente Médio não serve aos interesses comuns da comunidade internacional",
+      "image": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/09/783f4371-xi_jinping_narendra_modi_and_vladimir_putin_.webp",
+      "articleUrl": "https://timesbrasil.com.br/mundo/xi-guerra-oriente-medio-nao-serve-interesses-comuns/"
+    },
+    {
+      "title": "Xi Jinping critica guerra no Irã e tarifas comerciais na cúpula do Brics - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHBjZHdhTUZadDJFRXhSREJYVzdGd3k3aURzZ1luQ0JTLUFHeGJzTUlxQ3NvWGJYOVZ1QUJKM1hWZnNLMW9WZnVJbG9kV3VMSVcxQloySmxIdnhyWGNZQjE2UUF6UVN6ZEI5QWFMWndOcVdtYW1EenhQdXJDVGxTdjJhcDQ0VTF4dW1VeW1OMEdVd1o4MzAzbjVtdGg0bDV0aEswdU5iRDVQX0RzYlFSNnVQYzJQWFE?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-12T13:41:54Z",
+      "description": "Líder chinês adotou um tom mais duro em seu discurso na cúpula do bloco do que o próprio comunicado final do grupo",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/xi-jinping-narendra-modi-brics-cupula-india.png?w=1200&h=630&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/xi-jinping-critica-guerra-no-ira-e-tarifas-comerciais-na-cupula-do-brics/"
+    },
+    {
+      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - RTP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYk9oYmVfWEFITm5EeWdrY185d3BOZlVrQ2p4QTBOTVh6c21WcE1DNFFST3g0UmRmQTNZQk52bVJQNG5aNzlPck9fenVIbFdhbGtQZVhybFhlQ2loTHlwcXh2QmNjMnZpMlpvTmNqcE52eS1maWdqVmwyamxRcGJBLXZoOUxhazFPMk1RWVU5NGV2MnE2SGN6TUJIY1B1NTJvZnh6UVNuTWNFalN5bERBUzhiOUR1TldhRlNRNFZQVFVBdzVB?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-12T13:56:52Z",
+      "description": "Os líderes dos BRICS pediram máxima contenção perante a escalada na guerra no Médio Oriente, a manutenção do movimento do comércio e energia e rejeitaram sanções unilaterais contrárias ao direito internacional.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e6/e6080d2bc94cacac36f969b25a03f687?w=860&q=90&rect=0,96,1500,822&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/lideres-dos-brics-pedem-maxima-contencao-face-a-escalada-na-guerra-no-medio-oriente_n1765010"
     },
     {
       "title": "Putin e Modi discutem impacto dos conflitos no Médio Oriente e Ucrânia - Notícias ao Minuto",
@@ -186,33 +204,15 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemh0X3FFcVdoblZPYm1iS29fZk93NHlSSExkVVlXS19tSDg4X05TTWRVcFZoRGtaLVRaNEpkbzNjNE41Z1RPalJWS3B3cVNFNEFSTy1ZcGN6UXlXbmlRY0NWY2Z0QTJXd1hOZjl4dklUZTYzaFlORV96LW13c3FNR2dMQ2NDelVpQ2ZDaWlNbGYwV0RlS3E5c0dtRGlaaDdMVDdJQm5UVHNVSjdaSlVUdUtwem1uZmZfbFhMaXlyT2E5dTdM?oc=5",
       "source": "A Referência",
       "publishedAt": "2026-09-11T19:43:28Z",
-      "description": "Guerra no Oriente Médio coloca Irã e Emirados Árabes Unidos em lados opostos às vésperas da cúpula do bloco, que reúne 11 países em Nova Délhi",
-      "image": "https://areferencia.com/wp-content/uploads/2023/08/53136599816_1b061882b8_c-1-e1693234472218.jpg",
-      "articleUrl": "https://areferencia.com/destaque-home-principal/brics-descobre-que-desafiar-o-ocidente-e-mais-facil-do-que-concordar-entre-si/"
+      "description": "Notícia publicada por A Referência. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Oriente Médio 'não precisa de um policial', diz presidente iraniano na cúpula dos BRICS - Terra",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMm41OXFkSDJNcVQ5T2NEZTRULVlPOWoyT1gzZTJncUw4cG9RSlVMWmxwSEpaUWVWME9qaU9PZ2VVTENrSlQxNEUxVnoydlVfanZMYkFFdlN5S0VkSm04RGFYd1Ywa1c2YkdhVTJwY08yUGtxYUVoaHhPQWlaUXpFQS1neHlCV1lCQkRGRDBxckpvVklsRkFLMTBfQ2pjLTlzd2RqZlZLRGtMNGFyZVVGUlMxaTFwT2ZiVjdpN3pJdXZFTmhjYWdoZmp4RFMxZ0I5X29kVTJrM1dtQ2RxbmZNaGo0ZFUxM2hrby1oQTBvTmtoQmc0X1RuV1FrVDROOEE?oc=5",
       "source": "Terra",
       "publishedAt": "2026-09-12T10:12:00Z",
-      "description": "A 18ª Cúpula do BRICS foi aberta oficialmente neste sábado (12) na capital indiana em um contexto internacional marcado por conflitos armados, tensões geopolíticas e incertezas econômicas. Durante dois dias, os líderes dos onze países do bloco discutirão temas como comércio, energia, governança global e os impactos das guerras no Oriente Médio e na Ucrânia.",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/12/1538733540-rp-inter-12-09.jpg",
-      "articleUrl": "https://www.terra.com.br/noticias/mundo/oriente-medio-nao-precisa-de-um-policial-diz-presidente-iraniano-na-cupula-dos-brics,cfc6ec59be96d1a710a2f5e2b44b6ce6zrqcfcs7.html"
-    },
-    {
-      "title": "Resolução genérica sobre guerra marca cúpula dos Brics - 12/09/2026 - Mundo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXhzZ0NUUzhFT2xTc1h6M0liVXB4ZlZocmNPZFVRcnExRzV1N2Vhbld0aVJBNzFOUVZiTnd0eDQxTE84aV9zVXZ1QndHbkFMMnhFdjZrb0M5d1pXd01ydGdHSVE1RVRTYjJYRFpMb1Y3Qy1QVVJhblBRaGlKUHdsQ2ZNRTRHaUZSTjJDTnNic3hzR3NON2hCTmFIVDZaTFByVlBHZFQtbw?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-09-12T13:15:00Z",
-      "description": "Notícia publicada por Folha de S.Paulo. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Gasóleo supera pela primeira vez os seis dólares por galão nos EUA - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHE5Qy1UMVhCZVlXcDJIY2dYbjlCTjZ6SkI2VFhkdW42ODJ2ZnZqRmdsVndKN0d4VUhlNlN5M1RhMW5JUmZKdDdpaEQ5Y2xCeUJGZFJqNjRKcy1DRGdmM0U1eDR3czZHeHpwbDREb1BqSzVOM2g0WU14RnFCbzlxTWY3WkhWelYwZU1CdG1Bd0wzY18tZEZSa09FcnNkSW11RWw4RnJnUWIyY0t0U3c?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-11T09:34:00Z",
-      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
