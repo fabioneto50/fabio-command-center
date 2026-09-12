@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:26:14.529884Z",
+  "updatedAt": "2026-09-12T06:31:36.230735Z",
   "health": [
     {
       "title": "Gestão da saúde para totós - Público",
@@ -20,13 +20,22 @@
       "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
     },
     {
-      "title": "Unidade de saúde da Lezíria investe 2,39 ME em sistema de cirurgia robótica - Observador",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTRYcUNqcmhOdnI2d21OMjhyeGJVRGthMnBxeHZRNVdFWEZmTFRPaGhtdGF6Y0l6UDE5dHFYNXNsamlrV2ZrZTdyaTJCVVpGRXI4R3BCVjVJY1Zya0s0eGgxUlU3NVJHVjUtT2g2U2VmNjBvMEZZRFZpUGNNM3dQeUx2YlhNRDR6a0VuWjNLOXQwWk5IalNIdnFoUkpqQVVEdllOVVc2M0F2SGFB?oc=5",
+      "title": "Porto: novo centro da Unilabs faz 85% dos exames de Medicina Nuclear para o SNS - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmdfUWdSVVJoalVuU3R5ZHhWMGlkVVV5eG43V01Ec05wVDh3T082NjF0aW5mODl1bXZhSEgyVmwyeVFqVUpFb0dnc0lwYUpyUTU3VXlJWTAxWG52aW05d181d3g4MlctSGtCNUNmSE1Nak14X0dVbVdrelpBcHBZZm1IOWpqUWVJOENwWHFzLTJaZEsxMURNalNRRmNtLUhZcGdPZFlnZGFxSV95RnpSUA?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-12T06:21:38Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/09/12/porto-novo-centro-da-unilabs-faz-85-dos-exames-de-medicina-nuclear-para-o-sns/"
+    },
+    {
+      "title": "ULS Viseu Dão-Lafões alarga perímetro de ação das equipas de apoio à saúde mental - Observador",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczdVQXVpSUtPZW1Mb0VZclNUS0JPTElfa1hjZW44MWZab3ljR1FQN1puMmJxcTZBSFk5Wlo0MEpseUMwMzBHZ2hpVWs4WGUya0RKZGVpN0JsUXNDS2F4SnN5c0t0V0JDMFVjcU1xUGxLSk5jbTNUZ1k1QnI1SmJiTlVLRkxBQ0JKNkZOX2lfMUxqSURmaXZLNVNhMlZaaEVJVVd0OWl2dDFvTnN2Q0RMQU1pbDBjZw?oc=5",
       "source": "Observador",
-      "publishedAt": "2026-09-11T22:26:50Z",
-      "description": "Equipamento representa \"um marco na modernização da capacidade cirúrgica\" da instituição. Será a primeira unidade em Portugal continental a instalar um sistema cirúrgico robótico de última geração.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F09%2F19170222%2F17309314_770x433_acf_cropped.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/11/unidade-de-saude-da-leziria-investe-239-me-em-sistema-de-cirurgia-robotica/"
+      "publishedAt": "2026-09-11T19:10:47Z",
+      "description": "Equipa intervém atualmente em Vouzela, Oliveira de Frades, São Pedro do Sul e Castro Daire. Expansão prevê alargar atividade ao concelhos de Vila Nova de Paiva, Sátão e Aguiar da Beira.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1405%3Anowe%3A0%3A131%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F06%2F23185349%2Figor-martins-saudementaldaolafoes-14-020.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/11/uls-viseu-dao-lafoes-alarga-perimetro-de-acao-das-equipas-de-apoio-a-saude-mental/"
     },
     {
       "title": "Museu-de-Anatomia-da-Faculdade-de-Medicina-da-Universidade-do-Portoj – Casa Comum - Universidade do Porto",
@@ -38,11 +47,11 @@
       "articleUrl": "http://www.up.pt/casacomum/eventos/jornadas-europeias-do-patrimonio-na-universidade-do-porto/attachment/museu-de-anatomia-da-faculdade-de-medicina-da-universidade-do-portoj/"
     },
     {
-      "title": "Saúde: da proposta à implementação de políticas públicas - expresso.pt",
+      "title": "Saúde: da proposta à implementação de políticas públicas - Expresso",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllUWUZPcGg0cUxoaHRYOFlNcHM0TF9ESXFOMlRZVVV3SmVObUMwX3BrYUFXeXYzM25qblNrSU9nSnNQV0lPR0cwVFItT05xNzVZeTFSczIxV1hNUGo2Ync5OTdNS1Y4VVZsemlDT1FnejFBN1FndXFaWjdiMElvLUJfRkNqajJpUkxrX0oyLXZkdHVxam11b29jWmxyaUdwc2hJTjRQQW5aVWxKX3BKOGVXSVdwVHlHN0hJZjl4aw?oc=5",
-      "source": "expresso.pt",
+      "source": "Expresso",
       "publishedAt": "2026-09-11T12:01:38Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/health-parliament-portugal/2026-09-11-saude-da-proposta-a-implementacao-de-politicas-publicas-e5b971f1"
     },
@@ -56,9 +65,18 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/11/fundo-vivalto-partners-poe-dona-da-lusiadas-saude-e-gestora-do-hospital-de-cascais-a-venda/"
     },
     {
-      "title": "Bloco alerta para “situação crítica” na Unidade de Neonatologia do Hospital de Ponta Delgada - Esquerda.net",
+      "title": "Vigorexia: a misteriosa doença que afeta a vida sexual dos homens portugueses - nit.pt",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjlHZ2hBaTdZc0FNbzc0ckxIbDA0SFcwd1hmWXVabWxoV2pKc2xPaFlfVk1OeS11U0Y1QmNtVTJBRWJuM1lWLWxpRVcyRDFHMHAxMlR3eE10MW1laGdYZk8zaUlCdTA0bmxxZXoyVlNseXFaSjhtYkN1X3Jsb1c5TjFCY3p2WS1pcGp4SmtFQTNINEtXQXA5cWpYRGhWVVhSVUV6S3ZwMGY?oc=5",
+      "source": "nit.pt",
+      "publishedAt": "2026-09-11T22:35:00Z",
+      "description": "As redes sociais podem ter tornado a patologia mais frequente em Portugal. Um especialista explica os motivos.",
+      "image": "https://www.nit.pt/wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php?post_id=1690144&ts=20260911160959",
+      "articleUrl": "https://www.nit.pt/fit/saude/vigorexia-a-misteriosa-doenca-que-afeta-a-vida-sexual-dos-homens-portugueses"
+    },
+    {
+      "title": "Bloco alerta para “situação crítica” na Unidade de Neonatologia do Hospital de Ponta Delgada - esquerda.net",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORURLUGlheWRRb0J1VFU0clNRcHJDMXlWMmVIR19jNDh0dEJkVUVHMkY1WXl6TzBGV1F4Y0xjLW5mSWMyVjk1MHIwOWg2bmlRcjJpei0wdTkzTUNWLXItaFFZNDFRMEhsUVpUanFHdVpEQ1RKcWN6ZFdtQ1RmZW5VekR6bXJlVWFwLU5YYWo4Ykw3dEU2RllKZWNwMUY4bi13dF93dWNud29tOE1zSnpHTjlQSEVhVUlyNm1iU3hCQQ?oc=5",
-      "source": "Esquerda.net",
+      "source": "esquerda.net",
       "publishedAt": "2026-09-11T11:55:55Z",
       "description": "Bebés recém-nascidos estão a ser transferidos para hospitais da Madeira e do continente por falta de espaço no hospital de Ponta Delgada. Bloco/Açores exige esclarecimentos ao Governo Regional.",
       "image": "https://www.esquerda.net/sites/default/files/2026-09/49172353543_4cc6be240f_o-1.jpg",
@@ -74,58 +92,40 @@
       "articleUrl": "https://diocese-braga.pt/noticia/2026-09-11-fragoso-recebe-dia-da-saude-com-rastreios-gratuitos-6aa427a1df54f"
     },
     {
-      "title": "Projeto quer transformar extensão desativada em “Casa da Saúde” - Região de Leiria",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFd5Sk9aVWlGVE53bHJDOG40cFJWeFNpd29rSy0tbHVoVFJlWUhMSXdXYkZzcDF2UnhxT01yNXQ1elFLT29VYldmN0d4SG9TSEo5bnJuWlBLSTh0cndlTTNQaWVRd2JpYXplcU9mSXVFTEUxNWVjQ0x3TTJaWGV5MW9ZdEFuT2pGaVY5TTV4R3YzQ1JKN2E0QktMalhaVnpjd1E?oc=5",
-      "source": "Região de Leiria",
-      "publishedAt": "2026-09-11T20:30:00Z",
-      "description": "Objetivo, frisam os promotores, não é fazer diagnósticos com as atividades ali promovidas, mas identificar fatores de risco e encaminhar os participantes para os cuidados adequados.",
-      "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https://www.regiaodeleiria.pt/wp-content/uploads/2026/09/P24_MOITA.jpg",
-      "articleUrl": "https://www.regiaodeleiria.pt/2026/09/projeto-quer-transformar-extensao-desativada-em-casa-da-saude/"
-    },
-    {
-      "title": "Nove instituições vão criar raízes nos jardins do novo Hospital da Luz Ribatejo - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNXgyeTVON1JfUWZIUll0bzFidWZVRFpVd2VQanlwQnkyVGk0c2JpcVkzeTQ1MmpLWlJnY2tQa3kxNWZOaEkzLWVnRkQ0NEJweVVOQ3BLWUFqOC1yeHNTZmwwOFBtSlduanRpWFNQUm9ZdXp2dTRMM0VFUnkxLWVWc1pGYlFUZm5ZeU8wa0VzS2VRWnBmeTNTVUYtcTVYS3NGWTItVmNBNllJTzBiM3V5WlBwNzlBT0tvV24xcndDY3hjLS1EVDYzcw?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-09-11T14:55:00Z",
-      "description": "O novo hospital de Santarém, que se apronta para abrir portas, convidou instituições da região a plantar árvores junto à unidade de saúde, numa parceria que visa reforçar a responsabilidade social do grupo e estreitar laços com a comunidade.",
-      "image": "https://images.impresa.pt/mirante/2026-09-11-original.webp-1fdd2919",
-      "articleUrl": "https://omirante.pt/sociedade/2026-09-11-nove-instituicoes-vao-criar-raizes-nos-jardins-do-novo-hospital-da-luz-ribatejo-c791eb6a"
-    },
-    {
-      "title": "Vigorexia: a misteriosa doença que afeta a vida sexual dos homens portugueses - nit.pt",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjlHZ2hBaTdZc0FNbzc0ckxIbDA0SFcwd1hmWXVabWxoV2pKc2xPaFlfVk1OeS11U0Y1QmNtVTJBRWJuM1lWLWxpRVcyRDFHMHAxMlR3eE10MW1laGdYZk8zaUlCdTA0bmxxZXoyVlNseXFaSjhtYkN1X3Jsb1c5TjFCY3p2WS1pcGp4SmtFQTNINEtXQXA5cWpYRGhWVVhSVUV6S3ZwMGY?oc=5",
-      "source": "nit.pt",
-      "publishedAt": "2026-09-11T22:35:00Z",
-      "description": "Notícia publicada por nit.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Unidade de saúde da Lezíria investe 2,39 ME em sistema de cirurgia robótica - Observador",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTRYcUNqcmhOdnI2d21OMjhyeGJVRGthMnBxeHZRNVdFWEZmTFRPaGhtdGF6Y0l6UDE5dHFYNXNsamlrV2ZrZTdyaTJCVVpGRXI4R3BCVjVJY1Zya0s0eGgxUlU3NVJHVjUtT2g2U2VmNjBvMEZZRFZpUGNNM3dQeUx2YlhNRDR6a0VuWjNLOXQwWk5IalNIdnFoUkpqQVVEdllOVVc2M0F2SGFB?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-11T22:26:50Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "ULS Viseu Dão-Lafões alarga perímetro de ação das equipas de apoio à saúde mental - Observador",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczdVQXVpSUtPZW1Mb0VZclNUS0JPTElfa1hjZW44MWZab3ljR1FQN1puMmJxcTZBSFk5Wlo0MEpseUMwMzBHZ2hpVWs4WGUya0RKZGVpN0JsUXNDS2F4SnN5c0t0V0JDMFVjcU1xUGxLSk5jbTNUZ1k1QnI1SmJiTlVLRkxBQ0JKNkZOX2lfMUxqSURmaXZLNVNhMlZaaEVJVVd0OWl2dDFvTnN2Q0RMQU1pbDBjZw?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-11T19:10:47Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "title": "“É justo”: Porto quer Estado a pagar novos centros de saúde - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWtGanBIXzdBbXdvSXcwdnF1WThEZEluY2g2d1JaWndFQUotSlh0aE9EOXRXcy1uZkk5Z0xzNHM1M09OUWFueExnX3ZfUVN1WW5SVWFDNnR3TGo0X190bDZXY1JGZGFLMEZtUHZ3T3BzamRGOHVsQVBKVG5GWE1GME1mWm5mTGVTellSQ3ozdTFvSFdC?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-12T06:16:14Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
+      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-12T05:00:00Z",
+      "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
+    },
+    {
       "title": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos. Acompanhe as atualizações no link nos comentários. (📸 EPA - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXpSVDA3LWp0VUo2OHVlTXhVR0FqSU5xd0s5NWFpeUtuTEVlbENSd241d2F4TlU5RzdTRWFuT1JIcm9wRnRjUFBzZEJ4SXlNUmVYWlQzZUg0Znl2VHN2cjBzM0Vsb1N5M0JnYmEwaW5GbXhpZHNKck9zLXlGeW1sWGVaVUYxMzFmNk5iRFZpSkU2ZGRleXpDaEdIcUdIYzNFaTZhaWtYQzVnRXlZZWhsbUFpS0RjQTN2NWhiQ1A4S1BXRXpZWE9MV3dlRDRmdVpRT1gtUk1MWEs0N25neGZz?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-09-11T23:20:17Z",
-      "description": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos....",
-      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwEe_t8R&_nc_oc=Adpzz-UwloAe148OoCaLjoWGJD_-lx9XNw4_j5Bbnpenp4ot97nsFqXSVqVY528CN-o&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r2Jdl8EHtwMIqxbmqp4EoQ&_nc_ss=7820f&oh=00_AQK6K0DaU10PB0qdWJOA5DFUWWpP4Krw034_J01hCIki-g&oe=6AAAA78F",
+      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/se-eu-pudesse-fazer-tudo-de-novo-faria-exatamente-como-fiz-disse-o-presidente-do/1473543658210246/"
-    },
-    {
-      "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-12T00:00:00Z",
-      "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
     },
     {
       "title": "Putin alerta que envio de tropas europeias equivale a \"guerra contra a Rússia\" - dnoticias.pt",
@@ -155,12 +155,12 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-11-uniao-europeia-aprova-verba-de-61-mil-milhoes-de-euros-para-a-defesa-aerea-da-ucrania-70ae67da"
     },
     {
-      "title": "BRICS descobre que desafiar o Ocidente é mais fácil do que concordar entre si - A Referência",
+      "title": "BRICS descobre que desafiar o Ocidente é mais fácil do que concordar entre si - areferencia.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemh0X3FFcVdoblZPYm1iS29fZk93NHlSSExkVVlXS19tSDg4X05TTWRVcFZoRGtaLVRaNEpkbzNjNE41Z1RPalJWS3B3cVNFNEFSTy1ZcGN6UXlXbmlRY0NWY2Z0QTJXd1hOZjl4dklUZTYzaFlORV96LW13c3FNR2dMQ2NDelVpQ2ZDaWlNbGYwV0RlS3E5c0dtRGlaaDdMVDdJQm5UVHNVSjdaSlVUdUtwem1uZmZfbFhMaXlyT2E5dTdM?oc=5",
-      "source": "A Referência",
+      "source": "areferencia.com",
       "publishedAt": "2026-09-11T19:43:28Z",
-      "description": "Guerra no Oriente Médio coloca Irã e Emirados Árabes Unidos em lados opostos às vésperas da cúpula do bloco, que reúne 11 países em Nova Délhi",
-      "image": "https://areferencia.com/wp-content/uploads/2023/08/53136599816_1b061882b8_c-1-e1693234472218.jpg",
+      "description": "Notícia publicada por areferencia.com. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://areferencia.com/destaque-home-principal/brics-descobre-que-desafiar-o-ocidente-e-mais-facil-do-que-concordar-entre-si/"
     },
     {
@@ -182,15 +182,6 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505051-gasoleo-supera-pela-primeira-vez-os-seis-dolares-por-galao-nos-eua/"
     },
     {
-      "title": "Análise: Cúpula do Brics reúne Putin, Xi e Modi mas rachas travam o bloco - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXBWNm5uYl9Kc1JKNFV2bHI2OGI4U1BVNS1jNXNpTnZaZWxHSERVQzNWNGhBcWlfbXUxWDh2V0IwcDVobE1JMk9idWhPRWMxUGROWjF5TGNvNjNoUFh4UmtkS1lOeWJpTTlNd2dDalhQb293RW1UY18yMTBqQTdVNnNHbkZZSE1vcEVFSXd5QjFNNXZuMHpTcS1ULXBCNDNGTVBmTEFuSHpXcDg2TE9vYktQSzZISlpRWU92cko3UWw3MjZUYWdJSkRQUlZVLWtvM2Vz?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-11T10:00:36Z",
-      "description": "Lula será a principal ausência da reunião de líderes do Sul Global, que estão divididos com relação à guerra no Oriente Médio e respostas às políticas do presidente Donald Trump",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL620WX-BASEIMAGE.jpg?w=800&h=533&crop=1",
-      "articleUrl": "https://www.cnnbrasil.com.br/blogs/americo-martins/internacional/analise-cupula-do-brics-reune-putin-xi-e-modi-mas-rachas-travam-o-bloco/"
-    },
-    {
       "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRldkSDRsZEhia012czVRZTQtdVB6d0FJYXF5VVZmOVF5OFY2UXRVMjBHT2ZFWThLNTdXamxQVVhOMWJsclNpclBQQWROcGxTTVpqRjRjd3ZqZVdXbS1GTkxLQkVwVl8yVzcwaFBGd2U1TW1YYnNJbF9ZM1NfTHkxQU5NenJ5ZHdHOVhGSmJkdnM5d1k5dldrRGZsM3NqXzlndmJDb2h1T3UzcGloajktVG9ZbzBmMzQwUnJaUXZBX2p1SGtZWmRyc0J6dmpOWGRNZHfSAeABQVVfeXFMUHdsTUdjZUVVdGZZbVRJNlFwUlktdTlLX1VvQzduQnNoZGM2WmdiR0pVVkhnS2xmdFh1N3REU1I3dmk2bU9GVVpRcE1KSUIxRzdQU2VDdXhvaWYwckJMbWt0aS1IaFVwN0wxMkFFcG1QQnZWemhRN1BKVk1RMkpGNG1PSzUwaXVSN1pUT1FZMGVELUtrWUlvN1hDZXE0SGVUNHJXVzFPRmRUV3lka0RWc2dVLS1QaXNCR0wzWmJtMnNtQUFvZWhXT2FGZkJFak9RMHFTN3R5cGI3VmFHZ1lDREU?oc=5",
       "source": "Valor Econômico",
@@ -198,6 +189,15 @@
       "description": "Emirados Árabes Unidos, integrantes do grupo, suspenderam em agosto todas as transações comerciais e financeiras com Teerã, depois de serem atingidos por mísseis da República Islâmica",
       "image": "https://s2-valor.glbimg.com/uHcJLQ2dF8ITk7ZBskFvK_sh_W4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/B/F/AH0DFqSeAd0RNzZYkOPQ/2026-09-03t144419z-214326589-rc2fbnaqmr00-rtrmadp-3-brics-summit-india.jpg",
       "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
+    },
+    {
+      "title": "Análise: Cúpula do Brics reúne Putin, Xi e Modi mas rachas travam o bloco - cnnbrasil.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXBWNm5uYl9Kc1JKNFV2bHI2OGI4U1BVNS1jNXNpTnZaZWxHSERVQzNWNGhBcWlfbXUxWDh2V0IwcDVobE1JMk9idWhPRWMxUGROWjF5TGNvNjNoUFh4UmtkS1lOeWJpTTlNd2dDalhQb293RW1UY18yMTBqQTdVNnNHbkZZSE1vcEVFSXd5QjFNNXZuMHpTcS1ULXBCNDNGTVBmTEFuSHpXcDg2TE9vYktQSzZISlpRWU92cko3UWw3MjZUYWdJSkRQUlZVLWtvM2Vz?oc=5",
+      "source": "cnnbrasil.com.br",
+      "publishedAt": "2026-09-11T10:00:36Z",
+      "description": "Lula será a principal ausência da reunião de líderes do Sul Global, que estão divididos com relação à guerra no Oriente Médio e respostas às políticas do presidente Donald Trump",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL620WX-BASEIMAGE.jpg?w=800&h=533&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/blogs/americo-martins/internacional/analise-cupula-do-brics-reune-putin-xi-e-modi-mas-rachas-travam-o-bloco/"
     },
     {
       "title": "Ucrânia em conversações com a União Europeia para aderir à IRIS 2 - ECO",
