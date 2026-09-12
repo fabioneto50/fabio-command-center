@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-12T08:27:30.243903Z",
+  "updatedAt": "2026-09-12T09:26:14.351733Z",
   "health": [
     {
-      "title": "Gestão da saúde para totós - publico.pt",
+      "title": "Gestão da saúde para totós - Público",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcng5Q3IxUVJKai1sUWVSQjQ1alZTNTdCWkVkX1ZyS2h3cW4xTWZaTHRVUktCSjhEZXh2VmVZbDBNOGpNSzJ1SlFMTlV0R2llVExJMG9YUFBQZVFnV213X3pxckhRUWg5V0F6ZXQ0VDlaSHp6X0dIQzgxNGU0Q0tZU3Jn?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-12T04:55:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/12/opiniao/opiniao/gestao-saude-totos-2187572"
     },
@@ -27,6 +27,15 @@
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/12/porto-novo-centro-da-unilabs-faz-85-dos-exames-de-medicina-nuclear-para-o-sns/"
+    },
+    {
+      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
+      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQb0Jna05zeDNuT2lnaWxTbHY5aTZncWZOcjdwOGFfa2V6NGlnTHNPRkwwbXdPdWM5am9McTFsNjh4N3NZTTNBZmFpMXRpQTFZdVpOT04xbE9JVVI4LURmSGpXcHo3V0JDdU1uN1FRRWkxb05xLXR2c0lWaGFubFVNLWRFX2Z6SThKWjFLamZ5REJ4VG5aamVTdU80bkRfRmI2U0Q5dm53SXN4Y1h6VFk4VDZZUmJMWVZWQVRiaFRnZ0ZxYmNTSllwUXhvTVVLcWZfWmpUZkNNczh2WTc5NFVUYlkzMThCTFQ2M1oxcWhHMmlPTUFscEtRU3Nvd1JtSHA5b213d2lrdDBvR3VrMVF6UFJCei1rd21TMGkxRmpXSGlLaXgwZVZGY3R0dWVwa1hYUXVZVXJBTU5hQTQxRXc2clUwUUNjWkluWUlWdDhCX25VUm0xZGlyLUloenMzTDVKRU1hUUxsSzByV2pWMmRzNnZUbzRBOFVna25Bem5WbGFtbEdwN0RDaXd3bS1nb1ZEQWhQMEROMDg2S08wT0dXdHJRbWtEc0pERDZyN09aR2xLTkhtXzF4b09vVkxmdWgxR0Y0ZkVWZi14eDB2Tm5PTUZaWFVRVHpDZWk5cw?oc=5",
+      "source": "SIC",
+      "publishedAt": "2026-09-12T08:45:09Z",
+      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb?utm_source=sic&utm_medium=content&utm_campaign=WEB&utm_content=/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
     },
     {
       "title": "\"A automedicação é uma consequência da falta de acesso ao sistema de saúde\" - Observador",
@@ -72,15 +81,6 @@
       "description": "Grupo Vivalto Santé está em processo de alienação, coordenado pelo banco de investimento Houlihan Lokey, com o objetivo de reduzir o endividamento, avança o 'El Confidencial'.",
       "image": "https://eco.imgix.net/uploads/2024/01/cropped-23807653-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
       "articleUrl": "https://eco.sapo.pt/2026/09/11/fundo-vivalto-partners-poe-dona-da-lusiadas-saude-e-gestora-do-hospital-de-cascais-a-venda/"
-    },
-    {
-      "title": "Saúde: da proposta à implementação de políticas públicas - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllUWUZPcGg0cUxoaHRYOFlNcHM0TF9ESXFOMlRZVVV3SmVObUMwX3BrYUFXeXYzM25qblNrSU9nSnNQV0lPR0cwVFItT05xNzVZeTFSczIxV1hNUGo2Ync5OTdNS1Y4VVZsemlDT1FnejFBN1FndXFaWjdiMElvLUJfRkNqajJpUkxrX0oyLXZkdHVxam11b29jWmxyaUdwc2hJTjRQQW5aVWxKX3BKOGVXSVdwVHlHN0hJZjl4aw?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-11T12:01:38Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/health-parliament-portugal/2026-09-11-saude-da-proposta-a-implementacao-de-politicas-publicas-e5b971f1"
     },
     {
       "title": "Vigorexia: a misteriosa doença que afeta a vida sexual dos homens portugueses - nit.pt",
@@ -151,7 +151,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-11T23:20:17Z",
       "description": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos....",
-      "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwF6RYm5&_nc_oc=AdpOt1oPYF0j1JVbsj-CkXkB6uLhgO278f5jp2R8wIz0-MjxTuqyh2aZ919VHgXS34M&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=XDv7dcDvgcjlSah40ms7Sw&_nc_ss=7820f&oh=00_AQKiRc64BCtW8M9U3IbIxLtoiVtCbEwMDgrG4IAJRHzpYw&oe=6AAADFCF",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwEG9XMz&_nc_oc=AdqfhRA-ddfEHaCZbGy3iJzSsnWQSFwliEApPIDc2YaZamA1ZybmylYK4sOPzBWfuLk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=L0MpyIVvDtpNZv5RoKI9AQ&_nc_ss=7820f&oh=00_AQJJzBYEW1v7HASsc4zFN6tVfgxJzefdoaikyrH6Hi23Ng&oe=6AAADFCF",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/se-eu-pudesse-fazer-tudo-de-novo-faria-exatamente-como-fiz-disse-o-presidente-do/1473543658210246/"
     },
     {
@@ -182,29 +182,29 @@
       "articleUrl": "https://areferencia.com/destaque-home-principal/brics-descobre-que-desafiar-o-ocidente-e-mais-facil-do-que-concordar-entre-si/"
     },
     {
-      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - sol.iol.pt",
+      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - Jornal SOL",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWpJNHl0Y1I2aG5GeFdXMnM5UWp0U0VsUkJBYXBuSDhsN0lXd0Y4TEY3X0lLQmVoRGlCNTNqRDZ2dXNZYlRmNnhQdlJabjUwQUFUTmRFQUJLWTlITkx3eE4wS2d0UUdudEVEN3RUZkpWXzdWMWs3WGdWSTdnQUljUnBLWkRsVExDSjRGRmhOcWNiZ0FQWG5EaVRQbXR0U1lfT1FkYXhXNkNKSDFOVVJwNzV1dDRzeS1QVFNhMjZ4YTNnMzcxeDd6bmdaM3NBWHN0RzctSm9DUXM?oc=5",
-      "source": "sol.iol.pt",
+      "source": "Jornal SOL",
       "publishedAt": "2026-09-10T11:19:17Z",
       "description": "Os pedidos de proteção internacional na UE+ caíram para 332 mil na primeira metade do ano, atingindo os níveis mais baixos desde 2021. Segundo a Agência Europeia para o Asilo, a escalada de tensão no Médio Oriente não fez aumentar os pedidos, com a França e a Itália a liderarem as receções",
       "image": "https://img.iol.pt/preset/6aa2953f0cf20dc52778bdfb/og/sol",
       "articleUrl": "https://sol.iol.pt/internacional/noticias/pedidos-de-asilo-na-uniao-europeia-recuam-17-no-primeiro-semestre/20260910/6aa2959e0cf22b9f8904b5f9"
     },
     {
+      "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRldkSDRsZEhia012czVRZTQtdVB6d0FJYXF5VVZmOVF5OFY2UXRVMjBHT2ZFWThLNTdXamxQVVhOMWJsclNpclBQQWROcGxTTVpqRjRjd3ZqZVdXbS1GTkxLQkVwVl8yVzcwaFBGd2U1TW1YYnNJbF9ZM1NfTHkxQU5NenJ5ZHdHOVhGSmJkdnM5d1k5dldrRGZsM3NqXzlndmJDb2h1T3UzcGloajktVG9ZbzBmMzQwUnJaUXZBX2p1SGtZWmRyc0J6dmpOWGRNZHfSAeABQVVfeXFMUHdsTUdjZUVVdGZZbVRJNlFwUlktdTlLX1VvQzduQnNoZGM2WmdiR0pVVkhnS2xmdFh1N3REU1I3dmk2bU9GVVpRcE1KSUIxRzdQU2VDdXhvaWYwckJMbWt0aS1IaFVwN0wxMkFFcG1QQnZWemhRN1BKVk1RMkpGNG1PSzUwaXVSN1pUT1FZMGVELUtrWUlvN1hDZXE0SGVUNHJXVzFPRmRUV3lka0RWc2dVLS1QaXNCR0wzWmJtMnNtQUFvZWhXT2FGZkJFak9RMHFTN3R5cGI3VmFHZ1lDREU?oc=5",
+      "source": "Valor Econômico",
+      "publishedAt": "2026-09-10T12:11:34Z",
+      "description": "Emirados Árabes Unidos, integrantes do grupo, suspenderam em agosto todas as transações comerciais e financeiras com Teerã, depois de serem atingidos por mísseis da República Islâmica",
+      "image": "https://s2-valor.glbimg.com/uHcJLQ2dF8ITk7ZBskFvK_sh_W4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/B/F/AH0DFqSeAd0RNzZYkOPQ/2026-09-03t144419z-214326589-rc2fbnaqmr00-rtrmadp-3-brics-summit-india.jpg",
+      "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
+    },
+    {
       "title": "Gasóleo supera pela primeira vez os seis dólares por galão nos EUA - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHE5Qy1UMVhCZVlXcDJIY2dYbjlCTjZ6SkI2VFhkdW42ODJ2ZnZqRmdsVndKN0d4VUhlNlN5M1RhMW5JUmZKdDdpaEQ5Y2xCeUJGZFJqNjRKcy1DRGdmM0U1eDR3czZHeHpwbDREb1BqSzVOM2g0WU14RnFCbzlxTWY3WkhWelYwZU1CdG1Bd0wzY18tZEZSa09FcnNkSW11RWw4RnJnUWIyY0t0U3c?oc=5",
       "source": "dnoticias.pt",
       "publishedAt": "2026-09-11T09:34:00Z",
-      "description": "O gasóleo americano bateu hoje um novo recorde, ultrapassando os seis dólares por galão nos Estados Unidos, impulsionado pela guerra no Médio Oriente, pela subida dos preços do petróleo bruto e pelos ataques da Ucrânia a refinarias russas.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/Depositphotos_106705572_S.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/11/505051-gasoleo-supera-pela-primeira-vez-os-seis-dolares-por-galao-nos-eua/"
-    },
-    {
-      "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - valor.globo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRldkSDRsZEhia012czVRZTQtdVB6d0FJYXF5VVZmOVF5OFY2UXRVMjBHT2ZFWThLNTdXamxQVVhOMWJsclNpclBQQWROcGxTTVpqRjRjd3ZqZVdXbS1GTkxLQkVwVl8yVzcwaFBGd2U1TW1YYnNJbF9ZM1NfTHkxQU5NenJ5ZHdHOVhGSmJkdnM5d1k5dldrRGZsM3NqXzlndmJDb2h1T3UzcGloajktVG9ZbzBmMzQwUnJaUXZBX2p1SGtZWmRyc0J6dmpOWGRNZHfSAeABQVVfeXFMUHdsTUdjZUVVdGZZbVRJNlFwUlktdTlLX1VvQzduQnNoZGM2WmdiR0pVVkhnS2xmdFh1N3REU1I3dmk2bU9GVVpRcE1KSUIxRzdQU2VDdXhvaWYwckJMbWt0aS1IaFVwN0wxMkFFcG1QQnZWemhRN1BKVk1RMkpGNG1PSzUwaXVSN1pUT1FZMGVELUtrWUlvN1hDZXE0SGVUNHJXVzFPRmRUV3lka0RWc2dVLS1QaXNCR0wzWmJtMnNtQUFvZWhXT2FGZkJFak9RMHFTN3R5cGI3VmFHZ1lDREU?oc=5",
-      "source": "valor.globo.com",
-      "publishedAt": "2026-09-10T12:11:34Z",
-      "description": "Notícia publicada por valor.globo.com. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
