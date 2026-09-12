@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:24:31.845784Z",
+  "updatedAt": "2026-09-12T20:27:41.348765Z",
   "health": [
     {
       "title": "No cancro, quanto medicamento é demasiado medicamento? Doentes e investigadores questionam as doses aprovadas pela FDA - CNN Portugal",
@@ -11,15 +11,6 @@
       "articleUrl": "https://cnnportugal.iol.pt/cancro/tratamento-do-cancro/no-cancro-quanto-medicamento-e-demasiado-medicamento-doentes-e-investigadores-questionam-as-doses-aprovadas-pela-fda/20260912/6aa022b1d34e511da0b37807"
     },
     {
-      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-12T16:00:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
-    },
-    {
       "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ljNk9mOVJ5RjZMYk8zUjhqWGxrQy1COUNKLUZlNm1sMEJzcEJxaXFIRm5tem4xaG1vRUVMbnhTeV9IZ0w0c2J6QU5qclMwMi1YRlN2a2VoaERPSGt2UmpjTHJmQ3lkc1ZqM0VnTm1ZRERnZFg1YkZmTGFiRHR0QVFRakR1dzE3d3djbGdYTTFRTWVnTjV0ellCTHVrcDlESzBnNWNn?oc=5",
       "source": "ECO",
@@ -29,11 +20,20 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
     },
     {
-      "title": "Fazer bem à saúde, à entreajuda e à solidariedade - occ.pt",
+      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-12T16:00:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
+    },
+    {
+      "title": "Fazer bem à saúde, à entreajuda e à solidariedade - OCC | Ordem dos Contabilistas Certificados",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2hCU0lzbmZuQmFTUEVFNU9GbkJRSm9oQkgySDJSdTgzaXJEVUVncGVrZ3duY0tQaWFsRlgtellUXzc3Yzl5WlRRX2xxR0s0a0FpVE5aS0JuM1FFZ1J6RFRfblVnbFFkUWgydGNWeVZpLV9JYkVyS3UxelZiVnl6Wll3?oc=5",
-      "source": "occ.pt",
+      "source": "OCC | Ordem dos Contabilistas Certificados",
       "publishedAt": "2026-09-12T15:07:41Z",
-      "description": "Notícia publicada por occ.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por OCC | Ordem dos Contabilistas Certificados. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.occ.pt/pt-pt/noticias/fazer-bem-saude-entreajuda-e-solidariedade"
     },
@@ -47,6 +47,15 @@
       "articleUrl": "https://observador.pt/programas/conversas-sobre-dor/a-automedicacao-e-uma-consequencia-da-falta-de-acesso-ao-sistema-de-saude/"
     },
     {
+      "title": "Ordem dos Enfermeiros lança plataforma para apoiar saúde mental da classe - RTP Açores",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUZzaWNUc1dnRk9IdkZQd2ZLVWRoZk90ek9VTXYxelFjcm8yZzYxeGhjY3pPOUlaMlB6cDNMMEtJdGJoRlpEOGVUUjc0LU1EdS1aX3kxU0pIcmNFcm1PWnd1anp5WWV2S3BvM1lHeGtWSlh4ZUxkY0RRUjR2LVMxRWZ4SVNjWXF1eEllb2lqRE9HekJwb09ldDVJSDBkSXN3bGp1Qw?oc=5",
+      "source": "RTP Açores",
+      "publishedAt": "2026-09-12T17:58:00Z",
+      "description": "...enfermeiros.",
+      "image": "https://acores.rtp.pt/wp-content/uploads/2026/09/enferneiro.jpg",
+      "articleUrl": "https://acores.rtp.pt/local/ordem-dos-enfermeiros-lanca-plataforma-para-apoiar-saude-mental-da-classe/"
+    },
+    {
       "title": "Porto: novo centro da Unilabs faz 85% dos exames de Medicina Nuclear para o SNS - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmdfUWdSVVJoalVuU3R5ZHhWMGlkVVV5eG43V01Ec05wVDh3T082NjF0aW5mODl1bXZhSEgyVmwyeVFqVUpFb0dnc0lwYUpyUTU3VXlJWTAxWG52aW05d181d3g4MlctSGtCNUNmSE1Nak14X0dVbVdrelpBcHBZZm1IOWpqUWVJOENwWHFzLTJaZEsxMURNalNRRmNtLUhZcGdPZFlnZGFxSV95RnpSUA?oc=5",
       "source": "HealthNews",
@@ -54,33 +63,6 @@
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/12/porto-novo-centro-da-unilabs-faz-85-dos-exames-de-medicina-nuclear-para-o-sns/"
-    },
-    {
-      "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm1wNHNtQTk2ODZ4QkJLWk5QLXljQldHd05GcGRQNDhITUVUZjEwOGlxZ1M3RXBXNDRwLUREU0QzU0ZhSkJpZGswVFJMZzRZMnJQQ2VoSUpjRWN6bTFhZ1dhTjN6UFg0VFV6UkVQT2dmbnB1SmpySlFNUzhINi1YZzZpWjVzSUQtU1kzaGJVeGlZUzQtN2hsaw?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-11T12:34:47Z",
-      "description": "As alterações no circuito de atendimento evitam a permanência em macas e agilizam também os internamentos.",
-      "image": "https://cdn-images.rtp.pt/icm/images/f2/f26654736c165230bf7544e8adf0f383_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-tem-novo-modelo-de-urgencia_v1764834"
-    },
-    {
-      "title": "Hospital da Luz entrega um Desfibrilhador ao Desportivo da Póvoa - Voz da Póvoa",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3dHUklMWnJYUk0wMDFzWEY0anJ3YlhXQUV1czdGeFNKaHJmZjBlWFZhcDhOM1dmRUtaQXNjbERXTW1ybTdjVUIzN2dMNGVGM3ZpeWtUWEdjVlNadndLdm9rbERVZVNGWTdodEkxX3VsTnJuUkY2VlRHS0JydTByRzJJbm1id0ZxQmQyYUhrZ01ITm41NFJEX0VqSGpOM1lqVjAwQWRMbWhtZw?oc=5",
-      "source": "Voz da Póvoa",
-      "publishedAt": "2026-09-12T17:28:44Z",
-      "description": "O Hospital da Luz Póvoa de Varzim entregou, no dia 11 de Setembro, um Desfibrilhador Automático Externo (DAE) ao Clube Desportivo da Póvoa – Basquetebol, uma iniciativa que possibilita reforçar a segurança de atletas, equipas técnicas, colaboradores, mas também de toda a comunidade desportiva. A cerimónia contou com a presença do Administrado do Hospital da Luz da Póvoa de…",
-      "image": "https://www.vozdapovoa.com/imagens/3968/RS5_0007_.jpg",
-      "articleUrl": "https://www.vozdapovoa.com/noticias/local/hospital-da-luz-entrega-um-desfibrilhador-ao-desportivo-da-povoa"
-    },
-    {
-      "title": "Dois mortos vítimas de doença súbita no Caniço e em Santa Cruz - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW1pVXIxYkFUTmlKMHJPcWxza2NCd1lZQkxqSHRsZVdCWHh3Tjk1YXZfRGx3TGd0azBEeUh1amlCNlZ3WXhsUkI4aDktcDVpRzFmSzVIUEtNcWZtSDVOSHZkWkdxamZzRk9Ec0w2dE0tLVJINVRhODNhN2dsMWRZazctTWtfSWZ2cnVGZkJjM25PWHVjNnNzbEVYZHVlY2lBLWNZRDBHall2QW1VTzlOOGxORndNdTFqYzlBMzdyM3ZwS0E5UnpR?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-09-12T17:09:46Z",
-      "description": "Bombeiros Sapadores de Santa Cruz foram mobilizados para duas situações diferentes este sábado. Em ambos os casos, as vítimas já se encontravam sem vida à chegada dos meios de socorro.",
-      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_12/BOMBEIROS_JORNADAS_SANTA_CRUZ-1789232970112.jpg--dois_mortos_v_timas_de_doen_a_s_bita_no_cani_o_e_em_santa_cruz.webp?1789232971194",
-      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/ocorr-ncias/30004974/dois-mortos-vitimas-de-doenca-subita-no-canico-e-em-santa-cruz.html"
     },
     {
       "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
@@ -92,6 +74,24 @@
       "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
     },
     {
+      "title": "Dois mortos vítimas de doença súbita no Caniço e em Santa Cruz - JM Madeira",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW1pVXIxYkFUTmlKMHJPcWxza2NCd1lZQkxqSHRsZVdCWHh3Tjk1YXZfRGx3TGd0azBEeUh1amlCNlZ3WXhsUkI4aDktcDVpRzFmSzVIUEtNcWZtSDVOSHZkWkdxamZzRk9Ec0w2dE0tLVJINVRhODNhN2dsMWRZazctTWtfSWZ2cnVGZkJjM25PWHVjNnNzbEVYZHVlY2lBLWNZRDBHall2QW1VTzlOOGxORndNdTFqYzlBMzdyM3ZwS0E5UnpR?oc=5",
+      "source": "JM Madeira",
+      "publishedAt": "2026-09-12T17:09:46Z",
+      "description": "Bombeiros Sapadores de Santa Cruz foram mobilizados para duas situações diferentes este sábado. Em ambos os casos, as vítimas já se encontravam sem vida à chegada dos meios de socorro.",
+      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_12/BOMBEIROS_JORNADAS_SANTA_CRUZ-1789232970112.jpg--dois_mortos_v_timas_de_doen_a_s_bita_no_cani_o_e_em_santa_cruz.webp?1789232971194",
+      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/ocorr-ncias/30004974/dois-mortos-vitimas-de-doenca-subita-no-canico-e-em-santa-cruz.html"
+    },
+    {
+      "title": "Hospital da Luz entrega um Desfibrilhador ao Desportivo da Póvoa - Voz da Póvoa",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3dHUklMWnJYUk0wMDFzWEY0anJ3YlhXQUV1czdGeFNKaHJmZjBlWFZhcDhOM1dmRUtaQXNjbERXTW1ybTdjVUIzN2dMNGVGM3ZpeWtUWEdjVlNadndLdm9rbERVZVNGWTdodEkxX3VsTnJuUkY2VlRHS0JydTByRzJJbm1id0ZxQmQyYUhrZ01ITm41NFJEX0VqSGpOM1lqVjAwQWRMbWhtZw?oc=5",
+      "source": "Voz da Póvoa",
+      "publishedAt": "2026-09-12T17:28:44Z",
+      "description": "O Hospital da Luz Póvoa de Varzim entregou, no dia 11 de Setembro, um Desfibrilhador Automático Externo (DAE) ao Clube Desportivo da Póvoa – Basquetebol, uma iniciativa que possibilita reforçar a segurança de atletas, equipas técnicas, colaboradores, mas também de toda a comunidade desportiva. A cerimónia contou com a presença do Administrado do Hospital da Luz da Póvoa de…",
+      "image": "https://www.vozdapovoa.com/imagens/3968/RS5_0007_.jpg",
+      "articleUrl": "https://www.vozdapovoa.com/noticias/local/hospital-da-luz-entrega-um-desfibrilhador-ao-desportivo-da-povoa"
+    },
+    {
       "title": "Céline Dion prepara-se para regresso emocionante em Paris - Jornal de Notícias",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVViNVBmcTdtWEFsLUloVGpCNldtLTZnUkl3TDZTR2hGb2l3SUFBVU9icWlJWTF6U0ZQbUVXTGtrc3RXbnZRRGZIa2d3eEFTOURpSkFUQzJrVU9qaTZZRmVHLXJBc3Mta3JGcEI5ZVR1Q09VYjE3eXhKV0locEtJWmQ4Y2lDbnZvYk1oU3NFeTJkTDh6V3dMMlJ5YUEtdzc10gGSAUFVX3lxTFBzTUpLNVNoYy0yZjQ2dTZTYnZLMy02OGd5MlZmUkRCNE1pQTV6akVxaTJXb3JEeEFkMXJwWXdQQmpYMERNcTRKb3IycllEbHFLNXZ5MjctTHhxZFc5RENUVjZlOUhKdU9yUXRPLTVGZkFTb05oVDBVLUJXRjdEYmRPZ1p0U3ZDV1BuSnA0QlR3OHhB?oc=5",
       "source": "Jornal de Notícias",
@@ -100,21 +100,21 @@
       "image": ""
     },
     {
-      "title": "Wegovy testado em menores: \"Todas as crianças que tenham doença causada pelo excesso de peso beneficiam e muito deste medicamento\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOG5JNnRxUVZXdE1JcXZWdTdKWG1yRV9iYnNCRUFDd1FYQW5TZmRTN1ZXSWhtWlJsR1h4TWNKdHl1NTJZSjM1LUFrVV9yTUZDM215R290Zi1aSWlOdi1aVHNjVkl2N25rMWN1UjloX2otT01YNFJXQ0NxMlFUYlNoOE1aY3Blck03b29UdlVrb2h2SEhYQWFneGJUNG9CRTlNNXN6Q2drLW12bEJWRzFWNGJjaG1MSWY0Tm9CZnVKTlJUNDFvMVZmVnFDRHZ0ajdFQXliVjk4bzdWN1hPUU12dldFeEV5SFRJN1djZnRpZnFPUnItcGZONXFpUklhNGlYYy1MOGRFRV9zR3gwVGs1cmIzc24?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-12T18:28:01Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
+      "title": "Depressão: o retrato de uma doença que ainda se esconde - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFRsSDE3OGJIekczeG9ZemZheVBOcURDdWVwZGQ1NmF2c2NKMllkWVpHQ0JLd3VuNDBnNF9iN3Jtd19ZSm10QXNMTGsyamF6dUhLejltSGg1MTFHM215d3k0TG9LZE43WEVlenljbXpscEMxcUd4Ri1XcjZDbUIzRkVNajdXNEdUYklSSFpYSG9kMDhFdGQ1U2IyczlhWXB4djd6cUM0UkRrMDlFSkU0UnpYaW96ZEc4U3JjQThZem9paW5N?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-09-12T14:49:25Z",
+      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - sicnoticias.pt",
+      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOellJOXQyQkxnVWVOTm9oVmtsRTJjV25yOVJXX2hFZk5ONWhZRjhwYlpqWmZKVFhfVlhoOVZaMEJqZ2syOE1kZV9Pd1pDUHlOX2hHX1RnZ0dnWTVhQkxFb1VjcFd2Z3hGWnhOTnBWWjBVZ3pxWnJ5MVp3UVU3OVRoZHhkdU5ueU9ZRllOUXo5WWpIU0lzaWNaa01SYVdOZTBoMWg2Z3BkVG9JRzZxNDlqSVdnVDhBY2tqSTBRYklicjlNYkx5ekZwREZWcXpJUUtYRGd6dzJ2S25rOHlLQ3R3?oc=5",
-      "source": "sicnoticias.pt",
+      "source": "SIC Notícias",
       "publishedAt": "2026-09-12T14:28:03Z",
-      "description": "Notícia publicada por sicnoticias.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://sicnoticias.pt/mundo/medio-oriente/2026-09-12-lideres-dos-brics-pedem-maxima-contencao-face-a-escalada-na-guerra-no-medio-oriente-f5a98aa6"
     },
@@ -128,9 +128,9 @@
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
     },
     {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - dw.com",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - DW.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTdIBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "publishedAt": "2026-09-12T16:11:58Z",
       "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
       "image": "https://static.dw.com/image/79245316_6.jpg",
@@ -173,9 +173,9 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/11-de-setembro-bombeiro-portugues-recorda-operacao-de-salvamento-nos-estados-unidos_v1764937"
     },
     {
-      "title": "EUA avaliam reduzir tropas no Oriente Médio após conflito com Irã - CNN Brasil",
+      "title": "EUA avaliam reduzir tropas no Oriente Médio após conflito com Irã - cnnbrasil.com.br",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDViNEJFM3ZvdW81VFFENHprYXA1VDl2TGJrdE96ZUtzdllVQjJHanducnBHU2U2alM2RGQ3QzNiWkoxS2dwdWZTdXNOOVRESE1vamVfOHFsTE8xaWRhdEw0RW02dFZsR21RMkVaTTNzUEdNdkg5OUxrUWRvaXJsU19Pc3JZbzA?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "publishedAt": "2026-09-12T13:00:00Z",
       "description": "Discussões internas no Pentágono e na comunidade de inteligência avaliam cortes de pessoal e instalações na região caso acordo de paz seja alcançado",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/AP21243461310576.jpg?w=1200&h=630&crop=1",
@@ -191,28 +191,28 @@
       "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/resolucao-generica-sobre-guerra-marca-cupula-dos-brics.shtml"
     },
     {
-      "title": "Trump diz que guerra no Médio Oriente vai acabar depois das eleições intercalares nos EUA - sicnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPQTM0d0J6MmZHcU14ZmR0bjA1R1hkbC15ejNRVWVDaGtDUHFFRkNuY2xTQlNwb2s5aEdlazMtOE9wendoNnlLQ2k4MW1MWXJyQ1I0SHROZ1BYakstMElSZ3RMamFqaDc4TGo2aEdxQTNuelY4Y09SLTYzcnhTMEFVSjUwX1RlZDdZYVNSc3doRjFHekN0Qjl3RFRneWxiNEprTXNOeDF0aUVSbmxIYjBKczFPU1ZzbWpXSzNQMEZyQmhVVEFjbEdYaklxS3BsWXdQUk5feWRGU3d3aFgwWnJSVW5EanNadml5UTZXNm9WSV9jUjFOSHV6ajdWN3BRSC1DMUhiSWRwZHIzck8xTWNTYjdlSm8yTmc3ZU8zcENGcXdkb1QtMFoyQmFBZ0JtRFFfckgtN0ZlYm4xb1ZqOS1wOXZzc2RiVG9NYnlkV2cyZnQzUHZEbVdraW12RFoxXzNDM3NCZmV0SEpsRExjdXdhOEdaNlVyeDdia1lqU2JoNHFMV1lMeVI4dXZVVlFqaERtc2taNXlnQU1SaWtDZXMxUElWSDlDaENsa2V1cGxHaFZ3MmtUVEJDeFduZVQ3QjNmQWFhcDY5UzJoM0RRSkdSWjdiUkhIbWpHWUdIcTZKeXZvdG8?oc=5",
-      "source": "sicnoticias.pt",
-      "publishedAt": "2026-09-12T11:19:01Z",
-      "description": "Notícia publicada por sicnoticias.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a"
-    },
-    {
       "title": "Brics pedem 'cautela máxima' em meio à guerra e China quer bloco como mediador no Oriente Médio - Terra",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUExnWFZjWEZXWGQxM3VHMjlVcEt2NjFYS2pLelowcGpDQ002SGVyVWNXWjB4Z1RmYWZidWRSOXBFaUNIcGNQQWpWNW45M3pQWUY5SHMyQTAzMGFsT0RGZGh1NVA5ZmJvcjhPb01VRmRDRF9FaXBBd3R6ckJTazEyRkdoNTluR0tDdHNUUHBvVXRHOUVzT2haVl9jcmtRc0pfblNic3o0MkJjTk9LTzNDNzdUeFNiRVJXUktISnVhT2sxRWdOS2ZMdGoxV2VnU1V6dE5CWkk1c3JydFZfVFBPdDh1T2VZMXpMNU1KZThfR0ZLWjVZeFVpRm5vWFA3ekJZQ3VtVDRiakdRRjQ?oc=5",
       "source": "Terra",
       "publishedAt": "2026-09-12T16:03:00Z",
-      "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
+      "description": "Os Brics pediram neste sábado (12), em Nova Délhi, \"cautela máxima\" às partes envolvidas no conflito no Oriente Médio, numa declaração que traduz preocupação com a escalada regional. O apelo ocorre no mesmo dia em que Xi Jinping defendeu que o bloco atue como mediador, afirmando que a guerra \"não serve aos interesses comuns da comunidade internacional\". A reunião também marcou…",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/12/1347908492-000-c84e8ct.jpg",
+      "articleUrl": "https://www.terra.com.br/noticias/mundo/brics-pedem-cautela-maxima-em-meio-a-guerra-e-china-quer-bloco-como-mediador-no-oriente-medio,f92785e6799837f5fa6eebff72b7689bxo6lspja.html"
+    },
+    {
+      "title": "Trump diz que guerra no Médio Oriente vai acabar depois das eleições intercalares nos EUA - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPQTM0d0J6MmZHcU14ZmR0bjA1R1hkbC15ejNRVWVDaGtDUHFFRkNuY2xTQlNwb2s5aEdlazMtOE9wendoNnlLQ2k4MW1MWXJyQ1I0SHROZ1BYakstMElSZ3RMamFqaDc4TGo2aEdxQTNuelY4Y09SLTYzcnhTMEFVSjUwX1RlZDdZYVNSc3doRjFHekN0Qjl3RFRneWxiNEprTXNOeDF0aUVSbmxIYjBKczFPU1ZzbWpXSzNQMEZyQmhVVEFjbEdYaklxS3BsWXdQUk5feWRGU3d3aFgwWnJSVW5EanNadml5UTZXNm9WSV9jUjFOSHV6ajdWN3BRSC1DMUhiSWRwZHIzck8xTWNTYjdlSm8yTmc3ZU8zcENGcXdkb1QtMFoyQmFBZ0JtRFFfckgtN0ZlYm4xb1ZqOS1wOXZzc2RiVG9NYnlkV2cyZnQzUHZEbVdraW12RFoxXzNDM3NCZmV0SEpsRExjdXdhOEdaNlVyeDdia1lqU2JoNHFMV1lMeVI4dXZVVlFqaERtc2taNXlnQU1SaWtDZXMxUElWSDlDaENsa2V1cGxHaFZ3MmtUVEJDeFduZVQ3QjNmQWFhcDY5UzJoM0RRSkdSWjdiUkhIbWpHWUdIcTZKeXZvdG8?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-09-12T11:19:01Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Brics pede cautela no Oriente Médio, enquanto China tenta transformar bloco em mediador da crise - exame.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVI0aXVJS25kb2FHU2JVZkVBRXJXNUpJd21hZFFzbUVoQUZyUG5zSHVhb09RcjRKa2dwWENwbU03QU9wcVN4cm1qUUNRZF80ZzB1dlVkdkFWVlJqWDhtRzlsLVBOb2NGaUtpdG1iUGVmYzVpWktyZzdVX1M2d1VweEpLVFBmZndPV0tCempYbGJIX3Q3WnB6OGZNWks2cWtlZF9rQmhiZDFvbXIxU1RqV0tnZm9OekNhcEMxbw?oc=5",
-      "source": "exame.com",
-      "publishedAt": "2026-09-12T17:24:10Z",
-      "description": "Notícia publicada por exame.com. Abra o artigo para consultar os detalhes completos.",
+      "title": "Brics expressa preocupação com tensões no Oriente Médio - folhape.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjRxMmpGVW1DYVE1RlZuYkdWeE92Y0tnY2t3TGNtTzhYOTNDVWJsLW5ONWZ5RDZYTUlGbGVBVXluVHd0WWVINlVvRUJCaWp2QmtLdkRQS01rd3pGbEZkV3pKWFREaVViYTdycnIwaTA2QjZZN2xQaXpjcy02OEhrTGJxeHY2Yk9IbXUxMUN6S3UtVFdzLTdORXVPOUJldmRoSkwyMdIBpAFBVV95cUxQNjRxMmpGVW1DYVE1RlZuYkdWeE92Y0tnY2t3TGNtTzhYOTNDVWJsLW5ONWZ5RDZYTUlGbGVBVXluVHd0WWVINlVvRUJCaWp2QmtLdkRQS01rd3pGbEZkV3pKWFREaVViYTdycnIwaTA2QjZZN2xQaXpjcy02OEhrTGJxeHY2Yk9IbXUxMUN6S3UtVFdzLTdORXVPOUJldmRoSkwyMQ?oc=5",
+      "source": "folhape.com.br",
+      "publishedAt": "2026-09-12T19:24:06Z",
+      "description": "Notícia publicada por folhape.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
