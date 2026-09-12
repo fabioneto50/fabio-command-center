@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T03:27:25.115490Z",
+  "updatedAt": "2026-09-12T04:27:23.347605Z",
   "health": [
     {
       "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
@@ -15,8 +15,8 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczdVQXVpSUtPZW1Mb0VZclNUS0JPTElfa1hjZW44MWZab3ljR1FQN1puMmJxcTZBSFk5Wlo0MEpseUMwMzBHZ2hpVWs4WGUya0RKZGVpN0JsUXNDS2F4SnN5c0t0V0JDMFVjcU1xUGxLSk5jbTNUZ1k1QnI1SmJiTlVLRkxBQ0JKNkZOX2lfMUxqSURmaXZLNVNhMlZaaEVJVVd0OWl2dDFvTnN2Q0RMQU1pbDBjZw?oc=5",
       "source": "Observador",
       "publishedAt": "2026-09-11T19:10:47Z",
-      "description": "Equipa intervém atualmente em Vouzela, Oliveira de Frades, São Pedro do Sul e Castro Daire. Expansão prevê alargar atividade ao concelhos de Vila Nova de Paiva, Sátão e Aguiar da Beira.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1405%3Anowe%3A0%3A131%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F06%2F23185349%2Figor-martins-saudementaldaolafoes-14-020.jpg?layer=obstop:T",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://observador.pt/2026/09/11/uls-viseu-dao-lafoes-alarga-perimetro-de-acao-das-equipas-de-apoio-a-saude-mental/"
     },
     {
@@ -65,15 +65,6 @@
       "articleUrl": "https://www.esquerda.net/artigo/bloco-alerta-para-situacao-critica-na-unidade-de-neonatologia-do-hospital-de-ponta-delgada"
     },
     {
-      "title": "Projeto quer transformar extensão desativada em “Casa da Saúde” - Região de Leiria",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFd5Sk9aVWlGVE53bHJDOG40cFJWeFNpd29rSy0tbHVoVFJlWUhMSXdXYkZzcDF2UnhxT01yNXQ1elFLT29VYldmN0d4SG9TSEo5bnJuWlBLSTh0cndlTTNQaWVRd2JpYXplcU9mSXVFTEUxNWVjQ0x3TTJaWGV5MW9ZdEFuT2pGaVY5TTV4R3YzQ1JKN2E0QktMalhaVnpjd1E?oc=5",
-      "source": "Região de Leiria",
-      "publishedAt": "2026-09-11T20:30:00Z",
-      "description": "Objetivo, frisam os promotores, não é fazer diagnósticos com as atividades ali promovidas, mas identificar fatores de risco e encaminhar os participantes para os cuidados adequados.",
-      "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https://www.regiaodeleiria.pt/wp-content/uploads/2026/09/P24_MOITA.jpg",
-      "articleUrl": "https://www.regiaodeleiria.pt/2026/09/projeto-quer-transformar-extensao-desativada-em-casa-da-saude/"
-    },
-    {
       "title": "Greve do INEM desconvocada após acordo com o Ministério da Saúde - Expresso",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDB4UXhMOVFieEFLVDZXUXpQUjNidzM1cDVlNng2QjdFLWhRQXBoWndiRHZCcDRKakFSTjhydWZuWUlLWE1UQmFUOVRkRVVUU2J5UzRpTGJIWlBoeElEaF9uQkpVRUJXbUlldmZWWnI1Y0NIazhVRGlYUjFzdUkxamdzX3RacklGMVE?oc=5",
       "source": "Expresso",
@@ -83,9 +74,18 @@
       "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-11-greve-do-inem-desconvocada-99400531"
     },
     {
-      "title": "Nove instituições vão criar raízes nos jardins do novo Hospital da Luz Ribatejo - omirante.pt",
+      "title": "Projeto quer transformar extensão desativada em “Casa da Saúde” - Região de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFd5Sk9aVWlGVE53bHJDOG40cFJWeFNpd29rSy0tbHVoVFJlWUhMSXdXYkZzcDF2UnhxT01yNXQ1elFLT29VYldmN0d4SG9TSEo5bnJuWlBLSTh0cndlTTNQaWVRd2JpYXplcU9mSXVFTEUxNWVjQ0x3TTJaWGV5MW9ZdEFuT2pGaVY5TTV4R3YzQ1JKN2E0QktMalhaVnpjd1E?oc=5",
+      "source": "Região de Leiria",
+      "publishedAt": "2026-09-11T20:30:00Z",
+      "description": "Objetivo, frisam os promotores, não é fazer diagnósticos com as atividades ali promovidas, mas identificar fatores de risco e encaminhar os participantes para os cuidados adequados.",
+      "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https://www.regiaodeleiria.pt/wp-content/uploads/2026/09/P24_MOITA.jpg",
+      "articleUrl": "https://www.regiaodeleiria.pt/2026/09/projeto-quer-transformar-extensao-desativada-em-casa-da-saude/"
+    },
+    {
+      "title": "Nove instituições vão criar raízes nos jardins do novo Hospital da Luz Ribatejo - O Mirante",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNXgyeTVON1JfUWZIUll0bzFidWZVRFpVd2VQanlwQnkyVGk0c2JpcVkzeTQ1MmpLWlJnY2tQa3kxNWZOaEkzLWVnRkQ0NEJweVVOQ3BLWUFqOC1yeHNTZmwwOFBtSlduanRpWFNQUm9ZdXp2dTRMM0VFUnkxLWVWc1pGYlFUZm5ZeU8wa0VzS2VRWnBmeTNTVUYtcTVYS3NGWTItVmNBNllJTzBiM3V5WlBwNzlBT0tvV24xcndDY3hjLS1EVDYzcw?oc=5",
-      "source": "omirante.pt",
+      "source": "O Mirante",
       "publishedAt": "2026-09-11T14:55:00Z",
       "description": "O novo hospital de Santarém, que se apronta para abrir portas, convidou instituições da região a plantar árvores junto à unidade de saúde, numa parceria que visa reforçar a responsabilidade social do grupo e estreitar laços com a comunidade.",
       "image": "https://images.impresa.pt/mirante/2026-09-11-original.webp-1fdd2919",
@@ -115,14 +115,14 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-11T23:20:17Z",
       "description": "\"Se eu pudesse fazer tudo de novo, faria exatamente como fiz\", disse o Presidente dos Estados Unidos em relação ao conflito no Médio Oriente. Ataque russo a Kiev causa pelo menos oito feridos....",
-      "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwG9XtNv&_nc_oc=AdrMV3pJ58zTqneS2nMmDhV9PuL6I4jR35RkGkEEcMu6IjvelsG6mNSUpY6BTcfB3Qo&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=wZXxFNM3hsS9XUKPp9NidQ&_nc_ss=7820f&oh=00_AQKNZ_qnsFB0nw-Xfj0SfX_k4rUGHqFI8vlTDT7rEQYnzQ&oe=6AAAA78F",
+      "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.99422-6/805219263_1534752958333264_2364217328131856990_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=Kw_jxanRJhMQ7kNvwGHcEgB&_nc_oc=AdqEPQrhigG0LEVcaa91lKf_Vw-8a_L9401mk3iW-p0U1AqgABQSEHYQ-bgvUAoF5fM&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=0HjhNeMqHemafb2vAJ83zA&_nc_ss=7820f&oh=00_AQI1HeWRDWZKElFU_dK-x2Bh1eJDIvsTJVo0cXYzeh-y3g&oe=6AAAA78F",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/se-eu-pudesse-fazer-tudo-de-novo-faria-exatamente-como-fiz-disse-o-presidente-do/1473543658210246/"
     },
     {
       "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
       "source": "Jornal Económico",
-      "publishedAt": "2026-09-12T02:00:00Z",
+      "publishedAt": "2026-09-12T00:00:00Z",
       "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
@@ -164,6 +164,15 @@
       "articleUrl": "https://areferencia.com/destaque-home-principal/brics-descobre-que-desafiar-o-ocidente-e-mais-facil-do-que-concordar-entre-si/"
     },
     {
+      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWpJNHl0Y1I2aG5GeFdXMnM5UWp0U0VsUkJBYXBuSDhsN0lXd0Y4TEY3X0lLQmVoRGlCNTNqRDZ2dXNZYlRmNnhQdlJabjUwQUFUTmRFQUJLWTlITkx3eE4wS2d0UUdudEVEN3RUZkpWXzdWMWs3WGdWSTdnQUljUnBLWkRsVExDSjRGRmhOcWNiZ0FQWG5EaVRQbXR0U1lfT1FkYXhXNkNKSDFOVVJwNzV1dDRzeS1QVFNhMjZ4YTNnMzcxeDd6bmdaM3NBWHN0RzctSm9DUXM?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-09-10T11:19:17Z",
+      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sol.iol.pt/internacional/noticias/pedidos-de-asilo-na-uniao-europeia-recuam-17-no-primeiro-semestre/20260910/6aa2959e0cf22b9f8904b5f9"
+    },
+    {
       "title": "Gasóleo supera pela primeira vez os seis dólares por galão nos EUA - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHE5Qy1UMVhCZVlXcDJIY2dYbjlCTjZ6SkI2VFhkdW42ODJ2ZnZqRmdsVndKN0d4VUhlNlN5M1RhMW5JUmZKdDdpaEQ5Y2xCeUJGZFJqNjRKcy1DRGdmM0U1eDR3czZHeHpwbDREb1BqSzVOM2g0WU14RnFCbzlxTWY3WkhWelYwZU1CdG1Bd0wzY18tZEZSa09FcnNkSW11RWw4RnJnUWIyY0t0U3c?oc=5",
       "source": "dnoticias.pt",
@@ -171,15 +180,6 @@
       "description": "O gasóleo americano bateu hoje um novo recorde, ultrapassando os seis dólares por galão nos Estados Unidos, impulsionado pela guerra no Médio Oriente, pela subida dos preços do petróleo bruto e pelos ataques da Ucrânia a refinarias russas.",
       "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/Depositphotos_106705572_S.JPEG",
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505051-gasoleo-supera-pela-primeira-vez-os-seis-dolares-por-galao-nos-eua/"
-    },
-    {
-      "title": "Pedidos de asilo na União Europeia recuam 17% no primeiro semestre - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWpJNHl0Y1I2aG5GeFdXMnM5UWp0U0VsUkJBYXBuSDhsN0lXd0Y4TEY3X0lLQmVoRGlCNTNqRDZ2dXNZYlRmNnhQdlJabjUwQUFUTmRFQUJLWTlITkx3eE4wS2d0UUdudEVEN3RUZkpWXzdWMWs3WGdWSTdnQUljUnBLWkRsVExDSjRGRmhOcWNiZ0FQWG5EaVRQbXR0U1lfT1FkYXhXNkNKSDFOVVJwNzV1dDRzeS1QVFNhMjZ4YTNnMzcxeDd6bmdaM3NBWHN0RzctSm9DUXM?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-09-10T11:19:17Z",
-      "description": "Os pedidos de proteção internacional na UE+ caíram para 332 mil na primeira metade do ano, atingindo os níveis mais baixos desde 2021. Segundo a Agência Europeia para o Asilo, a escalada de tensão no Médio Oriente não fez aumentar os pedidos, com a França e a Itália a liderarem as receções",
-      "image": "https://img.iol.pt/preset/6aa2953f0cf20dc52778bdfb/og/sol",
-      "articleUrl": "https://sol.iol.pt/internacional/noticias/pedidos-de-asilo-na-uniao-europeia-recuam-17-no-primeiro-semestre/20260910/6aa2959e0cf22b9f8904b5f9"
     },
     {
       "title": "Análise: Cúpula do Brics reúne Putin, Xi e Modi mas rachas travam o bloco - CNN Brasil",
@@ -191,20 +191,20 @@
       "articleUrl": "https://www.cnnbrasil.com.br/blogs/americo-martins/internacional/analise-cupula-do-brics-reune-putin-xi-e-modi-mas-rachas-travam-o-bloco/"
     },
     {
-      "title": "Os Estados Unidos e o Irã estão preparados para uma guerra prolongada? - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEw2SnpaRGlHbHQ1YkpjeEUwSWV1Y2RvRm1Hanp4OGNVV1UyaUlHWDBGQmw5b1NjNDgySnhBZ0ZuMEtQV3R5YlFRb294T0hzX3luN29jX0tSQ0JWUUR0ck9MZDBWRlN3QkZwQUdfTTdkdDFmZ2dEalptSE1Vd3BBZHFub2gwUQ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-11T07:09:30Z",
-      "description": "GD&TĐ - Os EUA não lançaram um ataque massivo contra o Irã, mas mantiveram uma grande força naval, enquanto o Irã adotou uma estratégia de confronto controlado.",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/11/1789106730325_my-iran-chuan-bi-chien-tranh-keo-dai-jpg.webp",
-      "articleUrl": "https://www.vietnam.vn/pt/ca-my-va-iran-deu-san-sang-cho-mot-cuoc-chien-dai-hoi"
-    },
-    {
       "title": "Índia recebe cúpula do Brics em meio a teste de unidade provocado pela guerra no Irã - Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRldkSDRsZEhia012czVRZTQtdVB6d0FJYXF5VVZmOVF5OFY2UXRVMjBHT2ZFWThLNTdXamxQVVhOMWJsclNpclBQQWROcGxTTVpqRjRjd3ZqZVdXbS1GTkxLQkVwVl8yVzcwaFBGd2U1TW1YYnNJbF9ZM1NfTHkxQU5NenJ5ZHdHOVhGSmJkdnM5d1k5dldrRGZsM3NqXzlndmJDb2h1T3UzcGloajktVG9ZbzBmMzQwUnJaUXZBX2p1SGtZWmRyc0J6dmpOWGRNZHfSAeABQVVfeXFMUHdsTUdjZUVVdGZZbVRJNlFwUlktdTlLX1VvQzduQnNoZGM2WmdiR0pVVkhnS2xmdFh1N3REU1I3dmk2bU9GVVpRcE1KSUIxRzdQU2VDdXhvaWYwckJMbWt0aS1IaFVwN0wxMkFFcG1QQnZWemhRN1BKVk1RMkpGNG1PSzUwaXVSN1pUT1FZMGVELUtrWUlvN1hDZXE0SGVUNHJXVzFPRmRUV3lka0RWc2dVLS1QaXNCR0wzWmJtMnNtQUFvZWhXT2FGZkJFak9RMHFTN3R5cGI3VmFHZ1lDREU?oc=5",
       "source": "Valor Econômico",
       "publishedAt": "2026-09-10T12:11:34Z",
-      "description": "Notícia publicada por Valor Econômico. Abra o artigo para consultar os detalhes completos.",
+      "description": "Emirados Árabes Unidos, integrantes do grupo, suspenderam em agosto todas as transações comerciais e financeiras com Teerã, depois de serem atingidos por mísseis da República Islâmica",
+      "image": "https://s2-valor.glbimg.com/uHcJLQ2dF8ITk7ZBskFvK_sh_W4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/B/F/AH0DFqSeAd0RNzZYkOPQ/2026-09-03t144419z-214326589-rc2fbnaqmr00-rtrmadp-3-brics-summit-india.jpg",
+      "articleUrl": "https://valor.globo.com/mundo/noticia/2026/09/10/ndia-recebe-cpula-do-brics-em-meio-a-teste-de-unidade-provocado-pela-guerra-no-ir.ghtml"
+    },
+    {
+      "title": "Os Estados Unidos e o Irã estão preparados para uma guerra prolongada? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEw2SnpaRGlHbHQ1YkpjeEUwSWV1Y2RvRm1Hanp4OGNVV1UyaUlHWDBGQmw5b1NjNDgySnhBZ0ZuMEtQV3R5YlFRb294T0hzX3luN29jX0tSQ0JWUUR0ck9MZDBWRlN3QkZwQUdfTTdkdDFmZ2dEalptSE1Vd3BBZHFub2gwUQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-11T07:09:30Z",
+      "description": "Notícia publicada por Vietnam.vn. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
