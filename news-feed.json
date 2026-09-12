@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:27:02.068442Z",
+  "updatedAt": "2026-09-12T17:24:57.681208Z",
   "health": [
     {
       "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
@@ -11,6 +11,15 @@
       "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
     },
     {
+      "title": "No cancro, quanto medicamento é demasiado medicamento? Doentes e investigadores questionam as doses aprovadas pela FDA - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPS1ZTWmc1SjIwb3M0YnhtbnBQQkNRc1hoY3d4dGhZZmhmRU91R2Etelkwanlpa29EZWtJUjMxZXdXNUotcmRpcVdzb056cnlpeGlDOGk3SVRsaDkzRG03SzhuRm91Wk1aWV83ZXUzQWtCQzhGODVQdXRhYTR1TFFHSGoxX0ZXVTRKbEhTTUtGNXd3VTBZcDZFWUg4dWJEbW5ZUDZ0OE5zcFV0LXZjSTdpWjRNTHVhbHJhaThyMzlYUlgwV0hmb2t1c0EwQzE1OXd6cVZYMmZGSzY1LXY5V0RkRzE0WFpfQnA1SW1GMGM0dTd3OTdaeEFpcDRNUlI0QTVuUWRuNEZPbkI3UGVmMml5OXRoN1JxUFNFQlVVcVNMOXBHUlVMYXRqWERaQnBKUQ?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-12T17:00:00Z",
+      "description": "O pembrolizumab é normalmente prescrito numa dose fixa; o nivolumab é por vezes prescrito numa dose fixa e, noutras ocasiões, com base no peso do doente. Se o doente receber uma dose inferior à indicada no rótulo, os fabricantes de medicamentos geralmente recebem menos dinheiro. E não são os únicos a perder.",
+      "image": "https://img.iol.pt/preset/6aa022f4d34ed0733ba84053/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/cancro/tratamento-do-cancro/no-cancro-quanto-medicamento-e-demasiado-medicamento-doentes-e-investigadores-questionam-as-doses-aprovadas-pela-fda/20260912/6aa022b1d34e511da0b37807"
+    },
+    {
       "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
       "source": "Público",
@@ -18,15 +27,6 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
-    },
-    {
-      "title": "Depressão: o retrato de uma doença que ainda se esconde - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFRsSDE3OGJIekczeG9ZemZheVBOcURDdWVwZGQ1NmF2c2NKMllkWVpHQ0JLd3VuNDBnNF9iN3Jtd19ZSm10QXNMTGsyamF6dUhLejltSGg1MTFHM215d3k0TG9LZE43WEVlenljbXpscEMxcUd4Ri1XcjZDbUIzRkVNajdXNEdUYklSSFpYSG9kMDhFdGQ1U2IyczlhWXB4djd6cUM0UkRrMDlFSkU0UnpYaW96ZEc4U3JjQThZem9paW5N?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-09-12T14:49:25Z",
-      "description": "A depressão afeta milhares de portugueses e continua a ser uma das principais preocupações no campo da saúde mental. Os dados não são animadores e é preciso ter em conta que nem todos os casos são reportados.",
-      "image": "https://img.iol.pt/preset/6aa566710cf22b9f8904b898/og/sol",
-      "articleUrl": "https://sol.iol.pt/sociedade/noticias/depressao-o-retrato-de-uma-doenca-que-ainda-se-esconde/20260912/6aa566f80cf23b0ed4fd83ac"
     },
     {
       "title": "Fazer bem à saúde, à entreajuda e à solidariedade - OCC | Ordem dos Contabilistas Certificados",
@@ -56,9 +56,9 @@
       "articleUrl": "https://healthnews.pt/2026/09/12/porto-novo-centro-da-unilabs-faz-85-dos-exames-de-medicina-nuclear-para-o-sns/"
     },
     {
-      "title": "Hospital de Santa Maria tem novo modelo de urgência - rtp.pt",
+      "title": "Hospital de Santa Maria tem novo modelo de urgência - RTP",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm1wNHNtQTk2ODZ4QkJLWk5QLXljQldHd05GcGRQNDhITUVUZjEwOGlxZ1M3RXBXNDRwLUREU0QzU0ZhSkJpZGswVFJMZzRZMnJQQ2VoSUpjRWN6bTFhZ1dhTjN6UFg0VFV6UkVQT2dmbnB1SmpySlFNUzhINi1YZzZpWjVzSUQtU1kzaGJVeGlZUzQtN2hsaw?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-11T12:34:47Z",
       "description": "As alterações no circuito de atendimento evitam a permanência em macas e agilizam também os internamentos.",
       "image": "https://cdn-images.rtp.pt/icm/images/f2/f26654736c165230bf7544e8adf0f383_N.jpg",
@@ -74,11 +74,20 @@
       "articleUrl": "https://www.jn.pt/pessoas/artigo/celine-dion-prepara-se-para-regresso-emocionante-em-paris/18125944"
     },
     {
-      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - SIC",
+      "title": "Dois mortos vítimas de doença súbita no Caniço e em Santa Cruz - JM Madeira",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW1pVXIxYkFUTmlKMHJPcWxza2NCd1lZQkxqSHRsZVdCWHh3Tjk1YXZfRGx3TGd0azBEeUh1amlCNlZ3WXhsUkI4aDktcDVpRzFmSzVIUEtNcWZtSDVOSHZkWkdxamZzRk9Ec0w2dE0tLVJINVRhODNhN2dsMWRZazctTWtfSWZ2cnVGZkJjM25PWHVjNnNzbEVYZHVlY2lBLWNZRDBHall2QW1VTzlOOGxORndNdTFqYzlBMzdyM3ZwS0E5UnpR?oc=5",
+      "source": "JM Madeira",
+      "publishedAt": "2026-09-12T17:09:46Z",
+      "description": "Bombeiros Sapadores de Santa Cruz foram mobilizados para duas situações diferentes este sábado. Em ambos os casos, as vítimas já se encontravam sem vida à chegada dos meios de socorro.",
+      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_12/BOMBEIROS_JORNADAS_SANTA_CRUZ-1789232970112.jpg--dois_mortos_v_timas_de_doen_a_s_bita_no_cani_o_e_em_santa_cruz.webp?1789232971194",
+      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/ocorr-ncias/30004974/dois-mortos-vitimas-de-doenca-subita-no-canico-e-em-santa-cruz.html"
+    },
+    {
+      "title": "A lutar contra cancro, Miguel Vieira atualiza estado de saúde: \"A notícia que me tirou o chão\" - sic.pt",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFRXdmQ1ZnR5Qmt1MXpBUlB3M3dlTnRqM0toM1N0RTBndjUzUHhNU2ZxczZURHUyZ0FOX3NPZlFDOWZOY001OWpfeUZVRGFKVjZwSWZEUVoxSzNtSThGR3BGQ0JKWGdrdW0xemlXdkpSX2p1eFBCOVp4UjVYZDRiS2ZWSko5M2lVaVU0NndNM3doS0paWFNnd192WUVFalJacGhQRE9iaE5LdnFnNnFHWHVsVWZSQlNDOU9BOW9aaWNCbjBFWGJ3c250NzJoVHVrTHpLWmtncmV6MEU?oc=5",
-      "source": "SIC",
+      "source": "sic.pt",
       "publishedAt": "2026-09-12T08:45:09Z",
-      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por sic.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://sic.pt/sic-caras/famosos/2026-09-12-a-lutar-contra-cancro-miguel-vieira-atualiza-estado-de-saude-a-noticia-que-me-tirou-o-chao-c26ffffb"
     },
@@ -87,9 +96,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT29hS3F0VWloc3hkTElBdzhLaHRMdndXdWlhYUVhSWtOdWJhTkx3QVJkVEtTQVZfWGcwZVZMeFhFb2M2c0U0cEY1Mm1aaDM2QzVsZWJyemEwWjlHak1UTENqczVGUjRFOEZ5ZllwU0JwSEZtYWgwbGlKZXdjQ0RQYUQxbmJibkZvREVjaVJPMzJZRXVVYzNNUkUxNm53dTRNZFI0MjE1MUhnVXZtRVp2eDk5UUNYeHQ5SGFv?oc=5",
       "source": "SÁBADO",
       "publishedAt": "2026-09-12T10:12:51Z",
-      "description": "Os resultados do trabalho foram sexta-feira publicados num artigo científico na revista Chem Catalysis.",
-      "image": "https://cdn.sabado.pt/images/2026-09/img_1200x676uu2026-09-12-11-08-02-775366.jpg",
-      "articleUrl": "https://www.sabado.pt/ciencia---saude/detalhe/investigacao-com-cunho-portugues-desenvolve-enzima-devoradora-de-plastico"
+      "description": "Notícia publicada por SÁBADO. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Três anos depois de a OMS classificá-lo como 'possivelmente cancerígeno', Europa reafirma que o aspartame continua sendo seguro - O GLOBO",
@@ -97,14 +105,6 @@
       "source": "O GLOBO",
       "publishedAt": "2026-09-12T07:30:00Z",
       "description": "Notícia publicada por O GLOBO. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "PS de Portalegre põe ferrovia, saúde e água no topo das prioridades - alentejoilustrado.pt",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVp3RkRQQzFGcHg5V2FfSFR4YmdjalJsdG83dG9aSlFjOVZzNm9jRklQZWJrR1VTWGNra2VWc0JVcUNNazZSNHFkUnQtVndCNFFvS2hFS2ExXzl5eUo5c1ZEUklOTHBFcDJZRmNMZXAzMU85YllKamhRQnR6TE9IRHNxRlZwNW0tTUN1eDE5aHJkN2xReXByRTZjRjc?oc=5",
-      "source": "alentejoilustrado.pt",
-      "publishedAt": "2026-09-12T14:27:55Z",
-      "description": "Notícia publicada por alentejoilustrado.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -126,15 +126,6 @@
       "description": "Decorre este sábado e amanhã em Nova Deli a 18a cimeira dos BRICS, bloco inicialmente formado pelo Brasil, Rússia, Índia, China e África do Sul e que abrange um total de 11 países. Na sua declaração…",
       "image": "https://s.rfi.fr/media/display/454b4bbe-adfb-11f1-b404-005056bfb2b6/w:1280/p:16x9/2026-09-11T142648Z-80287782-RC2ZGNA1LEQI-RTRMADP-3-BRICS-SUMMIT.jpg",
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
-    },
-    {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHh2Y1JXTVVTRmFmelBMdnU1eFl6UEpndFdkREY4eDBtM1NJYWJtWTdNbklTU3Z6RDV4WU5hdm9EZWE1QXlzZmVNZGZEV0RyMm1JSjd1LWJmQnNCd24wZlc4bTY1MDBsSXlCVHZmandiZ3pxVThydFk3ZU1EUWl4UjlyU09WZm9NcE5JTVNuVUNvbXJBQmsyWGRPR2h5RlE0b3lWTU9MY9IBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
-      "source": "DW.com",
-      "publishedAt": "2026-09-12T16:08:34Z",
-      "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
-      "image": "https://static.dw.com/image/79245316_6.jpg",
-      "articleUrl": "https://www.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498"
     },
     {
       "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - Diário de Notícias",
@@ -164,13 +155,22 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/11/505142-putin-alerta-que-envio-de-tropas-europeias-equivale-a-guerra-contra-a-russia/"
     },
     {
-      "title": "11 de setembro. Bombeiro português recorda operação de salvamento nos Estados Unidos - rtp.pt",
+      "title": "11 de setembro. Bombeiro português recorda operação de salvamento nos Estados Unidos - RTP",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMERxVTRUVktaVGd5UmNvRmY2WEk2UmlsOVprTVpnWmNELW5JdmhKMldQbTBZUnRfemxvWmFOQ1BNZ3FSM3VRYmtKZFVHQVQyV3R2Y1ZmRUl5cUVSZWs4TURNOFYxS3kwSUlKaVVxUjJ3ZldMdHYtNlJfdTh0U3FMQlpyeEhCZm5Wd2RCUzVUeGJXWTZJMXhiWE5JckY4NDUyeTBFMlZEcG5tSU05U0YxSHBYeTZCN1RwdFBoU1oxWVAtNUli?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-11T21:36:40Z",
       "description": "Nas operações de busca e salvamento após o atentado de 11 de setembro de 2001 estiveram dois bombeiros portugueses. José Ricardo Bismarck recorda os oito dias em que esteve em solo norte-americano.",
       "image": "https://cdn-images.rtp.pt/icm/images/58/5807ee16816b1f0cd7aebefa73e47b11_N.jpg",
       "articleUrl": "https://www.rtp.pt/noticias/mundo/11-de-setembro-bombeiro-portugues-recorda-operacao-de-salvamento-nos-estados-unidos_v1764937"
+    },
+    {
+      "title": "EUA avaliam reduzir tropas no Oriente Médio após conflito com Irã - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDViNEJFM3ZvdW81VFFENHprYXA1VDl2TGJrdE96ZUtzdllVQjJHanducnBHU2U2alM2RGQ3QzNiWkoxS2dwdWZTdXNOOVRESE1vamVfOHFsTE8xaWRhdEw0RW02dFZsR21RMkVaTTNzUEdNdkg5OUxrUWRvaXJsU19Pc3JZbzA?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-12T13:00:00Z",
+      "description": "Discussões internas no Pentágono e na comunidade de inteligência avaliam cortes de pessoal e instalações na região caso acordo de paz seja alcançado",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/AP21243461310576.jpg?w=1200&h=630&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/eua-reduzir-tropas-oriente-medio-ira/"
     },
     {
       "title": "Resolução genérica sobre guerra marca cúpula dos Brics - 12/09/2026 - Mundo - Folha de S.Paulo",
@@ -191,28 +191,28 @@
       "articleUrl": "https://sicnoticias.pt/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/eua/2026-09-12-video-trump-diz-que-guerra-no-medio-oriente-vai-acabar-depois-das-eleicoes-intercalares-nos-eua-e827f42a"
     },
     {
-      "title": "Xi Jinping diz na cúpula do BRICS que guerra no Oriente Médio não serve a interesses comuns - Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc05vQ0N0ekNZUlhkOWNka2h3bVF0cDIwR3d6Q3J0eWdZTUY1Uzl1MVd1R1VuZ3ZSRjFHb0lXTnFuQWxYZTF0SU5ZYnVBcW4xMFpLTXpwVTQtWTVkMnRFSElJWmx4dTdLU1BoSDA3UnFwN1YwRllXSVZPTXg5Q3h3TXJiNjM1V3RfUnRRckhR?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-09-12T13:22:00Z",
-      "description": "Xi Jinping disse na cúpula do BRICS que a guerra no Oriente Médio não serve aos interesses comuns da comunidade internacional",
-      "image": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/09/783f4371-xi_jinping_narendra_modi_and_vladimir_putin_.webp",
-      "articleUrl": "https://timesbrasil.com.br/mundo/xi-guerra-oriente-medio-nao-serve-interesses-comuns/"
-    },
-    {
       "title": "Brics pedem 'cautela máxima' em meio à guerra e China quer bloco como mediador no Oriente Médio - Terra",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUExnWFZjWEZXWGQxM3VHMjlVcEt2NjFYS2pLelowcGpDQ002SGVyVWNXWjB4Z1RmYWZidWRSOXBFaUNIcGNQQWpWNW45M3pQWUY5SHMyQTAzMGFsT0RGZGh1NVA5ZmJvcjhPb01VRmRDRF9FaXBBd3R6ckJTazEyRkdoNTluR0tDdHNUUHBvVXRHOUVzT2haVl9jcmtRc0pfblNic3o0MkJjTk9LTzNDNzdUeFNiRVJXUktISnVhT2sxRWdOS2ZMdGoxV2VnU1V6dE5CWkk1c3JydFZfVFBPdDh1T2VZMXpMNU1KZThfR0ZLWjVZeFVpRm5vWFA3ekJZQ3VtVDRiakdRRjQ?oc=5",
       "source": "Terra",
       "publishedAt": "2026-09-12T16:03:00Z",
-      "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
+      "description": "Os Brics pediram neste sábado (12), em Nova Délhi, \"cautela máxima\" às partes envolvidas no conflito no Oriente Médio, numa declaração que traduz preocupação com a escalada regional. O apelo ocorre no mesmo dia em que Xi Jinping defendeu que o bloco atue como mediador, afirmando que a guerra \"não serve aos interesses comuns da comunidade internacional\". A reunião também marcou…",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/12/1347908492-000-c84e8ct.jpg",
+      "articleUrl": "https://www.terra.com.br/noticias/mundo/brics-pedem-cautela-maxima-em-meio-a-guerra-e-china-quer-bloco-como-mediador-no-oriente-medio,f92785e6799837f5fa6eebff72b7689bxo6lspja.html"
+    },
+    {
+      "title": "Xi Jinping diz na cúpula do BRICS que guerra no Oriente Médio não serve a interesses comuns - Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc05vQ0N0ekNZUlhkOWNka2h3bVF0cDIwR3d6Q3J0eWdZTUY1Uzl1MVd1R1VuZ3ZSRjFHb0lXTnFuQWxYZTF0SU5ZYnVBcW4xMFpLTXpwVTQtWTVkMnRFSElJWmx4dTdLU1BoSDA3UnFwN1YwRllXSVZPTXg5Q3h3TXJiNjM1V3RfUnRRckhR?oc=5",
+      "source": "Times Brasil | CNBC",
+      "publishedAt": "2026-09-12T13:22:00Z",
+      "description": "Notícia publicada por Times Brasil | CNBC. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Xi Jinping critica guerra no Irã e tarifas comerciais na cúpula do Brics - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHBjZHdhTUZadDJFRXhSREJYVzdGd3k3aURzZ1luQ0JTLUFHeGJzTUlxQ3NvWGJYOVZ1QUJKM1hWZnNLMW9WZnVJbG9kV3VMSVcxQloySmxIdnhyWGNZQjE2UUF6UVN6ZEI5QWFMWndOcVdtYW1EenhQdXJDVGxTdjJhcDQ0VTF4dW1VeW1OMEdVd1o4MzAzbjVtdGg0bDV0aEswdU5iRDVQX0RzYlFSNnVQYzJQWFE?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-12T13:41:54Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - CartaCapital",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlhVWHdPNjZuOUdnamtqZXNmZnVmSzhSdWJOdzl6Y1JkTHJMRzNlWEpNTTJJX3lTc01aSnBpdEdQREpFdkVLMXJ6dXNMdlJnWlA2TEJDRUxHVmhpdjBFMW1URWp1LVdkTXZfWHBtSzIwd2dnSW1hTEo3WlBZNjVUVHZwT1dlV2RkMVV3ZncwZHhYbFJDOFlXRnJITjBxQQ?oc=5",
+      "source": "CartaCapital",
+      "publishedAt": "2026-09-12T16:37:00Z",
+      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
