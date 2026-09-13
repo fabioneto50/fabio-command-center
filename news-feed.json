@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T03:27:36.647374Z",
+  "updatedAt": "2026-09-13T04:27:31.751801Z",
   "health": [
     {
       "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
@@ -11,15 +11,6 @@
       "articleUrl": "https://cnnportugal.iol.pt/psp/hospital/vou-te-abrir-a-cabeca-homem-provoca-caos-no-hospital-e-e-baleado-pela-psp/20260912/6aa55fdbd34e9a786e757afb"
     },
     {
-      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-12T16:00:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
-    },
-    {
       "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ljNk9mOVJ5RjZMYk8zUjhqWGxrQy1COUNKLUZlNm1sMEJzcEJxaXFIRm5tem4xaG1vRUVMbnhTeV9IZ0w0c2J6QU5qclMwMi1YRlN2a2VoaERPSGt2UmpjTHJmQ3lkc1ZqM0VnTm1ZRERnZFg1YkZmTGFiRHR0QVFRakR1dzE3d3djbGdYTTFRTWVnTjV0ellCTHVrcDlESzBnNWNn?oc=5",
       "source": "ECO",
@@ -27,6 +18,15 @@
       "description": "Seguros de saúde individuais cresceram 6,3% em 2025, muito acima dos seguros de grupo. Longe de os substituir, as apólices oferecidas pelas empresas estão a impulsionar o mercado particular.",
       "image": "https://eco.imgix.net/uploads/2025/10/cropped-45098332-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
       "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
+    },
+    {
+      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-12T16:00:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
     },
     {
       "title": "Vinhais reforça programa \"Mais saúde nas freguesias\" - Jornal de Notícias",
@@ -65,22 +65,13 @@
       "articleUrl": "https://www.jn.pt/opiniao/artigo/a-doenca-do-esquecimento/18126076"
     },
     {
-      "title": "Depressão: o retrato de uma doença que ainda se esconde - Jornal SOL",
+      "title": "Depressão: o retrato de uma doença que ainda se esconde - sol.iol.pt",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFRsSDE3OGJIekczeG9ZemZheVBOcURDdWVwZGQ1NmF2c2NKMllkWVpHQ0JLd3VuNDBnNF9iN3Jtd19ZSm10QXNMTGsyamF6dUhLejltSGg1MTFHM215d3k0TG9LZE43WEVlenljbXpscEMxcUd4Ri1XcjZDbUIzRkVNajdXNEdUYklSSFpYSG9kMDhFdGQ1U2IyczlhWXB4djd6cUM0UkRrMDlFSkU0UnpYaW96ZEc4U3JjQThZem9paW5N?oc=5",
-      "source": "Jornal SOL",
+      "source": "sol.iol.pt",
       "publishedAt": "2026-09-12T14:49:25Z",
       "description": "A depressão afeta milhares de portugueses e continua a ser uma das principais preocupações no campo da saúde mental. Os dados não são animadores e é preciso ter em conta que nem todos os casos são reportados.",
       "image": "https://img.iol.pt/preset/6aa566710cf22b9f8904b898/og/sol",
       "articleUrl": "https://sol.iol.pt/sociedade/noticias/depressao-o-retrato-de-uma-doenca-que-ainda-se-esconde/20260912/6aa566f80cf23b0ed4fd83ac"
-    },
-    {
-      "title": "Wegovy testado em menores: \"Todas as crianças que tenham doença causada pelo excesso de peso beneficiam e muito com este medicamento\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ0kwTk92UG5LTVprMC1hN3ZrUU5odE5oZmw0VVdqWDQ0cm4zRWFmMzE3MnFzcFg5X0VxaWd4ZlFzUDFFWVUxbTBOcElJbUJ4azd4OFpDRkYxTG50TzhUZ2JQcGV1TEZMUGVzRW5ocy1OT3hkY0VBamZhazRZX3lFYjRZNDE0OEs4LTNXRTFlTmRIVDRmSDJDT00zWUt2S3ZJaXJhQy1qaG4xWVV1b3d5aS1qVUVBRnNoaU9PQUhyZWRmSXVRbjhfakZ2eXUxNXVsOUtIUG9jVTBPTENhRGRCUXdVeWpPNlZrSmVHRy02dUxyTHZwV0s3WG9jY2dvQmxydjJqQzVBWHQ0Njc3U21jOWlxUXJwdE9C?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-12T18:57:48Z",
-      "description": "Joana Menezes Nunes, médica endocrinologista, esteve no CNN Sábado para falar do Wegovy, medicamento que está já a ser testado em menores.",
-      "image": "https://img.iol.pt/preset/6aa5997cd34e53c759c71def/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/videos/wegovy-testado-em-menores-todas-as-criancas-que-tenham-doenca-causada-pelo-excesso-de-peso-beneficiam-e-muito-com-este-medicamento/6aa5948b0cf20dc52778c0d1"
     },
     {
       "title": "Galería de Atelier Vila da Saúde / Plareng + Consoante Arquitetura e Integração - 27 - ArchDaily",
@@ -90,6 +81,15 @@
       "description": "Imagen 27 de 37 de la galería de Atelier Vila da Saúde / Plareng + Consoante Arquitetura e Integração. Gif - Croquis Perspectivas",
       "image": "https://images.adsttc.com/media/images/6a97/5cad/e52b/d301/896a/7d13/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_1.jpg?1788304561",
       "articleUrl": "https://www.archdaily.com/es/1184842/atelier-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao/6a975cade52bd301896a7d13-vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao-image"
+    },
+    {
+      "title": "Wegovy testado em menores: \"Todas as crianças que tenham doença causada pelo excesso de peso beneficiam e muito com este medicamento\" - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ0kwTk92UG5LTVprMC1hN3ZrUU5odE5oZmw0VVdqWDQ0cm4zRWFmMzE3MnFzcFg5X0VxaWd4ZlFzUDFFWVUxbTBOcElJbUJ4azd4OFpDRkYxTG50TzhUZ2JQcGV1TEZMUGVzRW5ocy1OT3hkY0VBamZhazRZX3lFYjRZNDE0OEs4LTNXRTFlTmRIVDRmSDJDT00zWUt2S3ZJaXJhQy1qaG4xWVV1b3d5aS1qVUVBRnNoaU9PQUhyZWRmSXVRbjhfakZ2eXUxNXVsOUtIUG9jVTBPTENhRGRCUXdVeWpPNlZrSmVHRy02dUxyTHZwV0s3WG9jY2dvQmxydjJqQzVBWHQ0Njc3U21jOWlxUXJwdE9C?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-12T18:57:48Z",
+      "description": "Joana Menezes Nunes, médica endocrinologista, esteve no CNN Sábado para falar do Wegovy, medicamento que está já a ser testado em menores.",
+      "image": "https://img.iol.pt/preset/6aa5997cd34e53c759c71def/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/videos/wegovy-testado-em-menores-todas-as-criancas-que-tenham-doenca-causada-pelo-excesso-de-peso-beneficiam-e-muito-com-este-medicamento/6aa5948b0cf20dc52778c0d1"
     },
     {
       "title": "“Ter uma depressão não significa não amar o filho”: psiquiatra desmistifica doença mental - Correio da Manhã",
@@ -158,7 +158,7 @@
       "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3A4eHE4WTdXcFNROVhJeUVuRVU0TmJZVEp1ZjdtX3VEcm1rNDRyNmhlbDA4SzRUc3NDUHJTc3pXRGFxazRLVEFIejZrRVBBYmNkYVhTTjBBamFoR2d6MjBiaExUZzZjY0ozTVUzSEh4QjB3RnAxVUxnR25mdmVCOW1aS3F5ak03anpHYnhXWlJQZ3JLWEo0c1pGNl9OWk43eW1wU2o4RkRBUl9Q?oc=5",
       "source": "Jornal Económico",
-      "publishedAt": "2026-09-12T00:00:00Z",
+      "publishedAt": "2026-09-11T21:16:00Z",
       "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - cartacapital.com.br",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - CartaCapital",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlhVWHdPNjZuOUdnamtqZXNmZnVmSzhSdWJOdzl6Y1JkTHJMRzNlWEpNTTJJX3lTc01aSnBpdEdQREpFdkVLMXJ6dXNMdlJnWlA2TEJDRUxHVmhpdjBFMW1URWp1LVdkTXZfWHBtSzIwd2dnSW1hTEo3WlBZNjVUVHZwT1dlV2RkMVV3ZncwZHhYbFJDOFlXRnJITjBxQQ?oc=5",
-      "source": "cartacapital.com.br",
+      "source": "CartaCapital",
       "publishedAt": "2026-09-12T16:37:00Z",
-      "description": "Notícia publicada por cartacapital.com.br. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
