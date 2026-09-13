@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:27:06.138579Z",
+  "updatedAt": "2026-09-13T03:27:36.647374Z",
   "health": [
     {
       "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
@@ -11,15 +11,6 @@
       "articleUrl": "https://cnnportugal.iol.pt/psp/hospital/vou-te-abrir-a-cabeca-homem-provoca-caos-no-hospital-e-e-baleado-pela-psp/20260912/6aa55fdbd34e9a786e757afb"
     },
     {
-      "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ljNk9mOVJ5RjZMYk8zUjhqWGxrQy1COUNKLUZlNm1sMEJzcEJxaXFIRm5tem4xaG1vRUVMbnhTeV9IZ0w0c2J6QU5qclMwMi1YRlN2a2VoaERPSGt2UmpjTHJmQ3lkc1ZqM0VnTm1ZRERnZFg1YkZmTGFiRHR0QVFRakR1dzE3d3djbGdYTTFRTWVnTjV0ellCTHVrcDlESzBnNWNn?oc=5",
-      "source": "ECO",
-      "publishedAt": "2026-09-12T16:22:23Z",
-      "description": "Seguros de saúde individuais cresceram 6,3% em 2025, muito acima dos seguros de grupo. Longe de os substituir, as apólices oferecidas pelas empresas estão a impulsionar o mercado particular.",
-      "image": "https://eco.imgix.net/uploads/2025/10/cropped-45098332-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
-    },
-    {
       "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
       "source": "Público",
@@ -27,6 +18,15 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
+    },
+    {
+      "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais - ECO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ljNk9mOVJ5RjZMYk8zUjhqWGxrQy1COUNKLUZlNm1sMEJzcEJxaXFIRm5tem4xaG1vRUVMbnhTeV9IZ0w0c2J6QU5qclMwMi1YRlN2a2VoaERPSGt2UmpjTHJmQ3lkc1ZqM0VnTm1ZRERnZFg1YkZmTGFiRHR0QVFRakR1dzE3d3djbGdYTTFRTWVnTjV0ellCTHVrcDlESzBnNWNn?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-12T16:22:23Z",
+      "description": "Seguros de saúde individuais cresceram 6,3% em 2025, muito acima dos seguros de grupo. Longe de os substituir, as apólices oferecidas pelas empresas estão a impulsionar o mercado particular.",
+      "image": "https://eco.imgix.net/uploads/2025/10/cropped-45098332-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/"
     },
     {
       "title": "Vinhais reforça programa \"Mais saúde nas freguesias\" - Jornal de Notícias",
@@ -38,13 +38,13 @@
       "articleUrl": "https://www.jn.pt/pais/artigo/vinhais-reforca-programa-mais-saude-nas-freguesias/18126040"
     },
     {
-      "title": "Galería de Atelier Vila da Saúde / Plareng + Consoante Arquitetura e Integração - 20 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQblMxN2RKaWJ5b0NXZllxSUJEekxyZkh0Uk4zZWkwLTVicDlmMFdPZnNhdDZRUDNvTFNiZWhCQmk0QnR4dDExQUc1cE5NVzVaVGdRYmwwT3g3MUV6bzIxZlYxMjFETDcwSTlIRFNmSzF1cGViSlBRTEhNS1JGMDVxU29DSU9zbU9EaEx6VXZRZGtKallwUkpsZWJFbVhMZkxMcEhNZTRuS2x3NjBfRndYX1FuaUMwMXlfeTJhWkZoU2RmX2w4eENSQjJ5MXdHSEQtVE5LdnVmN0R6MldhSVYycm0tZ3Rma3lxU3k2TDhjQ0xWZ1JSaV9FenVuVVN0RHQ4Yk5telE0QlN0ZjNmNHo3Mjgtbm1fVkVqbGhZQzU2UDBjaV9KOWNjWHprM0dLbjg?oc=5",
+      "title": "Galería de Atelier Vila da Saúde / Plareng + Consoante Arquitetura e Integração - 15 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPeUxDWFRMeWxqZEJ2cHhwdFV5c3lXdFVmRHhab01nTW9SWXUwemhpUFVhTVpWMEJOVlM4eE9NQTE3dVJsOU45TjY0LTNiMUpRdmFjMVVSbDZ2WlJWeFExUHl1N2lGWFRGcTM0Zi0tbW5kZUVtbG10Qi0xNnVhd2c4bVMzT0F0X2hkU0xxejcxV1psVHY2bEtOT3FPQVNjOGdDbXYxZWpnLTRoRzRnQ0E5Y0xIYTZ3aGVHb0hUcF9OQjZZYXdMMDNQTlc1ZWxmMkptUm1MdGRiR3lkSFcyMGgtR1JER25yZDZQeDhYRmh1WDB5TFRfWFlHZ2lGTk1aU3l5dTlsTnUyNklBcGItNkdka1NtWUJNaWd2Z01JVEhCME11akcwTEpzTllzVlA3UE0?oc=5",
       "source": "ArchDaily",
-      "publishedAt": "2026-09-13T00:26:18Z",
-      "description": "Imagen 20 de 37 de la galería de Atelier Vila da Saúde / Plareng + Consoante Arquitetura e Integração. Fotografía de Lela Leme",
-      "image": "https://images.adsttc.com/media/images/6a97/5cfe/8db7/ac01/89d5/41d1/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_17.jpg?1788304713",
-      "articleUrl": "https://www.archdaily.com/es/1184842/atelier-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao/6a975cfe8db7ac0189d541d1-vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao-photo"
+      "publishedAt": "2026-09-13T00:28:19Z",
+      "description": "Imagen 15 de 37 de la galería de Atelier Vila da Saúde / Plareng + Consoante Arquitetura e Integração. Fotografía de Lela Leme",
+      "image": "https://images.adsttc.com/media/images/6a97/5cfe/e52b/d301/896a/7d14/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_9.jpg?1788304709",
+      "articleUrl": "https://www.archdaily.com/es/1184842/atelier-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao/6a975cfee52bd301896a7d14-vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao-photo"
     },
     {
       "title": "No cancro, quanto medicamento é demasiado medicamento? Doentes e investigadores questionam as doses aprovadas pela FDA - CNN Portugal",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - CartaCapital",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - cartacapital.com.br",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlhVWHdPNjZuOUdnamtqZXNmZnVmSzhSdWJOdzl6Y1JkTHJMRzNlWEpNTTJJX3lTc01aSnBpdEdQREpFdkVLMXJ6dXNMdlJnWlA2TEJDRUxHVmhpdjBFMW1URWp1LVdkTXZfWHBtSzIwd2dnSW1hTEo3WlBZNjVUVHZwT1dlV2RkMVV3ZncwZHhYbFJDOFlXRnJITjBxQQ?oc=5",
-      "source": "CartaCapital",
+      "source": "cartacapital.com.br",
       "publishedAt": "2026-09-12T16:37:00Z",
-      "description": "Notícia publicada por CartaCapital. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por cartacapital.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
