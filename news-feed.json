@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-13T15:26:37.773830Z",
+  "updatedAt": "2026-09-13T16:27:57.694693Z",
   "health": [
-    {
-      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-12T16:00:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
-    },
     {
       "title": "14 SEP. | Declaração «SNS – 47 anos a garantir o acesso à Saúde aos portugueses» - Partido Comunista Português",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHpxbGlpSEVnalJUOUxaSVNiTV9YTm1BTkIzMTdBOFN3RGV0c1VBejZ2ck02eHlZd1RmOEFfZFhIOWpZY3NvYmZaUG1fOHg4anRzdFRvTXhGTGgyRVQ3ZnVvdkY2YzJpRGEtTDIyVXprS3piRkxaM1g5a1dEM3RkQW9nWUVScExaQkVPdms1OUtEQ0tMa2RRVkhnaHE2Zw?oc=5",
@@ -18,6 +9,15 @@
       "description": "15:00 – Seixal",
       "image": "https://www.pcp.pt/sites/default/files/imagecache/facebook_share/images/agenda_share.jpg",
       "articleUrl": "https://www.pcp.pt/agenda/declaracao-sns-47-anos-garantir-acesso-saude-aos-portugueses-2026-09-14"
+    },
+    {
+      "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o soutien certo. “Cuidarmos de nós é uma forma de cura” - Público",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHhZcHVNZHhXTjhjSF9WczhFZXdOYUt4WHN1WDdnVE5GTWZSOXZud3FWMnltTlVpNWMzRW02MFQwbHVKa1JOM0RzMEJKWURuRWU1MFpCWVRVZjRmTTNCNmpsUUlIS0hwbWJJMnBndGM1MDh5d05KY1F2R2daVXNIU2NvSHVTX19mZzVNYW9jRVRxSmt2T0ZjR0hMeDdPdG82ODg3RmxnR2lIVUN0VWtzT29LaVJLLXl0S3daMnNidm1tSGhJNDM2Mkx4NXM0V2dnRFhoMUFtNXFGV3hvLTJDYlF3?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-12T16:00:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
     },
     {
       "title": "Chimpanzés utilizados em testes de vacinas recebem cuidados de saúde na Libéria - SIC Notícias",
@@ -74,9 +74,9 @@
       "articleUrl": "https://rr.pt/noticia/pais/2026/09/13/sepsis-a-doenca-evitavel-que-mata-10-milhoes-por-ano-em-todo-o-mundo/485172/"
     },
     {
-      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - TV RECORD Europa",
+      "title": "Ordem lança programa de saúde mental para enfermeiros com consultas e linha SOS - recordeuropa.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQnhFem5Cal9URjRoaUt5OU9MXzhfSFc3bzJEdWFQcWViblJfU1d4NnJkVnBXdVJVRHBxbFJjX3hfS1VYbk9hRWJsYXdxNzA5VzQxcHZYOVl4UTJNRVVkc0R4T0FvbGdYWWdCN2laWXFpd2hkbENOV2ljZXRxcWQ3Rkl5Q0Y4TWxPeUwyenZkM280SkJReWNYdUVsRTItWTJGT0ZrMWpRb2gxcW1kSkU0MF9FWC1FeVhiRXJrQVJHR1pZT2lwbW1qS1A3dTkxRjNxcE1wcUU4Yw?oc=5",
-      "source": "TV RECORD Europa",
+      "source": "recordeuropa.com",
       "publishedAt": "2026-09-13T13:34:00Z",
       "description": "Profissionais passam a ter acesso a seis consultas de saúde mental por ano.",
       "image": "https://i0.wp.com/recordeuropa.com/wp-content/uploads/2023/05/enfermeiros-vao-assegurar-partos-de-baixo-risco.jpeg?fit=1920%2C1080&ssl=1",
@@ -119,15 +119,6 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-13-russia-diz-que-china-e-india-se-oferecerem-para-ajudar-com-negociacoes-com-a-ucrania-ccdfde7d"
     },
     {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTFZrMjZhY0pUTXBLVGVMdWdvdEhEdnd6MmExdjR2WVE4TnlCdEVyUnQxZ1JuNDctZXZia0VWc21aaUtpZkRsaUJlRFVuYnlZQi1SdGZWalE0RnlDTDhfQko2UDdGZGdCMHNTRzJzNXQ1cktYQTVBOVRveWxDTmtrZEpsZnlXS1lFVnUwOGFhOVY3SEJtcEs3YlNBSU5KS3BlMTFRUnhUM3IyRy1zSVhZdm5XanRWM1pQSkI0Yl9iRmJEWmw3NjNr0gHMAUFVX3lxTE03eGlEamxfTVVOUVhvUlByVjQ5b3JSNEZ0SDB6ZkhsMzVIZGJvUmg0QmxXX2ZhZG1ZMFE0RzA2WjFHRnloSXJUQUM3WVJ0T2QyaUlJUzNfcWVncUU3cXZCTzhEVVpSa200czVTWnFpV1pqRjRCQktqTUlmSUU2V0hqYXM3VkJUamczM2VxVG9pdHI3OU9MdmtqaTBkVnkyY1k4djFiNUJ4NUpEZzk0aXlOQlQ0TXEyOEhhMjMySThNRWRxNTVvZ0VfWXZyQg?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-09-13T12:28:00Z",
-      "description": "Porta-voz afirma que Moscou não descarta a retomada das conversas, enquanto negociações seguem sem um acordo sobre os principais pontos do conflito",
-      "image": "https://www.estadao.com.br/resizer/v2/663Z67WWDBFFLCHLFJHXP7UP4Y.jpg?quality=80&auth=9918a62bc9eae319874be80f073f2b8d78459ff9afd950b4923b50acb58b12d6&width=1200&height=630&smart=true",
-      "articleUrl": "https://www.estadao.com.br/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
-    },
-    {
       "title": "Rússia não descarta cúpula trilateral com Ucrânia e EUA em outubro - ANSA Brasil",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLWNHU1h1WEdVckhRZnJydVVya1hYTGx1RHJfUjQwS3gzbW43d2pUZmNLY3lEVWZPeDJCbFg2U3h0ZUJ0andGWVBoOHh4a2tRZkFLUGxMTXFuVnU0Yi1vcndLQ3FEMG5qRDRuc3p4ZUZxZHEyM0NZaDBiU2VwcUYxM0d0VDJvcmdibWhlUXdtWFFSLWFIODZJSFljeWdMb2ZXRzdtMFJmRGU2X1YxeV9ndmRlZTdtX1RVRl9DaEhFSTdKRmVOZUNGSmRLdXpCSlk5bkxMYUdld00yZlZYWDZFd0d4MWJZZ252M2tINTltUHF4LXY2Z1MtR2MxN0tmYk110gGAAkFVX3lxTFAtY0dTWHVYR1VySFFmcnJ1VXJrWFhMbHVEcl9SNDBLeDNtbjd3alRmY0tjeURVZk94MkJsWDZTeHRlQnRqd0ZZUGg4eHhra1FmQUtQbExNcW5WdTRiLW9yd0tDcUQwbmpENG5zenhlRnFkcTIzQ1loMGJTZXBxRjEzR3RUMm9yZ2JtaGVRd21YUVItYUg4NklIWWN5Z0xvZldHN20wUmZEZTZfVjF5X2d2ZGVlN21fVFVGX0NoSEVJN0pGZU5lQ0ZKZEt1ekJKWTluTExhR2V3TTJmVlhYNkV3R3gxYllnbnYza0g1OW1QcXgtdjZnUy1HYzE3S2ZiTXU?oc=5",
       "source": "ANSA Brasil",
@@ -146,6 +137,15 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/lideres-dos-brics-pedem-maxima-contencao-face-a-escalada-na-guerra-no-medio-oriente_n1765010"
     },
     {
+      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-09-13T12:28:00Z",
+      "description": "Porta-voz afirma que Moscou não descarta a retomada das conversas, enquanto negociações seguem sem um acordo sobre os principais pontos do conflito",
+      "image": "https://www.estadao.com.br/resizer/v2/663Z67WWDBFFLCHLFJHXP7UP4Y.jpg?quality=80&auth=9918a62bc9eae319874be80f073f2b8d78459ff9afd950b4923b50acb58b12d6&width=1200",
+      "articleUrl": "https://www.estadao.com.br/amp/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
+    },
+    {
       "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDIzeDhnSGljUFd4UzZGdTVadmVnQ1lPTThfMVYyNTRtQlFFTHJQN1lSZmhFOVNPRWFYTDlmNm1kdVdaeXlMeWFjYzlOekpxYVFtRE5MQzcyM01vOWVPZ21lb21IT2RUNTR0Zm80SHh1cEJYY294Wm8tMzdKbWFieWJ2UUZNWmlXMEtBbW5vczRIRnV6eWhtTXJYYXo4a0p1aklmcTlScm5aZHpsaFhnNWl3N1dWUUx4cjhDeVoyQmpLSmlhUHREUTlHSy0yNHBoRVJITUhEZGpabFJTQk5qa0EzQUo1S09Gb1cwOXJZMGQxSXc?oc=5",
       "source": "SIC Notícias",
@@ -153,15 +153,6 @@
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
-    },
-    {
-      "title": "Conflito no Médio Oriente na ementa do primeiro dos dois dias de cimeira dos BRICS em Nova Deli - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGFqMUk5WGxmci0zUzlLQnQwTG5wbGpFNGVpMHBCem5pWVF1aEVZcUdPVTVhNEhENnVJVEw4TDJFOFlxUUJERGtoZGQ1OWhMU1lNU0RfT3FpR1RHMkxJQTg2ckpYZ1BpQVN3cFl5Sk5xSFNkaDhQSVJzTlc0SFlYNW9vLTYtaUE3Ynd4SWlURk1lczZKV0p6eGw1OHNGWG9TN0swdXZFT1Nsa0VEbGxZZW5BQXBKOURDM0FFb3pYeF9EN2tkTWJiR0E4QjBpRXZfTDZ3?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-12T15:55:11Z",
-      "description": "Decorre este sábado e amanhã em Nova Deli a 18a cimeira dos BRICS, bloco inicialmente formado pelo Brasil, Rússia, Índia, China e África do Sul e que abrange um total de 11 países. Na sua declaração…",
-      "image": "https://s.rfi.fr/media/display/454b4bbe-adfb-11f1-b404-005056bfb2b6/w:1280/p:16x9/2026-09-11T142648Z-80287782-RC2ZGNA1LEQI-RTRMADP-3-BRICS-SUMMIT.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
     },
     {
       "title": "Kremlin não descarta retomar negociações trilaterais com Ucrânia em outubro - Folha PE",
@@ -173,13 +164,13 @@
       "articleUrl": "https://www.folhape.com.br/noticia/amp/512258/kremlin-nao-descarta-retomar-negociacoes-trilaterais-com-ucrania-em/"
     },
     {
-      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTdIBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
-      "source": "DW.com",
-      "publishedAt": "2026-09-12T16:11:58Z",
-      "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
-      "image": "https://static.dw.com/image/79245316_6.jpg",
-      "articleUrl": "https://amp.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498"
+      "title": "Conflito no Médio Oriente na ementa do primeiro dos dois dias de cimeira dos BRICS em Nova Deli - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGFqMUk5WGxmci0zUzlLQnQwTG5wbGpFNGVpMHBCem5pWVF1aEVZcUdPVTVhNEhENnVJVEw4TDJFOFlxUUJERGtoZGQ1OWhMU1lNU0RfT3FpR1RHMkxJQTg2ckpYZ1BpQVN3cFl5Sk5xSFNkaDhQSVJzTlc0SFlYNW9vLTYtaUE3Ynd4SWlURk1lczZKV0p6eGw1OHNGWG9TN0swdXZFT1Nsa0VEbGxZZW5BQXBKOURDM0FFb3pYeF9EN2tkTWJiR0E4QjBpRXZfTDZ3?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-09-12T15:55:11Z",
+      "description": "Decorre este sábado e amanhã em Nova Deli a 18a cimeira dos BRICS, bloco inicialmente formado pelo Brasil, Rússia, Índia, China e África do Sul e que abrange um total de 11 países. Na sua declaração…",
+      "image": "https://s.rfi.fr/media/display/454b4bbe-adfb-11f1-b404-005056bfb2b6/w:1280/p:16x9/2026-09-11T142648Z-80287782-RC2ZGNA1LEQI-RTRMADP-3-BRICS-SUMMIT.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
     },
     {
       "title": "Modi pede ao Irão solução diplomática para guerra no Médio Oriente - Jornal Económico",
@@ -189,6 +180,15 @@
       "description": "Em comunicado, a diplomacia indiana adiantou que Narendra Modi salientou a Masoud Pezeshkian a necessidade de garantir a liberdade de navegação às vésperas da cimeira de líderes dos BRICS, em Nova Deli.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/DOC.20260911.47759373.13232494-e1789164912522.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/modi-pede-ao-irao-solucao-diplomatica-para-guerra-no-medio-oriente/"
+    },
+    {
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTdIBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
+      "source": "DW.com",
+      "publishedAt": "2026-09-12T16:11:58Z",
+      "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
+      "image": "https://static.dw.com/image/79245316_6.jpg",
+      "articleUrl": "https://amp.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498"
     },
     {
       "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - Diário de Notícias",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "EUA retaliam após novo ataque do Irão contra navios norte-americanos - RTP",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGFNQkZ2WFFEcHNYdnVUTlZEVlV0dGNMRXVmY1NILXdOVnZWTDJ4S0tJcjI0YzlGb2VaZWwxZ3dQRVVHT3VPdF9CajlJTjhOOURtRkVQMHZ6VmZsZ0VwclFUNXZJQzdjd1ItaC1jeEdGR1dmZUtwUTh1bnJQTUp5dFJBTUR4MlVETm1saUtuQjhuZEYtUkJ4MDF6UVVxZmpwSDBfVHY0MzROQ1N0WmRNVg?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-11T20:20:36Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - TV Pampa",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2Zmd09TU2hheTN3Q3RGLVZDaGlWeWM4LW0zZXNYUFV2N3VSLTg3djcxbTFYY2hzOXZrbmdpdkxoQnR3NDBjbTVaTlNHeUdfTHJYSDVQZHBCTmtCOVZVVWJJbXJubHhfQlV6bUItaklRb2NjaXBiYmxrZnBKYmgtOEZiYXdfRzJHaXQwdlFGNWFZVzA5aVJZTTlMMm5OR3VYY0Z4cHJEbm1XZ0pDWEtn?oc=5",
+      "source": "TV Pampa",
+      "publishedAt": "2026-09-13T13:02:43Z",
+      "description": "Notícia publicada por TV Pampa. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
