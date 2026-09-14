@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-09-14T14:31:44.490892Z",
+  "updatedAt": "2026-09-14T15:31:14.312863Z",
   "health": [
     {
-      "title": "PSD recupera combate ao turismo de saúde. \"Tem de acabar\" - Observador",
+      "title": "PSD vai recuperar combate ao \"turismo de saúde\". \"Tem de acabar\" - observador.pt",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHYzZ2NlYk9ST0FLUTZrempuMlh4RzhOXzlaNWVOZ2pyMXo5SDNnRzcwcmFKdEYzbEZ6ZVNPajhQcFlIV1c3S2JnNzJCdXphcmhlOUpLVzBnUG1XZTRXbnV3ZTJCZlpHNkZhOE01bTRoQkdNU3VPTndSeFhlOUVGTTI5R2otOFRwSG9pM0lhRGFRZXQ3VHhXaQ?oc=5",
-      "source": "Observador",
+      "source": "observador.pt",
       "publishedAt": "2026-09-14T14:12:47Z",
       "description": "Miguel Guimarães, deputado e vice da bancada do PSD, garante que partido vai recuperar propostas para impedir acesso indevido ao SNS. Medidas tinham sido aprovadas, mas dissolução da AR travou tudo.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1403%3Anowe%3A0%3A60%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F06%2F12121510%2Fobs29052026davidoliveira00017.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/09/14/psd-vai-recuperar-combate-ao-turismo-de-saude-tem-de-acabar/"
+    },
+    {
+      "title": "A ciência já tenta programar as bactérias para proteger a saúde - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3ZwWjlZdzR2TGZ1eHV2V1hweU81SF9IRTF6MjdiemRQT1phUE83amVucTdaUm1GMHVrVHA1eVFNZGd0Ql9Lc201R3ZzR3Q3UEdWcVIySndFME5KblB2X3daSHpiRlF5bFl2Tlo2RWFWVWsxczV5Ry1BWmZ1RVpLR2pkcUxQalpTbmFZWFRjdFFwbGdESHpMNjdPak13TXZoQzFzdkpHZnN2R05HYUVYLU9vVnFla0VmcE9BWHNDbEI5eWNkRXRXQVhNUk95NlBpSEl6bW91eXhnQQ?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-14T12:30:43Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-14-a-ciencia-ja-tenta-programar-as-bacterias-para-proteger-a-saude-816c7bc4"
+    },
+    {
+      "title": "“O turismo de saúde é um problema transversal ao SNS – e já denunciado” - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm0zVWdjOEgzMGxxbG8xNTFWTjFaNXZyX1JGc1I2bUh0eXFublRmRHJRY05ZeElXbTZuVjhxNXd0cjl4NGpJemg1T3N6ZHBkdGdLaTBVbFhZV0NRMGRleVkyZUFwem02RkdjeHJKZTBDclhnZm1WWUhJeHBuMmZHMVpXT2t1Z2FsaVM2M09fbGVoeVBqRmJaLW9EdFhpa3VwTnJxZmZiRW5kTV9xczRVbm9vN3hwUUY0dFZEVlJKcUFGNjFN?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-14T14:56:57Z",
+      "description": "Catarina Guerreiro, editora-executiva da CNN Portugal, analisa o facto de 40% das utentes na área de obstetrícia do Hospital Amadora-Sintra serem de origem estrangeira.",
+      "image": "https://img.iol.pt/preset/6aa80affd34e53c759c720f9/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/videos/o-turismo-de-saude-e-um-problema-transversal-ao-sns-e-ja-denunciado/6aa80a2b0cf22b9f8904ba63"
+    },
+    {
+      "title": "Destaques | Município de Braga reforça aposta na saúde mental em contexto escolar - Braga City Council",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UbVdTQTlHUktDXzcyb0h3bnYwUU1ZZmpPZF9LZlpFb2dnTU4taXBMMWx5dDhONzR0Vk43YzJHLWhEalBOdi13cXM0MmpJS09JcHIwcEc1eTAwdk5fZTVqR0xsOXRfOXBBQUJJRkE5RV9xdw?oc=5",
+      "source": "Braga City Council",
+      "publishedAt": "2026-09-14T14:27:43Z",
+      "description": "Notícia publicada por Braga City Council. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.cm-braga.pt/pt/0201/home/destaques/item/item-1-23205"
     },
     {
       "title": "Recuperação de listas de espera em causa no Hospital de Santo António - RTP",
@@ -20,22 +47,40 @@
       "articleUrl": "https://www.rtp.pt/noticias/pais/recuperacao-de-listas-de-espera-em-causa-no-hospital-de-santo-antonio_v1765327"
     },
     {
-      "title": "Destaques | Município de Braga reforça aposta na saúde mental em contexto escolar - cm-braga.pt",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UbVdTQTlHUktDXzcyb0h3bnYwUU1ZZmpPZF9LZlpFb2dnTU4taXBMMWx5dDhONzR0Vk43YzJHLWhEalBOdi13cXM0MmpJS09JcHIwcEc1eTAwdk5fZTVqR0xsOXRfOXBBQUJJRkE5RV9xdw?oc=5",
-      "source": "cm-braga.pt",
-      "publishedAt": "2026-09-14T14:27:43Z",
-      "description": "Notícia publicada por cm-braga.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.cm-braga.pt/pt/0201/home/destaques/item/item-1-23205"
+      "title": "Região investe 3,7 milhões no Centro de Saúde de São Vicente sem apoio do PRR - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDJ2QkMyaWVvWkpEMmpfSEZjSzM4QVdHTWs5SkFDdWdOZnp3Qkg2aFZIazlvN2NNUW9CdmNyWnFoNGxEVG5sNGhMUzhkSzlKQjlJZWZnNXM1cG9zU0dvNk9wSldFYUxGOXZnWnZ0eTd2RVdRNlNIVEZ1cGhveVZySkdaZGx5RHlHaTNWa09ZRThlajFDZDZzTUdCY0RwTWVrMDNyNTRkNDAxeFBuaHkwN2taS29Lc1dMTHk0?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-14T14:43:00Z",
+      "description": "Obra perdeu comparticipação de 85% do programa europeu e será integralmente financiada pelo Orçamento Regional; conclusão prevista para o Verão de 2027",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logob9940890-87cb-47e7-8c8d-918534957b58.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/14/505378-regiao-investe-37-milhoes-no-centro-de-saude-de-sao-vicente-sem-apoio-do-prr/"
     },
     {
-      "title": "A ciência já tenta programar as bactérias para proteger a saúde - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3ZwWjlZdzR2TGZ1eHV2V1hweU81SF9IRTF6MjdiemRQT1phUE83amVucTdaUm1GMHVrVHA1eVFNZGd0Ql9Lc201R3ZzR3Q3UEdWcVIySndFME5KblB2X3daSHpiRlF5bFl2Tlo2RWFWVWsxczV5Ry1BWmZ1RVpLR2pkcUxQalpTbmFZWFRjdFFwbGdESHpMNjdPak13TXZoQzFzdkpHZnN2R05HYUVYLU9vVnFla0VmcE9BWHNDbEI5eWNkRXRXQVhNUk95NlBpSEl6bW91eXhnQQ?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-14T12:30:43Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "title": "Médico impedido de fazer ecografias obstétricas para o SNS fez quase 5000 para o privado - Público",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjVxX3ZyLWkxQmxQQ0MwbVBkR1RQb0hRbVNvX29DZEpLUDFqMXpMOUpwdnFrdW9RdEZsTk5yLUxlQTZudVdMV2ctbjFIUDBwZHVucXVVS3BQckREdW1MbDdGR0RJQkJaSmV0bTZydXJhRUp5SHVnWnVhYTNTOVA4ejJOTnJvZVJ4cl9KZ2YyWWx5WEhBUzdpMFRqeW5QWTFBSjNiTU5LeG1zZm9PUVp4cEQwZjdZUUtGVU12Y0ZfUl83djA?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-14T15:17:54Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-14-a-ciencia-ja-tenta-programar-as-bacterias-para-proteger-a-saude-816c7bc4"
+      "articleUrl": "https://www.publico.pt/2026/09/14/sociedade/noticia/medico-impedido-ecografias-obstetricas-sns-fez-quase-5000-privado-2187820"
+    },
+    {
+      "title": "Leiria promove saúde em Monte Real, Bajouca, Ortigosa e Maceira - regiaodeleiria.pt",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWtJcG12YnNFcHFnQ2NnVjV3VHZqc044eElXbVdCUWJaZmhSbWFTT0JIdEJPc3BzNk12WS1UUGg1LWpNUVI5UUZ1RTY3ZDFWTDl2eDl6Q0lFRjBZTzJkQkZkVC0zYkFJQjhhSXM2S1Z3NUh2VmJEOVhUMnBSU1B0MmE5SHlsQjVPVU56cDVtOTRlWlF4c0F6d0FOMWhCbGdLSUE?oc=5",
+      "source": "regiaodeleiria.pt",
+      "publishedAt": "2026-09-14T13:24:01Z",
+      "description": "Programa \"Leiria Saúde\" irá percorrer as diversas freguesias do concelho nos próximos meses.",
+      "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https%3A%2F%2Fwww.regiaodeleiria.pt%2Fwp-content%2Fuploads%2F2022%2F05%2Faldeia_saude_mercado_santana_2022_fotos_joaquim_damaso_DSCF3852_.jpg&focus_x=50&focus_y=62&zoom=100&revision=1789330841085",
+      "articleUrl": "https://www.regiaodeleiria.pt/2026/09/leiria-promove-saude-em-monte-real-bajouca-ortigosa-e-maceira/"
+    },
+    {
+      "title": "OMS reitera garantias de que vacinas são seguras e não causam autismo - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDX1VsMlFtdUJJZFVhRmtuOFM4VXprU0RVZnhfR1JOVzNFcmtzR0lDX0t6RHJkdURVc1NSOXFuSktwR2hzVVNySTVDdmhzbFBfd216LUpUUQ?oc=5",
+      "source": "UN News",
+      "publishedAt": "2026-09-14T15:00:23Z",
+      "description": "Declaração do líder da Organização Mundial da Saúde é reação às mudanças nas diretrizes de vacinação infantil nos Estados Unidos; para diretor-geral Tedro Ghebreyesus, atrasar ou espaçar doses apenas deixa crianças expostas a doenças graves.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/30-07-2026_UNAIDS_South_Africa_Vaccine_HIV_Prep.jpg/image770x420cropped.jpg",
+      "articleUrl": "https://news.un.org/pt/story/2026/09/1854342"
     },
     {
       "title": "Dermatite atópica afeta sono, saúde mental e vida social - HealthNews",
@@ -51,9 +96,8 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdDZ0LUtJOVp5UWVfOVBlaVdsTk5pWFVkRklXT3ZGVjNwenQxYnZqWlhoYjNKQ28xSkhiSmk5cjVVWmpIejFrU0pUNEwxT2dmQk1tcGVZOUh6MGc5dG0zbHZSZlB5MHJ6SmNaRWo1TDloelhubVY5ZWN2S1hzb1hHeTNEQkw3akVJV3dENTVDWFBoR0pOQzViYTVZeHVDR21wMURJb0FhWnh6blJNQVpwTGFHUzRkbk1VMlR3YzB6UlljaFRQZmZVX05BS2V1enlPalpTQmtUbzNaOTlPSHRyOEZiTDJtQQ?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-09-14T13:52:23Z",
-      "description": "A responsável de um dos hospitais mais pressionados explica que 40% dos utentes são estrangeiros e admite que o turismo de saúde \"é um problema\". Sandra Cavaca tem um plano para atacar o inverno....",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/809685091_1331040568893900_7273333666886696677_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=1&ccb=1-7&_nc_sid=cae128&_nc_ohc=MFkS-fiOXucQ7kNvwFRohOW&_nc_oc=AdpPkLbj4SBjapdfAWK-2evLxswiELkzGdNYnG8am0HVWSmY82KvX0m1WgEjP8yU8fQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=3aPqFTLMlZAWtl90lIhHgg&_nc_ss=7820f&oh=00_AQJtuMFxViNYxmUMzDWrc45Fp2f5LipCB3GHwwqHB8BNMw&oe=6AADD11B",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/a-respons%C3%A1vel-de-um-dos-hospitais-mais-pressionados-explica-que-40-dos-utentes-s/1476096514621627/"
+      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Medicina da UTAD leva alunos aos doentes desde o primeiro ano - Jornal de Notícias",
@@ -61,63 +105,10 @@
       "source": "Jornal de Notícias",
       "publishedAt": "2026-09-14T09:13:00Z",
       "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.jn.pt/pais/artigo/medicina-da-utad-leva-alunos-aos-doentes-desde-o-primeiro-ano/18126235"
-    },
-    {
-      "title": "Cruzamento de Pugs reduz problemas de saúde, diz estudo - veterinaria-atual.pt",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zNlFZM29PV0ZPLWxoWWVaeVZfQnNOdUJJUTI5eWlaa013OGlRRHk2ak11UDlTZUlLeENZQ2xlOUxFVTNpcnkxczFYcnN6bnR2bDB3RlJwR3F1QmN4RWc?oc=5",
-      "source": "veterinaria-atual.pt",
-      "publishedAt": "2026-09-14T13:00:00Z",
-      "description": "Pugs cruzados com Beagle ou Jack Russell têm menos problemas respiratórios e oculares e custos veterinários mais baixos, diz estudo.",
-      "image": "https://www.veterinaria-atual.pt/wp-content/uploads/sites/4/2025/02/iStock-842457958-scaled-e1740406946674-1024x720.jpg",
-      "articleUrl": "https://www.veterinaria-atual.pt/na-clinica/pugs/"
-    },
-    {
-      "title": "Município de Paredes dinamiza ação de formação “Desporto com Valores: Igualdade, inclusão e saúde mental” - cm-paredes.pt",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRlVuS3o2bDQ2Q1c4UzBNSWZ2dEllNzNmX3M2VlhlV2QwVWNvcE5WU1drSVVaQ3gyYlJYZ1I2dzlyR01lQkFsOEhqZk9KdEUxcW0tUmhtYzJRbUtwRC1qZC1iaVpKNndLUTZCYWh1UGpBZ0dvVTctalQ1dVgyYTFHQ2lvS1JjMEFaQmJtekc1NWQwZ0REZjcyajg4Vk9DZXpral9nSXpiRU0ybXE2cnRQcjFBLUhJVS1odHN6ZkhaNDJBak5xUEJiWkY4UUF0SzA5OVRnOVpzNlROQ0JJV0kzRkRsQ1FJYUNRMnVUczVqMEU1dDhhWFpKUVZmRndlTk15ODFNVGM1RQ?oc=5",
-      "source": "cm-paredes.pt",
-      "publishedAt": "2026-09-14T10:29:45Z",
-      "description": "No âmbito da Semana Europeia do Desporto, a Câmara Municipal de Paredes organiza no dia 26 de setembro, entre as 09h00 e as 18h00, a ação de ...",
-      "image": "https://www.cm-paredes.pt/cmparedes/uploads/news/image/3375/acao_de_formacao_2025.jpg",
-      "articleUrl": "https://www.cm-paredes.pt/atividade-municipal/comunicacao/noticias/noticia/municipio-de-paredes-dinamiza-acao-de-formacao-desporto-com-valores-igualdade-inclusao-e-saude-mental"
-    },
-    {
-      "title": "Saúde reprodutiva e hormonal da paciente com doença reumática - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFh6bnBjLVJCM1NOaS1DZWZoN2JlZHRpSlQ5ZmUtUU0wbl96SkJDdTVhNG11dHhiUG84QTlnaUttUXgxQmFqN1J3eGxnYXE4aGNlcjE5UVhaOWQyWXNqUG9GaWwzYlFBNEV5QTdlQlBUWkk5ODVpdjNGRjl2eExRM0tfY1RzdGUwVmQyOV9NaTBUMGVtZXdQbXFna0xhUjJqVExleFpFNV9uZVhFTHc4?oc=5",
-      "source": "Medscape",
-      "publishedAt": "2026-09-14T10:40:10Z",
-      "description": "Gestação, fertilidade e climatério trazem questões que ainda desafiam o cuidado de mulheres com doenças reumáticas.",
-      "image": "https://img.medscapestatic.com/vim/live/professional_assets/3/2/b/b4db731d-9047-4a06-a60c-044e61c65b23/dt-260914-doctor-800x450.jpg",
-      "articleUrl": "https://portugues.medscape.com/viewarticle/sa%C3%BAde-reprodutiva-e-hormonal-paciente-doen%C3%A7a-2026a1000xz5"
-    },
-    {
-      "title": "Presidente do hospital Amadora-Sintra: \"Há pessoas que chegam ao aeroporto e vêm para aqui\" - Observador",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2ZER1JpRURXdFJ6aXJPdm84SWh2cUh4T0t4UTkxM0ZEemJGbmp4ajBOam1VQkdFakFfZXo1NXhMSWw4azhqM192Y0dENks1UzNMb3lOS3R5ZWg4VUxDaGdfYWNSakVIUENzWGw2OWJoc1p2S1RPYlpoeUVqY3BxMUtoYzBUcWRwV0JRWVd6N1ZfSmt0YVFiWjNBOVIzNVdIVVI3NEp5QnhEeFBnMW54Uy1R?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-13T20:56:04Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Nova academia da NOVA aposta na transformação digital da saúde - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWV1eWxrY2xSUmF3NXVWVW00bTJvcjlTN3NtX1FwU1kxLWVsS2hvaEZfMk9lUUhlQmE1YWFIaHpqbWF2TWxYem5nWmdSbFRsRG9UMGJNRjRVck1aMDFIQmUwd2hMZDc1ZDQ3dXNTQnZlMmx2LXRDRHBNeWtkY1RubkVhM2VmdGlTVHlPVlhJS2dwZ3dIYTZQRE1vWFg?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-14T10:11:12Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
-    {
-      "title": "O problema não é o Irão, é a Ucrânia. Trump acusa Zelensky de estar a \"magoar o mundo\" e faz-lhe um pedido à medida de Putin - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNVh0X1c4U191eklRTDMxYTZxcFdZRFNGLV9OcG1TX0lhSndfQldlWnBmRDlmZ0tPVXJ1QklHdVFaNmd3V09mYUVOQ3hfdXFpZGZFUmd1WGxtTU9kNHl4S2syTVNyZDVfbWdiNmpIX0dQSHA4WmU4aFNpejV1T1VXWnR6amZnMXhBcmxqaW9RSlp6QU9xVXllY2JLUFRIMEo5SzRIYTBvcW5VSGdnUWlzalR4UHFTRzFGbnhRQTZOcFd2R0dKQk1Xendmb1JaRnpjNzV1TFNxVDlOMXZqWWFnV0hvM0NBNDlYMk9fcFo5UU5Za3ZSV01WYWlNYk9EUDQ3c1VhWnVGcnJvOTAzRmxtNGVSdHJJZlplb214LVMzZUhNUQ?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-14T07:08:00Z",
-      "description": "Presidente dos Estados Unidos entende que a crise energética atual é culpa do que está a acontecer na Europa e não no Médio Oriente",
-      "image": "https://img.iol.pt/preset/6a6c515cd34ed0733ba7d612/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/o-problema-nao-e-o-irao-e-a-ucrania-trump-acusa-zelensky-de-estar-a-magoar-o-mundo-e-faz-lhe-um-pedido-a-medida-de-putin/20260914/6aa79d81d34e53c759c71fee"
-    },
     {
       "title": "Cimeira europeia sobre o Árctico num contexto de tensões geopolíticas crescentes - RFI",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaW9UMGh5bXNOdmRzMG5hcnR1UDZxMzU1eXRUdWFwelEwMFFOOVNmelA2d2tKMXc3bjNIcHVCV2k0eHhaaloxb2ROUDhLeFVLYUJkbzF3UGtNSXROMnE4TFo4ZWFENmJNRVMwb0E4cUV0NUpYYUZWand3QXpmTmNoQ3RxbG1wTTZsOWdlTFVxLVFBRUh5QnF5b2lHY1N3VVRVdHRLZWRQcWJiclN1ZnZPQktzclMxUHdidmg0WlN3Q1oyLXZ2ei1HTXZ3VHc?oc=5",
@@ -126,6 +117,15 @@
       "description": "Dirigentes da União Europeia reúnem-se esta segunda-feira, 14 de Setembro, em Rovaniemi, no norte da Finlândia, para discutir o reforço da presença do bloco no Árctico, uma região onde as tensões geopolíticas…",
       "image": "https://s.rfi.fr/media/display/5577994e-b025-11f1-be25-005056a90284/w:1280/p:16x9/000-C8936LW.jpg",
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260914-cimeira-europeia-sobre-o-%C3%A1rctico-num-contexto-de-tens%C3%B5es-geopol%C3%ADticas-crescentes"
+    },
+    {
+      "title": "O problema não é o Irão, é a Ucrânia. Trump acusa Zelensky de estar a \"magoar o mundo\" e faz-lhe um pedido à medida de Putin - TVI",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdGJMc181S2FRcGJuVzJUMWJDUWhjck41QTBNOTk0WEdraUFjUFlfempKYmRETUlkZWViaGl4Q2w4RzBmM0xUYnBFNks3MnNOOFk4eVdFMk9XM0NncnNEaWtHajFweWQwQXJ4a1dyT05GSnZrOGpPbndfRmh5NFI5bGlXbUtqWHdXRk93ZW9seE9mS1gyYUxBb2I2RnRTMElsTWZKRFhJOXpoU0lQT1J1c2hnRFlPODBUYWE3NnlpenpGbU9FSzZQd1d6cGUxOXM2YVdybVdFU0QtMnFLWVF5TWhQb05HRXR5cHAxOEZUc2VJaUZpZkItay1TSU1jb2VNUzVWWFU4RjBVR0lxZXJlNkE5c0FoWXVjd0tibGtqMGUxQ3M?oc=5",
+      "source": "TVI",
+      "publishedAt": "2026-09-14T07:08:00Z",
+      "description": "Presidente dos Estados Unidos entende que a crise energética atual é culpa do que está a acontecer na Europa e não no Médio Oriente",
+      "image": "https://img.iol.pt/preset/6a6c515cd34ed0733ba7d612/og/tvi24",
+      "articleUrl": "https://tvi.iol.pt/noticias/guerra/ucrania/o-problema-nao-e-o-irao-e-a-ucrania-trump-acusa-zelensky-de-estar-a-magoar-o-mundo-e-faz-lhe-um-pedido-a-medida-de-putin/20260914/6aa79d81d34e53c759c71fee"
     },
     {
       "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - SIC Notícias",
@@ -137,15 +137,6 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
     },
     {
-      "title": "Guerra no Oriente Médio 'não atende aos interesses comuns', denuncia Xi em reunião do Brics - afp.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzVjNYREJ2dEFCcW53VGlUck1KTm81Qy1nTTE4bEhrcDhoZXc4S1NOb3dKb0loWms1U3FvRkRROWt4NUFwNTgtamhROA?oc=5",
-      "source": "afp.com",
-      "publishedAt": "2026-09-13T18:40:30Z",
-      "description": "O presidente da China, Xi Jinping, denunciou neste sábado (12), na cúpula do Brics na Índia, que a guerra do Oriente Médio desencadeada pelos ataques dos Estados Unidos e de Israel contra o Irã...",
-      "image": "https://www.afp.com/sites/default/files/styles/afp_mea/public/afp-stories/f52293d5bc0a35b757780556e316335e-0.jpg?itok=rWFmKj4w",
-      "articleUrl": "https://www.afp.com/ar/node/3839079"
-    },
-    {
       "title": "BRICS pedem contenção face a escalada na guerra no Médio Oriente - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVN1ZFJNZEFoSHFkQmp1VG5leTZ4WmZRbHdrdGhhM0tYSmZlT1g1QTZMbDRlZFUzLVZuejd6TkhiMWVTWmstd3N2dGdHeHZtWVlpYnJYRTl0elRtck5sRDZXNTFZS1NYcHNaNDNkOGhtYWJhZFc3MUR1YWxqdEYzRVBaS3gta3NFc1NhdDVIZEg4UXowMmJjSk5KT1BCZlZ3RXpCSVh3LU1SUFVTcU9vVQ?oc=5",
       "source": "dnoticias.pt",
@@ -155,22 +146,22 @@
       "articleUrl": "https://www.dnoticias.pt/app/2026/9/12/505182-brics-pedem-contencao-face-a-escalada-na-guerra-no-medio-oriente/"
     },
     {
-      "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVQ1NTlkQUd0N0pTWjRzcFZxc2dXLXhhS290SThVYWUwM0tYLTFUeVNEYm0xSXRjVk9FQ2xwd20yN1NMaUFTRWFTdWc4S01JdURzM3Bqdkhqc1VkT2tQWVVFSWVhZy1HOENnRGZtaWVLdTB3NDc3Vk5MRm5Yb1dVTXNoX212TEEyV09sZmlKeVF3eTN5OUFGU3psMGItaF9NNlcyMmZlUzlkWG80MHZ6bHVKRUppNWE3b1lOejhmTFgwdw?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-12T14:43:07Z",
-      "description": "Reunidos em Nova Deli, os 11 líderes do bloco dos BRICS convergiram este sábado, 12 de setembro, num apelo urgente à \"contenção máxima\" face à escalada bélica n",
-      "image": "https://media.assettype.com/dn%2F2026-09-12%2Fgxvezfj6%2FDOC.20260912.47762423.13233968.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/internacional/cimeira-dos-brics-lderes-apelam-a-conteno-mxima-no-mdio-oriente-e-rejeitam-sanes-unilaterais"
+      "title": "Guerra no Oriente Médio 'não atende aos interesses comuns', denuncia Xi em reunião do Brics - afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5Z1pyNXFzMUE2TEE5d2xWZFpxbFp3OU5ELTNPWFI1blNoc3o3YTEtVUY1azktcTBIZEpBQTFPR2FWMlExblFrYVpNUQ?oc=5",
+      "source": "afp.com",
+      "publishedAt": "2026-09-12T16:08:22Z",
+      "description": "O presidente da China, Xi Jinping, denunciou neste sábado (12), na cúpula do Brics na Índia, que a guerra do Oriente Médio desencadeada pelos ataques dos Estados Unidos e de Israel contra o Irã...",
+      "image": "https://www.afp.com/sites/default/files/styles/afp_mea/public/afp-stories/f52293d5bc0a35b757780556e316335e-0.jpg?itok=rWFmKj4w",
+      "articleUrl": "https://www.afp.com/es/node/3839079"
     },
     {
-      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUdIBtgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUQ?oc=5",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTdIBpwFBVV95cUxPTE5mZy1WNHA4cnJ0US1aUVpGeUhEUURUTmJJU1psU3Fjd2w5LUZOQWxhbUZfUzJrVlhhZlhMNnphY19yeW1xV1dob3I0Q1IySFd3SXZEcEJ4Mml2T1NIUDNJRFFOZUtCaHk1d0xPT2traG5SLS1HMlV3TnhudWFBY0pkd3NIdUtZbUhxNkpjRURBQi1JUkJXN1FPWHo4c2JfZ2VrQW9YTQ?oc=5",
       "source": "dw.com",
-      "publishedAt": "2026-09-13T15:10:59Z",
-      "description": "Países romperam relações por estarem em lados opostos da guerra no Oriente Médio. Segundo presidente iraniano, nações querem \"virar a página\".",
-      "image": "https://static.dw.com/image/79250303_6.jpg",
-      "articleUrl": "https://amp.dw.com/pt-br/c%C3%BApula-do-brics-reaproxima-l%C3%ADderes-de-ir%C3%A3-e-emirados-%C3%A1rabes/a-79252043"
+      "publishedAt": "2026-09-12T16:11:58Z",
+      "description": "Rachado por conflitos, bloco incentivou \"paz e a segurança internacionais\" contra polarização e desconfiança durante cúpula em Nova Delhi.",
+      "image": "https://static.dw.com/image/79245316_6.jpg",
+      "articleUrl": "https://amp.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498"
     },
     {
       "title": "Líderes europeus se reúnem na Finlândia para discutir presença no Ártico - Terra",
@@ -200,12 +191,13 @@
       "articleUrl": "https://ansabrasil.com.br/amp/brasil/noticias/mundo/2026/09/13/russia-nao-descarta-cupula-trilateral-com-ucrania-e-eua-em-outubro_a303787f-ace3-43fe-aa22-475f0d163613.html"
     },
     {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
+      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - estadao.com.br",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
-      "source": "Estadão",
+      "source": "estadao.com.br",
       "publishedAt": "2026-09-13T12:28:00Z",
-      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "description": "Porta-voz afirma que Moscou não descarta a retomada das conversas, enquanto negociações seguem sem um acordo sobre os principais pontos do conflito",
+      "image": "https://www.estadao.com.br/resizer/v2/663Z67WWDBFFLCHLFJHXP7UP4Y.jpg?quality=80&auth=9918a62bc9eae319874be80f073f2b8d78459ff9afd950b4923b50acb58b12d6&width=1200",
+      "articleUrl": "https://www.estadao.com.br/amp/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
     },
     {
       "title": "EUA podem continuar no Irã e \"ficar com o petróleo\" após guerra, diz Trump - CNN Brasil",
@@ -213,6 +205,14 @@
       "source": "CNN Brasil",
       "publishedAt": "2026-09-13T18:42:30Z",
       "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Putin diz que tropas europeias na Ucrânia levariam à guerra com a Rússia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVm5XcFR2Q01pQ0l6V2hXdVAxUjducHkwbHR3YUFTME9SLWEwbFlpV3RzS3ltSFNHXzV2LTgwTEVMa3o1MlZoWUczZ0E4c3BWLWlyb0psNmdzUlM3ZmxoUXVmeGR4UnlPSkJxOHRwdDZPS1lsWjVWRy1qbTJwMEdWWjNJSi10TGJBazJJZjBSQzY3c1B3SEFyMm9uclVKV3kwbjFyMTR6a3gzVHp3RFU4R0FTV01IbFNSRzViYzBB?oc=5",
+      "source": "Poder360",
+      "publishedAt": "2026-09-13T18:48:50Z",
+      "description": "Notícia publicada por Poder360. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
