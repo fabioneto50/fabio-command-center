@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:32:14.660891Z",
+  "updatedAt": "2026-09-14T19:29:07.620229Z",
   "health": [
     {
       "title": "Como se trava o \"turismo de saúde\" no SNS? - Observador",
@@ -11,18 +11,18 @@
       "articleUrl": "https://observador.pt/programas/explicador/como-se-trava-o-turismo-de-saude-no-sns/"
     },
     {
-      "title": "Medicina da UTAD leva alunos aos doentes desde o primeiro ano - jn.pt",
+      "title": "Medicina da UTAD leva alunos aos doentes desde o primeiro ano - Jornal de Notícias",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmZzTXpTSGxuMUQ2VDZiSVlnSWdkckdXdFBSY3M3VzZEZTdDV1YzY2ZOSEFCa0Z1bUVFYmJ2SUQ3V2VuRm1wYXVsanAzYTNCM1FQb05USU92OER0UFVoanNtaHU1TzFhdThVYlBfVG1XZEoyU2cwY1luNVFLTkFUam92cXpNUkFhemphaldwdWxPcXBEU2hZeGxrWWUyV19CVWc?oc=5",
-      "source": "jn.pt",
+      "source": "Jornal de Notícias",
       "publishedAt": "2026-09-14T09:13:00Z",
-      "description": "Notícia publicada por jn.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.jn.pt/pais/artigo/medicina-da-utad-leva-alunos-aos-doentes-desde-o-primeiro-ano/18126235"
     },
     {
-      "title": "Regulador aponta falhas graves no acompanhamento de doentes no Hospital VFX - omirante.pt",
+      "title": "Regulador aponta falhas graves no acompanhamento de doentes no Hospital VFX - O Mirante",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWYySDFFUi1xUUc2eUs1SHQ5VklYc1l2SnN6QWdkaWxNTXVxM3VseDBtUEpYWWR0OHRxREU4VXdLRHU4MzFyVzF2Snp1NzZhTDhseng1RXNsMjR2NUppS2NFNVk1a2xVSHlMdldiQnA2SlJ0SXBJSjhjRFJsNWJsdi13dF94cENCWU44QV9nREV4dzNnUW02bDJXX2pheXNZemxZWDREaXlDN3IwZjNpbUpCU1VSSnUwSjVsOFdIY3ZpQlk?oc=5",
-      "source": "omirante.pt",
+      "source": "O Mirante",
       "publishedAt": "2026-09-14T17:00:00Z",
       "description": "Entidade Reguladora da Saúde exige que hospital altere procedimentos internos para melhorar o acompanhamento dos doentes internados em Vila Franca de Xira. Num dos casos uma mulher com doença oncológica morreu sem que os familiares a tivessem podido visitar.",
       "image": "https://images.impresa.pt/mirante/2026-05-20-pag-11---bacteria-hospital-vfx.jpg-bd90575e",
@@ -54,6 +54,15 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-14-a-ciencia-ja-tenta-programar-as-bacterias-para-proteger-a-saude-816c7bc4"
+    },
+    {
+      "title": "Angola é segundo país africano com mais casos recentes de mpox - OMS - Lusa",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHJURGRzTEJ2cjRoa2pQOGNNREZXRF9LdF9CT3RWajJXTS0wRmQxZmxVeUpWNzJiQWpYd1VaZ1MyMjQ1V1VsaG5Cb0wtdTVFSnprMUZoWWstVnh6RWgxbUhQMEJua0s2amw0V3kyYVBwOGxlUVpkMmJITDhpM1FDUTVyc0dHdzE4SUdHR1gwVFlIX2VhN3ZVTWZxTmtWdGpReW9aNUpERHBVcW9GLTZCbWwxcnJncFBtc3FiNV9vNUdPOVdZSXhESllJbkFiam8?oc=5",
+      "source": "Lusa",
+      "publishedAt": "2026-09-14T19:16:00Z",
+      "description": "Angola registou 184 casos de mpox entre 06 de julho e 16 de agosto, o segundo número mais elevado em África, elevando para 274 o total de infeções e uma morte, segundo a Organização Mundial da Saúde (OMS).",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_43681527_366155510702774.JPG",
+      "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-09-14/47774739/angola-%C3%A9-segundo-pa%C3%ADs-africano-com-mais-casos-recentes-de-mpox-oms"
     },
     {
       "title": "Pacto para a Saúde em debate: visão de longo prazo para um sistema sustentável - HealthNews",
@@ -88,8 +97,7 @@
       "source": "Braga City Council",
       "publishedAt": "2026-09-14T14:27:43Z",
       "description": "Notícia publicada por Braga City Council. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.cm-braga.pt/pt/0201/home/destaques/item/item-1-23205"
+      "image": ""
     },
     {
       "title": "Médico impedido de fazer ecografias obstétricas para o SNS fez quase 5000 para o privado - Público",
@@ -97,14 +105,6 @@
       "source": "Público",
       "publishedAt": "2026-09-14T15:17:54Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Recuperação de listas de espera em causa no Hospital de Santo António - rtp.pt",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2VnenByVkZ1aTZEYmtmR0FTLTNIcnhoVDBVN01qZUFGQXJ0anpoRXcyd2hUZW1iSFk1MzQ5M25Uek95VFdzTXNTcEJjUGZIMlZhVldmbVZ3bHhRR0dGdXhha2l5bGQxakhtdkRfTHk1NmRETGxCajZaU2lScHhkVW50RDdweWJTNkFBRzhFcmk0TjBPbnE3d2NKSWxLaEtlTXVScklUY1NFa1dTX1lCVA?oc=5",
-      "source": "rtp.pt",
-      "publishedAt": "2026-09-14T12:32:25Z",
-      "description": "Notícia publicada por rtp.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -128,31 +128,40 @@
       "articleUrl": "https://tvi.iol.pt/noticias/guerra/ucrania/o-problema-nao-e-o-irao-e-a-ucrania-trump-acusa-zelensky-de-estar-a-magoar-o-mundo-e-faz-lhe-um-pedido-a-medida-de-putin/20260914/6aa79d81d34e53c759c71fee"
     },
     {
-      "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDIzeDhnSGljUFd4UzZGdTVadmVnQ1lPTThfMVYyNTRtQlFFTHJQN1lSZmhFOVNPRWFYTDlmNm1kdVdaeXlMeWFjYzlOekpxYVFtRE5MQzcyM01vOWVPZ21lb21IT2RUNTR0Zm80SHh1cEJYY294Wm8tMzdKbWFieWJ2UUZNWmlXMEtBbW5vczRIRnV6eWhtTXJYYXo4a0p1aklmcTlScm5aZHpsaFhnNWl3N1dWUUx4cjhDeVoyQmpLSmlhUHREUTlHSy0yNHBoRVJITUhEZGpabFJTQk5qa0EzQUo1S09Gb1cwOXJZMGQxSXc?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-12T22:35:54Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
-    },
-    {
-      "title": "Rússia e Ucrânia param ataques ao setor de energia, diz Trump - folha.uol.com.br",
+      "title": "Rússia e Ucrânia param ataques ao setor de energia, diz Trump - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5",
-      "source": "folha.uol.com.br",
+      "source": "Folha de S.Paulo",
       "publishedAt": "2026-09-14T15:53:00Z",
       "description": "Presidente faz anúncio, ainda não confirmado, enquanto guerra no Oriente Médio pressiona preço do petróleo",
       "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894009716aa8178bd7c48_1789400971_3x2_rt.jpg",
       "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
     },
     {
-      "title": "Os Estados Unidos na África : impedir a emancipação, manter o domínio (1957-2026) - CADTM",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2hkMER3RllDOXZjUnRNLWdsSWgzRGdYWC0zamtaZHlBRS11X1VZc3FIWU9wZVZISGpfV3I3TGFpdUh3X2djNU0xdXZMNUFBekcyRkZSTjMwS043V2J4WkdXdzZGdjdKbThrYXdMVFZtWjROalNHQVJ3UWRiUklaOHI0SWpsUWVTeGZ4bU1RUTFSYXgtcHdQUUVPMXJNRXM?oc=5",
-      "source": "CADTM",
-      "publishedAt": "2026-09-14T13:28:47Z",
-      "description": "Notícia publicada por CADTM. Abra o artigo para consultar os detalhes completos.",
+      "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - sicnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDIzeDhnSGljUFd4UzZGdTVadmVnQ1lPTThfMVYyNTRtQlFFTHJQN1lSZmhFOVNPRWFYTDlmNm1kdVdaeXlMeWFjYzlOekpxYVFtRE5MQzcyM01vOWVPZ21lb21IT2RUNTR0Zm80SHh1cEJYY294Wm8tMzdKbWFieWJ2UUZNWmlXMEtBbW5vczRIRnV6eWhtTXJYYXo4a0p1aklmcTlScm5aZHpsaFhnNWl3N1dWUUx4cjhDeVoyQmpLSmlhUHREUTlHSy0yNHBoRVJITUhEZGpabFJTQk5qa0EzQUo1S09Gb1cwOXJZMGQxSXc?oc=5",
+      "source": "sicnoticias.pt",
+      "publishedAt": "2026-09-12T22:35:54Z",
+      "description": "Notícia publicada por sicnoticias.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.cadtm.org/Os-Estados-Unidos-na-Africa-impedir-a-emancipacao-manter-o-dominio-1957-2026"
+      "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
+    },
+    {
+      "title": "Irão nega estar em guerra com Arábia Saudita. Houthis falaram com Trump - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREhyTm0tNndxZDZXREZCdFFEUVZ5eU5tSUxNVWdab3ZWUW5xaVliSG1tQmp2Yjd4bjhqdENLR0xRT2VPcnRHbkhJZ0Y2UXQ0ZHBaQ3EyLXpwU2o3UmduVjNCS0NId21LTHdBR1BGYU4wUjI1VktwZFhhVF9qMko1Q1Mwa1NiZmR5MzB1eWxvR25QSllyZ01UaE52bXExekUxSWZDMkotZkxOUXNTa1cwc2VJQQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-12T20:23:35Z",
+      "description": "O Irão quer afastar a possibilidade de um confronto direto com a Arábia Saudita. Mas os houthis reforçam a pressão sobre os navios no Mar Vermelho, com Trump a garantir que os rebeldes também contactaram Washington.",
+      "image": "https://cdn-images.rtp.pt/icm/images/2d/2d7dce76275788ff3e5d042120410070_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/irao-nega-estar-em-guerra-com-arabia-saudita-houthis-falaram-com-trump_v1765070"
+    },
+    {
+      "title": "Países pedem que UE reforce presença no Ártico diante de ameaças da Rússia - Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME16UFpDTWYtZnBsWkxCY1ZUX2NvS25xcFpxcGIwN1AtanVDZk9nQ2MwNHZYM2xDOFNUSUgwUzlJOV9acFU0RXpxRkRoQU9oLTNVelRhUmUzRHNOcVhiUEdncGdPbHBGRFJMSXZIMldTUkpITUJSTTJ6VmhqZmNDVzBUaFRoNjlTaTlqU19vMEpLOVVCWGt4Y0l6ZzNfVWJMM2VjS0VCTTE2aDFhNnJ4blI0MUZmcHpFZEZDdzRNcGRsQUhZM1pBQjYtZFd3VEg4ak1DOHQzN3dQb0tzZVd1RGxJamlvY2pKQm1pQkRUdHpFdw?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-09-14T17:10:00Z",
+      "description": "Documento foi assinado por mais de 10 nações europeias",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/450669012-48b15b347a2c013c1257c628579ad28d.jpg",
+      "articleUrl": "https://www.terra.com.br/noticias/mundo/paises-pedem-que-ue-reforce-presenca-no-artico-diante-de-ameacas-da-russia,5e7e4e1b5859087c2c3386a62c84be42odp3mhvz.html"
     },
     {
       "title": "Trump: Rússia e Ucrânia concordam em não atacar instalações energéticas - Metrópoles",
@@ -164,31 +173,31 @@
       "articleUrl": "https://www.metropoles.com/mundo/trump-russia-e-ucrania-concordam-em-nao-atacar-instalacoes-energeticas"
     },
     {
-      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - DW.com",
+      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - dw.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUdIBtgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUQ?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "publishedAt": "2026-09-13T15:10:59Z",
       "description": "Países romperam relações por estarem em lados opostos da guerra no Oriente Médio. Segundo presidente iraniano, nações querem \"virar a página\".",
       "image": "https://static.dw.com/image/79250303_6.jpg",
       "articleUrl": "https://amp.dw.com/pt-br/c%C3%BApula-do-brics-reaproxima-l%C3%ADderes-de-ir%C3%A3-e-emirados-%C3%A1rabes/a-79252043"
     },
     {
-      "title": "Rússia diz que China e Índia se oferecerem para ajudar com negociações com a Ucrânia - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUi1NdHE1bF9udTdBN2N4b0RZZndLaWFUMkV1aF9ycjFxSGVncG9TTm5NTk4xRUxncXMyYWZjeXRlUFJRSDM2SWZvc0JGazZNcEN1VE96UWYyOE9EZ1h4eUdpNzNnMVZ5cmdFNlBwRTlnU2tJTkh2RUd1Zko3NjRTaDRIc3FyZG0tbkFyUVY4a2JsQ0V5bURubkhUQzgzMlE4UzFUXzBwaWNfSzF5YlBFWjYxR1ZxOGRHQzJIY3ZRZU1QQVBvOHZYQVo1MUpkdlo3eWxmRTAtMlk2S1RrdHpmMEtWSjUyQkZEcU9UYWwzLWY?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-13T09:20:56Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-13-russia-diz-que-china-e-india-se-oferecerem-para-ajudar-com-negociacoes-com-a-ucrania-ccdfde7d"
+      "title": "Trump diz que guerra com o Irão \"não demorará muito\" a terminar - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc213cmpEb0NNYmF0anZtNk0zckpZQzhkWWhyeFdmRERtaHhnYVRTX2RNVW51Q3ZzdS1XLUNfQ2REQ1RtTUpSVXZvdzF6a0R2TEhQa2h0TVZGVVEtSG9ZREhpSXZPWDJXODVyM0I1OGpGVEN6YVo3azhaXzB3VlRlS1hEc2U0RTZ5LUZJdmhfOV9rb2phSFl1bDlGeG5XbmtyZjMxYWFNazBQQUNObWRqbmNuaGNnSENxSmZfdG1zNlRqcEU4?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-09-14T17:37:06Z",
+      "description": "\"A nação iraniana, em dificuldades, quer fechar um acordo, rápida e desesperadamente. Decidirei se os Estados Unidos optarão ou não por se envolver, uma ideia p...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_6aa40e0103621.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDExLCJjcm9wSGVpZ2h0IjoxMzU2LCJjcm9wWCI6MjMsImNyb3BZIjo1MH19",
+      "articleUrl": "https://www.noticiasaominuto.com/mundo/3051251/irao-trump-diz-novamente-que-esta-aberto-a-negociar-um-acordo-de-paz-com-teerao"
     },
     {
-      "title": "Líderes europeus se reúnem na Finlândia para discutir presença no Ártico - Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFowSUtKMXVYZUJSTjVWcWJXRXJfTjhfbXRCVE5kTGItSUtoYmowUWd1MmxxelB1alB0WHRfMEZKZVpaUlpJYjhUY1l2UzhiN09FVVAxSTZkbzRjcFRJeTRnbUFXYmEzSUVrb3AwRVBSWWpuWkRjMndiYkpRS1lVaFFhYkxsYlB1MEs2d1ZVQlNTTWtwMlNWZHZ1WmNfWFBHUjdSSHVYR21valg0QmNOTF9jc1FueXNCMHk3WGF2anpFOXZDYjRsOVFDQklpOEJNLUdLUDMzNjEzWUE4T1haNjhRY2pqUm5DTVNYb0toYw?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-09-14T11:15:00Z",
-      "description": "Os líderes da União Europeia (UE) se reúnem nesta segunda-feira (14) em Rovaniemi, no norte da Finlândia, para discutir como reforçar a presença do bloco no Ártico, alvo de tensões geopolíticas nos últimos meses. A Groenlândia, território autônomo da Dinamarca, está no centro da crise entre aliados ocidentais: há sete meses o presidente dos Estados Unidos, Donald Trump,…",
-      "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "articleUrl": "https://www.terra.com.br/noticias/mundo/lideres-europeus-se-reunem-na-finlandia-para-discutir-presenca-no-artico,e95819deb14a923b3aed371fe1499936h8ony0iv.html"
+      "title": "Irão conversa com Emirados Árabes Unidos pela primeira vez desde o início da guerra - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0kxbXhrT2VZUG9Ga3g5cEcyXy1OcnI0V0I3cU9wM190aUJ4MVp6NUVZSm5JOTBUak5UaWdrNlhiN0poRXFVd2dtTEowc3hGbDllZUpFVnpESVVnVkN3NXFCbENCa0Y2U01reDhqZGZRUGdGX0d0WVI1RjlOdENmU2Zoa3pjSVZscE56VGtpMm4tUmloRHlmMFlaVW93ejNPLURUckxEVUNvek9TZGd4Rm91ZE1jZ3JCd3dZcXdyQ1c?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-09-14T11:36:00Z",
+      "description": "O presidente iraniano afirma que quer colocar o passado para trás e melhorar as relações com os Emirados.",
+      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-14-13-30-35-62516.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/irao-conversa-com-emirados-arabes-unidos-pela-primeira-vez-desde-o-inicio-da-guerra"
     },
     {
       "title": "Rússia não descarta cúpula trilateral com Ucrânia e EUA em outubro - ANSA Brasil",
@@ -196,23 +205,14 @@
       "source": "ANSA Brasil",
       "publishedAt": "2026-09-13T13:43:21Z",
       "description": "Notícia publicada por ANSA Brasil. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://ansabrasil.com.br/amp/brasil/noticias/mundo/2026/09/13/russia-nao-descarta-cupula-trilateral-com-ucrania-e-eua-em-outubro_a303787f-ace3-43fe-aa22-475f0d163613.html"
-    },
-    {
-      "title": "Presidente dos Estados Unidos diz que a Rússia e Ucrânia concordaram em não atacar alvos energéticos - Rádio Pampa",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjh6RkRTNUZFd3kydnVtbHo2clEzbF9YUl94Q2NQVktNZGlfQmVmNThzd1Q5WExrOXc1ZFRJNUdYTTFsSWVTQkQxS0RMajUySFdlb3hnZjZwXzhxQlhvbHA4NFdqd3AzU05GN0V4aFNZdGJOb1hvY2V0S2QxVUdYY2NEWlByWkI3X1FyNlIwLXNiMHlzRjctdkRxeUJFU3hVRjdOVDIzcXE5WkQ3aGNSbWc5ZWhNODVoVHVlb2hKdllxc0dXQ29nZzFtaw?oc=5",
-      "source": "Rádio Pampa",
-      "publishedAt": "2026-09-14T16:31:49Z",
-      "description": "Notícia publicada por Rádio Pampa. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-09-13T12:28:00Z",
-      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
+      "title": "Presidente dos Estados Unidos diz que a Rússia e Ucrânia concordaram em não atacar alvos energéticos - osul.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmNrREtjWDI2VktEZmZnX0YwWnlGTThfbGdEaVUybGZIRDJPRWlmVzVOSHhwTWF2LThfOXM0UU1CLXI1TWtjWnFhSEhQcUtUellpSnQxaUVONWhQOWR4UHMtbTVkZlJQa3JlZ3VWWmZNTXEwZ19FT0ZkN29sTGVwdkJPOEVDM1dteGtHOTNVMngzQ2FLZFpMci1CREFHem1jTE9mbTZ2U1NDNzVEMTRMZXB5XzJqd2lWRlBDQzlYSjlyUS1UTU5ReNIByAFBVV95cUxQMmNrREtjWDI2VktEZmZnX0YwWnlGTThfbGdEaVUybGZIRDJPRWlmVzVOSHhwTWF2LThfOXM0UU1CLXI1TWtjWnFhSEhQcUtUellpSnQxaUVONWhQOWR4UHMtbTVkZlJQa3JlZ3VWWmZNTXEwZ19FT0ZkN29sTGVwdkJPOEVDM1dteGtHOTNVMngzQ2FLZFpMci1CREFHem1jTE9mbTZ2U1NDNzVEMTRMZXB5XzJqd2lWRlBDQzlYSjlyUS1UTU5ReA?oc=5",
+      "source": "osul.com.br",
+      "publishedAt": "2026-09-14T15:42:18Z",
+      "description": "Notícia publicada por osul.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
