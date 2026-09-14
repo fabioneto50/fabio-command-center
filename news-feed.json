@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:29:49.421552Z",
+  "updatedAt": "2026-09-14T04:29:27.335157Z",
   "health": [
     {
       "title": "Presidente do Amadora-Sintra: \"Há pessoas que chegam ao aeroporto e vêm para aqui\" - Observador",
@@ -15,8 +15,8 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTl9TUXN2NExwYmY3d051aFYzSzB5aDFzblFIalR4WEZjdms2eXBYOGlELVowcl96aXRLaUFyVjBWTko5NnhycFM1Y2VSTEtjbEtKU0JjVjFlbzUzdUZHXzNJNmIwbldXWU1zUFQwZkZMNHE0T2dzSkN2YnpFUV8xV3BFWldweVQ4RllsLWhTUC1VZ3JsU1I0VFQ1U3p4UDMwbFRRZHRLdTlKa3V4a2d5c3l0MkJZX21ZMDk1aTh2c0QwNW5qUkJDQ1JwUlQ1Y2ZtNlpKb0JWVHJJSnpUcEVVV3ZWa3UydHpkeTJvZVpiM2J5NXM?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-09-14T01:16:44Z",
-      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
+      "description": "Para termos as “contas certas” o acesso à Saúde é sacrificado como mostram todos os indicadores, sendo que a Saúde foi a principal bandeira eleitoral da AD em 2024.",
+      "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.99422-6/809415942_1974745123913219_3499887152151081830_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=105&ccb=1-7&_nc_sid=cae128&_nc_ohc=dYlqu4tQ0PkQ7kNvwE0Onei&_nc_oc=AdpqXyvoZkC6Nc86227Lja1UzcvcOK2QjonlXr-_fPtwhrhEb1SgESC63a4wksaKqeE&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=fybEy9SaYZPuIdpcIhRWLg&_nc_ss=7820f&oh=00_AQJtQixZ-L4zNkpBq0vQqUuGAVpKfsLm4RMDWquqbl4VxQ&oe=6AAD4D06",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/para-termos-as-contas-certas-o-acesso-%C3%A0-sa%C3%BAde-%C3%A9-sacrificado-como-mostram-todos-o/1475872871310658/"
     },
     {
@@ -56,13 +56,22 @@
       "articleUrl": "https://healthnews.pt/2026/09/13/tecnicos-de-saude-dao-15-de-setembro-ao-governo-ou-param-o-pais/"
     },
     {
-      "title": "Google e Abbott apostam na saúde metabólica - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0w4eW0tUHVCRTl2REtnS0JwUDVxaWIwMHluWVY3R0NfMFNUckRia0NoaUJUSmdNZGZRNVZPQ1ltN21mZkpJQkszM0w5amZoZHFxY2taV1dGaV9KZk5OUTgxdUNZQTAwUzA1TElGVVlKNXV6b1hiRjBNaEdLQTRNbWJsSjE2c25mT3pkcV9JVjNCLTZQcnc?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-09-13T23:05:00Z",
-      "description": "Qwen ultrapassa rivais nos downloads | Starcloud angaria 250 milhões para centros de dados no espaço",
-      "image": "https://supertoast.pt/wp-content/uploads/2026/09/google-health-site.jpg",
-      "articleUrl": "https://sapo.pt/artigo/google-e-abbott-apostam-na-saude-metabolica-6aa72d5b5a67d4ba1d13e73a"
+      "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM3YwWXdHTEpnbl9zMW5vc2tTV3VzLVBOSVJGalZRZ2UzNE80LU1MR1Joa1lscDhIT3BwUXNoVXJIcThpQ2ViOGpaOTl4RDR1eEowcENJalVnaFk4cFdKRVAzQW1PbEpQMllXRzZ3aDZVOTFNeXM4Wm9KdzJaVHFzeU9TbTcxbGxWXzM0d1NOUUwwMVpUb3F0bDFiNE5SYXJ5Wk1ibzZUcEk4eEdQV1AyaXh4NGRCMmZ3Sk9vRjBOcHNNOFhFV2tCem8zZ0hfTmlWNGdtSlU4bXQ1cGdlOWFIUw?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-12T14:21:00Z",
+      "description": "O homem estaria a perturbar o normal funcionamento do hospital quando ameaçou o agente, dizendo-lhe “vou-te abrir a cabeça”, enquanto empunhava uma pedra",
+      "image": "https://img.iol.pt/preset/67fe4a3fd34ef72ee444c338/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/psp/hospital/vou-te-abrir-a-cabeca-homem-provoca-caos-no-hospital-e-e-baleado-pela-psp/20260912/6aa55fdbd34e9a786e757afb"
+    },
+    {
+      "title": "Um em cada quatro médicos tem mais de 65 anos e cerca de 5.000 vão aposentar-se até 2030 - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQU0tINl9JS3lZVTNUMkNsUXhTTXlhWm5aZDlWOUxrQnQxVzJST0EyRWhXSjlZTTFJR0dSNGpTeHU3V3R2dFlTMXB0bkhEZmhCY1NvZ1FUek5XdWpTbDNMNXZ1YzU1M2tON3dObGlicHUycXZMWmlsWHM4OTNsalRJZkZoYThTaXpuemVOeVl4bmltNTlyc3dENHdoNVdST0JtOWhPU0d6X1NKWGx2c3lLYnZBUExRS2JJQjNuSjVMRmFOVXNTLUFRMUt5ZWlFUFJNbDhVTlpPS2hrYjQ5ckUtX2F3endxRm1jV0Q2aWtZUUFuOWF4dVhWYzhWWUE1amxrUmwwMWItUFNrR1R1N203M0ZDSUR1Mm1ZODB2dExDai1yYWdfeTZKeXExandpU0JnSkZkVkdHazRtNUU?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-13T14:51:20Z",
+      "description": "Um relatório sobre recursos humanos em saúde divulgado esta terça-feira indica que aproximadamente um em cada quatro médicos tem mais de 65 anos. Este envelhecimento da classe irá resultar numa vaga de cerca de 5.000 aposentações até 2030.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/99/99a8afc10e7f944011983b5fd02788fd?w=860&q=90&rect=0,0,1200,658&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/um-em-cada-quatro-medicos-tem-mais-de-65-anos-e-cerca-de-5000-vao-aposentar-se-ate-2030_n1470125?page=14&utm_campaign=fnf-11?_ga=2.92947417.576327143.1696238004-1127341509.1669044892"
     },
     {
       "title": "Doença de Alzheimer: O que se sabe da doença e dos avanços científicos - tveuropa.pt",
@@ -74,37 +83,28 @@
       "articleUrl": "https://www.tveuropa.pt/noticias/doenca-de-alzheimer-o-que-se-sabe-da-doenca-e-dos-avancos-cientificos/"
     },
     {
-      "title": "Um em cada quatro médicos tem mais de 65 anos e cerca de 5.000 vão aposentar-se até 2030 - RTP",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQU0tINl9JS3lZVTNUMkNsUXhTTXlhWm5aZDlWOUxrQnQxVzJST0EyRWhXSjlZTTFJR0dSNGpTeHU3V3R2dFlTMXB0bkhEZmhCY1NvZ1FUek5XdWpTbDNMNXZ1YzU1M2tON3dObGlicHUycXZMWmlsWHM4OTNsalRJZkZoYThTaXpuemVOeVl4bmltNTlyc3dENHdoNVdST0JtOWhPU0d6X1NKWGx2c3lLYnZBUExRS2JJQjNuSjVMRmFOVXNTLUFRMUt5ZWlFUFJNbDhVTlpPS2hrYjQ5ckUtX2F3endxRm1jV0Q2aWtZUUFuOWF4dVhWYzhWWUE1amxrUmwwMWItUFNrR1R1N203M0ZDSUR1Mm1ZODB2dExDai1yYWdfeTZKeXExandpU0JnSkZkVkdHazRtNUU?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-13T14:51:20Z",
-      "description": "Um relatório sobre recursos humanos em saúde divulgado esta terça-feira indica que aproximadamente um em cada quatro médicos tem mais de 65 anos. Este envelhecimento da classe irá resultar numa vaga de cerca de 5.000 aposentações até 2030.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/99/99a8afc10e7f944011983b5fd02788fd?w=860&q=90&rect=0,0,1200,658&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/um-em-cada-quatro-medicos-tem-mais-de-65-anos-e-cerca-de-5000-vao-aposentar-se-ate-2030_n1470125?page=14&utm_campaign=fnf-11?_ga=2.92947417.576327143.1696238004-1127341509.1669044892"
+      "title": "Google e Abbott apostam na saúde metabólica - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0w4eW0tUHVCRTl2REtnS0JwUDVxaWIwMHluWVY3R0NfMFNUckRia0NoaUJUSmdNZGZRNVZPQ1ltN21mZkpJQkszM0w5amZoZHFxY2taV1dGaV9KZk5OUTgxdUNZQTAwUzA1TElGVVlKNXV6b1hiRjBNaEdLQTRNbWJsSjE2c25mT3pkcV9JVjNCLTZQcnc?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-09-13T23:05:00Z",
+      "description": "Qwen ultrapassa rivais nos downloads | Starcloud angaria 250 milhões para centros de dados no espaço",
+      "image": "https://supertoast.pt/wp-content/uploads/2026/09/google-health-site.jpg",
+      "articleUrl": "https://sapo.pt/artigo/google-e-abbott-apostam-na-saude-metabolica-6aa72d5b5a67d4ba1d13e73a"
     },
     {
-      "title": "'Eu fui salvo pelo gongo': Alex Escobar conta como episódio ao vivo levou à descoberta de doença rara e de um tumor - G1",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdW5vREd5LWFKU3hwekFFeXhfSWtXblFudTM5QzNmM3dYckZrbWU0NEpXTVlia0FTRXJBLWxZTUx4bGVXX3d4N2xXSzFWWi1JNVlMNTdhNmhVTFlVVkZBS05lOWR4ZEp1S2dsQUphYjhWQlEwaV84cDRWQlZuZmhkWFpWQkVuOWx3c0FZN2E3djU2TzhVd1JpOTduYmhQYXAyY3JIS1BmR2w3SW4tNHpNSVExQlNySUtZdnlnaFB0OHZXUHRVUUZ4a1RIcTRxQzdXRzVWR3IwWWhDNUkzbzF1cFZiZUtmUjlCR3ZZMXZkeDhkSzFNVS0xVGdBYVphQdIBjAJBVV95cUxQQ3dzQlNPQTJob0NVOXBSX3ZRV1hqS25qVlJHY0JZZHFlc0E1X0o1LUY0dzU2blZmc1k1ZlRObFZXRjFHLXlUQzI4WTF0TXVwWkZGNDFMXzZrdzM0Rm1NZGVtTjhoR0dxVGgyd3NPQUpaNF8zQXFRQzVnUDhXWUc0UGRlTFdqN29DMFlTSWhKUnNGLUdnRURCWTVGSnd0U2pSa1lDMjZvWFRHQzZrR2pDamFyNnBIVjdNVi0tVjljdmRYWE45RVdPT01heGE1WEJ4ZEllLWY1VjNpZnVqYXNwMFVsOFV2cFlYc3NPdkE4LUtKSWtwdDZTb190N19XMW44emJHSlZXQVVYMHdt?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-09-14T00:21:26Z",
-      "description": "Em entrevista, jornalista relata os momentos de incerteza até o diagnóstico e fala sobre a adaptação à nova rotina.",
-      "image": "https://s2-g1.glbimg.com/z7DhEjsWeN1wExibuH6_HBHjy5I=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/O/0D91gLQia45wZAcWVVVw/globo-canal-4-20260913-2000-frame-131366.jpeg",
-      "articleUrl": "https://g1.globo.com/fantastico/noticia/2026/09/13/eu-fui-salvo-pelo-gongo-alex-escobar-conta-como-episodio-ao-vivo-levou-a-descoberta-de-doenca-rara-e-de-um-tumor.ghtml"
-    },
-    {
-      "title": "Treinadora do Burnley faz relato arrepiante após sofrer grave problema de saúde: \"Pensei que ia morrer\" - SÁBADO",
+      "title": "Treinadora do Burnley faz relato arrepiante após sofrer grave problema de saúde: \"Pensei que ia morrer\" - sabado.pt",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWdlaV8yU2lHMDNmcHk2RzFZUlU5b1k5ZjNEdGZKeHhEVHYtWm9ZOVptcXJOUkQyYjg2VWdTX0FrTzFSVW5BTVNnWUVJbzZJNWJVYzZOLTRoN1hTNG5vOGYzVWxaVzFoTlBmQzRpTnd2R0NmWEJ2XzhhNnFGODhmZ1ZiLTZsNFRwSG9aMndHblE1N2kzN1VHTy1vYzdlTzdlalVCX3B5ZDk4UjdaMXZBcVB6QlY3QUlIVVZTRzVEa3NERGxMZ1RiM29UcjRlWEU30gHQAUFVX3lxTE5RZ2VpXzJTaUcwM2ZweTZHMVlSVTlvWTlmM0R0Zkp4eERUdi1ab1k5Wm1xck5SRDJiODZVZ1NfQWtPMVJVbkFNU2dZRUlvNkk1YlVjNk4tNGg3WFM0bm84ZjNVbFpXMWhOUGZDNGlOd3ZHQ2ZYQnZfOGE2cUY4OGZnVmItNmw0VHBIb1oyd0duUTU3aTM3VUdPLW9jN2VPN2VqVUJfcHlkOThSN1oxdkFxUHpCVjdBSUhVVlNHNURrc0REbExnVGIzb1RyNGVYRTc?oc=5",
-      "source": "SÁBADO",
+      "source": "sabado.pt",
       "publishedAt": "2026-09-13T11:44:00Z",
-      "description": "Notícia publicada por SÁBADO. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por sabado.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM3YwWXdHTEpnbl9zMW5vc2tTV3VzLVBOSVJGalZRZ2UzNE80LU1MR1Joa1lscDhIT3BwUXNoVXJIcThpQ2ViOGpaOTl4RDR1eEowcENJalVnaFk4cFdKRVAzQW1PbEpQMllXRzZ3aDZVOTFNeXM4Wm9KdzJaVHFzeU9TbTcxbGxWXzM0d1NOUUwwMVpUb3F0bDFiNE5SYXJ5Wk1ibzZUcEk4eEdQV1AyaXh4NGRCMmZ3Sk9vRjBOcHNNOFhFV2tCem8zZ0hfTmlWNGdtSlU4bXQ1cGdlOWFIUw?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-12T14:21:00Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
+      "title": "14 SEP. | Declaração «SNS – 47 anos a garantir o acesso à Saúde aos portugueses» - Partido Comunista Português",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1d4ZlNRTXZrQ0ZPOTNzTDFJMW5UMzQxQlFucDVSaWJHdWRmLTB2VWN4TDYwQVJFX0JZRnBQSW83eVc0OWlINWZyMDMxbUphQ2tDSW80dm1LRDd0NzZCdnVfcUxnLWZheUw2TVhtQl9OMl8yYWxKMWNWTEZEX3lQYm9UQ0x6Z3kyTjRMZ1FFb0FHbjZkaEd1VXdHRnNOZk1LWGc?oc=5",
+      "source": "Partido Comunista Português",
+      "publishedAt": "2026-09-13T18:36:51Z",
+      "description": "Notícia publicada por Partido Comunista Português. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,22 +119,22 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-13-russia-diz-que-china-e-india-se-oferecerem-para-ajudar-com-negociacoes-com-a-ucrania-ccdfde7d"
     },
     {
-      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUdIBtgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUQ?oc=5",
-      "source": "dw.com",
-      "publishedAt": "2026-09-13T15:10:59Z",
-      "description": "Países romperam relações por estarem em lados opostos da guerra no Oriente Médio. Segundo presidente iraniano, nações querem \"virar a página\".",
-      "image": "https://static.dw.com/image/79250303_6.jpg",
-      "articleUrl": "https://amp.dw.com/pt-br/c%C3%BApula-do-brics-reaproxima-l%C3%ADderes-de-ir%C3%A3-e-emirados-%C3%A1rabes/a-79252043"
-    },
-    {
-      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - RTP",
+      "title": "Líderes dos BRICS pedem máxima contenção face a escalada na guerra no Médio Oriente - rtp.pt",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYk9oYmVfWEFITm5EeWdrY185d3BOZlVrQ2p4QTBOTVh6c21WcE1DNFFST3g0UmRmQTNZQk52bVJQNG5aNzlPck9fenVIbFdhbGtQZVhybFhlQ2loTHlwcXh2QmNjMnZpMlpvTmNqcE52eS1maWdqVmwyamxRcGJBLXZoOUxhazFPMk1RWVU5NGV2MnE2SGN6TUJIY1B1NTJvZnh6UVNuTWNFalN5bERBUzhiOUR1TldhRlNRNFZQVFVBdzVB?oc=5",
-      "source": "RTP",
+      "source": "rtp.pt",
       "publishedAt": "2026-09-12T13:56:52Z",
       "description": "Os líderes dos BRICS pediram máxima contenção perante a escalada na guerra no Médio Oriente, a manutenção do movimento do comércio e energia e rejeitaram sanções unilaterais contrárias ao direito internacional.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/e6/e6080d2bc94cacac36f969b25a03f687?w=860&q=90&rect=0,96,1500,822&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/mundo/lideres-dos-brics-pedem-maxima-contencao-face-a-escalada-na-guerra-no-medio-oriente_n1765010"
+    },
+    {
+      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUdIBtgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUQ?oc=5",
+      "source": "DW.com",
+      "publishedAt": "2026-09-13T15:10:59Z",
+      "description": "Países romperam relações por estarem em lados opostos da guerra no Oriente Médio. Segundo presidente iraniano, nações querem \"virar a página\".",
+      "image": "https://static.dw.com/image/79250303_6.jpg",
+      "articleUrl": "https://amp.dw.com/pt-br/c%C3%BApula-do-brics-reaproxima-l%C3%ADderes-de-ir%C3%A3-e-emirados-%C3%A1rabes/a-79252043"
     },
     {
       "title": "Rússia não descarta cúpula trilateral com Ucrânia e EUA em outubro - ANSA Brasil",
@@ -164,6 +164,15 @@
       "articleUrl": "https://www.estadao.com.br/amp/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
     },
     {
+      "title": "Guerra no Oriente Médio 'não atende aos interesses comuns', denuncia Xi em reunião do Brics - afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5Z1pyNXFzMUE2TEE5d2xWZFpxbFp3OU5ELTNPWFI1blNoc3o3YTEtVUY1azktcTBIZEpBQTFPR2FWMlExblFrYVpNUQ?oc=5",
+      "source": "afp.com",
+      "publishedAt": "2026-09-12T16:08:22Z",
+      "description": "O presidente da China, Xi Jinping, denunciou neste sábado (12), na cúpula do Brics na Índia, que a guerra do Oriente Médio desencadeada pelos ataques dos Estados Unidos e de Israel contra o Irã...",
+      "image": "https://www.afp.com/sites/default/files/styles/afp_mea/public/afp-stories/f52293d5bc0a35b757780556e316335e-0.jpg?itok=rWFmKj4w",
+      "articleUrl": "https://www.afp.com/es/node/3839079"
+    },
+    {
       "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeDIzeDhnSGljUFd4UzZGdTVadmVnQ1lPTThfMVYyNTRtQlFFTHJQN1lSZmhFOVNPRWFYTDlmNm1kdVdaeXlMeWFjYzlOekpxYVFtRE5MQzcyM01vOWVPZ21lb21IT2RUNTR0Zm80SHh1cEJYY294Wm8tMzdKbWFieWJ2UUZNWmlXMEtBbW5vczRIRnV6eWhtTXJYYXo4a0p1aklmcTlScm5aZHpsaFhnNWl3N1dWUUx4cjhDeVoyQmpLSmlhUHREUTlHSy0yNHBoRVJITUhEZGpabFJTQk5qa0EzQUo1S09Gb1cwOXJZMGQxSXc?oc=5",
       "source": "SIC Notícias",
@@ -182,9 +191,9 @@
       "articleUrl": "https://www.dn.pt/internacional/cimeira-dos-brics-lderes-apelam-a-conteno-mxima-no-mdio-oriente-e-rejeitam-sanes-unilaterais"
     },
     {
-      "title": "EUA podem continuar no Irã e \"ficar com o petróleo\" após guerra, diz Trump - cnnbrasil.com.br",
+      "title": "EUA podem continuar no Irã e \"ficar com o petróleo\" após guerra, diz Trump - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYU0tUEk2NDhac1BZenVoazdnaHFRdC1XVU9KdGNMUm5ubHNaVndHdzBRSngtTXFDd1Zkb3phelB6dU5uVWNpUjdJV1c3WFM0YmJiM1J5S2dSbTg2ZW9TMlFxbGQxeUJSMWJ6aVRQYmhuaGJtZ2VJdHNud1BnUEJoZ2h4VHZpN1BYWkJJZkk0LUMza1lZTE85VmFKZFp5SC1oYTJLcFJiZm1QS2NObER0T3N5dFRfZw?oc=5",
-      "source": "cnnbrasil.com.br",
+      "source": "CNN Brasil",
       "publishedAt": "2026-09-13T18:42:30Z",
       "description": "Presidente americano sugeriu que Washington poderia usar reservas petrolíferas de Teerã, como fez na Venezuela",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/TRUMP-IRLANDA-OPEN.jpg?w=960&h=540&crop=1",
@@ -196,8 +205,7 @@
       "source": "Folha PE",
       "publishedAt": "2026-09-13T12:27:00Z",
       "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.folhape.com.br/noticia/amp/512258/kremlin-nao-descarta-retomar-negociacoes-trilaterais-com-ucrania-em/"
+      "image": ""
     },
     {
       "title": "Putin diz que tropas europeias na Ucrânia levariam à guerra com a Rússia - Poder360",
@@ -205,14 +213,6 @@
       "source": "Poder360",
       "publishedAt": "2026-09-13T18:48:50Z",
       "description": "Notícia publicada por Poder360. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Guerra no Oriente Médio 'não atende aos interesses comuns', denuncia Xi em reunião do Brics - afp.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04LUIzNkVnR0NEU25vMUNfLVBWWkdiQzc5MkZOOGoxVzJTVzdMQzlvblAxVEJ6TzNBMjhwb29pSGdfelpPQXpfME1Lbw?oc=5",
-      "source": "afp.com",
-      "publishedAt": "2026-09-12T16:08:22Z",
-      "description": "Notícia publicada por afp.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
