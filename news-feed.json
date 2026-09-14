@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-14T16:29:10.986034Z",
+  "updatedAt": "2026-09-14T17:27:13.328815Z",
   "health": [
+    {
+      "title": "Medicina da UTAD leva alunos aos doentes desde o primeiro ano - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmZzTXpTSGxuMUQ2VDZiSVlnSWdkckdXdFBSY3M3VzZEZTdDV1YzY2ZOSEFCa0Z1bUVFYmJ2SUQ3V2VuRm1wYXVsanAzYTNCM1FQb05USU92OER0UFVoanNtaHU1TzFhdThVYlBfVG1XZEoyU2cwY1luNVFLTkFUam92cXpNUkFhemphaldwdWxPcXBEU2hZeGxrWWUyV19CVWc?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-09-14T09:13:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.jn.pt/pais/artigo/medicina-da-utad-leva-alunos-aos-doentes-desde-o-primeiro-ano/18126235"
+    },
     {
       "title": "PSD vai recuperar combate ao \"turismo de saúde\". \"Tem de acabar\" - Observador",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHYzZ2NlYk9ST0FLUTZrempuMlh4RzhOXzlaNWVOZ2pyMXo5SDNnRzcwcmFKdEYzbEZ6ZVNPajhQcFlIV1c3S2JnNzJCdXphcmhlOUpLVzBnUG1XZTRXbnV3ZTJCZlpHNkZhOE01bTRoQkdNU3VPTndSeFhlOUVGTTI5R2otOFRwSG9pM0lhRGFRZXQ3VHhXaQ?oc=5",
@@ -56,6 +65,15 @@
       "articleUrl": "https://www.pcp.pt/sns-47-anos-garantir-acesso-saude-aos-portugueses"
     },
     {
+      "title": "Regulador aponta falhas graves no acompanhamento de doentes no Hospital VFX - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWYySDFFUi1xUUc2eUs1SHQ5VklYc1l2SnN6QWdkaWxNTXVxM3VseDBtUEpYWWR0OHRxREU4VXdLRHU4MzFyVzF2Snp1NzZhTDhseng1RXNsMjR2NUppS2NFNVk1a2xVSHlMdldiQnA2SlJ0SXBJSjhjRFJsNWJsdi13dF94cENCWU44QV9nREV4dzNnUW02bDJXX2pheXNZemxZWDREaXlDN3IwZjNpbUpCU1VSSnUwSjVsOFdIY3ZpQlk?oc=5",
+      "source": "O Mirante",
+      "publishedAt": "2026-09-14T17:00:00Z",
+      "description": "Entidade Reguladora da Saúde exige que hospital altere procedimentos internos para melhorar o acompanhamento dos doentes internados em Vila Franca de Xira. Num dos casos uma mulher com doença oncológica morreu sem que os familiares a tivessem podido visitar.",
+      "image": "https://images.impresa.pt/mirante/2026-05-20-pag-11---bacteria-hospital-vfx.jpg-bd90575e",
+      "articleUrl": "https://omirante.pt/sociedade/2026-09-14-regulador-aponta-falhas-graves-no-acompanhamento-de-doentes-no-hospital-vfx-cce014d6"
+    },
+    {
       "title": "Destaques | Município de Braga reforça aposta na saúde mental em contexto escolar - Braga City Council",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UbVdTQTlHUktDXzcyb0h3bnYwUU1ZZmpPZF9LZlpFb2dnTU4taXBMMWx5dDhONzR0Vk43YzJHLWhEalBOdi13cXM0MmpJS09JcHIwcEc1eTAwdk5fZTVqR0xsOXRfOXBBQUJJRkE5RV9xdw?oc=5",
       "source": "Braga City Council",
@@ -74,37 +92,19 @@
       "articleUrl": "https://www.publico.pt/2026/09/14/sociedade/noticia/medico-impedido-ecografias-obstetricas-sns-fez-quase-5000-privado-2187820?ref=sociedade"
     },
     {
-      "title": "Recuperação de listas de espera em causa no Hospital de Santo António - RTP",
+      "title": "Recuperação de listas de espera em causa no Hospital de Santo António - rtp.pt",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2VnenByVkZ1aTZEYmtmR0FTLTNIcnhoVDBVN01qZUFGQXJ0anpoRXcyd2hUZW1iSFk1MzQ5M25Uek95VFdzTXNTcEJjUGZIMlZhVldmbVZ3bHhRR0dGdXhha2l5bGQxakhtdkRfTHk1NmRETGxCajZaU2lScHhkVW50RDdweWJTNkFBRzhFcmk0TjBPbnE3d2NKSWxLaEtlTXVScklUY1NFa1dTX1lCVA?oc=5",
-      "source": "RTP",
+      "source": "rtp.pt",
       "publishedAt": "2026-09-14T12:32:25Z",
-      "description": "Foram suspensas todas as operações de Ortopedia e Neurocirurgia, a realizar em horas extra, no Hospital de Santo António, no Porto.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/54/541b14ffd04a763f03462c8e76a1474b?w=860&q=90&rect=0,0,1560,855&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/recuperacao-de-listas-de-espera-em-causa-no-hospital-de-santo-antonio_v1765327"
+      "description": "Notícia publicada por rtp.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Loulé esclarece sobre saúde hormonal de homens e mulheres - Sul Informação",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmVjVEVUaEJaeV9QbmlGOGRRME4wdmFFamlCVl8tTFJBUUE2S1J3NmJwUGJkZ0RfSHl2R0NxVk13bGZLR1JfSk00RTd0eXd4VTZGQXdsWTRRN1lESEo2TW1nWTItcGNJSVFIb0xxUC00ZUM2Zjk5dG9tMDhGbjlESkZzeXFhU2E2TjVyRDRzNmZtSGlHTFVVZnJwYw?oc=5",
       "source": "Sul Informação",
       "publishedAt": "2026-09-14T14:01:00Z",
-      "description": "Uma conversa sobre saúde hormonal de homens e mulheres decorre no dia 25 de Setembro, a partir das 18h30, na Biblioteca Municipal Sophia de Mello Breyner Andresen, em Loulé. A vida hormonal é um dos pilares fundamentais da saúde humana, influenciando o…",
-      "image": "https://www.sulinformacao.pt/wp-content/uploads/2025/01/loule_bc7.jpg",
-      "articleUrl": "https://www.sulinformacao.pt/2026/09/loule-esclarece-sobre-saude-hormonal-de-homens-e-mulheres/"
-    },
-    {
-      "title": "Leiria promove saúde em Monte Real, Bajouca, Ortigosa e Maceira - regiaodeleiria.pt",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWtJcG12YnNFcHFnQ2NnVjV3VHZqc044eElXbVdCUWJaZmhSbWFTT0JIdEJPc3BzNk12WS1UUGg1LWpNUVI5UUZ1RTY3ZDFWTDl2eDl6Q0lFRjBZTzJkQkZkVC0zYkFJQjhhSXM2S1Z3NUh2VmJEOVhUMnBSU1B0MmE5SHlsQjVPVU56cDVtOTRlWlF4c0F6d0FOMWhCbGdLSUE?oc=5",
-      "source": "regiaodeleiria.pt",
-      "publishedAt": "2026-09-14T13:24:01Z",
-      "description": "Notícia publicada por regiaodeleiria.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "OMS reitera garantias de que vacinas são seguras e não causam autismo - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDX1VsMlFtdUJJZFVhRmtuOFM4VXprU0RVZnhfR1JOVzNFcmtzR0lDX0t6RHJkdURVc1NSOXFuSktwR2hzVVNySTVDdmhzbFBfd216LUpUUQ?oc=5",
-      "source": "UN News",
-      "publishedAt": "2026-09-14T15:00:23Z",
-      "description": "Notícia publicada por UN News. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Sul Informação. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -128,6 +128,33 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
     },
     {
+      "title": "Rússia e Ucrânia param ataques ao setor de energia, diz Trump - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-09-14T15:53:00Z",
+      "description": "Presidente faz anúncio, ainda não confirmado, enquanto guerra no Oriente Médio pressiona preço do petróleo",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894009716aa8178bd7c48_1789400971_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
+    },
+    {
+      "title": "Os Estados Unidos na África : impedir a emancipação, manter o domínio (1957-2026) - CADTM",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2hkMER3RllDOXZjUnRNLWdsSWgzRGdYWC0zamtaZHlBRS11X1VZc3FIWU9wZVZISGpfV3I3TGFpdUh3X2djNU0xdXZMNUFBekcyRkZSTjMwS043V2J4WkdXdzZGdjdKbThrYXdMVFZtWjROalNHQVJ3UWRiUklaOHI0SWpsUWVTeGZ4bU1RUTFSYXgtcHdQUUVPMXJNRXM?oc=5",
+      "source": "CADTM",
+      "publishedAt": "2026-09-14T13:28:47Z",
+      "description": "Notícia publicada por CADTM. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.cadtm.org/Os-Estados-Unidos-na-Africa-impedir-a-emancipacao-manter-o-dominio-1957-2026"
+    },
+    {
+      "title": "Países pedem que UE reforce presença no Ártico diante de ameaças da Rússia - Terra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME16UFpDTWYtZnBsWkxCY1ZUX2NvS25xcFpxcGIwN1AtanVDZk9nQ2MwNHZYM2xDOFNUSUgwUzlJOV9acFU0RXpxRkRoQU9oLTNVelRhUmUzRHNOcVhiUEdncGdPbHBGRFJMSXZIMldTUkpITUJSTTJ6VmhqZmNDVzBUaFRoNjlTaTlqU19vMEpLOVVCWGt4Y0l6ZzNfVWJMM2VjS0VCTTE2aDFhNnJ4blI0MUZmcHpFZEZDdzRNcGRsQUhZM1pBQjYtZFd3VEg4ak1DOHQzN3dQb0tzZVd1RGxJamlvY2pKQm1pQkRUdHpFdw?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-09-14T17:10:00Z",
+      "description": "Documento foi assinado por mais de 10 nações europeias",
+      "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "articleUrl": "https://www.terra.com.br/noticias/mundo/paises-pedem-que-ue-reforce-presenca-no-artico-diante-de-ameacas-da-russia,5e7e4e1b5859087c2c3386a62c84be42odp3mhvz.html"
+    },
+    {
       "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - DW.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUdIBtgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUQ?oc=5",
       "source": "DW.com",
@@ -135,15 +162,6 @@
       "description": "Países romperam relações por estarem em lados opostos da guerra no Oriente Médio. Segundo presidente iraniano, nações querem \"virar a página\".",
       "image": "https://static.dw.com/image/79250303_6.jpg",
       "articleUrl": "https://amp.dw.com/pt-br/c%C3%BApula-do-brics-reaproxima-l%C3%ADderes-de-ir%C3%A3-e-emirados-%C3%A1rabes/a-79252043"
-    },
-    {
-      "title": "Líderes europeus se reúnem na Finlândia para discutir presença no Ártico - Terra",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFowSUtKMXVYZUJSTjVWcWJXRXJfTjhfbXRCVE5kTGItSUtoYmowUWd1MmxxelB1alB0WHRfMEZKZVpaUlpJYjhUY1l2UzhiN09FVVAxSTZkbzRjcFRJeTRnbUFXYmEzSUVrb3AwRVBSWWpuWkRjMndiYkpRS1lVaFFhYkxsYlB1MEs2d1ZVQlNTTWtwMlNWZHZ1WmNfWFBHUjdSSHVYR21valg0QmNOTF9jc1FueXNCMHk3WGF2anpFOXZDYjRsOVFDQklpOEJNLUdLUDMzNjEzWUE4T1haNjhRY2pqUm5DTVNYb0toYw?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-09-14T11:15:00Z",
-      "description": "Os líderes da União Europeia (UE) se reúnem nesta segunda-feira (14) em Rovaniemi, no norte da Finlândia, para discutir como reforçar a presença do bloco no Ártico, alvo de tensões geopolíticas nos últimos meses. A Groenlândia, território autônomo da Dinamarca, está no centro da crise entre aliados ocidentais: há sete meses o presidente dos Estados Unidos, Donald Trump,…",
-      "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "articleUrl": "https://www.terra.com.br/noticias/mundo/lideres-europeus-se-reunem-na-finlandia-para-discutir-presenca-no-artico,e95819deb14a923b3aed371fe1499936h8ony0iv.html"
     },
     {
       "title": "Rússia diz que China e Índia se oferecerem para ajudar com negociações com a Ucrânia - SIC Notícias",
@@ -164,55 +182,37 @@
       "articleUrl": "https://ansabrasil.com.br/amp/brasil/noticias/mundo/2026/09/13/russia-nao-descarta-cupula-trilateral-com-ucrania-e-eua-em-outubro_a303787f-ace3-43fe-aa22-475f0d163613.html"
     },
     {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - estadao.com.br",
+      "title": "Presidente dos Estados Unidos diz que a Rússia e Ucrânia concordaram em não atacar alvos energéticos - Rádio Pampa",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjh6RkRTNUZFd3kydnVtbHo2clEzbF9YUl94Q2NQVktNZGlfQmVmNThzd1Q5WExrOXc1ZFRJNUdYTTFsSWVTQkQxS0RMajUySFdlb3hnZjZwXzhxQlhvbHA4NFdqd3AzU05GN0V4aFNZdGJOb1hvY2V0S2QxVUdYY2NEWlByWkI3X1FyNlIwLXNiMHlzRjctdkRxeUJFU3hVRjdOVDIzcXE5WkQ3aGNSbWc5ZWhNODVoVHVlb2hKdllxc0dXQ29nZzFtaw?oc=5",
+      "source": "Rádio Pampa",
+      "publishedAt": "2026-09-14T16:31:49Z",
+      "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (14) que Ucrânia e Rússia concordaram em não atacar os alvos energéticos uma da",
+      "image": "https://www.radiopampa.com.br/wp-content/uploads/2026/09/jtrumpmands-e1782172565696-2.jpg",
+      "articleUrl": "https://www.radiopampa.com.br/presidente-dos-estados-unidos-diz-que-a-russia-e-ucrania-concordaram-em-nao-atacar-alvos-energeticos/"
+    },
+    {
+      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
-      "source": "estadao.com.br",
+      "source": "Estadão",
       "publishedAt": "2026-09-13T12:28:00Z",
       "description": "Porta-voz afirma que Moscou não descarta a retomada das conversas, enquanto negociações seguem sem um acordo sobre os principais pontos do conflito",
       "image": "https://www.estadao.com.br/resizer/v2/663Z67WWDBFFLCHLFJHXP7UP4Y.jpg?quality=80&auth=9918a62bc9eae319874be80f073f2b8d78459ff9afd950b4923b50acb58b12d6&width=1200",
       "articleUrl": "https://www.estadao.com.br/amp/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
     },
     {
-      "title": "EUA podem continuar no Irã e \"ficar com o petróleo\" após guerra, diz Trump - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYU0tUEk2NDhac1BZenVoazdnaHFRdC1XVU9KdGNMUm5ubHNaVndHdzBRSngtTXFDd1Zkb3phelB6dU5uVWNpUjdJV1c3WFM0YmJiM1J5S2dSbTg2ZW9TMlFxbGQxeUJSMWJ6aVRQYmhuaGJtZ2VJdHNud1BnUEJoZ2h4VHZpN1BYWkJJZkk0LUMza1lZTE85VmFKZFp5SC1oYTJLcFJiZm1QS2NObER0T3N5dFRfZw?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-13T18:42:30Z",
-      "description": "Presidente americano sugeriu que Washington poderia usar reservas petrolíferas de Teerã, como fez na Venezuela",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/TRUMP-IRLANDA-OPEN.jpg?w=960&h=540&crop=1",
-      "articleUrl": "https://www.cnnbrasil.com.br/internacional/eua-podem-continuar-no-ira-e-ficar-com-o-petroleo-apos-guerra-diz-trump/"
-    },
-    {
-      "title": "Finlândia adere escudo nuclear francês e fortalece estratégia europeia diante da Rússia - Diário da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0IxSE5GbnZaX3hQUWxZdk12d3JtMTdtcXQzUkhIT2lRZUktcC1qbE1sMEFHZ1ZPZFprMkRQdEZibkZMU05DWF9HQjhvdEJiQ0QzMDNBbi1sMUhyaTZXcF8xUm0wZ1ZNU19aUVd2a203MXptNTNqVGlpOHFVUlpVZzBocUtjcVBmWmNHMnUxT0p3bUNpM2dmOGYzR0VOWFVyWnlMcnh4dVpDWU1QOFhUSUlvVE1QbjJsaEt6WHEtY3FZZw?oc=5",
-      "source": "Diário da Manhã",
-      "publishedAt": "2026-09-14T15:45:00Z",
-      "description": "Sob para dez o número de países no acordo liderado por Emmanuel Macron, em meio às incertezas sobre compromisso dos EUA com a defesa europeia",
-      "image": "https://www.dm.com.br/wp-content/uploads/2026/09/177015150569825e510cac1_1770151505_3x2_md.jpg",
-      "articleUrl": "https://www.dm.com.br/internacional/finlandia-adere-escudo-nuclear-frances-e-fortalece-estrategia-europeia-diante-da-russia/"
-    },
-    {
-      "title": "Putin diz que tropas europeias na Ucrânia levariam à guerra com a Rússia - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVm5XcFR2Q01pQ0l6V2hXdVAxUjducHkwbHR3YUFTME9SLWEwbFlpV3RzS3ltSFNHXzV2LTgwTEVMa3o1MlZoWUczZ0E4c3BWLWlyb0psNmdzUlM3ZmxoUXVmeGR4UnlPSkJxOHRwdDZPS1lsWjVWRy1qbTJwMEdWWjNJSi10TGJBazJJZjBSQzY3c1B3SEFyMm9uclVKV3kwbjFyMTR6a3gzVHp3RFU4R0FTV01IbFNSRzViYzBB?oc=5",
-      "source": "poder360.com.br",
-      "publishedAt": "2026-09-13T18:48:50Z",
-      "description": "Presidente russo disse que não há ameaça aos países europeus; Kremlin afirmou há possibilidade de negociações em outubro. Leia no Poder360.",
-      "image": "https://static.poder360.com.br/uploads/2026/07/vladimir-putin-russia-14-mar-2024-848x477-1.png",
-      "articleUrl": "https://www.poder360.com.br/poder-internacional/putin-diz-que-tropas-europeias-na-ucrania-levariam-a-guerra-com-a-russia/"
-    },
-    {
-      "title": "Kremlin não descarta retomar negociações trilaterais com Ucrânia em outubro - Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWVEV0NGQVpETnFINFNYTGF6VDdZU0o5M1B2VGxIM21Ed1hSUWdVZkdNVkdBeWxQMFphTnBQTExTU3JiNWNmU1NCMHZoSHVSanQxS3hKa2pLaXJ5Tms5ZWxucDU2dmE5NHRBTEw5a0JKc0hhbDkxWmh3bWpIQjNVSzltLVFZbm1PMmNhaUxYZ0otcExzSC04MjBtNHFJaVVyOGZsbmdnMDJNTDN2WU5RY19pRGbSAbQBQVVfeXFMUDFlRFdDRkFaRE5xSDRTWExhelQ3WVNKOTNQdlRsSDNtRHdYUlFnVWZHTVZHQXlsUDBaYU5wUExMU1NyYjVjZlNTQjB2aEh1Ump0MUt4SmtqS2lyeU5rOWVsbnA1NnZhOTR0QUxMOWtCSnNIYWw5MVpod21qSEIzVUs5bS1RWW5tTzJjYWlMWGdKLXBMc0gtODIwbTRxSWlVcjhmbG5nZzAyTUwzdllOUWNfaURm?oc=5",
-      "source": "Folha PE",
-      "publishedAt": "2026-09-13T12:27:00Z",
-      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
+      "title": "Com petróleo em alta, gasolina nos EUA sobe a US$ 4,31 e diesel bate recorde - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdS1RaEtoYlpJbTlOU2ZKem1NYlB5MEhqeW9TNk5DeDFqVnN2VmVRWlFsaEpvYW04WHpnMG1WcTVpdWRRdnRkRG0zYTVDM2lBR0dVTjVzRkliTFpQZmN0NEtSdUJRQUpuNkUySkhNZ0tvZWxZZ0wtTkRTX2hVemg5XzN6ZUtkTnhtZVBDTENRLVN6NFFfN1hWTnlUYXRlUktFVmh0OFl2Nk5WNnBUNGpnNG1B0gG3AUFVX3lxTE5aaXBubTlqMkNnTTRsOEdBMXgyYlR5SEJhbXhrY292a3BHZDBEVzVvREZtaDdhN3VPVGNRdTUyd29jalVEY0Z1RHVLX3FfNWMtMFVIMkRnSzctQXBoVnUxbUJZRkZKWGwwV09TUWtGbEdWcWNTS2t5Mkd5ZzVFeU9BOTZHU3RPU3N1VWJQaTkxRF9XWjFVckUxSENCMFpTX3VNN3RIWFpCbGRjRHNlTk53UFNic0tOaw?oc=5",
+      "source": "InfoMoney",
+      "publishedAt": "2026-09-14T13:28:05Z",
+      "description": "Notícia publicada por InfoMoney. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Jornal O Sul",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlc0Z3JKMjZ2dE5ZWl9lcmRyVE1keFNTcV9SLVB6YlZTb0hIZDVSeHloVFNsVkQxVHd2dm1Vb1NfdDM2UXZHNXZ3aHdER1UxXzZwU2ltVU1hbHE4cEtTcGp4Mk9qYk5kWjBVWXFIT2NoWXhFakdSbUZwUXBrU0lMQ1BIRmIzd2dkbmR1ai1vbHdpcktQUlUyWGV6Mk9ybm5rMi1rWW9pVkJTNXVKbG9FatIBsAFBVV95cUxNSlc0Z3JKMjZ2dE5ZWl9lcmRyVE1keFNTcV9SLVB6YlZTb0hIZDVSeHloVFNsVkQxVHd2dm1Vb1NfdDM2UXZHNXZ3aHdER1UxXzZwU2ltVU1hbHE4cEtTcGp4Mk9qYk5kWjBVWXFIT2NoWXhFakdSbUZwUXBrU0lMQ1BIRmIzd2dkbmR1ai1vbHdpcktQUlUyWGV6Mk9ybm5rMi1rWW9pVkJTNXVKbG9Fag?oc=5",
-      "source": "Jornal O Sul",
-      "publishedAt": "2026-09-13T13:02:43Z",
-      "description": "Notícia publicada por Jornal O Sul. Abra o artigo para consultar os detalhes completos.",
+      "title": "Finlândia adere escudo nuclear francês e fortalece estratégia europeia diante da Rússia - dm.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0IxSE5GbnZaX3hQUWxZdk12d3JtMTdtcXQzUkhIT2lRZUktcC1qbE1sMEFHZ1ZPZFprMkRQdEZibkZMU05DWF9HQjhvdEJiQ0QzMDNBbi1sMUhyaTZXcF8xUm0wZ1ZNU19aUVd2a203MXptNTNqVGlpOHFVUlpVZzBocUtjcVBmWmNHMnUxT0p3bUNpM2dmOGYzR0VOWFVyWnlMcnh4dVpDWU1QOFhUSUlvVE1QbjJsaEt6WHEtY3FZZw?oc=5",
+      "source": "dm.com.br",
+      "publishedAt": "2026-09-14T15:45:00Z",
+      "description": "Notícia publicada por dm.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
