@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-14T20:28:00.445716Z",
+  "updatedAt": "2026-09-14T21:27:29.159157Z",
   "health": [
+    {
+      "title": "Hospital Amadora-Sintra. \"Turismo de saúde é um problema\" - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGV4TFR1M08tREhReFluLTBValJVekJzRGp2WDdvRjE5c09uUlBPeGJTZ1pFZFdJWnNWd2I3NDM2dWZsX2E3d1NDS3VaZHBZSnZGc01OWW1pYmZweFNwNUFlR1VNbEN6eE1ZME5Kby1NWDZNV0s0ZVkzQzE4NGZra25ZVFhQY0tBM3VmMHRNZDVweml2Y2lxamlZNzk?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-14T20:42:47Z",
+      "description": "O hospital Amadora-Sintra revelou que 40 por cento dos seus utentes do serviço de obstetrícia são estrangeiros.",
+      "image": "https://cdn-images.rtp.pt/icm/images/0b/0bc6cde4c3d6db73f51e3c3154abbf6a_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-amadora-sintra-turismo-de-saude-e-um-problema_v1765426"
+    },
     {
       "title": "Médico obstetra impedido de fazer ecografias para o SNS fez quase 5000 para o privado | Saúde - Público",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjVxX3ZyLWkxQmxQQ0MwbVBkR1RQb0hRbVNvX29DZEpLUDFqMXpMOUpwdnFrdW9RdEZsTk5yLUxlQTZudVdMV2ctbjFIUDBwZHVucXVVS3BQckREdW1MbDdGR0RJQkJaSmV0bTZydXJhRUp5SHVnWnVhYTNTOVA4ejJOTnJvZVJ4cl9KZ2YyWWx5WEhBUzdpMFRqeW5QWTFBSjNiTU5LeG1zZm9PUVp4cEQwZjdZUUtGVU12Y0ZfUl83djA?oc=5",
@@ -20,13 +29,22 @@
       "articleUrl": "https://observador.pt/programas/explicador/como-se-trava-o-turismo-de-saude-no-sns/"
     },
     {
-      "title": "Medicina da UTAD leva alunos aos doentes desde o primeiro ano - Jornal de Notícias",
+      "title": "Medicina da UTAD leva alunos aos doentes desde o primeiro ano - jn.pt",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmZzTXpTSGxuMUQ2VDZiSVlnSWdkckdXdFBSY3M3VzZEZTdDV1YzY2ZOSEFCa0Z1bUVFYmJ2SUQ3V2VuRm1wYXVsanAzYTNCM1FQb05USU92OER0UFVoanNtaHU1TzFhdThVYlBfVG1XZEoyU2cwY1luNVFLTkFUam92cXpNUkFhemphaldwdWxPcXBEU2hZeGxrWWUyV19CVWc?oc=5",
-      "source": "Jornal de Notícias",
+      "source": "jn.pt",
       "publishedAt": "2026-09-14T09:13:00Z",
-      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por jn.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.jn.pt/pais/artigo/medicina-da-utad-leva-alunos-aos-doentes-desde-o-primeiro-ano/18126235"
+    },
+    {
+      "title": "Portugal regista transmissão comunitária da nova subvariante da mpox e mais novos casos na Europa - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGNiakJSZlMwY2tXN3VTVUthOVdDYnU3c3V4Tll4ZjFVMzFUeDlpY01ueGxIakc4ZV9NWWdENTdWb242SG1KUFNTT3d2M012WS1JNHNxazkwLWtETy1BRDRPanJyLTNMeVhCRzZUVm9wYlp2VFNBajY1RUxSdHBKQlowN0k5MFJ5azJLZFlzX2diZjR2dEJKaFRsbTNLYmxVdGRyVnVyOWRqbE9nV0xwWm1HMnIzbWVpaXVreHBGbzlOdkM3MHJFTkI3S3lEd091U05iNW9qR2I1bTNmajR1aEpFYnJrNWRL?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-14T20:57:41Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-14-portugal-regista-transmissao-comunitaria-da-nova-subvariante-da-mpox-e-mais-novos-casos-na-europa-83129061"
     },
     {
       "title": "Regulador aponta falhas graves no acompanhamento de doentes no Hospital VFX - O Mirante",
@@ -50,7 +68,7 @@
       "title": "“O turismo de saúde é um problema transversal ao SNS – e já denunciado” - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm0zVWdjOEgzMGxxbG8xNTFWTjFaNXZyX1JGc1I2bUh0eXFublRmRHJRY05ZeElXbTZuVjhxNXd0cjl4NGpJemg1T3N6ZHBkdGdLaTBVbFhZV0NRMGRleVkyZUFwem02RkdjeHJKZTBDclhnZm1WWUhJeHBuMmZHMVpXT2t1Z2FsaVM2M09fbGVoeVBqRmJaLW9EdFhpa3VwTnJxZmZiRW5kTV9xczRVbm9vN3hwUUY0dFZEVlJKcUFGNjFN?oc=5",
       "source": "CNN Portugal",
-      "publishedAt": "2026-09-14T14:56:57Z",
+      "publishedAt": "2026-09-14T14:54:00Z",
       "description": "Catarina Guerreiro, editora-executiva da CNN Portugal, analisa o facto de 40% das utentes na área de obstetrícia do Hospital Amadora-Sintra serem de origem estrangeira.",
       "image": "https://img.iol.pt/preset/6aa80affd34e53c759c720f9/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/videos/o-turismo-de-saude-e-um-problema-transversal-ao-sns-e-ja-denunciado/6aa80a2b0cf22b9f8904ba63"
@@ -65,15 +83,6 @@
       "articleUrl": "https://www.lusa.pt/article/47774820/mpox-portugal-registou-transmiss%C3%A3o-comunit%C3%A1ria-e-66-casos-de-infe%C3%A7%C3%A3o-recentes-oms"
     },
     {
-      "title": "A ciência já tenta programar as bactérias para proteger a saúde - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3ZwWjlZdzR2TGZ1eHV2V1hweU81SF9IRTF6MjdiemRQT1phUE83amVucTdaUm1GMHVrVHA1eVFNZGd0Ql9Lc201R3ZzR3Q3UEdWcVIySndFME5KblB2X3daSHpiRlF5bFl2Tlo2RWFWVWsxczV5Ry1BWmZ1RVpLR2pkcUxQalpTbmFZWFRjdFFwbGdESHpMNjdPak13TXZoQzFzdkpHZnN2R05HYUVYLU9vVnFla0VmcE9BWHNDbEI5eWNkRXRXQVhNUk95NlBpSEl6bW91eXhnQQ?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-14T12:30:43Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-14-a-ciencia-ja-tenta-programar-as-bacterias-para-proteger-a-saude-816c7bc4"
-    },
-    {
       "title": "Região investe 3,7 milhões no Centro de Saúde de São Vicente sem apoio do PRR - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDJ2QkMyaWVvWkpEMmpfSEZjSzM4QVdHTWs5SkFDdWdOZnp3Qkg2aFZIazlvN2NNUW9CdmNyWnFoNGxEVG5sNGhMUzhkSzlKQjlJZWZnNXM1cG9zU0dvNk9wSldFYUxGOXZnWnZ0eTd2RVdRNlNIVEZ1cGhveVZySkdaZGx5RHlHaTNWa09ZRThlajFDZDZzTUdCY0RwTWVrMDNyNTRkNDAxeFBuaHkwN2taS29Lc1dMTHk0?oc=5",
       "source": "dnoticias.pt",
@@ -83,25 +92,16 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/14/505378-regiao-investe-37-milhoes-no-centro-de-saude-de-sao-vicente-sem-apoio-do-prr/"
     },
     {
-      "title": "SNS – 47 anos a garantir o acesso à Saúde aos portugueses - Partido Comunista Português",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GWVYwZy1SeUtTY3d2RGZWUFc1S01PYUljVG5HWVRFSUF2YWdWcjN0V08xUDFlN0RNOTFzZ2dNWlp0bzRmYU9iWkJrVmRQT3BGWFF1aG1IWHBmR25RNUMyTTF3U3lIUEt3OFJVamNtUkhTbHZUazhR?oc=5",
-      "source": "Partido Comunista Português",
-      "publishedAt": "2026-09-14T14:10:45Z",
-      "description": "Assinalam-se amanhã 47 anos sobre a publicação da Lei que concretizou o Serviço Nacional de Saúde, inscrito na Constituição de Abril como instrumento fundamental para garantir o direito à saúde.",
-      "image": "https://www.pcp.pt/sites/default/files/imagecache/facebook_share/images/img_1480.jpg",
-      "articleUrl": "https://www.pcp.pt/sns-47-anos-garantir-acesso-saude-aos-portugueses"
-    },
-    {
-      "title": "PSD vai recuperar combate ao \"turismo de saúde\". \"Tem de acabar\" - Observador",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHYzZ2NlYk9ST0FLUTZrempuMlh4RzhOXzlaNWVOZ2pyMXo5SDNnRzcwcmFKdEYzbEZ6ZVNPajhQcFlIV1c3S2JnNzJCdXphcmhlOUpLVzBnUG1XZTRXbnV3ZTJCZlpHNkZhOE01bTRoQkdNU3VPTndSeFhlOUVGTTI5R2otOFRwSG9pM0lhRGFRZXQ3VHhXaQ?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-14T14:12:47Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "title": "Hospital de Santo António. Ortopedia e neurocirurgia paradas em horas extra - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa0lkTEFmY3JEdDY4Vm9MZDhRTmh6d2RSakZPZjJJcGhZSWx6X0pNTFl1aFp0VUJ2R2xTcDR2TWNfQ1hELVdybWc0Z3kxMWV6ZGpBZksxWlFRRDhuSHhRUW0zWGZ0NHlIV05aSVVMYXNfUXVjWWhuTmhNZzJ6MXdYdUJrRU5Fa0lnNTBvbmJBQVFFYWhOdURlREVrNkJFSDQydmNKT2U0VkpnOWJnM3oyU2wxbVRsazg?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-14T20:44:47Z",
+      "description": "Notícia publicada por rtp.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
       "title": "Transmissão comunitária e 66 novos casos de infecção por mpox em Portugal - Público",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3gtY1JJSE9aNFVGc05IcjdiWVl6c2Q4RVpmcnVraGI5N2hURC13YWZNVzV1VUdHdzE4XzZ3cDlDOEtSQ2FxWGNDMXJwY3NkWVNJMWJvaklPZnFPaVM3cVgyeG5sMzh4X29BTi1ubDg0S2U2NVJWY0d3b2ZtOHNhRmRUTzk2Y0p2Z0ludmlJZ08zLW9PX2xiSUN0cDJBTGZkQjY4d3BCOTh3RUFzaDRBS2x3ODZUV2tEeEdDU3Nn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkJRQVBncFZndzBZcGNYN25XM0M2cGpGVnJueWFlWUlBWW42STNPQXd2YkdRTWFxQzBLUFF6QnFudHItSjZtNUVXSTJUcWwtMTZtU3JDY0lmVVZlUTlra1JrT043b212YzcxSHh6aHJqcHFCdjV6RHd4T3diZDE2bVNmZnhzNlN2TDMwaVRxZHN0R3kzY0k4ak84VmNGZmpFZzRIYUFZT2pVNE0tRWpkWVFqN0h6a0NJc0pYbTlYNDdRTG9zZFdfd1VqQW5hV2wxdDkyTGF4M05TcXdPdE5ybFRmNGRMbEk?oc=5",
       "source": "Público",
       "publishedAt": "2026-09-14T19:57:37Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
@@ -109,6 +109,15 @@
     }
   ],
   "world": [
+    {
+      "title": "Europa regista quase 36 mil voos diários no verão apesar da guerra no Médio Oriente - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1NYRHpsSkp3bHRqanJjOGxEMjI5SDlPbDE4QmRrQVZWU044c1dMU1U1QWxjczd5eVBzQk1yOUtwOXIzakZVb3FnanRBQnJyMGtCNkxkX2ZtalR1cG56WVdoSzJuV0VRa1ZRMU1hT1NyS2ExbGR0ZmRTSUdBc2hQN3ZHRDNVUlYyWDE4MDNvNGZNNy1lbzFCMFFnY2J1bDl6aUNvMFdOOGZPN1RhaVQxbA?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-14T07:41:05Z",
+      "description": "O conflito levou a um forte aumento de voos para países como a Albânia, Croácia, Chipre, Grécia, Montenegro, Macedónia do Norte, Sérvia e Eslovénia, numa altura em que muitos europeus optam por férias mais perto de casa",
+      "image": "https://images.euronews.com/articles/stories/09/91/23/51/1200x675_cmsv2_dcff3b0d-e5e2-529d-a459-e376c8d7807b-9912351.jpg",
+      "articleUrl": "https://pt.euronews.com/viagens/2026/09/14/europa-regista-35-959-voos-diarios-apesar-da-guerra-no-medio-oriente"
+    },
     {
       "title": "O problema não é o Irão, é a Ucrânia. Trump acusa Zelensky de estar a \"magoar o mundo\" e faz-lhe um pedido à medida de Putin - TVI",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdGJMc181S2FRcGJuVzJUMWJDUWhjck41QTBNOTk0WEdraUFjUFlfempKYmRETUlkZWViaGl4Q2w4RzBmM0xUYnBFNks3MnNOOFk4eVdFMk9XM0NncnNEaWtHajFweWQwQXJ4a1dyT05GSnZrOGpPbndfRmh5NFI5bGlXbUtqWHdXRk93ZW9seE9mS1gyYUxBb2I2RnRTMElsTWZKRFhJOXpoU0lQT1J1c2hnRFlPODBUYWE3NnlpenpGbU9FSzZQd1d6cGUxOXM2YVdybVdFU0QtMnFLWVF5TWhQb05HRXR5cHAxOEZUc2VJaUZpZkItay1TSU1jb2VNUzVWWFU4RjBVR0lxZXJlNkE5c0FoWXVjd0tibGtqMGUxQ3M?oc=5",
@@ -128,7 +137,7 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
     },
     {
-      "title": "Rússia e Ucrânia param ataques ao setor de energia, diz Trump - Folha de S.Paulo",
+      "title": "Rússia e Ucrânia aceitam parar ataques ao setor de energia, diz Trump; Kiev duvida - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5",
       "source": "Folha de S.Paulo",
       "publishedAt": "2026-09-14T15:53:00Z",
@@ -137,18 +146,9 @@
       "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
     },
     {
-      "title": "Europa regista quase 36 mil voos diários no verão apesar da guerra no Médio Oriente - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1NYRHpsSkp3bHRqanJjOGxEMjI5SDlPbDE4QmRrQVZWU044c1dMU1U1QWxjczd5eVBzQk1yOUtwOXIzakZVb3FnanRBQnJyMGtCNkxkX2ZtalR1cG56WVdoSzJuV0VRa1ZRMU1hT1NyS2ExbGR0ZmRTSUdBc2hQN3ZHRDNVUlYyWDE4MDNvNGZNNy1lbzFCMFFnY2J1bDl6aUNvMFdOOGZPN1RhaVQxbA?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-14T07:41:05Z",
-      "description": "O conflito levou a um forte aumento de voos para países como a Albânia, Croácia, Chipre, Grécia, Montenegro, Macedónia do Norte, Sérvia e Eslovénia, numa altura em que muitos europeus optam por férias mais perto de casa",
-      "image": "https://images.euronews.com/articles/stories/09/91/23/51/1200x675_cmsv2_dcff3b0d-e5e2-529d-a459-e376c8d7807b-9912351.jpg",
-      "articleUrl": "https://pt.euronews.com/viagens/2026/09/14/europa-regista-35-959-voos-diarios-apesar-da-guerra-no-medio-oriente"
-    },
-    {
-      "title": "Países pedem que UE reforce presença no Ártico diante de ameaças da Rússia - terra.com.br",
+      "title": "Países pedem que UE reforce presença no Ártico diante de ameaças da Rússia - Terra",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNME16UFpDTWYtZnBsWkxCY1ZUX2NvS25xcFpxcGIwN1AtanVDZk9nQ2MwNHZYM2xDOFNUSUgwUzlJOV9acFU0RXpxRkRoQU9oLTNVelRhUmUzRHNOcVhiUEdncGdPbHBGRFJMSXZIMldTUkpITUJSTTJ6VmhqZmNDVzBUaFRoNjlTaTlqU19vMEpLOVVCWGt4Y0l6ZzNfVWJMM2VjS0VCTTE2aDFhNnJ4blI0MUZmcHpFZEZDdzRNcGRsQUhZM1pBQjYtZFd3VEg4ak1DOHQzN3dQb0tzZVd1RGxJamlvY2pKQm1pQkRUdHpFdw?oc=5",
-      "source": "terra.com.br",
+      "source": "Terra",
       "publishedAt": "2026-09-14T17:10:00Z",
       "description": "Documento foi assinado por mais de 10 nações europeias",
       "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/450669012-48b15b347a2c013c1257c628579ad28d.jpg",
@@ -164,9 +164,18 @@
       "articleUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/putin-europa-entrara-em-guerra-com-moscou-se-enviar-tropas-de-ajuda-a-kiev-ucrania-e-russia-lutam-primeira-batalha-naval-com-drones.ghtml"
     },
     {
-      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - dw.com",
+      "title": "Trump: Rússia e Ucrânia concordam em não atacar instalações energéticas - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGU5bDJIS0hMbmdBcjVsd0JWeklTbTQzOFVLNkM4U1NPbzk1OFJwdDRJQWRmOHphNFZOQVlpZHc3V2p5czZPQzZPRHNWMnIxalZRUWZvNUpYbkZiZkNOR0NsSVUyLTB0SDU3WGg2Z1I3NXFGczJibl9DMnFXZjM3cUxOTllxSEl1ZlBkM1lRNzdMODNhQ29oc3AwcDlCR0Q3cDUxOUlB?oc=5",
+      "source": "Metrópoles",
+      "publishedAt": "2026-09-14T17:22:00Z",
+      "description": "Notícia publicada por Metrópoles. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.metropoles.com/mundo/trump-russia-e-ucrania-concordam-em-nao-atacar-instalacoes-energeticas"
+    },
+    {
+      "title": "Cúpula do Brics reaproxima líderes de Irã e Emirados Árabes - DW.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUdIBtgFBVV95cUxNcGVfam9SMlJZellfaHNMU3cwOHBUTzJORXdnbmhMV284MU5aRlFSY0xVcnNkT1pTNlBJbWJUTFBqUkd2VzNMczZOQWJfd09rXzRXYnQ1UDZPUW1CQzVPeUlhNVRyR3pudGM2aTIyY2xCSlBlUUxmczZaNGdUNU41LTlGMDlsYXBWWWI5TVBiYy1heWx2UGZpMVFxQk90NFVTOHAxUjBBVlZtSXowYXZPT1d6TmNMUQ?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "publishedAt": "2026-09-13T15:10:59Z",
       "description": "Países romperam relações por estarem em lados opostos da guerra no Oriente Médio. Segundo presidente iraniano, nações querem \"virar a página\".",
       "image": "https://static.dw.com/image/79250303_6.jpg",
@@ -182,15 +191,6 @@
       "articleUrl": "https://www.publico.pt/2026/09/13/mundo/noticia/kaja-kallas-forcada-defenderse-servico-accao-externa-criticas-capitais-2187804"
     },
     {
-      "title": "Trump: Rússia e Ucrânia concordam em não atacar instalações energéticas - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGU5bDJIS0hMbmdBcjVsd0JWeklTbTQzOFVLNkM4U1NPbzk1OFJwdDRJQWRmOHphNFZOQVlpZHc3V2p5czZPQzZPRHNWMnIxalZRUWZvNUpYbkZiZkNOR0NsSVUyLTB0SDU3WGg2Z1I3NXFGczJibl9DMnFXZjM3cUxOTllxSEl1ZlBkM1lRNzdMODNhQ29oc3AwcDlCR0Q3cDUxOUlB?oc=5",
-      "source": "Metrópoles",
-      "publishedAt": "2026-09-14T17:22:00Z",
-      "description": "Notícia publicada por Metrópoles. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.metropoles.com/mundo/trump-russia-e-ucrania-concordam-em-nao-atacar-instalacoes-energeticas"
-    },
-    {
       "title": "Trump diz que guerra com o Irão \"não demorará muito\" a terminar - Notícias ao Minuto",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc213cmpEb0NNYmF0anZtNk0zckpZQzhkWWhyeFdmRERtaHhnYVRTX2RNVW51Q3ZzdS1XLUNfQ2REQ1RtTUpSVXZvdzF6a0R2TEhQa2h0TVZGVVEtSG9ZREhpSXZPWDJXODVyM0I1OGpGVEN6YVo3azhaXzB3VlRlS1hEc2U0RTZ5LUZJdmhfOV9rb2phSFl1bDlGeG5XbmtyZjMxYWFNazBQQUNObWRqbmNuaGNnSENxSmZfdG1zNlRqcEU4?oc=5",
       "source": "Notícias ao Minuto",
@@ -200,19 +200,19 @@
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3051251/irao-trump-diz-novamente-que-esta-aberto-a-negociar-um-acordo-de-paz-com-teerao"
     },
     {
-      "title": "Rússia não descarta cúpula trilateral com Ucrânia e EUA em outubro - ansabrasil.com.br",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLWNHU1h1WEdVckhRZnJydVVya1hYTGx1RHJfUjQwS3gzbW43d2pUZmNLY3lEVWZPeDJCbFg2U3h0ZUJ0andGWVBoOHh4a2tRZkFLUGxMTXFuVnU0Yi1vcndLQ3FEMG5qRDRuc3p4ZUZxZHEyM0NZaDBiU2VwcUYxM0d0VDJvcmdibWhlUXdtWFFSLWFIODZJSFljeWdMb2ZXRzdtMFJmRGU2X1YxeV9ndmRlZTdtX1RVRl9DaEhFSTdKRmVOZUNGSmRLdXpCSlk5bkxMYUdld00yZlZYWDZFd0d4MWJZZ252M2tINTltUHF4LXY2Z1MtR2MxN0tmYk110gGAAkFVX3lxTFAtY0dTWHVYR1VySFFmcnJ1VXJrWFhMbHVEcl9SNDBLeDNtbjd3alRmY0tjeURVZk94MkJsWDZTeHRlQnRqd0ZZUGg4eHhra1FmQUtQbExNcW5WdTRiLW9yd0tDcUQwbmpENG5zenhlRnFkcTIzQ1loMGJTZXBxRjEzR3RUMm9yZ2JtaGVRd21YUVItYUg4NklIWWN5Z0xvZldHN20wUmZEZTZfVjF5X2d2ZGVlN21fVFVGX0NoSEVJN0pGZU5lQ0ZKZEt1ekJKWTluTExhR2V3TTJmVlhYNkV3R3gxYllnbnYza0g1OW1QcXgtdjZnUy1HYzE3S2ZiTXU?oc=5",
-      "source": "ansabrasil.com.br",
-      "publishedAt": "2026-09-13T13:43:21Z",
-      "description": "Notícia publicada por ansabrasil.com.br. Abra o artigo para consultar os detalhes completos.",
+      "title": "35 959 voos diários: Europa regista tráfego aéreo recorde no verão apesar da guerra no Médio Oriente - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGVWbGpKcWIySm42SV93MWh2T2VqZHF5WGc5eTc2THdDd3QzWmlSUTNBTklnNzZsdzB2YXRBV1lqYjhZRGRhZzkwcGNXaEJtbk9vN01iVE9HWHZNdjVHQUFLclZ4T0dsTmJFaHdqcDFheWFnemxEYWpoNE90UndKUnJqSnk5SERoNXFFbmhZZFBMZUpHU2RPaThUZzhTaDVlcU9zNmdUbkV1YUxNaHk5blBtOU50OXh4RnBaVjdYcXlZUERmRjZRMFFoX1psUQ?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-14T07:41:05Z",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Presidente dos Estados Unidos diz que a Rússia e Ucrânia concordaram em não atacar alvos energéticos - osul.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmNrREtjWDI2VktEZmZnX0YwWnlGTThfbGdEaVUybGZIRDJPRWlmVzVOSHhwTWF2LThfOXM0UU1CLXI1TWtjWnFhSEhQcUtUellpSnQxaUVONWhQOWR4UHMtbTVkZlJQa3JlZ3VWWmZNTXEwZ19FT0ZkN29sTGVwdkJPOEVDM1dteGtHOTNVMngzQ2FLZFpMci1CREFHem1jTE9mbTZ2U1NDNzVEMTRMZXB5XzJqd2lWRlBDQzlYSjlyUS1UTU5ReNIByAFBVV95cUxQMmNrREtjWDI2VktEZmZnX0YwWnlGTThfbGdEaVUybGZIRDJPRWlmVzVOSHhwTWF2LThfOXM0UU1CLXI1TWtjWnFhSEhQcUtUellpSnQxaUVONWhQOWR4UHMtbTVkZlJQa3JlZ3VWWmZNTXEwZ19FT0ZkN29sTGVwdkJPOEVDM1dteGtHOTNVMngzQ2FLZFpMci1CREFHem1jTE9mbTZ2U1NDNzVEMTRMZXB5XzJqd2lWRlBDQzlYSjlyUS1UTU5ReA?oc=5",
-      "source": "osul.com.br",
-      "publishedAt": "2026-09-14T15:42:18Z",
-      "description": "Notícia publicada por osul.com.br. Abra o artigo para consultar os detalhes completos.",
+      "title": "Os Estados Unidos na África : impedir a emancipação, manter o domínio (1957-2026) - CADTM",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2hkMER3RllDOXZjUnRNLWdsSWgzRGdYWC0zamtaZHlBRS11X1VZc3FIWU9wZVZISGpfV3I3TGFpdUh3X2djNU0xdXZMNUFBekcyRkZSTjMwS043V2J4WkdXdzZGdjdKbThrYXdMVFZtWjROalNHQVJ3UWRiUklaOHI0SWpsUWVTeGZ4bU1RUTFSYXgtcHdQUUVPMXJNRXM?oc=5",
+      "source": "CADTM",
+      "publishedAt": "2026-09-14T13:28:47Z",
+      "description": "Notícia publicada por CADTM. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
