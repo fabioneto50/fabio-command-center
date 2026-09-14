@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:29:06.287210Z",
+  "updatedAt": "2026-09-14T03:29:49.421552Z",
   "health": [
     {
       "title": "Presidente do Amadora-Sintra: \"Há pessoas que chegam ao aeroporto e vêm para aqui\" - Observador",
@@ -15,8 +15,8 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTl9TUXN2NExwYmY3d051aFYzSzB5aDFzblFIalR4WEZjdms2eXBYOGlELVowcl96aXRLaUFyVjBWTko5NnhycFM1Y2VSTEtjbEtKU0JjVjFlbzUzdUZHXzNJNmIwbldXWU1zUFQwZkZMNHE0T2dzSkN2YnpFUV8xV3BFWldweVQ4RllsLWhTUC1VZ3JsU1I0VFQ1U3p4UDMwbFRRZHRLdTlKa3V4a2d5c3l0MkJZX21ZMDk1aTh2c0QwNW5qUkJDQ1JwUlQ1Y2ZtNlpKb0JWVHJJSnpUcEVVV3ZWa3UydHpkeTJvZVpiM2J5NXM?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-09-14T01:16:44Z",
-      "description": "Para termos as “contas certas” o acesso à Saúde é sacrificado como mostram todos os indicadores, sendo que a Saúde foi a principal bandeira eleitoral da AD em 2024.",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/809415942_1974745123913219_3499887152151081830_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=105&ccb=1-7&_nc_sid=cae128&_nc_ohc=dYlqu4tQ0PkQ7kNvwGBBlf2&_nc_oc=AdodHzm5J-QPze-VEk_hqM07zNzXoOnhJoyPzAHlKwtsttdINGU2kVfpgCg6rjljL-c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p9E8oQEjvooeOxGPyC0OyA&_nc_ss=7820f&oh=00_AQI4syAh76dbM_Y1y8sbyurEzNuv-_d_tgwUttrkZP5wsA&oe=6AAD14C6",
+      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/para-termos-as-contas-certas-o-acesso-%C3%A0-sa%C3%BAde-%C3%A9-sacrificado-como-mostram-todos-o/1475872871310658/"
     },
     {
@@ -47,13 +47,22 @@
       "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/ocorr-ncias/30005031/sapadores-de-santa-cruz-e-emir-acodem-a-doenca-subita.html"
     },
     {
-      "title": "Técnicos de saúde dão até 15 de setembro ao Governo ou param o país - healthnews.pt",
+      "title": "Técnicos de saúde dão até 15 de setembro ao Governo ou param o país - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3RCWFU2bkNDYTZFUHVSQ3kySzdqT256OTZaUU55dWlnd3FIT0Z5bE90U3ZlRlE1T1VBUnlmR0tHRlVmaGpqUGU2eWVyZUl5QnJucmVJemlPVVBveVk4czZkMUFRVWl6MUZsZTNiNFBQTnB5UHc3RmsyMHZpVkFFMUdZbDI0MTNRXy1EZWl6bjVqblZqajlpcGlSUWlTZw?oc=5",
-      "source": "healthnews.pt",
+      "source": "HealthNews",
       "publishedAt": "2026-09-13T09:39:35Z",
-      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/13/tecnicos-de-saude-dao-15-de-setembro-ao-governo-ou-param-o-pais/"
+    },
+    {
+      "title": "Google e Abbott apostam na saúde metabólica - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0w4eW0tUHVCRTl2REtnS0JwUDVxaWIwMHluWVY3R0NfMFNUckRia0NoaUJUSmdNZGZRNVZPQ1ltN21mZkpJQkszM0w5amZoZHFxY2taV1dGaV9KZk5OUTgxdUNZQTAwUzA1TElGVVlKNXV6b1hiRjBNaEdLQTRNbWJsSjE2c25mT3pkcV9JVjNCLTZQcnc?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-09-13T23:05:00Z",
+      "description": "Qwen ultrapassa rivais nos downloads | Starcloud angaria 250 milhões para centros de dados no espaço",
+      "image": "https://supertoast.pt/wp-content/uploads/2026/09/google-health-site.jpg",
+      "articleUrl": "https://sapo.pt/artigo/google-e-abbott-apostam-na-saude-metabolica-6aa72d5b5a67d4ba1d13e73a"
     },
     {
       "title": "Doença de Alzheimer: O que se sabe da doença e dos avanços científicos - tveuropa.pt",
@@ -65,24 +74,6 @@
       "articleUrl": "https://www.tveuropa.pt/noticias/doenca-de-alzheimer-o-que-se-sabe-da-doenca-e-dos-avancos-cientificos/"
     },
     {
-      "title": "'Eu fui salvo pelo gongo': Alex Escobar conta como episódio ao vivo levou à descoberta de doença rara e de um tumor - G1",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdW5vREd5LWFKU3hwekFFeXhfSWtXblFudTM5QzNmM3dYckZrbWU0NEpXTVlia0FTRXJBLWxZTUx4bGVXX3d4N2xXSzFWWi1JNVlMNTdhNmhVTFlVVkZBS05lOWR4ZEp1S2dsQUphYjhWQlEwaV84cDRWQlZuZmhkWFpWQkVuOWx3c0FZN2E3djU2TzhVd1JpOTduYmhQYXAyY3JIS1BmR2w3SW4tNHpNSVExQlNySUtZdnlnaFB0OHZXUHRVUUZ4a1RIcTRxQzdXRzVWR3IwWWhDNUkzbzF1cFZiZUtmUjlCR3ZZMXZkeDhkSzFNVS0xVGdBYVphQdIBjAJBVV95cUxQQ3dzQlNPQTJob0NVOXBSX3ZRV1hqS25qVlJHY0JZZHFlc0E1X0o1LUY0dzU2blZmc1k1ZlRObFZXRjFHLXlUQzI4WTF0TXVwWkZGNDFMXzZrdzM0Rm1NZGVtTjhoR0dxVGgyd3NPQUpaNF8zQXFRQzVnUDhXWUc0UGRlTFdqN29DMFlTSWhKUnNGLUdnRURCWTVGSnd0U2pSa1lDMjZvWFRHQzZrR2pDamFyNnBIVjdNVi0tVjljdmRYWE45RVdPT01heGE1WEJ4ZEllLWY1VjNpZnVqYXNwMFVsOFV2cFlYc3NPdkE4LUtKSWtwdDZTb190N19XMW44emJHSlZXQVVYMHdt?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-09-14T00:21:26Z",
-      "description": "Em entrevista, jornalista relata os momentos de incerteza até o diagnóstico e fala sobre a adaptação à nova rotina.",
-      "image": "https://s2-g1.glbimg.com/z7DhEjsWeN1wExibuH6_HBHjy5I=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/O/0D91gLQia45wZAcWVVVw/globo-canal-4-20260913-2000-frame-131366.jpeg",
-      "articleUrl": "https://g1.globo.com/fantastico/noticia/2026/09/13/eu-fui-salvo-pelo-gongo-alex-escobar-conta-como-episodio-ao-vivo-levou-a-descoberta-de-doenca-rara-e-de-um-tumor.ghtml"
-    },
-    {
-      "title": "Google e Abbott apostam na saúde metabólica - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0w4eW0tUHVCRTl2REtnS0JwUDVxaWIwMHluWVY3R0NfMFNUckRia0NoaUJUSmdNZGZRNVZPQ1ltN21mZkpJQkszM0w5amZoZHFxY2taV1dGaV9KZk5OUTgxdUNZQTAwUzA1TElGVVlKNXV6b1hiRjBNaEdLQTRNbWJsSjE2c25mT3pkcV9JVjNCLTZQcnc?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-09-13T23:19:34Z",
-      "description": "Qwen ultrapassa rivais nos downloads | Starcloud angaria 250 milhões para centros de dados no espaço",
-      "image": "https://supertoast.pt/wp-content/uploads/2026/09/google-health-site.jpg",
-      "articleUrl": "https://sapo.pt/artigo/google-e-abbott-apostam-na-saude-metabolica-6aa72d5b5a67d4ba1d13e73a"
-    },
-    {
       "title": "Um em cada quatro médicos tem mais de 65 anos e cerca de 5.000 vão aposentar-se até 2030 - RTP",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQU0tINl9JS3lZVTNUMkNsUXhTTXlhWm5aZDlWOUxrQnQxVzJST0EyRWhXSjlZTTFJR0dSNGpTeHU3V3R2dFlTMXB0bkhEZmhCY1NvZ1FUek5XdWpTbDNMNXZ1YzU1M2tON3dObGlicHUycXZMWmlsWHM4OTNsalRJZkZoYThTaXpuemVOeVl4bmltNTlyc3dENHdoNVdST0JtOWhPU0d6X1NKWGx2c3lLYnZBUExRS2JJQjNuSjVMRmFOVXNTLUFRMUt5ZWlFUFJNbDhVTlpPS2hrYjQ5ckUtX2F3endxRm1jV0Q2aWtZUUFuOWF4dVhWYzhWWUE1amxrUmwwMWItUFNrR1R1N203M0ZDSUR1Mm1ZODB2dExDai1yYWdfeTZKeXExandpU0JnSkZkVkdHazRtNUU?oc=5",
       "source": "RTP",
@@ -90,6 +81,15 @@
       "description": "Um relatório sobre recursos humanos em saúde divulgado esta terça-feira indica que aproximadamente um em cada quatro médicos tem mais de 65 anos. Este envelhecimento da classe irá resultar numa vaga de cerca de 5.000 aposentações até 2030.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/99/99a8afc10e7f944011983b5fd02788fd?w=860&q=90&rect=0,0,1200,658&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/pais/um-em-cada-quatro-medicos-tem-mais-de-65-anos-e-cerca-de-5000-vao-aposentar-se-ate-2030_n1470125?page=14&utm_campaign=fnf-11?_ga=2.92947417.576327143.1696238004-1127341509.1669044892"
+    },
+    {
+      "title": "'Eu fui salvo pelo gongo': Alex Escobar conta como episódio ao vivo levou à descoberta de doença rara e de um tumor - G1",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdW5vREd5LWFKU3hwekFFeXhfSWtXblFudTM5QzNmM3dYckZrbWU0NEpXTVlia0FTRXJBLWxZTUx4bGVXX3d4N2xXSzFWWi1JNVlMNTdhNmhVTFlVVkZBS05lOWR4ZEp1S2dsQUphYjhWQlEwaV84cDRWQlZuZmhkWFpWQkVuOWx3c0FZN2E3djU2TzhVd1JpOTduYmhQYXAyY3JIS1BmR2w3SW4tNHpNSVExQlNySUtZdnlnaFB0OHZXUHRVUUZ4a1RIcTRxQzdXRzVWR3IwWWhDNUkzbzF1cFZiZUtmUjlCR3ZZMXZkeDhkSzFNVS0xVGdBYVphQdIBjAJBVV95cUxQQ3dzQlNPQTJob0NVOXBSX3ZRV1hqS25qVlJHY0JZZHFlc0E1X0o1LUY0dzU2blZmc1k1ZlRObFZXRjFHLXlUQzI4WTF0TXVwWkZGNDFMXzZrdzM0Rm1NZGVtTjhoR0dxVGgyd3NPQUpaNF8zQXFRQzVnUDhXWUc0UGRlTFdqN29DMFlTSWhKUnNGLUdnRURCWTVGSnd0U2pSa1lDMjZvWFRHQzZrR2pDamFyNnBIVjdNVi0tVjljdmRYWE45RVdPT01heGE1WEJ4ZEllLWY1VjNpZnVqYXNwMFVsOFV2cFlYc3NPdkE4LUtKSWtwdDZTb190N19XMW44emJHSlZXQVVYMHdt?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-09-14T00:21:26Z",
+      "description": "Em entrevista, jornalista relata os momentos de incerteza até o diagnóstico e fala sobre a adaptação à nova rotina.",
+      "image": "https://s2-g1.glbimg.com/z7DhEjsWeN1wExibuH6_HBHjy5I=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/O/0D91gLQia45wZAcWVVVw/globo-canal-4-20260913-2000-frame-131366.jpeg",
+      "articleUrl": "https://g1.globo.com/fantastico/noticia/2026/09/13/eu-fui-salvo-pelo-gongo-alex-escobar-conta-como-episodio-ao-vivo-levou-a-descoberta-de-doenca-rara-e-de-um-tumor.ghtml"
     },
     {
       "title": "Treinadora do Burnley faz relato arrepiante após sofrer grave problema de saúde: \"Pensei que ia morrer\" - SÁBADO",
@@ -100,11 +100,11 @@
       "image": ""
     },
     {
-      "title": "14 SEP. | Declaração «SNS – 47 anos a garantir o acesso à Saúde aos portugueses» - Partido Comunista Português",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1d4ZlNRTXZrQ0ZPOTNzTDFJMW5UMzQxQlFucDVSaWJHdWRmLTB2VWN4TDYwQVJFX0JZRnBQSW83eVc0OWlINWZyMDMxbUphQ2tDSW80dm1LRDd0NzZCdnVfcUxnLWZheUw2TVhtQl9OMl8yYWxKMWNWTEZEX3lQYm9UQ0x6Z3kyTjRMZ1FFb0FHbjZkaEd1VXdHRnNOZk1LWGc?oc=5",
-      "source": "Partido Comunista Português",
-      "publishedAt": "2026-09-13T18:36:51Z",
-      "description": "Notícia publicada por Partido Comunista Português. Abra o artigo para consultar os detalhes completos.",
+      "title": "\"Vou-te abrir a cabeça\": homem provoca caos no hospital e é baleado pela PSP - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM3YwWXdHTEpnbl9zMW5vc2tTV3VzLVBOSVJGalZRZ2UzNE80LU1MR1Joa1lscDhIT3BwUXNoVXJIcThpQ2ViOGpaOTl4RDR1eEowcENJalVnaFk4cFdKRVAzQW1PbEpQMllXRzZ3aDZVOTFNeXM4Wm9KdzJaVHFzeU9TbTcxbGxWXzM0d1NOUUwwMVpUb3F0bDFiNE5SYXJ5Wk1ibzZUcEk4eEdQV1AyaXh4NGRCMmZ3Sk9vRjBOcHNNOFhFV2tCem8zZ0hfTmlWNGdtSlU4bXQ1cGdlOWFIUw?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-12T14:21:00Z",
+      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -146,15 +146,6 @@
       "articleUrl": "https://ansabrasil.com.br/amp/brasil/noticias/mundo/2026/09/13/russia-nao-descarta-cupula-trilateral-com-ucrania-e-eua-em-outubro_a303787f-ace3-43fe-aa22-475f0d163613.html"
     },
     {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-09-13T12:28:00Z",
-      "description": "Porta-voz afirma que Moscou não descarta a retomada das conversas, enquanto negociações seguem sem um acordo sobre os principais pontos do conflito",
-      "image": "https://www.estadao.com.br/resizer/v2/663Z67WWDBFFLCHLFJHXP7UP4Y.jpg?quality=80&auth=9918a62bc9eae319874be80f073f2b8d78459ff9afd950b4923b50acb58b12d6&width=1200",
-      "articleUrl": "https://www.estadao.com.br/amp/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
-    },
-    {
       "title": "Conflito no Médio Oriente na ementa do primeiro dos dois dias de cimeira dos BRICS em Nova Deli - RFI",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGFqMUk5WGxmci0zUzlLQnQwTG5wbGpFNGVpMHBCem5pWVF1aEVZcUdPVTVhNEhENnVJVEw4TDJFOFlxUUJERGtoZGQ1OWhMU1lNU0RfT3FpR1RHMkxJQTg2ckpYZ1BpQVN3cFl5Sk5xSFNkaDhQSVJzTlc0SFlYNW9vLTYtaUE3Ynd4SWlURk1lczZKV0p6eGw1OHNGWG9TN0swdXZFT1Nsa0VEbGxZZW5BQXBKOURDM0FFb3pYeF9EN2tkTWJiR0E4QjBpRXZfTDZ3?oc=5",
       "source": "RFI",
@@ -162,6 +153,15 @@
       "description": "Decorre este sábado e amanhã em Nova Deli a 18a cimeira dos BRICS, bloco inicialmente formado pelo Brasil, Rússia, Índia, China e África do Sul e que abrange um total de 11 países. Na sua declaração…",
       "image": "https://s.rfi.fr/media/display/454b4bbe-adfb-11f1-b404-005056bfb2b6/w:1280/p:16x9/2026-09-11T142648Z-80287782-RC2ZGNA1LEQI-RTRMADP-3-BRICS-SUMMIT.jpg",
       "articleUrl": "https://www.rfi.fr/pt/mundo/20260912-conflito-no-m%C3%A9dio-oriente-na-ementa-do-primeiro-dos-dois-dias-de-cimeira-dos-brics-em-nova-deli"
+    },
+    {
+      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-09-13T12:28:00Z",
+      "description": "Porta-voz afirma que Moscou não descarta a retomada das conversas, enquanto negociações seguem sem um acordo sobre os principais pontos do conflito",
+      "image": "https://www.estadao.com.br/resizer/v2/663Z67WWDBFFLCHLFJHXP7UP4Y.jpg?quality=80&auth=9918a62bc9eae319874be80f073f2b8d78459ff9afd950b4923b50acb58b12d6&width=1200",
+      "articleUrl": "https://www.estadao.com.br/amp/internacional/kremlin-diz-que-negociacoes-sobre-guerra-na-ucrania-podem-ser-retomadas-em-outubro-npr/"
     },
     {
       "title": "Outubro pode trazer novo diálogo: Ucrânia prepara negociações com Rússia e Estados Unidos - SIC Notícias",
@@ -173,15 +173,6 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-12-ucrania-prepara-regresso-a-mesa-das-negociacoes-com-russia-e-estados-unidos-em-outubro-e580bec1"
     },
     {
-      "title": "EUA podem continuar no Irã e \"ficar com o petróleo\" após guerra, diz Trump - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYU0tUEk2NDhac1BZenVoazdnaHFRdC1XVU9KdGNMUm5ubHNaVndHdzBRSngtTXFDd1Zkb3phelB6dU5uVWNpUjdJV1c3WFM0YmJiM1J5S2dSbTg2ZW9TMlFxbGQxeUJSMWJ6aVRQYmhuaGJtZ2VJdHNud1BnUEJoZ2h4VHZpN1BYWkJJZkk0LUMza1lZTE85VmFKZFp5SC1oYTJLcFJiZm1QS2NObER0T3N5dFRfZw?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-09-13T18:42:30Z",
-      "description": "Presidente americano sugeriu que Washington poderia usar reservas petrolíferas de Teerã, como fez na Venezuela",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/TRUMP-IRLANDA-OPEN.jpg?w=960&h=540&crop=1",
-      "articleUrl": "https://www.cnnbrasil.com.br/internacional/eua-podem-continuar-no-ira-e-ficar-com-o-petroleo-apos-guerra-diz-trump/"
-    },
-    {
       "title": "Cimeira dos BRICS: Líderes apelam a contenção máxima no Médio Oriente e rejeitam sanções unilaterais - Diário de Notícias",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVQ1NTlkQUd0N0pTWjRzcFZxc2dXLXhhS290SThVYWUwM0tYLTFUeVNEYm0xSXRjVk9FQ2xwd20yN1NMaUFTRWFTdWc4S01JdURzM3Bqdkhqc1VkT2tQWVVFSWVhZy1HOENnRGZtaWVLdTB3NDc3Vk5MRm5Yb1dVTXNoX212TEEyV09sZmlKeVF3eTN5OUFGU3psMGItaF9NNlcyMmZlUzlkWG80MHZ6bHVKRUppNWE3b1lOejhmTFgwdw?oc=5",
       "source": "Diário de Notícias",
@@ -189,6 +180,15 @@
       "description": "Reunidos em Nova Deli, os 11 líderes do bloco dos BRICS convergiram este sábado, 12 de setembro, num apelo urgente à \"contenção máxima\" face à escalada bélica n",
       "image": "https://media.assettype.com/dn%2F2026-09-12%2Fgxvezfj6%2FDOC.20260912.47762423.13233968.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/internacional/cimeira-dos-brics-lderes-apelam-a-conteno-mxima-no-mdio-oriente-e-rejeitam-sanes-unilaterais"
+    },
+    {
+      "title": "EUA podem continuar no Irã e \"ficar com o petróleo\" após guerra, diz Trump - cnnbrasil.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYU0tUEk2NDhac1BZenVoazdnaHFRdC1XVU9KdGNMUm5ubHNaVndHdzBRSngtTXFDd1Zkb3phelB6dU5uVWNpUjdJV1c3WFM0YmJiM1J5S2dSbTg2ZW9TMlFxbGQxeUJSMWJ6aVRQYmhuaGJtZ2VJdHNud1BnUEJoZ2h4VHZpN1BYWkJJZkk0LUMza1lZTE85VmFKZFp5SC1oYTJLcFJiZm1QS2NObER0T3N5dFRfZw?oc=5",
+      "source": "cnnbrasil.com.br",
+      "publishedAt": "2026-09-13T18:42:30Z",
+      "description": "Presidente americano sugeriu que Washington poderia usar reservas petrolíferas de Teerã, como fez na Venezuela",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/TRUMP-IRLANDA-OPEN.jpg?w=960&h=540&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/eua-podem-continuar-no-ira-e-ficar-com-o-petroleo-apos-guerra-diz-trump/"
     },
     {
       "title": "Kremlin não descarta retomar negociações trilaterais com Ucrânia em outubro - Folha PE",
