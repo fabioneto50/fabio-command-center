@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-15T00:36:43.578251Z",
+  "updatedAt": "2026-09-15T01:30:31.074825Z",
   "health": [
+    {
+      "title": "Hospital de Santo António. Ortopedia e neurocirurgia paradas em horas extra - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa0lkTEFmY3JEdDY4Vm9MZDhRTmh6d2RSakZPZjJJcGhZSWx6X0pNTFl1aFp0VUJ2R2xTcDR2TWNfQ1hELVdybWc0Z3kxMWV6ZGpBZksxWlFRRDhuSHhRUW0zWGZ0NHlIV05aSVVMYXNfUXVjWWhuTmhNZzJ6MXdYdUJrRU5Fa0lnNTBvbmJBQVFFYWhOdURlREVrNkJFSDQydmNKT2U0VkpnOWJnM3oyU2wxbVRsazg?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-14T20:44:47Z",
+      "description": "Foram suspensas todas as operações de Ortopedia e Neurocirurgia em horas extra, no Hospital de Santo António, no Porto.",
+      "image": "https://cdn-images.rtp.pt/icm/images/6d/6d6be7b55cc4600e17859cc7fdca7448_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santo-antonio-ortopedia-e-neurocirurgia-paradas-em-horas-extra_v1765428"
+    },
     {
       "title": "A IA na saúde tem de prestar contas - Observador",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNXd6YXJJYXZmcWp2ZTl0OGgzcW1Sbl8wWTM4bFFtZGQzakR3MFdBcTk1aXZyS2xpM01zRjlRdW1Zb3FKcG1SdTRGQWNkNHRfS2FDeHFOSl9JLXJwSXd6SjJDUUdFMWRoNjlDY2NkMmZsU19R?oc=5",
@@ -11,29 +20,20 @@
       "articleUrl": "https://observador.pt/opiniao/a-ia-na-saude-tem-de-prestar-contas/"
     },
     {
-      "title": "Hospital Amadora-Sintra. \"Turismo de saúde é um problema\" - RTP",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGV4TFR1M08tREhReFluLTBValJVekJzRGp2WDdvRjE5c09uUlBPeGJTZ1pFZFdJWnNWd2I3NDM2dWZsX2E3d1NDS3VaZHBZSnZGc01OWW1pYmZweFNwNUFlR1VNbEN6eE1ZME5Kby1NWDZNV0s0ZVkzQzE4NGZra25ZVFhQY0tBM3VmMHRNZDVweml2Y2lxamlZNzk?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-14T20:42:47Z",
-      "description": "O hospital Amadora-Sintra revelou que 40 por cento dos seus utentes do serviço de obstetrícia são estrangeiros.",
-      "image": "https://cdn-images.rtp.pt/icm/images/0b/0bc6cde4c3d6db73f51e3c3154abbf6a_N.jpg",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-amadora-sintra-turismo-de-saude-e-um-problema_v1765426"
-    },
-    {
-      "title": "Médico obstetra impedido de fazer ecografias para o SNS fez quase 5000 para o privado | Saúde - Público",
+      "title": "Médico obstetra impedido de fazer ecografias para o SNS fez quase 5000 para o privado | Saúde - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjVxX3ZyLWkxQmxQQ0MwbVBkR1RQb0hRbVNvX29DZEpLUDFqMXpMOUpwdnFrdW9RdEZsTk5yLUxlQTZudVdMV2ctbjFIUDBwZHVucXVVS3BQckREdW1MbDdGR0RJQkJaSmV0bTZydXJhRUp5SHVnWnVhYTNTOVA4ejJOTnJvZVJ4cl9KZ2YyWWx5WEhBUzdpMFRqeW5QWTFBSjNiTU5LeG1zZm9PUVp4cEQwZjdZUUtGVU12Y0ZfUl83djA?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-14T15:17:54Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/14/sociedade/noticia/medico-impedido-ecografias-obstetricas-sns-fez-quase-5000-privado-2187820"
     },
     {
-      "title": "Manifestações e greve contra \"colapso real\" da saúde devido à crise migratória em Ceuta - jn.pt",
+      "title": "Manifestações e greve contra \"colapso real\" da saúde devido à crise migratória em Ceuta - Jornal de Notícias",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTG82S0JBOFNPdmwtT3BXTTVrOWh5X0hka1JfajNpY25iSnk4QUZqZ3pyeGxsT1FQTFdIb2g4OHY2Mmp6d1AwWndOR3NfUndDTTVUWXNET0ZOMkhzc0k2eXlJbGpFVGxGeC12VGNmRnV0ckViYTRKWUQxREVvcFI3UWRTYVhFN204Y1VFblhkUTJXMTYwdHJQdG1ERy1oaS0zbG5CTFhSV2hBT1NvNXFlcFcxZnB4X0kyN3laZzBuYWVBdlnSAbcBQVVfeXFMT3JVZWNkMEk4Y3VjZ2dVX0VlbjdPOXpkbG5RS2FReEdsdVZPMmd2ZWhuWi0zTDhOWGlOYmRRMnJSTGpiS2FpWHVheTBaaXBZNkpIZkpaZkJCa3B5aFhQY3ZHVWxUN3JRNW5pRHlzSm5fV3pWU3ROemYtZjNnZHA2RnZwTUFENW5yZHpBZ2RtNWxISGQwOG5aVHFPTmFzRzZJUkNQZVNZc1djQnRhUkEzUkpDRC1LdnBj?oc=5",
-      "source": "jn.pt",
+      "source": "Jornal de Notícias",
       "publishedAt": "2026-09-14T22:25:00Z",
-      "description": "Notícia publicada por jn.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.jn.pt/mundo/artigo/manifestacoes-e-greve-contra-colapso-real-da-saude-devido-a-crise-migratoria-em-ceuta/18126731"
     },
@@ -65,13 +65,13 @@
       "articleUrl": "https://omirante.pt/sociedade/2026-09-14-regulador-aponta-falhas-graves-no-acompanhamento-de-doentes-no-hospital-vfx-cce014d6"
     },
     {
-      "title": "A afirmação internacional da Medicina Respiratória nos Cuidados de Saúde Primários portugueses - Just News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjR1enp5ejRubHdET2RkTHhQYzBJU01STVpvYlh6QU1ZQVN0WWt4bV92bFQzYkIxVlNWNkhnYXpfRlpEMXgwRjNSeXB5T1lJRWVSRG5LVklDU3ZpMWxXRWdPVWdhRG03LUZ4TEFWMG4xR3NWdmZteXQ3QVR5Tk9sWjU4c01PTkdIY3JweVUybjZyWFNRSWdMUHlyZlZ4aUVnOW1aSTMtTkRwQ2hpSktWclNIcUNwNE04YkU5MHBSRGUtZ2dXQXc?oc=5",
-      "source": "Just News",
-      "publishedAt": "2026-09-14T16:38:03Z",
-      "description": "Quando, em junho deste ano, profissionais de saúde de todo o mundo se reuniram em Túnis para a 13.ª Conferência Mundial do International Primary Care Respiratory Group (IPCRG), que coincidiu com a celebração dos 25 anos desta organização, tornou-se evidente o crescente envolvimento de vários colegas portugueses em projetos internacionais dedicados à Medicina Respiratória nos…",
-      "image": "https://www.justnews.pt/documentos/image/artigos/a-afirmacao-internacional-da-medicina-respiratoria-nos-cuidados-de-saude-primarios-portugueses_3.jpg",
-      "articleUrl": "https://www.justnews.pt/artigos/a-afirmacao-internacional-da-medicina-respiratoria-nos-cuidados-de-saude-primarios-portugueses/"
+      "title": "Angola é segundo país africano com mais casos recentes de mpox - OMS - Lusa",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHJURGRzTEJ2cjRoa2pQOGNNREZXRF9LdF9CT3RWajJXTS0wRmQxZmxVeUpWNzJiQWpYd1VaZ1MyMjQ1V1VsaG5Cb0wtdTVFSnprMUZoWWstVnh6RWgxbUhQMEJua0s2amw0V3kyYVBwOGxlUVpkMmJITDhpM1FDUTVyc0dHdzE4SUdHR1gwVFlIX2VhN3ZVTWZxTmtWdGpReW9aNUpERHBVcW9GLTZCbWwxcnJncFBtc3FiNV9vNUdPOVdZSXhESllJbkFiam8?oc=5",
+      "source": "Lusa",
+      "publishedAt": "2026-09-14T19:16:00Z",
+      "description": "Angola registou 184 casos de mpox entre 06 de julho e 16 de agosto, o segundo número mais elevado em África, elevando para 274 o total de infeções e uma morte, segundo a Organização Mundial da Saúde (OMS).",
+      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_43681527_366155510702774.JPG",
+      "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-09-14/47774739/angola-%C3%A9-segundo-pa%C3%ADs-africano-com-mais-casos-recentes-de-mpox-oms"
     },
     {
       "title": "“O turismo de saúde é um problema transversal ao SNS – e já denunciado” - CNN Portugal",
@@ -83,21 +83,13 @@
       "articleUrl": "https://cnnportugal.iol.pt/videos/o-turismo-de-saude-e-um-problema-transversal-ao-sns-e-ja-denunciado/6aa80a2b0cf22b9f8904ba63"
     },
     {
-      "title": "Mpox: Portugal registou transmissão comunitária e 66 casos de infeção recentes - OMS - lusa.pt",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYmhQT1otWTczUkx4TUY4TDF5aURXRTZLSjNVeGp6OFJBYzJRTmVUZFNCTVAyM19nSWVOZVhuWlNfU2htNU9mWXVaMUlHSHA0UG1rT3VnN2U4bmRDSUI4LXRkREw5b21WbWdGSzFpM29Mdm5oV2xvUHFuNEJVVk4tMXlPclQ3S2RBUVZGZkdEak51ZHFfSWRnc1ZMb19GcEUwOWEtTTNQVy1vWnpXMXdDREE2LXJMMVczQjBBdnBzaVhBcEhtTUtxd2FWSzdJMFNhU1hvLQ?oc=5",
-      "source": "lusa.pt",
-      "publishedAt": "2026-09-14T19:43:00Z",
-      "description": "Portugal registou transmissão comunitária da subvariante lb do vírus mpox, tendo reportado um total de 66 casos de infeção dessa linhagem recentemente, indica um relatório da Organização Mundial da Saúde (OMS) hoje divulgado.",
-      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_35180756_815241_07012022045100.JPG",
-      "articleUrl": "https://www.lusa.pt/article/47774820/mpox-portugal-registou-transmiss%C3%A3o-comunit%C3%A1ria-e-66-casos-de-infe%C3%A7%C3%A3o-recentes-oms"
-    },
-    {
-      "title": "Hospital de Santo António. Ortopedia e neurocirurgia paradas em horas extra - RTP",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa0lkTEFmY3JEdDY4Vm9MZDhRTmh6d2RSakZPZjJJcGhZSWx6X0pNTFl1aFp0VUJ2R2xTcDR2TWNfQ1hELVdybWc0Z3kxMWV6ZGpBZksxWlFRRDhuSHhRUW0zWGZ0NHlIV05aSVVMYXNfUXVjWWhuTmhNZzJ6MXdYdUJrRU5Fa0lnNTBvbmJBQVFFYWhOdURlREVrNkJFSDQydmNKT2U0VkpnOWJnM3oyU2wxbVRsazg?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-14T20:44:47Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "title": "Hospital Amadora-Sintra. \"Turismo de saúde é um problema\" - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGV4TFR1M08tREhReFluLTBValJVekJzRGp2WDdvRjE5c09uUlBPeGJTZ1pFZFdJWnNWd2I3NDM2dWZsX2E3d1NDS3VaZHBZSnZGc01OWW1pYmZweFNwNUFlR1VNbEN6eE1ZME5Kby1NWDZNV0s0ZVkzQzE4NGZra25ZVFhQY0tBM3VmMHRNZDVweml2Y2lxamlZNzk?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-14T20:42:47Z",
+      "description": "O hospital Amadora-Sintra revelou que 40 por cento dos seus utentes do serviço de obstetrícia são estrangeiros.",
+      "image": "https://cdn-images.rtp.pt/icm/images/0b/0bc6cde4c3d6db73f51e3c3154abbf6a_N.jpg",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-amadora-sintra-turismo-de-saude-e-um-problema_v1765426"
     },
     {
       "title": "Como se trava o \"turismo de saúde\" no SNS? - Observador",
@@ -105,6 +97,14 @@
       "source": "Observador",
       "publishedAt": "2026-09-14T17:25:59Z",
       "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Transmissão comunitária e 66 novos casos de infecção por mpox em Portugal - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkJRQVBncFZndzBZcGNYN25XM0M2cGpGVnJueWFlWUlBWW42STNPQXd2YkdRTWFxQzBLUFF6QnFudHItSjZtNUVXSTJUcWwtMTZtU3JDY0lmVVZlUTlra1JrT043b212YzcxSHh6aHJqcHFCdjV6RHd4T3diZDE2bVNmZnhzNlN2TDMwaVRxZHN0R3kzY0k4ak84VmNGZmpFZzRIYUFZT2pVNE0tRWpkWVFqN0h6a0NJc0pYbTlYNDdRTG9zZFdfd1VqQW5hV2wxdDkyTGF4M05TcXdPdE5ybFRmNGRMbEk?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-14T19:57:37Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,18 +119,18 @@
       "articleUrl": "https://amp.dw.com/pt-br/ue-quer-ampliar-presen%C3%A7a-no-%C3%A1rtico-diante-de-r%C3%BAssia-e-trump/a-79266910"
     },
     {
-      "title": "Canadá procura uma “aliança única” com a União Europeia, de costas para os EUA - Público",
+      "title": "Canadá procura uma “aliança única” com a União Europeia, de costas para os EUA - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSXJvUkpOUWdua09odHMxU1BCTU5yRVp2b0tNWDNYNmtqOVlKWVRodFg4RGdVTndIclZfU1VxQ21aSlJCVnhyZi01OTFFek9qOXdaTE9nLTJ3Q1BoT2ktSEIweGRYM0lkc0VzQ05lT1BrV01taHN1T2pXUXZZVlhhdGo5OWUzeU9KZzIwWnJrbjJTWHBSd3lmOFBGRTlaQ1JIbE5VYVc5RTY2Ui1fc25v?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-14T19:31:29Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/14/mundo/noticia/canada-procura-alianca-unica-uniao-europeia-costas-eua-2188041"
     },
     {
-      "title": "Ataque russo perto da Polónia: \"É um ataque às portas da União Europeia\" - Now Canal",
+      "title": "Ataque russo perto da Polónia: \"É um ataque às portas da União Europeia\" - nowcanal.pt",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0dwVy16NkM1MnZxS2FnZy1vN0JTMUhOenhnY0Y4U0N6SUhSRjZOMnYzbXVmc1BWMVNnOGl3T0RJOHBTbW1LODdyNTN2MlNLLXVtUzZsN2Q5bFh0M0JQUTBpcG8zdWJqVVQ4TnJFYUt5UG5NQ2lDa2l0TzM0Ni1BNjA1TzVhVExjcXlxSWZhT3NOLS1LcFRhc1ctZWJrWkV4LWVmTDhkZ0pPRXJ6aGc?oc=5",
-      "source": "Now Canal",
+      "source": "nowcanal.pt",
       "publishedAt": "2026-09-14T21:53:00Z",
       "description": "Germano Almeida sublinhou que a agressão sinaliza uma escalada direta de Vladimir Putin contra o espaço e a dissuasão europeus, afirmando que 'a dissuasão europeia falhou'.",
       "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-14-23-52-45-62582.jpg",
@@ -155,13 +155,13 @@
       "articleUrl": "https://tvi.iol.pt/noticias/guerra/ucrania/o-problema-nao-e-o-irao-e-a-ucrania-trump-acusa-zelensky-de-estar-a-magoar-o-mundo-e-faz-lhe-um-pedido-a-medida-de-putin/20260914/6aa79d81d34e53c759c71fee"
     },
     {
-      "title": "Rússia e Ucrânia aceitam parar ataques ao setor de energia, diz Trump; Kiev duvida - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-09-14T15:53:00Z",
-      "description": "Presidente faz anúncio enquanto guerra no Oriente Médio pressiona preço do petróleo e seu eleitorado",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894009716aa8178bd7c48_1789400971_3x2_rt.jpg",
-      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
+      "title": "Zelensky diz que Ucrânia tomará medidas de desescalada se Rússia fizer o mesmo - Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWRhaXNQZTQ4OXM4bFluWVRncEd5NWFyR21pbUFsQXV5SzRNTlpOTko0QVJaMmZCeUFMRGpITFhuNXZpUGpRWnUzSXVBZFpReUNoWm11VzdpME1jcmJKQjQxTVREdXQ2dmplOUtXb0VxQ2JHTjBib1JNeC05Y20wb05qTGlzVHpOM0RCWDNTekVPVlkyTlBIZDd6V3l4VWtmUWk5bnpqaWU1bDB0Z21ydNIBsAFBVV95cUxNcWRhaXNQZTQ4OXM4bFluWVRncEd5NWFyR21pbUFsQXV5SzRNTlpOTko0QVJaMmZCeUFMRGpITFhuNXZpUGpRWnUzSXVBZFpReUNoWm11VzdpME1jcmJKQjQxTVREdXQ2dmplOUtXb0VxQ2JHTjBib1JNeC05Y20wb05qTGlzVHpOM0RCWDNTekVPVlkyTlBIZDd6V3l4VWtmUWk5bnpqaWU1bDB0Z21ydA?oc=5",
+      "source": "Folha PE",
+      "publishedAt": "2026-09-14T21:31:29Z",
+      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.folhape.com.br/noticia/amp/512535/zelensky-diz-que-ucrania-tomara-medidas-de-desescalada-se-russia/"
     },
     {
       "title": "Rússia diz que China e Índia se oferecerem para ajudar com negociações com a Ucrânia - SIC Notícias",
@@ -182,6 +182,15 @@
       "articleUrl": "https://www.terra.com.br/noticias/mundo/paises-pedem-que-ue-reforce-presenca-no-artico-diante-de-ameacas-da-russia,5e7e4e1b5859087c2c3386a62c84be42odp3mhvz.html"
     },
     {
+      "title": "Rússia e Ucrânia aceitam parar ataques ao setor de energia, diz Trump; Kiev duvida - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-09-14T15:53:00Z",
+      "description": "Presidente faz anúncio enquanto guerra no Oriente Médio pressiona preço do petróleo e seu eleitorado",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894009716aa8178bd7c48_1789400971_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
+    },
+    {
       "title": "Trump: Rússia e Ucrânia concordam em não atacar instalações energéticas - Metrópoles",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGU5bDJIS0hMbmdBcjVsd0JWeklTbTQzOFVLNkM4U1NPbzk1OFJwdDRJQWRmOHphNFZOQVlpZHc3V2p5czZPQzZPRHNWMnIxalZRUWZvNUpYbkZiZkNOR0NsSVUyLTB0SDU3WGg2Z1I3NXFGczJibl9DMnFXZjM3cUxOTllxSEl1ZlBkM1lRNzdMODNhQ29oc3AwcDlCR0Q3cDUxOUlB?oc=5",
       "source": "Metrópoles",
@@ -195,9 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1NfbkFpUHc0QjVWRjZoMU9nUFdVc2hnMnFycVVPQWZaZ2g1Y3lqV0h0NWlkRWhVOFZzOU5RUUNncVNYdU5KMlJhNFZ4eUpmcVlKOEVaTHB0OUFUTXhRa29rYXNNZWFSNHYzaHZyN0x1X3Y3WEhvSGpCUUc2czNldlZDUkctM19nUXZqLS1qanFDUGtYZTRVclZOTTBpX3lpaTZvT01KWlZoVkd3?oc=5",
       "source": "Transmissão Política",
       "publishedAt": "2026-09-15T00:26:00Z",
-      "description": "A alta do petróleo após a guerra contra o Irã contradiz Trump. Brent havia recuado depois dos ataques ucranianos a refinarias russas.",
-      "image": "https://transmissaopolitica.com.br/wp-content/uploads/2025/03/trump-e-zelesky-e1745009663694.jpeg",
-      "articleUrl": "https://transmissaopolitica.com.br/politica-internacional/2026/09/14/alta-petroleo-guerra-ira-trump-ucrania/"
+      "description": "Notícia publicada por Transmissão Política. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Rússia não descarta cúpula trilateral com Ucrânia e EUA em outubro - ANSA Brasil",
@@ -205,14 +213,6 @@
       "source": "ANSA Brasil",
       "publishedAt": "2026-09-13T13:43:21Z",
       "description": "Notícia publicada por ANSA Brasil. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-09-13T12:28:00Z",
-      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
