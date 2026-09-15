@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-15T02:30:16.035573Z",
+  "updatedAt": "2026-09-15T03:30:17.870547Z",
   "health": [
+    {
+      "title": "Mpox. Portugal registou transmissão comunitária e 66 casos de infeção recentes, de acordo com a OMS - Observador",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEM2RUF6YUdqeXJnNXd6LWlkTHBuYVFPTmN3VVFneEtYS1hwUDlrajNpdS1HTmhWWERpcnNzTTk3ZHkwMUZyYXVFWDJqZ1lNZEFRdVhucUlXQy1RNXFpSmExQTV2OHB0eUIwUXV6aHYtOUNDNUdkS2tQTlB4bjVKMk1WaEp6emh2TUZra2NZU09Qa0g5TmxILVFvbVcxemF1Q0ZEa1AtZWtLZUtIYUhuc1YxakJRMmxZNHFreGxNZjR3RUJvUXhXcUlvOA?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-14T21:20:26Z",
+      "description": "Espanha, França, Portugal e Alemanha entre países europeus com maior número cumulativo de casos. Em agosto, a OMS manteve o risco do vírus como moderado, com novos surtos reportados em vários países.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F02%2F22210237%2F35180756.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/14/mpox-portugal-registou-transmissao-comunitaria-e-66-casos-de-infecao-recentes-de-acordo-com-a-oms/"
+    },
     {
       "title": "Hospital de Santo António. Ortopedia e neurocirurgia paradas em horas extra - RTP",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa0lkTEFmY3JEdDY4Vm9MZDhRTmh6d2RSakZPZjJJcGhZSWx6X0pNTFl1aFp0VUJ2R2xTcDR2TWNfQ1hELVdybWc0Z3kxMWV6ZGpBZksxWlFRRDhuSHhRUW0zWGZ0NHlIV05aSVVMYXNfUXVjWWhuTmhNZzJ6MXdYdUJrRU5Fa0lnNTBvbmJBQVFFYWhOdURlREVrNkJFSDQydmNKT2U0VkpnOWJnM3oyU2wxbVRsazg?oc=5",
@@ -9,15 +18,6 @@
       "description": "Foram suspensas todas as operações de Ortopedia e Neurocirurgia em horas extra, no Hospital de Santo António, no Porto.",
       "image": "https://cdn-images.rtp.pt/icm/images/6d/6d6be7b55cc4600e17859cc7fdca7448_N.jpg",
       "articleUrl": "https://www.rtp.pt/noticias/pais/hospital-de-santo-antonio-ortopedia-e-neurocirurgia-paradas-em-horas-extra_v1765428"
-    },
-    {
-      "title": "A IA na saúde tem de prestar contas - Observador",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNXd6YXJJYXZmcWp2ZTl0OGgzcW1Sbl8wWTM4bFFtZGQzakR3MFdBcTk1aXZyS2xpM01zRjlRdW1Zb3FKcG1SdTRGQWNkNHRfS2FDeHFOSl9JLXJwSXd6SjJDUUdFMWRoNjlDY2NkMmZsU19R?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-14T23:03:20Z",
-      "description": "Cada investimento público em IA devia vir acompanhado de informação simples: o problema que procura resolver, quanto vai custar e como será avaliado.",
-      "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F14173727%2Fsergiolaranjo-sd-1.jpg",
-      "articleUrl": "https://observador.pt/opiniao/a-ia-na-saude-tem-de-prestar-contas/"
     },
     {
       "title": "Médico obstetra impedido de fazer ecografias para o SNS fez quase 5000 para o privado | Saúde - Público",
@@ -56,9 +56,9 @@
       "articleUrl": "https://www.cgtp.pt/cgtp-in/areas-de-accao/politicas-sociais/saude/22764-no-seu-aniversario-e-urgente-e-necessario-salvar-o-sns"
     },
     {
-      "title": "Regulador aponta falhas graves no acompanhamento de doentes no Hospital VFX - omirante.pt",
+      "title": "Regulador aponta falhas graves no acompanhamento de doentes no Hospital VFX - O Mirante",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWYySDFFUi1xUUc2eUs1SHQ5VklYc1l2SnN6QWdkaWxNTXVxM3VseDBtUEpYWWR0OHRxREU4VXdLRHU4MzFyVzF2Snp1NzZhTDhseng1RXNsMjR2NUppS2NFNVk1a2xVSHlMdldiQnA2SlJ0SXBJSjhjRFJsNWJsdi13dF94cENCWU44QV9nREV4dzNnUW02bDJXX2pheXNZemxZWDREaXlDN3IwZjNpbUpCU1VSSnUwSjVsOFdIY3ZpQlk?oc=5",
-      "source": "omirante.pt",
+      "source": "O Mirante",
       "publishedAt": "2026-09-14T17:00:00Z",
       "description": "Entidade Reguladora da Saúde exige que hospital altere procedimentos internos para melhorar o acompanhamento dos doentes internados em Vila Franca de Xira. Num dos casos uma mulher com doença oncológica morreu sem que os familiares a tivessem podido visitar.",
       "image": "https://images.impresa.pt/mirante/2026-05-20-pag-11---bacteria-hospital-vfx.jpg-bd90575e",
@@ -83,20 +83,20 @@
       "articleUrl": "https://www.cmjornal.pt/sociedade/detalhe/hospital-de-santo-antonio-corta-nas-cirurgias-adicionais"
     },
     {
+      "title": "A afirmação internacional da Medicina Respiratória nos Cuidados de Saúde Primários portugueses - Just News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjR1enp5ejRubHdET2RkTHhQYzBJU01STVpvYlh6QU1ZQVN0WWt4bV92bFQzYkIxVlNWNkhnYXpfRlpEMXgwRjNSeXB5T1lJRWVSRG5LVklDU3ZpMWxXRWdPVWdhRG03LUZ4TEFWMG4xR3NWdmZteXQ3QVR5Tk9sWjU4c01PTkdIY3JweVUybjZyWFNRSWdMUHlyZlZ4aUVnOW1aSTMtTkRwQ2hpSktWclNIcUNwNE04YkU5MHBSRGUtZ2dXQXc?oc=5",
+      "source": "Just News",
+      "publishedAt": "2026-09-14T16:38:03Z",
+      "description": "Quando, em junho deste ano, profissionais de saúde de todo o mundo se reuniram em Túnis para a 13.ª Conferência Mundial do International Primary Care Respiratory Group (IPCRG), que coincidiu com a celebração dos 25 anos desta organização, tornou-se evidente o crescente envolvimento de vários colegas portugueses em projetos internacionais dedicados à Medicina Respiratória nos…",
+      "image": "https://www.justnews.pt/documentos/image/artigos/a-afirmacao-internacional-da-medicina-respiratoria-nos-cuidados-de-saude-primarios-portugueses_3.jpg",
+      "articleUrl": "https://www.justnews.pt/artigos/a-afirmacao-internacional-da-medicina-respiratoria-nos-cuidados-de-saude-primarios-portugueses/"
+    },
+    {
       "title": "“O turismo de saúde é um problema transversal ao SNS – e já denunciado” - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm0zVWdjOEgzMGxxbG8xNTFWTjFaNXZyX1JGc1I2bUh0eXFublRmRHJRY05ZeElXbTZuVjhxNXd0cjl4NGpJemg1T3N6ZHBkdGdLaTBVbFhZV0NRMGRleVkyZUFwem02RkdjeHJKZTBDclhnZm1WWUhJeHBuMmZHMVpXT2t1Z2FsaVM2M09fbGVoeVBqRmJaLW9EdFhpa3VwTnJxZmZiRW5kTV9xczRVbm9vN3hwUUY0dFZEVlJKcUFGNjFN?oc=5",
       "source": "CNN Portugal",
       "publishedAt": "2026-09-14T14:54:00Z",
-      "description": "Catarina Guerreiro, editora-executiva da CNN Portugal, analisa o facto de 40% das utentes na área de obstetrícia do Hospital Amadora-Sintra serem de origem estrangeira.",
-      "image": "https://img.iol.pt/preset/6aa80affd34e53c759c720f9/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/videos/o-turismo-de-saude-e-um-problema-transversal-ao-sns-e-ja-denunciado/6aa80a2b0cf22b9f8904ba63"
-    },
-    {
-      "title": "Hospital Amadora-Sintra. \"Turismo de saúde é um problema\" - RTP",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGV4TFR1M08tREhReFluLTBValJVekJzRGp2WDdvRjE5c09uUlBPeGJTZ1pFZFdJWnNWd2I3NDM2dWZsX2E3d1NDS3VaZHBZSnZGc01OWW1pYmZweFNwNUFlR1VNbEN6eE1ZME5Kby1NWDZNV0s0ZVkzQzE4NGZra25ZVFhQY0tBM3VmMHRNZDVweml2Y2lxamlZNzk?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-14T20:42:47Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -119,22 +119,13 @@
       "articleUrl": "https://observador.pt/2026/09/14/trump-anuncia-que-kiev-e-moscovo-aceitaram-parar-ataques-a-infraestruturas-energeticas/"
     },
     {
-      "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - dw.com",
+      "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - DW.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGNmNUt5YnViUDZBUXVEV2tzMWFyNUdlNVZHWmZ5eHdCVFFxTWlzNkpxMmNVMHc1MjFFTmFBMHJWb1EwR0tmcF8yblJWbUlYLWx5TldpSjlvYVlueWxqd1VaMjRtbkVrVkdvS2RrdUVBaGJwajQzeTBNLUx5bTRKNVVsSFpmMmV6WVFmYnRYOFB0TnRSZjdvcXZkc0RhdmRaVE5sSG1wbVB5TFdMY2dJ0gGvAUFVX3lxTFBEY2Y1S3lidWJQNkFRdURXa3MxYXI1R2U1VkdaZnl4d0JUUXFNaXM2SnEyY1UwdzUyMUVOYUEwclZvUTBHS2ZwXzJuUlZtSVgtbHlOV2lKOW9hWW55bGp3VVoyNG1uRWtWR29LZGt1RUFoYnBqNDN5ME0tTHltNEo1VWxIWmYyZXpZUWZidFg4UHROdFJmN29xdmRzRGF2ZFpUTmxIbXBtUHlMV0xjZ0k?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "publishedAt": "2026-09-14T21:47:58Z",
       "description": "Reunidos na Finlândia, líderes de 12 países europeus defenderam maior atuação do bloco na região. Grupo cita ameaça russa, novas rotas marítimas e pressões dos EUA sobre a Groenlândia.",
       "image": "https://static.dw.com/image/79265743_6.jpg",
       "articleUrl": "https://amp.dw.com/pt-br/ue-quer-ampliar-presen%C3%A7a-no-%C3%A1rtico-diante-de-r%C3%BAssia-e-trump/a-79266910"
-    },
-    {
-      "title": "Canadá procura uma “aliança única” com a União Europeia, de costas para os EUA - Público",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSXJvUkpOUWdua09odHMxU1BCTU5yRVp2b0tNWDNYNmtqOVlKWVRodFg4RGdVTndIclZfU1VxQ21aSlJCVnhyZi01OTFFek9qOXdaTE9nLTJ3Q1BoT2ktSEIweGRYM0lkc0VzQ05lT1BrV01taHN1T2pXUXZZVlhhdGo5OWUzeU9KZzIwWnJrbjJTWHBSd3lmOFBGRTlaQ1JIbE5VYVc5RTY2Ui1fc25v?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-14T19:31:29Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/14/mundo/noticia/canada-procura-alianca-unica-uniao-europeia-costas-eua-2188041"
     },
     {
       "title": "Ataque russo perto da Polónia: \"É um ataque às portas da União Europeia\" - Now Canal",
@@ -164,6 +155,24 @@
       "articleUrl": "https://tvi.iol.pt/noticias/guerra/ucrania/o-problema-nao-e-o-irao-e-a-ucrania-trump-acusa-zelensky-de-estar-a-magoar-o-mundo-e-faz-lhe-um-pedido-a-medida-de-putin/20260914/6aa79d81d34e53c759c71fee"
     },
     {
+      "title": "Rússia e Ucrânia aceitam parar ataques ao setor de energia, diz Trump; Kiev duvida - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-09-14T15:53:00Z",
+      "description": "Presidente faz anúncio enquanto guerra no Oriente Médio pressiona preço do petróleo e seu eleitorado",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894009716aa8178bd7c48_1789400971_3x2_rt.jpg",
+      "articleUrl": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
+    },
+    {
+      "title": "Coreia do Norte confirma lançamento de mísseis balísticos em “exercício de ataque” - Público",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHh3NDN3bU5xN1BEX3hBSE9QSUJBNmtURXdPaW1uOTE2bkZ0Snp5d2pESU9jNm44ZTVhRVRmNXFsOHFWMlFxS0FaLVNWNDM2d3ExMFd4Y2M1VXREUzZrUTZOckswTDlTTUdWYURScjhYX0dsMmpFOFdWLUs0S0hXM2JEeEFHMTBHU2g1UWx5ZmR5Rzl1YjRyeGcxNmYwQXdjTVNWRUJvOGRhbW1YUXYwOVpRNW93eVAtN3NGTnNGcjlMdw?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-14T07:14:31Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/14/mundo/noticia/coreia-norte-confirma-lancamento-misseis-balisticos-exercicio-ataque-2187933"
+    },
+    {
       "title": "Rússia diz que China e Índia se oferecerem para ajudar com negociações com a Ucrânia - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUi1NdHE1bF9udTdBN2N4b0RZZndLaWFUMkV1aF9ycjFxSGVncG9TTm5NTk4xRUxncXMyYWZjeXRlUFJRSDM2SWZvc0JGazZNcEN1VE96UWYyOE9EZ1h4eUdpNzNnMVZ5cmdFNlBwRTlnU2tJTkh2RUd1Zko3NjRTaDRIc3FyZG0tbkFyUVY4a2JsQ0V5bURubkhUQzgzMlE4UzFUXzBwaWNfSzF5YlBFWjYxR1ZxOGRHQzJIY3ZRZU1QQVBvOHZYQVo1MUpkdlo3eWxmRTAtMlk2S1RrdHpmMEtWSjUyQkZEcU9UYWwzLWY?oc=5",
       "source": "SIC Notícias",
@@ -171,24 +180,6 @@
       "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-13-russia-diz-que-china-e-india-se-oferecerem-para-ajudar-com-negociacoes-com-a-ucrania-ccdfde7d"
-    },
-    {
-      "title": "Zelensky diz que Ucrânia tomará medidas de desescalada se Rússia fizer o mesmo - Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWRhaXNQZTQ4OXM4bFluWVRncEd5NWFyR21pbUFsQXV5SzRNTlpOTko0QVJaMmZCeUFMRGpITFhuNXZpUGpRWnUzSXVBZFpReUNoWm11VzdpME1jcmJKQjQxTVREdXQ2dmplOUtXb0VxQ2JHTjBib1JNeC05Y20wb05qTGlzVHpOM0RCWDNTekVPVlkyTlBIZDd6V3l4VWtmUWk5bnpqaWU1bDB0Z21ydNIBsAFBVV95cUxNcWRhaXNQZTQ4OXM4bFluWVRncEd5NWFyR21pbUFsQXV5SzRNTlpOTko0QVJaMmZCeUFMRGpITFhuNXZpUGpRWnUzSXVBZFpReUNoWm11VzdpME1jcmJKQjQxTVREdXQ2dmplOUtXb0VxQ2JHTjBib1JNeC05Y20wb05qTGlzVHpOM0RCWDNTekVPVlkyTlBIZDd6V3l4VWtmUWk5bnpqaWU1bDB0Z21ydA?oc=5",
-      "source": "Folha PE",
-      "publishedAt": "2026-09-14T21:31:29Z",
-      "description": "Notícia publicada por Folha PE. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.folhape.com.br/noticia/amp/512535/zelensky-diz-que-ucrania-tomara-medidas-de-desescalada-se-russia/"
-    },
-    {
-      "title": "Trump diz que Rússia e Ucrânia concordaram em não atacar alvos energéticos - Opera Mundi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjR2Rnp0WjZldlJBWjhKQmROdjZCVmtoSTI1d05SYVRmaG0waXF3WVlETVJWbWdrcVZnWE01WGVHdGNoaHRReXhUVGdnemtIQXdodG1ac3UzSU1GQUVqeEJvNmtybnRwZU1DQkZuNjFxZzEwMUwzWnp3UjljdGN0cU9fd01nMlN1Q2VJZkotY0pPZnU4RnpxbF9tWnNKNTlEbzVlX0hsWHdWTGRCWjZ4UHlVNGZxUlV0RFBnRXVSMVI?oc=5",
-      "source": "Opera Mundi",
-      "publishedAt": "2026-09-14T18:40:00Z",
-      "description": "Presidente dos Estados Unidos disse que acordo busca reduzir ataques às infraestrutura essenciais dos dois países",
-      "image": "https://operamundi.uol.com.br/wp-content/uploads/2026/09/p20260902mr-2322.webp",
-      "articleUrl": "https://operamundi.uol.com.br/guerra-na-ucrania/trump-diz-que-russia-e-ucrania-concordaram-em-nao-atacar-alvos-energeticos/"
     },
     {
       "title": "Trump: Rússia e Ucrânia concordam em não atacar instalações energéticas - Metrópoles",
@@ -200,6 +191,15 @@
       "articleUrl": "https://www.metropoles.com/mundo/trump-russia-e-ucrania-concordam-em-nao-atacar-instalacoes-energeticas"
     },
     {
+      "title": "Trump culpa Ucrânia pela alta do diesel, mas dados mostram peso da guerra contra o Irã - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1NfbkFpUHc0QjVWRjZoMU9nUFdVc2hnMnFycVVPQWZaZ2g1Y3lqV0h0NWlkRWhVOFZzOU5RUUNncVNYdU5KMlJhNFZ4eUpmcVlKOEVaTHB0OUFUTXhRa29rYXNNZWFSNHYzaHZyN0x1X3Y3WEhvSGpCUUc2czNldlZDUkctM19nUXZqLS1qanFDUGtYZTRVclZOTTBpX3lpaTZvT01KWlZoVkd3?oc=5",
+      "source": "Transmissão Política",
+      "publishedAt": "2026-09-15T00:26:00Z",
+      "description": "A alta do petróleo após a guerra contra o Irã contradiz Trump. Brent havia recuado depois dos ataques ucranianos a refinarias russas.",
+      "image": "https://transmissaopolitica.com.br/wp-content/uploads/2025/03/trump-e-zelesky-e1745009663694.jpeg",
+      "articleUrl": "https://transmissaopolitica.com.br/politica-internacional/2026/09/14/alta-petroleo-guerra-ira-trump-ucrania/"
+    },
+    {
       "title": "Rússia não descarta cúpula trilateral com Ucrânia e EUA em outubro - ANSA Brasil",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLWNHU1h1WEdVckhRZnJydVVya1hYTGx1RHJfUjQwS3gzbW43d2pUZmNLY3lEVWZPeDJCbFg2U3h0ZUJ0andGWVBoOHh4a2tRZkFLUGxMTXFuVnU0Yi1vcndLQ3FEMG5qRDRuc3p4ZUZxZHEyM0NZaDBiU2VwcUYxM0d0VDJvcmdibWhlUXdtWFFSLWFIODZJSFljeWdMb2ZXRzdtMFJmRGU2X1YxeV9ndmRlZTdtX1RVRl9DaEhFSTdKRmVOZUNGSmRLdXpCSlk5bkxMYUdld00yZlZYWDZFd0d4MWJZZ252M2tINTltUHF4LXY2Z1MtR2MxN0tmYk110gGAAkFVX3lxTFAtY0dTWHVYR1VySFFmcnJ1VXJrWFhMbHVEcl9SNDBLeDNtbjd3alRmY0tjeURVZk94MkJsWDZTeHRlQnRqd0ZZUGg4eHhra1FmQUtQbExNcW5WdTRiLW9yd0tDcUQwbmpENG5zenhlRnFkcTIzQ1loMGJTZXBxRjEzR3RUMm9yZ2JtaGVRd21YUVItYUg4NklIWWN5Z0xvZldHN20wUmZEZTZfVjF5X2d2ZGVlN21fVFVGX0NoSEVJN0pGZU5lQ0ZKZEt1ekJKWTluTExhR2V3TTJmVlhYNkV3R3gxYllnbnYza0g1OW1QcXgtdjZnUy1HYzE3S2ZiTXU?oc=5",
       "source": "ANSA Brasil",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Coreia do Norte confirma lançamento de mísseis balísticos em “exercício de ataque” - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHh3NDN3bU5xN1BEX3hBSE9QSUJBNmtURXdPaW1uOTE2bkZ0Snp5d2pESU9jNm44ZTVhRVRmNXFsOHFWMlFxS0FaLVNWNDM2d3ExMFd4Y2M1VXREUzZrUTZOckswTDlTTUdWYURScjhYX0dsMmpFOFdWLUs0S0hXM2JEeEFHMTBHU2g1UWx5ZmR5Rzl1YjRyeGcxNmYwQXdjTVNWRUJvOGRhbW1YUXYwOVpRNW93eVAtN3NGTnNGcjlMdw?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-14T07:14:31Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Kremlin diz que negociações sobre guerra na Ucrânia podem ser retomadas em outubro - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hpRGpsX01VTlFYb1JQclY0OW9yUjRGdEgwemZIbDM1SGRib1JoNEJsV19mYWRtWTBRNEcwNloxR0Z5aElyVEFDN1lSdE9kMmlJSVMzX3FlZ3FFN3F2Qk84RFVaUmttNHM1U1pxaVdaakY0QkJLak1JZklFNldIamFzN1ZCVGpnMzNlcVRvaXRyNzlPTHZramkwZFZ5MmNZOHYxYjVCeDVKRGc5NGl5TkJUNE1xMjhIYTIzMkk4TUVkcTU1b2dFX1l2ckLSAcwBQVVfeXFMTTd4aURqbF9NVU5RWG9SUHJWNDlvclI0RnRIMHpmSGwzNUhkYm9SaDRCbFdfZmFkbVkwUTRHMDZaMUdGeWhJclRBQzdZUnRPZDJpSUlTM19xZWdxRTdxdkJPOERVWlJrbTRzNVNacWlXWmpGNEJCS2pNSWZJRTZXSGphczdWQlRqZzMzZXFUb2l0cjc5T0x2a2ppMGRWeTJjWTh2MWI1Qng1SkRnOTRpeU5CVDRNcTI4SGEyMzJJOE1FZHE1NW9nRV9ZdnJC?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-09-13T12:28:00Z",
+      "description": "Notícia publicada por Estadão. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
