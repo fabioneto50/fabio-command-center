@@ -1,44 +1,9 @@
-name: Freeze canonical public records
-on:
-  push:
-    branches: [audit-hardening-2026-09-16]
-    paths: [.github/workflows/freeze-canonical.yml]
+name: Canonical records export (archived)
+on: workflow_dispatch
 permissions:
-  contents: write
-  actions: read
+  contents: read
 jobs:
-  freeze:
+  archived:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
-        with:
-          name: audit-evidence-b596c01afd68fe523152ba4f3f69441d5f7880aa
-          run-id: 35052441221
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          path: /tmp/fcc-canonical
-      - name: Validate and freeze exact records
-        shell: python
-        run: |
-          import pathlib,json,hashlib,shutil
-          src=pathlib.Path('/tmp/fcc-canonical/canonical');dst=pathlib.Path('data');dst.mkdir(exist_ok=True)
-          hashes=json.loads((src/'integrity.json').read_text())
-          for name,digest in hashes.items():
-              assert '/' not in name and '..' not in name
-              assert hashlib.sha256((src/name).read_bytes()).hexdigest()==digest
-          records=json.loads((src/'medications.json').read_text())
-          assert len(records)==923 and len({r['n'] for r in records})==923
-          assert sum('med1114' in r for r in records)==276
-          assert len(json.loads((src/'cases.json').read_text()))==200
-          for name in hashes:shutil.copyfile(src/name,dst/name)
-          shutil.copyfile(src/'integrity.json',dst/'baseline-integrity.json')
-          (dst/'provenance.json').write_text(json.dumps({'sourceCommit':'fb19f424a5457427f86a1db927d6880286c535a2','exportCommit':'b596c01afd68fe523152ba4f3f69441d5f7880aa','exportRun':35052441221,'clinicalReview':'Not performed: engineering consolidation only','medications':923,'medicationReplacementsPreserved':276,'cases':200},indent=2))
-      - name: Commit on isolated branch only
-        run: |
-          test "${GITHUB_REF_NAME}" = "audit-hardening-2026-09-16"
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/
-          git commit -m 'Freeze canonical public clinical records from verified baseline artifact'
-          git push origin HEAD:audit-hardening-2026-09-16
+      - run: echo 'Canonical export is complete. Provenance and baseline hashes are in data/. Use Quality gate 1.4 for integrity verification.'
