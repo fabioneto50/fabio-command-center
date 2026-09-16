@@ -25,7 +25,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
  def log_message(self,*args):pass
 class Server(socketserver.ThreadingTCPServer):allow_reuse_address=True
 srv=Server(('127.0.0.1',4176),Handler);threading.Thread(target=srv.serve_forever,daemon=True).start();URL='http://127.0.0.1:4176/site/'
-def ready(p):p.wait_for_function('window.FCCAppReady===true',timeout=45000)
+def ready(p):p.wait_for_function("window.FCCAppReady===true && [...document.querySelectorAll('.nav')].every(x=>!x.disabled)",timeout=45000)
 def update(p):
  return p.evaluate("""async()=>{const r=await navigator.serviceWorker.getRegistration();await r.update();const w=r.installing;
  if(w&&!['installed','redundant'].includes(w.state))await new Promise((resolve,reject)=>{const t=setTimeout(()=>reject(Error('Update did not settle')),35000);w.addEventListener('statechange',()=>{if(['installed','redundant'].includes(w.state)){clearTimeout(t);resolve();}});});
@@ -57,9 +57,15 @@ try:
      check(engine+' unsaved input survives waiting update',p.locator('#infWt').input_value()=='73')
      oldtab=ctx.new_page();oldtab.goto(URL,wait_until='domcontentloaded');ready(oldtab)
      check(engine+' second tab still uses active version',oldtab.evaluate('FCC_ASSET_BASE').find(initial)>=0)
-     # Activate only after explicit synthetic consent. Existing tabs must retain old assets.
-     p.evaluate("async()=>{const r=await navigator.serviceWorker.getRegistration();await new Promise((resolve,reject)=>{const t=setTimeout(()=>reject(Error('No controller change')),20000);navigator.serviceWorker.addEventListener('controllerchange',()=>{clearTimeout(t);resolve()},{once:true});r.waiting.postMessage({type:'ACTIVATE_UPDATE'});});}")
-     check(engine+' old page readiness mismatch is explicit',p.evaluate("async()=>{try{await FCCOffline.send('STATUS');return false}catch(e){return /versão|recarrega/.test(e.message)}}"))
+     # Exercise the actual user-facing confirmation and reload, not a test-only message.
+     oldtab.evaluate("FCCOffline.send('STATUS')")
+     p.evaluate("fccNavigate('settings')");p.evaluate('FCCOffline.applyUpdate()')
+     p.locator('#fccUpdateDialog').wait_for(state='visible')
+     with p.expect_navigation(wait_until='domcontentloaded',timeout=60000):
+      p.get_by_role('button',name='Atualizar e recarregar',exact=True).click()
+     ready(p)
+     check(engine+' real confirmation activated and reloaded',newer in p.evaluate('FCC_ASSET_BASE'))
+     check(engine+' older open page receives explicit version mismatch',oldtab.evaluate("async()=>{try{await FCCOffline.send('STATUS');return false}catch(e){return /versão|recarrega/.test(e.message)}}"))
      Handler.network_down=True
      check(engine+' offline control genuinely fails',oldtab.evaluate("async()=>{try{await fetch('./not-cached-control',{cache:'no-store'});return false}catch{return true}}"))
      check(engine+' older tab lazy module works after activation while origin offline',oldtab.evaluate("async()=>{await fccNavigate('clinical',{sub:'clin-drugs'});return FCCMedicationV7Health.count===923&&document.getElementById('clin-drugs').classList.contains('active')}"))
@@ -70,7 +76,10 @@ try:
      status=p.evaluate("FCCOffline.send('STATUS')");check(engine+' new clinical package not falsely marked complete',not status['packages']['clinical']['complete'])
      p.screenshot(path=str(OUT/(engine+'-upgrade-mobile.png')))
      check(engine+' no unhandled application errors',not errors,errors)
-    except Exception as e:report['checks'].append({'name':engine+' transition failed','pass':False,'error':str(e),'trace':traceback.format_exc()})
+    except Exception as e:
+     try:diagnostic=p.evaluate("async()=>{const r=await navigator.serviceWorker.getRegistration();return {build:FCC_ASSET_BASE,waiting:r?.waiting?.state,active:r?.active?.state,installing:r?.installing?.state,controller:navigator.serviceWorker.controller?.state}}")
+     except Exception:diagnostic={}
+     report['checks'].append({'name':engine+' transition failed','pass':False,'error':str(e),'trace':traceback.format_exc(),'workerState':diagnostic,'pageErrors':errors})
     finally:Handler.fault='';Handler.network_down=False;ctx.close();browser.close()
 finally:
  srv.shutdown();(OUT/'upgrade-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False,indent=2))
