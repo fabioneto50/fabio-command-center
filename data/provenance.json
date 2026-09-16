@@ -1,0 +1,9 @@
+{
+  "sourceCommit": "fb19f424a5457427f86a1db927d6880286c535a2",
+  "exportCommit": "b596c01afd68fe523152ba4f3f69441d5f7880aa",
+  "exportRun": 35052441221,
+  "clinicalReview": "Not performed: engineering consolidation only",
+  "medications": 923,
+  "medicationReplacementsPreserved": 276,
+  "cases": 200
+}

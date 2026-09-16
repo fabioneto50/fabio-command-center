@@ -1,0 +1,9 @@
+name: Canonical records export (archived)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  archived:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Canonical export is complete. Provenance and baseline hashes are in data/. Use Quality gate 1.4 for integrity verification.'

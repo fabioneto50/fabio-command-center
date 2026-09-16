@@ -1,0 +1,9 @@
+name: Engineering source transfer (archived)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  archived:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Checksummed source transfer is complete. Current sources are readable files; current verification uses Quality gate 1.4.'

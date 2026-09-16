@@ -1,0 +1,9 @@
+name: Baseline audit (archived)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  archived:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Baseline evidence is preserved in run 35052441221. Current verification uses Quality gate 1.4.'

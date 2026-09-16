@@ -1,0 +1,30 @@
+name: Audit source snapshot
+on:
+  push:
+    branches: [audit-hardening-2026-09-16]
+    paths: [.github/workflows/audit-source-snapshot.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - name: Archive exact candidate and record production divergence
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/audit-source
+          git archive --format=zip HEAD -o /tmp/audit-source/source.zip
+          git rev-parse HEAD > /tmp/audit-source/candidate-commit.txt
+          git rev-parse origin/main > /tmp/audit-source/main-commit.txt
+          git merge-base origin/main HEAD > /tmp/audit-source/common-base.txt
+          git diff --stat HEAD...origin/main > /tmp/audit-source/main-changes.txt
+          git diff HEAD...origin/main > /tmp/audit-source/main-changes.patch
+          git archive --format=zip origin/main -o /tmp/audit-source/production-source.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audit-source-${{ github.sha }}
+          path: /tmp/audit-source/
+          retention-days: 3

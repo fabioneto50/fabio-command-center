@@ -1,0 +1,582 @@
+{
+  "version": "1.4.0",
+  "build": "1.4.0-7efe76ad53aa",
+  "assets": {
+    "release/1.4.0-7efe76ad53aa/styles.css": {
+      "sha256": "7d6cbf2d297b86971f7f6e323c1f70c391a4331c76f46c77ec68934c69494e2a",
+      "bytes": 18052
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-ui.css": {
+      "sha256": "2176dbeea81400d6c3861cfc9443b0ab229c12b5d4a139251b155cea3a4baf87",
+      "bytes": 14936
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-core.js": {
+      "sha256": "57b327b959d8a96e8a6a01448eb8dfa92db9968de463d5e0737a34f34d479ce3",
+      "bytes": 11561
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-store.js": {
+      "sha256": "b83b6a7636618685ed64519871efdaca5aa4afc5e51df0e6518b5791a9688801",
+      "bytes": 21423
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-ui.js": {
+      "sha256": "4d3b71c067fe38cb04b23a8b0ddc38666d2e4e3b8bfd210a8d1fa4d711df5239",
+      "bytes": 6642
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-clinical-ui.js": {
+      "sha256": "e25611b2cc2dd5dc3c21843434ce455c8e63d616471f4a1e4bf5cc0f50678ade",
+      "bytes": 8869
+    },
+    "release/1.4.0-7efe76ad53aa/app.js": {
+      "sha256": "b6d5fae21fd03a2240c7b4fca6473668c0078545c3489c8be9ec9bf92dee71b7",
+      "bytes": 76946
+    },
+    "release/1.4.0-7efe76ad53aa/navigation-hub.js": {
+      "sha256": "c0c6e38c73acf402d92692f284b25d610e465a8a16c6e964005b73764ee89d57",
+      "bytes": 8695
+    },
+    "release/1.4.0-7efe76ad53aa/theme-switcher.js": {
+      "sha256": "81619f24c67f73421eb86af2697c9fe9bca58374a902c2989d97705d89bc0d07",
+      "bytes": 11941
+    },
+    "release/1.4.0-7efe76ad53aa/theme-auto-v2.js": {
+      "sha256": "b908ab58d44bfd28245b64cf6b9d860473e6d28b24cfb89b29519aed6c89ce74",
+      "bytes": 3151
+    },
+    "release/1.4.0-7efe76ad53aa/theme-audit-fixes.js": {
+      "sha256": "dbbf7ee77248f25f459e3c0ee56979c2808fd57a7093cd1e7b0f85d6256070e7",
+      "bytes": 7515
+    },
+    "release/1.4.0-7efe76ad53aa/personal-security-v1.js": {
+      "sha256": "69fc38de06ee28cef59e1fcf534c13540731aed6ddddfad7ae04349cbd51b31b",
+      "bytes": 6652
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-navigation.js": {
+      "sha256": "c743cf929b3b2f34c24765ba744eb6191b3079ca611ea835c0e15cd26b454199",
+      "bytes": 14771
+    },
+    "release/1.4.0-7efe76ad53aa/personal-hub-v1.js": {
+      "sha256": "8e496ba0cddca0680c1b1f10c4a5b03ecbf97fc53aa0242a85990ca38d35c7d8",
+      "bytes": 5997
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-backup.js": {
+      "sha256": "a76316be6ddb0a753fd33b70bda281f1e5fb5a2964702a8cf58b1a1565a4c7da",
+      "bytes": 8526
+    },
+    "release/1.4.0-7efe76ad53aa/search-enhancer.js": {
+      "sha256": "99dbd24c62182368159e44307862eefa0505bea761edb2468fc6b390f40ccd06",
+      "bytes": 7196
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-favorites.js": {
+      "sha256": "3ac3415a8b74b0e5d18134465313e59542fdc7212ba78ac7ba343ceb2b893fe2",
+      "bytes": 4946
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-offline.js": {
+      "sha256": "4e59be5c185920d3a271fde3d6f6334b1b7531acba8fd9146325a87182095414",
+      "bytes": 5990
+    },
+    "release/1.4.0-7efe76ad53aa/home-current-news-v1.js": {
+      "sha256": "97e7b974fa74b8a063d44770c545e969da8656d34ce0b26de8fac8ab226f1f5e",
+      "bytes": 6074
+    },
+    "index.html": {
+      "sha256": "4d85825dc4b179e0d4b1596950298900df043facfd737a1d688b381f92f222e8",
+      "bytes": 48456
+    },
+    "manifest.webmanifest": {
+      "sha256": "48a4fd665d74053d0235f9b460c5d094dd25e35b2b4f1d456d0c1f981b471edf",
+      "bytes": 689
+    },
+    "icon-192.png": {
+      "sha256": "ba6eea409d397e928667915883234b310a17546bf4db55996b6ea85eb0206841",
+      "bytes": 2289
+    },
+    "icon-512.png": {
+      "sha256": "ede60a858087a3a582830e7f0b57f4ee892f8a91ab0dcc037527a09c3cc37a72",
+      "bytes": 6549
+    },
+    "icon.svg": {
+      "sha256": "ec85c4ea95bbfb987e1b43d716eb20b3edc202d33891db7b2e3c428671f31675",
+      "bytes": 483
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-content-core-v1.js": {
+      "sha256": "e69772ffb8eabeccae63803770a79bc926132193f57b8cc609a05fe43156c363",
+      "bytes": 12017
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-content-config-v1.js": {
+      "sha256": "8e12054eab45b8a7feb1eabbcb06c86c795347ab2f4660bd24cc49d8b304b346",
+      "bytes": 2053
+    },
+    "release/1.4.0-7efe76ad53aa/data/institutional.json": {
+      "sha256": "cdc3bb82cfcbaecf4230d7ad859352219ac49593f8dfe3bf3c1e42fc6eb165e8",
+      "bytes": 165653
+    },
+    "release/1.4.0-7efe76ad53aa/data/high-alert.json": {
+      "sha256": "a42dea24fe1d7acd297bb687564ad3ed1dfc7eadbdc4a190d0daffe3cb0cbcbd",
+      "bytes": 92330
+    },
+    "release/1.4.0-7efe76ad53aa/perfusion-reference.js": {
+      "sha256": "e67b1456cdf1d4fb1e27a666c2b95568ff779717bed63cc602f73450b62bcdf0",
+      "bytes": 16397
+    },
+    "release/1.4.0-7efe76ad53aa/critical-care-dilutions-v2.js": {
+      "sha256": "235a1b128b5e4bb96603ca14f5e42abe328754a40081b34d5bbe65387da06c9e",
+      "bytes": 16451
+    },
+    "release/1.4.0-7efe76ad53aa/dilutions-ux-v3.js": {
+      "sha256": "2f6bf0b4bf8d52ca2cdd66a0f0f9e07df0e66d7927629f35524006db0c6c6d8e",
+      "bytes": 3951
+    },
+    "release/1.4.0-7efe76ad53aa/dilutions-document-db-v4.js": {
+      "sha256": "7b2cab8275f51b61978803b000fdcf060a3eaf12b38ae77294b5f14514566558",
+      "bytes": 15357
+    },
+    "release/1.4.0-7efe76ad53aa/dilutions-cuf-v6.js": {
+      "sha256": "1384e43773034da66632838a9b72724f66c94ccd5ecdcf315aaf4bb0033d9791",
+      "bytes": 9179
+    },
+    "release/1.4.0-7efe76ad53aa/dilutions-card-ux-v5.js": {
+      "sha256": "892b2ed06c72e772959cdd34bf8bb9da7d3b13f6f7fb8f9ef0f62488a20c0741",
+      "bytes": 4324
+    },
+    "release/1.4.0-7efe76ad53aa/data/dilutionSource.json": {
+      "sha256": "bafeba6a4c24bbc739b7818d9a9fb472ef9ef902b4f5432636be874d0a802eef",
+      "bytes": 271300
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-medications.js": {
+      "sha256": "c7d3a0b2c97e63188a3bceafd4c1027ff1b7f0dbddd6975fe82fb45a191be4be",
+      "bytes": 9828
+    },
+    "release/1.4.0-7efe76ad53aa/medication-stability-cuf-v1.js": {
+      "sha256": "fd83b2ae725d7f7868e79e31f8a5db1627ae12a1c3f7e83c9a6677153d857c14",
+      "bytes": 5046
+    },
+    "release/1.4.0-7efe76ad53aa/data/medications.json": {
+      "sha256": "454d3961b4bf692827c3b57c6d59fd343a4589d6c9d6eaa16b66c8678bca4f8a",
+      "bytes": 1662128
+    },
+    "release/1.4.0-7efe76ad53aa/data/brand-names.json": {
+      "sha256": "dcde1f257c55995d975313410ab2152db074474b4bcb21b0ed79507473258682",
+      "bytes": 534
+    },
+    "release/1.4.0-7efe76ad53aa/medication-safety-cuf-v2.js": {
+      "sha256": "0fb79a6a95d78262da2da37a68ce277fdf2333dc849ef73c22614a34cec2c096",
+      "bytes": 21967
+    },
+    "release/1.4.0-7efe76ad53aa/iv-compatibility.js": {
+      "sha256": "87409441b26e8ff9655528b8ac0ad015fb68b6c87cd154a71b369cc1d8df62a9",
+      "bytes": 17121
+    },
+    "release/1.4.0-7efe76ad53aa/iv-catalogue.js": {
+      "sha256": "d49f81aa691aa9c97880ea2ffbc1e82b81d7e664e99ca4f226036f020ec27097",
+      "bytes": 10825
+    },
+    "release/1.4.0-7efe76ad53aa/iv-compatibility-ui-v2.js": {
+      "sha256": "7589744f2ee1be4161933109af789993f1d91e05cbdf9f9f31d5391f2cfeb530",
+      "bytes": 12995
+    },
+    "release/1.4.0-7efe76ad53aa/iv-source-evidence.js": {
+      "sha256": "648f2f406f56d07d33fa09542d749d1771e90b17ac5fee6f1fe2ce6a689a30b8",
+      "bytes": 9147
+    },
+    "release/1.4.0-7efe76ad53aa/iv-compatibility-expanded-v3.js": {
+      "sha256": "5672449d4c1f3e141ff02c26946c379f75e889d35cff5076930f5adb7ea0e5d9",
+      "bytes": 7971
+    },
+    "release/1.4.0-7efe76ad53aa/iv-compatibility-exit-reset-v1.js": {
+      "sha256": "9663f3194c299932e31b193514bc390b146705cbd22bd48625ca0db53e7b65e9",
+      "bytes": 1044
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-cases.js": {
+      "sha256": "46463e8a4c15fe0a7580526e4f30352116acf61c6db25ffd285f1ed5e2542c95",
+      "bytes": 7053
+    },
+    "release/1.4.0-7efe76ad53aa/data/cases.json": {
+      "sha256": "8678d2c75685476c34da6ae0cf6b7fb7dd556dfad4dd5fb4e7c8fc93b72ef6d9",
+      "bytes": 109759
+    },
+    "release/1.4.0-7efe76ad53aa/data/case-sources.json": {
+      "sha256": "79061310d66cbc7612a015f6995cfefecdde793e881d4bfcf7cae84ff77a2816",
+      "bytes": 1147
+    },
+    "release/1.4.0-7efe76ad53aa/ecg-photo-assist.js": {
+      "sha256": "3e8191a5bce4ec6821f4fbef30335b1a6e6189fa5aa923b9b854aa095a2ce3dd",
+      "bytes": 7307
+    },
+    "release/1.4.0-7efe76ad53aa/ecg-image-analyzer-v3.js": {
+      "sha256": "1d833d473e2258c8b60a39e743fe67cd4be55053e4d05214768f42c9ca7d70a4",
+      "bytes": 26441
+    },
+    "release/1.4.0-7efe76ad53aa/data/search-index.json": {
+      "sha256": "aac86c57baed5cbce658049b09305d81b29cdbd858314a553e5b02d0d01cfa77",
+      "bytes": 816697
+    },
+    "release/1.4.0-7efe76ad53aa/wound-dressings-v1.js": {
+      "sha256": "f3e0d9a6f3ff5375f65aae3b620f3d48fe39071727020a01cd131a821f297d81",
+      "bytes": 38908
+    },
+    "release/1.4.0-7efe76ad53aa/wound-dressings-local-data-v1.js": {
+      "sha256": "072851369483f110625e229cf02dcfe9591623e1817dfdf5a8818c1f9edae9e3",
+      "bytes": 2435
+    },
+    "release/1.4.0-7efe76ad53aa/wound-dressings-order-v1.js": {
+      "sha256": "17db1b68e47d9e6bfd039542aa5c900dee3224f22331fea37c50e7634cebb262",
+      "bytes": 4776
+    },
+    "release/1.4.0-7efe76ad53aa/wound-dressings-media-model-v1.js": {
+      "sha256": "6102b453b6ea35238f27cb0cf8f6256039ccae1f09c8ba811c358f3c29c05d38",
+      "bytes": 8469
+    },
+    "release/1.4.0-7efe76ad53aa/wound-images-curated-v1.json": {
+      "sha256": "abd54e2663e81ce4a9d8d9e9bb835b6e109545b809d7f6b23db4c0a26a5779a8",
+      "bytes": 14082
+    },
+    "assets/wound-images/user-final/acticoat-flex-3-01.webp": {
+      "sha256": "11b5417b3c28b208ab9ad061d6b4e5389084c09945925542babb16bcc581e96e",
+      "bytes": 19978
+    },
+    "assets/wound-images/user-final/actisorb-silver-220-01.webp": {
+      "sha256": "aea8f86a3f3672e4bae9b9d78c1236f23440997cb5e1190094c9073fc488130c",
+      "bytes": 53162
+    },
+    "assets/wound-images/user-final/adaptic-01.webp": {
+      "sha256": "65098543792c7c9f280baa61e3aeab54987128139f5a4319285f0101003e767f",
+      "bytes": 43238
+    },
+    "assets/wound-images/user-final/allevyn-life-01.webp": {
+      "sha256": "53e3b075a16c96790db3438dca3f1a4fc49cba85ff4004eddb94744d58f26ecc",
+      "bytes": 80728
+    },
+    "assets/wound-images/user-final/aquacel-ag-extra-01.webp": {
+      "sha256": "0c05eca82c7cdb2a8a807e612a461d6ae4df4c87e1b3cf96f23725a2bf13e150",
+      "bytes": 50258
+    },
+    "assets/wound-images/user-final/aquacel-ag-extra-02.avif": {
+      "sha256": "c6324867d4a79b48b387e85a8dce6d9bf94ded37b303ae2c9c78ef67bfcbc0d2",
+      "bytes": 6599
+    },
+    "assets/wound-images/user-final/aquacel-extra-01.webp": {
+      "sha256": "f55e202565afd98ca275f2b148d0b0e555fa637d653326fc283c7f84012f599b",
+      "bytes": 622534
+    },
+    "assets/wound-images/user-final/aquacel-extra-02.avif": {
+      "sha256": "f835334b22ac747b4e02360948544264a037b0a80cb1a94de23dfb2f0db7402c",
+      "bytes": 6878
+    },
+    "assets/wound-images/user-final/argenpal-01.webp": {
+      "sha256": "49fc21e2ab38a822fb59ef6fc8083a4c28f6cf35f8dbbbc308cf42c2ad85f32a",
+      "bytes": 268962
+    },
+    "assets/wound-images/user-final/atrauman-ag-01.webp": {
+      "sha256": "e7c98bffcdc5bec0ec91e91bccc54382020f34e5e21155f412cdf605c79ffc1d",
+      "bytes": 69072
+    },
+    "assets/wound-images/user-final/atrauman-ag-02.avif": {
+      "sha256": "334fb60e0d2fdfe696086ecfe50fbdd0d3b72a4f7279bc3ccc1678930c17efc5",
+      "bytes": 3462
+    },
+    "assets/wound-images/user-final/atrauman-ag-03.avif": {
+      "sha256": "66ef12233a753d4953bcf239d2ec645c3034e7ec7abb31f8ecef5c8b49ee1554",
+      "bytes": 7137
+    },
+    "assets/wound-images/user-final/atrauman-ag-04.avif": {
+      "sha256": "220f063181d6c2e145828a494c873087eb24e15324d4c1eeec491dfe7f2788de",
+      "bytes": 5540
+    },
+    "assets/wound-images/user-final/cutanplast-01.webp": {
+      "sha256": "687a8d0ce23621b107a35f079f64530677b0d71d99505b496daf67401bee2291",
+      "bytes": 101938
+    },
+    "assets/wound-images/user-final/cutanplast-02.avif": {
+      "sha256": "ab031f37d62f027e32034b4c5dccddfe62f68f24d4a66eef8ac07a7d4608f986",
+      "bytes": 3944
+    },
+    "assets/wound-images/user-final/emla-penso-01.webp": {
+      "sha256": "f9c0faae94d250fd29b64c6bdc15f3eef1372c3aadbbddd80f1e4d9be0b63317",
+      "bytes": 70204
+    },
+    "assets/wound-images/user-final/inadine-01.webp": {
+      "sha256": "54303cec4a205c76b719c612933d9228a8cfa1406e37858ba0e748c41cce0376",
+      "bytes": 46842
+    },
+    "assets/wound-images/user-final/inadine-02.avif": {
+      "sha256": "bc2cc2f3290fd1468d7a851becb7b6037892598188e5477856d4ee16504bef8c",
+      "bytes": 3348
+    },
+    "assets/wound-images/user-final/inadine-03.avif": {
+      "sha256": "433be710f4e1215f14e872045f41336cf5aaa6f2c89a289d6ac3b9359c274e27",
+      "bytes": 7301
+    },
+    "assets/wound-images/user-final/inadine-04.avif": {
+      "sha256": "340ec2d2d415508912b3ca76e35ddc7910a4dee4f99d0a8c405e26c72c130fb9",
+      "bytes": 4691
+    },
+    "assets/wound-images/user-final/jelonet-01.webp": {
+      "sha256": "fbca01213083029f90f17faa92be3bb828fb1bfa74c5c36107d21d49e5309bdd",
+      "bytes": 23230
+    },
+    "assets/wound-images/user-final/jelonet-02.avif": {
+      "sha256": "89a15ab68024ca2783cbb4e86fe288227d0c16fddaae9378c856e155e7bc5985",
+      "bytes": 3614
+    },
+    "assets/wound-images/user-final/melgisorb-plus-01.webp": {
+      "sha256": "e34a38f11dd46c8ee5530fad9e9382e46c71f3b159b783256d4c6f5bd0d60a5f",
+      "bytes": 67296
+    },
+    "assets/wound-images/user-final/melgisorb-plus-02.avif": {
+      "sha256": "d7d4865f156c7477f75cdf8182bdd94d03ad011aec4e7581c671d00c558cdb2f",
+      "bytes": 981
+    },
+    "assets/wound-images/user-final/mepilex-01.webp": {
+      "sha256": "27886b8ed6fd8a4829954f97781a2f2d09ce2bda8a1a4f236b1f969cb25364c8",
+      "bytes": 115846
+    },
+    "assets/wound-images/user-final/mepilex-02.avif": {
+      "sha256": "2caf2f65c0ef69e6373f44ab1288cd6882c4e0dad978b08a0854c6682aa33347",
+      "bytes": 700
+    },
+    "assets/wound-images/user-final/mepilex-border-flex-01.webp": {
+      "sha256": "19bced29b8145bdfd712a13cf19d912a4e463d04a233b87b68d68dc9671eb9cc",
+      "bytes": 68884
+    },
+    "assets/wound-images/user-final/mepilex-border-flex-02.avif": {
+      "sha256": "0f21024f85336151838c15f38224bca72030abf68b740ab893128cddbed8f936",
+      "bytes": 4293
+    },
+    "assets/wound-images/user-final/mepilex-border-heel-01.webp": {
+      "sha256": "ea07cf01a3a6deb7534c84a2e2c9d5770f5672541eaddf83098257f87ad3d4f1",
+      "bytes": 84594
+    },
+    "assets/wound-images/user-final/mepilex-border-heel-02.avif": {
+      "sha256": "b0771a001bba015aa21c989764e1db1d048d624d8b8d42cc8ffc0d2b22b657eb",
+      "bytes": 3536
+    },
+    "assets/wound-images/user-final/mepitel-01.avif": {
+      "sha256": "6f732f1ca5495ba781ca54b188b53c93ef3cfe41147b2958e2fc9fb4950f7395",
+      "bytes": 1869
+    },
+    "assets/wound-images/user-final/merogel-01.webp": {
+      "sha256": "ee9cded8e15c3a42e1728e08dd02ed921ec482a8e4a01000b2f7b5d2d2ad1dda",
+      "bytes": 96566
+    },
+    "assets/wound-images/user-final/multidex-01.webp": {
+      "sha256": "7b31e35024566fe55be23ba8ddffa54bb18f5258a59cf076258e946493d88b28",
+      "bytes": 33114
+    },
+    "assets/wound-images/user-final/nu-gel-01.webp": {
+      "sha256": "53e6379ade87fd9ede330a9c24930ea32198408b149a0d976da76c7a77fccfd9",
+      "bytes": 139806
+    },
+    "assets/wound-images/user-final/promogran-01.webp": {
+      "sha256": "624de1837047ab5d2ddb9ec91c54d59f521ce87450ed9ec3ac73baedc9418573",
+      "bytes": 219594
+    },
+    "assets/wound-images/user-final/spongostan-standard-01.webp": {
+      "sha256": "ffa0062f5b32ba6249b940d2cd31276badebe49eeb67bcb048a392c56bf18910",
+      "bytes": 32132
+    },
+    "assets/wound-images/user-final/surgicel-01.webp": {
+      "sha256": "c07023fee1313ab77b554f9a81c8a79361327a03dc242674a2370dccfaeef7c7",
+      "bytes": 91632
+    },
+    "assets/wound-images/user-final/surgicel-02.avif": {
+      "sha256": "7d79dfad3e30b52bb6969925d3565608185b06ed122be95cf4d663460a728a63",
+      "bytes": 6922
+    },
+    "assets/wound-images/user-final/surgicel-03.avif": {
+      "sha256": "1c5b78a98fc346045ac0e0277b2b9bd7fe39316f8a213c5866598609c94baf31",
+      "bytes": 3882
+    },
+    "assets/wound-images/user-final/surgicel-fibrilar-01.webp": {
+      "sha256": "f36ccda4027809999a57ec75e42347aa4b67298eea52e7a493d14104273603d2",
+      "bytes": 98238
+    },
+    "assets/wound-images/user-final/surgicel-fibrilar-02.avif": {
+      "sha256": "2c1b236e142570b9d6305b3b71f96bb15a0688833ba3d6027e4f698fe9feafba",
+      "bytes": 3644
+    },
+    "assets/wound-images/user-final/surgicel-fibrilar-03.avif": {
+      "sha256": "9ff63117824f8f1812711f3ec20f1a5442f7490f1e30e6903cd0bbed80050052",
+      "bytes": 1880
+    },
+    "assets/wound-images/user-final/tachosil-01.webp": {
+      "sha256": "6cbcaf7a17c020a87b6089dff5250af8b6a728ad48daefe2a01d2ef01cfcf050",
+      "bytes": 45806
+    },
+    "assets/wound-images/user-final/tutopatch-01.webp": {
+      "sha256": "43874044bdaefb1383e0b76b4f3e5975f84b13ec5123d5a9f93ee61e32d642ba",
+      "bytes": 76798
+    },
+    "assets/wound-images/user-final/varihesive-extra-fino-01.webp": {
+      "sha256": "6dffe9c0425d73da7e03416f0e3d61d9b80726fe7358139004ea5ea1cbf1c99b",
+      "bytes": 109588
+    },
+    "assets/wound-images/user-final/varihesive-gel-control-01.webp": {
+      "sha256": "4fc4675a1807183d73bcf13ae3359136506c815a984a710ff715413a1f94e6bc",
+      "bytes": 169970
+    },
+    "release/1.4.0-7efe76ad53aa/fcc-personal.js": {
+      "sha256": "0bd09a89a25981beabbd159a169d4fea95dd248332d83aa069adc0b1e394f487",
+      "bytes": 4350
+    },
+    "release/1.4.0-7efe76ad53aa/expense-recurring-engine.js": {
+      "sha256": "ce8f62b357a50f76c3a05d99e8eaa2919ed7284af1242080dbdc00937b7df1ae",
+      "bytes": 12060
+    },
+    "release/1.4.0-7efe76ad53aa/expense-center.js": {
+      "sha256": "72a57cd14a83b136db3dc23f8594c67ff4a675c8d7bed2a3574b6e08dce57941",
+      "bytes": 38518
+    },
+    "release/1.4.0-7efe76ad53aa/expense-recurring-ui.js": {
+      "sha256": "40dce1d21d113baac8912eb54b531603a6895a91846dac242e271e925f9b6a09",
+      "bytes": 15474
+    },
+    "release/1.4.0-7efe76ad53aa/research-live-search-v1.js": {
+      "sha256": "8223a7e026967b3d78bcc7d55bc43fe7fbfb23c9af420cff5df4c22f5b5d3142",
+      "bytes": 6663
+    },
+    "release/1.4.0-7efe76ad53aa/clinical-material.js": {
+      "sha256": "c158e120c624854883b4c6794a2afd91308ca32324811a226321a68e2cc5d142",
+      "bytes": 5990
+    },
+    "release/1.4.0-7efe76ad53aa/clinical-material-window-v2.js": {
+      "sha256": "475eb86a486f27a7a31fe12cfbe49e5d6f81fd0e04411b04305de5bb8af5d9f5",
+      "bytes": 2103
+    }
+  },
+  "packages": {
+    "core": {
+      "label": "Base da aplicação",
+      "files": [
+        "release/1.4.0-7efe76ad53aa/styles.css",
+        "release/1.4.0-7efe76ad53aa/fcc-ui.css",
+        "release/1.4.0-7efe76ad53aa/fcc-core.js",
+        "release/1.4.0-7efe76ad53aa/fcc-store.js",
+        "release/1.4.0-7efe76ad53aa/fcc-ui.js",
+        "release/1.4.0-7efe76ad53aa/fcc-clinical-ui.js",
+        "release/1.4.0-7efe76ad53aa/app.js",
+        "release/1.4.0-7efe76ad53aa/navigation-hub.js",
+        "release/1.4.0-7efe76ad53aa/theme-switcher.js",
+        "release/1.4.0-7efe76ad53aa/theme-auto-v2.js",
+        "release/1.4.0-7efe76ad53aa/theme-audit-fixes.js",
+        "release/1.4.0-7efe76ad53aa/personal-security-v1.js",
+        "release/1.4.0-7efe76ad53aa/fcc-navigation.js",
+        "release/1.4.0-7efe76ad53aa/personal-hub-v1.js",
+        "release/1.4.0-7efe76ad53aa/fcc-backup.js",
+        "release/1.4.0-7efe76ad53aa/search-enhancer.js",
+        "release/1.4.0-7efe76ad53aa/fcc-favorites.js",
+        "release/1.4.0-7efe76ad53aa/fcc-offline.js",
+        "release/1.4.0-7efe76ad53aa/home-current-news-v1.js",
+        "index.html",
+        "manifest.webmanifest",
+        "icon-192.png",
+        "icon-512.png",
+        "icon.svg"
+      ]
+    },
+    "clinical": {
+      "label": "Clínica completa e pesquisa",
+      "files": [
+        "release/1.4.0-7efe76ad53aa/fcc-content-core-v1.js",
+        "release/1.4.0-7efe76ad53aa/fcc-content-config-v1.js",
+        "release/1.4.0-7efe76ad53aa/data/institutional.json",
+        "release/1.4.0-7efe76ad53aa/data/high-alert.json",
+        "release/1.4.0-7efe76ad53aa/perfusion-reference.js",
+        "release/1.4.0-7efe76ad53aa/critical-care-dilutions-v2.js",
+        "release/1.4.0-7efe76ad53aa/dilutions-ux-v3.js",
+        "release/1.4.0-7efe76ad53aa/dilutions-document-db-v4.js",
+        "release/1.4.0-7efe76ad53aa/dilutions-cuf-v6.js",
+        "release/1.4.0-7efe76ad53aa/dilutions-card-ux-v5.js",
+        "release/1.4.0-7efe76ad53aa/data/dilutionSource.json",
+        "release/1.4.0-7efe76ad53aa/fcc-medications.js",
+        "release/1.4.0-7efe76ad53aa/medication-stability-cuf-v1.js",
+        "release/1.4.0-7efe76ad53aa/data/medications.json",
+        "release/1.4.0-7efe76ad53aa/data/brand-names.json",
+        "release/1.4.0-7efe76ad53aa/medication-safety-cuf-v2.js",
+        "release/1.4.0-7efe76ad53aa/iv-compatibility.js",
+        "release/1.4.0-7efe76ad53aa/iv-catalogue.js",
+        "release/1.4.0-7efe76ad53aa/iv-compatibility-ui-v2.js",
+        "release/1.4.0-7efe76ad53aa/iv-source-evidence.js",
+        "release/1.4.0-7efe76ad53aa/iv-compatibility-expanded-v3.js",
+        "release/1.4.0-7efe76ad53aa/iv-compatibility-exit-reset-v1.js",
+        "release/1.4.0-7efe76ad53aa/fcc-cases.js",
+        "release/1.4.0-7efe76ad53aa/data/cases.json",
+        "release/1.4.0-7efe76ad53aa/data/case-sources.json",
+        "release/1.4.0-7efe76ad53aa/ecg-photo-assist.js",
+        "release/1.4.0-7efe76ad53aa/ecg-image-analyzer-v3.js",
+        "release/1.4.0-7efe76ad53aa/data/search-index.json"
+      ]
+    },
+    "dressings": {
+      "label": "Pensos e 46 imagens",
+      "files": [
+        "release/1.4.0-7efe76ad53aa/wound-dressings-v1.js",
+        "release/1.4.0-7efe76ad53aa/wound-dressings-local-data-v1.js",
+        "release/1.4.0-7efe76ad53aa/wound-dressings-order-v1.js",
+        "release/1.4.0-7efe76ad53aa/wound-dressings-media-model-v1.js",
+        "release/1.4.0-7efe76ad53aa/wound-images-curated-v1.json",
+        "release/1.4.0-7efe76ad53aa/fcc-content-core-v1.js",
+        "release/1.4.0-7efe76ad53aa/fcc-content-config-v1.js",
+        "assets/wound-images/user-final/acticoat-flex-3-01.webp",
+        "assets/wound-images/user-final/actisorb-silver-220-01.webp",
+        "assets/wound-images/user-final/adaptic-01.webp",
+        "assets/wound-images/user-final/allevyn-life-01.webp",
+        "assets/wound-images/user-final/aquacel-ag-extra-01.webp",
+        "assets/wound-images/user-final/aquacel-ag-extra-02.avif",
+        "assets/wound-images/user-final/aquacel-extra-01.webp",
+        "assets/wound-images/user-final/aquacel-extra-02.avif",
+        "assets/wound-images/user-final/argenpal-01.webp",
+        "assets/wound-images/user-final/atrauman-ag-01.webp",
+        "assets/wound-images/user-final/atrauman-ag-02.avif",
+        "assets/wound-images/user-final/atrauman-ag-03.avif",
+        "assets/wound-images/user-final/atrauman-ag-04.avif",
+        "assets/wound-images/user-final/cutanplast-01.webp",
+        "assets/wound-images/user-final/cutanplast-02.avif",
+        "assets/wound-images/user-final/emla-penso-01.webp",
+        "assets/wound-images/user-final/inadine-01.webp",
+        "assets/wound-images/user-final/inadine-02.avif",
+        "assets/wound-images/user-final/inadine-03.avif",
+        "assets/wound-images/user-final/inadine-04.avif",
+        "assets/wound-images/user-final/jelonet-01.webp",
+        "assets/wound-images/user-final/jelonet-02.avif",
+        "assets/wound-images/user-final/melgisorb-plus-01.webp",
+        "assets/wound-images/user-final/melgisorb-plus-02.avif",
+        "assets/wound-images/user-final/mepilex-01.webp",
+        "assets/wound-images/user-final/mepilex-02.avif",
+        "assets/wound-images/user-final/mepilex-border-flex-01.webp",
+        "assets/wound-images/user-final/mepilex-border-flex-02.avif",
+        "assets/wound-images/user-final/mepilex-border-heel-01.webp",
+        "assets/wound-images/user-final/mepilex-border-heel-02.avif",
+        "assets/wound-images/user-final/mepitel-01.avif",
+        "assets/wound-images/user-final/merogel-01.webp",
+        "assets/wound-images/user-final/multidex-01.webp",
+        "assets/wound-images/user-final/nu-gel-01.webp",
+        "assets/wound-images/user-final/promogran-01.webp",
+        "assets/wound-images/user-final/spongostan-standard-01.webp",
+        "assets/wound-images/user-final/surgicel-01.webp",
+        "assets/wound-images/user-final/surgicel-02.avif",
+        "assets/wound-images/user-final/surgicel-03.avif",
+        "assets/wound-images/user-final/surgicel-fibrilar-01.webp",
+        "assets/wound-images/user-final/surgicel-fibrilar-02.avif",
+        "assets/wound-images/user-final/surgicel-fibrilar-03.avif",
+        "assets/wound-images/user-final/tachosil-01.webp",
+        "assets/wound-images/user-final/tutopatch-01.webp",
+        "assets/wound-images/user-final/varihesive-extra-fino-01.webp",
+        "assets/wound-images/user-final/varihesive-gel-control-01.webp"
+      ]
+    },
+    "personal": {
+      "label": "Ferramentas pessoais",
+      "files": [
+        "release/1.4.0-7efe76ad53aa/fcc-personal.js",
+        "release/1.4.0-7efe76ad53aa/expense-recurring-engine.js",
+        "release/1.4.0-7efe76ad53aa/expense-center.js",
+        "release/1.4.0-7efe76ad53aa/expense-recurring-ui.js",
+        "release/1.4.0-7efe76ad53aa/research-live-search-v1.js",
+        "release/1.4.0-7efe76ad53aa/clinical-material.js",
+        "release/1.4.0-7efe76ad53aa/clinical-material-window-v2.js",
+        "release/1.4.0-7efe76ad53aa/fcc-content-core-v1.js",
+        "release/1.4.0-7efe76ad53aa/fcc-content-config-v1.js"
+      ]
+    }
+  }
+}

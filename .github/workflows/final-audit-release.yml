@@ -1,0 +1,9 @@
+name: Final audit source preparation (archived)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  archived:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Source preparation completed. Run 35076897685 passed. Current verification and deployment use Quality gate 1.4; this workflow no longer applies transfer patches.'

@@ -4,15 +4,18 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#06111e"><title>Fábio Command Center · MASTER</title>
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="release/1.4.0-7efe76ad53aa/styles.css">
+<link rel="stylesheet" href="release/1.4.0-7efe76ad53aa/fcc-ui.css">
+<meta name="referrer" content="no-referrer">
 
 </head>
 <body>
+<a class="fcc-skip" href="#main-content">Saltar para o conteúdo</a>
 <div class="app">
 <header class="top">
- <div class="brand"><div class="logo">FC</div><div><h1>Fábio Command Center</h1><p>MASTER · Clinical OS · Emergency · Comms · Garage · Research</p></div></div>
+ <div class="brand"><div class="logo">FC</div><div><h1>Fábio Command Center</h1><p>MASTER · Área clínica · Emergency · Comms · Garage · Research</p></div></div>
  <div class="row">
- <span class="master-chip">MASTER 1.3.2</span>
+ <span class="master-chip">MASTER 1.4.0</span>
  <div class="globalbox"><input id="globalSearch" placeholder="Pesquisar em todo o Command Center..." oninput="renderGlobalSearch()"><div id="globalResults" class="global-results"></div></div>
  <button class="btn ghost" onclick="exportBackup()">Backup</button><button class="btn primary" onclick="go('home')">Início</button>
 </div>
@@ -27,29 +30,35 @@
  <button class="nav" data-page="research" onclick="go('research')"><span class="ni">⌕</span><span>Research</span></button>
  <button class="nav" data-page="settings" onclick="go('settings')"><span class="ni">⚙</span><span>Settings</span></button>
 </nav>
-<main>
+<main id="main-content" tabindex="-1">
 
 <section class="page active" id="page-home">
- <div class="hero"><h2>Um command center pessoal para clínica, emergência, comunicações, veículos e investigação.</h2><p>Construído para consulta rápida no iPhone e utilização aprofundada no desktop. Dados guardados localmente e exportáveis.</p><div class="pills"><span class="pill">20 módulos Clinical</span><span class="pill">137 itens Emergency</span><span class="pill">3× LilyGO Plus 433 MHz</span><span class="pill">BME280</span><span class="pill">PWA / offline-ready</span></div></div>
- <div class="grid">
-  <div class="card"><h3>Clinical OS</h3><div class="metric">20 <small>módulos</small></div><p>Ventilação, ECG, sépsis, AVC, perfusões, fármacos, CRRT, escalas e workflows.</p></div>
-  <div class="card"><h3>Emergency</h3><div class="metric" id="homePrep">—</div><p>Inventário real + família + cenários.</p></div>
-  <div class="card"><h3>Comms</h3><div class="metric">3 <small>nodes ativos</small></div><p>LilyGO Plus 433 MHz + BME280.</p></div>
-  <div class="card" onclick="go('clinical')" style="cursor:pointer"><h3>🩺 Clinical</h3><p>Abre o Clinical OS completo.</p></div>
-  <div class="card" onclick="go('emergency')" style="cursor:pointer"><h3>🚨 Emergency</h3><p>Inventário, família, locais e plano por cenário.</p></div>
-  <div class="card" onclick="go('comms')" style="cursor:pointer"><h3>📡 Comms</h3><p>RF, telemetria e testes dos três nodes.</p></div>
-  <div class="card" onclick="go('garage')" style="cursor:pointer"><h3>🏍️ Garage</h3><p>Africa Twin + Polaris, manutenção e custos.</p></div>
-  <div class="card" onclick="go('research')" style="cursor:pointer"><h3>📚 Research</h3><p>DOI, PMID, Vancouver, notas e guidelines.</p></div>
-  <div class="card"><h3>System Health</h3><div class="metric" id="homeHealth">—</div><p>Schema estável + content packs + autodiagnóstico.</p><div class="actions"><button class="btn small" onclick="go('settings')">Abrir Maintenance Center</button></div></div>
-  <div class="card"><h3>Alertas</h3><div id="homeAlerts" class="list"></div></div>
-  <div class="card"><h3>Notas rápidas</h3><textarea id="homeNotes" placeholder="Algo para guardar..."></textarea><div class="actions"><button class="btn primary" onclick="saveNote('general','homeNotes')">Guardar</button></div></div>
- </div>
-</section>
+      <div class="hero">
+        <h2>Notícias</h2>
+        <p>Saúde e atualidade mundial, atualizadas automaticamente.</p>
+      </div>
+      <div class="grid">
+        <section class="card full home-news-card" id="homeHealthNewsCard">
+          <div class="home-news-head">
+            <div><span class="eyebrow">SAÚDE</span><h3>Notícias de Saúde</h3><div class="home-news-meta" id="homeHealthNewsMeta">A carregar notícias…</div></div>
+            <div class="home-news-controls"><button class="btn small home-news-refresh" id="homeHealthNewsRefresh" type="button">Atualizar</button><button class="btn small home-news-arrow" type="button" data-news-prev aria-label="Notícias anteriores de saúde">‹</button><button class="btn small home-news-arrow" type="button" data-news-next aria-label="Próximas notícias de saúde">›</button></div>
+          </div>
+          <div class="home-news-list" id="homeHealthNewsList"><div class="home-news-empty">A carregar notícias de saúde…</div></div>
+        </section>
+        <section class="card full home-news-card" id="homeWorldNewsCard">
+          <div class="home-news-head">
+            <div><span class="eyebrow">MUNDO</span><h3>Atualidade do Mundo</h3><div class="home-news-meta" id="homeWorldNewsMeta">A carregar notícias…</div></div>
+            <div class="home-news-controls"><button class="btn small home-news-refresh" id="homeWorldNewsRefresh" type="button">Atualizar</button><button class="btn small home-news-arrow" type="button" data-news-prev aria-label="Notícias anteriores de atualidade mundial">‹</button><button class="btn small home-news-arrow" type="button" data-news-next aria-label="Próximas notícias de atualidade mundial">›</button></div>
+          </div>
+          <div class="home-news-list" id="homeWorldNewsList"><div class="home-news-empty">A carregar atualidade mundial…</div></div>
+        </section>
+        <div hidden aria-hidden="true"><span id="homeHealth"></span><span id="homePrep"></span><div id="homeAlerts"></div><textarea id="homeNotes"></textarea></div>
+      </div></section>
 
 <section class="page" id="page-clinical">
  <div class="pagehead"><div><h2>Clinical OS</h2><p>Urgência + UCI · cálculo, interpretação, treino e handover.</p></div><span class="badge warn">Apoio à decisão · validar protocolo local</span></div>
  <div class="notice">Não substitui avaliação clínica, monitorização, guideline integral, SmPC, protocolo institucional ou decisão da equipa. Os outputs são cálculos, alertas e pontos a rever — não prescrição automática.</div>
- <div class="tabs"><button class="tab active" onclick="subtab('clinical','clin-perf',this)">Perfusões</button><button class="tab" onclick="subtab('clinical','clin-vent',this)">Ventilador + GSA</button><button class="tab" onclick="subtab('clinical','clin-ecg',this)">ECG</button><button class="tab" onclick="subtab('clinical','clin-hemo',this)">Hemodinâmica</button><button class="tab" onclick="subtab('clinical','clin-abg',this)">Gasimetria</button><button class="tab" onclick="subtab('clinical','clin-elec',this)">Eletrólitos</button><button class="tab" onclick="subtab('clinical','clin-drugs',this)">Drug Reference</button><button class="tab" onclick="subtab('clinical','clin-sepsis',this)">Sépsis / Choque</button><button class="tab" onclick="subtab('clinical','clin-stroke',this)">AVC</button><button class="tab" onclick="subtab('clinical','clin-sed',this)">Sedação / Delirium</button><button class="tab" onclick="subtab('clinical','clin-als',this)">SAV / ALS</button><button class="tab" onclick="subtab('clinical','clin-crrt',this)">TSR / CRRT</button><button class="tab" onclick="subtab('clinical','clin-fluid',this)">Balanço hídrico</button><button class="tab" onclick="subtab('clinical','clin-scales',this)">Escalas</button><button class="tab" onclick="subtab('clinical','clin-calcs',this)">Calculadoras</button><button class="tab" onclick="subtab('clinical','clin-cases',this)">Casos</button><button class="tab" onclick="subtab('clinical','clin-icu',this)">Admissão UCI</button><button class="tab" onclick="subtab('clinical','clin-transport',this)">Transporte crítico</button><button class="tab" onclick="subtab('clinical','clin-isbar',this)">ISBAR</button><button class="tab" onclick="subtab('clinical','clin-sources',this)">Fontes</button></div>
+ <div class="tabs"><button class="tab active" onclick="subtab('clinical','clin-perf',this)">Perfusões</button><button class="tab" onclick="subtab('clinical','clin-vent',this)">Ventilador + GSA</button><button class="tab" onclick="subtab('clinical','clin-ecg',this)">ECG</button><button class="tab" onclick="subtab('clinical','clin-hemo',this)">Hemodinâmica</button><button class="tab" onclick="subtab('clinical','clin-abg',this)">Gasimetria</button><button class="tab" onclick="subtab('clinical','clin-elec',this)">Eletrólitos</button><button class="tab" onclick="subtab('clinical','clin-drugs',this)">Medicação</button><button class="tab" onclick="subtab('clinical','clin-sepsis',this)">Sépsis / Choque</button><button class="tab" onclick="subtab('clinical','clin-stroke',this)">AVC</button><button class="tab" onclick="subtab('clinical','clin-sed',this)">Sedação / Delirium</button><button class="tab" onclick="subtab('clinical','clin-als',this)">SAV / ALS</button><button class="tab" onclick="subtab('clinical','clin-crrt',this)">TSR / CRRT</button><button class="tab" onclick="subtab('clinical','clin-fluid',this)">Balanço hídrico</button><button class="tab" onclick="subtab('clinical','clin-scales',this)">Escalas</button><button class="tab" onclick="subtab('clinical','clin-calcs',this)">Calculadoras</button><button class="tab" onclick="subtab('clinical','clin-cases',this)">Casos</button><button class="tab" onclick="subtab('clinical','clin-icu',this)">Admissão UCI</button><button class="tab" onclick="subtab('clinical','clin-transport',this)">Transporte crítico</button><button class="tab" onclick="subtab('clinical','clin-isbar',this)">ISBAR</button><button class="tab" onclick="subtab('clinical','clin-sources',this)">Fontes</button></div>
 
  <div class="sub active" id="clin-perf"><div class="grid">
   <div class="card half"><h3>Calculadora universal de perfusões</h3>
@@ -74,27 +83,27 @@
    <label>Sexo PBW<select id="vSex"><option value="male">Masculino</option><option value="female">Feminino</option></select></label><label>Altura cm<input id="vHeight" type="number"></label>
    <label>Vt mL<input id="vVt" type="number"></label><label>FR<input id="vRR" type="number"></label><label>PEEP set<input id="vPEEP" type="number"></label><label>PEEP total (se medida)<input id="vTotalPEEP" type="number" placeholder="opcional"></label><label>Pplat<input id="vPplat" type="number"></label><label>Ppeak<input id="vPpeak" type="number"></label><label>FiO₂ %<input id="vFiO2" type="number"></label><label>SpO₂ %<input id="vSpO2" type="number"></label><label>Ti s<input id="vTi" type="number" step="any"></label><label>I:E<input id="vIE" placeholder="1:2"></label>
   </div><div class="clin-valid">
-   <label><input id="vPassive" type="checkbox" checked> Doente passivo / sem esforço relevante</label>
-   <label><input id="vPlateauValid" type="checkbox" checked> Pplat obtida com pausa válida</label>
+   <label><input id="vPassive" type="checkbox"> Doente passivo / sem esforço relevante</label>
+   <label><input id="vPlateauValid" type="checkbox"> Pplat obtida com pausa válida</label>
   </div></div>
-  <div class="card half"><h3>Gasimetria</h3><div class="form3"><label>pH<input id="vPH" type="number" step=".001"></label><label>PaCO₂<input id="vCO2" type="number"></label><label>PaO₂<input id="vO2" type="number"></label><label>HCO₃⁻<input id="vHCO3" type="number"></label><label>Lactato<input id="vLac" type="number" step="any"></label><label>BE<input id="vBE" type="number" step="any"></label></div><div class="actions"><button class="btn primary" onclick="analyzeVent()">Analisar conjunto</button></div><div id="ventSummary" class="result"><div class="big">—</div><div class="subtext">PBW, Vt/kg, MV, ΔP, Cstat, P/F e ácido-base.</div></div></div>
+  <div class="card half"><h3>Gasimetria</h3><div class="form3"><label>pH<input id="vPH" type="number" step=".001"></label><label>PaCO₂ (mmHg)<input id="vCO2" type="number"></label><label>PaO₂ (mmHg)<input id="vO2" type="number"></label><label>HCO₃⁻ (mmol/L)<input id="vHCO3" type="number"></label><label>Lactato<input id="vLac" type="number" step="any"></label><label>BE<input id="vBE" type="number" step="any"></label></div><div class="actions"><button class="btn primary" onclick="analyzeVent()">Analisar conjunto</button></div><div id="ventSummary" class="result"><div class="big">—</div><div class="subtext">PBW, Vt/kg, MV, ΔP, Cstat, P/F e ácido-base.</div></div></div>
   <div class="card half"><h3>Métricas</h3><div id="ventMetrics" class="list"></div></div>
   <div class="card half"><h3>Pontos a rever</h3><div id="ventAdvice" class="stack"><div class="advice">Preenche ventilador + GSA para obter alertas estruturados.</div></div></div>
  </div></div>
 
  <div class="sub" id="clin-ecg"><div class="grid">
-  <div class="card half"><h3>ECG Structured Interpreter</h3><div class="form3"><label>FC bpm<input id="eRate" type="number"></label><label>Regularidade<select id="eReg"><option></option><option>Regular</option><option>Irregular</option><option>Irregularmente irregular</option></select></label><label>Ondas P<select id="eP"><option></option><option>Presentes antes de cada QRS</option><option>Ausentes/não visíveis</option><option>Variáveis</option></select></label><label>PR ms<input id="ePR" type="number"></label><label>QRS ms<input id="eQRS" type="number"></label><label>QTc ms<input id="eQTc" type="number"></label><label>ST<select id="eST"><option value="none">Sem alteração relevante</option><option value="elev">Elevação</option><option value="dep">Depressão</option><option value="both">Ambos</option></select></label><label>Derivações<input id="eLeads" placeholder="II, III, aVF"></label><label>Sintomas/instabilidade<select id="eSymptoms"><option value="no">Não</option><option value="yes">Sim</option></select></label></div><div class="actions"><button class="btn primary" onclick="analyzeECG()">Interpretar</button></div></div>
+  <div class="card half"><h3>Interpretação estruturada de ECG</h3><div class="form3"><label>FC bpm<input id="eRate" type="number"></label><label>Regularidade<select id="eReg"><option></option><option>Regular</option><option>Irregular</option><option>Irregularmente irregular</option></select></label><label>Ondas P<select id="eP"><option></option><option>Presentes antes de cada QRS</option><option>Ausentes/não visíveis</option><option>Variáveis</option></select></label><label>PR ms<input id="ePR" type="number"></label><label>QRS ms<input id="eQRS" type="number"></label><label>QTc ms<input id="eQTc" type="number"></label><label>ST<select id="eST"><option value="none">Sem alteração relevante</option><option value="elev">Elevação</option><option value="dep">Depressão</option><option value="both">Ambos</option></select></label><label>Derivações<input id="eLeads" placeholder="II, III, aVF"></label><label>Sintomas/instabilidade<select id="eSymptoms"><option value="no">Não</option><option value="yes">Sim</option></select></label></div><div class="actions"><button class="btn primary" onclick="analyzeECG()">Interpretar</button></div></div>
   <div class="card half"><h3>Resultado</h3><div id="ecgResult" class="stack"><div class="advice">Não substitui a inspeção do traçado de 12 derivações.</div></div></div>
   <div class="card full"><h3>Casos rápidos</h3><div class="row"><button class="btn" onclick="loadECG('af')">FA rápida</button><button class="btn" onclick="loadECG('svt')">TSV estreita</button><button class="btn" onclick="loadECG('vt')">TV</button><button class="btn" onclick="loadECG('inf')">ST inferior</button></div></div>
  </div></div>
 
  <div class="sub" id="clin-hemo"><div class="grid">
   <div class="card half"><h3>MAP + Shock Index</h3><div class="form3"><label>PAS<input id="hSBP" type="number"></label><label>PAD<input id="hDBP" type="number"></label><label>FC<input id="hHR" type="number"></label></div><div class="actions"><button class="btn primary" onclick="calcHemo()">Calcular</button></div><div id="hemoResult" class="result"><div class="big">—</div></div></div>
-  <div class="card half"><h3>P/F ratio</h3><div class="form2"><label>PaO₂<input id="pfO2" type="number"></label><label>FiO₂ %<input id="pfFi" type="number"></label></div><div class="actions"><button class="btn primary" onclick="calcPF()">Calcular</button></div><div id="pfResult" class="result"><div class="big">—</div></div></div>
+  <div class="card half"><h3>P/F ratio</h3><div class="form2"><label>PaO₂ (mmHg)<input id="pfO2" type="number"></label><label>FiO₂ %<input id="pfFi" type="number"></label></div><div class="actions"><button class="btn primary" onclick="calcPF()">Calcular</button></div><div id="pfResult" class="result"><div class="big">—</div></div></div>
  </div></div>
 
  <div class="sub" id="clin-abg"><div class="grid">
-  <div class="card half"><h3>Ácido-base</h3><div class="form3"><label>pH<input id="aPH" type="number" step=".001"></label><label>PaCO₂<input id="aCO2" type="number"></label><label>HCO₃⁻<input id="aHCO3" type="number"></label><label>Na<input id="aNa" type="number"></label><label>Cl<input id="aCl" type="number"></label><label>Albumina g/dL<input id="aAlb" type="number" step="any"></label></div><div class="actions"><button class="btn primary" onclick="analyzeABG()">Interpretar</button></div><div id="abgResult" class="stack"></div></div>
+  <div class="card half"><h3>Ácido-base</h3><div class="form3"><label>pH<input id="aPH" type="number" step=".001"></label><label>PaCO₂ (mmHg)<input id="aCO2" type="number"></label><label>HCO₃⁻ (mmol/L)<input id="aHCO3" type="number"></label><label>Na<input id="aNa" type="number"></label><label>Cl<input id="aCl" type="number"></label><label>Albumina g/dL<input id="aAlb" type="number" step="any"></label></div><div class="actions"><button class="btn primary" onclick="analyzeABG()">Interpretar</button></div><div id="abgResult" class="stack"></div></div>
   <div class="card half"><h3>Winter + anion gap</h3><div class="advice">Winter: PaCO₂ esperada ≈ 1,5 × HCO₃ + 8 ±2 em acidose metabólica.</div><div id="abgExtra" class="result"><div class="big">—</div></div></div>
  </div></div>
 
@@ -153,7 +162,7 @@
 
  <div class="sub" id="clin-isbar"><div class="grid"><div class="card half"><h3>Gerador ISBAR</h3><div class="form2"><label>I<textarea id="iI" placeholder="Identificação"></textarea></label><label>S<textarea id="iS" placeholder="Situação"></textarea></label><label>B<textarea id="iB" placeholder="Background"></textarea></label><label>A<textarea id="iA" placeholder="Assessment"></textarea></label><label style="grid-column:1/-1">R<textarea id="iR" placeholder="Recommendation"></textarea></label></div><div class="actions"><button class="btn primary" onclick="generateISBAR()">Gerar</button><button class="btn" onclick="copyISBAR()">Copiar</button></div></div><div class="card half"><h3>Handover</h3><div id="isbarOut" class="result" style="white-space:pre-wrap;font-family:monospace">Preenche os campos.</div></div></div></div>
 
- <div class="sub" id="clin-sources"><div class="grid"><div class="card full"><div class="panel-title"><div><h3>Fontes / manutenção clínica</h3><p>O registo principal é gerido no Maintenance Center para permitir updates sem reconstrução.</p></div><button class="btn small" onclick="go('settings')">Maintenance Center</button></div><div id="clinicalSourceSummary" class="list"></div></div></div></div>
+ <div class="sub" id="clin-sources"><div class="grid"><div class="card full"><div class="panel-title"><div><h3>Fontes / manutenção clínica</h3><p>O registo principal é gerido no Definições para permitir updates sem reconstrução.</p></div><button class="btn small" onclick="go('settings')">Maintenance Center</button></div><div id="clinicalSourceSummary" class="list"></div></div></div></div>
 </section>
 
 <section class="page" id="page-emergency">
@@ -191,23 +200,23 @@
 </section>
 
 <section class="page" id="page-settings">
- <div class="pagehead"><div><h2>Maintenance Center</h2><p>A partir daqui, esta é a base permanente. Updates futuros entram por content packs ou migrações sem apagar os teus dados.</p></div><span class="master-chip">MASTER 1.3.2</span></div>
+ <div class="pagehead"><div><h2>Maintenance Center</h2><p>A partir daqui, esta é a base permanente. Updates futuros entram por content packs ou migrações sem apagar os teus dados.</p></div><span class="master-chip">MASTER 1.4.0</span></div>
  <div class="grid">
   <div class="card full"><h3>Estado do sistema</h3><div class="health-grid">
-    <div class="health"><span>App</span><b id="appHealthVersion">MASTER 1.3.2</b></div>
-    <div class="health"><span>Data schema</span><b id="schemaHealth">v1</b></div>
+    <div class="health"><span>App</span><b id="appHealthVersion">MASTER 1.4.0</b></div>
+    <div class="health"><span>Esquema de dados</span><b id="schemaHealth">v1</b></div>
     <div class="health"><span>Content pack</span><b id="contentHealth">2026.08.19</b></div>
     <div class="health"><span>Storage</span><b id="storageHealth">—</b></div>
-  </div><div class="actions"><button class="btn primary" onclick="runDiagnostics()">Executar autodiagnóstico</button><button class="btn" onclick="exportSupportSnapshot()">Support snapshot</button></div><div id="diagnosticResults" class="list"></div></div>
+  </div><div class="actions"><button class="btn primary" onclick="runDiagnostics()">Executar autodiagnóstico</button><button class="btn" onclick="exportSupportSnapshot()">Diagnóstico sem dados pessoais</button></div><div id="diagnosticResults" class="list"></div></div>
   <div class="card half"><h3>Backup dos teus dados</h3><p>O backup inclui dados pessoais, inventário, registos, investigação e content pack ativo.</p><div class="actions"><button class="btn primary" onclick="exportBackup()">Exportar MASTER backup</button><label class="btn">Importar backup<input type="file" accept=".json" style="display:none" onchange="importBackup(this.files[0])"></label></div><div class="tiny" id="backupHealth"></div></div>
   <div class="card half"><h3>Update Pack</h3><p>Atualiza fontes, Drug Reference, casos e checklists sem reconstruir a aplicação nem tocar nos teus dados.</p><div class="actions"><label class="btn primary">Importar Update Pack<input type="file" accept=".json" style="display:none" onchange="importUpdatePack(this.files[0])"></label><button class="btn" onclick="exportActiveContentPack()">Exportar pack ativo</button></div><div class="tiny">Pack atual: <b id="activePackVersion">2026.08.19</b></div></div>
-  <div class="card full"><div class="panel-title"><div><h3>Source Registry</h3><p>Fontes clínicas e estado de verificação. O sistema avisa quando a revisão fica antiga.</p></div><span class="badge">Verificado: 2026-08-19</span></div><div id="sourceRegistry" class="list"></div></div>
+  <div class="card full"><div class="panel-title"><div><h3>Fontes clínicas</h3><p>Fontes clínicas e estado de verificação. O sistema avisa quando a revisão fica antiga.</p></div><span class="badge">Revisão declarada na base: 19/08/2026</span></div><div id="sourceRegistry" class="list"></div></div>
   <div class="card half"><h3>Dados & integridade</h3><div id="dataHealth" class="list"></div></div>
   <div class="card half"><h3>Reset</h3><div class="redflag">Reset total apaga apenas os dados MASTER no browser atual. Mantém sempre um backup externo.</div><div class="actions"><button class="btn" onclick="resetAll()">Reset total</button></div></div>
  </div>
 </section>
 
-<div class="footer">Fábio Command Center MASTER · stable data schema · agosto 2026</div>
+<div class="footer">Fábio Command Center MASTER · Dados locais cifrados · setembro 2026</div>
 </main></div></div>
 
 <div class="modal" id="researchModal"><input type="hidden" id="rEditId"><div class="modalbox"><div class="row"><h3>Adicionar investigação</h3><div class="spacer"></div><button class="btn small" onclick="closeModal('researchModal')">Fechar</button></div><div class="form2">
@@ -219,7 +228,11 @@
 
 <div class="toast" id="toast"></div>
 
-<script src="app.js?v=1.3.2"></script>
-<script src="navigation-hub.js?v=1.3.2-auto-theme"></script>
+<script src="release/1.4.0-7efe76ad53aa/fcc-core.js"></script>
+<script src="release/1.4.0-7efe76ad53aa/fcc-store.js"></script>
+<script src="release/1.4.0-7efe76ad53aa/fcc-ui.js"></script>
+<script src="release/1.4.0-7efe76ad53aa/fcc-clinical-ui.js"></script>
+<script src="release/1.4.0-7efe76ad53aa/app.js"></script>
+<script src="release/1.4.0-7efe76ad53aa/navigation-hub.js"></script>
 
 </body></html>
