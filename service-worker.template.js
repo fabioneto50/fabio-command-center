@@ -14,18 +14,31 @@ self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));
 const offline=()=>new Response('Recurso indisponível offline. Prepara o pacote completo nas Definições quando houver ligação.',{status:503,headers:{'Content-Type':'text/plain; charset=utf-8','Cache-Control':'no-store','X-FCC-Offline':'1'}});
 async function cached(path,m){for(const [name,p]of Object.entries(m.packages)){if(name!=='core'&&!p.files.includes(path))continue;const c=await caches.open(name==='core'?CORE:PREFIX+BUILD+'-'+name);if(name!=='core'&&!await c.match(abs('__fcc_complete__')))continue;const r=await c.match(abs(path));if(r)return r;}return null;}
 async function resource(path){try{const m=await manifest(),saved=await cached(path,m);if(saved)return saved;const r=await verified(path,m);const c=await caches.open(CORE);await c.put(abs(path),r.clone());return r;}catch{return offline();}}
+// Other open tabs may still run the previous release after one tab accepts an update.
+// Serve only assets declared and verified in that release, never a cross-version substitute.
+async function previousResource(path,build,request){
+ try{
+  const oldCore=await caches.open(PREFIX+build+'-core'),savedManifest=await oldCore.match(abs('asset-manifest.json'));
+  if(savedManifest){const m=await savedManifest.json();if(m.build===build&&Object.hasOwn(m.assets,path)){
+   for(const name of Object.keys(m.packages)){const cache=await caches.open(PREFIX+build+'-'+name);if(name!=='core'&&!await cache.match(abs('__fcc_complete__')))continue;const saved=await cache.match(abs(path));if(saved)return saved;}
+  }}
+  return await timedFetch(request.url);
+ }catch{return offline();}
+}
 self.addEventListener('fetch',event=>{
  if(event.request.method!=='GET')return;
  const url=new URL(event.request.url);if(url.origin!==BASE.origin||!url.pathname.startsWith(BASE.pathname))return;
  let path=url.pathname.slice(BASE.pathname.length);if(!path||path==='index.html')path='index.html';
  // Dynamic feeds, user requests, external APIs and unknown query parameters are not cached.
  if([...url.searchParams.keys()].some(k=>k!=='v')||url.searchParams.has('v')&&url.searchParams.get('v')!==VERSION)return;
+ const old=path.match(/^release\/(1\.4\.0-[a-f0-9]{12})\//);
+ if(old&&old[1]!==BUILD){event.respondWith(previousResource(path,old[1],event.request));return;}
  if(path==='index.html'||path==='manifest.webmanifest'||path.startsWith('release/'+BUILD+'/')||path.startsWith('assets/wound-images/user-final/')||/^icon-(192|512)\.png$/.test(path)||path==='icon.svg'||path==='wound-images-curated-v1.json')event.respondWith(resource(path));
 });
 let packageQueue=Promise.resolve();
 self.addEventListener('message',event=>{
  const port=event.ports?.[0],message=event.data||{};
  if(message.type==='ACTIVATE_UPDATE'){event.waitUntil(self.skipWaiting());return;}
- const run=async()=>{const m=await manifest();if(message.type==='STATUS'){const packages={};for(const [name,p]of Object.entries(m.packages)){const c=await caches.open(name==='core'?CORE:PREFIX+BUILD+'-'+name);const marker=await c.match(abs('__fcc_complete__'));let ok=!!marker;if(ok)for(const path of p.files)if(!await c.match(abs(path))){ok=false;break;}packages[name]={label:p.label,complete:ok,files:p.files.length,bytes:p.files.reduce((n,path)=>n+m.assets[path].bytes,0)};}return {build:BUILD,packages,manifest:{version:VERSION,build:BUILD}};}if(message.type==='CACHE_PACKAGE'){const name=message.package;if(!Object.hasOwn(m.packages,name)||name==='core')throw Error('Pacote não suportado');await complete(name,m.packages[name].files,PREFIX+BUILD+'-'+name,m,port);return {ok:true,package:name};}throw Error('Mensagem desconhecida');};
+ const run=async()=>{if(message.expectedBuild&&message.expectedBuild!==BUILD)throw Error('Outra versão foi ativada. Guarda o trabalho e recarrega a página antes de preparar pacotes offline.');const m=await manifest();if(message.type==='STATUS'){const packages={};for(const [name,p]of Object.entries(m.packages)){const c=await caches.open(name==='core'?CORE:PREFIX+BUILD+'-'+name);const marker=await c.match(abs('__fcc_complete__'));let ok=!!marker;if(ok)for(const path of p.files)if(!await c.match(abs(path))){ok=false;break;}packages[name]={label:p.label,complete:ok,files:p.files.length,bytes:p.files.reduce((n,path)=>n+m.assets[path].bytes,0)};}return {build:BUILD,packages,manifest:{version:VERSION,build:BUILD}};}if(message.type==='CACHE_PACKAGE'){const name=message.package;if(!Object.hasOwn(m.packages,name)||name==='core')throw Error('Pacote não suportado');await complete(name,m.packages[name].files,PREFIX+BUILD+'-'+name,m,port);return {ok:true,package:name};}throw Error('Mensagem desconhecida');};
  const result=message.type==='CACHE_PACKAGE'?(packageQueue=packageQueue.catch(()=>{}).then(run)):run();event.waitUntil(result.then(data=>port?.postMessage(data)).catch(e=>port?.postMessage({error:e.message||'Operação offline falhou'})));
 });

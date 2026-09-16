@@ -6,7 +6,8 @@ const source=new Set(['styles.css','fcc-ui.css','fcc-core.js','fcc-store.js','fc
 for(const d of Object.values(definitions))for(const name of [...(d.scripts||[]),...(d.data||[])])source.add(name);
 const normalized=read('index.html').replace(/release\/1\.4\.0-[a-f0-9]{12}\//g,'').replace(/\?v=1\.4\.0/g,'');
 const build='1.4.0-'+hash([...source].sort().map(p=>p+'\n'+read(p)).join('\n')+'\n'+normalized+'\n'+read('service-worker.template.js')).slice(0,12),dir='release/'+build;
-fs.rmSync('release',{recursive:true,force:true});for(const name of source){const dest=dir+'/'+name;fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(name,dest);}
+// Keep immutable previous releases for open tabs and deferred updates. Prune only by a separately audited retention policy.
+for(const name of source){const dest=dir+'/'+name;fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(name,dest);}
 let html=normalized.replace(/(<script src=")([^"?]+\.js)(")/g,(_,a,b,c)=>a+dir+'/'+b+c).replace(/(<link rel="stylesheet" href=")([^"?]+\.css)(")/g,(_,a,b,c)=>a+dir+'/'+b+c);
 fs.writeFileSync('index.html',html);
 const moduleFiles=name=>{const d=definitions[name];if(!d)throw Error('Unknown module '+name);return [...new Set([...(d.scripts||[]),...(d.data||[]),...(d.deps||[]).flatMap(moduleFiles)])].map(p=>p.startsWith('release/')?p:p);};

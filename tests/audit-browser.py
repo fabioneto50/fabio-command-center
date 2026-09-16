@@ -49,6 +49,14 @@ def test_context(pw,name,width,height):
   check(prefix+' direct medication route',page.evaluate("location.hash.includes('clin-drugs/m-paracetamol')"));check(prefix+' canonical count',page.evaluate('FCCMedicationV7Health.count===923'))
   page.locator('#fccMedBack').click();check(prefix+' catalogue paginated',page.locator('#med4Results [data-med4]').count()<=36)
   page.locator('#med4Search').fill('noradrenalina');page.wait_for_timeout(250);page.locator('#med4Results [data-med4]').first.click();check(prefix+' mandatory fields',page.locator('#med4Results [data-clinical-field]').count()>=8);screenshot(page,prefix+'-medication')
+  # Deep-link list state is public; exercise actual browser back/forward and reload.
+  page.go_back();page.wait_for_selector('#med4Results [data-med4]');check(prefix+' detail back restores filtered list',page.locator('#med4Search').input_value()=='noradrenalina' and page.locator('#med4Results .med5-detail-row').count()==0)
+  check(prefix+' filter encoded in public URL','q=noradrenalina' in page.evaluate('location.hash'))
+  page.go_forward();page.wait_for_selector('#med4Results h3');check(prefix+' forward restores medication detail','noradrenalina' in page.locator('#med4Results h3').inner_text().lower())
+  page.locator('#fccMedBack').click();page.locator('#med4Search').fill('');page.wait_for_timeout(250);page.locator('#fccMedNext').click()
+  before=page.locator('#med4Results [data-med4]').first.get_attribute('data-med4');check(prefix+' pagination encoded in URL','p=1' in page.evaluate('location.hash'))
+  page.reload(wait_until='domcontentloaded');wait_ready(page);page.wait_for_selector('#med4Results [data-med4]')
+  check(prefix+' list page survives reload',page.locator('#med4Results [data-med4]').first.get_attribute('data-med4')==before and 'página 2' in page.locator('#fccMedCount').inner_text())
   nav(page,'clin-cases');page.locator('#globalSearch').fill('Perfusão periférica');page.wait_for_timeout(400);matches=page.evaluate("FCCSearch.getHits().map((x,i)=>({x,i})).filter(y=>y.x.type==='Caso clínico')")
   check(prefix+' case found globally',len(matches)>0);page.evaluate('(i)=>FCCSearch.open(i)',matches[0]['i']);check(prefix+' case search correct route',page.evaluate("FCCNavigation.route().sub==='clin-cases'&&document.getElementById('clin-cases').classList.contains('active')"))
   # Keyboard focus and dialog behavior, all engines and sizes.
