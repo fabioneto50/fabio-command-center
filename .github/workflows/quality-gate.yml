@@ -1,0 +1,51 @@
+name: Quality gate 1.4
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main, audit-hardening-2026-09-16]
+    paths-ignore: ['news-feed.json', 'AUDIT-RESULTS.md']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: quality-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - name: Rebuild deterministic clinical data and immutable assets
+        run: |
+          set -euo pipefail
+          python scripts/recover-antibiotics.py
+          node --expose-internals scripts/build-clinical-data.cjs
+          node --expose-internals scripts/build-assets.cjs
+      - name: Static and production-core regressions
+        run: |
+          set -euo pipefail
+          mkdir -p audit-evidence
+          node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
+          python scripts/audit-integrity.py
+      - name: Install pinned browser tooling
+        run: |
+          python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
+          python -m playwright install --with-deps chromium webkit
+      - name: Chromium and WebKit full-application regression
+        run: python tests/audit-browser.py
+      - name: Keep evidence without committing generated test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-evidence-${{ github.sha }}
+          path: audit-evidence/
+          retention-days: 30

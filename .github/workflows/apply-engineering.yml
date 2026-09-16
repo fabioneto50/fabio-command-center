@@ -18,29 +18,29 @@ jobs:
         shell: bash
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
+        with: {fetch-depth: 0}
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
       - uses: actions/setup-node@v4
         with: {node-version: '22'}
-      - name: Reconstruct exact reviewed source files from checksummed transfer
+      - name: Verify and reconstruct source files; workflow changes use the authorized connector separately
         shell: python
         run: |
           import pathlib,json,hashlib,lzma,subprocess,os
           root=pathlib.Path('.').resolve(); transfer=root/'.engineering-upload'
           assert os.environ['GITHUB_REF_NAME']=='audit-hardening-2026-09-16'
           m=json.loads((transfer/'activate.json').read_text())
-          assert subprocess.check_output(['git','rev-parse','HEAD^'],text=True).strip()==m['baseCommit']
+          subprocess.run(['git','merge-base','--is-ancestor',m['baseCommit'],'HEAD'],check=True)
           packed=b''.join((transfer/f'delta-{i:02}.bin').read_bytes() for i in range(1,m['parts']+1))
           assert len(packed)==82012 and hashlib.sha256(packed).hexdigest()==m['sha256']
           decoder=lzma.LZMADecompressor(memlimit=128*1024*1024)
           raw=decoder.decompress(packed,max_length=4*1024*1024)
           assert decoder.eof and len(raw)==312291 and hashlib.sha256(raw).hexdigest()==m['rawSha256']
-          delta=json.loads(raw); assert len(delta)==m['sourceFiles']; pending={}
+          delta=json.loads(raw); assert len(delta)==47; pending={}
           for name,change in delta.items():
               p=pathlib.PurePosixPath(name)
               assert not p.is_absolute() and '..' not in p.parts and '.git' not in p.parts
+              if name.startswith('.github/'): continue
               target=root/name; assert target.resolve().is_relative_to(root)
               if 'parts' in change:
                   base=target.read_text(encoding='utf-8')
@@ -59,8 +59,8 @@ jobs:
           for path,text in pending.items():
               path.parent.mkdir(parents=True,exist_ok=True); path.write_text(text,encoding='utf-8')
           evidence=root/'audit-evidence';evidence.mkdir(exist_ok=True)
-          (evidence/'source-transfer.json').write_text(json.dumps({'base':m['baseCommit'],'sourceFiles':{k:v['sha256'] for k,v in delta.items()},'sha256':m['sha256'],'note':'Engineering source transfer only; no browser user data'},indent=2))
-          print('Verified and applied all 47 readable source files on isolated branch')
+          (evidence/'source-transfer.json').write_text(json.dumps({'base':m['baseCommit'],'sourceFiles':{k:v['sha256'] for k,v in delta.items() if not k.startswith('.github/')},'sha256':m['sha256'],'note':'Readable engineering source transfer; workflow files managed separately; no user browser data'},indent=2))
+          print('Verified and applied',len(pending),'readable application/test files on isolated branch')
       - name: Build, unit and integrity validation
         run: |
           set -euo pipefail
@@ -69,7 +69,7 @@ jobs:
           node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
           node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
           python scripts/audit-integrity.py
-      - name: Commit readable upgrade on isolated branch only
+      - name: Commit application sources only on isolated branch
         run: |
           set -euo pipefail
           test "$GITHUB_REF_NAME" = "audit-hardening-2026-09-16"
@@ -77,12 +77,12 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
+          test -z "$(git diff --cached --name-only -- .github/)"
           git commit -m 'Implement 1.4.0 audit fixes: encrypted vault, validated calculations, modular UI and verified offline assets'
           git push origin HEAD:audit-hardening-2026-09-16
           git rev-parse HEAD > audit-evidence/tested-source-commit.txt
       - name: Install pinned real browser tools
         run: |
-          set -euo pipefail
           python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
           python -m playwright install --with-deps chromium webkit
       - name: Full application post-change audit

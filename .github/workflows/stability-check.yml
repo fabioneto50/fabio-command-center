@@ -1,91 +1,9 @@
-name: Stability check
-on:
-  push:
-    branches: [main, stabilize-1.3.0]
-    paths-ignore:
-      - 'stability-report.txt'
+name: Legacy stability-check (retired)
+on: workflow_dispatch
 permissions:
-  contents: write
+  contents: read
 jobs:
-  check:
+  migrated:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Full static audit
-        shell: bash
-        run: |
-          set +e
-          report=stability-report.txt
-          fail=0
-          {
-            echo "Fábio Command Center · MASTER 1.3.2 stability audit"
-            echo "Commit: $GITHUB_SHA"
-            echo "Generated: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            echo
-            echo "== JavaScript syntax =="
-          } > "$report"
-          for f in *.js; do
-            out=$(node --check "$f" 2>&1)
-            rc=$?
-            if [ $rc -ne 0 ]; then
-              echo "FAIL $f" >> "$report"
-              echo "$out" >> "$report"
-              fail=1
-            fi
-          done
-          [ $fail -eq 0 ] && echo "PASS: all root JavaScript files parse with node --check" >> "$report"
-
-          python - <<'PY' >> "$report" 2>&1
-          import re, pathlib, collections
-          hub=pathlib.Path('navigation-hub.js').read_text(encoding='utf-8')
-          names=re.findall(r"'([^']+\.js)'",hub)
-          missing=[x for x in names if not pathlib.Path(x).exists()]
-          dup=[x for x,c in collections.Counter(names).items() if c>1]
-          print('\n== Runtime loader ==')
-          print('Referenced modules:',len(names))
-          print('Unique modules:',len(set(names)))
-          print('Missing:',missing or 'none')
-          print('Duplicates:',dup or 'none')
-          html=pathlib.Path('index.html').read_text(encoding='utf-8')
-          ids=re.findall(r'''\bid=["']([^"']+)''',html)
-          iddup=[k for k,v in collections.Counter(ids).items() if v>1]
-          print('\n== Static HTML IDs ==')
-          print('IDs:',len(ids),'duplicates:',iddup or 'none')
-          if missing or dup or iddup:
-              pathlib.Path('.audit-fail').write_text('1')
-          PY
-          [ -f .audit-fail ] && fail=1
-
-          echo >> "$report"
-          echo "== Wound dressing image audit ==" >> "$report"
-          python scripts/audit_wound_images.py >> "$report" 2>&1
-          [ $? -ne 0 ] && fail=1
-
-          {
-            echo
-            echo "== Architecture risk scan (active + dormant files) =="
-            echo "MutationObserver occurrences: $(grep -l 'MutationObserver' -- *.js 2>/dev/null | wc -l) files"
-            grep -nH 'MutationObserver' -- *.js 2>/dev/null || true
-            echo
-            echo "window.go assignments:"
-            grep -nH -E 'window\.go\s*=' -- *.js 2>/dev/null || true
-            echo
-            echo "__fccDirectGo assignments:"
-            grep -nH -E 'window\.__fccDirectGo\s*=' -- *.js 2>/dev/null || true
-            echo
-            echo "Service Worker registrations:"
-            grep -nH -E 'serviceWorker\.register' -- *.js 2>/dev/null || true
-            echo
-            echo "Global Storage.prototype.setItem overrides:"
-            grep -nH -E 'Storage\.prototype\.setItem\s*=' -- *.js 2>/dev/null || true
-            echo
-            echo "setInterval occurrences:"
-            grep -nH -E 'setInterval\(' -- *.js 2>/dev/null || true
-          } >> "$report"
-
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- stability-report.txt
-          git commit -m 'Update MASTER 1.3.2 stability audit report' || true
-          git push || true
-          exit $fail
+      - run: echo 'This legacy workflow is retired. Use Quality gate 1.4 for current source, browser, data and security tests.'
