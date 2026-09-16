@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:29:54.278875Z",
+  "updatedAt": "2026-09-16T09:20:06.408271Z",
   "health": [
     {
       "title": "Jejum intermitente: entre a moda e o risco para a saúde - Observador",
@@ -11,13 +11,22 @@
       "articleUrl": "https://observador.pt/programas/tratar-da-saude/jejum-intermitente-entre-a-moda-e-o-risco-para-a-saude/"
     },
     {
-      "title": "Seguro pede \"coragem\" para Pacto na Saúde: \"Não podemos fazer nada sozinhos\" - expresso.pt",
+      "title": "Seguro pede \"coragem\" para Pacto na Saúde: \"Não podemos fazer nada sozinhos\" - Expresso",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHN5S2JoT1pWRi1zb2VHbWJZUjlUWnZ4czRZSzlEN2Y4NXRNNWw1MHZfdlUyTURfS1Zray1ic2JHMm9Bdlg5Q3JUOUpNMWFuSlRZMFRFSS05ME04U084RXpfTDNjbTdoNlFFRi1NRGc4bVhDb1NvMkRUVWgtdEdNM3RvckxmQ1dJMEE5VnhhY3NvNFRQcHZLRzUwdGY0dGZmOGdDUHRsa2o0VGI0OWs0Q1U1RHpSUmNIZ3k5RDNaSkJfWGVNcVdBb0lheUxnZw?oc=5",
-      "source": "expresso.pt",
+      "source": "Expresso",
       "publishedAt": "2026-09-15T21:41:45Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/presidencia-republica/2026-09-15-seguro-pede-coragem-para-pacto-na-saude-nao-podemos-fazer-nada-sozinhos-00a56ec1"
+    },
+    {
+      "title": "Hospital São João no Porto prevê admissão a curto prazo de mais enfermeiros - cmjornal.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3V2RzUxTlpodXFOVFV6UHlsY0hMcVZueGhQNXQtNjlyOV8tc04wRElQRTQ4a0JaYlJ2c2k2akROcS0wQ2gxV204N3A2NzdyVmswbWdwRHUtbllqY2doOTBFM2F2YmxUX0EyWFB5cXhSWXlzX2JRelpCeFJ2bDdDR3NSOHJVME51RTg0enQ3dlk0U3diTVIyNkJWZ0FvQlhySk5hUmJaNzdIQ05rQmNZRlVfQUF4dFRZ0gGzAUFVX3lxTE1lWW83emJtOEVYX3EyZ2pwUjAzUVktaWZaVkVsaTRIdkR1OG5pZFdRTElJU1BPdDFsOGVoaWxoV25SaFBRLXJVbmg4UnhCN1dsQXN3bm1FRUROQ0NqelBVSGJGaGd4R3lOWVNVOXozVFE4STBWVkxlVGtlajVPb3VtX2EtbVY3cnpiWVlwd0lLbk55ZW9mTnN1WlVQSU43MTJjTzlfX09heUpaMkg2LXQySjFr?oc=5",
+      "source": "cmjornal.pt",
+      "publishedAt": "2026-09-16T08:36:21Z",
+      "description": "Sindicato dos Enfermeiros exigiu, na terça-feira, soluções para a ULSSJ, onde diz faltarem profissionais sobretudo no serviço de urgência, e quer que seja pago um subsídio de penosidade/risco.",
+      "image": "https://cdn.cmjornal.pt/images/2022-05/img_1280x721uu2022-05-21-00-38-10-1151585.jpg",
+      "articleUrl": "https://www.cmjornal.pt/sociedade/detalhe/hospital-sao-joao-no-porto-preve-admissao-a-curto-prazo-de-mais-enfermeiros"
     },
     {
       "title": "ULS de Leiria quer terceira torre no Hospital de Santo André - HealthNews",
@@ -56,6 +65,15 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/tecnologia-e-saude-pagam-os-melhores-salarios-em-portugal/"
     },
     {
+      "title": "Unidade de saúde de São Pedro quase concluída - Diário As Beiras",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVUFdVZWRSUGJzQ1lsZFVPbFJ0aDRaMktoUllWeG1RY3oyd3NBX1BSeGltM0dBYkgzMjRkY3BzRzFKcjdEaWZuUjhtT2owYUktNVpIREpTUXdsZHVLX0p4OW1NU25XLUZzZFdpWk1jM29hS0ViTUdRM0RB?oc=5",
+      "source": "Diário As Beiras",
+      "publishedAt": "2026-09-16T07:00:00Z",
+      "description": "Estão programados novos equipamentos para outras freguesias. Em Buarcos, a reabilitação está em curso.",
+      "image": "https://www.asbeiras.pt/wp-content/uploads/2026/09/Obras-saude-NET.jpg",
+      "articleUrl": "https://www.asbeiras.pt/unidade-de-saude-de-sao-pedro-quase-concluida/"
+    },
+    {
       "title": "Mulheres faltam mais ao trabalho por doença. Idade não parece pesar no absentismo | Saúde - Público",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZi1lcFdJbFBnVFhkcHZzWFZRLWRkdjJaWlVialJneU9waTRtd01PcURRSEJGTDJZNDViY2lvYXg4ZDV5aWd3aEJaZU9HS1V4aE44bDVIcHpkc3A3d3NkTUpINmRrMndfV3BVeTN1andQMmJJWHdJNTZMdl9RTkFhR1FrTUk1YURHSnpCYlJhYW02bVlfQkxSR2pSdXBURFhrODFlT0xsRkVBN3BYRXNnSHNPMnJWZzV1S0twa0JkN0xiajBCelU3OUpOTDB3QQ?oc=5",
       "source": "Público",
@@ -65,50 +83,41 @@
       "articleUrl": "https://www.publico.pt/2026/09/15/sociedade/noticia/mulheres-faltam-trabalho-motivos-doenca-idade-nao-parece-pesar-absentismo-2188114"
     },
     {
-      "title": "EU-OSHA analisa os desafios e valor acrescentado da medicina do trabalho na Europa - Link To Leaders",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmlrYUtXYjJZd01ndjc0RlpBdXVkMVpiQmF3NWVSZVdJT28zMTdYNFFsdDZhLUQwWTJETTExSXlNUVgtZnNpcDlmZlJJM2dKVkVwSUxDOGRuRkx6MUtKVzhfekhqRlJ6cXplZmd3akJOZnQ3VjZxSGhNUkRsVzFTVUFNM1hudnE2VlhqVGZkMnktZ3hSU1BOOWk2V2ZsM0dVaU9URGhkOEVhZkEtNmc?oc=5",
-      "source": "Link To Leaders",
-      "publishedAt": "2026-09-16T05:25:04Z",
-      "description": "O novo documento de reflexão da Agência Europeia para a Segurança e Saúde no Trabalho (EU-OSHA) apresenta...",
-      "image": "https://linktoleaders.com/wp-content/uploads/2026/09/Unsplas.png",
-      "articleUrl": "https://linktoleaders.com/eu-osha-analisa-os-desafios-e-valor-acrescentado-da-medicina-do-trabalho-na-europa/"
-    },
-    {
-      "title": "LOULÉ VAI FALAR DE SAÚDE HORMONAL DE HOMENS E MULHERES - cm-loule.pt",
+      "title": "LOULÉ VAI FALAR DE SAÚDE HORMONAL DE HOMENS E MULHERES - Câmara Municipal de Loulé",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lXa2xsZlhjMHJpWWZDWDdiY1JZMEdvQVpqR0VIZEpvcFlhWEthaHprUndyNTFLREtaT1VleW05UUpyUUgxdXJJeGhRR3ctTHVnMlJ3Ry1Zd2xieG42SVJ3b1RJajBid1ZvS0poNnR1bzZ5VWpNcnd2QnJuSVNHLUR0cG5ZNlFPSzlCU08tYUpLWUJZdGRxY2J3NjVzNVZ3cURV?oc=5",
-      "source": "cm-loule.pt",
+      "source": "Câmara Municipal de Loulé",
       "publishedAt": "2026-09-15T20:05:35Z",
       "description": "O Ciclo de Conversas \"Semear Hoje...Colher o Amanhã...\" está de regresso ...",
       "image": "https://cms.cm-loule.pt/upload_files/client_id_1/website_id_1/images/FOTOS%202026/Sa%C3%BAde%20hormonal2.png",
       "articleUrl": "https://www.cm-loule.pt/pt/noticias/54604/loule-vai-falar-de-saude-hormonal-de-homens-e-mulheres.aspx"
     },
     {
-      "title": "Onde a Europa gasta o dinheiro: retrato da despesa pública no continente - pt.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObDktQld2M1BacUxHb2gyM1NNTWp3UVpSVXZKUk5VSjRqOHNtVzRJQTdCa1JpRVZyV2paNnRxV1pENjZ3MTRxbkszdTltVFphZFNoaWFqcUNNYW5rNGtiZzVuUzVxMVZBZlg2NU8ySHl0ckw2S3dzMHl2V2VmeWlDRmdGR1dfYU5ILXRvUWplNzdfenFnanJzb2pGMWdDWGU1LXZMeFI3RnIzekRhZnB5NFVZZFJNQQ?oc=5",
-      "source": "pt.euronews.com",
-      "publishedAt": "2026-09-16T04:02:43Z",
-      "description": "Os governos europeus destinam a maior fatia da despesa à proteção social, enquanto a segunda rubrica varia de país para país. A Euronews Business analisa como o dinheiro público é aplicado em serviços.",
-      "image": "https://images.euronews.com/articles/stories/09/91/07/68/1200x675_cmsv2_e85a5391-310c-591c-8f1b-753d3bc4a2c8-9910768.jpg",
-      "articleUrl": "https://pt.euronews.com/business/2026/09/16/onde-a-europa-gasta-o-dinheiro-retrato-da-despesa-publica-no-continente"
-    },
-    {
-      "title": "Inscrições Abertas | 7.º Congresso de Medicina Tropical (IHMT NOVA) - ihmt.unl.pt",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3VOUGh4QU9aZlNiaWNIMEpvM210Z1dlOGE4dWJsYmlaNGNhTThfajZxWjFkaVp2cHNXQlB6LUYtcXRZX2ZIcjg1MFhYSEk2WGJUVjFIcDZQeFlEMzJacXZPX1JLUkk5MUpsdnc2N0IzZkFfRkdJTTVRdWo5TU5OMlI0T2V0SVBtQ2JrTG9nbEt0dw?oc=5",
-      "source": "ihmt.unl.pt",
-      "publishedAt": "2026-09-15T15:59:56Z",
-      "description": "Notícia publicada por ihmt.unl.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "EU-OSHA analisa os desafios e valor acrescentado da medicina do trabalho na Europa - Link To Leaders",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmlrYUtXYjJZd01ndjc0RlpBdXVkMVpiQmF3NWVSZVdJT28zMTdYNFFsdDZhLUQwWTJETTExSXlNUVgtZnNpcDlmZlJJM2dKVkVwSUxDOGRuRkx6MUtKVzhfekhqRlJ6cXplZmd3akJOZnQ3VjZxSGhNUkRsVzFTVUFNM1hudnE2VlhqVGZkMnktZ3hSU1BOOWk2V2ZsM0dVaU9URGhkOEVhZkEtNmc?oc=5",
+      "source": "Link To Leaders",
+      "publishedAt": "2026-09-16T05:25:04Z",
+      "description": "Notícia publicada por Link To Leaders. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "SNS e IA na reabilitação: inovação com responsabilidade clínica - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanNEbkJwU2xYaFgyUV94ekxOOFc1SWdLQXltTlFVZ3J6TUc5REU4OE4xN3owRENSRWNmd2YzWjd4RTNCVTYzVGpLd0FOQ3RJYlBNNmVwLWFjdDVoM0Q3TmFoU2std3VfV2l6U3VFZzJIX1VFNzREVVdIQV83UlVheG91ckJJOW8xMFlmeFNRekpral9wMXdqaTFxaHEwaUw0LUp4ZDZGaG9nZG9WTHNJ?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-09-16T06:00:00Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Onde a Europa gasta o dinheiro: retrato da despesa pública no continente - pt.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnFPY3pDdDdzWDM5U0plUHkzVjJJMXFkNmE4Uk1vc2RKX1FWV1JueE9LZ0xYRGtmMTZubGlFNnNlaE1HWkZfVUxscjdVWjRWMFd4RlEzZnNSSlA2N25BSUdnVWRLV1ZFLUFtX0dhOVZwUUtpYm94OS1NV1lLUDNEdkkwZXFyVXplTDlDQTFPc3ZLMGRzX05HYV9peFI3ZEZtcW1GcWpfSmNIQQ?oc=5",
+      "source": "pt.euronews.com",
+      "publishedAt": "2026-09-16T04:02:43Z",
+      "description": "Notícia publicada por pt.euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Von der Leyen propõe novo Conselho Europeu de Segurança para responder às ameaças sobre o continente - Público",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMGs1V1VIc05Ebmc4X1RlVjNqRDNhdWMyVmZRdDFZcnVVYUVOQ2hLMFR1NE8xSlRrMW5RelAwb1BtUzYyazdnMUNRMFBIVzFzWENNY0dqX1ROWEFtTUJGNG1XLUxaUDRYY1h0eFNHMzBURWczMHhzMDVPUkUxLXlHSnRfZDdGOEk4NktkMkdaQmVZQnQ1OXVIXzYySkFMdm9NbzhFRmxvaXFPS21XTTJVNVlRVXBoRVdoQ0p6OC1oNXd2aFRuRzM2QUNfY3BPRlI2eVVF?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-16T08:36:32Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/16/mundo/noticia/von-der-leyen-propoe-novo-conselho-europeu-seguranca-responder-ameacas-continente-2188203"
+    },
     {
       "title": "Rússia elogia relação \"sem precedentes\" com a China e critica blocos na Ásia-Pacífico - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdG5sNS10ZWdDQW9odEpybzdDM083bE9nMXdKRzlDRUhNVkZvLWdlRVh2d0lfOFRhWXhhV2RzY3RsdTZiQ1ZlSENJalA3MEZjN3IwQmdPa3JKbFhNb0s5Mmh3ckZxQloyUzJMZnhMUTdxamJOQnlHX2tXQjFZSFJTS1BjSXRWZk9wWEtKWWU4X25mQ0R0TGJpNEU2Y2Y4SlpRU20tVjBzX28yNHpOOU0tQmdCWHNTdXhVZGYxSllUaUtnd1A3Y0VJdUNONVpOQTJ0NXFxZVZnWGRvUWlMdzlVMEZhT05nWW41N0ZnZWlB?oc=5",
@@ -117,24 +126,6 @@
       "description": "China e Rússia reforçaram nos últimos anos a cooperação política e militar, através de exercícios conjuntos",
       "image": "https://img.iol.pt/preset/6a560058d34e511da0b2d2a6/og/cnn",
       "articleUrl": "https://cnnportugal.iol.pt/russia/china/russia-elogia-relacao-sem-precedentes-com-a-china-e-critica-blocos-na-asia-pacifico/20260916/6aaa2f7fd34e9a786e75823b"
-    },
-    {
-      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamwzb2RqeWtQQjZYNHF4SG9rV1lsYlRJMVR2ZWpRVF9xc2Q0UEQySUd2Vng4QkN4RkRGdEotTWFXRDUwQXZfYlFrUzQxTHBscjk5cm02RmpmNzdmanhSbjVBOTl2TDN2b3VOX2pzbVlZc3ZwNkliV1hDLTZDVnBZTERSV2tCanJxUVZjQ2duUW5IdkwzeUxVRGF5eVVVUlpXcVdmUS05S0k3N2dTRmhhQVNvNDVXTjJQbVR4X2cyeW0wekFlbU1TbmVIZjhaWFht?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-15T16:38:32Z",
-      "description": "Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
-      "articleUrl": "https://pt.euronews.com/my-europe/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
-    },
-    {
-      "title": "Von der Leyen avalia estado da União perante um ouvinte inesperado: Mark Carney - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNheTFLaWZoWC1haFh2ZFRMZTdKZ3A0VWVmYW1xakhla1YwdEgwaklyMkhwX1dmVW5BWGNYMVNrZDJUVlRsdTEtSHZlX1hMeFRObURxVWV1Si1vaXlVWVdNSXJ1bVpZNnRtVHFKOVJyTmNROHc4UTNKN2I1QVJ1X0ptd1BuYlNhcUNMUkNLMzZINW1obzFYYndEV2lua2ppb2R6alhVYmF0Z1BIZjJXQ0gxNllrVmxUdDQ0bg?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-16T05:05:00Z",
-      "description": "No seu sexto discurso sobre o bloco, o primeiro para o qual foi convidado um chefe de governo externo à União, a presidente da Comissão tem temas ‘obrigatórios’: a Ucrânia, a dependência energética, a IA ou a imigração são alguns deles.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/02/ursula-von-der-leyen-1024x603.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-avalia-estado-da-uniao-perante-um-ouvinte-inesperado-mark-carney/"
     },
     {
       "title": "Ucrânia: preocupação na Europa com o ataque russo na fronteira com a Polônia - Vatican News",
@@ -146,13 +137,22 @@
       "articleUrl": "https://www.vaticannews.va/pt/mundo/news/2026-09/preocupacao-na-europa-apos-ataque-russo-contra-um-trem-ucrania.html"
     },
     {
-      "title": "Com “as placas tectónicas da geopolítica em colisão”, Europa corre atrás do prejuízo - Público",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpaUTdYV0NiR0lnXzh1MlZsT1V3OVZMcklXckFqbFJ2RVpLT1JsaTdCQnB3aXF4OEJGS05ydlpNM1BRNVJOLTNpbnd2eWNHaF94NWFoLW51amptVFo4NHUyU1JTNWFncDJkeEdMamhhZ0xqMEtLSEc0QkVKdENQZmViUDk4MnV3YWNubkNYUWt3dnktWDdZalJxRkRRTDFXQTROVWN0ZnQ2eS1TZWtBTFp0NGdfVUViMGNhbVd3?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-15T21:00:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/15/mundo/noticia/placas-tectonicas-geopolitica-colisao-europa-corre-atras-prejuizo-2188172"
+      "title": "Von der Leyen avalia estado da União perante um ouvinte inesperado: Mark Carney - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNheTFLaWZoWC1haFh2ZFRMZTdKZ3A0VWVmYW1xakhla1YwdEgwaklyMkhwX1dmVW5BWGNYMVNrZDJUVlRsdTEtSHZlX1hMeFRObURxVWV1Si1vaXlVWVdNSXJ1bVpZNnRtVHFKOVJyTmNROHc4UTNKN2I1QVJ1X0ptd1BuYlNhcUNMUkNLMzZINW1obzFYYndEV2lua2ppb2R6alhVYmF0Z1BIZjJXQ0gxNllrVmxUdDQ0bg?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-16T05:05:00Z",
+      "description": "No seu sexto discurso sobre o bloco, o primeiro para o qual foi convidado um chefe de governo externo à União, a presidente da Comissão tem temas ‘obrigatórios’: a Ucrânia, a dependência energética, a IA ou a imigração são alguns deles.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/02/ursula-von-der-leyen-1024x603.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-avalia-estado-da-uniao-perante-um-ouvinte-inesperado-mark-carney/"
+    },
+    {
+      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXVqcFVhdXdXZVlhUjd2TzlRc1NGUURHb1luaTJvQUQ2UjdXVl9wVHF4VHpCYkJaTkRuTDJSVHB6bDdYcEtyTzRQc3l1dmJLenVqWkRGNlNBUFdNSUFzSXlpbEM5aUg2TzRKOUR6ejh3VEtMVDAzZVFyYWJNZlg3NlJqTUFfODBhenp4M1RfbXNLS1h6eW52MHNfa25Kb2RRRXBjYW1HZmtOcl84dVJWa2NySXN5anZaU2pUa041NnRfRWc?oc=5",
+      "source": "pt.euronews.com",
+      "publishedAt": "2026-09-15T16:38:32Z",
+      "description": "Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”. #EuropeNews",
+      "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
+      "articleUrl": "https://pt.euronews.com/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
     },
     {
       "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - DW.com",
@@ -164,6 +164,15 @@
       "articleUrl": "https://amp.dw.com/pt-br/ue-quer-ampliar-presen%C3%A7a-no-%C3%A1rtico-diante-de-r%C3%BAssia-e-trump/a-79266910"
     },
     {
+      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
+      "source": "pt.euronews.com",
+      "publishedAt": "2026-09-15T16:38:32Z",
+      "description": "Vídeo. Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”.",
+      "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
+      "articleUrl": "https://pt.euronews.com/video/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
+    },
+    {
       "title": "Guerra na Ucrânia: OTAN abate drone nos céus da Lituânia - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUW1hMzlDd0NlRlh2UlcyRm9aUUpWV3BaVHg1Qzg2Z0RscHFXUmdGUTRLVTk5UFRIck9CT3k4MW5CdVpPTnFFYjBlTW1DTG12WFFPZ2d4WnhyM0RhNkNqNE9xY280YmRNSU1UZ0xPV0dVU0hTenExb2lrSUZGcTRNRHFKSEIxYndsMmZDbnRkOU1qei1ob0laTFAxUTJ2ZkdvT1JtZ25lN2tSd2ZGTWtPMWU5RFNiQkh3NGc?oc=5",
       "source": "Vatican News",
@@ -173,46 +182,37 @@
       "articleUrl": "https://www.vaticannews.va/pt/mundo/news/2026-09/atualizacao-internacional-ucrania-otan-abate-drone-ceus-lituania.html"
     },
     {
-      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-15T16:38:32Z",
-      "description": "Vídeo. Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”.",
-      "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
-      "articleUrl": "https://pt.euronews.com/video/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
+      "title": "Com “as placas tectónicas da geopolítica em colisão”, Europa corre atrás do prejuízo - Público",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpaUTdYV0NiR0lnXzh1MlZsT1V3OVZMcklXckFqbFJ2RVpLT1JsaTdCQnB3aXF4OEJGS05ydlpNM1BRNVJOLTNpbnd2eWNHaF94NWFoLW51amptVFo4NHUyU1JTNWFncDJkeEdMamhhZ0xqMEtLSEc0QkVKdENQZmViUDk4MnV3YWNubkNYUWt3dnktWDdZalJxRkRRTDFXQTROVWN0ZnQ2eS1TZWtBTFp0NGdfVUViMGNhbVd3?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-15T21:00:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/15/mundo/noticia/placas-tectonicas-geopolitica-colisao-europa-corre-atras-prejuizo-2188172"
+    },
+    {
+      "title": "Von der Leyen avisa: vamos ter de \"fazer escolhas fiscais claras\" para \"garantir a sustentabilidade\" - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbVpLNi03TF9pdjJ5aENTSzU2OXhGSXU3WnFMcFU3Y2U4anJQcjloSmxSbTNianhMMVB5cmFaT19SSkFxQzdjQ3FNRlViazRnSHlTaHZSOFVGVVNFVGpzdXhfaTlOTkI2QXZ4R1FOMXNETUMzeHJpNzhHMlRpMTdHTEl0c3RTR094ZWNVS2pJa1pSNkJkN0VsLS1NV0hKekxXNzJ0NUlCcmNTbGNhNnRyam1qeFZCd0dNZzdyUFlmVk5kdEZjNkRGd3FOUlZ3QjBXWXhTc0VlMEN6REZDVk9RYUo3b1g5UXp5ejYxcnBLUi04ZDd3NElmZmJzV1JGWXJYRlQ2SnJtT2VoQndveUtZd2dlVGE5cHVOcnRCc0dB?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-16T07:40:00Z",
+      "description": "Bruxelas não esperava que a União Europeia reagisse tão bem ao impacto das guerras no Médio Oriente, mas está ciente de que os elevados custos da energia podem começar a ter um efeito sério nas pessoas e nas empresas",
+      "image": "https://img.iol.pt/preset/69f1c9fdd34edcee7c63959b/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/ursula-von-der-leyen/estado-da-uniao/von-der-leyen-avisa-vamos-ter-de-fazer-escolhas-fiscais-claras-para-garantir-a-sustentabilidade/20260916/6aaa46f8d34e53c759c724e1"
     },
     {
       "title": "Venezuela presente em reunião de ministros da Energia do G20 nos Estados Unidos - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm1GMnM1eERpNTVWbGNlcy1JQ0dGcngyM29RU0Jkb2FuQzVRQTU2NjVTcDZ2NndjTXI3MmlzYlNCRGFubjdFMHdGZmZhX2g5Q3ZUcUhCR2VPbU1YNWQ4VFdxSmhIa3FTUmtDZWhiOXQ0WlBVX3c5SjhHaGZLaERuM2J5U3dReVFPMlhmenhQdzg4enlpV1VWRlFDb3lCeF8yVllKSnRNWHc2NjFzYjNOMk9YWEthQWdSM0lBQnFjdw?oc=5",
       "source": "dnoticias.pt",
       "publishedAt": "2026-09-15T06:29:00Z",
-      "description": "A Venezuela estará representada esta semana na reunião dos ministros da Energia do G20 nos Estados Unidos a convite do Governo norte-americano, que procura explorar as reservas petrolíferas e mineiras do país sul-americano.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logob1b83a07cf29200ec6c0551a202cd174.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/15/505458-venezuela-presente-em-reuniao-de-ministros-da-energia-do-g20-nos-estados-unidos/"
+      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Ataque russo perto da Polónia: \"É um ataque às portas da União Europeia\" - Now Canal",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0dwVy16NkM1MnZxS2FnZy1vN0JTMUhOenhnY0Y4U0N6SUhSRjZOMnYzbXVmc1BWMVNnOGl3T0RJOHBTbW1LODdyNTN2MlNLLXVtUzZsN2Q5bFh0M0JQUTBpcG8zdWJqVVQ4TnJFYUt5UG5NQ2lDa2l0TzM0Ni1BNjA1TzVhVExjcXlxSWZhT3NOLS1LcFRhc1ctZWJrWkV4LWVmTDhkZ0pPRXJ6aGc?oc=5",
       "source": "Now Canal",
       "publishedAt": "2026-09-14T21:53:00Z",
-      "description": "Germano Almeida sublinhou que a agressão sinaliza uma escalada direta de Vladimir Putin contra o espaço e a dissuasão europeus, afirmando que 'a dissuasão europeia falhou'.",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-14-23-52-45-62582.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/ataque-russo-perto-da-polonia-e-um-ataque-as-portas-da-uniao-europeia"
-    },
-    {
-      "title": "Von der Leyen avisa: vamos ter de \"fazer escolhas fiscais claras\" para \"garantir a sustentabilidade\" - TVI",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZ0tobnpTQlhnVTk5eFQ3NnBuODdaSFFQNGpNdTdqbDNEenE5QkJmNmFQTHNOdDhMSTFwM3BnbW9JeXdsYVFWMEJHeXpKeE5lZFdjTmhibWU3YzBhTmdvWVpwX1VYUzV0ZTB2blRPT2ItN1FPRFFrel8yS1NtbEpGSEN4YVhVa0tQdUxsR2FzTWhpNW15U01XbEdKTnVzdDNVT0o2QU14NlhRTWZRLTVrZlJTMmV2UEFmSG1YdUdqWEI1RlRxRnpRaUltRGpxQWxUOGROUXlWX0xVYU9lZXJheUplNnZTSk40LXJQblRkZjRXdmRMcnp3Nkp5RDFDZ1o3RWhKUXpVdVVHOVdkbnBkbHU1M2VZQVNXd2FUQlhIdw?oc=5",
-      "source": "TVI",
-      "publishedAt": "2026-09-16T07:40:00Z",
-      "description": "Notícia publicada por TVI. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Fragata russa dispara sinalizadores em direcção a helicóptero dinamarquês - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGhyajR2Q1NXZ2tRMGpsSGFKLWszMzhtN1JJRUZTU2hwdUhjSHJTRmR4QVdoMFFwX2x1TWlkaGluZDJJd0ZzendIRjdZNzdMWUxGUTRtSXBsd0haUExWVDRNWmt6em9QUklOYmZlM0RWVHRrX19qOWQzYXZ3bGVGdEQyMFl2Zk5BYkQwS3JucXBCLWFIVVJJNks1V1diaUJPSXZEWV9SVDllRE9BajUtT2ZSRTd3eDFvMXZKMUl1RndIZw?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-15T16:33:52Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
