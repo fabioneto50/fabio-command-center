@@ -1,0 +1,77 @@
+name: Final audit and release candidate
+on:
+  push:
+    branches: [audit-hardening-2026-09-16]
+    paths: [scripts/review-final.json, scripts/apply-final-review.py, tests/audit-upgrade.py, .github/workflows/final-audit-release.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: read
+concurrency:
+  group: final-audit-release
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    defaults:
+      run: {shell: bash}
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - name: Apply audited source and build exact candidate
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REF_NAME" = "audit-hardening-2026-09-16"
+          python scripts/apply-final-review.py
+          python scripts/recover-antibiotics.py
+          node --expose-internals scripts/build-clinical-data.cjs
+          node --expose-internals scripts/build-assets.cjs
+          mkdir -p audit-evidence
+          node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
+          python scripts/audit-integrity.py
+      - name: Preserve readable sources on isolated branch
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          test -z "$(git diff --cached --name-only -- .github/)"
+          if ! git diff --cached --quiet; then
+            git commit -m 'Fix medication route state and cross-version offline safety; retain immutable assets'
+            git push origin HEAD:audit-hardening-2026-09-16
+          fi
+          git rev-parse HEAD > audit-evidence/tested-source-commit.txt
+      - name: Read current Pages publication metadata without changing settings
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/pages" > audit-evidence/pages-settings.json || echo '{"readUnavailable":true}' > audit-evidence/pages-settings.json
+      - name: Install pinned browser tools
+        run: |
+          python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
+          python -m playwright install --with-deps chromium webkit
+      - name: Full Chromium and WebKit application regression
+        run: |
+          set -euo pipefail
+          export GITHUB_SHA="$(git rev-parse HEAD)"
+          python tests/audit-browser.py
+      - name: Failed update, consent, multi-tab and retained data regression
+        if: ${{ !cancelled() }}
+        run: |
+          set -euo pipefail
+          export GITHUB_SHA="$(git rev-parse HEAD)"
+          python tests/audit-upgrade.py
+      - name: Preserve all test evidence and reviewed source archive
+        if: always()
+        run: git archive --format=zip HEAD -o audit-evidence/tested-source.zip
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: final-audit-evidence-${{ github.sha }}
+          path: audit-evidence/
+          retention-days: 30
