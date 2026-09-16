@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T12:34:23.530826Z",
+  "updatedAt": "2026-09-16T13:29:59.537423Z",
   "health": [
     {
       "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - Euronews.com",
@@ -9,6 +9,15 @@
       "description": "Em ano de recorde de candidatos a vagas financiadas em faculdades de medicina na Rússia, falta estudantes para a especialização. Especialistas apontam novas regras de colocação obrigatória após o curso, lembrando a prática soviética.",
       "image": "https://images.euronews.com/articles/stories/09/91/38/43/1200x675_cmsv2_b7c01bb0-8776-5409-b970-48ca89a1c33f-9913843.jpg",
       "articleUrl": "https://pt.euronews.com/2026/09/16/faculdades-de-medicina-na-russia-enfrentam-escassez-de-estudantes"
+    },
+    {
+      "title": "Unidade Móvel de Saúde está agora também no Carvalhinho - Câmara Municipal da Moita",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamZFNURfWV9JTUx2bi1XNWNJWW01bGc1UDJnTzVIT0lXZ05qR2lCR0xRWmZDb3IzVWRGMDhmbEE4UHlROGh0WkVRUWJfbWZmUGk4bTNUek4yVGdnVlNOUzFSRnFRSWdBcEFFbkJMeE1JdVowWWxzbEhGX1FDNjhBcW5vMUdVbDluMnR1RmN0Q1c1LUhrR1lXc1NXTC1veXY2WlBIbTc3WmpwaVNuRW1KWGQ2elE?oc=5",
+      "source": "Câmara Municipal da Moita",
+      "publishedAt": "2026-09-16T12:05:00Z",
+      "description": "Este projeto municipal percorre as freguesias mais rurais do concelho atuando na prevenção e promoção da saúde junto da comunidade. A Unidade ...",
+      "image": "https://www.cm-moita.pt/cmmoita/uploads/news/image/10360/img20260916111445.jpg",
+      "articleUrl": "https://www.cm-moita.pt/viver/informacao-municipal/noticia/unidade-movel-de-saude-esta-agora-tambem-no-carvalhinho"
     },
     {
       "title": "Nutrição entérica pode ser uma opção terapêutica na Doença de Crohn - HealthNews",
@@ -38,12 +47,30 @@
       "articleUrl": "https://www.afro.who.int/pt/countries/kenya/news/reforco-dos-cuidados-relativos-demencia-na-regiao-africana"
     },
     {
+      "title": "Campanha de Imunização contra o VSR 2026/2027 arranca hoje nos Açores - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00MDBXa0ZTdG5GZEphb2p0d3E5YnROdi00bzJCZFlRLXFTWlBVQ3BJVW8zVndhelhQSW9Rb0d2N0xQSm1MeUJCZDBlSUhhbU5EU3B6enhuX2hlZUhKSllKcXFWTl9oNTBmZWlUakhpZ3FHQjM0RWF3?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-09-16T12:42:21Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23831348"
+    },
+    {
+      "title": "Portuguesa Sword Health vai adquirir a Headspace para alargar atividade para cuidados de saúde mental - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX2pDZkFieHVvZk0tcTRiWEl5R3Nhclo5bXN1cExqQ0lKU0dEb0hITVBuT2JyZTE4WVVrQXV6WTFvZHF6WGN1RTFaQVNmOW9wbS1WekIzLVU1dnhNUktVR0M3TDBRTTJGMlFwQ2x6YVdkcmxTOEI5dnVCay1QU0IxQy15N1BFRlNURmVyZnZhckZpWWVNZnB4ajV3M3JoSGo2S2hWR245LU5aNUtnQTJkZnVxTzlvMENsTUdkOEJMRG9rRnpGbHFta0hicGpLYno0Sy1HOF90bm1xdnc?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-16T11:14:00Z",
+      "description": "Sword adquire Headspace para expandir modelo de inteligência artificial à saúde mental. A transação combina o motor de IA clínica da empresa tecnológica com a marca de saúde mental mais reconhecida do mundo, impactando mais de 100 milhões de pessoas e 20.000 empresas em cerca de 200 países.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/Virgilio-Bento-Headshot--scaled-e1789559597533.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/portuguesa-sword-health-vai-adquirir-a-headspace-para-alargar-atividade-para-cuidados-de-saude-mental/"
+    },
+    {
       "title": "No dia em que se assinalam 47 anos do Serviço Nacional de Saúde, o Chefe de Estado defendeu que \"não há saúde ao serviço de todos sem um sistema público que a garanta\". - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU2NZWFpDbGQxNnRNYWN1Z1Z5bDZTRHZUb09jWi1KYmFsNFlQbmRJcmM4V0g3cU5nQ25EM2JDUTczZHBiazNuVEk2OWZ6c3pRMXhSQTNZV19ocF9qQlU4MVVZTldvdzVKMTFjamZjUndyNGM1OURMTmt3Sjc2V3pNYnVMSUxES0plODl2WkFHZ1d0OVVCT28wM2swd1JibXlVVGoyV0FHbXNSRzhEaDhIRnl0Y0JBVGlPeElMdVJQcldtbTJkLXYyQjdEdTlpSlFPUXBZeDZmbm5zT0lqcHQxUWY2dE9HTTNiVkYtSA?oc=5",
       "source": "facebook.com",
       "publishedAt": "2026-09-16T10:27:57Z",
       "description": "No dia em que se assinalam 47 anos do Serviço Nacional de Saúde, o Chefe de Estado defendeu que \"não há saúde ao serviço de todos sem um sistema público que a garanta\".",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/813320884_2569359526869409_71791645462118267_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=mhEqyggnTfYQ7kNvwEnpARb&_nc_oc=AdqhyVOCQbyioAzMT5qhv8WtjRi9bszs8aNitPEv_90TkMnIAtUn9D3H8rp_7SHh3l8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=SLdff4jeCpRzemLIz7bLSg&_nc_ss=7820f&oh=00_AQLtWAkNMHIKxGOknbKzwhRS6d_-277CSmqnxkO9sS9TKQ&oe=6AB053A8",
+      "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/813320884_2569359526869409_71791645462118267_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=mhEqyggnTfYQ7kNvwGb3N-h&_nc_oc=Adr_Ny8zKtl1EwXFxiztG441GdkAInT14MejPr8V-275bMH6t2QYhXZZ-YcDFPtrTac&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=dhixV_YNynurHaZi1xdjAw&_nc_ss=7820f&oh=00_AQIAHOXJ4jGkn9tjIOx1A4zjGTNSKU3wbrwEvvE_eVswoQ&oe=6AB053A8",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/no-dia-em-que-se-assinalam-47-anos-do-servi%C3%A7o-nacional-de-sa%C3%BAde-o-chefe-de-estad/1477684614462817/"
     },
     {
@@ -56,65 +83,38 @@
       "articleUrl": "https://newinguarda.nit.pt/fora-de-casa/este-enfermeiro-da-guarda-usa-o-cinema-para-falar-sobre-saude-mental"
     },
     {
-      "title": "Campanha de Imunização contra o VSR 2026/2027 arranca hoje nos Açores - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rUGNrdkkxUzBnY3dEZzdRYzJqSjBYOWZUTFFqcFBwbXJscGpTN2RrN1lEV29EOXhCeEdlWHplU3lYRDdmWExPVzVLZW9mNFpkc2tEQllOTU9kZF9aZ1dQQi1LYVVuc2VLTXRudXFJMnZkWGthUl9v?oc=5",
-      "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-09-16T09:56:44Z",
-      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "title": "Fertilidade: há clínicas a garantir bebés ou o reembolso do dinheiro. Reguladora já aplicou multas - Público",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMC1MMkNZOXB0OHRyaUNpZTBkUlVYd2s5SXFVekp1cmE5SnFEYl9HdHJkXy1CQ3dqQVNxTE9mWUNkRHdTSFFGVlU5VW9GTEFnZmhEZXU4azVvQkxwT1FaelZ4eXQ5RkNvX1dqT0QxT3VjbWVxNlE1czdIQkRSenpFMXNrZVJZSWVIN3RTT0E0TFRaRi1SQmozYy1nYzRPZ0toM3lJMFN6dmUxZ0VFS2wzOTRwd2pGMzg0ajE1cWxHY01CZ0Yxa3Z5cldrVnR4cU9vZFJ1c0lKUE5MbnFXZUdB?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-16T10:25:23Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23830049"
+      "articleUrl": "https://www.publico.pt/2026/09/16/sociedade/noticia/fertilidade-ha-clinicas-garantir-bebes-reembolso-dinheiro-reguladora-ja-aplicou-multas-2188180"
     },
     {
-      "title": "Vírus sincicial respiratório: o que é? E quando e onde vão os bebés ser imunizados? - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQl80NFMyMmt3SFhsMjBrb1ptdzdkb3hvdVZfbWxFc0pVRDZCdE5JVEQzLXlnOUdFcEJoSW9aZFZoSFZuS3E2R1Y5a2ZrY25HODJQdEY0dk1VaW4zYTF5d1ZXX3N2MGJQNW11ZF9kbGtvTklMWlZzY3FUNWIzVDUzUFY1MVRmSXZqR3pGTG5BZWVYVjM2MTFnOWRiZmc2eklSUHg4ejVvNUw0b2NId2YtUTZxV1c?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-16T11:22:56Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/16/sociedade/noticia/virus-sincicial-respiratorio-onde-vao-bebes-imunizados-2188221"
-    },
-    {
-      "title": "SNS e IA na reabilitação: inovação com responsabilidade clínica - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanNEbkJwU2xYaFgyUV94ekxOOFc1SWdLQXltTlFVZ3J6TUc5REU4OE4xN3owRENSRWNmd2YzWjd4RTNCVTYzVGpLd0FOQ3RJYlBNNmVwLWFjdDVoM0Q3TmFoU2std3VfV2l6U3VFZzJIX1VFNzREVVdIQV83UlVheG91ckJJOW8xMFlmeFNRekpral9wMXdqaTFxaHEwaUw0LUp4ZDZGaG9nZG9WTHNJ?oc=5",
+      "title": "Seguro pede \"coragem\" para Pacto na Saúde: \"Não podemos fazer nada sozinhos\" - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHN5S2JoT1pWRi1zb2VHbWJZUjlUWnZ4czRZSzlEN2Y4NXRNNWw1MHZfdlUyTURfS1Zray1ic2JHMm9Bdlg5Q3JUOUpNMWFuSlRZMFRFSS05ME04U084RXpfTDNjbTdoNlFFRi1NRGc4bVhDb1NvMkRUVWgtdEdNM3RvckxmQ1dJMEE5VnhhY3NvNFRQcHZLRzUwdGY0dGZmOGdDUHRsa2o0VGI0OWs0Q1U1RHpSUmNIZ3k5RDNaSkJfWGVNcVdBb0lheUxnZw?oc=5",
       "source": "Expresso",
-      "publishedAt": "2026-09-16T06:00:00Z",
+      "publishedAt": "2026-09-15T21:41:45Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/opiniao/2026-09-16-sns-e-ia-na-reabilitacao-inovacao-com-responsabilidade-clinica-6df46b23"
-    },
-    {
-      "title": "A arte de ser mais e o poema inacabado do SNS. Opinião de um estudante de Medicina - Visão",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWRad3hrTXNfTi1PeTZ4SVpPcmhoeGI3NUdMVGp1LWQ1enczaGl2Xzk1MzgtZnlFLThXbUdVQkdMaGdGc1J3T2ZmZ2puczNmOGFpSzRmUjJxbmlYYTNnMk1rN0hTTmZNSVFPM1ltQldQVHBLMlNVMmtpQ0RGbzR5YWpDQlpVaURrX1k0T0dTazVSRHU4SGdZV1JDREZhSnFnLUozQWZ5bFhVWWxoOVlDLVZ6SnRwM3VtRUlidGpzNk5iSGNldmt1ZTVTR1pydw?oc=5",
-      "source": "Visão",
-      "publishedAt": "2026-09-16T09:42:00Z",
-      "description": "O médico perfeito não é aquele que debita diretrizes clínicas de cor, assina a prescrição com um rabisco elegante e sai a correr para o seu próximo compromisso. É aquele que compreende que o doente traz consigo uma vida feita de outras facetas, e que o consultório é o lugar onde todas elas desaguam",
-      "image": "https://images.trustinnews.pt/uploads/sites/5/2026/09/240719_gettyimages-1141333760-170667a_wm.jpg",
-      "articleUrl": "https://visao.pt/opiniao/ponto-de-vista/2026-09-16-a-arte-de-ser-mais-e-o-poema-inacabado-do-sns-opiniao-de-um-estudante-de-medicina/"
-    },
-    {
-      "title": "Portuguesa Sword Health vai adquirir a Headspace para alargar atividade para cuidados de saúde mental - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX2pDZkFieHVvZk0tcTRiWEl5R3Nhclo5bXN1cExqQ0lKU0dEb0hITVBuT2JyZTE4WVVrQXV6WTFvZHF6WGN1RTFaQVNmOW9wbS1WekIzLVU1dnhNUktVR0M3TDBRTTJGMlFwQ2x6YVdkcmxTOEI5dnVCay1QU0IxQy15N1BFRlNURmVyZnZhckZpWWVNZnB4ajV3M3JoSGo2S2hWR245LU5aNUtnQTJkZnVxTzlvMENsTUdkOEJMRG9rRnpGbHFta0hicGpLYno0Sy1HOF90bm1xdnc?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-16T11:14:00Z",
-      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "UE quer IA na saúde à maneira europeia, sem substituir médicos, diz von der Leyen - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckRHcDd4SzRoaExLcFB6czRoOTNzNFF1dS03Q0dzcHFzS3ZtRUduMXc0R3hDcVpzbXFFUDIzdmdRaHpRZC1mREMyYVJoSVVMRDZ6V05nWldPTmdIVGp1TlNUTGVEcVpYOVhjQkU3eFI5cFZSTlhlOVJ3ZGVjZ1czT1R0NGd4SW1Ib3NENnp3X1hnd0RjZDQ2RHhubmRzYjhZR1hlYkxPbmxCdUQ4OVlVYkR4djM?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-16T09:41:29Z",
-      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "title": "A arte de ser mais e o poema inacabado do SNS. Opinião de um estudante de Medicina - visao.pt",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWRad3hrTXNfTi1PeTZ4SVpPcmhoeGI3NUdMVGp1LWQ1enczaGl2Xzk1MzgtZnlFLThXbUdVQkdMaGdGc1J3T2ZmZ2puczNmOGFpSzRmUjJxbmlYYTNnMk1rN0hTTmZNSVFPM1ltQldQVHBLMlNVMmtpQ0RGbzR5YWpDQlpVaURrX1k0T0dTazVSRHU4SGdZV1JDREZhSnFnLUozQWZ5bFhVWWxoOVlDLVZ6SnRwM3VtRUlidGpzNk5iSGNldmt1ZTVTR1pydw?oc=5",
+      "source": "visao.pt",
+      "publishedAt": "2026-09-16T09:42:00Z",
+      "description": "Notícia publicada por visao.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "EUA acusam agentes russos de preparar ataques e assassínios contra aliados da Ucrânia - publico.pt",
+      "title": "EUA acusam agentes russos de preparar ataques e assassínios contra aliados da Ucrânia - Público",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb0pmejU5dzRXMFZBRGtmS0IzSmgweFZpXzBHNmpwRGlCc2s3QmQ5VmxZdXBkVjFNSldzOFp0R0xEUUZYd0tabXJ4UHUyUTJwZmNMelMxWk90ejRWVWtib3JoX0ZDaS0yY1QzbFoyanhYTzVQbnFacDBMbGFWZlZjUzhqeW9vQUgxVEZjbXQ0S1dFYmd1aC01UENRWi1FUkt1UzVmVWFKSF9CWFc1MnFibFZ1ellpU1RJZXNJWjAzV3BMTElwRTBhS3VlaUNMOU56TE1iLVFGWGV0RDExcjAzdmhrbmRoMzJB?oc=5",
-      "source": "publico.pt",
+      "source": "Público",
       "publishedAt": "2026-09-16T09:46:38Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/16/mundo/noticia/eua-acusam-agentes-russos-preparar-ataques-assassinios-aliados-ucrania-2188212?ref=mundo&cx=page__content"
     },
@@ -182,6 +182,15 @@
       "articleUrl": "https://amp.dw.com/pt-br/ue-quer-ampliar-presen%C3%A7a-no-%C3%A1rtico-diante-de-r%C3%BAssia-e-trump/a-79266910"
     },
     {
+      "title": "União Europeia acena para tornar Canadá 1º integrante associado - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVFTUmR5N25mcjR3ZTh0R0s5ZVFLRUl6Z2t4Q0tsV2lTUGdxS1o2YkxLSzJsZDdGa25ERjVsUHl1RHppYjRVVEhYMm0zV2VSUHlTQjdiUW1RYUE3Rm9GdVVCQzFxUkRnMjQtQXBtMkcxeEtXczllWDFZa3paZnRuT05UbkVISi1EbndibVdSM01tbTFIUXd0VUFGTXhfRWVKNlQxRC0wTnpvOGU0WGRSWDdR?oc=5",
+      "source": "poder360.com.br",
+      "publishedAt": "2026-09-16T12:42:35Z",
+      "description": "Ursula von der Leyen diz em seu discurso sobre o Estado da UE que Europa e Canadá “veem o mundo pelos mesmo olhos”. Leia no Poder360.",
+      "image": "https://static.poder360.com.br/uploads/2026/09/ursula-von-der-leyen-16set2026-1200x675.jpg",
+      "articleUrl": "https://www.poder360.com.br/poder-internacional/uniao-europeia-acena-para-tornar-canada-1o-integrante-associado/"
+    },
+    {
       "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
       "source": "Euronews.com",
@@ -195,9 +204,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUW1hMzlDd0NlRlh2UlcyRm9aUUpWV3BaVHg1Qzg2Z0RscHFXUmdGUTRLVTk5UFRIck9CT3k4MW5CdVpPTnFFYjBlTW1DTG12WFFPZ2d4WnhyM0RhNkNqNE9xY280YmRNSU1UZ0xPV0dVU0hTenExb2lrSUZGcTRNRHFKSEIxYndsMmZDbnRkOU1qei1ob0laTFAxUTJ2ZkdvT1JtZ25lN2tSd2ZGTWtPMWU5RFNiQkh3NGc?oc=5",
       "source": "Vatican News",
       "publishedAt": "2026-09-15T17:00:36Z",
-      "description": "A tensão aumenta na Europa: na noite de segunda para terça-feira, um caça da OTAN abateu um drone nos céus da Lituânia, que acabou caindo em uma área ...",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/15/08/1789452298564.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-      "articleUrl": "https://www.vaticannews.va/pt/mundo/news/2026-09/atualizacao-internacional-ucrania-otan-abate-drone-ceus-lituania.html"
+      "description": "Notícia publicada por Vatican News. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Trump anuncia que Kiev e Moscovo aceitaram parar ataques a infraestruturas energéticas - Observador",
@@ -205,14 +213,6 @@
       "source": "Observador",
       "publishedAt": "2026-09-14T16:47:56Z",
       "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Rússia denuncia \"planos agressivos\" dos EUA no espaço, China acusa Washington de preparar \"uma guerra\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEpIZ1RvRlVJV1ZHYWJGVjEzckhqdjBpZ1ktWGxEYnNpQmhKNEpSb0Nlb0xZeXBpSTEwUFd5djB3cnVLWGJYZExFbFlpT1ZjZkdFOHg1Njk0M3B4NHZQaXV2dkpjdWZlU09iUm9SZUlwYkFuWFZxemJDV1ZYS1dOZVRsaG1QTmY4cHRHMUhrUVdSdy1Zc3VGYzFKMVVsZ3VGU3lpNlQ4V1ZDcUJwanRZam1Na2s2dWNXR0ZwTmVMblJZdy10VWN4c3R1X2lxNER2VzhMTm4xTDduTDByTldsY19ZY1lnb3ZGN1hHQy1MVHNtZW1Cd1VPX3dPbHc1RkZYdDRHN09Dd2JBd2FiN2ZwaHV6X2dwd3M?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-14T21:18:00Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
