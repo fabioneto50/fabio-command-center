@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-16T13:29:59.537423Z",
+  "updatedAt": "2026-09-16T14:28:45.147929Z",
   "health": [
     {
-      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - Euronews.com",
+      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - pt.euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTdqUDNPYjRnTFJjeVEyaFhiekxLNHVGaTBXTFJLb0dfZXJISnJMZ29seDY0ZDhwekNGY2t0TkhlQXZ5MWRUYmR6d0ptMnEwc2ZramctX1daTlJ5cDFnS1hxT3ltb2xESy1JelhsTHo0b2g1cXFyOTBITHZ3TGpUdXFIMFRSRTJ2YXpQcDVRYU9RMVdtQTlQUHNuWWFsOGZNM2c?oc=5",
-      "source": "Euronews.com",
+      "source": "pt.euronews.com",
       "publishedAt": "2026-09-16T10:56:19Z",
       "description": "Em ano de recorde de candidatos a vagas financiadas em faculdades de medicina na Rússia, falta estudantes para a especialização. Especialistas apontam novas regras de colocação obrigatória após o curso, lembrando a prática soviética.",
       "image": "https://images.euronews.com/articles/stories/09/91/38/43/1200x675_cmsv2_b7c01bb0-8776-5409-b970-48ca89a1c33f-9913843.jpg",
@@ -38,6 +38,15 @@
       "articleUrl": "https://www.saudemais.tv/noticia/66750-hospital-sao-joao-no-porto-preve-admissao-a-curto-prazo-de-mais-enfermeiros"
     },
     {
+      "title": "O hospital que podemos perder - Jornal das Caldas",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NjhHUDUyYkZkTFgyMzRyWmZpNGRIT05IZGpRanBPN2dsUkhaMGVFeWQ5ZDVJUlVibDhGOGVhbjZhRlhoTXBERlNjYjFoWXdBNFhVZWluTWEzS2FzNEVtU3d6THFiUlByU01TTEEwODZyM2tHQ3VJ?oc=5",
+      "source": "Jornal das Caldas",
+      "publishedAt": "2026-09-16T13:35:04Z",
+      "description": "Há assuntos que se perdem por falta de razão. E há outros que se perdem por falta de força. Tenho cada vez mais receio de que o novo Hospital do Oeste esteja a caminho de ser um desses casos.",
+      "image": "https://jornaldascaldas.pt/wp-content/uploads/2026/08/foto-barroso.jpeg",
+      "articleUrl": "https://jornaldascaldas.pt/2026/09/16/o-hospital-que-podemos-perder/"
+    },
+    {
       "title": "Reforço dos cuidados relativos à demência na Região Africana - WHO | Regional Office for Africa",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaU5KOGk2WDdSQUZlcWVhMzJZNURYRlAzUEx0SzRmZkgtei11N3lXc3dzMVNfZ2tGa0lWU2VGb2g1ZEVsMmh4R1UtQzA3Q041d1dVZGFqdlBrdHRMX21fSF9USnBVa0ZmOW9kd2Izb1Q4anF0NHZvY3Q1UE1NaVhnTW1EMU5mLTVtdTVod1VUTHRTTjFWX2dSeFRLVWdmbjNNUWtTX3M0dXEwM2c?oc=5",
       "source": "WHO | Regional Office for Africa",
@@ -47,13 +56,22 @@
       "articleUrl": "https://www.afro.who.int/pt/countries/kenya/news/reforco-dos-cuidados-relativos-demencia-na-regiao-africana"
     },
     {
-      "title": "Campanha de Imunização contra o VSR 2026/2027 arranca hoje nos Açores - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00MDBXa0ZTdG5GZEphb2p0d3E5YnROdi00bzJCZFlRLXFTWlBVQ3BJVW8zVndhelhQSW9Rb0d2N0xQSm1MeUJCZDBlSUhhbU5EU3B6enhuX2hlZUhKSllKcXFWTl9oNTBmZWlUakhpZ3FHQjM0RWF3?oc=5",
+      "title": "Concluída consulta pública do Programa Funcional do futuro HDES - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yeVA5VWlUZVBkUjJyQk9wdUhuMEpmNDZLNHlWbHVyLUxkRFRjUmJ5Vmk5cHVaaWV2YUthQXhzZUNtcE1wOVJ5YXFOdGVLa2RnYUFZakk5c1hvRG9JMGZFa1FHcG9TcmI1NlRIS3MxbzV5NE1aOERR?oc=5",
       "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-09-16T12:42:21Z",
+      "publishedAt": "2026-09-16T10:36:57Z",
       "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23831348"
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23830452"
+    },
+    {
+      "title": "Aqui fala-se sobre envelhecimento e doença sem tabus - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEp2OUJ1NUNSNXRncGRyd2MtbWpFS3dRbzVwSE5PdGlEWkcyLXdhWVl0SkhWLWwxR3BLRnVKWkpKMXo2cGNKbmVSM3dQNmtibE4xXzA5Tkl2dmJWYnFPeVRKazE1bmt3NnRzYWtnNmJTXzd0c0VyVTUxU1dBOGNfckQwTVVKSUpFbDE4SnpEbHdtc1d5NWRnWVl4SkNsUHJLYW00czdn?oc=5",
+      "source": "Notícias ao Minuto",
+      "publishedAt": "2026-09-16T13:03:26Z",
+      "description": "A ELO Cuidados, em Oeiras, arranca no próximo dia 19 de setembro, sábado, um novo ciclo de encontros onde se abordam temas que por vezes são complicados de fala...",
+      "image": "https://media-manager.noticiasaominuto.com/960/naom_6aaa8d364c8e2.webp",
+      "articleUrl": "https://www.noticiasaominuto.com/lifestyle/3052385/aqui-fala-se-sobre-envelhecimento-e-doenca-sem-tabus"
     },
     {
       "title": "Portuguesa Sword Health vai adquirir a Headspace para alargar atividade para cuidados de saúde mental - Jornal Económico",
@@ -70,7 +88,7 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-16T10:27:57Z",
       "description": "No dia em que se assinalam 47 anos do Serviço Nacional de Saúde, o Chefe de Estado defendeu que \"não há saúde ao serviço de todos sem um sistema público que a garanta\".",
-      "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/813320884_2569359526869409_71791645462118267_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=mhEqyggnTfYQ7kNvwGb3N-h&_nc_oc=Adr_Ny8zKtl1EwXFxiztG441GdkAInT14MejPr8V-275bMH6t2QYhXZZ-YcDFPtrTac&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=dhixV_YNynurHaZi1xdjAw&_nc_ss=7820f&oh=00_AQIAHOXJ4jGkn9tjIOx1A4zjGTNSKU3wbrwEvvE_eVswoQ&oe=6AB053A8",
+      "image": "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.99422-6/813320884_2569359526869409_71791645462118267_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=mhEqyggnTfYQ7kNvwGZDjjT&_nc_oc=Adpf-0mJtJ-ydp7Iuh2fZQgSM-KTndGfaYsTHrK8yuG1U7U0hFmE3j6x8VH7sQMrC8U&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=yRHPmkq2SJ85AkvCy_CAcw&_nc_ss=7820f&oh=00_AQIg_2n7b-wGX4Z5EXuuQQs2RKPyRJFDk639-AyTrt6YpQ&oe=6AB08BE8",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/no-dia-em-que-se-assinalam-47-anos-do-servi%C3%A7o-nacional-de-sa%C3%BAde-o-chefe-de-estad/1477684614462817/"
     },
     {
@@ -78,9 +96,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFZpNlNXWHZ2TS01MzQtZFBrRl81SzJMdGdnbldsTnRzR0kwV3htRlBtcklteUhab25VT1BaRGlzbjZNNTlEbndHS3h1M29halAzaVduMWx5dGI3SFl2T3NFUmlmS2VYZkxnZ3ktUlZTcDhvT0wyay1xblk0QUloc0k5ZWdqODk0aTJ0Q05PT0J0ZWV6d3Zrcjh0ZEo3dTB6blhZN2djSnJobm83?oc=5",
       "source": "New in Guarda",
       "publishedAt": "2026-09-16T11:02:00Z",
-      "description": "Pedro Renca já realizou quatro curtas-metragens e criou em Coimbra um programa que combina a arte com a terapia.",
-      "image": "https://newinguarda.nit.pt/wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php?post_id=62564&ts=20260916100937",
-      "articleUrl": "https://newinguarda.nit.pt/fora-de-casa/este-enfermeiro-da-guarda-usa-o-cinema-para-falar-sobre-saude-mental"
+      "description": "Notícia publicada por New in Guarda. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Fertilidade: há clínicas a garantir bebés ou o reembolso do dinheiro. Reguladora já aplicou multas - Público",
@@ -88,23 +105,6 @@
       "source": "Público",
       "publishedAt": "2026-09-16T10:25:23Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/16/sociedade/noticia/fertilidade-ha-clinicas-garantir-bebes-reembolso-dinheiro-reguladora-ja-aplicou-multas-2188180"
-    },
-    {
-      "title": "Seguro pede \"coragem\" para Pacto na Saúde: \"Não podemos fazer nada sozinhos\" - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHN5S2JoT1pWRi1zb2VHbWJZUjlUWnZ4czRZSzlEN2Y4NXRNNWw1MHZfdlUyTURfS1Zray1ic2JHMm9Bdlg5Q3JUOUpNMWFuSlRZMFRFSS05ME04U084RXpfTDNjbTdoNlFFRi1NRGc4bVhDb1NvMkRUVWgtdEdNM3RvckxmQ1dJMEE5VnhhY3NvNFRQcHZLRzUwdGY0dGZmOGdDUHRsa2o0VGI0OWs0Q1U1RHpSUmNIZ3k5RDNaSkJfWGVNcVdBb0lheUxnZw?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-15T21:41:45Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "A arte de ser mais e o poema inacabado do SNS. Opinião de um estudante de Medicina - visao.pt",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWRad3hrTXNfTi1PeTZ4SVpPcmhoeGI3NUdMVGp1LWQ1enczaGl2Xzk1MzgtZnlFLThXbUdVQkdMaGdGc1J3T2ZmZ2puczNmOGFpSzRmUjJxbmlYYTNnMk1rN0hTTmZNSVFPM1ltQldQVHBLMlNVMmtpQ0RGbzR5YWpDQlpVaURrX1k0T0dTazVSRHU4SGdZV1JDREZhSnFnLUozQWZ5bFhVWWxoOVlDLVZ6SnRwM3VtRUlidGpzNk5iSGNldmt1ZTVTR1pydw?oc=5",
-      "source": "visao.pt",
-      "publishedAt": "2026-09-16T09:42:00Z",
-      "description": "Notícia publicada por visao.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -128,9 +128,9 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/russia-elogia-relacao-sem-precedentes-com-a-china-e-critica-blocos-na-asia-pacifico_n1765728"
     },
     {
-      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
+      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXVqcFVhdXdXZVlhUjd2TzlRc1NGUURHb1luaTJvQUQ2UjdXVl9wVHF4VHpCYkJaTkRuTDJSVHB6bDdYcEtyTzRQc3l1dmJLenVqWkRGNlNBUFdNSUFzSXlpbEM5aUg2TzRKOUR6ejh3VEtMVDAzZVFyYWJNZlg3NlJqTUFfODBhenp4M1RfbXNLS1h6eW52MHNfa25Kb2RRRXBjYW1HZmtOcl84dVJWa2NySXN5anZaU2pUa041NnRfRWc?oc=5",
-      "source": "Euronews.com",
+      "source": "pt.euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
       "description": "Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”. #EuropeNews",
       "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
@@ -173,6 +173,15 @@
       "articleUrl": "https://cnnportugal.iol.pt/ursula-von-der-leyen/estado-da-uniao/von-der-leyen-avisa-vamos-ter-de-fazer-escolhas-fiscais-claras-para-garantir-a-sustentabilidade/20260916/6aaa46f8d34e53c759c724e1"
     },
     {
+      "title": "Trump anuncia que Kiev e Moscovo aceitaram parar ataques a infraestruturas energéticas - Observador",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk4wNjJxQWFCanJLU3Iwc0tpdnQ5VmdHMWotUmdJTkIzNlpJdU0tZ0d4MWhCRWZ5Qm5yMWxaTDA4ckpkTHFHRlluOWktdnJGczctMzIyNl9qMF8tSFpfeTFwc21RWEVHNjh6SlVTbFhpMG5IZkY3UGluWG5zbmxXcEU2V3VNaVMzSUJ6cGN5cHNFVUdjWXR5Rml3bVF1MExibVpGNFh3cnhNWEg0X0Nkbi00a2pDNE8yMjk2MQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-14T16:47:56Z",
+      "description": "O Presidente dos Estados Unidos anunciou que a Ucrânia e a Rússia aceitaram deixar de atacar as infraestruturas energéticas uma da outra. Preço do gasóleo deve-se a guerra entre estes dois países.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F07082036%2F47717374.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/14/trump-anuncia-que-kiev-e-moscovo-aceitaram-parar-ataques-a-infraestruturas-energeticas/"
+    },
+    {
       "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - dw.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGNmNUt5YnViUDZBUXVEV2tzMWFyNUdlNVZHWmZ5eHdCVFFxTWlzNkpxMmNVMHc1MjFFTmFBMHJWb1EwR0tmcF8yblJWbUlYLWx5TldpSjlvYVlueWxqd1VaMjRtbkVrVkdvS2RrdUVBaGJwajQzeTBNLUx5bTRKNVVsSFpmMmV6WVFmYnRYOFB0TnRSZjdvcXZkc0RhdmRaVE5sSG1wbVB5TFdMY2dJ0gGvAUFVX3lxTFBEY2Y1S3lidWJQNkFRdURXa3MxYXI1R2U1VkdaZnl4d0JUUXFNaXM2SnEyY1UwdzUyMUVOYUEwclZvUTBHS2ZwXzJuUlZtSVgtbHlOV2lKOW9hWW55bGp3VVoyNG1uRWtWR29LZGt1RUFoYnBqNDN5ME0tTHltNEo1VWxIWmYyZXpZUWZidFg4UHROdFJmN29xdmRzRGF2ZFpUTmxIbXBtUHlMV0xjZ0k?oc=5",
       "source": "dw.com",
@@ -182,22 +191,21 @@
       "articleUrl": "https://amp.dw.com/pt-br/ue-quer-ampliar-presen%C3%A7a-no-%C3%A1rtico-diante-de-r%C3%BAssia-e-trump/a-79266910"
     },
     {
-      "title": "União Europeia acena para tornar Canadá 1º integrante associado - poder360.com.br",
+      "title": "União Europeia acena para tornar Canadá 1º integrante associado - Poder360",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVFTUmR5N25mcjR3ZTh0R0s5ZVFLRUl6Z2t4Q0tsV2lTUGdxS1o2YkxLSzJsZDdGa25ERjVsUHl1RHppYjRVVEhYMm0zV2VSUHlTQjdiUW1RYUE3Rm9GdVVCQzFxUkRnMjQtQXBtMkcxeEtXczllWDFZa3paZnRuT05UbkVISi1EbndibVdSM01tbTFIUXd0VUFGTXhfRWVKNlQxRC0wTnpvOGU0WGRSWDdR?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "publishedAt": "2026-09-16T12:42:35Z",
       "description": "Ursula von der Leyen diz em seu discurso sobre o Estado da UE que Europa e Canadá “veem o mundo pelos mesmo olhos”. Leia no Poder360.",
       "image": "https://static.poder360.com.br/uploads/2026/09/ursula-von-der-leyen-16set2026-1200x675.jpg",
       "articleUrl": "https://www.poder360.com.br/poder-internacional/uniao-europeia-acena-para-tornar-canada-1o-integrante-associado/"
     },
     {
-      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
+      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
-      "source": "Euronews.com",
+      "source": "pt.euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
-      "description": "Vídeo. Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”.",
-      "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
-      "articleUrl": "https://pt.euronews.com/video/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
+      "description": "Notícia publicada por pt.euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Guerra na Ucrânia: OTAN abate drone nos céus da Lituânia - Vatican News",
@@ -205,14 +213,6 @@
       "source": "Vatican News",
       "publishedAt": "2026-09-15T17:00:36Z",
       "description": "Notícia publicada por Vatican News. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Trump anuncia que Kiev e Moscovo aceitaram parar ataques a infraestruturas energéticas - Observador",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk4wNjJxQWFCanJLU3Iwc0tpdnQ5VmdHMWotUmdJTkIzNlpJdU0tZ0d4MWhCRWZ5Qm5yMWxaTDA4ckpkTHFHRlluOWktdnJGczctMzIyNl9qMF8tSFpfeTFwc21RWEVHNjh6SlVTbFhpMG5IZkY3UGluWG5zbmxXcEU2V3VNaVMzSUJ6cGN5cHNFVUdjWXR5Rml3bVF1MExibVpGNFh3cnhNWEg0X0Nkbi00a2pDNE8yMjk2MQ?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-14T16:47:56Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
