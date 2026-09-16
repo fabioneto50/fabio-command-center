@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-16T19:26:41.983132Z",
+  "updatedAt": "2026-09-16T20:28:05.397222Z",
   "health": [
+    {
+      "title": "Two Point Hospital: Full Health Collection - nintendo.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnJlZHc2a2ZWNndiX1FxbkVkOWpzQURRWnFQa212cEJxaHhRc0xsb2NkM01OemI1cExrS280cWZvay1QZWxublpSUU1Xb2lNS29BVk9ET0JWeVZQd3pUcHdJVThwd1phVWFtY2ZHYjEyMVJac0piV0szQ0tVZHRQa1FmbUxHN2MzNEkwVHZ4UDJFVTJGZWY0d1Zwbi1xOG9faklyQkU1S2thWjgxbFI5a293QmNZNEE5c1FmZVVsRQ?oc=5",
+      "source": "nintendo.com",
+      "publishedAt": "2026-09-16T19:38:05Z",
+      "description": "Apresentamos a Full Health Collection, que inclui o Two Point Hospital e TODOS os DLC. Este é um remédio que não custa nada engolir!",
+      "image": "https://assets.nintendo.eu/image/private/f_auto,q_auto/lixs1kgtwdwofuzkw30w",
+      "articleUrl": "https://www.nintendo.com/pt-pt/Jogos/Jogos-para-a-Nintendo-Switch-2/Two-Point-Hospital-Full-Health-Collection-3189080.html"
+    },
     {
       "title": "Hospital São João prevê admissão a curto prazo de mais enfermeiros - Observador",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajNQb21BVHpUTHdXRHBKLWZUTXo5MEF4amJZNTRlRGFIdGJCN0ppWlExczhfQ1lmRmJ6NV9GQnFZNUI0cXlRSHhHNk9JUmpZVjRnRWxBUXBTWmpfbHVLelRYeG13a01kSHRjLUZyZkJEakE3cVkzNWFuWXB0RlEtZU5LZlVvelF0bXgxaTVGSzFmWVpBNVdHVTVhM1pBcHVpT3c?oc=5",
@@ -18,6 +27,24 @@
       "description": "Em ano de recorde de candidatos a vagas financiadas em faculdades de medicina na Rússia, falta estudantes para a especialização. Especialistas apontam novas regras de colocação obrigatória após o curso, lembrando a prática soviética.",
       "image": "https://images.euronews.com/articles/stories/09/91/38/43/1200x675_cmsv2_b7c01bb0-8776-5409-b970-48ca89a1c33f-9913843.jpg",
       "articleUrl": "https://pt.euronews.com/2026/09/16/faculdades-de-medicina-na-russia-enfrentam-escassez-de-estudantes"
+    },
+    {
+      "title": "O hospital que podemos perder - Jornal das Caldas",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NjhHUDUyYkZkTFgyMzRyWmZpNGRIT05IZGpRanBPN2dsUkhaMGVFeWQ5ZDVJUlVibDhGOGVhbjZhRlhoTXBERlNjYjFoWXdBNFhVZWluTWEzS2FzNEVtU3d6THFiUlByU01TTEEwODZyM2tHQ3VJ?oc=5",
+      "source": "Jornal das Caldas",
+      "publishedAt": "2026-09-16T18:31:53Z",
+      "description": "Há assuntos que se perdem por falta de razão. E há outros que se perdem por falta de força. Tenho cada vez mais receio de que o novo Hospital do Oeste esteja a caminho de ser um desses casos.",
+      "image": "https://jornaldascaldas.pt/wp-content/uploads/2026/08/foto-barroso.jpeg",
+      "articleUrl": "https://jornaldascaldas.pt/2026/09/16/o-hospital-que-podemos-perder/"
+    },
+    {
+      "title": "Estado da União: Marta Temido (PS) lamenta falta de avanços na saúde e custo de vida - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmwyUnhfYmJBVHBMZ0E3TXduNFYxZHlmaXFTSTZQV3lPOE5UaUxCejF4ckF6bEZ4eThOQ1p6QXVXSXJlcWxCb1dxVmswa0toX0wwOXVNMm9oSzZoRVhHSUdpcVpiWDFoeWFXVElOczM4MmV6aXZITm5zU3JhQnltZ3ZDRm5pYVV6d3JjcUYxTDMwV0wtcFREM0JaU1MwYk1EU2NKc19Rcm1pcXdrWno0STVjMzZnWkNmWjRXMw?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-09-16T16:01:07Z",
+      "description": "A eurodeputada socialista Marta Temido lamentou hoje que a presidente da Comissão Europeia não tenha avançado objetivos concretos relativamente aos temas da saúde e do custo de vida no seu discurso sobre o Estado da União.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066766_0000000001.jpg",
+      "articleUrl": "https://www.saudemais.tv/noticia/66766-estado-da-uniao-marta-temido-ps-lamenta-falta-de-avancos-na-saude-e-custo-de-vida"
     },
     {
       "title": "Unidade Móvel de Saúde está agora também no Carvalhinho - Câmara Municipal da Moita",
@@ -38,22 +65,13 @@
       "articleUrl": "https://www.lusa.pt/lusofonia/article/2026-09-16/47786901/pa%C3%ADses-lus%C3%B3fonos-refor%C3%A7am-resposta-a-emerg%C3%AAncias-m%C3%A9dicas-com-apoio-da-oms-e-da-china"
     },
     {
-      "title": "Forum Madeira recebe II Mostra da Medicina Veterinária este fim de semana - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDlBTFplMGVaWC11b25FMlZtU3dKeXhabjRYbGF5cGFacC01NzlDUm5maGxzMUJPYnFpdGg4Z2xpVWdJRW5XTFBPRnA3dTEtdG1tMWdiMEM3NDhHSkZmR1RQNEpjbUxTVVZTMUstdGdSYndZbUNjRFJyRDIwOTlsQmxPN1Z3Ulc4cDJRamVPNVo0MVF3bzRkSjV0UmRWTUgweGlPQ092cTFVNmVZOXIzSDJLNW50X3U1cjczWGVNa29sTFdnTDdCZzNLY0V5V3M?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-09-16T17:24:00Z",
-      "description": "Trata-se de um evento aberto ao público, de caráter científico e educativo.",
-      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_16/close-up-hand-holding-dog-paw_%281%29-1789579136739.jpg--forum_madeira_recebe_ii_mostra_da_medicina_veterin_ria_este_fim_de_semana.webp?1789579139201",
-      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005226/forum-madeira-recebe-ii-mostra-da-medicina-veterinaria-este-fim-de-semana.html"
-    },
-    {
-      "title": "Vivalto Santé reforça cooperação europeia na saúde com nova estrutura que reúne sete países - sabado.pt",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0ZYTHNBNVJGZHdYUGpreTA4TVphVjk3RTg4TENCY1BfdElMUlJGVmNOS1NUVEo3eHNPczhWQ2NSRHZmem1ORlRGZE1ELWZzaXR1U1E4ZWhzRkxobTlKMzJyc3lBalJuRmFIdDMxNERFY2tvdjcwWTVCOXFEa3hIcnNWNVVjUk9zSWx4clA5NTNiT1RXZlhha2FQZjlsLWJLZzZnRmEyTUlFSlN5VnpWb0MxTnNjZjYzeUxRV0Zra29odV8tbUF6YkJxRzZjRjhJVHRzbtIB1AFBVV95cUxOU0ZYTHNBNVJGZHdYUGpreTA4TVphVjk3RTg4TENCY1BfdElMUlJGVmNOS1NUVEo3eHNPczhWQ2NSRHZmem1ORlRGZE1ELWZzaXR1U1E4ZWhzRkxobTlKMzJyc3lBalJuRmFIdDMxNERFY2tvdjcwWTVCOXFEa3hIcnNWNVVjUk9zSWx4clA5NTNiT1RXZlhha2FQZjlsLWJLZzZnRmEyTUlFSlN5VnpWb0MxTnNjZjYzeUxRV0Zra29odV8tbUF6YkJxRzZjRjhJVHRzbg?oc=5",
-      "source": "sabado.pt",
-      "publishedAt": "2026-09-16T14:07:00Z",
-      "description": "Vasco Antunes Pereira, Presidente do Conselho de Administração e Chief Executive Officer da Lusíadas Saúde integra Global Operational Committee que reúne os líderes das geografias europeias da Vivalto Santé. Experiência do cliente, inteligência artificial e investigação e inovação clínicas estão entre as áreas prioritárias.",
-      "image": "https://cdn.sabado.pt/images/2026-09/img_1200x676uu2026-09-16-15-06-54-775688.png",
-      "articleUrl": "https://www.sabado.pt/comunicados-imprensa/amp/vivalto-sante-reforca-cooperacao-europeia-na-saude-com-nova-estrutura-que-reune-sete-paises"
+      "title": "Marta Temido critica falta de objetivos concretos para a saúde na UE - healthnews.pt",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDBjeXpSb2t5eFlUVUlON3NKQ2MzYVNoZFg2MUhlcFhpZHBnNHAwRjFGMkY4RWdGbGgwcTc2ZkxrNm44UVBicDFRdXNoMGEzeFFhblRCbS01WUEwTnllejlqOVNYVXZfSzZWU05VU29RQlZGbFpzWHRVQ1hPV3BkRUpKcWlGZE5tYXV2ZEp5dVJ2aDhWVDNZMlY2S3FSSjM4aHB0aQ?oc=5",
+      "source": "healthnews.pt",
+      "publishedAt": "2026-09-16T15:41:09Z",
+      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/09/16/marta-temido-critica-falta-de-objetivos-concretos-para-a-saude-na-ue/"
     },
     {
       "title": "Reitor da Universidade do Porto avisa caloiros que podem ser antipraxe e que há ajuda na saúde mental - Público",
@@ -65,46 +83,28 @@
       "articleUrl": "https://www.publico.pt/2026/09/16/p3/noticia/reitor-universidade-porto-avisa-caloiros-podem-antipraxe-ha-ajuda-saude-mental-2188296"
     },
     {
-      "title": "Consulta pública do programa funcional do Hospital de Ponta Delgada termina com cinco contributos - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU1ueWttWUo4Tl94dXMxVnkycFdxd1BlZmVLT2RzVjVOaHo2cE8wMEI0anFaVzFmNG1wcm81cnlUcnJwbXVva0xYckQxclFVSkhRQWpqYzB4Z2VWVl9ZeTVwRGdkN1dvNzhENU5teVp2MXJKNmVNRVZKMC1LQ1ZPWDVGUm5uWmJLNDU0d1lmM0NsUTJacVY5RXFOZzFGdDNoSkJRNkxhemtCQkRtbEdFMnJSckluU2ZYalJ4LVFKTzJSbExkdl94c2pnNkNyN1JQVWc?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-16T11:42:53Z",
-      "description": "O processo de consulta pública do programa funcional para a reparação, reorganização e redimensionamento do Hospital do Divino Espírito Santo (HDES), nos Açores, terminou na terça-feira, tendo sido recebidos cinco contributos, revelou hoje o Governo Regional.",
-      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066761_0000000001.jpg",
-      "articleUrl": "https://www.saudemais.tv/noticia/66761-consulta-publica-do-programa-funcional-do-hospital-de-ponta-delgada-termina-com-cinco-contributos"
+      "title": "Forum Madeira recebe II Mostra da Medicina Veterinária este fim de semana - JM Madeira",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDlBTFplMGVaWC11b25FMlZtU3dKeXhabjRYbGF5cGFacC01NzlDUm5maGxzMUJPYnFpdGg4Z2xpVWdJRW5XTFBPRnA3dTEtdG1tMWdiMEM3NDhHSkZmR1RQNEpjbUxTVVZTMUstdGdSYndZbUNjRFJyRDIwOTlsQmxPN1Z3Ulc4cDJRamVPNVo0MVF3bzRkSjV0UmRWTUgweGlPQ092cTFVNmVZOXIzSDJLNW50X3U1cjczWGVNa29sTFdnTDdCZzNLY0V5V3M?oc=5",
+      "source": "JM Madeira",
+      "publishedAt": "2026-09-16T17:24:00Z",
+      "description": "Trata-se de um evento aberto ao público, de caráter científico e educativo.",
+      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_16/close-up-hand-holding-dog-paw_%281%29-1789579136739.jpg--forum_madeira_recebe_ii_mostra_da_medicina_veterin_ria_este_fim_de_semana.webp?1789579139201",
+      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005226/forum-madeira-recebe-ii-mostra-da-medicina-veterinaria-este-fim-de-semana.html"
     },
     {
-      "title": "Nutrição entérica pode ser uma opção terapêutica na Doença de Crohn - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JUaUxTNmJmMm9uckhNanVBOXU4NHQtRkRWNkNibjAtTHFUZEQ1d1hzMlBRSDBRejlUNk5EVDU1YUw1LVVlNDNtMk52U1FlVGttZE9BRjdHNlR3eFRrdlIxaFJxR2FtZU95a1JBdDk5YkRGc2ZUMmJDcnBrXzlfS05JOWdWZWFZLVhwYnRNMC1NRnVhVFFTNW8wZVZ1OUlOR0M4?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-16T10:02:37Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/16/nutricao-enterica-pode-ser-uma-opcao-terapeutica-na-doenca-de-crohn/"
-    },
-    {
-      "title": "Carmen recorda frase marcante do filho sobre a doença do marido: \"O pai já morreu só falta enterrá-lo\" - SIC",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX2wtYnpPN0JMWDdQYXJmY29aU3ZLNXZMMWc1eUdYMlFyY3VkR0dwV2RXazE3TWxPRHVPTkJiVVJtLVBVcGxQeGgyeEdTaE5fOTl1STVJTWNBZFpyRTZtZmpZUWw3NWNSRmxoY0cxZW1SVjZ1dFg1STRGN01QNkxocFllbWdhaHdtTU9oWjBGWm42S1N6Y3NtLXhLT2tKNF8tMVEySHF2RG1CLXJQZkZ5c1RBeFp2MDNhN042ckFBQUJJZGI3WXpsV2hDTHZ1TWpIT2xsakxJU2EyT1dPS0s2NkRvZEhhc19CYk5sR2FFVzR3ZDIwZ0E?oc=5",
-      "source": "SIC",
-      "publishedAt": "2026-09-16T17:11:59Z",
-      "description": "Notícia publicada por SIC. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sic.pt/programas/julia/videos/2026-09-16-video-carmen-recorda-frase-marcante-do-filho-sobre-a-doenca-do-marido-o-pai-ja-morreu-so-falta-enterra-lo-0555dd97"
-    },
-    {
-      "title": "Reitor da U. Porto lembra que praxe é opcional e reforça apoio à saúde mental - sicnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1JnVU1aMXZxVUhHX1I4Yy1GLUR0OGh1S0NjN1BhUktqWWp3ek56WklUZTEzNGNqN0lwaTdtZFZlMl9fLTNBZGR4MmR5ekJUQkNtOFYwenc3QkRHWTBfMnM0NzJYRWdIUjNULXh1TGh6VVlMeUFjVUQ0VENDam5SalcyUGU5enEwaTM2Yk5nN0J6QVZaTG1KYnBHU29nYnh3cm1pWVZJRDM1MXd3WFJodjZUUGF6YnZjZnZ4ZGVKRURHcEUtak1GbWFVV0NKam8?oc=5",
-      "source": "sicnoticias.pt",
-      "publishedAt": "2026-09-16T17:49:42Z",
-      "description": "Notícia publicada por sicnoticias.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Vivalto Santé reforça cooperação europeia na saúde com nova estrutura que reúne sete países - SÁBADO",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0ZYTHNBNVJGZHdYUGpreTA4TVphVjk3RTg4TENCY1BfdElMUlJGVmNOS1NUVEo3eHNPczhWQ2NSRHZmem1ORlRGZE1ELWZzaXR1U1E4ZWhzRkxobTlKMzJyc3lBalJuRmFIdDMxNERFY2tvdjcwWTVCOXFEa3hIcnNWNVVjUk9zSWx4clA5NTNiT1RXZlhha2FQZjlsLWJLZzZnRmEyTUlFSlN5VnpWb0MxTnNjZjYzeUxRV0Zra29odV8tbUF6YkJxRzZjRjhJVHRzbtIB1AFBVV95cUxOU0ZYTHNBNVJGZHdYUGpreTA4TVphVjk3RTg4TENCY1BfdElMUlJGVmNOS1NUVEo3eHNPczhWQ2NSRHZmem1ORlRGZE1ELWZzaXR1U1E4ZWhzRkxobTlKMzJyc3lBalJuRmFIdDMxNERFY2tvdjcwWTVCOXFEa3hIcnNWNVVjUk9zSWx4clA5NTNiT1RXZlhha2FQZjlsLWJLZzZnRmEyTUlFSlN5VnpWb0MxTnNjZjYzeUxRV0Zra29odV8tbUF6YkJxRzZjRjhJVHRzbg?oc=5",
+      "source": "SÁBADO",
+      "publishedAt": "2026-09-16T14:07:00Z",
+      "description": "Notícia publicada por SÁBADO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "O hospital que podemos perder - Jornal das Caldas",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NjhHUDUyYkZkTFgyMzRyWmZpNGRIT05IZGpRanBPN2dsUkhaMGVFeWQ5ZDVJUlVibDhGOGVhbjZhRlhoTXBERlNjYjFoWXdBNFhVZWluTWEzS2FzNEVtU3d6THFiUlByU01TTEEwODZyM2tHQ3VJ?oc=5",
-      "source": "Jornal das Caldas",
-      "publishedAt": "2026-09-16T13:35:04Z",
-      "description": "Notícia publicada por Jornal das Caldas. Abra o artigo para consultar os detalhes completos.",
+      "title": "Presidente sul-africano cancela agenda pública por questões de saúde - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1I3TUt2Q3JHU3FPWDdrRzZtMTI0dXRJMnN5SVBkYWVXYlFLUi05S2xxVTR6bnhSRG1mSDVkc3Y0dmNOMGk0U2UtTXBxYXpSQkVqV19rTTFUTGFfLWNrVTdsb1pBQndyWW81Qng3NHQ1QlY4a0Z0RzBKellOaEJGemU1Z1FSNGJsZzFnNFpRQjdTbDZqWGFqQUtGNWxyazlSVWVwSF9WcjdWTlh00gGgAUFVX3lxTE91bm5DNWNnSUdPWDVsOVJ2VDRnUGhUNHYwWWRQVkg5WHo1ZUxPeUVTSUtaVGZILUZ5THZUYTFxWmJGSHFEbVN4d09wNHlQWWpDLWVJaFFHZWJDTjU2TFMyRkV4WXZ0Wk9oYmNaSE5rcENvXzYzTExFUk5TeTYyb0xoRnRVS0JYOVhRdlhtcmF0bXRiYlhHallDSzBxYnBjSUM?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-09-16T17:17:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,18 +119,18 @@
       "articleUrl": "https://www.publico.pt/2026/09/16/mundo/noticia/eua-acusam-agentes-russos-preparar-ataques-assassinios-aliados-ucrania-2188212"
     },
     {
-      "title": "Rússia elogia relação \"sem precedentes\" com a China e critica blocos na Ásia-Pacífico - RTP",
+      "title": "Rússia elogia relação \"sem precedentes\" com a China e critica blocos na Ásia-Pacífico - rtp.pt",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN29JSzJSbVprYTFXSkpZWmE2d29DUkFpYU9uSGxBMDdDMFZVRnREUFZucGp4NWU1UjEydW0xMnl4b2RyWnd6QXFMczY3eVUxb0xTYmtPbE1QaWJJSXBSZ05fWHRFdDJDZ1RnQTZjTHo2YnlxanBHY1pveFg0Ylh5Wk5SUXVKX0d2V0poYzdhQkpTZEx3NFFuVW1JeG1GbEVVcnRtQl9YcF9McWN2RU1zTWJpUncxNVlUeU0zRTYzNTZuUHlr?oc=5",
-      "source": "RTP",
+      "source": "rtp.pt",
       "publishedAt": "2026-09-16T08:12:29Z",
       "description": "A vice-ministra da Defesa russa, Anna Tsivileva, destacou hoje, em Pequim, o nível \"sem precedentes\" das relações entre Rússia e China e criticou o aparecimento de \"estruturas de blocos fechados\" na Ásia-Pacífico, durante o Fórum Xiangshan.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/44/440c0317bb8a2834aa547b88c7cc3ae2?w=860&q=90&rect=0,0,1499,822&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/mundo/russia-elogia-relacao-sem-precedentes-com-a-china-e-critica-blocos-na-asia-pacifico_n1765728"
     },
     {
-      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
+      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamwzb2RqeWtQQjZYNHF4SG9rV1lsYlRJMVR2ZWpRVF9xc2Q0UEQySUd2Vng4QkN4RkRGdEotTWFXRDUwQXZfYlFrUzQxTHBscjk5cm02RmpmNzdmanhSbjVBOTl2TDN2b3VOX2pzbVlZc3ZwNkliV1hDLTZDVnBZTERSV2tCanJxUVZjQ2duUW5IdkwzeUxVRGF5eVVVUlpXcVdmUS05S0k3N2dTRmhhQVNvNDVXTjJQbVR4X2cyeW0wekFlbU1TbmVIZjhaWFht?oc=5",
-      "source": "Euronews.com",
+      "source": "pt.euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
       "description": "Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”. #EuropeNews",
       "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
@@ -173,13 +173,13 @@
       "articleUrl": "https://www.pcp.pt/cumplicidade-da-ue-na-desestabilizacao-do-medio-oriente-continua"
     },
     {
-      "title": "Von der Leyen avisa: vamos ter de \"fazer escolhas fiscais claras\" para \"garantir a sustentabilidade\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbVpLNi03TF9pdjJ5aENTSzU2OXhGSXU3WnFMcFU3Y2U4anJQcjloSmxSbTNianhMMVB5cmFaT19SSkFxQzdjQ3FNRlViazRnSHlTaHZSOFVGVVNFVGpzdXhfaTlOTkI2QXZ4R1FOMXNETUMzeHJpNzhHMlRpMTdHTEl0c3RTR094ZWNVS2pJa1pSNkJkN0VsLS1NV0hKekxXNzJ0NUlCcmNTbGNhNnRyam1qeFZCd0dNZzdyUFlmVk5kdEZjNkRGd3FOUlZ3QjBXWXhTc0VlMEN6REZDVk9RYUo3b1g5UXp5ejYxcnBLUi04ZDd3NElmZmJzV1JGWXJYRlQ2SnJtT2VoQndveUtZd2dlVGE5cHVOcnRCc0dB?oc=5",
+      "title": "Rússia denuncia \"planos agressivos\" dos EUA no espaço, China acusa Washington de preparar \"uma guerra\" - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEpIZ1RvRlVJV1ZHYWJGVjEzckhqdjBpZ1ktWGxEYnNpQmhKNEpSb0Nlb0xZeXBpSTEwUFd5djB3cnVLWGJYZExFbFlpT1ZjZkdFOHg1Njk0M3B4NHZQaXV2dkpjdWZlU09iUm9SZUlwYkFuWFZxemJDV1ZYS1dOZVRsaG1QTmY4cHRHMUhrUVdSdy1Zc3VGYzFKMVVsZ3VGU3lpNlQ4V1ZDcUJwanRZam1Na2s2dWNXR0ZwTmVMblJZdy10VWN4c3R1X2lxNER2VzhMTm4xTDduTDByTldsY19ZY1lnb3ZGN1hHQy1MVHNtZW1Cd1VPX3dPbHc1RkZYdDRHN09Dd2JBd2FiN2ZwaHV6X2dwd3M?oc=5",
       "source": "CNN Portugal",
-      "publishedAt": "2026-09-16T07:40:00Z",
-      "description": "Bruxelas não esperava que a União Europeia reagisse tão bem ao impacto das guerras no Médio Oriente, mas está ciente de que os elevados custos da energia podem começar a ter um efeito sério nas pessoas e nas empresas",
-      "image": "https://img.iol.pt/preset/69f1c9fdd34edcee7c63959b/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/ursula-von-der-leyen/estado-da-uniao/von-der-leyen-avisa-vamos-ter-de-fazer-escolhas-fiscais-claras-para-garantir-a-sustentabilidade/20260916/6aaa46f8d34e53c759c724e1"
+      "publishedAt": "2026-09-14T21:18:00Z",
+      "description": "Não se sabe, até ao momento, que armas estão envolvidas, quantos sistemas foram colocados no espaço ou quais os seus alvos",
+      "image": "https://img.iol.pt/preset/5dc2bc340cf2880c20a0c0f3/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra-no-espaco/armas-espaco/russia-denuncia-planos-agressivos-dos-eua-no-espaco-china-acusa-washington-de-preparar-uma-guerra/20260915/6aa99976d34e9a786e7581b6"
     },
     {
       "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - DW.com",
@@ -200,18 +200,18 @@
       "articleUrl": "https://www.vaticannews.va/pt/mundo/news/2026-09/atualizacao-internacional-ucrania-otan-abate-drone-ceus-lituania.html"
     },
     {
-      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
+      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
-      "source": "Euronews.com",
+      "source": "pt.euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
-      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por pt.euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Rússia denuncia \"planos agressivos\" dos EUA no espaço, China acusa Washington de preparar \"uma guerra\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEpIZ1RvRlVJV1ZHYWJGVjEzckhqdjBpZ1ktWGxEYnNpQmhKNEpSb0Nlb0xZeXBpSTEwUFd5djB3cnVLWGJYZExFbFlpT1ZjZkdFOHg1Njk0M3B4NHZQaXV2dkpjdWZlU09iUm9SZUlwYkFuWFZxemJDV1ZYS1dOZVRsaG1QTmY4cHRHMUhrUVdSdy1Zc3VGYzFKMVVsZ3VGU3lpNlQ4V1ZDcUJwanRZam1Na2s2dWNXR0ZwTmVMblJZdy10VWN4c3R1X2lxNER2VzhMTm4xTDduTDByTldsY19ZY1lnb3ZGN1hHQy1MVHNtZW1Cd1VPX3dPbHc1RkZYdDRHN09Dd2JBd2FiN2ZwaHV6X2dwd3M?oc=5",
+      "title": "Von der Leyen avisa: vamos ter de \"fazer escolhas fiscais claras\" para \"garantir a sustentabilidade\" - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbVpLNi03TF9pdjJ5aENTSzU2OXhGSXU3WnFMcFU3Y2U4anJQcjloSmxSbTNianhMMVB5cmFaT19SSkFxQzdjQ3FNRlViazRnSHlTaHZSOFVGVVNFVGpzdXhfaTlOTkI2QXZ4R1FOMXNETUMzeHJpNzhHMlRpMTdHTEl0c3RTR094ZWNVS2pJa1pSNkJkN0VsLS1NV0hKekxXNzJ0NUlCcmNTbGNhNnRyam1qeFZCd0dNZzdyUFlmVk5kdEZjNkRGd3FOUlZ3QjBXWXhTc0VlMEN6REZDVk9RYUo3b1g5UXp5ejYxcnBLUi04ZDd3NElmZmJzV1JGWXJYRlQ2SnJtT2VoQndveUtZd2dlVGE5cHVOcnRCc0dB?oc=5",
       "source": "CNN Portugal",
-      "publishedAt": "2026-09-14T21:18:00Z",
+      "publishedAt": "2026-09-16T07:40:00Z",
       "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
