@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:25:38.850065Z",
+  "updatedAt": "2026-09-16T00:34:05.213074Z",
   "health": [
     {
       "title": "Seguro pede \"coragem\" para Pacto na Saúde: \"Não podemos fazer nada sozinhos\" - Expresso",
@@ -11,6 +11,15 @@
       "articleUrl": "https://expresso.pt/presidencia-republica/2026-09-15-seguro-pede-coragem-para-pacto-na-saude-nao-podemos-fazer-nada-sozinhos-00a56ec1"
     },
     {
+      "title": "Tecnologia e Saúde pagam os melhores salários em Portugal - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkZTc1JFVVJBNWwwQkpidWlpaXFNTmxzUHVRdjNoSlluc3JORFV6U0txT1R0R0ZDQ0FvcHhadXVoczVKbUpib1RZejV6Zy1mY3VYaEN3em5DTGZDem5FWEVtdE5WbDkzSXY4SVFoQngyZzlNQVdUbFMtQUQxcTZUUjNaTGJKNm5mS09VT0J0ZFhQWm5pR2VvZ3JmdElULThw?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "description": "Áreas de TI e Ciências da Vida oferecem as melhores oportunidades num mercado com elevada procura por perfis especializados.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/08/10__Futuro_da_medicina_ja_comecou-e1786826616891.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/tecnologia-e-saude-pagam-os-melhores-salarios-em-portugal/"
+    },
+    {
       "title": "Unidade Local de Saúde quer construir nova torre no Hospital de Leiria que está a \"rebentar pelas costuras\" - Observador",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGhNYUdTN1hWTGlCWW9naXEzNFVMcldNcGFmSzRlcnF0bUxPaTA1Zkk3dkFubG5kUnRuV1V3UjRoQmFvaWg0VXVwWGxoNU5VNWIzaVo4RF9XTkJyS2xXZXNOWGRWYVFnUXZEbUkzeU43dk9RZ3I0bFR4b0RoeS13bXZuem9OR3ZIS0FHWUxfVzU2WXVoNWZwTjFhMnNySjF0c0tEaUdralozMFI3b2pUUUVtUm9OTVdaTjNZU2VsSXRDR2s5Q1ZVOExXZFkwQnc2djhaNDNR?oc=5",
       "source": "Observador",
@@ -18,69 +27,6 @@
       "description": "O presidente da Unidade de Saúde afirma que o Hospital de S. André abrange mais população do que quando foi criado. O projeto da terceira torre foi apresentado à Ministra da Saúde no ano passado.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F12%2F27144503%2F15628021_770x433_acf_cropped.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/09/15/unidade-local-de-saude-quer-construir-nova-torre-no-hospital-de-leiria-que-esta-a-rebentar-pelas-costuras/"
-    },
-    {
-      "title": "Mulheres faltam mais ao trabalho por doença. Idade não parece pesar no absentismo | Saúde - Público",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZi1lcFdJbFBnVFhkcHZzWFZRLWRkdjJaWlVialJneU9waTRtd01PcURRSEJGTDJZNDViY2lvYXg4ZDV5aWd3aEJaZU9HS1V4aE44bDVIcHpkc3A3d3NkTUpINmRrMndfV3BVeTN1andQMmJJWHdJNTZMdl9RTkFhR1FrTUk1YURHSnpCYlJhYW02bVlfQkxSR2pSdXBURFhrODFlT0xsRkVBN3BYRXNnSHNPMnJWZzV1S0twa0JkN0xiajBCelU3OUpOTDB3QQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-15T14:50:54Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/15/sociedade/noticia/mulheres-faltam-trabalho-motivos-doenca-idade-nao-parece-pesar-absentismo-2188114"
-    },
-    {
-      "title": "LOULÉ VAI FALAR DE SAÚDE HORMONAL DE HOMENS E MULHERES - Câmara Municipal de Loulé",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lXa2xsZlhjMHJpWWZDWDdiY1JZMEdvQVpqR0VIZEpvcFlhWEthaHprUndyNTFLREtaT1VleW05UUpyUUgxdXJJeGhRR3ctTHVnMlJ3Ry1Zd2xieG42SVJ3b1RJajBid1ZvS0poNnR1bzZ5VWpNcnd2QnJuSVNHLUR0cG5ZNlFPSzlCU08tYUpLWUJZdGRxY2J3NjVzNVZ3cURV?oc=5",
-      "source": "Câmara Municipal de Loulé",
-      "publishedAt": "2026-09-15T20:05:35Z",
-      "description": "O Ciclo de Conversas \"Semear Hoje...Colher o Amanhã...\" está de regresso ...",
-      "image": "https://cms.cm-loule.pt/upload_files/client_id_1/website_id_1/images/FOTOS%202026/Sa%C3%BAde%20hormonal2.png",
-      "articleUrl": "https://www.cm-loule.pt/pt/noticias/54604/loule-vai-falar-de-saude-hormonal-de-homens-e-mulheres.aspx"
-    },
-    {
-      "title": "A comunidade e a construção da Saúde em Portugal - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHpmc3dKNzVwWjhQZHVHQjZzVHJER1o5bjRKNWkzMmJYd2w0NUxhTXlNTGcwRjRBd1dMM194Sm9INjBKMW96UHJnbnZhc0xULTRjNVV1LV8wUUpKR2ZLbmxKQnpfQkpfTmZVbDlpMU51YlJrSFFyVVduUXUtVTFDbVpEbUZtZzJKSlE?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-15T17:28:23Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/15/a-comunidade-e-a-construcao-da-saude-em-portugal/"
-    },
-    {
-      "title": "Ministra da Saúde não adianta o valor a pagar aos médicos tarefeiros, mas garante que será publicado em outubro - sicnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRmlVM2lqMlBiUGZENHNjUEhKdkNrSGlnV0w0NWtCakRTOWJialpveWRyT2VSeG84aU8xTjVRVGk4TE5WWDBNSHNfODYxbWIxWTdMRk82OEFmZm5CWWpzbm9oaUhjVGRBbmczRHhpeGllcWZhZ2dOSERJM0ZzYnhickswc0ZuMDNwTnlVeDJVTURhQjNCR3NBOGtmUTNtQzloZ1N0ZVJFTGNjWm9yQlZFd1FJa09pWnVieV9JbGRqWHpiUHZ1MGNOTzlvTnFKMTl5Vkx6NEFueTBHQ0x0RlZ0V25vMDdLYTF0MkRQdzczVXZNazlfZUtr?oc=5",
-      "source": "sicnoticias.pt",
-      "publishedAt": "2026-09-15T20:16:03Z",
-      "description": "Notícia publicada por sicnoticias.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/pais/2026-09-15-video-ministra-da-saude-nao-adianta-o-valor-a-pagar-aos-medicos-tarefeiros-mas-garante-que-sera-publicado-em-outubro-3c752419"
-    },
-    {
-      "title": "Inscrições Abertas | 7.º Congresso de Medicina Tropical (IHMT NOVA) - ihmt.unl.pt",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3VOUGh4QU9aZlNiaWNIMEpvM210Z1dlOGE4dWJsYmlaNGNhTThfajZxWjFkaVp2cHNXQlB6LUYtcXRZX2ZIcjg1MFhYSEk2WGJUVjFIcDZQeFlEMzJacXZPX1JLUkk5MUpsdnc2N0IzZkFfRkdJTTVRdWo5TU5OMlI0T2V0SVBtQ2JrTG9nbEt0dw?oc=5",
-      "source": "ihmt.unl.pt",
-      "publishedAt": "2026-09-15T15:59:56Z",
-      "description": "Inscrições Abertas | 7.º Congresso de Medicina Tropical Estão oficialmente abertas as inscrições para o 7.º Congresso de Medicina Tropical, do Instituto de Higiene e Medicina Tropical da Universidade NOVA de Lisboa (IHMT NOVA), que decorrerá de 21 a 23 de abril de 2027, nas nossas instalações, em Lisboa. Centrada na abordagem One Health no contexto das […]Ler mais",
-      "image": "https://www.ihmt.unl.pt/wp-content/uploads/2026/09/Destaques-Website-1200-x-649-px-7.png",
-      "articleUrl": "https://www.ihmt.unl.pt/inscricoes-abertas-7-o-congresso-de-medicina-tropical-ihmt-nova/"
-    },
-    {
-      "title": "\"Temos de ter coragem\" para ultrapassar um \"período doloroso\" na Saúde - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDZ3aS1HQ0hERlRkczJyVEctbXRzTUhfSFBhZXZVdHVxQU5JQ1c3THZBSkp0OWcza0FiRExwUHBYaU05aHJFYzRudFhrRmFoM1VnMTQ1WjJMcFJONDdTblJ1V3lpU2NfcEtKOGQ3T290cVNMOG9nNXpERW1rUFVXaHJ2X2thYi1pcXFzZnJva0JjamJhZWlkV2U5Y3k3OURWT3BNNHpWcVYtYkVWRER6SHBSNVplSVBHem1SME5xc0lnUjA?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-15T17:20:00Z",
-      "description": "No dia que marca o 47.º aniversário do Serviço Nacional de Saúde, Andrea Lima, presidente do \"Fórum Saúde XXI\", afirma que \"temos de repensar em qual é o SNS de que precisamos\".",
-      "image": "https://img.iol.pt/preset/6aa96f09d34e9a786e75811e/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/videos/temos-de-ter-coragem-para-ultrapassar-um-periodo-doloroso-na-saude/6aa96d720cf23b0ed4fd86ea"
-    },
-    {
-      "title": "1 Minuto de Literacia em Saúde de 15 set 2026 - RTP",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJQWFoZTZmRmE1dGFCTExZNjMtRDhJd0h0VVlfSTZNSkVURWVPY2J3dlVfNzFXdElGaVl4QXJBZ0FvbS1kcEctUWdmWFdCX2JKa1puNU1KMjhiWGRUUm4zbGktd2lWMWdLOWljcHVwOVZwSzJvZkgzaQ?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-15T15:39:41Z",
-      "description": "Sara Sousa | HDES: Importância da Vacinação na Infância - Dedicado à literacia em saúde, '1 Minuto de Literacia em Saúde' tem como objetivo cap",
-      "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8316_13583_87185.jpg?v=3&w=860",
-      "articleUrl": "https://www.rtp.pt/play/p16811/e953724/1-minuto-de-literacia-em-saude"
     },
     {
       "title": "Seguro diz que melhorar SNS é um dever de todos e reitera apelo a pacto para a saúde - Público",
@@ -92,12 +38,49 @@
       "articleUrl": "https://www.publico.pt/2026/09/15/politica/noticia/seguro-melhorar-sns-reitera-apelo-pacto-saude-2188185"
     },
     {
-      "title": "Despesa das Unidades Locais de Saúde com medicamentos sobe 4,6% e chega aos 1.600 milhões de euros - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3ZJTVBTc0FadmNTQ3lKb09lY0E4S2k5bkdxWVBoaFNZUG1WUjA1Z3hSUEhPODc4XzhuX2FYbm1NTG1CRndxSVZ2UFB6c0d3U2JVT2N3b1prSjZ6Q2dIMTc4cFdrR2pPM0lqNHhWRWc0RGFQT0RoRDdJeFByVWdneTlQdW5ZbTFSaUkzVlROVURvWTVPajlvMlZnVUdRaVN6UDYzMlhKMWx2MWFyemN1YWRQYTlRT3N1bFJ1Q3ppaG01Wld6cmVFNy1R?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-15T18:30:57Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "title": "LOULÉ VAI FALAR DE SAÚDE HORMONAL DE HOMENS E MULHERES - Câmara Municipal de Loulé",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lXa2xsZlhjMHJpWWZDWDdiY1JZMEdvQVpqR0VIZEpvcFlhWEthaHprUndyNTFLREtaT1VleW05UUpyUUgxdXJJeGhRR3ctTHVnMlJ3Ry1Zd2xieG42SVJ3b1RJajBid1ZvS0poNnR1bzZ5VWpNcnd2QnJuSVNHLUR0cG5ZNlFPSzlCU08tYUpLWUJZdGRxY2J3NjVzNVZ3cURV?oc=5",
+      "source": "Câmara Municipal de Loulé",
+      "publishedAt": "2026-09-15T20:05:35Z",
+      "description": "O Ciclo de Conversas \"Semear Hoje...Colher o Amanhã...\" está de regresso ...",
+      "image": "https://cms.cm-loule.pt/upload_files/client_id_1/website_id_1/images/FOTOS%202026/Sa%C3%BAde%20hormonal2.png",
+      "articleUrl": "https://www.cm-loule.pt/pt/noticias/54604/loule-vai-falar-de-saude-hormonal-de-homens-e-mulheres.aspx"
+    },
+    {
+      "title": "Ministra da Saúde não adianta o valor a pagar aos médicos tarefeiros, mas garante que será publicado em outubro - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRmlVM2lqMlBiUGZENHNjUEhKdkNrSGlnV0w0NWtCakRTOWJialpveWRyT2VSeG84aU8xTjVRVGk4TE5WWDBNSHNfODYxbWIxWTdMRk82OEFmZm5CWWpzbm9oaUhjVGRBbmczRHhpeGllcWZhZ2dOSERJM0ZzYnhickswc0ZuMDNwTnlVeDJVTURhQjNCR3NBOGtmUTNtQzloZ1N0ZVJFTGNjWm9yQlZFd1FJa09pWnVieV9JbGRqWHpiUHZ1MGNOTzlvTnFKMTl5Vkx6NEFueTBHQ0x0RlZ0V25vMDdLYTF0MkRQdzczVXZNazlfZUtr?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-09-15T20:16:03Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/pais/2026-09-15-video-ministra-da-saude-nao-adianta-o-valor-a-pagar-aos-medicos-tarefeiros-mas-garante-que-sera-publicado-em-outubro-3c752419"
+    },
+    {
+      "title": "A comunidade e a construção da Saúde em Portugal - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHpmc3dKNzVwWjhQZHVHQjZzVHJER1o5bjRKNWkzMmJYd2w0NUxhTXlNTGcwRjRBd1dMM194Sm9INjBKMW96UHJnbnZhc0xULTRjNVV1LV8wUUpKR2ZLbmxKQnpfQkpfTmZVbDlpMU51YlJrSFFyVVduUXUtVTFDbVpEbUZtZzJKSlE?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-15T17:28:23Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/09/15/a-comunidade-e-a-construcao-da-saude-em-portugal/"
+    },
+    {
+      "title": "Inscrições Abertas | 7.º Congresso de Medicina Tropical (IHMT NOVA) - ihmt.unl.pt",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3VOUGh4QU9aZlNiaWNIMEpvM210Z1dlOGE4dWJsYmlaNGNhTThfajZxWjFkaVp2cHNXQlB6LUYtcXRZX2ZIcjg1MFhYSEk2WGJUVjFIcDZQeFlEMzJacXZPX1JLUkk5MUpsdnc2N0IzZkFfRkdJTTVRdWo5TU5OMlI0T2V0SVBtQ2JrTG9nbEt0dw?oc=5",
+      "source": "ihmt.unl.pt",
+      "publishedAt": "2026-09-15T15:59:56Z",
+      "description": "Inscrições Abertas | 7.º Congresso de Medicina Tropical Estão oficialmente abertas as inscrições para o 7.º Congresso de Medicina Tropical, do Instituto de Higiene e Medicina Tropical da Universidade NOVA de Lisboa (IHMT NOVA), que decorrerá de 21 a 23 de abril de 2027, nas nossas instalações, em Lisboa. Centrada na abordagem One Health no contexto das […]Ler mais",
+      "image": "https://www.ihmt.unl.pt/wp-content/uploads/2026/09/Destaques-Website-1200-x-649-px-7.png",
+      "articleUrl": "https://www.ihmt.unl.pt/inscricoes-abertas-7-o-congresso-de-medicina-tropical-ihmt-nova/"
+    },
+    {
+      "title": "1 Minuto de Literacia em Saúde de 15 set 2026 - RTP",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJQWFoZTZmRmE1dGFCTExZNjMtRDhJd0h0VVlfSTZNSkVURWVPY2J3dlVfNzFXdElGaVl4QXJBZ0FvbS1kcEctUWdmWFdCX2JKa1puNU1KMjhiWGRUUm4zbGktd2lWMWdLOWljcHVwOVZwSzJvZkgzaQ?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-15T15:39:41Z",
+      "description": "Sara Sousa | HDES: Importância da Vacinação na Infância - Dedicado à literacia em saúde, '1 Minuto de Literacia em Saúde' tem como objetivo cap",
+      "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8316_13583_87185.jpg?v=3&w=860",
+      "articleUrl": "https://www.rtp.pt/play/p16811/e953724/1-minuto-de-literacia-em-saude"
     },
     {
       "title": "Mpox com \"transmissão comunitária\" em Portugal: tudo sobre os sintomas, o tratamento e a vacina disponível - Expresso",
@@ -105,6 +88,23 @@
       "source": "Expresso",
       "publishedAt": "2026-09-15T15:20:00Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-15-mpox-com-transmissao-comunitaria-em-portugal-tudo-sobre-os-sintomas-o-tratamento-e-a-vacina-disponivel-7f2a522b"
+    },
+    {
+      "title": "Mulheres faltam mais ao trabalho por doença. Idade não parece pesar no absentismo | Saúde - Público",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZi1lcFdJbFBnVFhkcHZzWFZRLWRkdjJaWlVialJneU9waTRtd01PcURRSEJGTDJZNDViY2lvYXg4ZDV5aWd3aEJaZU9HS1V4aE44bDVIcHpkc3A3d3NkTUpINmRrMndfV3BVeTN1andQMmJJWHdJNTZMdl9RTkFhR1FrTUk1YURHSnpCYlJhYW02bVlfQkxSR2pSdXBURFhrODFlT0xsRkVBN3BYRXNnSHNPMnJWZzV1S0twa0JkN0xiajBCelU3OUpOTDB3QQ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-15T14:50:54Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "Confiança da população dos EUA nas vacinas contra sarampo desce desde 2020 - Público",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREM1N3NYUkxKd2Z5NVprWWhDMm53VXhEWWNGUWM1amhvbmI3d3pJNjdKU1pwSDYxLUJLOXkyZXAwVWVGQTBPMXh0ajVodjVEQTFoYWVRMkFXTnpFd0tKSFpJZzVJd19wMWRubmZ4bFVMcUpqS0dEZE5xSm01ZHE2dzlRVGhrN2owRXhQaXlfSEZBYWlCZTFSTXc5SUZMOWxoVUJBem9VTDNPX0FGajF0WkxiOEE?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-15T20:20:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -137,31 +137,49 @@
       "articleUrl": "https://cnnportugal.iol.pt/guerra-no-espaco/armas-espaco/russia-denuncia-planos-agressivos-dos-eua-no-espaco-china-acusa-washington-de-preparar-uma-guerra/20260915/6aa99976d34e9a786e7581b6"
     },
     {
-      "title": "Ucrânia: preocupação na Europa com o ataque russo na fronteira com a Polônia - vaticannews.va",
+      "title": "Ucrânia: preocupação na Europa com o ataque russo na fronteira com a Polônia - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1kzZjV6ZTdPXzdxc09peGx0TmhxclJLVGtqY1d2cjJLOW1mUXdzbU1IeHJwb0hyZmRfTmROS1R1SEV4Zjh2UEVKOTJYQUtFMERYa0RpandYSDZselQ5Rmk2MEZWaGtvSTJjSTdDdXNBR1ZJZHNPNzJJTmFMamF6Sm5MZWtQdmxuWUlfYnZuSnBDTzVSZUV2NG9FcWhVdVNzdUY5dkJaSE9HSk9XNXlaY2Q2Sl9GTm8?oc=5",
-      "source": "vaticannews.va",
+      "source": "Vatican News",
       "publishedAt": "2026-09-15T16:46:34Z",
       "description": "Durante a madrugada de segunda-feira, as forças ucranianas atacaram a cidade russa de Sochi, enquanto cresce a preocupação após o ataque de Moscou à ...",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/13/18/1789315238788.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
       "articleUrl": "https://www.vaticannews.va/pt/mundo/news/2026-09/preocupacao-na-europa-apos-ataque-russo-contra-um-trem-ucrania.html"
     },
     {
-      "title": "Alterações climáticas possibilitaram a exploração de recursos naturais pela China, Rússia e Estados Unidos. Ameaças de Moscovo e de Washington obrigaram ao reforço do papel europeu no Ártico. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTlJnRXRlcWtOd1RjTFJ4cUozdUtPUzgwTDlaUm9uLXRkSnFXN2EyczhhY0dOR0Y0RWFOTl81cGRYbG5CcXItTGNjX09WSFlUTmFObEJQQV9pMUQwNm1OZEpFeVlOY1NVcVhKS0k5UWdPeEd1WUc1M0FMRmpWZVl1am5PTnV1a2hlZlNsV2VtTnNfdDF4UTNNMUJzUWZaZjJQSFQwdDFWdTZyMXZ5VVVkMjU2U3E2NmdfcUNnTXRfNWxTNDN4cFh1VGdMenNMUXFZZnByMFNmaDRwSHBFZEtKUVFHSFVHMFJnXy1ZZU5FVmdtakZGT19GcHJteE4xWGFo?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-15T10:48:16Z",
-      "description": "Alterações climáticas possibilitaram a exploração de recursos naturais pela China, Rússia e Estados Unidos. Ameaças de Moscovo e de Washington obrigaram ao reforço do papel europeu no Ártico.",
-      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/809729935_1781291839585390_4562522700623796631_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=102&ccb=1-7&_nc_sid=cae128&_nc_ohc=CUeEFnyh99wQ7kNvwHGHUo9&_nc_oc=AdqC-NdWn0ehr37_MGkD4vVIZhEAcR09qSuEZlC67zmpyzqopsm30Bq-AioDhA2luds&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=XFVOdPmQzZo6kY80GMnAtg&_nc_ss=7820f&oh=00_AQJzOtBmoLjHgeJiO1hnUrkIi2arAgkpyLiMiD10zi4kMg&oe=6AAFB041",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/altera%C3%A7%C3%B5es-clim%C3%A1ticas-possibilitaram-a-explora%C3%A7%C3%A3o-de-recursos-naturais-pela-chin/1476754831222462/"
+      "title": "Trump anuncia que Kiev e Moscovo aceitaram parar ataques a infraestruturas energéticas - Observador",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk4wNjJxQWFCanJLU3Iwc0tpdnQ5VmdHMWotUmdJTkIzNlpJdU0tZ0d4MWhCRWZ5Qm5yMWxaTDA4ckpkTHFHRlluOWktdnJGczctMzIyNl9qMF8tSFpfeTFwc21RWEVHNjh6SlVTbFhpMG5IZkY3UGluWG5zbmxXcEU2V3VNaVMzSUJ6cGN5cHNFVUdjWXR5Rml3bVF1MExibVpGNFh3cnhNWEg0X0Nkbi00a2pDNE8yMjk2MQ?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-14T16:47:56Z",
+      "description": "O Presidente dos Estados Unidos anunciou que a Ucrânia e a Rússia aceitaram deixar de atacar as infraestruturas energéticas uma da outra. Preço do gasóleo deve-se a guerra entre estes dois países.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F07082036%2F47717374.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/14/trump-anuncia-que-kiev-e-moscovo-aceitaram-parar-ataques-a-infraestruturas-energeticas/"
     },
     {
-      "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - DW.com",
+      "title": "EUA confirmam, pela primeira vez, ter armas no espaço - Público",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNS1wZEdRNHdMaXA2ZTRIWklxYUk5bUlNYnB1T004QlhUbVBmTC0wREVqX01LQ2FyamNacElUNGNKOTl0MF9zTmRkWEc3Tkh3QUdLWmpMNF9Iak1odmtld1IzNlZBMTdDOTdRako0Y256SWpZYVFqbnhEcVprZFBSSW9qekd5cEVQcllET21vMmE1TVZyVkE?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-15T17:14:06Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/15/mundo/noticia/eua-confirmam-primeira-armas-espaco-2188145"
+    },
+    {
+      "title": "UE quer ampliar presença no Ártico diante de Rússia e Trump - dw.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGNmNUt5YnViUDZBUXVEV2tzMWFyNUdlNVZHWmZ5eHdCVFFxTWlzNkpxMmNVMHc1MjFFTmFBMHJWb1EwR0tmcF8yblJWbUlYLWx5TldpSjlvYVlueWxqd1VaMjRtbkVrVkdvS2RrdUVBaGJwajQzeTBNLUx5bTRKNVVsSFpmMmV6WVFmYnRYOFB0TnRSZjdvcXZkc0RhdmRaVE5sSG1wbVB5TFdMY2dJ0gGvAUFVX3lxTFBEY2Y1S3lidWJQNkFRdURXa3MxYXI1R2U1VkdaZnl4d0JUUXFNaXM2SnEyY1UwdzUyMUVOYUEwclZvUTBHS2ZwXzJuUlZtSVgtbHlOV2lKOW9hWW55bGp3VVoyNG1uRWtWR29LZGt1RUFoYnBqNDN5ME0tTHltNEo1VWxIWmYyZXpZUWZidFg4UHROdFJmN29xdmRzRGF2ZFpUTmxIbXBtUHlMV0xjZ0k?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "publishedAt": "2026-09-14T21:47:58Z",
       "description": "Reunidos na Finlândia, líderes de 12 países europeus defenderam maior atuação do bloco na região. Grupo cita ameaça russa, novas rotas marítimas e pressões dos EUA sobre a Groenlândia.",
       "image": "https://static.dw.com/image/79265743_6.jpg",
       "articleUrl": "https://amp.dw.com/pt-br/ue-quer-ampliar-presen%C3%A7a-no-%C3%A1rtico-diante-de-r%C3%BAssia-e-trump/a-79266910"
+    },
+    {
+      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-15T16:38:32Z",
+      "description": "Vídeo. Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”.",
+      "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
+      "articleUrl": "https://pt.euronews.com/video/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
     },
     {
       "title": "Venezuela presente em reunião de ministros da Energia do G20 nos Estados Unidos - dnoticias.pt",
@@ -173,31 +191,21 @@
       "articleUrl": "https://www.dnoticias.pt/2026/9/15/505458-venezuela-presente-em-reuniao-de-ministros-da-energia-do-g20-nos-estados-unidos/"
     },
     {
-      "title": "Guerra na Ucrânia: OTAN abate drone nos céus da Lituânia - vaticannews.va",
+      "title": "Guerra na Ucrânia: OTAN abate drone nos céus da Lituânia - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUW1hMzlDd0NlRlh2UlcyRm9aUUpWV3BaVHg1Qzg2Z0RscHFXUmdGUTRLVTk5UFRIck9CT3k4MW5CdVpPTnFFYjBlTW1DTG12WFFPZ2d4WnhyM0RhNkNqNE9xY280YmRNSU1UZ0xPV0dVU0hTenExb2lrSUZGcTRNRHFKSEIxYndsMmZDbnRkOU1qei1ob0laTFAxUTJ2ZkdvT1JtZ25lN2tSd2ZGTWtPMWU5RFNiQkh3NGc?oc=5",
-      "source": "vaticannews.va",
+      "source": "Vatican News",
       "publishedAt": "2026-09-15T17:00:36Z",
       "description": "A tensão aumenta na Europa: na noite de segunda para terça-feira, um caça da OTAN abateu um drone nos céus da Lituânia, que acabou caindo em uma área ...",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/15/08/1789452298564.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
       "articleUrl": "https://www.vaticannews.va/pt/mundo/news/2026-09/atualizacao-internacional-ucrania-otan-abate-drone-ceus-lituania.html"
     },
     {
-      "title": "Com “as placas tectónicas da geopolítica em colisão”, Europa corre atrás do prejuízo - Público",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpaUTdYV0NiR0lnXzh1MlZsT1V3OVZMcklXckFqbFJ2RVpLT1JsaTdCQnB3aXF4OEJGS05ydlpNM1BRNVJOLTNpbnd2eWNHaF94NWFoLW51amptVFo4NHUyU1JTNWFncDJkeEdMamhhZ0xqMEtLSEc0QkVKdENQZmViUDk4MnV3YWNubkNYUWt3dnktWDdZalJxRkRRTDFXQTROVWN0ZnQ2eS1TZWtBTFp0NGdfVUViMGNhbVd3?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-15T21:00:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/15/mundo/noticia/placas-tectonicas-geopolitica-colisao-europa-corre-atras-prejuizo-2188172"
-    },
-    {
       "title": "China pede que EUA parem de 'se preparar para a guerra' no espaço - G1",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3N2a2plaUwxT1FUQ2tkdXpsVEhOMDBEa09aeTh6dVNRYWp6djB6SnBGbnBrWEdfNXVycVZMUW1YRzFmQmZxTWZtSmNQTDU0c1JIdDZLVTZUTnRHa1hLSHVVM2NCZXJqZzVoeGphVHo0YlJwWkdwNUVKM2hfZFd4amVURTZ4bVdjWDQ4QVM4YUhWYXM0Z1FRTHk4dWtfSmpuUFU3RFRB0gG0AUFVX3lxTE55RVoyTU50aDkxOGI5QU5LemU3MzdpNVpaa25TUHdsX2pJbTJnX0c4cGxFVVIxaDdjeUtZd25jLXBubXdhd1ltdU4ySDlDcXBpeVo5RlhrcGJJWUxjZURqZHQwMnJkVEh0MmlLVzVMTUNFa25QaHRheWxlU3NnTkJ1cktUdlFma0ZGTHJ3bmU2NWQyNF9NeFVnTjE3OWRQZEN1Wno1Y3dDdGpIbzlnSE9ycHBOUQ?oc=5",
       "source": "G1",
       "publishedAt": "2026-09-15T09:31:24Z",
-      "description": "Governo norte-americano reconheceu pela 1ª vez na segunda (14) que possui armas em órbita.",
-      "image": "https://s2-g1.glbimg.com/MFnKtx9F5avqayo_NHIW4DtyonI=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/6/3XYA5SQQSs2XkEwzg2ZQ/2026-05-14t053708z-1621096542-rc2t8lak3npz-rtrmadp-3-china-usa.jpg",
-      "articleUrl": "https://g1.globo.com/mundo/noticia/2026/09/15/china-pede-eua-parem-de-preparar-para-guerra-espaco.ghtml"
+      "description": "Notícia publicada por G1. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "China faz apelo aos EUA contra guerra no espaço, e Rússia diz que órbita deve ser livre de armas - Folha de S.Paulo",
@@ -205,14 +213,6 @@
       "source": "Folha de S.Paulo",
       "publishedAt": "2026-09-15T12:11:00Z",
       "description": "Notícia publicada por Folha de S.Paulo. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "EUA financiam construção de fábrica de TNT na Finlândia para abastecer a NATO e a Ucrânia - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS0hKaFZLRi01aFBlT2w1WEtQMG1fSjc3VzBVVXBIX0QxT1lvZnhDTTNPUE1weXNSWE9XYUY5TDZNU3NwMDd4Yi00dXdIRHJIenFLWXJaVjJHOVBNR2ZaMVpRMUVaRXNiN2lYYm9tMWkyYmo5M0Zua09ILWhEaVBuMTNaMEk0aGlmSjZJYnZ6MGtvcnh4d1kwMVM4aExWRFNGbl9Vek5xZnJaaC12TEladDZjZ09xcDVoR1NJcEdIUHliZVhWblVsYkh4bEs0d1hpM20wSUFfX2REenlsWGtaUjZSUFkzZFdIbzVUNzVkUHZBTEFRSmFvNDhXVllReWc?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-15T16:49:00Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
