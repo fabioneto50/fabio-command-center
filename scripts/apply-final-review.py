@@ -2,7 +2,7 @@
 from pathlib import Path
 import hashlib,json
 root=Path(__file__).resolve().parents[1]
-allowed={'fcc-navigation.js','fcc-medications.js','fcc-offline.js','service-worker.template.js','scripts/build-assets.cjs','tests/audit-browser.py'}
+allowed={'fcc-navigation.js','fcc-medications.js','fcc-offline.js','service-worker.template.js','scripts/build-assets.cjs','tests/audit-browser.py','tests/audit-upgrade.py','fcc-store.js','app.js','fcc-content-core-v1.js','tests/audit-unit.mjs'}
 delta=json.loads((root/'scripts/review-final.json').read_text());pending={}
 for name,item in delta.items():
     assert name in allowed
