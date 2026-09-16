@@ -7,7 +7,7 @@
   "architecture": "canonical-data + lazy-modules + encrypted-local-vault + transactional-backup",
   "clinicalReview": "Not performed by this engineering update",
   "browserValidation": "See audit-evidence artifacts",
-  "assetBuild": "1.4.0-22be41c8cd29",
+  "assetBuild": "1.4.0-d4f7d43bd8f6",
   "resourceCount": 113,
   "interfaceRevision": "3 — biblioteca em lista, filtros e favoritos"
 }

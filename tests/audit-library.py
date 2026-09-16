@@ -72,6 +72,12 @@ try:
      p.locator('#fccArea-personal [data-area-filter=records]').click();check(tag+' personal records filter',p.locator('#fccArea-personal .fcc-area-card').count()==3)
      p.locator('#fccArea-personal [data-area-target=garage]').click();p.wait_for_selector('#fccArea-garage');check(tag+' personal child does not auto-open subgroup',p.locator('#page-garage > .sub.active').count()==0)
      check(tag+' personal navigation did not modify private records',p.evaluate('localStorage.getItem(FCCStore.keys.vault)')==vault)
+     # A floating lock must not overlap the description at small viewport widths.
+     p.evaluate("fccNavigate('personal')")
+     for test_width in [320,390,430,768,1440]:
+      p.set_viewport_size({'width':test_width,'height':844});p.wait_for_timeout(50)
+      check(tag+' personal lock does not cover subtitle '+str(test_width),p.evaluate("""()=>{const a=document.querySelector('#page-personal > .fcc-lock-area').getBoundingClientRect(),b=document.querySelector('#page-personal > .pagehead p').getBoundingClientRect();return a.right<=b.left||a.left>=b.right||a.bottom<=b.top||a.top>=b.bottom}"""))
+     p.set_viewport_size({'width':width,'height':height});p.wait_for_timeout(4200)
      # Capture the implemented website, including both themes and real module content.
      for theme in ['light','dark']:
       p.evaluate('(theme)=>fccSetTheme(theme,false)',theme)
