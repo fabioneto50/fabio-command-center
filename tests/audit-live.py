@@ -56,6 +56,16 @@ try:
                     page.wait_for_function("window.FCCAppReady===true&&[...document.querySelectorAll('.nav')].every(x=>!x.disabled)",timeout=60000)
                     check(prefix+' live runtime and assets',page.evaluate("FCC_RUNTIME_VERSION==='1.4.0'") and expected['build'] in page.evaluate('FCC_ASSET_BASE'))
                     check(prefix+' global search visible',page.locator('#globalSearch').is_visible())
+                    check(prefix+' five SVG site navigation items',page.locator('nav.side .nav .ni svg').count()==5)
+                    page.locator('nav.side [data-page=clinical]').click();page.wait_for_selector('#fccArea-clinical')
+                    check(prefix+' live library overview without subgroup',page.locator('#page-clinical > .sub.active').count()==0 and not page.evaluate('!!FCCUI.active()'))
+                    check(prefix+' live 24 horizontal module choices',page.locator('#fccArea-clinical .fcc-area-card').count()==24 and page.locator('#fccArea-clinical .fcc-library-star').count()==24)
+                    page.locator('[data-area-filter=calculators]').click();check(prefix+' live calculator filter',page.locator('#fccArea-clinical .fcc-area-card').count()==9)
+                    page.locator('[data-area-filter=all]').click();page.screenshot(path=str(OUT/(prefix+'-live-library.png')))
+                    page.locator('nav.side [data-page=favorites]').click();page.wait_for_selector('#page-favorites.page.active')
+                    check(prefix+' live favorites destination exists',page.locator('#page-favorites .fcc-empty').is_visible())
+                    page.locator('nav.side [data-page=home]').click()
+
                     check(prefix+' no horizontal document overflow',page.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
                     page.screenshot(path=str(OUT/(prefix+'-live-home.png')))
                     for sub in ['clin-perf','clin-drugs','clin-cases','clin-dressings','clin-ivcompat','clin-ecg','clin-lasa']:

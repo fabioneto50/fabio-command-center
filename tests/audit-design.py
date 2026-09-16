@@ -33,7 +33,7 @@ try:
     try:
      p.goto(BASE,wait_until='domcontentloaded');ready(p)
      check(tag+' design revision',p.evaluate("document.documentElement.dataset.fccDesign==='2'"))
-     check(tag+' four consistent SVG navigation icons',p.locator('nav.side .nav .ni svg').count()==4)
+     check(tag+' five consistent SVG navigation icons',p.locator('nav.side .nav .ni svg').count()==5)
      landing(p,'clinical',tag)
      check(tag+' catalogue not implicitly loaded',p.evaluate('!window.FCCMedications'))
      check(tag+' all clinical modules listed',p.locator('#fccArea-clinical .fcc-area-card').count()==len(p.evaluate("FCCNavigation.items('clinical')")))
