@@ -1,0 +1,56 @@
+/* Reference library layout: horizontal rows, independent star controls and filters. */
+html[data-fcc-design] body .fcc-area-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.fcc-library-row{position:relative;min-width:0;isolation:isolate}
+html[data-fcc-design] body .fcc-area-card{display:grid;grid-template-columns:44px minmax(0,1fr) 16px;align-items:center;gap:14px;padding:16px;min-height:92px;border-radius:14px;box-shadow:none}
+html[data-fcc-design] body .fcc-area-card.has-favorite{grid-template-columns:44px minmax(0,1fr) 44px 16px}
+.fcc-area-card.has-favorite>.fcc-area-chevron{grid-column:4}
+.fcc-area-copy{display:flex;flex-direction:column;gap:4px;min-width:0}
+html[data-fcc-design] body .fcc-area-copy strong{font-size:17px;line-height:1.35;letter-spacing:-.3px;font-weight:680;hyphens:none;overflow-wrap:break-word}
+html[data-fcc-design] body .fcc-area-copy .fcc-area-description{display:block;font-size:13px!important;line-height:1.45!important;font-weight:400;color:var(--muted)}
+.fcc-area-icon{width:44px;height:44px;border-radius:11px}
+.fcc-area-icon[data-tone=pulse]{color:var(--danger);background:color-mix(in srgb,var(--danger) 9%,var(--panel))}
+.fcc-area-icon[data-tone=wind]{color:var(--clinical);background:var(--clinical-soft)}
+.fcc-area-icon[data-tone=link]{color:var(--good);background:var(--tactical-soft)}
+html[data-fcc-design] body .fcc-library-star{position:absolute;right:40px;top:50%;transform:translateY(-50%);width:44px;height:44px;min-height:44px;padding:9px;border:0;border-radius:11px;background:var(--panel-3);color:var(--muted);display:grid;place-items:center;cursor:pointer;z-index:1}
+html[data-fcc-design] body .fcc-library-star[aria-pressed=true]{color:var(--clinical);background:var(--clinical-soft)}
+.fcc-library-star[aria-pressed=true] svg{fill:currentColor;fill-opacity:.18}
+html[data-fcc-design] body .fcc-library-star:hover{color:var(--clinical)}
+html[data-fcc-design] body .fcc-area-search{display:block;max-width:none}
+html[data-fcc-design] body .fcc-area-search>input{height:52px;padding-left:44px;border-radius:13px;font-weight:400}
+.fcc-area-search>.fcc-icon{top:15px;color:var(--clinical)}
+.fcc-area-filters{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0}
+html[data-fcc-design] body .fcc-area-filters>button{min-height:44px;padding:9px 15px;border:1px solid var(--line);border-radius:24px;background:var(--panel);color:var(--muted);font-family:inherit;font-size:13px;font-weight:600;line-height:1.3;cursor:pointer}
+html[data-fcc-design] body .fcc-area-filters>button[aria-pressed=true]{background:var(--fcc-solid-accent);color:var(--fcc-on-accent);border-color:var(--fcc-solid-accent)}
+html[data-fcc-design] body .fcc-area-caption{margin:24px 0 13px;align-items:flex-end}
+html[data-fcc-design] body .fcc-area-caption h3{font-size:23px!important;font-weight:700;line-height:1.2;letter-spacing:-.6px}
+.fcc-library-eyebrow{display:block;font-size:11px;line-height:1.4;letter-spacing:.12em;font-weight:700;color:var(--clinical);margin-bottom:6px}
+html[data-fcc-design] body .fcc-area-caption>[role=status]{font-size:12px;white-space:nowrap;margin-bottom:2px}
+html[data-fcc-design] body .page[data-fcc-view=hub]>.fcc-usage-notice{margin-top:24px}
+html[data-fcc-design] body .top{box-shadow:none}
+html[data-fcc-design] body .card:hover{border-color:var(--line)!important}
+@media(max-width:1100px){html[data-fcc-design] body .fcc-area-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:920px){
+ html[data-fcc-design] body .fcc-area-card{min-height:88px;padding:13px 14px;gap:11px;border-radius:13px}
+ html[data-fcc-design] body .fcc-area-card.has-favorite{grid-template-columns:40px minmax(0,1fr) 44px 14px}
+ html[data-fcc-design] body .fcc-area-card:not(.has-favorite){grid-template-columns:40px minmax(0,1fr) 14px}
+ html[data-fcc-design] body .fcc-area-copy strong{font-size:16px}
+ .fcc-area-icon{width:40px;height:40px}.fcc-area-icon>.fcc-icon{width:24px;height:24px}
+ html[data-fcc-design] body .fcc-library-star{right:35px}
+ html[data-fcc-design] body nav.side{grid-template-columns:repeat(5,minmax(0,1fr));border-radius:0;gap:2px;box-shadow:0 -1px 0 var(--line)!important;padding-top:8px!important;min-height:74px}
+ html[data-fcc-design] body nav.side .nav{background:none!important;min-height:54px!important;padding:5px 1px!important;border-radius:0;gap:5px}
+ html[data-fcc-design] body nav.side .nav.active{background:none!important;color:var(--clinical)!important}
+ html[data-fcc-design] body nav.side .nav>span:last-child{font-size:11px!important;font-weight:550}
+ html[data-fcc-design] body nav.side .nav.active>span:last-child{font-weight:700}
+ html[data-fcc-design] body nav.side .ni,html[data-fcc-design] body nav.side .ni .fcc-icon{width:25px!important;height:25px!important}
+ html[data-fcc-design] body .pagehead h2{font-size:27px!important;letter-spacing:-.8px}
+ html[data-fcc-design] body .top{margin-bottom:22px}
+ html[data-fcc-design] body .fcc-area-hub{margin-top:16px}
+}
+@media(max-width:360px){
+ html[data-fcc-design] body .fcc-area-card.has-favorite{grid-template-columns:32px minmax(0,1fr) 44px 12px;gap:8px;padding:12px 10px}
+ html[data-fcc-design] body .fcc-library-star{right:27px}
+ .fcc-area-icon{width:32px;height:36px}
+ html[data-fcc-design] body .fcc-area-copy strong{font-size:15px}
+ html[data-fcc-design] body .fcc-area-filters>button{padding:8px 11px;font-size:12px}
+ html[data-fcc-design] body nav.side .nav>span:last-child{font-size:10px!important}
+}
