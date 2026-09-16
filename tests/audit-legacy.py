@@ -38,9 +38,13 @@ try:
     check(engine+' all legacy records migrated',p.evaluate("([user,exp])=>JSON.parse(FCCStore.getItem(user)).people[0].name==='SYNTHETIC LEGACY PERSON'&&JSON.parse(FCCStore.getItem(exp)).expenses[0].merchant==='SYNTHETIC LEGACY MERCHANT'",[USER,EXP]))
     check(engine+' plaintext removed only after successful encryption',p.evaluate('([a,b])=>localStorage.getItem(a)===null&&localStorage.getItem(b)===null',[USER,EXP]))
     vault=p.evaluate('localStorage.getItem(FCCStore.keys.vault)')
-    # The old worker cannot answer the new package protocol. Activate through the new UI.
+    # Browser registration can settle before FCCOffline.init finishes assigning its handle.
+    # Use the visible control rather than calling applyUpdate on an unready module.
     p.wait_for_function('navigator.serviceWorker.getRegistration().then(r=>!!r.waiting)',timeout=45000)
-    p.evaluate("fccNavigate('settings')");p.evaluate('FCCOffline.applyUpdate()');p.locator('#fccUpdateDialog').wait_for(state='visible')
+    p.evaluate("fccNavigate('settings')")
+    p.locator('#fccApplyUpdate').wait_for(state='visible',timeout=60000)
+    p.locator('#fccApplyUpdate').click()
+    p.locator('#fccUpdateDialog').wait_for(state='visible')
     with p.expect_navigation(wait_until='domcontentloaded',timeout=60000):p.get_by_role('button',name='Atualizar e recarregar',exact=True).click()
     p.wait_for_function('window.FCCAppReady===true&&!!navigator.serviceWorker.controller',timeout=60000)
     check(engine+' new worker reports complete current core',p.evaluate("FCCOffline.send('STATUS').then(s=>s.build.includes('1.4.0-')&&s.packages.core.complete)"))
@@ -48,7 +52,12 @@ try:
     p.evaluate('(pass)=>FCCStore.unlock(pass)',PASS)
     check(engine+' migrated data decrypts after update',p.evaluate("JSON.parse(FCCStore.getItem('fcc-master-user-data-v1')).people[0].name==='SYNTHETIC LEGACY PERSON'"))
     check(engine+' no new unhandled app errors',not errors,errors)
-   except Exception as e:report['checks'].append({'name':engine+' legacy migration failure','pass':False,'error':str(e),'trace':traceback.format_exc(),'pageErrors':errors})
+   except Exception as e:
+    try:
+     diagnostic=p.evaluate("async()=>{const r=await navigator.serviceWorker.getRegistration();return {runtime:window.FCC_RUNTIME_VERSION,ready:window.FCCAppReady,waiting:r?.waiting?.state,active:r?.active?.state,installing:r?.installing?.state,applyHidden:document.getElementById('fccApplyUpdate')?.hidden,offlineText:document.getElementById('fccOfflinePackages')?.textContent}}")
+     p.screenshot(path=str(OUT/(engine+'-legacy-failure.png')))
+    except Exception:diagnostic={}
+    report['checks'].append({'name':engine+' legacy migration failure','pass':False,'error':str(e),'trace':traceback.format_exc(),'pageErrors':errors,'diagnostic':diagnostic})
    finally:ctx.close();browser.close()
 finally:
  srv.shutdown();(OUT/'legacy-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False,indent=2))
