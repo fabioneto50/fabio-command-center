@@ -44,6 +44,11 @@ jobs:
           set -euo pipefail
           python tests/audit-browser.py
           python tests/audit-upgrade.py
+      - name: Website navigation, visual system and reference-library regression
+        run: |
+          set -euo pipefail
+          python tests/audit-design.py
+          python tests/audit-library.py
       - name: Real legacy-to-current migration with synthetic data
         run: |
           set -euo pipefail

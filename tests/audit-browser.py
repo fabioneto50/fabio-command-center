@@ -60,7 +60,7 @@ def test_context(pw,name,width,height):
   nav(page,'clin-cases');page.locator('#globalSearch').fill('Perfusão periférica');page.wait_for_timeout(400);matches=page.evaluate("FCCSearch.getHits().map((x,i)=>({x,i})).filter(y=>y.x.type==='Caso clínico')")
   check(prefix+' case found globally',len(matches)>0);page.evaluate('(i)=>FCCSearch.open(i)',matches[0]['i']);check(prefix+' case search correct route',page.evaluate("FCCNavigation.route().sub==='clin-cases'&&document.getElementById('clin-cases').classList.contains('active')"))
   # Keyboard focus and dialog behavior, all engines and sizes.
-  page.locator('.nav[data-page="clinical"]').click();page.locator('#fccCategoryDialog').wait_for(state='visible');check(prefix+' focus inside modal',page.evaluate("document.getElementById('fccCategoryDialog').contains(document.activeElement)"))
+  page.locator('.nav[data-page="clinical"]').click();page.wait_for_function("FCCNavigation.route().page==='clinical'&&!FCCNavigation.route().sub");check(prefix+' clinical landing has no auto panel',page.locator('#page-clinical > .sub.active').count()==0 and not page.evaluate('!!FCCUI.active()'));page.evaluate("document.querySelector('.nav[data-page=clinical]').focus();openCategoryMenu('clinical')");page.locator('#fccCategoryDialog').wait_for(state='visible');check(prefix+' focus inside modal',page.evaluate("document.getElementById('fccCategoryDialog').contains(document.activeElement)"))
   for _ in range(35):page.keyboard.press('Tab');check(prefix+' modal Tab contained',page.evaluate("document.getElementById('fccCategoryDialog').contains(document.activeElement)"))
   screenshot(page,prefix+'-menu');page.keyboard.press('Escape');check(prefix+' Escape closes and returns focus',page.evaluate("document.getElementById('fccCategoryDialog').hidden&&document.activeElement.dataset.page==='clinical'"));check(prefix+' no stranded inert page',page.evaluate("!document.querySelector('.app').inert"))
   nav(page,'clin-perf');page.locator('#perfDoseToggle').click()
@@ -114,7 +114,7 @@ def test_context(pw,name,width,height):
    page.set_viewport_size({'width':w,'height':height});check(prefix+' reflow '+str(w),page.evaluate('document.documentElement.scrollWidth<=innerWidth+1'));check(prefix+' mobile search accessible '+str(w),page.locator('#globalSearch').is_visible())
   page.set_viewport_size({'width':width,'height':height})
   for theme in ['light','dark']:
-   page.evaluate('(t)=>{document.documentElement.dataset.fccTheme=t}',theme);screenshot(page,prefix+'-vent-'+theme)
+   page.evaluate('(t)=>fccSetTheme(t,false)',theme);page.wait_for_timeout(200);screenshot(page,prefix+'-vent-'+theme)
   # All modules after reload may lazily load again. No hidden failures masked by diagnostic counters.
   check(prefix+' no unhandled page errors',len(errors)==0,errors)
   observation['pageErrors']=errors;observation['requestFailures']=failed;observation['final']=page.evaluate("({scripts:document.scripts.length,elements:document.querySelectorAll('*').length,modules:FCCModules.status()})")
