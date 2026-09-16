@@ -52,7 +52,7 @@ try:
      check(tag+' favorites has saved module',p.locator('[data-favorite-open]').count()==1)
      p.reload(wait_until='domcontentloaded');ready(p);p.wait_for_selector('#page-favorites.page.active')
      check(tag+' favorite route and data survive reload',p.locator('[data-favorite-open]').count()==1)
-     p.locator('[data-favorite-open]').click();p.wait_for_function("FCCNavigation.route().sub==='clin-drugs'")
+     p.locator('[data-favorite-open]').click();p.wait_for_function("FCCNavigation.route().sub==='clin-drugs'");p.locator('#clin-drugs').wait_for(state='visible')
      check(tag+' favorite opens real existing module',p.locator('#clin-drugs').is_visible())
      p.locator('[data-page=favorites]').click();p.wait_for_selector('#page-favorites.page.active');p.locator('[data-favorite-remove]').click();p.wait_for_function('FCCFavorites.list().length===0')
      check(tag+' removing final favorite explains empty state',p.locator('#page-favorites .fcc-empty').is_visible())
