@@ -84,6 +84,10 @@ def test_context(pw,name,width,height):
   nav(page,'em-family','emergency');check(prefix+' contact preserved','SYNTHETIC SECRET PERSON' in page.locator('#page-emergency').inner_text());nav(page,'','expenses');check(prefix+' expense preserved',page.evaluate("JSON.parse(FCCStore.getItem('fcc-master-expenses-v1')).expenses.some(x=>x.merchant==='SYNTHETIC SECRET MERCHANT')"))
   for area in ['personal','emergency','comms','garage','research','expenses']:
    nav(page,'',area);check(prefix+' personal owner '+area,page.locator('.nav[data-page=personal].active').count()==1)
+  # Imported source URLs are untrusted data, even in an authenticated backup.
+  page.evaluate("""async()=>{const snap=FCCStore.snapshot(),data=JSON.parse(snap.records['fcc-master-user-data-v1']);data.research=[{id:'r-url-synthetic',title:'SYNTHETIC UNSAFE URL',url:'javascript:window.syntheticURLExecuted=1',topic:'Test',status:'Por ler'}];snap.records['fcc-master-user-data-v1']=JSON.stringify(data);await FCCStore.transaction(snap);FCCAccess.refreshState();}""")
+  nav(page,'','research');check(prefix+' imported script URL has no clickable link',page.locator('#researchGrid a[href^="javascript:"]').count()==0 and not page.evaluate('!!window.syntheticURLExecuted'))
+  page.evaluate('async()=>{await FCCStore.restorePrevious();FCCAccess.refreshState();}')
   # Backup/recovery is tested in real Web Crypto, in addition to Node unit tests.
   result=page.evaluate("""async(pass)=>{await FCCStore.flush();const before=FCCStore.snapshot(),backup=await FCCStore.exportBackup(),decoded=await FCCStore.readBackup(backup,pass);if(JSON.stringify(before.records)!==JSON.stringify(decoded.records))return false;await FCCStore.reset('expenses');if(FCCStore.getItem('fcc-master-expenses-v1')!==null)return false;await FCCStore.restorePrevious();FCCAccess.refreshState();return JSON.stringify(FCCStore.snapshot().records)===JSON.stringify(before.records)&&localStorage.getItem('unrelated-app-test')==='KEEP';}""",PASS)
   check(prefix+' full backup and reversible scoped reset',result)
