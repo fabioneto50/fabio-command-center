@@ -58,20 +58,38 @@ try:
      # Visible focus, module ordering and Escape remain available without forced modal navigation.
      landing(p,'clinical',tag);p.locator('.fcc-area-organize:visible').click();p.locator('#fccOrganizeDialog').wait_for(state='visible');p.keyboard.press('Tab');check(tag+' optional organize focus contained',p.evaluate("document.getElementById('fccOrganizeDialog').contains(document.activeElement)"));p.keyboard.press('Escape');check(tag+' organize closes back to landing',p.locator('#fccArea-clinical').is_visible())
      for theme in ['light','dark']:
-      p.evaluate('(t)=>document.documentElement.dataset.fccTheme=t',theme)
+      if p.evaluate('document.documentElement.dataset.fccTheme')!=theme:p.locator('#fccThemeQuick').click()
+      p.wait_for_function('(t)=>document.documentElement.dataset.fccTheme===t&&getComputedStyle(document.documentElement).colorScheme.includes(t)',arg=theme)
+      check(tag+' '+theme+' native color scheme and real toggle',p.locator('#fccThemeQuick').inner_text()==('Escuro' if theme=='light' else 'Claro'))
       for area in ['home','clinical','personal','settings']:
        p.evaluate('(a)=>fccNavigate(a)',area)
-       p.screenshot(path=str(OUT/f'{tag}-design-{area}-{theme}.png'),full_page=False)
+       p.wait_for_timeout(200);p.screenshot(path=str(OUT/f'{tag}-design-{area}-{theme}.png'),full_page=False,animations='disabled')
        check(tag+' '+theme+' '+area+' no document overflow',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
        if width<600:
         check(tag+' '+theme+' opaque bottom navigation',p.evaluate("()=>{const c=getComputedStyle(document.querySelector('nav.side'));return /^rgb\(/.test(c.backgroundColor)&&c.opacity==='1'&&c.backdropFilter==='none'}"))
         check(tag+' '+theme+' minimum navigation targets',p.evaluate("[...document.querySelectorAll('nav.side .nav')].every(b=>b.getBoundingClientRect().height>=44&&b.getBoundingClientRect().width>=44)"))
+      p.locator('#fccSystemStatus').scroll_into_view_if_needed();p.screenshot(path=str(OUT/f'{tag}-design-system-{theme}.png'),animations='disabled')
       # Every common text color must reach 4.5:1 on its actual design surface.
       colors=p.evaluate("()=>{const s=getComputedStyle(document.documentElement);return Object.fromEntries(['--text','--muted','--clinical','--panel','--panel-2','--bg','--clinical-soft'].map(k=>[k,s.getPropertyValue(k).trim()]))}")
       def lum(h):
        c=[int(h[i:i+2],16)/255 for i in [1,3,5]];c=[v/12.92 if v<=.04045 else ((v+.055)/1.055)**2.4 for v in c];return sum(a*b for a,b in zip(c,[.2126,.7152,.0722]))
       for fg,bg in [('--text','--panel'),('--muted','--panel'),('--muted','--bg'),('--muted','--panel-2'),('--clinical','--clinical-soft')]:
        a,b=sorted([lum(colors[fg]),lum(colors[bg])]);ratio=(b+.05)/(a+.05);check(tag+' '+theme+' contrast '+fg+'/'+bg,ratio>=4.5,round(ratio,2))
+      p.evaluate("fccNavigate('clinical',{sub:'clin-vent'})");p.wait_for_timeout(200)
+      p.locator('#vMode').scroll_into_view_if_needed()
+      rendered=p.evaluate("""()=>['#vMode','#vSex','#vHeight','#globalSearch'].map(q=>{const e=document.querySelector(q),s=getComputedStyle(e);return {selector:q,color:s.color,background:s.backgroundColor,scheme:s.colorScheme}})""")
+      import re
+      for style in rendered:
+       def rgbhex(v):
+        nums=[int(float(x)) for x in re.findall(r'[0-9.]+',v)[:3]];return '#'+''.join(f'{x:02x}' for x in nums)
+       a,b=sorted([lum(rgbhex(style['color'])),lum(rgbhex(style['background']))]);ratio=(b+.05)/(a+.05);check(tag+' '+theme+' actual input contrast '+style['selector'],ratio>=4.5,{**style,'ratio':round(ratio,2)})
+      check(tag+' '+theme+' checkbox not expanded',p.evaluate("[...document.querySelectorAll('#clin-vent input[type=checkbox]')].every(e=>e.getBoundingClientRect().height===24)"))
+      p.screenshot(path=str(OUT/f'{tag}-design-form-{theme}.png'),animations='disabled')
+      check(tag+' safety decision boundary always visible',p.locator('.fcc-usage-notice>strong').is_visible())
+      p.locator('.fcc-usage-notice summary').click();check(tag+' full original safety statement available',p.locator('.fcc-usage-notice details>p').is_visible() and 'prescrição automática' in p.locator('.fcc-usage-notice details>p').inner_text());p.locator('.fcc-usage-notice summary').click()
+     # Success notices expire; pending saves and errors must remain visible.
+     p.evaluate("window.dispatchEvent(new CustomEvent('fcc-storage-status',{detail:{status:'saved'}}))");check(tag+' saved notice shown',p.locator('#fccSaveStatus').is_visible());p.wait_for_timeout(4200);check(tag+' saved notice no longer overlays navigation',not p.locator('#fccSaveStatus').is_visible())
+     p.evaluate("window.dispatchEvent(new CustomEvent('fcc-storage-status',{detail:{status:'error',error:'Synthetic design check'}}))");check(tag+' save error remains visible',p.locator('#fccSaveStatus').is_visible() and p.locator('#fccSaveStatus').get_attribute('role')=='alert');p.evaluate("window.dispatchEvent(new CustomEvent('fcc-storage-status',{detail:{status:'locked'}}))")
      for w in [320,430,768]:
       p.set_viewport_size({'width':w,'height':844})
       for area in ['clinical','personal','settings']:

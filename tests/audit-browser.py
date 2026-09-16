@@ -114,7 +114,7 @@ def test_context(pw,name,width,height):
    page.set_viewport_size({'width':w,'height':height});check(prefix+' reflow '+str(w),page.evaluate('document.documentElement.scrollWidth<=innerWidth+1'));check(prefix+' mobile search accessible '+str(w),page.locator('#globalSearch').is_visible())
   page.set_viewport_size({'width':width,'height':height})
   for theme in ['light','dark']:
-   page.evaluate('(t)=>{document.documentElement.dataset.fccTheme=t}',theme);screenshot(page,prefix+'-vent-'+theme)
+   page.evaluate('(t)=>fccSetTheme(t,false)',theme);page.wait_for_timeout(200);screenshot(page,prefix+'-vent-'+theme)
   # All modules after reload may lazily load again. No hidden failures masked by diagnostic counters.
   check(prefix+' no unhandled page errors',len(errors)==0,errors)
   observation['pageErrors']=errors;observation['requestFailures']=failed;observation['final']=page.evaluate("({scripts:document.scripts.length,elements:document.querySelectorAll('*').length,modules:FCCModules.status()})")
