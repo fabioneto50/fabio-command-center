@@ -66,6 +66,8 @@
   const root=pageRoot(page),target=document.getElementById(id);if(!root||!target||target.closest('.page')!==root)return false;
   root.querySelectorAll(':scope > .sub').forEach(x=>{x.classList.toggle('active',x===target);x.setAttribute('role','tabpanel');});
   root.querySelectorAll(':scope > .tabs > .tab').forEach(x=>{const on=targetOf(x)===id;x.classList.toggle('active',on);x.setAttribute('aria-selected',String(on));x.tabIndex=on?0:-1;});
+  const tabs=root.querySelector(':scope > .tabs'),selected=tabs?.querySelector('.tab.active');
+  if(tabs&&selected&&tabs.scrollWidth>tabs.clientWidth){const left=selected.offsetLeft-tabs.offsetLeft;tabs.scrollLeft=Math.max(0,left-(tabs.clientWidth-selected.offsetWidth)/2);}
   root.querySelector(':scope > .fcc-module-state')?.remove();
   if(opts.route!==false){currentRoute={page,sub:id,ref:''};write(currentRoute);}
   currentRoute={...currentRoute,page,sub:id};
@@ -89,7 +91,7 @@
   if(page==='expenses')await FCCModules.ensure('expenses');
   const rows=items(page);if(!rows.length)return navigate(page);
   const dialog=U.make('fccCategoryDialog',labels[page]||page,`<div class="fcc-menu-tools"><label>Pesquisar módulo<input id="fccCategorySearch" type="search" autocomplete="off"></label><button class="btn" id="fccOrganize">Organizar</button></div><div id="fccCategoryItems" class="fcc-module-menu"></div>`);
-  const render=()=>{const q=C.fold(dialog.querySelector('input').value),list=dialog.querySelector('#fccCategoryItems');list.innerHTML=rows.filter(r=>!q||C.fold(r.title+' '+r.description).includes(q)).map(r=>`<button type="button" class="btn fcc-module-link" data-sub="${esc(r.id)}"><strong>${esc(r.title)}</strong><small>${esc(r.description)}</small></button>`).join('')||'<p>Sem resultados.</p>';list.querySelectorAll('[data-sub]').forEach(b=>b.onclick=()=>{U.close();navigate(page,{sub:b.dataset.sub});});};
+  const render=()=>{const q=C.fold(dialog.querySelector('input').value),list=dialog.querySelector('#fccCategoryItems');list.innerHTML=rows.filter(r=>!q||C.fold(r.title+' '+r.description).includes(q)).map(r=>`<button type="button" class="btn fcc-module-link" data-sub="${esc(r.id)}"><strong>${esc(r.title).replace('Eletrocardiograma','Eletrocardio&shy;grama').replace('Compatibilidades','Compatibili&shy;dades')}</strong><small>${esc(r.description)}</small></button>`).join('')||'<p>Sem resultados.</p>';list.querySelectorAll('[data-sub]').forEach(b=>b.onclick=()=>{U.close();navigate(page,{sub:b.dataset.sub});});};
   render();dialog.querySelector('input').oninput=render;dialog.querySelector('#fccOrganize').onclick=()=>organize(page);U.open(dialog,'#fccCategorySearch');
  }
  function organize(page){

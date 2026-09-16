@@ -57,7 +57,8 @@ body .home-news-refresh{display:inline-flex!important}body .home-news-arrow{min-
  body nav.side{height:auto!important;min-height:76px;bottom:0!important;left:0!important;right:0!important;border-radius:16px 16px 0 0;padding:8px 8px calc(8px + env(safe-area-inset-bottom,0px))!important;overflow:visible!important;display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr));align-items:stretch;backdrop-filter:none!important}
  body nav.side .nav{min-width:0;min-height:60px;max-width:100%;display:flex;flex-direction:column;justify-content:center;padding:6px 2px!important;gap:4px;font-size:.8125rem!important;overflow-wrap:anywhere}
  body .ni{width:24px!important;height:24px!important;flex:0 0 24px!important;font-size:20px!important}
- body .tabs{position:static!important;flex-wrap:wrap;overflow:visible}
+ body .tabs{position:static!important;flex-wrap:nowrap!important;overflow-x:auto!important;overflow-y:hidden;max-width:100%;overscroll-behavior-inline:contain;scrollbar-width:thin}
+ body .tabs>.tab{flex:0 0 auto;white-space:nowrap}
  .fcc-storage-status{bottom:calc(84px + env(safe-area-inset-bottom,0px));left:8px;right:8px;text-align:center}
  body .toast{bottom:calc(125px + env(safe-area-inset-bottom,0px))}
  body .globalbox{min-width:0;width:100%;max-width:none;flex-basis:100%}
@@ -93,3 +94,9 @@ body .cuf-current-note b,body .cuf-current-note span,body .ccd-doc-source,body .
 body .fcc-dialog-body{overflow-wrap:anywhere}
 
 body .penso-alpha-btn{min-width:44px!important;min-height:44px!important;font-size:.875rem!important}body .penso-alpha-head strong,body .penso-alpha-head span{font-size:.875rem!important}
+
+/* Post-change visual review: retain a one-line module switcher and avoid empty news art. */
+.fcc-module-link strong{font-size:.875rem;line-height:1.4;hyphens:auto;word-break:normal;overflow-wrap:normal}
+.home-news-item:not(:has(.home-news-media)) .home-news-body{min-height:180px}
+body .fcc-med-toolbar{margin-bottom:16px}
+@media(max-width:920px){body .top{padding-top:8px!important;padding-bottom:6px!important}.top .fcc-theme-btn{min-height:44px}}

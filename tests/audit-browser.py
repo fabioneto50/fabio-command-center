@@ -6,13 +6,18 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'audit-evidence';OUT.mkdir(exist_ok=True)
 class Quiet(http.server.SimpleHTTPRequestHandler):
+ network_down=False
+ def do_GET(self):
+  if type(self).network_down:
+   self.connection.shutdown(2);self.connection.close();return
+  super().do_GET()
  def log_message(self,*args):pass
 class Server(socketserver.ThreadingTCPServer):allow_reuse_address=True
 srv=Server(('127.0.0.1',4173),functools.partial(Quiet,directory=str(ROOT)))
 threading.Thread(target=srv.serve_forever,daemon=True).start()
 BASE='http://127.0.0.1:4173/'
 PASS='uma frase sintética longa 2026'
-report={'commit':os.environ.get('GITHUB_SHA','local'),'method':'Full HTTP app; synthetic browser contexts; software checks, not clinical validation','checks':[],'contexts':[]}
+report={'commit':os.environ.get('GITHUB_SHA','local'),'method':'Full HTTP app; synthetic browser contexts; software checks, not clinical validation','checks':[],'contexts':[],'limitations':['WebKit Linux offline emulation returned an internal navigation error in round 1; WebKit now tests actual origin connection loss, while Chromium tests context-wide offline. Physical Safari/iPhone offline remains a manual check.']}
 def check(name,condition,detail=None):
  row={'name':name,'pass':bool(condition)}
  if detail is not None:row['detail']=detail
@@ -74,6 +79,17 @@ def test_context(pw,name,width,height):
   # Backup/recovery is tested in real Web Crypto, in addition to Node unit tests.
   result=page.evaluate("""async(pass)=>{await FCCStore.flush();const before=FCCStore.snapshot(),backup=await FCCStore.exportBackup(),decoded=await FCCStore.readBackup(backup,pass);if(JSON.stringify(before.records)!==JSON.stringify(decoded.records))return false;await FCCStore.reset('expenses');if(FCCStore.getItem('fcc-master-expenses-v1')!==null)return false;await FCCStore.restorePrevious();FCCAccess.refreshState();return JSON.stringify(FCCStore.snapshot().records)===JSON.stringify(before.records)&&localStorage.getItem('unrelated-app-test')==='KEEP';}""",PASS)
   check(prefix+' full backup and reversible scoped reset',result)
+  if width<600:
+   backup=page.evaluate('FCCStore.exportBackup()');copy=browser.new_context(locale='pt-PT');target=copy.new_page()
+   try:
+    target.goto(BASE,wait_until='domcontentloaded');wait_ready(target)
+    check(prefix+' clean browser backup restore',target.evaluate("""async([backup,oldPass])=>{await FCCStore.create('outra frase sintética de destino 2026');const payload=await FCCStore.readBackup(backup,oldPass);await FCCStore.transaction(payload);await FCCStore.lock();await FCCStore.unlock('outra frase sintética de destino 2026');return JSON.parse(FCCStore.getItem('fcc-master-expenses-v1')).expenses.some(x=>x.merchant==='SYNTHETIC SECRET MERCHANT')&&JSON.parse(FCCStore.getItem('fcc-master-user-data-v1')).people.some(x=>x.name==='SYNTHETIC SECRET PERSON');}""",[backup,PASS]))
+   finally:copy.close()
+  # Repeated normal navigation catches retained overlays, stale owner state and module reload races.
+  for n in range(36):
+   area=['home','clinical','personal','expenses','settings','research'][n%6];sub='clin-drugs' if area=='clinical' else '';nav(page,sub,area)
+   check(prefix+' repeated navigation '+str(n),page.locator('.page.active').count()==1 and page.evaluate('FCCNavigation.current()')==area)
+
   # XSS fixture in imported checklist is rendered as text, never executed.
   page.evaluate("""async()=>{const snap=FCCStore.snapshot();snap.records['fcc-master-content-pack-v1']=JSON.stringify({type:'fcc-content-pack',schema:1,version:'synthetic',checklists:{icu:[['<img src=x onerror=window.syntheticXSS=1>','Text']],transport:[['Test','Text']]}});await FCCStore.transaction(snap);FCCAccess.refreshState();}""")
   nav(page,'clin-icu');check(prefix+' imported text cannot execute HTML',page.evaluate("!window.syntheticXSS && document.getElementById('icuChecklist').textContent.includes('<img') && !document.querySelector('#icuChecklist img')"))
@@ -94,13 +110,21 @@ def test_context(pw,name,width,height):
   page.wait_for_function("navigator.serviceWorker.controller!==null",timeout=25000)
   status=page.evaluate("FCCOffline.send('STATUS')");check(prefix+' offline core complete',status['packages']['core']['complete'])
   if width<600:
-   page.evaluate("FCCOffline.send('CACHE_PACKAGE',{package:'clinical'})");status=page.evaluate("FCCOffline.send('STATUS')");check(prefix+' clinical offline complete',status['packages']['clinical']['complete']);ctx.set_offline(True);page.reload(wait_until='domcontentloaded');wait_ready(page);nav(page,'clin-drugs');check(prefix+' offline catalogue intact',page.evaluate('FCCMedicationV7Health.count===923'));nav(page,'clin-cases');check(prefix+' offline cases intact',page.evaluate('FCC_CASE_BANK.length===200'));ctx.set_offline(False)
+   page.evaluate("FCCOffline.send('CACHE_PACKAGE',{package:'clinical'})");status=page.evaluate("FCCOffline.send('STATUS')");check(prefix+' clinical offline complete',status['packages']['clinical']['complete'])
+   observation['offlineMechanism']='Playwright context offline' if name=='chromium' else 'Origin server forcibly closes every connection; external network not disabled'
+   if name=='chromium':ctx.set_offline(True)
+   else:Quiet.network_down=True
+   # A never-cached control must fail, proving the application is not loading from the origin.
+   check(prefix+' uncached network control fails',page.evaluate("async()=>{try{await fetch('/__offline_control__?t='+Date.now(),{cache:'no-store'});return false}catch{return true}}"))
+   try:
+    page.reload(wait_until='domcontentloaded');wait_ready(page);nav(page,'clin-drugs');check(prefix+' offline catalogue intact',page.evaluate('FCCMedicationV7Health.count===923'));nav(page,'clin-cases');check(prefix+' offline cases intact',page.evaluate('FCC_CASE_BANK.length===200'))
+   finally:ctx.set_offline(False);Quiet.network_down=False
   screenshot(page,prefix+'-final')
  except Exception as e:
   report['checks'].append({'name':prefix+' uncaught test failure','pass':False,'error':str(e),'trace':traceback.format_exc(),'pageErrors':errors});
   try:screenshot(page,prefix+'-FAIL')
   except Exception:pass
- finally:ctx.close();browser.close()
+ finally:Quiet.network_down=False;ctx.close();browser.close()
 try:
  with sync_playwright() as pw:
   for engine in (os.environ.get('BROWSER_ENGINE','chromium,webkit').split(',')):
