@@ -1,0 +1,5 @@
+audit-evidence/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
