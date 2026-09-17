@@ -1,14 +1,32 @@
 {
-  "updatedAt": "2026-09-17T07:29:15.958772Z",
+  "updatedAt": "2026-09-17T08:30:01.416028Z",
   "health": [
     {
-      "title": "Universidade Nova de Lisboa lidera novo mestrado europeu em IA Aplicada à Medicina - Observador",
+      "title": "Nova lidera mestrado europeu em IA Aplicada à Medicina - Observador",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHlnLW1SaWRNWDJlX1BsZVdFbG9DWEZ4elBLQ29ueGhQdngyRWJKalAtZ1dTaHAzLWxCVnZHMkthLTZyc3lqZm5jSkNjNmhvbEVZVklDeERGQnRZdnFiZnBMRmpsdXhWYWwyd292OXQ1STJrYm4xV0lreWg5di1DQVFtZHdIYjdrYnpCTFo1Yndwbl9iM29fQ1k0NnhRNXZ1bmZSV3laT1dadjU0ZFlJS0E4RW5oaW8?oc=5",
       "source": "Observador",
       "publishedAt": "2026-09-17T07:04:04Z",
       "description": "Faculdade portuguesa ganhou concurso para liderar novo mestrado, em parceria com Barcelona e Maastricht, que procura capacitar profissionais de saúde para a era da Inteligência Artificial.",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F05%2F05070137%2F40033254.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/09/17/universidade-nova-de-lisboa-lidera-novo-mestrado-europeu-em-ia-aplicada-a-medicina/"
+    },
+    {
+      "title": "A segurança do doente começa antes da doença - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlV0bzBKSHRmaUNtSTZQdmJWc0RyNVpmSHE4Y2lVR2pySjlaY0FwTkZ2dWR4YUd0Tk1vWkhaam9UWC13SzRNcmxFX2NJektEOFVsYkZsUkxpbXZuM254V24xTktOWTJ4RGFhN3gwYUZfRUpQTXNBUy1HSU1wdjJmR1FOUWdkWDZ4ZWlqV1JZOWtCMThEOUJIMGtFRk0tTi1CR0FVazB2SmpjWWMwOGZ6bmpoWkp6NVlRR19aM2lBTGs5ZHVaMUtiV1gzX0s1UQ?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-17T08:00:00Z",
+      "description": "CNN Portugal",
+      "image": "https://img.iol.pt/preset/67cb2309d34ef72ee44329a7/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/saude/doente/helena-freitas-a-seguranca-do-doente-comeca-antes-da-doenca/20260917/6aa7f49ad34e9a786e757e49"
+    },
+    {
+      "title": "NOVA ganha concurso europeu para criar polo internacional de IA na Saúde - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU19zcU0wX0dNNkRxZ2k2S3JzblUtcFZWQVlZSFZxYnowWG5rM0xyeTlmR0tUdWJ5QUpNQS16NWJ3SkN3VTd4Q1Mwa3hPTVItc21CdjB4bENXeG9RVlJwTjJBTmsxM1FqN085OGQxRk92aEdaYVpIVWFQa1FxYnlRZUZkOUdUM3lnZU53eUFvQ2l4Tmc4b09Sc2NmZjRYdTdH?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-17T08:03:47Z",
+      "description": "A NOVA Medical School vai liderar, a partir de 2028, um mestrado europeu Erasmus Mundus em Inteligência Artificial Aplicada à Medicina, cotado com 87 pontos em",
+      "image": "https://media.assettype.com/dn%2F2025-03-26%2Fsj6ghx6p%2FIMG6828.JPEG?rect=0%2C851%2C1536%2C806&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/nova-ganha-concurso-europeu-para-criar-polo-internacional-de-ia-na-sade"
     },
     {
       "title": "Two Point Hospital: Full Health Collection - Nintendo",
@@ -38,6 +56,15 @@
       "articleUrl": "https://portugal.gov.pt/pt/gc25/comunicacao/noticias/sns-celebra-47-anos-com-compromisso-de-melhorar-acesso-aos-cuidados-de-saude"
     },
     {
+      "title": "DGS regista 3.658 notificações de incidentes de segurança do doente em 2025 - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWhiRTBUbmRrblZZVWRMT0tQVjlzNGxXQy11elRrLS01LWhZR0tjdFNSaXBwVDhhaEpKQkVZb2dFOVJ4dmV1U1FrS19mVVJSQ3RjZjNwMnJieWJyaTJPeUt1dDNVdkFDd3lvRUFuTlZlVGgwWHlrMHpPOUxtVk1SMEo5WS0wYWE4cVgzQ01ZWUdicXRNbVhRTWttQWlWbVJMekRaSGNEMkpnY0NGcllhU3Zpb0RtMEkz?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-17T07:45:00Z",
+      "description": "Mais de 3.650 incidentes de segurança do doente foram notificados em 2025 através do sistema nacional Notifica, a maioria feita por profissionais de saúde, com as quedas e as escaras entre as situações mais reportadas, revelam dados da DGS.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/Depositphotos_151030754_S.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/17/505727-dgs-regista-3658-notificacoes-de-incidentes-de-seguranca-do-doente-em-2025/"
+    },
+    {
       "title": "Ordem dos Médicos promove sessão sobre futuro da saúde no Oeste - Jornal das Caldas",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEpsNlJVNXJXS3VoSERDYUF6bDM1V1BYR1p2UDNUdmp0b2Q5cU9YWHJwdmswcmJocksta1Y3Qndsd3BldzJTZ3lZZXZSUE93aWNVamRsTnI2SHRrbFdsTWtSZG1VcTJ1bnc2M3JpUi1ZS2s0NjFRT0UxNXMwQ0IwVW05SUZxRlZPc2czUkNrS0Rrek1hWl9VV1FUR0FKeVFrNEhsVA?oc=5",
       "source": "Jornal das Caldas",
@@ -47,13 +74,13 @@
       "articleUrl": "https://jornaldascaldas.pt/2026/09/16/ordem-dos-medicos-promove-sessao-sobre-futuro-da-saude-no-oeste/"
     },
     {
-      "title": "Um em cada dez doentes sofre um “dano” durante a prestação de cuidados que poderia ser evitado - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlIzSE9MYVNtYm5ob01nSExSUzMwVko5Rk1oSlFPaENCUEZjM1A2aXV6OTJ0QlFDdmRaLW1XdUI5ajVDQlUxc00zTzBSUW1xMjBJeGpnSkdMWnFrYzlIZDdJZFZhNTBrenVob0ZiYlltdGpNcjZMbFZwQlJKQmh0ZXltVFJZeXl0ZGIzQnlqYkprckNvRGpsZWdrZkFHRE1ZRjl4d215VWtITWE5MDYxbFJRMnJwVDlLNGc?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-17T06:00:00Z",
-      "description": "Os dados da Organização Mundial da Saúde (OMS) refletem a dimensão do problema: um em cada dez doentes no mundo sofre, pelo menos, um “dano evitável de saúde” d",
-      "image": "https://media.assettype.com/dn%2F2026-09-16%2Fq51095jk%2Flares.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/um-em-cada-dez-doentes-sofre-um-dano-durante-a-prestao-de-cuidados-que-poderia-ser-evitado"
+      "title": "MIPMED renova plataforma para encurtar o caminho entre dúvidas de saúde e soluções - Tek Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXE3SjZScGI2dU95SnNUOFg3Y19CTmNLVDNKOEVkaUg3WWVPT3diWnZOdFpNYk80N3NQamRyVkNtNktxS3NBWjBvaDF0bFVRSVRPRThSenZWclJMdDY0LUlLMlhBcTJRTFlnTklLS1RESnlVa0VNX0E4Nm12NWdpbGtTWUZiYXBMdUJkTUR5a3ZZcm02S0JwUVk3UTNzTUdkRzYwdXZDa1RibDQyZWxEUUlEa2tuVkVwbGs5cDdyejhfN2Rnb1d0Z3pB?oc=5",
+      "source": "Tek Notícias",
+      "publishedAt": "2026-09-17T07:25:00Z",
+      "description": "A nova versão da mipmed.com junta informação de saúde, chatbot de apoio, loja online e ferramentas para clínicas e profissionais de saúde num único ecossistema, com entregas que podem chegar a acontecer em menos de 24 horas.",
+      "image": "https://cdn.teknoticias.pt/uploads/2026/09/Miguel-Portela-e-Pedro-Fonseca.jpg",
+      "articleUrl": "https://tek.sapo.pt/extras/site-do-dia/artigos/mipmed-renova-plataforma-para-encurtar-o-caminho-entre-duvidas-de-saude-e-solucoes/"
     },
     {
       "title": "O fim da onda de calor não é o fim do alerta: o risco oculto e silencioso para os doentes com DPOC - Expresso",
@@ -69,18 +96,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDhmR2lxUlJ4UTB3RVp5YTlUZGdSRmUtb3RBVEtkaVl3amxmYXkxMDRSejJMRzA3ZjdYREFhM1VZY2NNRkFhbkRsZ1FlbF9WbFVyUEh6ZjJMbmhZMFVzQkY2bmp0cU0zNHpMaXdhbGZIcWllUlc0WUNPMXAxblN1RlN5SEhPT0drYkpJRkY4Q3dOTXNOUnlTd2l5V1lqb1l6cUFCMWxabw?oc=5",
       "source": "Diário de Coimbra",
       "publishedAt": "2026-09-17T06:01:00Z",
-      "description": "Grupo de benfeitores angariou fundos para avançar com o espaço verde que pretende proporcionar aos pacientes momentos de tranquilidade e contacto com a natureza",
-      "image": "https://www.diariocoimbra.pt/wp-content/uploads/2026/09/Protocolo-jardim-sensorial.webp",
-      "articleUrl": "https://www.diariocoimbra.pt/2026/09/17/ipo-vai-ter-um-jardim-sensorial-para-doentes-e-equipas-de-saude/"
-    },
-    {
-      "title": "DGS regista 3.658 notificações de incidentes de segurança do doente em 2025 - RTP",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnJQSEVXeHZyR1NHTTk5dG5FSXA2d3pueEpzUlhyblR1dFhoWmFseVgtQTNiekFfeTBYLUpQR0RIbi1XSWFoMnpHUXhKeTlITXhXOFdKcEdkUzhBRl91SkI2QzZKVWNFbXc0UkR1aGhZMm15ZFdfUFBDYnhIMnZNdng3dzg2ZUpYMjNPZmwtNDREMlJwbzdiNUxOVl9GaHZZM1BaaEZSQjF2SXJhdDd5ZWFrSzJ2djA?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-17T06:34:25Z",
-      "description": "Mais de 3.650 incidentes de segurança do doente foram notificados em 2025 através do sistema nacional Notifica, a maioria feita por profissionais de saúde, com as quedas e as escaras entre as situações mais reportadas, revelam dados da DGS.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf2f3ab68fc1260f51002b2041a8b54c?w=860&q=90&rect=0,170,1236,678&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/pais/dgs-regista-3658-notificacoes-de-incidentes-de-seguranca-do-doente-em-2025_n1765949"
+      "description": "Notícia publicada por Diário de Coimbra. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
     },
     {
       "title": "Vírus sincicial respiratório: o que é? E quando e onde vão os bebés ser imunizados? - Público",
@@ -88,23 +105,6 @@
       "source": "Público",
       "publishedAt": "2026-09-16T11:22:56Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/16/sociedade/noticia/virus-sincicial-respiratorio-onde-vao-bebes-imunizados-2188221"
-    },
-    {
-      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTdqUDNPYjRnTFJjeVEyaFhiekxLNHVGaTBXTFJLb0dfZXJISnJMZ29seDY0ZDhwekNGY2t0TkhlQXZ5MWRUYmR6d0ptMnEwc2ZramctX1daTlJ5cDFnS1hxT3ltb2xESy1JelhsTHo0b2g1cXFyOTBITHZ3TGpUdXFIMFRSRTJ2YXpQcDVRYU9RMVdtQTlQUHNuWWFsOGZNM2c?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-16T10:56:19Z",
-      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "Saúde materna e neonatal em foco no 10.º Health Insights - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGhsUUlpbmRWU3VIZG5hcXVtbndFVnhmWjVBQm9fNkpGWmNrS1N4YVp6aktQZ0Vva3hQdlVMZUJ0ZUx4LXA3OUpNZVNRa0dhVzBadVhNNTdlRGxGVEQzT1VBUmduajMycXpJa1Jva1V0WUdhakp3b2tVWjY3WTZNRHFJR2xGSHRPelZ3emdpM01memR2?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-17T05:39:47Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -182,15 +182,6 @@
       "articleUrl": "https://www.estadao.com.br/internacional/congresso-eua-aprova-novo-pacote-sancoes-russia-npr/"
     },
     {
-      "title": "UE vai ter reserva de matérias-primas críticas face à dependência da China - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFZaYmVMVHhnczV0MjVNLVJPb3BtcDdyQzlTRFpCemNpM21hNDVXMy1LM0FkODdCNmJwN2kyQlBycTlUOHlyVEZzd1dEVmhzc2RNdVVkWXFfX21LakdrZ1ZKcGYwNXZaTkJSTHpjVnNsclVWNktWMXpBOVVRRTJGWWpQUGV1S2dtYk0yak5qRkM1M3Z2YzZKZnpFcVlaeUZVUExLZ3lfc0ZwRTFVTVV3WHlaN2djQ0ViVGxPbVFB?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-16T10:25:00Z",
-      "description": "A União Europeia (UE) vai ter uma nova Corporação Europeia para as Matérias-Primas Críticas, como terras raras e magnésio, para garantir o aprovisionamento e a constituição de reservas face à forte dependência da China, foi hoje anunciado.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoDOC.20260703.47399685.13083059_rUMOsnv.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/app/2026/9/16/505611-ue-vai-ter-reserva-de-materias-primas-criticas-face-a-dependencia-da-china/"
-    },
-    {
       "title": "Von der Leyen avalia estado da União perante um ouvinte inesperado: Mark Carney - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNheTFLaWZoWC1haFh2ZFRMZTdKZ3A0VWVmYW1xakhla1YwdEgwaklyMkhwX1dmVW5BWGNYMVNrZDJUVlRsdTEtSHZlX1hMeFRObURxVWV1Si1vaXlVWVdNSXJ1bVpZNnRtVHFKOVJyTmNROHc4UTNKN2I1QVJ1X0ptd1BuYlNhcUNMUkNLMzZINW1obzFYYndEV2lua2ppb2R6alhVYmF0Z1BIZjJXQ0gxNllrVmxUdDQ0bg?oc=5",
       "source": "Jornal Económico",
@@ -198,6 +189,15 @@
       "description": "No seu sexto discurso sobre o bloco, o primeiro para o qual foi convidado um chefe de governo externo à União, a presidente da Comissão tem temas ‘obrigatórios’: a Ucrânia, a dependência energética, a IA ou a imigração são alguns deles.",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/02/ursula-von-der-leyen-1024x603.jpg",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-avalia-estado-da-uniao-perante-um-ouvinte-inesperado-mark-carney/"
+    },
+    {
+      "title": "UE vai ter reserva de matérias-primas críticas face à dependência da China - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFZaYmVMVHhnczV0MjVNLVJPb3BtcDdyQzlTRFpCemNpM21hNDVXMy1LM0FkODdCNmJwN2kyQlBycTlUOHlyVEZzd1dEVmhzc2RNdVVkWXFfX21LakdrZ1ZKcGYwNXZaTkJSTHpjVnNsclVWNktWMXpBOVVRRTJGWWpQUGV1S2dtYk0yak5qRkM1M3Z2YzZKZnpFcVlaeUZVUExLZ3lfc0ZwRTFVTVV3WHlaN2djQ0ViVGxPbVFB?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-16T10:25:00Z",
+      "description": "A União Europeia (UE) vai ter uma nova Corporação Europeia para as Matérias-Primas Críticas, como terras raras e magnésio, para garantir o aprovisionamento e a constituição de reservas face à forte dependência da China, foi hoje anunciado.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoDOC.20260703.47399685.13083059_rUMOsnv.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/app/2026/9/16/505611-ue-vai-ter-reserva-de-materias-primas-criticas-face-a-dependencia-da-china/"
     },
     {
       "title": "Do que falamos quando falamos de soberania digital - Nexo Jornal",
