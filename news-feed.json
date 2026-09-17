@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-17T15:28:03.536644Z",
+  "updatedAt": "2026-09-17T16:28:30.641955Z",
   "health": [
+    {
+      "title": "Vacinação da gripe arranca a 30 de setembro e é alargada a crianças dos dois aos quatro anos - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelg5NjNodmNzUEI4NV9FSEZQZjcxZzIyLTJNNVlRVEsxXzNtNGgyMENWNzVMY2FqRU9BcjN4b1U0eTJvTm5XQ2JTcHJ4NTRXNXdfejJLeGwtSFFjWl91QjNBZUQ0TEYtR1FoMnFnX0pTT2Vla05fZ0VKN3F3bUZVdU5jb3FnVjh0V1lMUTB1ZWlFM0Fmc3JiRzQ4bU5NTm1lbmV4MmVxYlpvbkNCUEk3NGpNV1Y4QQ?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-17T14:40:47Z",
+      "description": "A vacinação sazonal contra a gripe vai decorrer entre 30 de setembro e 31 de março de 2027, prevendo como principal novidade o seu alargamento gratuito às crian",
+      "image": "https://media.assettype.com/dn%2Fimport%2Fdncxpgxxypnfpero%2Fmwcg77wemcwt.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/vacinao-da-gripe-arranca-a-30-de-setembro-e-alargada-a-crianas-dos-dois-aos-quatro-anos"
+    },
     {
       "title": "Vacina para cães mais vendida na Rússia associada a onda de mortes de animais de estimação em todo o país - Euronews",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdjRSTTJjd3ZqaWhmMXJhVC1XQVNLVnkzN0szbzB5djJrYkc1Z2xBM3NTZUhNam9Pak9OZFhpNVpaUmNiNVFiUXUzWTlGVllZRmU0NVVLbXh6WWV6eTVyMU04Ym9tX1hwU2JGZ1VaaWwxYjZlSDQwcE1kVXA2bVBfcUwxZ0pLalpUbHJ1Qm5KUGJQa0s1d3l0RV9hbEh5aEx4WlhNT055NC1VTjNEYlhoeTZmTVNYN1FlaVpGMmNwMDJVa3c?oc=5",
@@ -11,22 +20,31 @@
       "articleUrl": "https://pt.euronews.com/2026/09/17/vacina-para-caes-mais-vendida-na-russia-associada-a-onda-de-mortes-de-animais-de-estimacao"
     },
     {
-      "title": "Qatar Medicare 2026 reúne setor da saúde em Doha - portugalglobal.pt",
+      "title": "Kristin: Hospital de Leiria homenageia profissionais de saúde com memorial - Região de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDR4a3pOVjE5MlIyMnlER2RrVG1LazNkaU11NUpMN3E0NzZkdGRWUGNPcGhqT3RWX2gxOUJsT191YzhqQ2pzazIyVUVvYXdtQld6c1Q4ektPa3h0Vi0yUm5laE5qRkZLS2FWcFlpN2JMbDE2bV94Tjc2dVZ5blc3NHZLUW10SklTTXoxMGZwbWFTOUdNdTkxbzlnVjZySzI1UndqQjA2aVEzVVNOc3ZNeFJB?oc=5",
+      "source": "Região de Leiria",
+      "publishedAt": "2026-09-17T15:02:57Z",
+      "description": "No Dia dedicado à Unidade Local de Saúde da Região de Leiria, o administrador lembrou que o Hospital de Santo André “está a rebentar pelas costuras” e insistiu na construção de uma terceira torre.",
+      "image": "https://www.regiaodeleiria.pt/api/v1/watermark?url=https://www.regiaodeleiria.pt/wp-content/uploads/2026/09/p30_ULS_hospital_leiria_2026_fotos_joaquim_damaso.jpg",
+      "articleUrl": "https://www.regiaodeleiria.pt/2026/09/kristin-hospital-de-leiria-homenageia-profissionais-de-saude-com-memorial/"
+    },
+    {
+      "title": "Qatar Medicare 2026 reúne setor da saúde em Doha - AICEP",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd19xdnNrMWxXNmx1ZWdYTkRYVnJxSXFMVHExcUFfOExoTFhHSWlVbmI1YWJteXFOMFA5aFpmaDNqR0ZGNGlrcElUNEQydnAxVU1YYmVMWmVyMGR1RnRkdGkxV01EbGxEY0xBaU02VjlnWmJEejZSUTExN1hNUmtqSGZXYTlOZHJWdEhrWUpwell4RDNqSklxby1hUjd6a00?oc=5",
-      "source": "portugalglobal.pt",
+      "source": "AICEP",
       "publishedAt": "2026-09-17T15:00:46Z",
       "description": "Qatar Medicare 2026 decorre em Doha, de 14 a 16 de dezembro, reunindo empresas de saúde.",
       "image": "https://portugalglobal.pt/media/umxfgefe/qatar_shutterstock_2100068977_r.jpeg",
       "articleUrl": "https://portugalglobal.pt/noticias/2026/setembro/qatar-medicare-2026-reune-setor-da-saude-em-doha/"
     },
     {
-      "title": "72% dos portugueses estão preocupados com tempos de espera na saúde - eco.sapo.pt",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzVZckFPRmx5RUZwdnRFOEMzUDhfMnpCdmVHekRzX3laZWlpLWRyN0J4LXhEdllkSE9sem9KenIxa1pNQjl6TGpxV2xndDRyM1FuMUhRdER4emo3N2M3V0F2dHNrRnkyckJoZTMxY1JoYmd4ZFJJZElSZnZQRnRtLXQ1ZVlFb0JmM0FvYWxCdXIyWGRKdVpET0MzZllEdGs?oc=5",
-      "source": "eco.sapo.pt",
-      "publishedAt": "2026-09-17T10:54:15Z",
-      "description": "Os tempos de espera, as doenças oncológicas e os custos dos cuidados de saúde estão entre as principais preocupações dos portugueses, revela o Barómetro de Saúde da Médis.",
-      "image": "https://eco.imgix.net/uploads/2022/10/cropped-ecoseguros082.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "articleUrl": "https://eco.sapo.pt/2026/09/17/72-dos-portugueses-estao-preocupados-com-tempos-de-espera-na-saude/"
+      "title": "Portuguesa NOVA Medical School lidera criação de mestrado europeu em IA aplicada à medicina - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEpZelAydDdudHBEWldmcG9WdlgxU2hMNW1rakRiOVB6SkJLSk52enF4anpMb2FNOV9sdlY0eEpfd2tKTVYtdlBOMnEtcW9tcE1mR1FXd29YbzZ2dHNJX24yMk9zSC1FT25EbzJFTWt5bzQ4TnIyUEppZ1Y3VXJuVm12Z0c4TnZ0Y1Q1SkRkb0xaTklUcERRX0gybXBUelhLWFFNaDBlTHFsWmNFbHdUbmFiU2tpZVlUcVViMkhTVWxkX0dvMFNhY1pucjZGZw?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-17T15:00:00Z",
+      "description": "Comissão Europeia selecionou proposta internacional coordenada pela NOVA Medical school para financiamento de 60 mil euros.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/PedroPovoa_SD-e1789635355291.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/portuguesa-nova-medical-school-lidera-criacao-de-mestrado-europeu-em-ia-aplicada-a-medicina/"
     },
     {
       "title": "Nova lidera mestrado europeu em IA Aplicada à Medicina - Observador",
@@ -38,6 +56,15 @@
       "articleUrl": "https://observador.pt/2026/09/17/universidade-nova-de-lisboa-lidera-novo-mestrado-europeu-em-ia-aplicada-a-medicina/"
     },
     {
+      "title": "Vacinação gratuita da gripe alargada a crianças entre os 2 e os 4 anos - Público",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmxFSDRYczZRN0Nwa2dJSjhOTzdIdlByRXU0YXB5NGxmamxGLWN5WHNuWTBmUl9nWDNMRGFJOFJSVjRENnBaZDJwaFI4Wmx3YmpFXzVaX28wWmtzcW83QmJCaEhqTjdJV0k1VTh4RWxNTUhEV0EySkxBT2lRNUZjRlFDR3FUSUp0RDZ6bmsxcU5YT1RxYXFZMmhDVlV1WU1fQWhURmYxTnNta3F6SU8tbw?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-17T15:32:50Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/17/sociedade/noticia/vacinacao-gratuita-gripe-alargada-criancas-2-4-anos-2188382"
+    },
+    {
       "title": "Bayer entra na campanha da OMS e aponta o dedo aos erros de medicação - HealthNews",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3JSa3RVZ096S1hpR05yb2ljTWNrbHMtaDRKNWpzUXhKcEprM25JUmVQS2Vxb0UxRVNGN2ZEMlNINWZJcG4xVE04Z2JJU29YdERZbnBObDd1ZzhmUm42WExoeUd0VW1tc0wzclJOWkRhRWUtdGZrYUdsd1VUNlRES0hnbFBybnZSaGZXcDNJOVU5NzZ4b2VJZV9hay1raVB2REFZQjFB?oc=5",
       "source": "HealthNews",
@@ -45,33 +72,6 @@
       "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/17/bayer-entra-na-campanha-da-oms-e-aponta-o-dedo-aos-erros-de-medicacao/"
-    },
-    {
-      "title": "Hospital Pediátrico do Papa renova colaboração na área da saúde na América Latina - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajFXTEpvZnpNNTQ2WjhPNVAwLWJYWW1QZE1tXzA2UXprTGNSdWcxbkVmMVBDTXJOOWxNM2Z0a2cwODl5aUthZ01zbXgzMVljQzRVclBvZTRQdE11M19ET2dXdVJ1Qlh2ZEprcmk3Vi11Tm5nN1ZTcmdLb2l3RmVfdFY4cVNXclpadTJvU0ltQ0p5b0F0SWY4QXVLaHExdW40dnFROWNfOEIwSUM1TU4zZGNOWDB6TmprLXlj?oc=5",
-      "source": "Vatican News",
-      "publishedAt": "2026-09-17T11:04:45Z",
-      "description": "Acordo renovado entre Hospital Pediátrico Bambino Gesù, de Roma, e a Organização Internacional Ítalo-Latino Americana (IILA) para formação avançada em ...",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/aprile/13/2026.04.13-disegno-Pace-Bambino-Gesu_12-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-      "articleUrl": "https://www.vaticannews.va/pt/vaticano/news/2026-09/america-latina-hospital-pediatrico-papa-bambino-gesu-iila-2026.html"
-    },
-    {
-      "title": "A segurança do doente começa antes da doença - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlV0bzBKSHRmaUNtSTZQdmJWc0RyNVpmSHE4Y2lVR2pySjlaY0FwTkZ2dWR4YUd0Tk1vWkhaam9UWC13SzRNcmxFX2NJektEOFVsYkZsUkxpbXZuM254V24xTktOWTJ4RGFhN3gwYUZfRUpQTXNBUy1HSU1wdjJmR1FOUWdkWDZ4ZWlqV1JZOWtCMThEOUJIMGtFRk0tTi1CR0FVazB2SmpjWWMwOGZ6bmpoWkp6NVlRR19aM2lBTGs5ZHVaMUtiV1gzX0s1UQ?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-17T08:00:00Z",
-      "description": "CNN Portugal",
-      "image": "https://img.iol.pt/preset/67cb2309d34ef72ee44329a7/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/saude/doente/helena-freitas-a-seguranca-do-doente-comeca-antes-da-doenca/20260917/6aa7f49ad34e9a786e757e49"
-    },
-    {
-      "title": "Extensão de Saúde de Vale de Cavalos reabre ao público - cm-chamusca.pt",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZXZESE1TTkExT3phTFFNQ3U5NGk5QXY3TXllSkxCQUtqSXd0Xzh1ODNnYVRtQ0hXSDRycV9CNGw1YnU1MVNfN2dha0JyQzhTcmUyRXliOEx0ZEdOYllpWkNjbHJPSnBfM3RmNkVhV19PQ0cyY051eVJZelhDczJZcy1OaVB1ckVBRGEyYnlFQ0xCTGgtZnRyeDhhS19MMHNveXZRME5PQ1p2ZVpBTEVneVFrMDBRY3JsYTlSaS1sUkY4cjMydllaSUZpalV3dzJyMEE?oc=5",
-      "source": "cm-chamusca.pt",
-      "publishedAt": "2026-09-17T11:14:00Z",
-      "description": "Informa-se que a Extensão de Saúde de Vale de Cavalos reabre no próximo dia 17 de setembro, retomando o seu horário habitual de ...",
-      "image": "https://www.cm-chamusca.pt/cmchamusca/uploads/news/image/403/posto_de_saude_vcavalos.png",
-      "articleUrl": "https://www.cm-chamusca.pt/informacoes/comunicacao-institucional/noticias/noticia/extensao-de-saude-de-vale-de-cavalos-reabre-ao-publico"
     },
     {
       "title": "Como a doença cardíaca pode começar a partir dos 20 anos - National Geographic Portugal",
@@ -83,28 +83,28 @@
       "articleUrl": "https://www.nationalgeographic.pt/ciencia/como-doenca-cardiaca-pode-comecar-partir-20-anos-coracao-prevencao_7497"
     },
     {
-      "title": "NOVA ganha concurso europeu para criar polo internacional de IA na Saúde - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU19zcU0wX0dNNkRxZ2k2S3JzblUtcFZWQVlZSFZxYnowWG5rM0xyeTlmR0tUdWJ5QUpNQS16NWJ3SkN3VTd4Q1Mwa3hPTVItc21CdjB4bENXeG9RVlJwTjJBTmsxM1FqN085OGQxRk92aEdaYVpIVWFQa1FxYnlRZUZkOUdUM3lnZU53eUFvQ2l4Tmc4b09Sc2NmZjRYdTdH?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-17T08:03:47Z",
-      "description": "A NOVA Medical School vai liderar, a partir de 2028, um mestrado europeu Erasmus Mundus em Inteligência Artificial Aplicada à Medicina, cotado com 87 pontos em",
-      "image": "https://media.assettype.com/dn%2F2025-03-26%2Fsj6ghx6p%2FIMG6828.JPEG?rect=0%2C851%2C1536%2C806&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/nova-ganha-concurso-europeu-para-criar-polo-internacional-de-ia-na-sade"
+      "title": "Governo dos Açores assinala arranque da Semana Europeia do Desporto com forte mobilização nas nove ilhas e foco na saúde mental - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Td01GN04xazFuQnotQmRPcGpzb0R1VDQzMS1WN0xjMU9zbGxSUzJzaDgwYjBfdklOMlRvcnhlZGk1Q2hwVWFKdi1CUGFrRS1PUWV4VHV1Q25BMUVmekJ4OFJxZDBpZ1UwRnVXUnlZTTV2eHhrSWlV?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-09-17T16:20:18Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23844870"
     },
     {
-      "title": "Botox e injectáveis para rugas: 21 estabelecimentos de estética suspensos desde 2023 - Público",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1oyMlZIRXl0cGtXdU55OHFvOTl0amhjZFlsdHF6WmRZOVFtZFp1Sm9qcS1sdm90ckNibWdjOWVoY3FMVk1aS2VHZGI2dEt3NzRDUEdiVDhmSW5ZbnAxLUM1SzZqRVJmbFlJeVVrUHBneS1wOENxRDg4amp1aG5GLUpzckE2dlRsVFF1dk1oUWx0T2l6N1JQYUNlTFpickdIb01OdFZNdHJERnZiQjZDRHZlSjMwNFBwQVdIdkNKdkNGdHZKNm1GYWFMZUY0QQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-17T13:47:13Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Hospital Pediátrico do Papa renova colaboração na área da saúde na América Latina - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajFXTEpvZnpNNTQ2WjhPNVAwLWJYWW1QZE1tXzA2UXprTGNSdWcxbkVmMVBDTXJOOWxNM2Z0a2cwODl5aUthZ01zbXgzMVljQzRVclBvZTRQdE11M19ET2dXdVJ1Qlh2ZEprcmk3Vi11Tm5nN1ZTcmdLb2l3RmVfdFY4cVNXclpadTJvU0ltQ0p5b0F0SWY4QXVLaHExdW40dnFROWNfOEIwSUM1TU4zZGNOWDB6TmprLXlj?oc=5",
+      "source": "Vatican News",
+      "publishedAt": "2026-09-17T11:04:45Z",
+      "description": "Notícia publicada por Vatican News. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Hospital pôs paciente a fazer 11 anos de quimioterapia para um cancro que nunca teve - nit.pt",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHVrdGFCV0RNN2hkNjhnTXIxTllkVVZmS202dlpoWm5TSDgza2RodTdVSzBsa1psazYySVk4TE9DbUUzbGFVVEV0eVRpbENKTEFMZXpzcmlOQWN3V2NQYUFkeXRPWGp2UGMwLW5PZnhlQUZXd1hzenlKZjVhS3ZaZzVVakF6TmgyZ0EteUpkVi1pcUltTGJ4ZXVJV2YzT2NMb0ViOW5BSkZUMS0tX0o3S1dMWQ?oc=5",
-      "source": "nit.pt",
-      "publishedAt": "2026-09-17T13:11:00Z",
-      "description": "Notícia publicada por nit.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Vacina da gripe passa a ser gratuita para crianças dos 2 aos 4 anos - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjQ4RUFMQW1TeVZ0Qng2V01zd2JYNlRGMUd0RjFUMlR6bk0wbHMtc1BBS1U5RGV1S2pZdFplMzcxSEE0SlFGQ1FGRHFoT3QxX2dtUzJWY2lFemtvRHBlc1luMnYyMGRrSXE2UDhvMDk3ejNNb0xjblFMRFoyMXJTalVqUTlEQlluZV9pd2lEUHM3U1J2VFBmU21FSHRjQ3dySFJVQzYyazBOU2x2T0xHN3g2NHRIazdBSDBhWDdNQlZfY2NReXpJbDNLMVM2Q3RXY3hjVW5R?oc=5",
+      "source": "Jornal SOL",
+      "publishedAt": "2026-09-17T15:57:45Z",
+      "description": "Notícia publicada por Jornal SOL. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,10 +119,10 @@
       "articleUrl": "https://pt.euronews.com/2026/09/17/estados-unidos-congresso-aprova-sancoes-a-russia-que-afetam-china-e-india"
     },
     {
-      "title": "ONU encontra indícios de que Estados Unidos cometeram crimes de guerra no Irão - RTP",
+      "title": "ONU encontra indícios de que Estados Unidos cometeram crimes de guerra no Irão - rtp.pt",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ193QzNEbExLYzg4Ukc3alBscW5BRTVrWEp0Sk5OUzVTbC1DNlI1VmUtYjJFRE56MGgxSWxqdmxyMnNiMlNXY1JQcHd5UTBjUmdKZUFoU0twbDlSZ0Z5VldfVjlQaTRHU1lBR2NLWGZ0NGQxdlFKUzZ1cThiblFKRFd4SFhPX2d6cWlmN2U2S29uZlRhTXFlR1Y4NHRDenFWUmZYYW53T25Ea3U2LUJGQzRFSWtCZXZvSE00b29R?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-17T10:10:05Z",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-17T15:45:13Z",
       "description": "As Nações Unidas revelaram que existem indícios para acreditar que os EUA cometeram crimes de guerra no Irão nos ataques a uma escola e a uma instalação desportiva. A ONU constatou ainda que as autoridades iranianas cometeram crimes contra a humanidade durante a repressão violenta dos protestos antigovernamentais.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6f8022e896f08c145c8ab1282fffff0c?w=860&q=90&rect=0,178,1500,822&auto=format",
       "articleUrl": "https://www.rtp.pt/noticias/mundo/onu-encontra-indicios-de-que-estados-unidos-cometeram-crimes-de-guerra-no-irao_n1766006"
@@ -155,9 +155,9 @@
       "articleUrl": "https://rr.pt/noticia/politica/2026/09/17/caminho-estupido-montenegro-critica-guerra-no-medio-oriente/485777/"
     },
     {
-      "title": "Rússia denuncia \"planos agressivos\" dos EUA no espaço, China acusa Washington de preparar \"uma guerra\" - CNN Portugal",
+      "title": "Rússia denuncia \"planos agressivos\" dos EUA no espaço, China acusa Washington de preparar \"uma guerra\" - cnnportugal.iol.pt",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEpIZ1RvRlVJV1ZHYWJGVjEzckhqdjBpZ1ktWGxEYnNpQmhKNEpSb0Nlb0xZeXBpSTEwUFd5djB3cnVLWGJYZExFbFlpT1ZjZkdFOHg1Njk0M3B4NHZQaXV2dkpjdWZlU09iUm9SZUlwYkFuWFZxemJDV1ZYS1dOZVRsaG1QTmY4cHRHMUhrUVdSdy1Zc3VGYzFKMVVsZ3VGU3lpNlQ4V1ZDcUJwanRZam1Na2s2dWNXR0ZwTmVMblJZdy10VWN4c3R1X2lxNER2VzhMTm4xTDduTDByTldsY19ZY1lnb3ZGN1hHQy1MVHNtZW1Cd1VPX3dPbHc1RkZYdDRHN09Dd2JBd2FiN2ZwaHV6X2dwd3M?oc=5",
-      "source": "CNN Portugal",
+      "source": "cnnportugal.iol.pt",
       "publishedAt": "2026-09-15T19:54:00Z",
       "description": "Não se sabe, até ao momento, que armas estão envolvidas, quantos sistemas foram colocados no espaço ou quais os seus alvos",
       "image": "https://img.iol.pt/preset/5dc2bc340cf2880c20a0c0f3/og/cnn",
@@ -182,13 +182,13 @@
       "articleUrl": "https://www.pcp.pt/cumplicidade-da-ue-na-desestabilizacao-do-medio-oriente-continua"
     },
     {
-      "title": "Petróleo aproxima-se do “fundo do poço”: sem rotas para “sair” do Médio Oriente, barril pode aumentar até aos 150 dólares - expresso.pt",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOa3RZZkEyQXQ2T1RCb2lnbl90WWNkdGJQMzNEOHQ5VUEwRjNzOWpSNEE2VVNaR2xycnIzdnRfNDg3bUFEQVpyMmRYRG5Bd1Rvd1NXYV9iTVZ0NWE0bXd6Zm1nRUVzS2ZoV0tiZ0VGN3ZTR1Q4SlFia3BvaTIySEtXZTU1b0xIYkRuZV9McE12bndLVC1OOG8xRFIwaVhiRjlkbi00Q0YxMHpUVFFXMERBb1BhR2tMQzgzaS05amV5WHBOYWNvV0t0TVFYYmJ1Y3ZNM2FKNUJFWHQyanYxZkhJdlBwRWQzaFpjYzcxdGNpblZSaXJVUXdJeU53ZGZ3V2ZDcTNRd2lhcFJ0X3p5LUE?oc=5",
-      "source": "expresso.pt",
-      "publishedAt": "2026-09-16T14:51:06Z",
-      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "EUA acusam agentes russos de preparar ataques e assassínios contra aliados da Ucrânia - Público",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkd5emFTTFlrcUR3dXp0eXVubVdPZHhKNzhxcno0ZXhDWGRpcHRPbUJ6bG5Dc0kxaGc0dFAzeXljSFZXcWRVU1VJRmVya2pzLUZDQjVJV3hzX1cxZ0dYdUhHWTJNLTNmRHRHYklNNU9GTjdLcXhQMVhUV092RWozTWtiVURCUS1PWFE2WHlyLS03TzczVERKb1duM2FBa0ZCU19CbHpsM2tRcFlMWm9CQXBhWlRndEwxQXNQNkNuUjducWFr?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-16T09:46:38Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/economia/economia_energia/2026-09-16-petroleo-aproxima-se-do-fundo-do-poco-sem-rotas-para-sair-do-medio-oriente-barril-pode-aumentar-ate-aos-150-dolares-043f65ba"
+      "articleUrl": "https://www.publico.pt/2026/09/16/mundo/noticia/eua-acusam-agentes-russos-preparar-ataques-assassinios-aliados-ucrania-2188212"
     },
     {
       "title": "Iemenitas fogem enquanto guerra se espalha pelo Oriente Médio, diz agência - CNN Brasil",
@@ -200,19 +200,19 @@
       "articleUrl": "https://www.cnnbrasil.com.br/internacional/iemenitas-fogem-enquanto-guerra-se-espalha-pelo-oriente-medio-diz-agencia/"
     },
     {
-      "title": "EUA acusam agentes russos de preparar ataques e assassínios contra aliados da Ucrânia - Público",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkd5emFTTFlrcUR3dXp0eXVubVdPZHhKNzhxcno0ZXhDWGRpcHRPbUJ6bG5Dc0kxaGc0dFAzeXljSFZXcWRVU1VJRmVya2pzLUZDQjVJV3hzX1cxZ0dYdUhHWTJNLTNmRHRHYklNNU9GTjdLcXhQMVhUV092RWozTWtiVURCUS1PWFE2WHlyLS03TzczVERKb1duM2FBa0ZCU19CbHpsM2tRcFlMWm9CQXBhWlRndEwxQXNQNkNuUjducWFr?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-16T09:46:38Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Petróleo aproxima-se do “fundo do poço”: sem rotas para “sair” do Médio Oriente, barril pode aumentar até aos 150 dólares - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOa3RZZkEyQXQ2T1RCb2lnbl90WWNkdGJQMzNEOHQ5VUEwRjNzOWpSNEE2VVNaR2xycnIzdnRfNDg3bUFEQVpyMmRYRG5Bd1Rvd1NXYV9iTVZ0NWE0bXd6Zm1nRUVzS2ZoV0tiZ0VGN3ZTR1Q4SlFia3BvaTIySEtXZTU1b0xIYkRuZV9McE12bndLVC1OOG8xRFIwaVhiRjlkbi00Q0YxMHpUVFFXMERBb1BhR2tMQzgzaS05amV5WHBOYWNvV0t0TVFYYmJ1Y3ZNM2FKNUJFWHQyanYxZkhJdlBwRWQzaFpjYzcxdGNpblZSaXJVUXdJeU53ZGZ3V2ZDcTNRd2lhcFJ0X3p5LUE?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-16T14:51:06Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Luís Tomé sobre Médio Oriente: «O modelo americano, a Pax Americana, falhou» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUczVXNHZ1I2X0plVWZTRU92X3dEQnZOV1ZNa1pKMU14Y1hNM3NueTZtc3JLUW1EUGRiLWlPNVFaZmswV25IQmVGaUNlNVlCVURVdTdyUGd1cE4yZ0Y3Umt2NnFZcEhmR3gtN2s3RHBfc3dxeGxqdmNrLTFTNTlsZGFyeGlIVHFWQ3Jna2pfbWQ2Z21uMkRPR2E2akdtNWh0ODdrM0U5UGhUd1A1UzJuTg?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-09-16T21:05:00Z",
-      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
+      "title": "Rússia elogia relação \"sem precedentes\" com a China e critica blocos na Ásia-Pacífico - rtp.pt",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN29JSzJSbVprYTFXSkpZWmE2d29DUkFpYU9uSGxBMDdDMFZVRnREUFZucGp4NWU1UjEydW0xMnl4b2RyWnd6QXFMczY3eVUxb0xTYmtPbE1QaWJJSXBSZ05fWHRFdDJDZ1RnQTZjTHo2YnlxanBHY1pveFg0Ylh5Wk5SUXVKX0d2V0poYzdhQkpTZEx3NFFuVW1JeG1GbEVVcnRtQl9YcF9McWN2RU1zTWJpUncxNVlUeU0zRTYzNTZuUHlr?oc=5",
+      "source": "rtp.pt",
+      "publishedAt": "2026-09-16T08:12:29Z",
+      "description": "Notícia publicada por rtp.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
