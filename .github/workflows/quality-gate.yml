@@ -49,6 +49,7 @@ jobs:
           set -euo pipefail
           python tests/audit-design.py
           python tests/audit-library.py
+          python tests/audit-polish.py
       - name: Real legacy-to-current migration with synthetic data
         run: |
           set -euo pipefail
@@ -114,6 +115,7 @@ jobs:
           python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
           python -m playwright install --with-deps chromium webkit
           python tests/audit-live.py
+          python tests/audit-live-polish.py
       - if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:

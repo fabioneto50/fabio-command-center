@@ -44,12 +44,12 @@ try:
      check(tag+' return to modules action visible',p.locator('#page-clinical .fcc-area-back').is_visible())
      p.locator('#page-clinical .fcc-area-back').click();p.locator('#fccArea-clinical').wait_for(state='visible');check(tag+' return action clears subgroup',p.locator('#page-clinical > .sub.active').count()==0)
      p.reload(wait_until='domcontentloaded');ready(p);check(tag+' landing reload remains unselected',p.locator('#fccArea-clinical').is_visible() and not p.evaluate('FCCNavigation.route().sub'))
-     p.locator('.nav[data-page="personal"]').click();p.locator('#fccVaultDialog').wait_for(state='visible')
+     p.locator('.nav[data-page="personal"]').click();p.locator('#fccArea-personal').wait_for(state='visible');check(tag+' locked overview without modal',not p.evaluate('!!FCCUI.active()'));p.locator('[data-area-unlock]').click();p.locator('#fccVaultDialog').wait_for(state='visible')
      check(tag+' private guard preserved',not p.evaluate('FCCAccess.isUnlocked()'))
-     p.locator('#fccVaultPass').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultConfirm').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_function("FCCAccess.isUnlocked()&&FCCNavigation.current()==='personal'")
+     p.locator('#fccVaultPass').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultConfirm').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_function("FCCAccess.isUnlocked()&&FCCNavigation.current()==='personal'&&!FCCUI.active()")
      p.locator('#fccArea-personal').wait_for(state='visible');check(tag+' unlock lands on personal overview',not p.evaluate('FCCNavigation.route().sub') and not p.evaluate('!!FCCUI.active()'))
      vault=p.evaluate('localStorage.getItem(FCCStore.keys.vault)')
-     check(tag+' personal five areas',p.locator('#fccArea-personal .fcc-area-card').count()==5)
+     check(tag+' personal areas and existing notes shortcut',p.locator('#fccArea-personal .fcc-area-card').count()==6)
      p.locator('#fccArea-personal [data-area-target="garage"]').click();p.wait_for_function("FCCNavigation.current()==='garage'");p.locator('#fccArea-garage').wait_for(state='visible')
      check(tag+' child area does not force first subgroup',p.locator('#page-garage > .sub.active').count()==0)
      p.locator('#fccArea-garage [data-area-target]').first.click();p.wait_for_function("!!FCCNavigation.route().sub");landing(p,'personal',tag)
@@ -94,8 +94,16 @@ try:
       p.set_viewport_size({'width':w,'height':844})
       for area in ['clinical','personal','settings']:
        p.evaluate('(a)=>fccNavigate(a)',area);check(tag+' reflow '+str(w)+' '+area,p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
-      p.evaluate("window.scrollTo({top:document.documentElement.scrollHeight,behavior:'instant'})")
-      check(tag+' final content clears navigation '+str(w),p.evaluate("document.querySelector('.footer').getBoundingClientRect().bottom<=document.querySelector('nav.side').getBoundingClientRect().top"))
+      # Resize and preceding smooth navigation can still be composing a frame.
+      # Scroll a stable real element, then require the settled footer above the fixed bar.
+      p.locator('.footer').scroll_into_view_if_needed()
+      p.evaluate("async()=>{await document.fonts.ready;await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));window.scrollTo({top:document.scrollingElement.scrollHeight,behavior:'instant'});}")
+      settled=True
+      try:
+       p.wait_for_function("""()=>{const f=document.querySelector('.footer').getBoundingClientRect(),n=document.querySelector('nav.side').getBoundingClientRect(),s=document.scrollingElement;return f.top>=0&&f.bottom<=n.top&&Math.abs(s.scrollHeight-s.clientHeight-s.scrollTop)<=1;}""",timeout=5000)
+      except Exception:settled=False
+      geometry=p.evaluate("""()=>{const f=document.querySelector('.footer').getBoundingClientRect(),n=document.querySelector('nav.side').getBoundingClientRect(),s=document.scrollingElement;return {footerTop:f.top,footerBottom:f.bottom,navigationTop:n.top,scrollTop:s.scrollTop,scrollHeight:s.scrollHeight,clientHeight:s.clientHeight,scrollBehavior:getComputedStyle(s).scrollBehavior,route:FCCNavigation.route()};}""")
+      check(tag+' final content clears navigation '+str(w),settled and geometry['footerTop']>=0 and geometry['footerBottom']<=geometry['navigationTop'],geometry)
      p.set_viewport_size({'width':width,'height':height});p.evaluate("fccNavigate('clinical',{sub:'clin-vent'})");p.screenshot(path=str(OUT/f'{tag}-design-clinical-form.png'))
      # The clinical safety warning remains in place, not hidden by redesign.
      check(tag+' safety notice visible',p.locator('#page-clinical > .notice').is_visible())

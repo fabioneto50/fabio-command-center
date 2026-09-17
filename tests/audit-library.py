@@ -64,19 +64,19 @@ try:
      p.locator('[data-area-filter=all]').click();p.locator('#fccArea-clinical input').fill('medicação');check(tag+' legacy names remain searchable',p.locator('[data-area-target=clin-drugs]').count()==1)
      p.locator('#fccArea-clinical input').fill('zznothing');p.locator('[data-clear-filters]').click();check(tag+' empty state resets query and filters',p.locator('#fccArea-clinical .fcc-area-card').count()==24)
      # Keep the same vault gate as production. Personal remains an overview after unlocking.
-     p.locator('[data-page=personal]').click();p.locator('#fccVaultDialog').wait_for(state='visible');check(tag+' private gate unchanged',not p.evaluate('FCCAccess.isUnlocked()'))
+     p.locator('[data-page=personal]').click();p.locator('#fccArea-personal').wait_for(state='visible');check(tag+' locked landing is public overview only',not p.evaluate('!!FCCUI.active()') and not p.evaluate('!!window.FCCPersonal'));p.locator('[data-area-unlock]').click();p.locator('#fccVaultDialog').wait_for(state='visible');check(tag+' private gate unchanged',not p.evaluate('FCCAccess.isUnlocked()'))
      phrase='synthetic library audit phrase 2026'
-     p.locator('#fccVaultPass').fill(phrase);p.locator('#fccVaultConfirm').fill(phrase);p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_selector('#fccArea-personal')
-     check(tag+' personal opens overview without subgroup',p.locator('#fccArea-personal .fcc-area-card').count()==5 and not p.evaluate('FCCNavigation.route().sub') and not p.evaluate('!!FCCUI.active()'))
+     p.locator('#fccVaultPass').fill(phrase);p.locator('#fccVaultConfirm').fill(phrase);p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_function('FCCAccess.isUnlocked()&&!FCCUI.active()',timeout=20000);p.wait_for_selector('#fccArea-personal')
+     check(tag+' personal opens overview without subgroup',p.locator('#fccArea-personal .fcc-area-card').count()==6 and not p.evaluate('FCCNavigation.route().sub') and not p.evaluate('!!FCCUI.active()'))
      vault=p.evaluate('localStorage.getItem(FCCStore.keys.vault)');p.locator('#fccArea-personal [data-area-filter=tools]').click();check(tag+' personal tools filter',p.locator('#fccArea-personal .fcc-area-card').count()==2)
-     p.locator('#fccArea-personal [data-area-filter=records]').click();check(tag+' personal records filter',p.locator('#fccArea-personal .fcc-area-card').count()==3)
+     p.locator('#fccArea-personal [data-area-filter=records]').click();check(tag+' personal records filter',p.locator('#fccArea-personal .fcc-area-card').count()==4)
      p.locator('#fccArea-personal [data-area-target=garage]').click();p.wait_for_selector('#fccArea-garage');check(tag+' personal child does not auto-open subgroup',p.locator('#page-garage > .sub.active').count()==0)
      check(tag+' personal navigation did not modify private records',p.evaluate('localStorage.getItem(FCCStore.keys.vault)')==vault)
      # A floating lock must not overlap the description at small viewport widths.
      p.evaluate("fccNavigate('personal')")
      for test_width in [320,390,430,768,1440]:
       p.set_viewport_size({'width':test_width,'height':844});p.wait_for_timeout(50)
-      check(tag+' personal lock does not cover subtitle '+str(test_width),p.evaluate("""()=>{const a=document.querySelector('#page-personal > .fcc-lock-area').getBoundingClientRect(),b=document.querySelector('#page-personal > .pagehead p').getBoundingClientRect();return a.right<=b.left||a.left>=b.right||a.bottom<=b.top||a.top>=b.bottom}"""))
+      check(tag+' personal lock does not cover subtitle '+str(test_width),p.evaluate("""()=>{const a=document.querySelector('#page-personal .fcc-area-head-actions').getBoundingClientRect(),b=document.querySelector('#page-personal > .pagehead p').getBoundingClientRect();return a.right<=b.left||a.left>=b.right||a.bottom<=b.top||a.top>=b.bottom}"""))
      p.set_viewport_size({'width':width,'height':height});p.wait_for_timeout(4200)
      # Capture the implemented website, including both themes and real module content.
      for theme in ['light','dark']:
