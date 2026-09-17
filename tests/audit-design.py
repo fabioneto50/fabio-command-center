@@ -46,7 +46,7 @@ try:
      p.reload(wait_until='domcontentloaded');ready(p);check(tag+' landing reload remains unselected',p.locator('#fccArea-clinical').is_visible() and not p.evaluate('FCCNavigation.route().sub'))
      p.locator('.nav[data-page="personal"]').click();p.locator('#fccArea-personal').wait_for(state='visible');check(tag+' locked overview without modal',not p.evaluate('!!FCCUI.active()'));p.locator('[data-area-unlock]').click();p.locator('#fccVaultDialog').wait_for(state='visible')
      check(tag+' private guard preserved',not p.evaluate('FCCAccess.isUnlocked()'))
-     p.locator('#fccVaultPass').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultConfirm').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_function("FCCAccess.isUnlocked()&&FCCNavigation.current()==='personal'")
+     p.locator('#fccVaultPass').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultConfirm').fill('synthetic design navigation passphrase 2026');p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_function("FCCAccess.isUnlocked()&&FCCNavigation.current()==='personal'&&!FCCUI.active()")
      p.locator('#fccArea-personal').wait_for(state='visible');check(tag+' unlock lands on personal overview',not p.evaluate('FCCNavigation.route().sub') and not p.evaluate('!!FCCUI.active()'))
      vault=p.evaluate('localStorage.getItem(FCCStore.keys.vault)')
      check(tag+' personal areas and existing notes shortcut',p.locator('#fccArea-personal .fcc-area-card').count()==6)

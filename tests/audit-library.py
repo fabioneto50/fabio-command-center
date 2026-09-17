@@ -66,7 +66,7 @@ try:
      # Keep the same vault gate as production. Personal remains an overview after unlocking.
      p.locator('[data-page=personal]').click();p.locator('#fccArea-personal').wait_for(state='visible');check(tag+' locked landing is public overview only',not p.evaluate('!!FCCUI.active()') and not p.evaluate('!!window.FCCPersonal'));p.locator('[data-area-unlock]').click();p.locator('#fccVaultDialog').wait_for(state='visible');check(tag+' private gate unchanged',not p.evaluate('FCCAccess.isUnlocked()'))
      phrase='synthetic library audit phrase 2026'
-     p.locator('#fccVaultPass').fill(phrase);p.locator('#fccVaultConfirm').fill(phrase);p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_selector('#fccArea-personal')
+     p.locator('#fccVaultPass').fill(phrase);p.locator('#fccVaultConfirm').fill(phrase);p.locator('#fccVaultAccept').check();p.locator('#fccVaultSubmit').click();p.wait_for_function('FCCAccess.isUnlocked()&&!FCCUI.active()',timeout=20000);p.wait_for_selector('#fccArea-personal')
      check(tag+' personal opens overview without subgroup',p.locator('#fccArea-personal .fcc-area-card').count()==6 and not p.evaluate('FCCNavigation.route().sub') and not p.evaluate('!!FCCUI.active()'))
      vault=p.evaluate('localStorage.getItem(FCCStore.keys.vault)');p.locator('#fccArea-personal [data-area-filter=tools]').click();check(tag+' personal tools filter',p.locator('#fccArea-personal .fcc-area-card').count()==2)
      p.locator('#fccArea-personal [data-area-filter=records]').click();check(tag+' personal records filter',p.locator('#fccArea-personal .fcc-area-card').count()==4)

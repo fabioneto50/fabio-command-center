@@ -41,6 +41,7 @@ try:
       sizes=buttons.evaluate_all("es=>es.map(e=>({before:getComputedStyle(e,'::before').content,after:getComputedStyle(e,'::after').content,w:e.getBoundingClientRect().width,h:e.getBoundingClientRect().height}))")
       check(tag+' '+kind+' no dot overlay and usable targets',all(x['before'] in ['none','normal'] and x['after'] in ['none','normal'] and x['w']>=44 and x['h']>=44 for x in sizes),sizes)
       first=root.locator('.home-news-item h4').first.inner_text();buttons.last.click()
+      p.wait_for_function("([id,n])=>document.querySelector('#'+id+' .home-news-dot[aria-current=page]')?.textContent.trim()===String(n)",arg=[root_id,count])
       check(tag+' '+kind+' selected page updates content',root.locator('.home-news-dot[aria-current=page]').inner_text()==str(count) and root.locator('.home-news-item h4').first.inner_text()!=first)
       check(tag+' '+kind+' one selected page',root.locator('[aria-current=page]').count()==1)
       colors=root.locator('[aria-current=page]').evaluate("e=>({bg:getComputedStyle(e).backgroundColor,fg:getComputedStyle(e).color,other:getComputedStyle(e.parentElement.firstElementChild).backgroundColor})")
@@ -104,7 +105,7 @@ try:
        area(p,scope);shot(p,tag+'-'+scope+'-'+theme)
       # Compare exact rendered content with the unchanged institutional records.
       p.evaluate("fccNavigate('clinical',{sub:'clin-perf'})");p.wait_for_selector('#perfDilutionSearch');p.locator('#perfDilutionSearch').fill('amoxicilina');p.wait_for_timeout(400)
-      card=p.locator('#perfDilutionGrid > .ccd-doc-card:visible').first;card.locator(':scope > details > summary').click();card.locator('.cuf2213-route').first.wait_for(state='visible')
+      card=p.locator('#perfDilutionGrid > .ccd-doc-card:has(.cuf2213-route):visible').first;card.locator(':scope > .ccd-doc-top').click();card.locator('.cuf2213-route').first.wait_for(state='visible')
       content=card.inner_text()
       expected=json.loads((ROOT/'data/institutional.json').read_text())['antibiotics']['records'];expected=[r for r in expected if r['drug']=='Amoxicilina + Ácido clavulânico']
       check(tag+' '+theme+' every supplied presentation retained',card.locator('.cuf2213-route').count()==len(expected))
@@ -117,7 +118,7 @@ try:
       route=card.locator('.cuf2213-route').first;route.scroll_into_view_if_needed();route.screenshot(path=str(OUT/(tag+'-antibiotics-'+theme+'.png')))
       check(tag+' '+theme+' no clinical document overflow',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
       # Collapse before reopening in next theme; show() can retain the expansion state.
-      card.locator(':scope > details > summary').click()
+      card.locator(':scope > .ccd-doc-top').click()
      check(tag+' no unhandled runtime errors',not errors,errors);report['contexts'].append({'browser':engine,'viewport':[width,height],'pageErrors':errors})
     except Exception as e:
      report['checks'].append({'name':tag+' failure','pass':False,'error':str(e),'trace':traceback.format_exc(),'pageErrors':errors})
