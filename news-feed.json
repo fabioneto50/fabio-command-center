@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:28:45.443406Z",
+  "updatedAt": "2026-09-17T04:29:01.081408Z",
   "health": [
     {
       "title": "Two Point Hospital: Full Health Collection - Nintendo",
@@ -34,13 +34,13 @@
       "source": "facebook.com",
       "publishedAt": "2026-09-16T22:37:57Z",
       "description": "O projeto AtivaMente nasce da ideia de que \"a saúde não se faz apenas dentro das unidades de saúde\". Durante 12 semanas, 25 a 30 participantes serão acompanhados em diferentes atividades.",
-      "image": "https://scontent-qro3-1.xx.fbcdn.net/v/t39.99422-6/813102625_1171384601889185_4474022796082623917_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=6iFI2SjJGR4Q7kNvwHiA4sy&_nc_oc=Adqg_cYz5f2SXqposxcksMh2tYlpqLdLZ0mGarEVQCto__pzoPZ9PN6tlcQT5hyWyiA&_nc_zt=14&_nc_ht=scontent-qro3-1.xx&_nc_gid=3y2kCGp3ii6kkf6kgyFlmw&_nc_ss=7820f&oh=00_AQI9dZqePhmWH-vCePXld-z5vLail3v4JCUsW2urzdCxkg&oe=6AB1393D",
+      "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/813102625_1171384601889185_4474022796082623917_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=6iFI2SjJGR4Q7kNvwH4bJV0&_nc_oc=AdrypYf4fR_plh4wMpC7gJbdKczzdc3x-LHhqK4ny34CkSdMr-ym3A1_95TLAd9ELrc&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=xK1xBRuYgcTi7HwAJpD4Pw&_nc_ss=7820f&oh=00_AQJqSHC2gSDHKKBvaTeoqzIFna-CBp6xbPxBoYrQdTyuYQ&oe=6AB1393D",
       "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/o-projeto-ativamente-nasce-da-ideia-de-que-a-sa%C3%BAde-n%C3%A3o-se-faz-apenas-dentro-das-/1478650204366258/"
     },
     {
-      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - pt.euronews.com",
+      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTdqUDNPYjRnTFJjeVEyaFhiekxLNHVGaTBXTFJLb0dfZXJISnJMZ29seDY0ZDhwekNGY2t0TkhlQXZ5MWRUYmR6d0ptMnEwc2ZramctX1daTlJ5cDFnS1hxT3ltb2xESy1JelhsTHo0b2g1cXFyOTBITHZ3TGpUdXFIMFRSRTJ2YXpQcDVRYU9RMVdtQTlQUHNuWWFsOGZNM2c?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-16T10:56:19Z",
       "description": "Em ano de recorde de candidatos a vagas financiadas em faculdades de medicina na Rússia, falta estudantes para a especialização. Especialistas apontam novas regras de colocação obrigatória após o curso, lembrando a prática soviética.",
       "image": "https://images.euronews.com/articles/stories/09/91/38/43/1200x675_cmsv2_b7c01bb0-8776-5409-b970-48ca89a1c33f-9913843.jpg",
@@ -83,12 +83,12 @@
       "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23832431"
     },
     {
-      "title": "Unidade Móvel de Saúde está agora também no Carvalhinho - cm-moita.pt",
+      "title": "Unidade Móvel de Saúde está agora também no Carvalhinho - Câmara Municipal da Moita",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamZFNURfWV9JTUx2bi1XNWNJWW01bGc1UDJnTzVIT0lXZ05qR2lCR0xRWmZDb3IzVWRGMDhmbEE4UHlROGh0WkVRUWJfbWZmUGk4bTNUek4yVGdnVlNOUzFSRnFRSWdBcEFFbkJMeE1JdVowWWxzbEhGX1FDNjhBcW5vMUdVbDluMnR1RmN0Q1c1LUhrR1lXc1NXTC1veXY2WlBIbTc3WmpwaVNuRW1KWGQ2elE?oc=5",
-      "source": "cm-moita.pt",
+      "source": "Câmara Municipal da Moita",
       "publishedAt": "2026-09-16T12:05:00Z",
-      "description": "Notícia publicada por cm-moita.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
+      "description": "Este projeto municipal percorre as freguesias mais rurais do concelho atuando na prevenção e promoção da saúde junto da comunidade. A Unidade ...",
+      "image": "https://www.cm-moita.pt/cmmoita/uploads/news/image/10360/img20260916111445.jpg",
       "articleUrl": "https://www.cm-moita.pt/viver/informacao-municipal/noticia/unidade-movel-de-saude-esta-agora-tambem-no-carvalhinho"
     },
     {
@@ -100,11 +100,11 @@
       "image": ""
     },
     {
-      "title": "Estado da União: Marta Temido (PS) lamenta falta de avanços na saúde e custo de vida - Saúde Mais TV",
+      "title": "Estado da União: Marta Temido (PS) lamenta falta de avanços na saúde e custo de vida - saudemais.tv",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmwyUnhfYmJBVHBMZ0E3TXduNFYxZHlmaXFTSTZQV3lPOE5UaUxCejF4ckF6bEZ4eThOQ1p6QXVXSXJlcWxCb1dxVmswa0toX0wwOXVNMm9oSzZoRVhHSUdpcVpiWDFoeWFXVElOczM4MmV6aXZITm5zU3JhQnltZ3ZDRm5pYVV6d3JjcUYxTDMwV0wtcFREM0JaU1MwYk1EU2NKc19Rcm1pcXdrWno0STVjMzZnWkNmWjRXMw?oc=5",
-      "source": "Saúde Mais TV",
+      "source": "saudemais.tv",
       "publishedAt": "2026-09-16T16:01:07Z",
-      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por saudemais.tv. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,9 +119,9 @@
       "articleUrl": "https://www.publico.pt/2026/09/16/mundo/noticia/eua-acusam-agentes-russos-preparar-ataques-assassinios-aliados-ucrania-2188212"
     },
     {
-      "title": "Rússia elogia relação \"sem precedentes\" com a China e critica blocos na Ásia-Pacífico - rtp.pt",
+      "title": "Rússia elogia relação \"sem precedentes\" com a China e critica blocos na Ásia-Pacífico - RTP",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN29JSzJSbVprYTFXSkpZWmE2d29DUkFpYU9uSGxBMDdDMFZVRnREUFZucGp4NWU1UjEydW0xMnl4b2RyWnd6QXFMczY3eVUxb0xTYmtPbE1QaWJJSXBSZ05fWHRFdDJDZ1RnQTZjTHo2YnlxanBHY1pveFg0Ylh5Wk5SUXVKX0d2V0poYzdhQkpTZEx3NFFuVW1JeG1GbEVVcnRtQl9YcF9McWN2RU1zTWJpUncxNVlUeU0zRTYzNTZuUHlr?oc=5",
-      "source": "rtp.pt",
+      "source": "RTP",
       "publishedAt": "2026-09-16T08:12:29Z",
       "description": "A vice-ministra da Defesa russa, Anna Tsivileva, destacou hoje, em Pequim, o nível \"sem precedentes\" das relações entre Rússia e China e criticou o aparecimento de \"estruturas de blocos fechados\" na Ásia-Pacífico, durante o Fórum Xiangshan.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/44/440c0317bb8a2834aa547b88c7cc3ae2?w=860&q=90&rect=0,0,1499,822&auto=format",
@@ -137,22 +137,13 @@
       "articleUrl": "https://expresso.pt/economia/economia_energia/2026-09-16-petroleo-aproxima-se-do-fundo-do-poco-sem-rotas-para-sair-do-medio-oriente-barril-pode-aumentar-ate-aos-150-dolares-043f65ba"
     },
     {
-      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
+      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamwzb2RqeWtQQjZYNHF4SG9rV1lsYlRJMVR2ZWpRVF9xc2Q0UEQySUd2Vng4QkN4RkRGdEotTWFXRDUwQXZfYlFrUzQxTHBscjk5cm02RmpmNzdmanhSbjVBOTl2TDN2b3VOX2pzbVlZc3ZwNkliV1hDLTZDVnBZTERSV2tCanJxUVZjQ2duUW5IdkwzeUxVRGF5eVVVUlpXcVdmUS05S0k3N2dTRmhhQVNvNDVXTjJQbVR4X2cyeW0wekFlbU1TbmVIZjhaWFht?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
       "description": "Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”. #EuropeNews",
       "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
       "articleUrl": "https://pt.euronews.com/my-europe/2026/09/15/estados-unidos-ameacam-ue-com-retaliacao-por-preferencia-europeia-no-orcamento-comunitario"
-    },
-    {
-      "title": "Luís Tomé sobre Médio Oriente: «O modelo americano, a Pax Americana, falhou» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUczVXNHZ1I2X0plVWZTRU92X3dEQnZOV1ZNa1pKMU14Y1hNM3NueTZtc3JLUW1EUGRiLWlPNVFaZmswV25IQmVGaUNlNVlCVURVdTdyUGd1cE4yZ0Y3Umt2NnFZcEhmR3gtN2s3RHBfc3dxeGxqdmNrLTFTNTlsZGFyeGlIVHFWQ3Jna2pfbWQ2Z21uMkRPR2E2akdtNWh0ODdrM0U5UGhUd1A1UzJuTg?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-09-16T21:05:00Z",
-      "description": "Ao analisar os contactos diplomáticos entre Teerão e Pequim, Luís Tomé afirmou que «o modelo americano, a Pax Americana, falhou», assinalando a disponibilidade chinesa para promover um novo modelo de segurança no Médio Oriente.",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-16-22-43-12-62827.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/luis-tome-sobre-medio-oriente-o-modelo-americano-a-pax-americana-falhou"
     },
     {
       "title": "Ucrânia: preocupação na Europa com o ataque russo na fronteira com a Polônia - Vatican News",
@@ -173,6 +164,15 @@
       "articleUrl": "https://www.pcp.pt/cumplicidade-da-ue-na-desestabilizacao-do-medio-oriente-continua"
     },
     {
+      "title": "Luís Tomé sobre Médio Oriente: «O modelo americano, a Pax Americana, falhou» - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUczVXNHZ1I2X0plVWZTRU92X3dEQnZOV1ZNa1pKMU14Y1hNM3NueTZtc3JLUW1EUGRiLWlPNVFaZmswV25IQmVGaUNlNVlCVURVdTdyUGd1cE4yZ0Y3Umt2NnFZcEhmR3gtN2s3RHBfc3dxeGxqdmNrLTFTNTlsZGFyeGlIVHFWQ3Jna2pfbWQ2Z21uMkRPR2E2akdtNWh0ODdrM0U5UGhUd1A1UzJuTg?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-09-16T21:05:00Z",
+      "description": "Ao analisar os contactos diplomáticos entre Teerão e Pequim, Luís Tomé afirmou que «o modelo americano, a Pax Americana, falhou», assinalando a disponibilidade chinesa para promover um novo modelo de segurança no Médio Oriente.",
+      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-16-22-43-12-62827.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/luis-tome-sobre-medio-oriente-o-modelo-americano-a-pax-americana-falhou"
+    },
+    {
       "title": "UE vai ter reserva de matérias-primas críticas face à dependência da China - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFZaYmVMVHhnczV0MjVNLVJPb3BtcDdyQzlTRFpCemNpM21hNDVXMy1LM0FkODdCNmJwN2kyQlBycTlUOHlyVEZzd1dEVmhzc2RNdVVkWXFfX21LakdrZ1ZKcGYwNXZaTkJSTHpjVnNsclVWNktWMXpBOVVRRTJGWWpQUGV1S2dtYk0yak5qRkM1M3Z2YzZKZnpFcVlaeUZVUExLZ3lfc0ZwRTFVTVV3WHlaN2djQ0ViVGxPbVFB?oc=5",
       "source": "dnoticias.pt",
@@ -191,28 +191,28 @@
       "articleUrl": "https://www.estadao.com.br/internacional/congresso-eua-aprova-novo-pacote-sancoes-russia-npr/"
     },
     {
-      "title": "Von der Leyen avalia estado da União perante um ouvinte inesperado: Mark Carney - Jornal Económico",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNheTFLaWZoWC1haFh2ZFRMZTdKZ3A0VWVmYW1xakhla1YwdEgwaklyMkhwX1dmVW5BWGNYMVNrZDJUVlRsdTEtSHZlX1hMeFRObURxVWV1Si1vaXlVWVdNSXJ1bVpZNnRtVHFKOVJyTmNROHc4UTNKN2I1QVJ1X0ptd1BuYlNhcUNMUkNLMzZINW1obzFYYndEV2lua2ppb2R6alhVYmF0Z1BIZjJXQ0gxNllrVmxUdDQ0bg?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-09-16T05:05:00Z",
-      "description": "No seu sexto discurso sobre o bloco, o primeiro para o qual foi convidado um chefe de governo externo à União, a presidente da Comissão tem temas ‘obrigatórios’: a Ucrânia, a dependência energética, a IA ou a imigração são alguns deles.",
-      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/02/ursula-von-der-leyen-1024x603.jpg",
-      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-avalia-estado-da-uniao-perante-um-ouvinte-inesperado-mark-carney/"
-    },
-    {
       "title": "Do que falamos quando falamos de soberania digital - Nexo Jornal",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnJTZG1ESVlQR1lzQXlOLVg2QVFqRklab05tY3pBLWNUMURsbjl0WDVuVjZyTndxMVppRGI3YUJFdW96TC1VS3BDb0RTOHVoMVNmWG96MlVxSUJkOHBoaV9FdjRfZFFMeDVtV3EwM01idVVITjV6WU53MXNRc21WV0piSG1naTdxRWcxWlFlLU5ncy1ZeHZLSl9HcGxsTkpteFZKRFVOLXk?oc=5",
       "source": "Nexo Jornal",
       "publishedAt": "2026-09-17T02:15:39Z",
-      "description": "Notícia publicada por Nexo Jornal. Abra o artigo para consultar os detalhes completos.",
+      "description": "União Europeia, Rússia e China apresentam modelos concorrentes de reafirmação da autoridade estatal diante do aumento da autonomia de empresas de tecnologia e da interdependência internacional",
+      "image": "https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/09/pexels-cookiecutter-17489157-640x399.webp",
+      "articleUrl": "https://www.nexojornal.com.br/ensaio/2026/09/16/o-que-e-soberania-digital-autonomia-lideranca-tecnologica"
+    },
+    {
+      "title": "Von der Leyen avalia estado da União perante um ouvinte inesperado: Mark Carney - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNheTFLaWZoWC1haFh2ZFRMZTdKZ3A0VWVmYW1xakhla1YwdEgwaklyMkhwX1dmVW5BWGNYMVNrZDJUVlRsdTEtSHZlX1hMeFRObURxVWV1Si1vaXlVWVdNSXJ1bVpZNnRtVHFKOVJyTmNROHc4UTNKN2I1QVJ1X0ptd1BuYlNhcUNMUkNLMzZINW1obzFYYndEV2lua2ppb2R6alhVYmF0Z1BIZjJXQ0gxNllrVmxUdDQ0bg?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-16T05:05:00Z",
+      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
+      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
-      "description": "Notícia publicada por pt.euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
