@@ -31,14 +31,14 @@ try:
     try:
      p.goto('http://127.0.0.1:4178/',wait_until='domcontentloaded');ready(p)
      for theme in ['light','dark']:
-      nav(p,page='settings');p.locator(f'#fccThemeSettings [data-theme-value="{theme}"]').click() if p.locator(f'#fccThemeSettings [data-theme-value="{theme}"]').count() else p.evaluate('(t)=>fccSetTheme(t,true)',theme)
-      p.wait_for_function('(t)=>document.documentElement.dataset.theme===t',arg=theme)
+      nav(p,page='settings');p.locator(f'#fccThemeSettings [data-fcc-theme-choice="{theme}"]').click()
+      p.wait_for_function('(t)=>document.documentElement.dataset.fccTheme===t',arg=theme)
       nav(p);check(tag+' '+theme+' overview not auto-selected',p.locator('#page-clinical>.sub.active').count()==0 and not p.evaluate('!!FCCUI.active()'))
       capture(p,tag+'-'+theme+'-hub','#fccArea-clinical input')
       nav(p,'clin-perf');p.wait_for_selector('#perfDilutionSearch');p.wait_for_timeout(300)
       capture(p,tag+'-'+theme+'-perfusion','#perfDilutionSearch')
       check(tag+' '+theme+' clinical safety remains visible',p.locator('#page-clinical>.fcc-usage-notice').is_visible() and p.locator('#clin-perf .perf-safety').is_visible())
-      nav(p,'clin-drugs');p.locator('#med4Search').fill('noradrenalina');p.wait_for_selector('#med4Results [data-med4]')
+      nav(p,'clin-drugs');p.locator('#med4Search').fill('noradrenalina');p.wait_for_function("/noradrenalina/i.test(document.querySelector('#med4Results [data-med4] strong')?.textContent||'')")
       capture(p,tag+'-'+theme+'-medication-list','#med4Search')
       p.locator('#med4Results [data-med4]').first.click();p.wait_for_selector('#med4Results h3')
       capture(p,tag+'-'+theme+'-medication-detail','#med4Results h3')
