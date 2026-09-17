@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-17T06:35:07.125042Z",
+  "updatedAt": "2026-09-17T07:29:15.958772Z",
   "health": [
+    {
+      "title": "Universidade Nova de Lisboa lidera novo mestrado europeu em IA Aplicada à Medicina - Observador",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHlnLW1SaWRNWDJlX1BsZVdFbG9DWEZ4elBLQ29ueGhQdngyRWJKalAtZ1dTaHAzLWxCVnZHMkthLTZyc3lqZm5jSkNjNmhvbEVZVklDeERGQnRZdnFiZnBMRmpsdXhWYWwyd292OXQ1STJrYm4xV0lreWg5di1DQVFtZHdIYjdrYnpCTFo1Yndwbl9iM29fQ1k0NnhRNXZ1bmZSV3laT1dadjU0ZFlJS0E4RW5oaW8?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-17T07:04:04Z",
+      "description": "Faculdade portuguesa ganhou concurso para liderar novo mestrado, em parceria com Barcelona e Maastricht, que procura capacitar profissionais de saúde para a era da Inteligência Artificial.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F05%2F05070137%2F40033254.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/17/universidade-nova-de-lisboa-lidera-novo-mestrado-europeu-em-ia-aplicada-a-medicina/"
+    },
     {
       "title": "Two Point Hospital: Full Health Collection - Nintendo",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnJlZHc2a2ZWNndiX1FxbkVkOWpzQURRWnFQa212cEJxaHhRc0xsb2NkM01OemI1cExrS280cWZvay1QZWxublpSUU1Xb2lNS29BVk9ET0JWeVZQd3pUcHdJVThwd1phVWFtY2ZHYjEyMVJac0piV0szQ0tVZHRQa1FmbUxHN2MzNEkwVHZ4UDJFVTJGZWY0d1Zwbi1xOG9faklyQkU1S2thWjgxbFI5a293QmNZNEE5c1FmZVVsRQ?oc=5",
@@ -47,13 +56,31 @@
       "articleUrl": "https://www.dn.pt/sociedade/um-em-cada-dez-doentes-sofre-um-dano-durante-a-prestao-de-cuidados-que-poderia-ser-evitado"
     },
     {
-      "title": "Acompanhado por ninguém - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBETmtnVURadWhaYnJsNTB6ejB1NnFjSE5iMFNoWmgzcU80cjZTOGxRdF8wR3RrcHZ2WVRMbWFfUk9CR1FRQzEtcWdtcjZvVGFkQ1lUV012YjZxSDBrSGdDbWhaSmd6cWl5bGdyRWxsbmFyQlhZMElYSzFNZw?oc=5",
+      "title": "O fim da onda de calor não é o fim do alerta: o risco oculto e silencioso para os doentes com DPOC - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObHpEOGp0ZmVTY1ItRnAwUlVRbjJvQWNkVndCa3I1dVhuejlFQ3RBaFl3NkhSWVZweU1NclMwUlh4N0pPLUhKQjhESFg1SWIwVnlWanl1VVFuRGU1YzBHcDRmaW5rejZ3cVBrTFNibUJKZHctRloyUk95alA3em5WcW1QR3ZGODc5YkpGd0lUV3NYZWNaellIZFZVZk9pRTl4TTdabXFrMFE3MUU0RTFNQXN3dDUzN0czYnZQLTduNWRtNzczMENiSjUzanVPN0JBcjN2Z2h2RFFYcFkwdlE?oc=5",
       "source": "Expresso",
-      "publishedAt": "2026-09-17T05:44:00Z",
+      "publishedAt": "2026-09-17T06:30:00Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/opiniao/2026-09-17-acompanhado-por-ninguem-6cb8cdb2"
+      "articleUrl": "https://expresso.pt/opiniao/2026-09-17-o-fim-da-onda-de-calor-nao-e-o-fim-do-alerta-o-risco-oculto-e-silencioso-para-os-doentes-com-dpoc-de960c1e"
+    },
+    {
+      "title": "IPO vai ter um jardim sensorial para doentes e equipas de saúde - Diário de Coimbra",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDhmR2lxUlJ4UTB3RVp5YTlUZGdSRmUtb3RBVEtkaVl3amxmYXkxMDRSejJMRzA3ZjdYREFhM1VZY2NNRkFhbkRsZ1FlbF9WbFVyUEh6ZjJMbmhZMFVzQkY2bmp0cU0zNHpMaXdhbGZIcWllUlc0WUNPMXAxblN1RlN5SEhPT0drYkpJRkY4Q3dOTXNOUnlTd2l5V1lqb1l6cUFCMWxabw?oc=5",
+      "source": "Diário de Coimbra",
+      "publishedAt": "2026-09-17T06:01:00Z",
+      "description": "Grupo de benfeitores angariou fundos para avançar com o espaço verde que pretende proporcionar aos pacientes momentos de tranquilidade e contacto com a natureza",
+      "image": "https://www.diariocoimbra.pt/wp-content/uploads/2026/09/Protocolo-jardim-sensorial.webp",
+      "articleUrl": "https://www.diariocoimbra.pt/2026/09/17/ipo-vai-ter-um-jardim-sensorial-para-doentes-e-equipas-de-saude/"
+    },
+    {
+      "title": "DGS regista 3.658 notificações de incidentes de segurança do doente em 2025 - RTP",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnJQSEVXeHZyR1NHTTk5dG5FSXA2d3pueEpzUlhyblR1dFhoWmFseVgtQTNiekFfeTBYLUpQR0RIbi1XSWFoMnpHUXhKeTlITXhXOFdKcEdkUzhBRl91SkI2QzZKVWNFbXc0UkR1aGhZMm15ZFdfUFBDYnhIMnZNdng3dzg2ZUpYMjNPZmwtNDREMlJwbzdiNUxOVl9GaHZZM1BaaEZSQjF2SXJhdDd5ZWFrSzJ2djA?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-17T06:34:25Z",
+      "description": "Mais de 3.650 incidentes de segurança do doente foram notificados em 2025 através do sistema nacional Notifica, a maioria feita por profissionais de saúde, com as quedas e as escaras entre as situações mais reportadas, revelam dados da DGS.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf2f3ab68fc1260f51002b2041a8b54c?w=860&q=90&rect=0,170,1236,678&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/pais/dgs-regista-3658-notificacoes-de-incidentes-de-seguranca-do-doente-em-2025_n1765949"
     },
     {
       "title": "Vírus sincicial respiratório: o que é? E quando e onde vão os bebés ser imunizados? - Público",
@@ -65,38 +92,11 @@
       "articleUrl": "https://www.publico.pt/2026/09/16/sociedade/noticia/virus-sincicial-respiratorio-onde-vao-bebes-imunizados-2188221"
     },
     {
-      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - pt.euronews.com",
+      "title": "Faculdades de medicina na Rússia enfrentam escassez de estudantes - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTdqUDNPYjRnTFJjeVEyaFhiekxLNHVGaTBXTFJLb0dfZXJISnJMZ29seDY0ZDhwekNGY2t0TkhlQXZ5MWRUYmR6d0ptMnEwc2ZramctX1daTlJ5cDFnS1hxT3ltb2xESy1JelhsTHo0b2g1cXFyOTBITHZ3TGpUdXFIMFRSRTJ2YXpQcDVRYU9RMVdtQTlQUHNuWWFsOGZNM2c?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-16T10:56:19Z",
-      "description": "Em ano de recorde de candidatos a vagas financiadas em faculdades de medicina na Rússia, falta estudantes para a especialização. Especialistas apontam novas regras de colocação obrigatória após o curso, lembrando a prática soviética.",
-      "image": "https://images.euronews.com/articles/stories/09/91/38/43/1200x675_cmsv2_b7c01bb0-8776-5409-b970-48ca89a1c33f-9913843.jpg",
-      "articleUrl": "https://pt.euronews.com/2026/09/16/faculdades-de-medicina-na-russia-enfrentam-escassez-de-estudantes"
-    },
-    {
-      "title": "Médicos vão \"prescrever\" caminhadas, piscina e animais para tratar depressão em Barcelos - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmZ2QUJWYk0ydXZqSEFnYUV6RTNfWWVGaEotU2hyQlE3RWJTVW1JTnFSYjZISnIxMlRrTUZCTlMwb2pUUUhfdXdVLXhDV0t6YjlMTmE0aXlKQktsWTMxcG9teHFjTWdDbTBxV2U4ZTI4djZMeWUzTUd2aFZlR2h0WGY4c0xlRkpucnhPUEQ4b1JXal9ZN3A3NDBsVTJ3QjJ6UEJTYVJVODZaS3VmblBIaGVib1dHNmd6QWVz?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-16T20:37:16Z",
-      "description": "O projeto AtivaMente nasce da ideia de que \"a saúde não se faz apenas dentro das unidades de saúde\". Durante 12 semanas, 25 a 30 participantes serão acompanhados em diferentes atividades.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2297%3Anowe%3A0%3A364%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F20165153%2Fob17022025mariajoaogala020-1-scaled.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/16/medicos-vao-prescrever-caminhadas-piscina-e-animais-para-tratar-depressao-em-barcelos/"
-    },
-    {
-      "title": "PR sul-africano cancela agenda pública por questões de saúde após cimeira dos BRICS - Lusa",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNV8xQU0zaDk0SFlwdHloU01DY3dGaXFvS04teUxOTTh2ZTBZbktKNThRTENGNHh6VkpXVE5LMkh4RVpvSEE5dGFhcHhULXV5MGRBaU44ZEJSSlQ5bkV6NS1kb25hMU1KN1FGdlV4SlkwX3VIYmZXZHRLWElyREJhTHcwMllCLUk2X2pzeEtiLUxnc05GdEtuMUlrRmJ3Z0h0c0ZoR21GR1o4UHp0ZURkZW9MS1FjSk0tUTdMaktsUXRkc1R3ZUV6X2xjUjlmeWd0b2s5RlpkV21rd2J2cC1GMWJjbEFvelRmaXhGRjZkS1NCS0NiYlUxcQ?oc=5",
-      "source": "Lusa",
-      "publishedAt": "2026-09-16T17:08:00Z",
-      "description": "O Presidente sul-africano cancelou os seus compromissos públicos após regressar da cimeira dos BRICS, na Índia, por questões de saúde, numa altura em que o vice-presidente também está ausente, anunciou hoje a presidência.",
-      "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_47766981_307026413184556.JPG",
-      "articleUrl": "https://www.lusa.pt/international/article/2026-09-16/47787039/pr-sul-africano-cancela-agenda-p%C3%BAblica-por-quest%C3%B5es-de-sa%C3%BAde-ap%C3%B3s-cimeira-dos-brics"
-    },
-    {
-      "title": "Galeria de Conheça o projeto vencedor do concurso Hospital Norpatagônico em Neuquén - 10 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNc0t0UmNnTXZqT210SXpnUjhYSGhaR3RETTJqYnFEUHQ0aTVDUDhINFZmV1J4YXAwRmtlWnZkOU1Hdm1LUXh2NGVIcGd5Vmtyanc5dE9IWDJBMGJzaUIyOGVfc2JIUUhBMXlQb3BFbDFwLWVTblVmOHVFVG9Demk3THNsSjZ5TlQ2U3Bnd1BNeHFCRWdXdXVvWm9hNVd4M05iQnpXd3d2QW1QTGtXWl9BdXM3SjdZQkZiMk94TzJWSFAycEQzTHNMMmEwaUREaXRqQURLWWxYa3NjZ1pNa2ExRGR5ZnYtVndIRmZta0t1dlltOUljTHNmZ1g1bFVEZU5XdjFkYVVZaUMyMGxKLUNaM1RsVUU1bkRIczNGSkIzSFFCZ0U1VzhFZmRXUzIxMUxlVkRZcEplN21QUQ?oc=5",
-      "source": "ArchDaily",
-      "publishedAt": "2026-09-17T01:25:48Z",
-      "description": "Notícia publicada por ArchDaily. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
@@ -128,9 +128,9 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/russia-elogia-relacao-sem-precedentes-com-a-china-e-critica-blocos-na-asia-pacifico_n1765728"
     },
     {
-      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
+      "title": "Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamwzb2RqeWtQQjZYNHF4SG9rV1lsYlRJMVR2ZWpRVF9xc2Q0UEQySUd2Vng4QkN4RkRGdEotTWFXRDUwQXZfYlFrUzQxTHBscjk5cm02RmpmNzdmanhSbjVBOTl2TDN2b3VOX2pzbVlZc3ZwNkliV1hDLTZDVnBZTERSV2tCanJxUVZjQ2duUW5IdkwzeUxVRGF5eVVVUlpXcVdmUS05S0k3N2dTRmhhQVNvNDVXTjJQbVR4X2cyeW0wekFlbU1TbmVIZjhaWFht?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
       "description": "Washington afirmou que o fundo de competitividade previsto no orçamento iria travar a parceria com os EUA, por conter medidas que privilegiam produtos “made in Europe”. #EuropeNews",
       "image": "https://images.euronews.com/articles/stories/09/91/42/78/1200x675_cmsv2_4f2b6853-8adf-570a-a22b-9cb8ce3aaf1a-9914278.jpg",
@@ -173,15 +173,6 @@
       "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/luis-tome-sobre-medio-oriente-o-modelo-americano-a-pax-americana-falhou"
     },
     {
-      "title": "UE vai ter reserva de matérias-primas críticas face à dependência da China - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFZaYmVMVHhnczV0MjVNLVJPb3BtcDdyQzlTRFpCemNpM21hNDVXMy1LM0FkODdCNmJwN2kyQlBycTlUOHlyVEZzd1dEVmhzc2RNdVVkWXFfX21LakdrZ1ZKcGYwNXZaTkJSTHpjVnNsclVWNktWMXpBOVVRRTJGWWpQUGV1S2dtYk0yak5qRkM1M3Z2YzZKZnpFcVlaeUZVUExLZ3lfc0ZwRTFVTVV3WHlaN2djQ0ViVGxPbVFB?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-16T10:25:00Z",
-      "description": "A União Europeia (UE) vai ter uma nova Corporação Europeia para as Matérias-Primas Críticas, como terras raras e magnésio, para garantir o aprovisionamento e a constituição de reservas face à forte dependência da China, foi hoje anunciado.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoDOC.20260703.47399685.13083059_rUMOsnv.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/app/2026/9/16/505611-ue-vai-ter-reserva-de-materias-primas-criticas-face-a-dependencia-da-china/"
-    },
-    {
       "title": "Congresso dos EUA aprova novo pacote de sanções contra a Rússia - Estadão",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWxmTUhVY2JKOUE2QWc3VDMxU2hUeUxwMGowRFU1UGh3dlQzaWdQQXdRQkxZd0lvOUFSNG9vczYyam1FbGRoLS1OY0wtb1JWdWVYWExlZFEzN0lwNVRsRHlFejA2d2hucUp4blJEcGVScGtGY2x5UVYyRFM3RkNrZzEtWEhwbkFZakdnVVlDcklSYURJNEpHRtIBngFBVV95cUxQV1FEekJxUUJRZFNuYWE0dC1pSHFxdFhpWmxkRUtFWHJ2akpsNi1YOXU4bk5lRUZGRDNrZHhLcXFRTS1tMzd3RzhLUWtsTW1nbmg3QXpYbmpJZ0FnZm9DVzhRME9XU1A1X2ZOQUxCUDlBd2tUZmxOZ2FTRzlQZ05lRkhPc2tpV1Y3ZHVUc3dGOWtTR3dCdzUteE1Rb3pqUQ?oc=5",
       "source": "Estadão",
@@ -191,28 +182,37 @@
       "articleUrl": "https://www.estadao.com.br/internacional/congresso-eua-aprova-novo-pacote-sancoes-russia-npr/"
     },
     {
-      "title": "Do que falamos quando falamos de soberania digital - Nexo Jornal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnJTZG1ESVlQR1lzQXlOLVg2QVFqRklab05tY3pBLWNUMURsbjl0WDVuVjZyTndxMVppRGI3YUJFdW96TC1VS3BDb0RTOHVoMVNmWG96MlVxSUJkOHBoaV9FdjRfZFFMeDVtV3EwM01idVVITjV6WU53MXNRc21WV0piSG1naTdxRWcxWlFlLU5ncy1ZeHZLSl9HcGxsTkpteFZKRFVOLXk?oc=5",
-      "source": "Nexo Jornal",
-      "publishedAt": "2026-09-17T02:15:39Z",
-      "description": "União Europeia, Rússia e China apresentam modelos concorrentes de reafirmação da autoridade estatal diante do aumento da autonomia de empresas de tecnologia e da interdependência internacional",
-      "image": "https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/09/pexels-cookiecutter-17489157-640x399.webp",
-      "articleUrl": "https://www.nexojornal.com.br/ensaio/2026/09/16/o-que-e-soberania-digital-autonomia-lideranca-tecnologica"
+      "title": "UE vai ter reserva de matérias-primas críticas face à dependência da China - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFZaYmVMVHhnczV0MjVNLVJPb3BtcDdyQzlTRFpCemNpM21hNDVXMy1LM0FkODdCNmJwN2kyQlBycTlUOHlyVEZzd1dEVmhzc2RNdVVkWXFfX21LakdrZ1ZKcGYwNXZaTkJSTHpjVnNsclVWNktWMXpBOVVRRTJGWWpQUGV1S2dtYk0yak5qRkM1M3Z2YzZKZnpFcVlaeUZVUExLZ3lfc0ZwRTFVTVV3WHlaN2djQ0ViVGxPbVFB?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-16T10:25:00Z",
+      "description": "A União Europeia (UE) vai ter uma nova Corporação Europeia para as Matérias-Primas Críticas, como terras raras e magnésio, para garantir o aprovisionamento e a constituição de reservas face à forte dependência da China, foi hoje anunciado.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoDOC.20260703.47399685.13083059_rUMOsnv.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/app/2026/9/16/505611-ue-vai-ter-reserva-de-materias-primas-criticas-face-a-dependencia-da-china/"
     },
     {
       "title": "Von der Leyen avalia estado da União perante um ouvinte inesperado: Mark Carney - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNheTFLaWZoWC1haFh2ZFRMZTdKZ3A0VWVmYW1xakhla1YwdEgwaklyMkhwX1dmVW5BWGNYMVNrZDJUVlRsdTEtSHZlX1hMeFRObURxVWV1Si1vaXlVWVdNSXJ1bVpZNnRtVHFKOVJyTmNROHc4UTNKN2I1QVJ1X0ptd1BuYlNhcUNMUkNLMzZINW1obzFYYndEV2lua2ppb2R6alhVYmF0Z1BIZjJXQ0gxNllrVmxUdDQ0bg?oc=5",
       "source": "Jornal Económico",
       "publishedAt": "2026-09-16T05:05:00Z",
-      "description": "Notícia publicada por Jornal Económico. Abra o artigo para consultar os detalhes completos.",
+      "description": "No seu sexto discurso sobre o bloco, o primeiro para o qual foi convidado um chefe de governo externo à União, a presidente da Comissão tem temas ‘obrigatórios’: a Ucrânia, a dependência energética, a IA ou a imigração são alguns deles.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/02/ursula-von-der-leyen-1024x603.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-avalia-estado-da-uniao-perante-um-ouvinte-inesperado-mark-carney/"
+    },
+    {
+      "title": "Do que falamos quando falamos de soberania digital - Nexo Jornal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnJTZG1ESVlQR1lzQXlOLVg2QVFqRklab05tY3pBLWNUMURsbjl0WDVuVjZyTndxMVppRGI3YUJFdW96TC1VS3BDb0RTOHVoMVNmWG96MlVxSUJkOHBoaV9FdjRfZFFMeDVtV3EwM01idVVITjV6WU53MXNRc21WV0piSG1naTdxRWcxWlFlLU5ncy1ZeHZLSl9HcGxsTkpteFZKRFVOLXk?oc=5",
+      "source": "Nexo Jornal",
+      "publishedAt": "2026-09-17T02:15:39Z",
+      "description": "Notícia publicada por Nexo Jornal. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - pt.euronews.com",
+      "title": "Vídeo. Estados Unidos ameaçam UE com retaliação por preferência europeia no orçamento comunitário - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE9XdDJZR3R5VXVsNlg4UFh2M1hNYU9XemVhSy1XSlBCUmJLc181eldVbjJWLWIwSG5kcldvZVhaZDJ4anNwa0hzU2hrem54UDlZenlyckJGMWI3UXRRaF96OXNVVURzN19JQ1VfX0R6TENhOW10d3BDQ1pSY2NobE8yWHJOTVVrZlFQYUE0M0VTTnJQdXp3UGRVb1g2dktiS0J3Y25Jd2wzamJfU1lKNE1hbnlRcXJHd293WEZZbmgwY3J1SjZocTdvUQ?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-15T16:38:32Z",
-      "description": "Notícia publicada por pt.euronews.com. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por Euronews.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
