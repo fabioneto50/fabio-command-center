@@ -1,5 +1,6 @@
-"""Read-only visual/interaction check of the deployed GitHub Pages release.
-Fresh isolated browser contexts. No personal vault creation, data writes or clinical edits.
+"""Visual/interaction check of the deployed GitHub Pages release.
+Fresh isolated browser contexts. Only public theme preferences are changed in these
+throwaway contexts; no personal vault, private records, server edits or clinical changes.
 """
 import json, os, traceback
 from pathlib import Path
@@ -7,7 +8,7 @@ from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'audit-evidence';OUT.mkdir(exist_ok=True)
 BASE='https://fabioneto50.github.io/fabio-command-center/'
 BUILD=json.loads((ROOT/'asset-manifest.json').read_text())['build']
-report={'commit':os.environ.get('GITHUB_SHA','local'),'url':BASE,'expectedBuild':BUILD,'method':'Published HTTPS website, fresh Chromium and WebKit contexts; no owner profile or personal data','checks':[]}
+report={'commit':os.environ.get('GITHUB_SHA','local'),'url':BASE,'expectedBuild':BUILD,'method':'Published HTTPS website, fresh Chromium and WebKit contexts; explicit theme choices through visible settings controls; no owner profile or private data','checks':[]}
 def check(name,ok,detail=None):
  report['checks'].append({'name':name,'pass':bool(ok),'detail':detail})
  if not ok:raise AssertionError(name+': '+str(detail))
@@ -15,6 +16,16 @@ def ready(p):p.wait_for_function("window.FCCAppReady===true&&[...document.queryS
 def area(p,name):
  p.locator('nav.side [data-page='+name+']').click();p.wait_for_function('(a)=>FCCNavigation.current()===a&&!FCCNavigation.route().sub',arg=name)
  if name in ['clinical','personal']:p.locator('#fccArea-'+name).wait_for(state='visible')
+def rendered_theme(p,theme,name):
+ state=p.evaluate("()=>({theme:document.documentElement.dataset.fccTheme,scheme:getComputedStyle(document.documentElement).colorScheme,background:getComputedStyle(document.body).backgroundColor})")
+ check(name+' rendered '+theme+' theme',state['theme']==theme and theme in state['scheme'],state)
+def choose_theme(p,theme,tag):
+ # Calling fccSetTheme(t,false) is an automatic-mode primitive, not a manual
+ # preference: the scheduled synchronizer may legitimately overwrite it.
+ # Exercise the same explicit choice a user makes and assert its persistence.
+ area(p,'settings');p.locator('[data-fcc-theme-choice="'+theme+'"]').click()
+ p.wait_for_function("""(t)=>{const o=JSON.parse(FCCStore.getItem('fcc-theme-manual-until-v2')||'null');return document.documentElement.dataset.fccTheme===t&&o?.theme===t&&o.until>Date.now();}""",arg=theme)
+ rendered_theme(p,theme,tag+' manual choice')
 try:
  with sync_playwright() as pw:
   for engine in ['chromium','webkit']:
@@ -27,11 +38,12 @@ try:
      check(tag+' exact asset build',BUILD in p.evaluate('FCC_ASSET_BASE'))
      check(tag+' five site destinations',p.locator('nav.side .nav').evaluate_all('es=>es.map(x=>x.dataset.page)')==['home','clinical','personal','favorites','settings'])
      for theme in ['light','dark']:
-      p.evaluate('(t)=>fccSetTheme(t,false)',theme)
+      choose_theme(p,theme,tag)
       area(p,'home');p.wait_for_function('window.FCCNews&&!FCCNews.status().loading',timeout=20000)
       pages=p.locator('.home-news-dot')
       check(tag+' '+theme+' current news has numbered navigation',pages.count()>0)
       check(tag+' '+theme+' no number overlay',pages.evaluate_all("es=>es.every(x=>['none','normal'].includes(getComputedStyle(x,'::before').content)&&['none','normal'].includes(getComputedStyle(x,'::after').content)&&/^\\d+$/.test(x.textContent.trim()))"))
+      rendered_theme(p,theme,tag+' pagination')
       pager=p.locator('#homeHealthNewsList .home-news-dots');pager.screenshot(path=str(OUT/(tag+'-pagination-'+theme+'.png')))
       last=pager.locator('button').last;number=last.text_content().strip();last.click()
       p.wait_for_function("(n)=>document.querySelector('#homeHealthNewsList [aria-current=page]')?.textContent.trim()===n",arg=number)
@@ -39,11 +51,13 @@ try:
       area(p,'clinical')
       check(tag+' '+theme+' clinical overview no subgroup',not p.evaluate('!!FCCUI.active()') and p.locator('#page-clinical>.sub.active').count()==0)
       check(tag+' '+theme+' clinical header and cards',p.locator('#page-clinical>.pagehead .fcc-area-head-actions button').count()==2 and p.locator('#fccArea-clinical .fcc-area-card').count()==24)
+      rendered_theme(p,theme,tag+' clinical library')
       p.screenshot(path=str(OUT/(tag+'-clinical-'+theme+'.png')),animations='disabled')
       area(p,'personal')
       check(tag+' '+theme+' public locked overview without modal',not p.evaluate('!!FCCUI.active()') and not p.evaluate('FCCAccess.isUnlocked()') and p.locator('#fccArea-personal .fcc-area-card').count()==6)
       check(tag+' '+theme+' personal search filters and stars',p.locator('#fccArea-personal input').is_visible() and p.locator('#fccArea-personal [data-area-filter]').count()==4 and p.locator('#fccArea-personal .fcc-library-star').count()==6)
       check(tag+' '+theme+' private state remains inaccessible',p.evaluate("FCCStore.getItem('fcc-personal-favorites-v1')===null&&FCCStore.getItem('fcc-master-user-data-v1')===null"))
+      rendered_theme(p,theme,tag+' personal library')
       p.screenshot(path=str(OUT/(tag+'-personal-'+theme+'.png')),animations='disabled')
       p.locator('#fccArea-personal [data-area-target=notes]').click();p.locator('#fccVaultDialog').wait_for(state='visible')
       check(tag+' '+theme+' private notes still require explicit unlock',not p.locator('#em-notes').is_visible() and not p.evaluate('FCCAccess.isUnlocked()'))
@@ -52,6 +66,7 @@ try:
       card=p.locator('#perfDilutionGrid>.ccd-doc-card:has(.cuf2213-route):visible').first;card.locator(':scope>.ccd-doc-top').click();route=card.locator('.cuf2213-route').first;route.wait_for(state='visible')
       m=route.evaluate("e=>{const o=e.querySelector('.ccd-doc-grid-wide .ccd-doc-field');return {heading:parseFloat(getComputedStyle(e.querySelector('.cuf-route-title')).fontSize),labels:[...e.querySelectorAll('.ccd-doc-section')].map(x=>parseFloat(getComputedStyle(x).fontSize)),ratio:o.getBoundingClientRect().width/o.parentElement.getBoundingClientRect().width,empty:e.querySelectorAll('.ccd-doc-grid>div:empty').length}}")
       check(tag+' '+theme+' antibiotic card readable and full width',m['heading']>=16 and min(m['labels'])>=14 and m['ratio']>.98 and m['empty']==0,m)
+      rendered_theme(p,theme,tag+' antibiotic card')
       route.screenshot(path=str(OUT/(tag+'-antibiotics-'+theme+'.png')),animations='disabled');card.locator(':scope>.ccd-doc-top').click()
       check(tag+' '+theme+' no document overflow',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
      check(tag+' no private vault or data created',p.evaluate('!FCCStore.status().configured&&!FCCAccess.isUnlocked()'))
