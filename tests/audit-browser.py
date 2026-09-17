@@ -106,7 +106,14 @@ def test_context(pw,name,width,height):
   page.evaluate("""async()=>{const snap=FCCStore.snapshot();snap.records['fcc-master-content-pack-v1']=JSON.stringify({type:'fcc-content-pack',schema:1,version:'synthetic',checklists:{icu:[['<img src=x onerror=window.syntheticXSS=1>','Text']],transport:[['Test','Text']]}});await FCCStore.transaction(snap);FCCAccess.refreshState();}""")
   nav(page,'clin-icu');check(prefix+' imported text cannot execute HTML',page.evaluate("!window.syntheticXSS && document.getElementById('icuChecklist').textContent.includes('<img') && !document.querySelector('#icuChecklist img')"))
   await_restore=page.evaluate("async()=>{await FCCStore.restorePrevious();FCCAccess.refreshState();return true}");check(prefix+' undo imported pack',await_restore)
-  page.evaluate('FCCAccess.lock()');check(prefix+' lock removes private DOM',page.evaluate("!document.body.textContent.includes('SYNTHETIC SECRET')&&!FCCAccess.isUnlocked()"));check(prefix+' private route cannot bypass guard',page.evaluate("async()=>{await fccNavigate('expenses',{bypassGuard:true});return FCCNavigation.current()==='personal'&&!FCCNavigation.route().sub&&!FCCAccess.isUnlocked()&&!document.getElementById('fccVaultDialog').hidden;}"));page.keyboard.press('Escape')
+  page.evaluate('FCCAccess.lock()')
+  check(prefix+' lock removes private DOM',page.evaluate("!document.body.textContent.includes('SYNTHETIC SECRET')&&!FCCAccess.isUnlocked()"))
+  # Locking while viewing a PUBLIC clinical tool preserves that public route.
+  # Rejection must not navigate to a private page or reveal private records.
+  before_guard=page.evaluate('JSON.stringify(FCCNavigation.route())')
+  denied=page.evaluate("""async(before)=>{const result=await fccNavigate('expenses',{bypassGuard:true});return {denied:result===false,sameRoute:JSON.stringify(FCCNavigation.route())===before,locked:!FCCAccess.isUnlocked(),dialogOpen:FCCUI.active()?.id==='fccVaultDialog'&&!document.getElementById('fccVaultDialog').hidden,privatePageVisible:!!document.querySelector('#page-expenses.active'),privateDataAbsent:FCCStore.getItem('fcc-master-expenses-v1')===null&&!document.body.textContent.includes('SYNTHETIC SECRET')};}""",before_guard)
+  check(prefix+' private route cannot bypass guard',denied['denied'] and denied['sameRoute'] and denied['locked'] and denied['dialogOpen'] and not denied['privatePageVisible'] and denied['privateDataAbsent'],denied)
+  page.keyboard.press('Escape')
   check(prefix+' module loader private access guarded',page.evaluate("async()=>{try{await FCCModules.ensure('expenses');return false}catch{return true}}"))
   # Back/forward, same-route reload and theme/reflow verification.
   nav(page,'clin-vent');nav(page,'clin-drugs');page.go_back();page.wait_for_function("FCCNavigation.route().sub==='clin-vent'",timeout=10000);check(prefix+' browser back restores module',page.locator('#clin-vent').is_visible());page.reload(wait_until='domcontentloaded');wait_ready(page);check(prefix+' deep link restored after reload',page.evaluate("FCCNavigation.route().sub==='clin-vent'"))

@@ -42,7 +42,11 @@ try:
       check(tag+' '+kind+' no dot overlay and usable targets',all(x['before'] in ['none','normal'] and x['after'] in ['none','normal'] and x['w']>=44 and x['h']>=44 for x in sizes),sizes)
       first=root.locator('.home-news-item h4').first.inner_text();buttons.last.click()
       p.wait_for_function("([id,n])=>document.querySelector('#'+id+' .home-news-dot[aria-current=page]')?.textContent.trim()===String(n)",arg=[root_id,count])
-      check(tag+' '+kind+' selected page updates content',root.locator('.home-news-dot[aria-current=page]').inner_text()==str(count) and root.locator('.home-news-item h4').first.inner_text()!=first)
+      # WebKit may insert a line break around a grid child's innerText.
+      # Compare exact article and page state atomically, using trimmed textContent.
+      expected_title=f'Notícia sintética {kind} {(count-1)*(1 if width<721 else 2)+1}'
+      state=root.evaluate("e=>({page:e.querySelector('.home-news-dot[aria-current=page]')?.textContent.trim(),title:e.querySelector('.home-news-item h4')?.textContent.trim()})")
+      check(tag+' '+kind+' selected page updates content',state['page']==str(count) and state['title']==expected_title and state['title']!=first.strip(),state)
       check(tag+' '+kind+' one selected page',root.locator('[aria-current=page]').count()==1)
       colors=root.locator('[aria-current=page]').evaluate("e=>({bg:getComputedStyle(e).backgroundColor,fg:getComputedStyle(e).color,other:getComputedStyle(e.parentElement.firstElementChild).backgroundColor})")
       check(tag+' '+kind+' active style distinct',colors['bg']!=colors['other'] and colors['fg']!=colors['bg'],colors)
