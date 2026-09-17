@@ -48,7 +48,9 @@ jobs:
         run: python tests/audit-browser.py
       - name: Header measurements and interaction checks
         if: ${{ !cancelled() }}
-        run: python tests/audit-compact.py
+        run: |
+          python tests/audit-compact.py
+          python tests/audit-compact-interactions.py
       - name: Preserve source and evidence
         if: always()
         run: git archive --format=zip HEAD -o audit-evidence/tested-source.zip
