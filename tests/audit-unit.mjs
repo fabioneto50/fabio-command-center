@@ -80,3 +80,24 @@ test('QA01 displayed self diagnostics call same production functions',()=>assert
 // Ordinary editor writes must obey the same schema as restored backups.
 test('DAT02 invalid ordinary private write cannot poison the vault',async()=>{const{s,storage}=make();await s.create(P);await s.setItem(USER,JSON.stringify(data));const raw=storage.getItem(s.keys.vault),before=s.getItem(USER);assert.throws(()=>s.setItem(USER,'{"people":"invalid"}'),/Lista inválida/);assert.equal(s.getItem(USER),before);assert.equal(storage.getItem(s.keys.vault),raw);await s.lock();await s.unlock(P);assert.deepEqual(JSON.parse(s.getItem(USER)),data);});
 test('DAT02 malformed public preference cannot poison a complete backup',async()=>{const{s,storage}=make();await s.create(P);assert.throws(()=>s.setItem('fcc-ui-preferences-v2','[]'),/Estrutura inválida/);assert.equal(storage.getItem('fcc-ui-preferences-v2'),null);assert.equal((await s.exportBackup()).type,'fcc-complete-backup');});
+
+// Library personal favorites: encrypted storage and strict destinations.
+
+const PERSONAL_FAV='fcc-personal-favorites-v1';
+const personalFav={version:1,favorites:[{page:'expenses',sub:'',ref:'',title:'Despesas'},{page:'emergency',sub:'em-notes',ref:'',title:'Notas'}]};
+test('LIB01 personal favorites are private and survive complete backup restore',async()=>{
+ const {s,storage}=make();await s.create(P);await s.setItem(PERSONAL_FAV,JSON.stringify(personalFav));
+ assert.equal(storage.getItem(PERSONAL_FAV),null);assert.ok(!storage.getItem(s.keys.vault).includes('Despesas'));
+ const backup=await s.exportBackup();await s.lock();assert.equal(s.getItem(PERSONAL_FAV),null);await s.unlock(P);
+ assert.deepEqual(JSON.parse(s.getItem(PERSONAL_FAV)),personalFav);
+ const target=make();await target.s.create(P+' destino');const snapshot=await target.s.readBackup(backup,P);await target.s.transaction(snapshot);
+ assert.deepEqual(JSON.parse(target.s.getItem(PERSONAL_FAV)),personalFav);assert.equal(target.storage.getItem(PERSONAL_FAV),null);
+});
+for(const bad of [
+ {version:2,favorites:[]}, {version:1,favorites:'no'},
+ {version:1,favorites:[{page:'clinical',sub:'clin-drugs',title:'Wrong scope'}]},
+ {version:1,favorites:[{page:'expenses',sub:'em-notes',title:'Wrong route'}]},
+ {version:1,favorites:[{page:'expenses',title:'No data',notes:'must not be here'}]},
+ {version:1,favorites:[personalFav.favorites[0],personalFav.favorites[0]]}
+])test('LIB02 reject malformed private favorites '+JSON.stringify(bad),()=>assert.throws(()=>make().s.validateSnapshot({schemaVersion:2,records:{[PERSONAL_FAV]:JSON.stringify(bad)}})));
+

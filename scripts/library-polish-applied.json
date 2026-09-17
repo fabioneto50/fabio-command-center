@@ -1,0 +1,22 @@
+{
+  "sourceTransferSha256": "9e6533f531f2b1d9dd2ccbe48bac12d51d1a408a5f0c66f75e2057f8fd225d74",
+  "files": {
+    "build-info.json": "04cfd5b15ad3a3e7962c3098309c7c29aa95376d95a136a3101174895df3f0c9",
+    "dilutions-cuf-v6.js": "ac86c0310741962a9ed94d0c2c654734434933d39c1da7d7ed9710e534eef7ef",
+    "fcc-areas.js": "ee50d7809133ab852a01e126e9129713739176aecac4d7958893812409260a8c",
+    "fcc-design.css": "1540c67d65afc9dd26384836718327b6f8f9af769adaf05a306db828e5df3f51",
+    "fcc-favorites.js": "9b84a2649b98900e312c8c0b083fd8d8cc96cd7cb7851bac2a7158894ef217a8",
+    "fcc-navigation.js": "28c8f2fef2d1352af86f6e10287ae087de801e04fb34f11d275a5847de497317",
+    "fcc-personal.js": "dea235b488adafda97a0f2089afc06739be974e48eb88a49b9bfa69cb4bb258d",
+    "fcc-store.js": "3da9027fc00719a868089277db8dfa0526c1241bc19bb851ddf337cae0f72151",
+    "fcc-ui.css": "0bec89eff1dff481b2cbe3ba67c215adc24085501f970894cb9945ae952760d8",
+    "home-current-news-v1.js": "6b172257ce7a64c94c873ec4869cd1e49dc0cb4159793098ab1d90a638be2c93",
+    "personal-security-v1.js": "61df8c17a7fe2e2a4d3ba444628e8d893ffeb6e9f3b901f2db1b9afea040fe0e",
+    "tests/audit-browser.py": "d391dc3979de50b60afc48335db1f4678cd50ad1b70ab0b0583f8cff5147f86a",
+    "tests/audit-design.py": "fd3a1da710b248b0dbc2a502c5decb642823d55207ecaa7e4e9c17d33e043947",
+    "tests/audit-library.py": "fb82c398abb2be388cfe18c9002a11c87360b51b38ccd8ead0b07426508e647d",
+    "tests/audit-unit.mjs": "c966b3e343e7442e31029701632bae442caef405e6fa60b1f964ec47d0cbf103",
+    "tests/audit-polish.py": "953e4bc263ce784e1a6610ab5b2b47c6db8351935894044745228ec11b1f5142"
+  },
+  "note": "Initial readable source migration complete; later changes tracked normally in Git."
+}
