@@ -1,36 +1,25 @@
-"""Apply the exact reviewed UI sources, never user data. Idempotent, checksum verified."""
+"""Post-review refinements of already committed readable source. No network or user data."""
 from pathlib import Path
-import gzip, hashlib, json
+import json
 root=Path(__file__).resolve().parents[1]
-packed=(root/'scripts/library-polish-source.json.gz').read_bytes()
-assert len(packed)==11867 and hashlib.sha256(packed).hexdigest()=='9e6533f531f2b1d9dd2ccbe48bac12d51d1a408a5f0c66f75e2057f8fd225d74'
-raw=gzip.decompress(packed);assert len(raw)==34635
-changes=json.loads(raw)
-allowed={'build-info.json','dilutions-cuf-v6.js','fcc-areas.js','fcc-design.css','fcc-favorites.js','fcc-navigation.js','fcc-personal.js','fcc-store.js','fcc-ui.css','home-current-news-v1.js','personal-security-v1.js','tests/audit-browser.py','tests/audit-design.py','tests/audit-library.py','tests/audit-unit.mjs','tests/audit-polish.py'}
-assert set(changes)==allowed
-marker=root/'scripts/library-polish-applied.json'
-if marker.exists():
-    assert json.loads(marker.read_text())['sourceTransferSha256']==hashlib.sha256(packed).hexdigest()
-    print('Reviewed source migration already applied; subsequent source corrections are preserved.')
-else:
-    pending={}
-    for name,item in changes.items():
-        target=root/name
-        base=target.read_text() if target.exists() else ''
-        if hashlib.sha256(base.encode()).hexdigest()==item['sha256']:continue
-        if 'parts' in item:
-            assert hashlib.sha256(base.encode()).hexdigest()==item['baseSha256'],name+' changed; reconcile before applying'
-            parts=[]
-            for part in item['parts']:
-                if isinstance(part,list):
-                    a,b=part;assert isinstance(a,int) and isinstance(b,int) and 0<=a<=b<=len(base)
-                    parts.append(base[a:b])
-                else:assert isinstance(part,str);parts.append(part)
-            content=''.join(parts)
-        else:content=item['content']
-        assert hashlib.sha256(content.encode()).hexdigest()==item['sha256'],name+' output checksum'
-        pending[target]=content
-    for target,content in pending.items():
-        target.parent.mkdir(parents=True,exist_ok=True);target.write_text(content)
-    marker.write_text(json.dumps({'sourceTransferSha256':hashlib.sha256(packed).hexdigest(),'files':{name:item['sha256'] for name,item in changes.items()},'note':'Initial readable source migration complete; later changes tracked normally in Git.'},indent=2))
-    print('Applied',len(pending),'verified readable source files. No clinical records were rewritten.')
+assert json.loads((root/'scripts/library-polish-applied.json').read_text())['sourceTransferSha256']=='9e6533f531f2b1d9dd2ccbe48bac12d51d1a408a5f0c66f75e2057f8fd225d74'
+def edit(name,old,new):
+    path=root/name;s=path.read_text()
+    if old not in s:
+        assert new in s,(name,'source changed; reconcile before editing')
+        return
+    assert s.count(old)==1,(name,'ambiguous replacement')
+    path.write_text(s.replace(old,new,1))
+# Restrict overview chrome to the two requested areas. Other page badges carry live data IDs.
+edit('fcc-areas.js','function header(page){\n  const root=host(page)',"function header(page){\n  if(!['clinical','personal'].includes(page))return;\n  const root=host(page)")
+# Remove actual empty columns, not their surrounding clinical content.
+for key in ['reconstitution_stability','dilution_stability']:
+    edit('dilutions-cuf-v6.js',"${field('Estabilidade',r."+key+")}<div></div>","${field('Estabilidade',r."+key+")}")
+# A click is asynchronous in WebKit; assert the resulting state after the event has run.
+edit('tests/audit-polish.py',"first=root.locator('.home-news-item h4').first.inner_text();buttons.last.click()", "first=root.locator('.home-news-item h4').first.inner_text();buttons.last.click()\n      p.wait_for_function(\"([id,n])=>document.querySelector('#'+id+' .home-news-dot[aria-current=page]')?.textContent.trim()===String(n)\",arg=[root_id,count])")
+# The existing card header is the accessible expand button; its native summary is intentionally hidden.
+edit('tests/audit-polish.py',"card=p.locator('#perfDilutionGrid > .ccd-doc-card:visible').first;card.locator(':scope > details > summary').click();", "card=p.locator('#perfDilutionGrid > .ccd-doc-card:has(.cuf2213-route):visible').first;card.locator(':scope > .ccd-doc-top').click();")
+edit('tests/audit-polish.py',"card.locator(':scope > details > summary').click()", "card.locator(':scope > .ccd-doc-top').click()")
+edit('tests/audit-library.py',"p.locator('#fccVaultSubmit').click();p.wait_for_selector('#fccArea-personal')", "p.locator('#fccVaultSubmit').click();p.wait_for_function('FCCAccess.isUnlocked()&&!FCCUI.active()',timeout=20000);p.wait_for_selector('#fccArea-personal')")
+edit('tests/audit-design.py',"p.wait_for_function(\"FCCAccess.isUnlocked()&&FCCNavigation.current()==='personal'\")", "p.wait_for_function(\"FCCAccess.isUnlocked()&&FCCNavigation.current()==='personal'&&!FCCUI.active()\")")
+print('Scoped card, header and actual user-interaction refinements applied.')
