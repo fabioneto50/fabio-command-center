@@ -29,6 +29,7 @@ jobs:
           if [ -f scripts/apply-medication-reader.py ]; then python scripts/apply-medication-reader.py; fi
           if [ -f scripts/refine-medication-reader.py ]; then python scripts/refine-medication-reader.py; fi
           python scripts/compact-medication-density.py
+          python scripts/refine-density-layout.py
           node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
           node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
           python scripts/audit-integrity.py
@@ -38,7 +39,7 @@ jobs:
           git add -A
           test -z "$(git diff --cached --name-only -- .github/)"
           if ! git diff --cached --quiet; then
-            git commit -m 'Build compact medication records with simultaneous route comparison'
+            git commit -m 'Refine compact reading typography and preserve focus during rapid search changes'
             git push origin HEAD:medication-reader-2026-09-18
           fi
           git rev-parse HEAD > audit-evidence/tested-source-commit.txt
