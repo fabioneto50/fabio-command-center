@@ -40,8 +40,12 @@ try:
      for theme in ['light','dark']:
       nav(p,page='settings');p.locator('#fccThemeSettings [data-fcc-theme-choice='+theme+']').click();p.wait_for_function('(t)=>document.documentElement.dataset.fccTheme===t',arg=theme)
       nav(p,'clin-perf');p.wait_for_selector('#perfDilutionSearch')
+      p.wait_for_function("document.querySelectorAll('#perfDilutionGrid>[data-fcc-record-id]:not([data-cuf-superseded=\"1\"])').length>50")
+      p.wait_for_timeout(100)
       ids=p.locator('#perfDilutionGrid>[data-fcc-record-id]:not([data-cuf-superseded="1"])').evaluate_all('es=>es.map(x=>x.dataset.fccRecordId)')
-      check(tag+theme+' unique public record identities',len(ids)>50 and len(ids)==len(set(ids)))
+      check(tag+theme+' unique public record identities',len(ids)>50 and len(ids)==len(set(ids)),{'count':len(ids),'unique':len(set(ids)),'duplicates':[x for x in set(ids) if ids.count(x)>1]})
+      p.wait_for_timeout(150)
+      check(tag+theme+' institutional enhancement is stable',p.locator('#perfDilutionGrid>[data-fcc-record-id]:not([data-cuf-superseded=\"1\"])').count()==len(ids))
       for q in ['Amiodarona','amoxicilina']:
        p.locator('#perfDilutionSearch').fill(q);p.wait_for_timeout(350)
        card=p.locator('#perfDilutionGrid>.ccd-doc-card:not([data-cuf-superseded="1"]):visible').first
