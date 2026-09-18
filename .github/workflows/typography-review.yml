@@ -1,0 +1,54 @@
+name: Typography review
+on:
+  push:
+    branches: [fix-typography-2026-09-18]
+    paths: [tests/audit-typography.py, tests/check-typography.cjs, .github/workflows/typography-review.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: typography-review
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run: {shell: bash}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with: {fetch-depth: 0, persist-credentials: false}
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with: {node-version: '22'}
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with: {python-version: '3.11'}
+      - name: Verify committed source without applying migrations or writing to the branch
+        run: |
+          set -euo pipefail
+          mkdir -p audit-evidence
+          node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
+          node --test tests/audit-unit.mjs > audit-evidence/unit-tests.txt
+          python scripts/audit-integrity.py
+          node tests/check-typography.cjs
+          git diff --exit-code -- data/ fcc-core.js fcc-store.js fcc-clinical-ui.js index.html asset-manifest.json service-worker.js build-info.json release/
+          git rev-parse HEAD > audit-evidence/tested-source-commit.txt
+      - name: Install browsers
+        run: |
+          python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
+          python -m playwright install --with-deps chromium webkit
+      - name: General functional regression
+        run: python tests/audit-browser.py
+      - name: Typography in all local areas and details
+        if: ${{ !cancelled() }}
+        run: |
+          export FCC_TYPO_STAGE=candidate
+          python tests/audit-typography.py
+      - name: Preserve exact source and evidence without repository writes
+        if: always()
+        run: git archive --format=zip HEAD -o audit-evidence/tested-source.zip
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: typography-evidence-${{ github.sha }}
+          path: audit-evidence/
+          retention-days: 30
