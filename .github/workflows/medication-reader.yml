@@ -28,6 +28,7 @@ jobs:
           mkdir -p audit-evidence
           if [ -f scripts/apply-medication-reader.py ]; then python scripts/apply-medication-reader.py; fi
           if [ -f scripts/refine-medication-reader.py ]; then python scripts/refine-medication-reader.py; fi
+          python scripts/compact-medication-density.py
           node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
           node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
           python scripts/audit-integrity.py
@@ -37,7 +38,7 @@ jobs:
           git add -A
           test -z "$(git diff --cached --name-only -- .github/)"
           if ! git diff --cached --quiet; then
-            git commit -m 'Build dedicated medication reading view'
+            git commit -m 'Build compact medication records with simultaneous route comparison'
             git push origin HEAD:medication-reader-2026-09-18
           fi
           git rev-parse HEAD > audit-evidence/tested-source-commit.txt
@@ -49,9 +50,10 @@ jobs:
         run: python tests/audit-browser.py
       - name: Record layout and return navigation
         if: ${{ !cancelled() }}
-        run: |
-          set -euo pipefail
-          if [ -f tests/audit-record-view.py ]; then python tests/audit-record-view.py; else python tests/audit-compact.py; fi
+        run: python tests/audit-record-view.py
+      - name: Compact content, all presentations and single-screen measurements
+        if: ${{ !cancelled() }}
+        run: python tests/audit-density.py
       - name: Preserve tested source
         if: always()
         run: git archive --format=zip HEAD -o audit-evidence/tested-source.zip
