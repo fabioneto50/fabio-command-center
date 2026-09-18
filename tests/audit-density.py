@@ -9,7 +9,7 @@ ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'audit-evidence';OUT.mkdir(exi
 LIVE=os.environ.get('FCC_DENSITY_LIVE')=='1'
 BASE='https://fabioneto50.github.io/fabio-command-center/' if LIVE else 'http://127.0.0.1:4183/'
 BUILD=json.loads((ROOT/'asset-manifest.json').read_text())['build']
-report={'commit':os.environ.get('GITHUB_SHA','local'),'build':BUILD,'live':LIVE,'checks':[],'measurements':[],'coverage':[], 'limits':'CSS pixels in software engines, not physical iPhone. Single screen includes all clinical fields but not an expanded reference disclosure. Long records can still scroll.'}
+report={'commit':os.environ.get('GITHUB_SHA','local'),'build':BUILD,'live':LIVE,'checks':[],'measurements':[],'coverage':[], 'limits':'CSS pixels in software engines, not physical iPhone. Measurements include the default reading view, with references and optional institutional disclosures closed. Catalogue census waits for asynchronous stability/high-alert supplements. Long records can still scroll.'}
 class Quiet(http.server.SimpleHTTPRequestHandler):
  def log_message(self,*args):pass
 class Server(socketserver.ThreadingTCPServer):allow_reuse_address=True
@@ -70,11 +70,15 @@ try:
       p.set_viewport_size({'width':width,'height':height});p.locator('#fccMedBack').click();check(tag+theme+' catalogue back',p.locator('#med4Search').input_value()=='amiodarona')
      if width>=1000 and not LIVE:
       nav(p,'clin-perf');p.locator('#perfDilutionSearch').fill('');p.wait_for_timeout(500)
-      survey=p.evaluate("""()=>{const cards=[...document.querySelectorAll('#perfDilutionGrid>.ccd-doc-card')].filter(x=>x.dataset.cufSuperseded!=='1');return cards.map(c=>{FCCDilutionView.open(c,{route:false,focus:false});const b=c.getBoundingClientRect().bottom+scrollY;return {name:c.querySelector('h3').textContent,bottom:b,routes:c.querySelectorAll('.ccd-doc-route').length,fits:b<=innerHeight};});}""")
+      survey=p.evaluate("""async()=>{const cards=[...document.querySelectorAll('#perfDilutionGrid>.ccd-doc-card')].filter(x=>x.dataset.cufSuperseded!=='1'),out=[];for(const c of cards){FCCDilutionView.open(c,{route:false,focus:false});await new Promise(r=>setTimeout(r,0));const b=c.getBoundingClientRect().bottom+scrollY;out.push({name:c.querySelector('h3').textContent,bottom:b,routes:c.querySelectorAll('.ccd-doc-route').length,fits:b<=innerHeight});}return out;}""")
       report['coverage'].append({'browser':engine,'kind':'preparation','width':width,'height':height,'total':len(survey),'fits':sum(x['fits'] for x in survey),'longest':sorted(survey,key=lambda x:x['bottom'],reverse=True)[:5]})
       nav(p,'clin-drugs');p.wait_for_selector('#med4Search')
-      survey=p.evaluate("""()=>FCCMedications.get().map(r=>{FCCMedications.show(r.n,{route:false,focus:false});const e=document.querySelector('#med4Results article'),b=e.getBoundingClientRect().bottom+scrollY;return {name:r.n,bottom:b,fits:b<=innerHeight};})""")
-      report['coverage'].append({'browser':engine,'kind':'catalogue','width':width,'height':height,'total':len(survey),'fits':sum(x['fits'] for x in survey),'longest':sorted(survey,key=lambda x:x['bottom'],reverse=True)[:5]})
+      # A synchronous .map measures before MutationObservers can append institutional panels.
+      # Load the optional safety module and yield after each render to measure the final DOM.
+      p.evaluate("FCCModules.ensure('safety')")
+      survey=p.evaluate("""async()=>{const out=[];await new Promise(r=>setTimeout(r,150));for(const r of FCCMedications.get()){FCCMedications.show(r.n,{route:false,focus:false});await new Promise(done=>setTimeout(done,0));const e=document.querySelector('#med4Results article'),b=e.getBoundingClientRect().bottom+scrollY;out.push({name:r.n,bottom:b,fits:b<=innerHeight,supplements:e.querySelectorAll('.cuf-stab-panel,.cuf-highalert-panel').length});}return out;}""")
+      check(tag+' catalogue census includes asynchronous institutional panels',any(x['supplements']>0 for x in survey))
+      report['coverage'].append({'browser':engine,'kind':'catalogue','width':width,'height':height,'total':len(survey),'fits':sum(x['fits'] for x in survey),'withInstitutionalPanels':sum(x['supplements']>0 for x in survey),'longest':sorted(survey,key=lambda x:x['bottom'],reverse=True)[:5]})
      check(tag+' no unhandled error',not errors,errors)
      check(tag+' no private vault created',not p.evaluate('FCCStore.status().configured'))
     except Exception as e:
