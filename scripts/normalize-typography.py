@@ -68,6 +68,21 @@ html[data-fcc-design] body .page .fcc-detail-warning>strong{font-size:.875rem!im
  html[data-fcc-design] body .ivsrc-head{gap:6px}
 }
 '''
+label_marker='/* Safety-label reflow at the readable type scale. */'
+if label_marker not in text:
+ text+='''
+/* Safety-label reflow at the readable type scale. */
+html[data-fcc-design] body .cuf-symbol-card{grid-template-columns:132px minmax(0,1fr);gap:12px;align-items:start}
+html[data-fcc-design] body .cuf-symbol-art{min-width:0;width:132px;max-width:100%}
+html[data-fcc-design] body .cuf-sym-yellow{width:132px;max-width:100%;height:auto;padding:7px;line-height:1.3;overflow-wrap:normal;word-break:normal;font-weight:800}
+html[data-fcc-design] body .cuf-sym-yellow small{max-width:100%;line-height:1.35!important;font-weight:800}
+html[data-fcc-design] body .cuf-sym-oct{width:88px;height:82px}
+html[data-fcc-design] body .cuf-sym-tall{width:100%;box-sizing:border-box;overflow-wrap:normal}
+@media(max-width:420px){
+ html[data-fcc-design] body .cuf-symbol-card{grid-template-columns:minmax(0,1fr)}
+ html[data-fcc-design] body .cuf-symbol-art{justify-self:start}
+}
+'''
 p.write_text(text)
 info=ROOT/'build-info.json';meta=json.loads(info.read_text());meta['interfaceRevision']='8 — tipografia legível e consistente em todos os módulos';info.write_text(json.dumps(meta,ensure_ascii=False,indent=2))
 for p,digest in hashes.items():assert hashlib.sha256((ROOT/p).read_bytes()).hexdigest()==digest,p+' must remain unchanged'
