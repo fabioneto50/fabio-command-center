@@ -28,6 +28,7 @@ jobs:
           mkdir -p audit-evidence
           if [ -f scripts/apply-compact-header.py ]; then python scripts/apply-compact-header.py; fi
           if [ -f scripts/refine-compact-header.py ]; then python scripts/refine-compact-header.py; fi
+          python scripts/finish-compact-header.py
           node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
           node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
           python scripts/audit-integrity.py
@@ -37,7 +38,7 @@ jobs:
           git add -A
           test -z "$(git diff --cached --name-only -- .github/)"
           if ! git diff --cached --quiet; then
-            git commit -m 'Build compact module header and medication reading layout'
+            git commit -m 'Build compact reading view with WebKit-safe native dropdowns'
             git push origin HEAD:compact-module-header-2026-09-18
           fi
           git rev-parse HEAD > audit-evidence/tested-source-commit.txt
@@ -50,6 +51,7 @@ jobs:
       - name: Header measurements and interaction checks
         if: ${{ !cancelled() }}
         run: |
+          set -euo pipefail
           python tests/audit-compact.py
           python tests/audit-compact-interactions.py
       - name: Preserve source and evidence
