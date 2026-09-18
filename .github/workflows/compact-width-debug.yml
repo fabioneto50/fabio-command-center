@@ -1,0 +1,57 @@
+name: Diagnose compact width
+on:
+  push:
+    branches: [compact-module-header-2026-09-18]
+    paths: [.github/workflows/compact-width-debug.yml]
+permissions:
+  contents: read
+jobs:
+  measure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with: {persist-credentials: false}
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with: {python-version: '3.11'}
+      - run: |
+          python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
+          python -m playwright install --with-deps chromium webkit
+      - name: Measure actual overflow without hiding page content
+        shell: python
+        run: |
+          import json,functools,http.server,socketserver,threading,traceback
+          from pathlib import Path
+          from playwright.sync_api import sync_playwright
+          root=Path('.').resolve();out=root/'audit-evidence';out.mkdir(exist_ok=True)
+          class H(http.server.SimpleHTTPRequestHandler):
+            def log_message(self,*a):pass
+          class S(socketserver.ThreadingTCPServer):allow_reuse_address=True
+          srv=S(('127.0.0.1',4183),functools.partial(H,directory=str(root)))
+          threading.Thread(target=srv.serve_forever,daemon=True).start()
+          data=[]
+          measure='''()=>{const info=e=>({tag:e.tagName,id:e.id,cls:typeof e.className==='string'?e.className:'SVG',box:e.getBoundingClientRect().toJSON(),client:e.clientWidth,scroll:e.scrollWidth,css:{display:getComputedStyle(e).display,overflow:getComputedStyle(e).overflow,position:getComputedStyle(e).position,minWidth:getComputedStyle(e).minWidth},text:e.textContent.slice(0,120)});const all=[...document.querySelectorAll('body *')];const text=[];for(const e of all){if(!e.getClientRects().length)continue;for(const n of e.childNodes){if(n.nodeType!==3||!n.textContent.trim())continue;const r=document.createRange();r.selectNode(n);const b=r.getBoundingClientRect();if(b.width&&b.right>innerWidth+1)text.push({parent:e.tagName,id:e.id,cls:typeof e.className==='string'?e.className:'SVG',text:n.textContent.slice(0,120),right:b.right});}}return {viewport:innerWidth,scroll:document.documentElement.scrollWidth,body:document.body.scrollWidth,boxes:all.filter(e=>e.getBoundingClientRect().width&&e.getBoundingClientRect().right>innerWidth+1).map(info).slice(0,20),overflow:all.filter(e=>e.clientWidth>0&&e.scrollWidth>e.clientWidth+4).map(info).slice(-30),text:text.slice(0,25)}}'''
+          try:
+            with sync_playwright() as pw:
+              for engine in ['chromium','webkit']:
+                b=getattr(pw,engine).launch();ctx=b.new_context(viewport={'width':390,'height':844},locale='pt-PT');p=ctx.new_page()
+                try:
+                  p.goto('http://127.0.0.1:4183/',wait_until='domcontentloaded');p.wait_for_function('window.FCCAppReady===true',timeout=45000)
+                  p.set_viewport_size({'width':320,'height':844})
+                  for sub in ['clin-perf','clin-drugs','clin-vent','clin-ivcompat','clin-cases']:
+                    p.evaluate('(sub)=>fccNavigate("clinical",{sub,focus:true})',sub)
+                    data.append({'engine':engine,'sub':sub,'phase':'immediate',**p.evaluate(measure)})
+                    p.wait_for_timeout(450)
+                    data.append({'engine':engine,'sub':sub,'phase':'settled',**p.evaluate(measure)})
+                    if sub=='clin-ivcompat':
+                      p.screenshot(path=str(out/(engine+'-iv320.png')))
+                      trials={'hidden-select':'.ivc-native-hidden{clip-path:inset(50%)!important;clip:rect(0,0,0,0)!important;inset:0 auto auto 0!important;min-width:0!important;min-height:0!important;max-width:1px!important;max-height:1px!important;padding:0!important;margin:0!important;border:0!important}', 'grid-minimum':'#clin-ivcompat .ivc-pick,#clin-ivcompat .ivc-policy,#clin-ivcompat .ivc-evidence{grid-template-columns:minmax(0,1fr)!important}#clin-ivcompat *{min-width:0!important;overflow-wrap:anywhere}', 'inactive-pages':'.page:not(.active){display:none!important}.page.active>.sub:not(.active){display:none!important}'}
+                      for name,css in trials.items():
+                        st=p.add_style_tag(content=css);p.wait_for_timeout(100);data.append({'engine':engine,'sub':sub,'phase':name,**p.evaluate(measure)});st.evaluate('e=>e.remove()')
+                except Exception as e:data.append({'engine':engine,'error':str(e),'trace':traceback.format_exc()})
+                finally:ctx.close();b.close()
+          finally:
+            srv.shutdown();(out/'width-diagnosis.json').write_text(json.dumps(data,ensure_ascii=False,indent=2));print(json.dumps(data,ensure_ascii=False,indent=2))
+      - if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with: {name: compact-width-diagnosis, path: audit-evidence/, retention-days: 14}
