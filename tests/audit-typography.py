@@ -25,7 +25,7 @@ SCAN=r"""() => {
   rows.push({selector,text:t.slice(0,170),size:px,line:s.lineHeight,heading:!!e.closest('h1,h2,h3,h4,h5,h6')});
  }
  const tiny=rows.filter(x=>x.size<12.99&&!/^(sub|sup)\b/.test(x.selector));
- return {count:rows.length,min:Math.min(...rows.map(r=>r.size)),max:Math.max(...rows.map(r=>r.size)),distribution:rows.reduce((a,r)=>(a[r.size]=(a[r.size]||0)+1,a),{}),tiny,overflow:document.documentElement.scrollWidth>innerWidth+1,large:rows.filter(x=>x.size>22&&!x.heading)};
+ return {theme:document.documentElement.dataset.fccTheme,count:rows.length,min:Math.min(...rows.map(r=>r.size)),max:Math.max(...rows.map(r=>r.size)),distribution:rows.reduce((a,r)=>(a[r.size]=(a[r.size]||0)+1,a),{}),tiny,overflow:document.documentElement.scrollWidth>innerWidth+1,large:rows.filter(x=>x.size>22&&!x.heading)};
 }"""
 MEASURE_SOURCES="""()=>{
  const read=e=>{const s=getComputedStyle(e),r=e.getBoundingClientRect();return {text:e.textContent,size:parseFloat(s.fontSize),width:r.width,height:r.height,connected:e.isConnected}};
@@ -36,8 +36,12 @@ def nav(p,page='clinical',sub=''):
  p.evaluate('([page,sub])=>fccNavigate(page,{sub,focus:true})',[page,sub]);p.wait_for_function('([a,b])=>FCCNavigation.current()===a&&FCCNavigation.route().sub===b',arg=[page,sub]);p.wait_for_timeout(160)
 def capture(p,label,tag,shot=False):
  state=p.evaluate(SCAN);report['views'].append({'name':tag+'-'+label,**state});check(tag+' '+label+' has text',state['count']>0);check(tag+' '+label+' document reflow',not state['overflow'])
+ check(tag+' '+label+' actual theme retained',state['theme']==tag.rsplit('-',1)[1],state['theme'])
  if STRICT:check(tag+' '+label+' no tiny interface text',not state['tiny'],state['tiny'][:16])
  if shot:p.screenshot(path=str(OUT/(tag+'-'+label+'.png')),animations='disabled')
+ if label=='clin-lasa':
+  if STRICT:check(tag+' label text fits its container',p.evaluate("()=>[...document.querySelectorAll('.cuf-sym-yellow,.cuf-sym-yellow small,.cuf-sym-tall')].every(e=>e.scrollWidth<=e.clientWidth+1&&e.scrollHeight<=e.clientHeight+1)"))
+  p.locator('.cuf-symbol-grid').screenshot(path=str(OUT/(tag+'-safety-labels.png')),animations='disabled')
  return state
 try:
  with sync_playwright() as pw:
@@ -49,7 +53,8 @@ try:
      p.goto(BASE,wait_until='domcontentloaded');p.wait_for_function("window.FCCAppReady===true&&[...document.querySelectorAll('nav.side .nav')].every(x=>!x.disabled)",timeout=60000)
      check(engine+str(width)+' correct build',BUILD in p.evaluate('FCC_ASSET_BASE'))
      for theme in ['light','dark']:
-      tag=f'{engine}-{width}-type-{theme}';p.evaluate('(t)=>fccSetTheme(t,false)',theme)
+      tag=f'{engine}-{width}-type-{theme}'
+      nav(p,'settings');p.locator('#fccThemeSettings [data-fcc-theme-choice='+theme+']').click();p.wait_for_function('(t)=>document.documentElement.dataset.fccTheme===t',arg=theme)
       nav(p,'home');capture(p,'home',tag,True)
       nav(p,'clinical');capture(p,'clinical-hub',tag)
       nav(p,'personal');capture(p,'personal-locked',tag)
