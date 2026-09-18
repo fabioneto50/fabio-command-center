@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T15:27:25.443829Z",
+  "updatedAt": "2026-09-18T16:26:39.313211Z",
   "health": [
     {
       "title": "Mulheres dominam saúde na Europa mas ganham 19% menos por hora, alerta OMS - Euronews.com",
@@ -11,6 +11,15 @@
       "articleUrl": "https://pt.euronews.com/2026/09/18/mulheres-dominam-saude-na-europa-mas-ganham-19-menos-por-hora-alerta-oms"
     },
     {
+      "title": "Hospitais desafiam startups a antecipar doenças - Público",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWI4SEo1Wl9NalI4Qk5JZzZfVXF4a3h4Ri01UU5YdFNtTXo0RmY5N1hZOGlvN1hyRzBiWFJEU0xlRlkwVEw1YW5kWUxaZFRNXzRLRDFqb2dBZk5sUGxCT0tLQnFGWTF0RWR4aDdReVlFSUFrckkwNWFreFNldGFsMEItYXUwSnpSelJQaGc2VDVqd0JwR1Zaa2lzZ2tCN2F0N3E4?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-18T15:47:06Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/18/enter/noticia/hospitais-desafiam-startups-antecipar-doencas-2188543"
+    },
+    {
       "title": "1 Minuto de Literacia em Saúde de 18 set 2026 - RTP",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZFh0VVNEZ1EwNXZfNFgzemE5cjVxUUxsT19rYmpEQjlZVlVmYXh3ZHZUSHZRQjdSMW51VzN1a28teC1RLUhETFBPVmxMXzEyRWUyWTV5RFpZdUZ1QWRZd0I0a212QjFwVFZSZDM0VktQT3QwMXN0WA?oc=5",
       "source": "RTP",
@@ -18,15 +27,6 @@
       "description": "Sara Aguiar | DRS: Regresso às aulas - Importância da alimentação na aprendizagem - Dedicado à literacia em saúde, '1 Minuto de Literacia em Sa",
       "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8316_13583_87185.jpg?v=3&w=860",
       "articleUrl": "https://www.rtp.pt/play/p16811/e953747/1-minuto-de-literacia-em-saude"
-    },
-    {
-      "title": "Da Farmácia à Medicina: o que muda, quando mudamos também? - Público",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzV5Tl8zRGFUeWtrZkN1aUNVNU1xUm5HanVLVll0cFBkSDNNcUJSN1hLdy1wWW1aWFRySk9NRUphVHUybUhpNVFRODFJWldDQldBRjBYMnNUQU5mTENkUnRyMENVZHhUYzZvOE1ySm8xZHg3dF9RUGp1ellBd3ZWd0tlYjUxWE9ERGU1UlNrLWhDQXdD?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-18T09:33:47Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/18/p3/cronica/farmacia-medicina-muda-mudamos-tambem-2188481"
     },
     {
       "title": "INEM recebe médicos internos do Curso de Especialização em Saúde Pública da ENSP - inem.pt",
@@ -56,11 +56,11 @@
       "articleUrl": "https://www.sulinformacao.pt/2026/09/grupo-lusiadas-saude-debate-a-dor-a-luz-da-nova-ciencia-em-faro/"
     },
     {
-      "title": "CIM e Escola Nacional de Saúde Pública juntam 32 formandos em curso de gestão autárquica aplicada à saúde - HealthNews",
+      "title": "CIM e Escola Nacional de Saúde Pública juntam 32 formandos em curso de gestão autárquica aplicada à saúde - healthnews.pt",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGltYm4xaTZvUzhRVk5TTGNmclNQOVJ0WGRiNUYwS21LTXllcU92MmRrU2Ytc0l6c2V5NzFDVEZQamZaZEdZWXIzMXdQem9KZ2hDS1ctcGVlNExUNmx3ZGVwSTJEdjkycURTUTVoMloyUGpuYXFyVFNPZENQaFJHLVBRVko4cGJIQ1p3djg1ODE0dnlDQWUwNHZnYUhabFAzR0Z2ZjNIT0N3Qk02THZXbWYxX0pST3owWElRQU9oS21EdXppdUoxNlBtTXFHNnBoN2JMaGxB?oc=5",
-      "source": "HealthNews",
+      "source": "healthnews.pt",
       "publishedAt": "2026-09-18T12:11:15Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://healthnews.pt/2026/09/18/cim-e-escola-nacional-de-saude-publica-juntam-32-formandos-em-curso-de-gestao-autarquica-aplicada-a-saude/"
     },
@@ -100,11 +100,11 @@
       "image": ""
     },
     {
-      "title": "Cheque-Dentista já recebeu 368 pedidos e apresenta taxa de deferimento de 97,6% nos Açores - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qT280ZHNOc1A5WmFReURueGV6OGI4bXNLSjlyM0E0TVR4V1JwM3JhMUFVRk16TF8wOXhiQ0JhSlFLd2VfVS1Ybkw3ZXlDVXVrMFh3RWJCR3BFeEp0eFFTeGdNSWowTGI3T2VSZ2tOdVl3a2x5S0kw?oc=5",
-      "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-09-18T11:30:46Z",
-      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "title": "Hospital de Bragança vai ter unidade de ambulatório para evitar idas às urgências - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVVHZ20xSHpuYm5YbHNxMURCZzZGV1hpYXZ2SGpJdGxPVVJPMl82a0lVN3Y1ZjV2Y2F6b2xiTjI2ZlZ6eGp1NDd2NVN2QnY0R3RZMEMwOW1COUtveG9kVC1LMjNuZzNXeUZSRnE2ZHBDbjU4cGthdzc5OWYxWVJ4WkZGbGRoOEVIWEVYUjV4cTA4d3MwcUxCbFlDd0s5Y19ySjNEclowSHdOcFI0ekNMMnRLUjJUQm5lUDJjUw?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-09-18T16:12:24Z",
+      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -164,9 +164,9 @@
       "articleUrl": "https://rr.pt/especial/escala-global/2026/09/18/dizer-que-guerras-sao-estupidas-e-de-la-palice-gouveia-e-melo-diz-que-pm-nao-esteve-bem-sobre-medio-oriente/485869/"
     },
     {
-      "title": "Por que as guerras no Irã e na Ucrânia estão enfraquecendo as grandes potências? Entenda - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjhtRV9RTWhQenpyYlQ4SmZwYzZyTkxjRkFvM1JHaDJvOC1wb1YxeUFwQS1FOVBSemRFWTlDZmY4azRTNC1UR3JFVTR1VFNXZHhfMzBGYTRSMDhOLVhkc0NGTnRIeGZNNlNxTHd6aU9TR0dWNGZqX054SDZLUTRTZHhhcVBKV0RFek5PLUVrTjZyVVZaZ3lMVkRTZzNPRG96VmFFYVNYUXVmcWM2QVlnNnJjMFkydEd0MnQxbzhoZU9VYUthNEN3R9IBzgFBVV95cUxPbGlBZWhDVE95ZHRCYjhRZmh5bFg3ZkY3Z3Q0VlhCbVF2N3BrdER3ekFlUUxYWlNXVHZqaDJBZmgtel85c3pVOEZ6V2hlQjFxVERCZVJTUk9PZ0Y4RmhsQ2VQTVB6b2dEb3BZdUtVbXhnVGwzQlBqaW5KTG9UVG9qT0oyNUN3Z2ZZVWtVZlRhMnY3OHMtcDNmTTdpLW1ZUHJHUzNpQV9tUUpXS1JEZk9QcFFVdlhzSVZZYk9uYmF3SjRiUlQ2Tmtra1pIcmtQZw?oc=5",
-      "source": "Estadão",
+      "title": "Por que as guerras no Irã e na Ucrânia estão enfraquecendo as grandes potências? Entenda - estadao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjhtRV9RTWhQenpyYlQ4SmZwYzZyTkxjRkFvM1JHaDJvOC1wb1YxeUFwQS1FOVBSemRFWTlDZmY4azRTNC1UR3JFVTR1VFNXZHhfMzBGYTRSMDhOLVhkc0NGTnRIeGZNNlNxTHd6aU9TR0dWNGZqX054SDZLUTRTZHhhcVBKV0RFek5PLUVrTjZyVVZaZ3lMVkRTZzNPRG96VmFFYVNYUXVmcWM2QVlnNnJjMFkydEd0MnQxbzhoZU9VYUthNEN3Rw?oc=5",
+      "source": "estadao.com.br",
       "publishedAt": "2026-09-18T15:00:00Z",
       "description": "Com erosão do poder dos EUA e da China, novos atores e alianças correm para preencher o vácuo; União Europeia tem oportunidade de reinventar seu papel global",
       "image": "https://www.estadao.com.br/resizer/v2/JRL2YQYLEVH63OQDWDHF6JEFZM.jpg?quality=80&auth=4fdc4d2aa8fa25a8bf86d71b2ba1ddc9897c432b981aaaefa0cc8dc61598d163&width=1200&height=630&smart=true",
@@ -208,11 +208,11 @@
       "image": ""
     },
     {
-      "title": "Guerra no Oriente Médio eleva pressão sobre petróleo e aumenta riscos para economia brasileira - VEJA",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjl0eVYwRFpQdmlMZjkxRHZNMWpsdFE5Ylc0eFp0SzZ0QlMxaUs3Szg1Y3g0VV92eXlaTWU2RjEzVnU2b1dXSEV2T25kbkladWpiU3pjSGVjLWR3bklUUWhHNU02Y2JVOUs2VjJTRzBINXpmbTREaXN2Y1V2bEUtTlI4UTdkTDdHaWRxMEplOFE3Nl8zVHgzRjFvVHc4UUlEdk9mcXR5VUFKSFRLaGlnU3ZrdlJfZmp2MmM5OUNWRmZFWW5TVDNjdG5R?oc=5",
-      "source": "VEJA",
-      "publishedAt": "2026-09-18T09:00:54Z",
-      "description": "Notícia publicada por VEJA. Abra o artigo para consultar os detalhes completos.",
+      "title": "Russos vão às urnas para renovar Duma em meio a ataques da Ucrânia - Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb2xtb05WZEpkbFNNU2VJY21aX3F4a1E4YzY0UllJS04zRFdZdXBEX1hCNGJhUV9WSTlZS2NJUTBWd3RydEFVUGdxTV96ZHYyZEFiS0plNmFkeWxDNE5lLVliVVJyb0VLMXRPWjd6TzlfZ3JFNElKdjQ4UnZSZmR1TFFhS2xLNnBJcm9hWVB5Y005Uzd0cmJrRlp0UjlUNm9hX2JOaUJJWC16MmpyLW5LR0N3ZVI4Mk5qRTVXejhBcV9SZ3g2S1BrNG5udzU3amF5Sm82NUJOaDFMUjUyWHQyNWt1aFJQZms?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-09-18T12:43:00Z",
+      "description": "Notícia publicada por Terra. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
