@@ -62,9 +62,18 @@ try:
      for size in [320,430,768]:
       p.set_viewport_size({'width':size,'height':844})
       for sub in ['clin-perf','clin-drugs','clin-vent','clin-ivcompat','clin-cases']:
-       nav(p,sub);check(tag+str(size)+sub+' reading layout reflows',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1') and not p.locator('#page-clinical>.pagehead').is_visible())
+       nav(p,sub)
+       geometry=p.evaluate('''()=>({width:innerWidth,scrollWidth:document.documentElement.scrollWidth,wide:[...document.querySelectorAll('.page.active *')].filter(x=>{const r=x.getBoundingClientRect();return r.width&&r.right>innerWidth+1}).slice(0,12).map(x=>({tag:x.tagName,id:x.id,class:x.className,right:x.getBoundingClientRect().right,width:x.getBoundingClientRect().width}))})''')
+       check(tag+str(size)+sub+' reading layout reflows',geometry['scrollWidth']<=geometry['width']+1 and not p.locator('#page-clinical>.pagehead').is_visible(),geometry)
        check(tag+str(size)+sub+' no tiny input text',p.locator('.page.active input:not([type=checkbox]):not([type=hidden])').evaluate_all('es=>es.filter(x=>x.getClientRects().length).every(x=>parseFloat(getComputedStyle(x).fontSize)>=16)'))
-     p.set_viewport_size({'width':w,'height':h});nav(p,page='personal');check(tag+' locked personal overview unchanged',not p.evaluate('FCCAccess.isUnlocked()') and p.locator('#fccArea-personal').is_visible() and not p.evaluate('!!FCCUI.active()'))
+     p.set_viewport_size({'width':w,'height':h})
+     nav(p,'clin-drugs');p.locator('#med4Search').fill('');p.wait_for_function("document.querySelectorAll('#med4Results [data-med4]').length===36")
+     last=p.locator('#med4Results [data-med4]').last;name=last.get_attribute('data-med4');last.scroll_into_view_if_needed()
+     check(tag+' long catalogue scroll exercised',p.evaluate('scrollY')>300)
+     last.click();p.wait_for_selector('#med4Results h3');p.wait_for_function('scrollY<5')
+     check(tag+' selecting from far down opens readable heading',p.locator('#med4Results h3').inner_text()==name and p.evaluate('scrollY')<5)
+     p.locator('#fccMedBack').click();check(tag+' long list restored after reading',p.locator('#med4Search').is_visible())
+     nav(p,page='personal');check(tag+' locked personal overview unchanged',not p.evaluate('FCCAccess.isUnlocked()') and p.locator('#fccArea-personal').is_visible() and not p.evaluate('!!FCCUI.active()'))
      p.locator('#fccArea-personal [data-area-target=notes]').click();p.locator('#fccVaultDialog').wait_for(state='visible');check(tag+' private note guard intact',not p.locator('#em-notes').is_visible());p.keyboard.press('Escape')
      if not LIVE:
       p.evaluate("async()=>{await FCCStore.create('synthetic compact layout test passphrase 2026');FCCAccess.refreshState();}")
