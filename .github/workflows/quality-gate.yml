@@ -50,11 +50,12 @@ jobs:
           python tests/audit-design.py
           python tests/audit-library.py
           python tests/audit-polish.py
-      - name: Compact reading and narrow-screen native dropdowns
+      - name: Compact reading and individual medication records
         run: |
           set -euo pipefail
           python tests/audit-compact.py
           python tests/audit-compact-interactions.py
+          python tests/audit-record-view.py
       - name: Real legacy-to-current migration with synthetic data
         run: |
           set -euo pipefail
@@ -123,6 +124,7 @@ jobs:
           python tests/audit-live.py
           python tests/audit-live-polish.py
           FCC_COMPACT_LIVE=1 python tests/audit-compact-interactions.py
+          FCC_RECORD_LIVE=1 python tests/audit-record-view.py
       - if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:

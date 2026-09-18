@@ -27,6 +27,7 @@ jobs:
           test "$GITHUB_REF_NAME" = "medication-reader-2026-09-18"
           mkdir -p audit-evidence
           if [ -f scripts/apply-medication-reader.py ]; then python scripts/apply-medication-reader.py; fi
+          if [ -f scripts/refine-medication-reader.py ]; then python scripts/refine-medication-reader.py; fi
           node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
           node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
           python scripts/audit-integrity.py
