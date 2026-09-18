@@ -27,6 +27,7 @@ jobs:
           test "$GITHUB_REF_NAME" = "compact-module-header-2026-09-18"
           mkdir -p audit-evidence
           if [ -f scripts/apply-compact-header.py ]; then python scripts/apply-compact-header.py; fi
+          if [ -f scripts/refine-compact-header.py ]; then python scripts/refine-compact-header.py; fi
           node --expose-internals scripts/build-assets.cjs | tee audit-evidence/build.json
           node --test tests/audit-unit.mjs | tee audit-evidence/unit-tests.txt
           python scripts/audit-integrity.py
