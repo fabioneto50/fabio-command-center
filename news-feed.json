@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:27:06.029355Z",
+  "updatedAt": "2026-09-18T23:19:10.919336Z",
   "health": [
     {
       "title": "IGAS quer pagamento à entrada do hospital para evitar dívida - Observador",
@@ -11,15 +11,6 @@
       "articleUrl": "https://observador.pt/2026/09/18/turismo-de-saude-igas-quer-taxas-moderadoras-pagas-a-entrada-dos-hospitais-e-sistema-de-check-out-para-evitar-fugas-a-pagamentos/"
     },
     {
-      "title": "Setenta alunos sofrem doença gastrointestinal após refeição em cantina na Maia - Público",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUNfeE1YVE1STFV1VFFfNmktTXNmREZES0NKOE12XzJfY0RGNkVSWVVFRDhVZE5MTVhTNV9DeTdFZEVOcUlxTG1BcFFTcmNyM1p6Q0NIUTQwNmpMMFp1V1oyWUxrQnM2ZG5lRTFET2Nwb3FTaC1CNE1SOU15aVVTTVRYMFVOMHZzZ2ZYVlJabFdnVFFYaEVGZnB6ZUp4am1YWkFYOE5rcUh4V243dUlHVXNfRzlFV181ZGhvQV94Z0QwR1RNYUw0?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-18T18:26:07Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/18/local/noticia/setenta-alunos-sofrem-doenca-gastrointestinal-apos-refeicao-cantina-maia-2188591"
-    },
-    {
       "title": "“Vozes com Saúde”: um local de reflexão sobre a saúde em Portugal - Jornal Económico",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXFxMHIzOUMzdUFHSVJWNDcwSEZSX0wwcDQ3MWtOY2U5RC03Tm5jQTNyUEI4Z01RRVRieEFNdzltTGRWLTB2YUQ3T1ZOUV9fS0UzMW5uNS1pZGZkSlh4N3c1U1J5RjUwQlZJd29sc0JHb3VicEJ5YWNkUTZYZ2E3bVFUYVk5OFFDb2NIVUhCOV9fYUJCX1Q0NE1mQmpDV2s1a3RnTHpJcw?oc=5",
       "source": "Jornal Económico",
@@ -27,6 +18,15 @@
       "description": "Criado pelo JE Lab em parceria com a Jaba Recordati, este é um videocast que nasce com o propósito de promover uma reflexão sobre os desafios e oportunidades da saúde no país",
       "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/09/Design-sem-nome-3.png",
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/vozes-com-saude-um-local-de-reflexao-sobre-a-saude-em-portugal/"
+    },
+    {
+      "title": "Hospitais desafiam startups a antecipar doenças - Público",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWI4SEo1Wl9NalI4Qk5JZzZfVXF4a3h4Ri01UU5YdFNtTXo0RmY5N1hZOGlvN1hyRzBiWFJEU0xlRlkwVEw1YW5kWUxaZFRNXzRLRDFqb2dBZk5sUGxCT0tLQnFGWTF0RWR4aDdReVlFSUFrckkwNWFreFNldGFsMEItYXUwSnpSelJQaGc2VDVqd0JwR1Zaa2lzZ2tCN2F0N3E4?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-18T15:47:06Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/18/enter/noticia/hospitais-desafiam-startups-antecipar-doencas-2188543"
     },
     {
       "title": "Mulheres dominam saúde na Europa mas ganham 19% menos por hora, alerta OMS - Euronews.com",
@@ -38,13 +38,31 @@
       "articleUrl": "https://pt.euronews.com/2026/09/18/mulheres-dominam-saude-na-europa-mas-ganham-19-menos-por-hora-alerta-oms"
     },
     {
-      "title": "1 Minuto de Literacia em Saúde de 18 set 2026 - RTP",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZFh0VVNEZ1EwNXZfNFgzemE5cjVxUUxsT19rYmpEQjlZVlVmYXh3ZHZUSHZRQjdSMW51VzN1a28teC1RLUhETFBPVmxMXzEyRWUyWTV5RFpZdUZ1QWRZd0I0a212QjFwVFZSZDM0VktQT3QwMXN0WA?oc=5",
+      "title": "Uma doença gastrointestinal foi identificada em 70 dos 601 alunos que almoçaram na cantina da Escola Básica Gonçalo Mendes da Maia. Por precaução, o serviço de refeições foi temporariamente suspenso. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORW5kX25yM0pfV3A2cnFoSWk1U2x2UXVDUnNQc3M0bm5xMG5JUUQxZUJRSWJubjdWWjkxaHNTQlBhQVBXaUxtNXdHNzRqUXdISlA5NnAtMFM1SnBZM2Q5UlkxcGhCSlk4TEczdjEwWGpURjFIZzBwMjVIc3BMQUNXQndfUVF6VGdlTlJSMi1jUmFpUERraEY4UGhyZHVwRFBHRHRhLTVYVUpYdVd2WjZHR0czU3dZTkl5akdOQzNSUXBjRHo4cG9xbXdFQnVsUU1DZlFfUEVWdkthelZlX3Y2WnA0eENmLXp2QXIycQ?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-18T23:03:04Z",
+      "description": "Uma doença gastrointestinal foi identificada em 70 dos 601 alunos que almoçaram na cantina da Escola Básica Gonçalo Mendes da Maia. Por precaução, o serviço de refeições foi temporariamente suspenso.",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/795523605_1423149699722627_1278034531631198847_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=W1BnLpMR2y4Q7kNvwE-XtI1&_nc_oc=AdqjSt8baFeVgWXUTKNbrPOYGl6eAmxw3y5b8a3dRwU0hzH6F_DNa6zAxdkeSI-HhUU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tRNAa_w1FEyBprzqDDPOkw&_nc_ss=7820f&oh=00_AQJkN-Dh9N4yDRqMr7Tt_ms2F7s5ciA-GmABUIaZjAZvmg&oe=6AB3A058",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/uma-doen%C3%A7a-gastrointestinal-foi-identificada-em-70-dos-601-alunos-que-almo%C3%A7aram-/1480504534180825/"
+    },
+    {
+      "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1RZYk5ZU1p4cEpUUFJyRzl1SGxCLURCQzFiVDRBYVViZTFySlJlYUIzX01NNE8zRWZqUUs2X0VzZ2gzUlZKTkNwSGNTcWo1bTVCUGpYaWtHLXJENU5oUjI5Wkh3RF9xRmpHUEhKUUR2Uk1MM19Fdm5GLWhPOVJLZGtWd01GZ2lUdWVPWmZPdEdKaUcwNXdVLQ?oc=5",
+      "source": "Junta de Freguesia do Parque das Nações",
+      "publishedAt": "2026-09-18T16:42:16Z",
+      "description": "Vai realizar-se amanhã, dia 19 de setembro, a Feira de Saúde Infantojuvenil, das 9h00 às 13h30, na Escola Superior de Saúde de Lisboa.Esta é uma iniciativa dinamizada pelo grupo de trabalho constituído pela Junta de Freguesia do Parque das Nações, CUF, Grupo Farmaspot, ULS São José, Escola Superior de Saúde de Lisboa e Santa Casa da Misericórdia de Lisboa (Unidade de…",
+      "image": "https://www.jf-parquedasnacoes.pt/images/autarquia/noticias/3126/imagem_3126.jpg",
+      "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3126-feira_de_saude_infantojuvenil_no_pn"
+    },
+    {
+      "title": "23h IGAS quer pagamentos à entrada do hospital para evitar dívidas - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUVuWTJDeFllcHc1b2U4TkhuTndydFl5aUpDUE5pa2QxSTBMRnVsa1RlbUIxa1l1bXZ4dEEtLUN3V3FUaVJFX3dnVG9lXzItOWZJajZXZ0xRQUZQbHpkSXRlTUZKdDhiQUs3Z2ZnbVdhRi1JUVNMNXdELWVGbVRmLXVBV3liZXdqRmxrS09iNlBzVlkyRmM2T0NxYVpLLWl4U3E3RndMRFNuZS1GcjFMSzVmTUFpV3JvSDQ3VTdZQUdkZw?oc=5",
       "source": "RTP",
-      "publishedAt": "2026-09-18T15:22:39Z",
-      "description": "Sara Aguiar | DRS: Regresso às aulas - Importância da alimentação na aprendizagem - Dedicado à literacia em saúde, '1 Minuto de Literacia em Sa",
-      "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8316_13583_87185.jpg?v=3&w=860",
-      "articleUrl": "https://www.rtp.pt/play/p16811/e953747/1-minuto-de-literacia-em-saude"
+      "publishedAt": "2026-09-18T22:29:51Z",
+      "description": "RTP Notícias - Descrição",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=860&q=90&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/noticiario-antena1/23h-igas-quer-pagamentos-a-entrada-do-hospital-para-evitar-dividas_a1_1766415"
     },
     {
       "title": "Nobel Charles Rice pede à ciência que continue a fazer perguntas - Expresso",
@@ -56,22 +74,22 @@
       "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-18-nobel-charles-rice-pede-a-ciencia-que-continue-a-fazer-perguntas-32eb4529"
     },
     {
-      "title": "Grupo Lusíadas Saúde debate a dor à luz da nova ciência em Faro - Sul Informação",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG1kY3RNTVpLaTFpWlhNOEVtdURhOUlEOTJabi00eE1uNjBCNkg2U1lUdy14dXVjZEItSjJ0d2VGNkZxaS01WWlkZ0VnVWJBLVJYWGV3NC1tcjJhdUZ1di1UbnBRTTBpY2tabi1QQnhUanlETkRaUEhfS1c2WG9zcTRzNXJEc0dqY3Z3V1pQaU9iUWd2Rjl3YjQxWlF3bmJzc1Zz?oc=5",
-      "source": "Sul Informação",
-      "publishedAt": "2026-09-18T13:47:00Z",
-      "description": "Da utilização de psicadélicos e neuroestimulação ao papel do microbioma, da alimentação, dos dispositivos digitais e até das redes sociais, Faro vai receber dois dias de discussão sobre novas formas de compreender e tratar a dor. As II Jornadas da Dor do…",
-      "image": "https://www.sulinformacao.pt/wp-content/uploads/2026/09/Jornadas-da-Dor.jpg",
-      "articleUrl": "https://www.sulinformacao.pt/2026/09/grupo-lusiadas-saude-debate-a-dor-a-luz-da-nova-ciencia-em-faro/"
+      "title": "Inquérito Nacional de Saúde Ocupacional: Bastonário apela à participação da classe - Ordem dos Médicos Dentistas",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVGhoTTV5TUVTemNXSFNTOEJLMEc4S0dUSHFPcUp0MjMtM0xmdWx2WEhxN05ZZGVzblRSRUhZcEVzaHVvVGZHMjNYU2VnRkpCS0pxNUN5dXR1NW9YVkJYYi01d0NOQmpyTFV4RG43c29ZVVk?oc=5",
+      "source": "Ordem dos Médicos Dentistas",
+      "publishedAt": "2026-09-18T14:48:39Z",
+      "description": "Para garantir que as futuras medidas de apoio espelham as reais necessidades do setor.",
+      "image": "https://www.omd.pt/content/uploads/2026/09/bastonario-omd-video-estudo-saude-ocupacional.png",
+      "articleUrl": "https://www.omd.pt/2026/09/mensagem-bastonario-saude-ocupacional/"
     },
     {
-      "title": "Inquérito Nacional de Saúde - Associação das Doenças da Tiroide",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TWNCTEFreHllaUxvLV9yWHY5clRpeGI1ZFNXVi1FUTZ3TGpSQU9hRUlkUGdyRXlNaG5ITVVEM19aTVRWei13aW1YWFBGRGkzV1l6di1oLUpxdF96NnFuX29hdGNFUQ?oc=5",
-      "source": "Associação das Doenças da Tiroide",
-      "publishedAt": "2026-09-18T11:39:37Z",
-      "description": "O Instituto Nacional de Estatística divulgou os principais resultados do Inquérito Nacional de Saúde 2025 (INS 2025) […]",
-      "image": "https://adti.pt/wp-content/uploads/2026/09/hospitais_unsplash.jpg",
-      "articleUrl": "https://adti.pt/2026/09/18/inquerito-nacional-de-saude/"
+      "title": "Cantanhede quer um polo de reabilitação e desporto inclusivo no hospital Rovisco Pais - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTU5wRFF0azlxWWFzR1hkdklOaG5EOXZaZlJIQ0lveVVRZ1d2NVU1RXhvVmQ0YnVMZkVhaXhxaV9sc0JjNWlTam9sUzRkcDF5YzYwenQ4cFFhb2MtTkFlc1dBbmRkOFZ0RXQxRjJlSjRfMDRRZjJIUlhIc0pYcl95V1lXclBkRl81RzBSWFN1ckxZa0JGeTM3Z000U2dYNEhTNGdZNmFMeElkZ1RQaERuTmJWX05kajdBalhfZ2tGR1MyQQ?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-09-18T16:31:51Z",
+      "description": "O município de Cantanhede defendeu hoje a criação de um polo de reabilitação e desporto inclusivo no Centro de Medicina de Reabilitação da Região Centro (hospital Rovisco Pais), que passaria a ser uma infraestrutura única em Portugal.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066818_0000000001.png",
+      "articleUrl": "https://www.saudemais.tv/noticia/66818-cantanhede-quer-um-polo-de-reabilitacao-e-desporto-inclusivo-no-hospital-rovisco-pais"
     },
     {
       "title": "INEM recebe médicos internos do Curso de Especialização em Saúde Pública da ENSP - inem.pt",
@@ -79,45 +97,18 @@
       "source": "inem.pt",
       "publishedAt": "2026-09-18T10:53:13Z",
       "description": "Notícia publicada por inem.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.inem.pt/2026/09/18/inem-recebe-medicos-internos-do-curso-de-especializacao-em-saude-publica-da-ensp/"
-    },
-    {
-      "title": "Feira de Saúde Infantojuvenil no PN - Junta de Freguesia do Parque das Nações",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1RZYk5ZU1p4cEpUUFJyRzl1SGxCLURCQzFiVDRBYVViZTFySlJlYUIzX01NNE8zRWZqUUs2X0VzZ2gzUlZKTkNwSGNTcWo1bTVCUGpYaWtHLXJENU5oUjI5Wkh3RF9xRmpHUEhKUUR2Uk1MM19Fdm5GLWhPOVJLZGtWd01GZ2lUdWVPWmZPdEdKaUcwNXdVLQ?oc=5",
-      "source": "Junta de Freguesia do Parque das Nações",
-      "publishedAt": "2026-09-18T14:31:44Z",
-      "description": "Vai realizar-se amanhã, dia 19 de setembro, a Feira de Saúde Infantojuvenil, das 9h00 às 13h30, na Escola Superior de Saúde de Lisboa.Esta é uma iniciativa dinamizada pelo grupo de trabalho constituído pela Junta de Freguesia do Parque das Nações, CUF, Grupo Farmaspot, ULS São José, Escola Superior de Saúde de Lisboa e Santa Casa da Misericórdia de Lisboa (Unidade de…",
-      "image": "https://www.jf-parquedasnacoes.pt/images/autarquia/noticias/3126/imagem_3126.jpg",
-      "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3126-feira_de_saude_infantojuvenil_no_pn"
-    },
-    {
-      "title": "Inquérito Nacional de Saúde Ocupacional: Bastonário apela à participação da classe - Ordem dos Médicos Dentistas",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVGhoTTV5TUVTemNXSFNTOEJLMEc4S0dUSHFPcUp0MjMtM0xmdWx2WEhxN05ZZGVzblRSRUhZcEVzaHVvVGZHMjNYU2VnRkpCS0pxNUN5dXR1NW9YVkJYYi01d0NOQmpyTFV4RG43c29ZVVk?oc=5",
-      "source": "Ordem dos Médicos Dentistas",
-      "publishedAt": "2026-09-18T14:48:39Z",
-      "description": "Notícia publicada por Ordem dos Médicos Dentistas. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Igreja/Saúde: «O que diz o Bom Samaritano aos médicos de hoje?» é tema de encontro nacional - Agência ECCLESIA",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXNDNUV2b2FMQnpyUVdMUmRWLVpidHI5QXF4NTktblE5dV94MmIyYlE2TWl4a3Q5MHh3YmVwaTB1UVI5dDAtcEZacXpJdm94N0VMcVNRUy13ejB1aHlxTlZyTFJTVUtQc0xSRGl2NzhWWTRob0VWOHdJSTdzV0paN2lxTXdtQXhSVDhLbU5Fd3NjWnJtWXBwczZldDlzYUlBSVZLYlgyYTczcV9HNFo2bkdFZFBBUkEtZHRlMkV3SXczalVtenJLMDBR?oc=5",
-      "source": "Agência ECCLESIA",
-      "publishedAt": "2026-09-18T11:45:55Z",
-      "description": "Notícia publicada por Agência ECCLESIA. Abra o artigo para consultar os detalhes completos.",
+      "title": "Inquérito Nacional de Saúde - Associação das Doenças da Tiroide",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TWNCTEFreHllaUxvLV9yWHY5clRpeGI1ZFNXVi1FUTZ3TGpSQU9hRUlkUGdyRXlNaG5ITVVEM19aTVRWei13aW1YWFBGRGkzV1l6di1oLUpxdF96NnFuX29hdGNFUQ?oc=5",
+      "source": "Associação das Doenças da Tiroide",
+      "publishedAt": "2026-09-18T11:39:37Z",
+      "description": "Notícia publicada por Associação das Doenças da Tiroide. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
-    {
-      "title": "Relatório da ONU aponta para crimes de guerra cometidos pelos Estados Unidos no Irão - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVhlaEdMOVNRNDdnZ0ZiRG1aejJacjBsWXltMkpIZU5ZeHFtTC1qTElMRXl4UkQ5V1UwZlNiY0lFMmtRSTZsT1FIOGt3MVNwcHppblg0SFMzbE83ZGZMZDhud3VOZ3Nyd3ctdk1qdjA4d2I0LURGUDVIMC14bEttaldWNXpzbmFrT0VoSng5XzVVY3JaNUZtaHlRM3poTl9rNU12N3FhTVlkYlFpWjRPZEN3T3pqTFFoUmRvV1lBWXJOVng2ZW53SGhzV3dDaDh4V1pQZ21CZE12QjdXWUtuZQ?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-17T22:15:30Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-17-relatorio-da-onu-aponta-para-crimes-de-guerra-cometidos-pelos-estados-unidos-no-irao-bab6e8e8"
-    },
     {
       "title": "Trump está determinado a pôr fim à guerra com o Irão em breve, afirma conselheiro do presidente dos EUA - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHZpWnZPeHA3WmFDVUNVN1lBZFFhNndCQ1R5N2ROQ0o3Y0JCM0V3cGxnX0RmZ0lhMGZ3c05LR0J1b3VuS3lXMEY1VkFua2RnWEE5THM2UXJicnhiRzc3MmE3dVg0UWVVdFhYTEd0UGpEU2hPcDBoa09hTUJaZG1vMXI1SEZxZjA1dW9pQmh6NTNSTU9qUXRTWm1PckRORDJyUGlic0FyZTRzRW95X2I3TU0yZ0ZGa1g5U1lPUVdzSGxkSDg?oc=5",
@@ -126,6 +117,15 @@
       "description": "Massad Boulos, principal conselheiro do presidente dos EUA para assuntos árabes e do Médio Oriente, afirmou que Donald Trump trabalha para pôr fim à guerra de meses, sublinhando ser “uma pessoa que cumpre”.",
       "image": "https://images.euronews.com/articles/stories/09/91/77/13/1200x675_cmsv2_4c44ca5b-6b3d-5bd7-8175-cba994e67722-9917713.jpg",
       "articleUrl": "https://pt.euronews.com/2026/09/17/trump-esta-determinado-a-por-fim-a-guerra-com-o-irao-em-breve-afirma-conselheiro-do-presid"
+    },
+    {
+      "title": "Relatório da ONU aponta para crimes de guerra cometidos pelos Estados Unidos no Irão - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVhlaEdMOVNRNDdnZ0ZiRG1aejJacjBsWXltMkpIZU5ZeHFtTC1qTElMRXl4UkQ5V1UwZlNiY0lFMmtRSTZsT1FIOGt3MVNwcHppblg0SFMzbE83ZGZMZDhud3VOZ3Nyd3ctdk1qdjA4d2I0LURGUDVIMC14bEttaldWNXpzbmFrT0VoSng5XzVVY3JaNUZtaHlRM3poTl9rNU12N3FhTVlkYlFpWjRPZEN3T3pqTFFoUmRvV1lBWXJOVng2ZW53SGhzV3dDaDh4V1pQZ21CZE12QjdXWUtuZQ?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-17T22:15:30Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-17-relatorio-da-onu-aponta-para-crimes-de-guerra-cometidos-pelos-estados-unidos-no-irao-bab6e8e8"
     },
     {
       "title": "Imagine-se sem a União Europeia - Jornal SOL",
@@ -155,11 +155,11 @@
       "articleUrl": "http://dinheirovivo.dn.pt/economia/comisso-europeia-avisa-que-crise-energtica-e-fenmenos-extremos-do-vero-vo-pesar-no-pib"
     },
     {
-      "title": "“Dizer que guerras são estúpidas é de La Palice”. Gouveia e Melo diz que PM “não esteve bem” sobre Médio Oriente - Renascença",
+      "title": "“Dizer que guerras são estúpidas é de La Palice”. Gouveia e Melo diz que PM “não esteve bem” sobre Médio Oriente - rr.pt",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd2xmQTJNMmhveUFJUXUwdmpabW8zZ3h1SF9fUFlNalZNNHdEckZoTFpKNzl4cmdHZHVidnVoc003UnN1SlkzTUZnZDRBM0VOelBVeUV3MnFKTExTMkZBbWJMbzRYOUpkejVyVUlMa1I0VWN1WVJNUjNUMUtoNlpiaXMyZVJkLW1KQ3FfRlZIX3U1SmJWM3ByMjJiYjd0ODBES2FoMzV2U0loNHd0TE1TdUs3UHc1dDV4X2QwVV9IaWRwNmdZQWY0eXlQU2FwckJaLWZZNzZ6Uk01Z196Ym82MFJfNlloNktqZnBFWXBoWmdUNGYxR3fSAfoBQVVfeXFMTnhNWVZpTmhkQ3JSMVpQXzJtWWNzUHJzTktNalNQNEU1RHFBSmRlN1pSc0VLV2JjT28xb2tubjFHTDRoTWtvVWdxSFFGM2J6RjhjczJHc2JuQmIzSWlmRTBETjRsREZnbERVVG9nYWgwZWJnM3dGRkRNZWl1ajlDakFrQVR1QXVHdzVvTmVzTVNfRkZ3SC1rdEI1OHhoY1BXUFBIMXJsVnlrb0NrRk5oZ05VcUxCWmotX2UwaEpVSExRWmJvYm43SDVGSVRxcUIxWjZhSTBZb2FFbnZfSElNUVRFX0tVQ1BfZE51SWZQR0lrYy1LeDhYT1ZBUQ?oc=5",
-      "source": "Renascença",
+      "source": "rr.pt",
       "publishedAt": "2026-09-18T04:30:00Z",
-      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por rr.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://rr.pt/especial/escala-global/2026/09/18/dizer-que-guerras-sao-estupidas-e-de-la-palice-gouveia-e-melo-diz-que-pm-nao-esteve-bem-sobre-medio-oriente/485869/"
     },
@@ -173,13 +173,13 @@
       "articleUrl": "https://www.estadao.com.br/internacional/por-que-as-guerras-no-ira-e-na-ucrania-estao-enfraquecendo-as-grandes-potencias-entenda/"
     },
     {
-      "title": "Médio Oriente: UE aumenta alerta da missão naval no mar Vermelho - Executive Digest",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVdxc2NjMHdUUGYybFFpOWNoakZ4N2tNZTZKcTA1enNVUVdJMGdOLWUtMVk3QVdVU290NXVtbmJ5aUlmbWN0MHdEaU5OczhES1NvbzV6LWltd19oaFZPalFOWnJjV3VtWUJTd2RNUkVVVTFPN2FqM1MzLUhCc1hHZmhwcGViaUEwMmozOHhHa2VHbHI3bEN5bnNsems?oc=5",
-      "source": "Executive Digest",
-      "publishedAt": "2026-09-18T14:44:35Z",
-      "description": "A União Europeia (UE) anunciou hoje que aumentou o nível de alerta da sua missão naval no mar Vermelho, perante a deterioração da segurança provocada pela ofensiva dos rebeldes huthis na região.",
-      "image": "https://executivedigest.b-cdn.net/wp-content/uploads/2024/02/gfpmojdwwaa95wd.jpg",
-      "articleUrl": "https://executivedigest.sapo.pt/medio-oriente-ue-aumenta-alerta-da-missao-naval-no-mar-vermelho/"
+      "title": "“Risível” e “hostil”: Trump reage à hipótese de o Canadá ser membro associado da UE com nova ameaça de tarifas - Público",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNHliQ3JqNk5SSVZ3dGNiMHNRaE1wVFpVdXMzbDBleHl5Z3E0aTU3NlNINkx4SXJqMVFhSWhXdHduRmNUMi13ZkI4Y0FTQ1ktYkN3LXB4X1hfQ0FsWUZHc2dPY2FnZVVPTUJJcHFQQzZxbEhLTk85Rk94enlNYlYzdDcyU0dJWFN4V0xSdnFCRG0zekN0NVFYa3FYOFBUa0NqRnljQ0xudHk1bVlpbXdvVEZ3aEVzampHcXBCcm14RTFzZC1zdXowZ1hiemJEejh1SU9wTA?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-17T08:58:38Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/17/mundo/noticia/risivel-hostil-trump-reage-hipotese-canada-membro-associado-ue-nova-ameaca-tarifas-2188336"
     },
     {
       "title": "Amizade incondicional entre Europa e EUA ‘provavelmente chegou ao fim’, diz líder alemão - bloomberglinea.com.br",
@@ -191,13 +191,13 @@
       "articleUrl": "https://www.bloomberglinea.com.br/internacional/amizade-incondicional-entre-europa-e-eua-provavelmente-chegou-ao-fim-diz-lider-alemao/?outputType=amp"
     },
     {
-      "title": "“Risível” e “hostil”: Trump reage à hipótese de o Canadá ser membro associado da UE com nova ameaça de tarifas - Público",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNHliQ3JqNk5SSVZ3dGNiMHNRaE1wVFpVdXMzbDBleHl5Z3E0aTU3NlNINkx4SXJqMVFhSWhXdHduRmNUMi13ZkI4Y0FTQ1ktYkN3LXB4X1hfQ0FsWUZHc2dPY2FnZVVPTUJJcHFQQzZxbEhLTk85Rk94enlNYlYzdDcyU0dJWFN4V0xSdnFCRG0zekN0NVFYa3FYOFBUa0NqRnljQ0xudHk1bVlpbXdvVEZ3aEVzampHcXBCcm14RTFzZC1zdXowZ1hiemJEejh1SU9wTA?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-17T08:58:38Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/17/mundo/noticia/risivel-hostil-trump-reage-hipotese-canada-membro-associado-ue-nova-ameaca-tarifas-2188336"
+      "title": "Médio Oriente: UE aumenta alerta da missão naval no mar Vermelho - Executive Digest",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVdxc2NjMHdUUGYybFFpOWNoakZ4N2tNZTZKcTA1enNVUVdJMGdOLWUtMVk3QVdVU290NXVtbmJ5aUlmbWN0MHdEaU5OczhES1NvbzV6LWltd19oaFZPalFOWnJjV3VtWUJTd2RNUkVVVTFPN2FqM1MzLUhCc1hHZmhwcGViaUEwMmozOHhHa2VHbHI3bEN5bnNsems?oc=5",
+      "source": "Executive Digest",
+      "publishedAt": "2026-09-18T14:44:35Z",
+      "description": "A União Europeia (UE) anunciou hoje que aumentou o nível de alerta da sua missão naval no mar Vermelho, perante a deterioração da segurança provocada pela ofensiva dos rebeldes huthis na região.",
+      "image": "https://executivedigest.b-cdn.net/wp-content/uploads/2024/02/gfpmojdwwaa95wd.jpg",
+      "articleUrl": "https://executivedigest.sapo.pt/medio-oriente-ue-aumenta-alerta-da-missao-naval-no-mar-vermelho/"
     },
     {
       "title": "União Europeia considerou sanções dos EUA ao Irão e à Rússia como uma mensagem clara - Correio da Manhã",
@@ -208,10 +208,10 @@
       "image": ""
     },
     {
-      "title": "Exclusivo: Erro de IA quase causou conflito entre EUA e China, dizem fontes - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHEzakRSZmRuVy0wRUZsMFZocnJ5Z3piZDFmQjgzOGVXckg1a0tEbXREYWpnMlJlWk1UcE01cGdEZGRYNFZUOERLc3J5X2liWjE2Z1NkRDVMc09fQmo3MlY1aEdtWEtuaUZfR3lrSFN3R1ZCVU5nMUt1cDYwQm4tUUsxUWF0VFlSUnBYUkZwaHBETW1jaEZaelVhLXJnY245NmJLaG1EM0NUQkVzek9hMHFZbThpYl9p?oc=5",
+      "title": "O que se sabe sobre as armas que os EUA admitiram ter enviado ao espaço - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEhPYW82ZjdNRmFnVms2Q0pBRlBMMzlYeWhGZFFIWUNoT0VvZ2tqOUlrNnJJWHhYbTlCOHp6RkFJSzNLbmxNaDhmeXlDRW56YmM0U05ocENEZGRhT0p0OEYxdU9xYUpHa1ZNVFM4dXh2b3VPdGR5dTBXOU9Edlc2T2NwOV9JLVpWOHpPSDNaTzhOZDItSU1aUmVpdlN1SHl1TEllNDNTX3dsbktjVm5PSzJPVDVIZw?oc=5",
       "source": "CNN Brasil",
-      "publishedAt": "2026-09-18T18:30:36Z",
+      "publishedAt": "2026-09-18T11:18:01Z",
       "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
