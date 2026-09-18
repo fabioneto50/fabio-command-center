@@ -8,7 +8,7 @@ ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'audit-evidence';OUT.mkdir(exi
 STAGE=os.environ.get('FCC_TYPO_STAGE','candidate');LIVE=STAGE=='live';STRICT=STAGE!='baseline'
 BASE='https://fabioneto50.github.io/fabio-command-center/' if LIVE else 'http://127.0.0.1:4187/'
 BUILD=json.loads((ROOT/'asset-manifest.json').read_text())['build']
-report={'commit':os.environ.get('GITHUB_SHA','local'),'build':BUILD,'stage':STAGE,'checks':[],'views':[],'limits':'Local module DOM text, both themes and software engines. Excludes image/canvas text, native dropdown popups, third-party stock iframe, every possible user record and physical iPhone/VoiceOver. Readability floor is a design choice, not WCAG certification.'}
+report={'commit':os.environ.get('GITHUB_SHA','local'),'build':BUILD,'stage':STAGE,'checks':[],'views':[],'compatibilityMeasurements':[],'limits':'Local module DOM text, both themes and software engines. Excludes image/canvas text, native dropdown popups, third-party stock iframe, every possible user record and physical iPhone/VoiceOver. Readability floor is a design choice, not WCAG certification. The pre-existing source decorator can replace its DOM nodes; measurements query and read connected nodes in one browser task instead of retaining detached handles.'}
 class Quiet(http.server.SimpleHTTPRequestHandler):
  def log_message(self,*args):pass
 class Server(socketserver.ThreadingTCPServer):allow_reuse_address=True
@@ -26,6 +26,10 @@ SCAN=r"""() => {
  }
  const tiny=rows.filter(x=>x.size<12.99&&!/^(sub|sup)\b/.test(x.selector));
  return {count:rows.length,min:Math.min(...rows.map(r=>r.size)),max:Math.max(...rows.map(r=>r.size)),distribution:rows.reduce((a,r)=>(a[r.size]=(a[r.size]||0)+1,a),{}),tiny,overflow:document.documentElement.scrollWidth>innerWidth+1,large:rows.filter(x=>x.size>22&&!x.heading)};
+}"""
+MEASURE_SOURCES="""()=>{
+ const read=e=>{const s=getComputedStyle(e),r=e.getBoundingClientRect();return {text:e.textContent,size:parseFloat(s.fontSize),width:r.width,height:r.height,connected:e.isConnected}};
+ return {conditions:[...document.querySelectorAll('.ivc-evidence-lite .limits')].map(read),names:[...document.querySelectorAll('.ivsrc-name b')].map(read),links:[...document.querySelectorAll('.ivsrc-link')].map(read),states:[...document.querySelectorAll('.ivsrc-state')].map(read)};
 }"""
 def check(name,ok,detail=None):report['checks'].append({'name':name,'pass':bool(ok),'detail':detail})
 def nav(p,page='clinical',sub=''):
@@ -55,10 +59,12 @@ try:
       for label,name in [('Fármaco A','Amiodarona'),('Fármaco B','Furosemida')]:
        field=p.get_by_role('textbox',name=label,exact=True);field.fill(name);field.press('Enter')
       p.wait_for_selector('.ivsrc-panel');p.wait_for_timeout(250);p.evaluate('window.scrollTo(0,0)');capture(p,'compatibility-conditions',tag,True)
+      measured=p.evaluate(MEASURE_SOURCES);report['compatibilityMeasurements'].append({'view':tag,**measured})
       if STRICT:
-       check(tag+' clinical conditions at least 14px',p.locator('.ivc-evidence-lite .limits').evaluate('e=>parseFloat(getComputedStyle(e).fontSize)>=14'))
-       check(tag+' source names readable',p.locator('.ivsrc-name b').evaluate_all('es=>es.length>=3&&es.every(e=>parseFloat(getComputedStyle(e).fontSize)>=14)'))
-       check(tag+' source links at least 44px',p.locator('.ivsrc-link').evaluate_all('es=>es.length>=3&&es.every(e=>e.getBoundingClientRect().width>=43&&e.getBoundingClientRect().height>=43)'))
+       check(tag+' clinical conditions at least 14px',len(measured['conditions'])==1 and all(e['connected'] and e['size']>=14 for e in measured['conditions']),measured['conditions'])
+       check(tag+' source names readable',len(measured['names'])>=3 and all(e['connected'] and e['size']>=14 for e in measured['names']),measured['names'])
+       check(tag+' source links at least 44px',len(measured['links'])>=3 and all(e['connected'] and e['width']>=43 and e['height']>=43 for e in measured['links']),measured['links'])
+      p.locator('#ivcResult').screenshot(path=str(OUT/(tag+'-complete-evidence-panel.png')),animations='disabled')
       for w in [320,768]:
        p.set_viewport_size({'width':w,'height':844});capture(p,'compatibility-'+str(w),tag)
       p.set_viewport_size({'width':width,'height':height});p.get_by_role('textbox',name='Fármaco A',exact=True).fill('amio');capture(p,'suggestions',tag);p.keyboard.press('Escape')
