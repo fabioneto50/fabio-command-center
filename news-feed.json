@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-18T09:27:35.661839Z",
+  "updatedAt": "2026-09-18T10:27:41.636390Z",
   "health": [
     {
-      "title": "Gripe: crianças até 4 anos com vacina grátis, farmácias arriscam ter menos para venda | Saúde - Público",
+      "title": "Gripe: crianças até 4 anos com vacina grátis, farmácias arriscam ter menos oferta para venda - Público",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmxFSDRYczZRN0Nwa2dJSjhOTzdIdlByRXU0YXB5NGxmamxGLWN5WHNuWTBmUl9nWDNMRGFJOFJSVjRENnBaZDJwaFI4Wmx3YmpFXzVaX28wWmtzcW83QmJCaEhqTjdJV0k1VTh4RWxNTUhEV0EySkxBT2lRNUZjRlFDR3FUSUp0RDZ6bmsxcU5YT1RxYXFZMmhDVlV1WU1fQWhURmYxTnNta3F6SU8tbw?oc=5",
       "source": "Público",
       "publishedAt": "2026-09-17T18:41:53Z",
@@ -38,15 +38,6 @@
       "articleUrl": "https://www.tsf.pt/programa/sabseg---protecao-que-faz-diferenca?ep=18127781"
     },
     {
-      "title": "JPP questiona Governo PSD/CDS sobre falhas na climatização em unidades de saúde - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHZ6UDI5ZmxnS05WY1lKekxMZ0dfdlJIdTF4ekdFUVZmcVZyWGR5YUM0a3J5dUpxWnA2Y1V5MDFqY001S21SbmY0TkkxdGZBNFpVTjJPcDdra281UnhlZnNsNjhFaUlzalhtQTRFM3BQZm5KNFBWR3lYckpwOGczbnJuLVc3LWhPOERGS2tmMDZSSlRaVDF0U01xVHNtcFZZMFdWYXUtYnJYRXNldUZYV0hXSTVyVDh3V0k0TGxR?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-18T08:18:00Z",
-      "description": "O Juntos Pelo Povo (JPP) denunciou várias avarias no sistema de climatização de serviços públicos de saúde, com destaque para o Centro de Saúde do Bom Jesus, que acolhe um grande número de utentes. Segundo um comunicado do JPP, divulgado esta sexta-feira, funcionários, doentes e utilizadores têm suportado temperaturas de cerca de 30 graus em espaços fechados, agravando o…",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/LP_18092026.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/18/505866-jpp-questiona-governo-psdcds-sobre-falhas-na-climatizacao-em-unidades-de-saude/"
-    },
-    {
       "title": "Acordo deve expandir oferta de medicamentos contra HIV na América Latina e Caribe - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41bnlsSzl0T3pJTUtfS1Z0S2xjbnNtSUxWZEZvWTFCQTdORWVxSExEU1FUX1hVQ3EwbjlLb0NqVE9BWldLNmhIY0pHR2ZmRHZSdEt6SHhNNA?oc=5",
       "source": "UN News",
@@ -54,6 +45,15 @@
       "description": "Colaboração com Organização Mundial da Saúde na região prevê suporte técnico para capacitação de profissionais, definição de protocolos clínicos e logística nos sistemas de saúde; produção local em estudo no Brasil pode reduzir impactos da epidemia na região.",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/30-07-2026_UNAIDS_Zimbabwe_Vaccine_HIV_Injection.jpg/image770x420cropped.jpg",
       "articleUrl": "https://news.un.org/pt/story/2026/09/1854386"
+    },
+    {
+      "title": "Tuberculose em Portugal: sinais de alerta e a importância de agir - Roche Portugal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0p3d2E3Y2lGSk1fa2xPcF9oWjhCU1lEc25pWTNrb2xzN0UtZEsxQ1NRVzZZSG1OWk9OdGFzX3Z2ZU5SQ3FmeDQzV2Y4NThKV2ZJNC03VXBuNUdUSlRyNXlnbkR4RndiYUpUNVFpVmZuTk9GTm9pVUhHaU9aajdseW1sYUd5Mkl4SXRrbjU5aXdqeHEtODBWbWFNbDlIbEdIeDM3RlNRZ2thZw?oc=5",
+      "source": "Roche Portugal",
+      "publishedAt": "2026-09-18T07:20:00Z",
+      "description": "Conheça os sinais de alerta da tuberculose, os dados epidemiológicos em Portugal e a importância da prevenção, diagnóstico precoce e tratamento.",
+      "image": "https://assets.roche.com/f/174146/1920x946/fb4c1056bf/news20260909_hero.png",
+      "articleUrl": "https://www.corporate.roche.pt/atualidade/tuberculose-em-portugal-sinais-de-alerta-e-a-importancia-de-agir"
     },
     {
       "title": "Hospital de Portalegre: doentes protestam contra alegado corte de horas na Oncologia - HealthNews",
@@ -74,11 +74,11 @@
       "articleUrl": "https://www.dn.pt/sociedade/vacinao-da-gripe-arranca-a-30-de-setembro-e-alargada-a-crianas-dos-dois-aos-quatro-anos"
     },
     {
-      "title": "SPMS destaca interoperabilidade na Saúde nos Santa Maria Innovation Days 2026 - SPMS – Serviços Partilhados do Ministério da Saúde",
+      "title": "SPMS destaca interoperabilidade na Saúde nos Santa Maria Innovation Days 2026 - spms.min-saude.pt",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlCd21mbThOSzNmR1NUTl90QnpfbDJWa2NsUmlBUTJXV2JDWXBLWF92Zk8zZDNTa0dtUGI5VUlzbldQbzZKcC1hQWpWNElBSm5BU3VHUUY4T2ZVWnBpcjQ4S0xsNkQxS2E4RjRrZ1dtNDR6RzhqLUlJRFliSHVMMUxfVUdZdmZNdm9xN3RrR2pwUUVCbFNpZjVEc2MtSHFwMXp0bHBzNjNjRzNiWEtwUnd1SldkNUk?oc=5",
-      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
+      "source": "spms.min-saude.pt",
       "publishedAt": "2026-09-17T18:09:14Z",
-      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por spms.min-saude.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.spms.min-saude.pt/2026/09/spms-destaca-interoperabilidade-na-saude-nos-santa-maria-innovation-days-2026/"
     },
@@ -92,19 +92,19 @@
       "articleUrl": "https://www.diarioaveiro.pt/2026/09/18/estudantes-de-medicina-vao-vestir-a-bata-branca/"
     },
     {
-      "title": "Caminhada Congresso Médicos de Saúde Pública – Espinho - Município de Espinho",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2RZTFo2RkI2T0QzRkE3ckpRZlpGRUp3V3dxTWlwYlZCZHFSOVZ4dlNWNkhESUVlbTY0UzFGeHlpMFZLeGpudVljT3NQRU5xc2JnS3J2a3BMX3pILTlPdnA2YUttUXVEVXZJbk1uS2hXNExXRlJqcW9GZ3hmZkFScXo0N1U5MkVfQkVtMmI4ZkxmQl9MeGhLZA?oc=5",
-      "source": "Município de Espinho",
-      "publishedAt": "2026-09-17T18:25:17Z",
-      "description": "Notícia publicada por Município de Espinho. Abra o artigo para consultar os detalhes completos.",
+      "title": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZFZ6aHZzbTFmZzNtVzlaWnloOHUyWmhsc0I2UHluWDVSTU00ZVlDUV9Ta2NtTVhuck01b0xVWHFOSGpCOTZxcGNKMGlxdkR3Yk1XRjVjRzF6cjRzclp3QVJHeUNsU2hCaVhrQ1FpVVdmdGpBaG4yX09ORnN0SWY0dF9KaXpKZnNReTFJVjJTMk5DTVlVVXhySko4NXVsSTdtUWRsWnIyN3RyOGNzVDdBZGR6Yk8zc1JudmNmRFpCRXI5OWIxcUxGU3piMDNUaXNBenp3YWxLZk9SanhGOGxNZmcxNE5hMzBUWUlqWFNYNEhoYXZNcW5uNVNhREdMQTJj?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-18T05:37:31Z",
+      "description": "Notícia publicada por facebook.com. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Notícias da Saúde - T04 E009 - Vasco Domingos - Saúde Mais TV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUxHZ2JOYVkwQkF3UWdWN3MyYnFDS19BWDZPZEhNWTNNNDFWOEVLSVVIQkxIelllS0tFZzlCc2VyWDJGUTJqSk9ZclZTUmoxQUlWQVlLUFIzUmhwaEtHZUNyUnFJc3plQmFUTkNIU1Rfcm5FRW1SdDNhQWczbWo0bDlhTU5EQQ?oc=5",
-      "source": "Saúde Mais TV",
-      "publishedAt": "2026-09-18T07:46:34Z",
-      "description": "Notícia publicada por Saúde Mais TV. Abra o artigo para consultar os detalhes completos.",
+      "title": "Da Farmácia à Medicina: o que muda, quando mudamos também? - Público",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLW5kMnBhN0xvNDY4dkFjYWhVN2U1QjB3QWYyNkJYQ05wSlZuM2JtZlNVMjR3MXhoVEU5WE42RjBzaUV3ajhoYWdmb1NVbC0tZVB4QVNkMFVJOVRYbi00aG9QNjBhTlJaSUw1V2pQZFRnYXBNcFYwLTBmc1dMS0ZQdU9LQkFtR2Ewb2MzNXZsM3RCbDRLSmNrV2FOQ0t2UkxnXzJlNg?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-18T09:33:47Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,9 +119,9 @@
       "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-17-relatorio-da-onu-aponta-para-crimes-de-guerra-cometidos-pelos-estados-unidos-no-irao-bab6e8e8"
     },
     {
-      "title": "Trump está determinado a pôr fim à guerra com o Irão em breve, afirma conselheiro do presidente dos EUA - pt.euronews.com",
+      "title": "Trump está determinado a pôr fim à guerra com o Irão em breve, afirma conselheiro do presidente dos EUA - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHZpWnZPeHA3WmFDVUNVN1lBZFFhNndCQ1R5N2ROQ0o3Y0JCM0V3cGxnX0RmZ0lhMGZ3c05LR0J1b3VuS3lXMEY1VkFua2RnWEE5THM2UXJicnhiRzc3MmE3dVg0UWVVdFhYTEd0UGpEU2hPcDBoa09hTUJaZG1vMXI1SEZxZjA1dW9pQmh6NTNSTU9qUXRTWm1PckRORDJyUGlic0FyZTRzRW95X2I3TU0yZ0ZGa1g5U1lPUVdzSGxkSDg?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-09-17T16:42:52Z",
       "description": "Massad Boulos, principal conselheiro do presidente dos EUA para assuntos árabes e do Médio Oriente, afirmou que Donald Trump trabalha para pôr fim à guerra de meses, sublinhando ser “uma pessoa que cumpre”.",
       "image": "https://images.euronews.com/articles/stories/09/91/77/13/1200x675_cmsv2_4c44ca5b-6b3d-5bd7-8175-cba994e67722-9917713.jpg",
@@ -137,9 +137,9 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/estados-unidos-recusam-visto-a-mahmoud-abbas_v1766180"
     },
     {
-      "title": "Imagine-se sem a União Europeia - Jornal SOL",
+      "title": "Imagine-se sem a União Europeia - sol.iol.pt",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSm9HcldCWjVUX3hTczczUks1R0pIX0VoSlNlSGcwaGtyU0dJbF9JaThyT0ZGc1A0N2loSUl2MUJyNWRtbTRyU2dRZ29vV2Vkb1BZb0hQYzNjd3RlbWttd21zMlAzelhYckF3cWZvU1dMMjJMZ0tubWVuMlh3WWM1Q2MxeEpVY3VkV0pINGVnSGRsbnRiOUJfRGNJZmF1V2pKMjh0bmxLbGhwR0ZPSEN3Mk5qYW00QQ?oc=5",
-      "source": "Jornal SOL",
+      "source": "sol.iol.pt",
       "publishedAt": "2026-09-18T09:02:27Z",
       "description": "Nada disto é ficção. É apenas o mundo que teríamos se, há quase 70 anos, alguém não tivesse tido a coragem de começar.",
       "image": "https://img.iol.pt/image/id/695a9f720cf28fe4304aa57f/1280.png",
@@ -155,13 +155,13 @@
       "articleUrl": "https://jornaleconomico.sapo.pt/noticias/medio-oriente-estados-unidos-aprovam-venda-de-48-cacas-f-35-a-arabia-saudita/"
     },
     {
-      "title": "EUA acusam agentes russos de preparar ataques e assassínios contra aliados da Ucrânia - Público",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkd5emFTTFlrcUR3dXp0eXVubVdPZHhKNzhxcno0ZXhDWGRpcHRPbUJ6bG5Dc0kxaGc0dFAzeXljSFZXcWRVU1VJRmVya2pzLUZDQjVJV3hzX1cxZ0dYdUhHWTJNLTNmRHRHYklNNU9GTjdLcXhQMVhUV092RWozTWtiVURCUS1PWFE2WHlyLS03TzczVERKb1duM2FBa0ZCU19CbHpsM2tRcFlMWm9CQXBhWlRndEwxQXNQNkNuUjducWFr?oc=5",
+      "title": "“Risível” e “hostil”: Trump reage à hipótese de o Canadá ser membro associado da UE com nova ameaça de tarifas - Público",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNHliQ3JqNk5SSVZ3dGNiMHNRaE1wVFpVdXMzbDBleHl5Z3E0aTU3NlNINkx4SXJqMVFhSWhXdHduRmNUMi13ZkI4Y0FTQ1ktYkN3LXB4X1hfQ0FsWUZHc2dPY2FnZVVPTUJJcHFQQzZxbEhLTk85Rk94enlNYlYzdDcyU0dJWFN4V0xSdnFCRG0zekN0NVFYa3FYOFBUa0NqRnljQ0xudHk1bVlpbXdvVEZ3aEVzampHcXBCcm14RTFzZC1zdXowZ1hiemJEejh1SU9wTA?oc=5",
       "source": "Público",
-      "publishedAt": "2026-09-16T09:46:38Z",
+      "publishedAt": "2026-09-17T08:58:38Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/16/mundo/noticia/eua-acusam-agentes-russos-preparar-ataques-assassinios-aliados-ucrania-2188212"
+      "articleUrl": "https://www.publico.pt/2026/09/17/mundo/noticia/risivel-hostil-trump-reage-hipotese-canada-membro-associado-ue-nova-ameaca-tarifas-2188336"
     },
     {
       "title": "As imagens da destruição em bases militares americanas após ataques do Irã - BBC",
@@ -171,6 +171,15 @@
       "description": "Um avião e edifícios destruídos estão entre as imagens publicadas pela CBS News, emissora parceira da BBC nos Estados Unidos.",
       "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1ace/live/d534ab30-b2a6-11f1-bc1f-3f186ca4140c.jpg",
       "articleUrl": "https://www.bbc.com/portuguese/articles/cw05rv7qj174o"
+    },
+    {
+      "title": "“Dizer que guerras são estúpidas é de La Palice”. Gouveia e Melo diz que PM “não esteve bem” sobre Médio Oriente - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeE1ZVmlOaGRDclIxWlBfMm1ZY3NQcnNOS01qU1A0RTVEcUFKZGU3WlJzRUtXYmNPbzFva25uMUdMNGhNa29VZ3FIUUYzYnpGOGNzMkdzYm5CYjNJaWZFMERONGxERmdsRFVUb2dhaDBlYmczd0ZGRE1laXVqOUNqQWtBVHVBdUd3NW9OZXNNU19GRndILWt0QjU4eGhjUFdQUEgxcmxWeWtvQ2tGTmhnTlVxTEJaai1fZTBoSlVITFFaYm9ibjdINUZJVHFxQjFaNmFJMFlvYUVudl9ISU1RVEVfS1VDUF9kTnVJZlBHSWtjLUt4OFhPVkFR0gH6AUFVX3lxTE54TVlWaU5oZENyUjFaUF8ybVljc1Byc05LTWpTUDRFNURxQUpkZTdaUnNFS1diY09vMW9rbm4xR0w0aE1rb1VncUhRRjNiekY4Y3MyR3NibkJiM0lpZkUwRE40bERGZ2xEVVRvZ2FoMGViZzN3RkZETWVpdWo5Q2pBa0FUdUF1R3c1b05lc01TX0ZGd0gta3RCNTh4aGNQV1BQSDFybFZ5a29Da0ZOaGdOVXFMQlpqLV9lMGhKVUhMUVpib2JuN0g1RklUcXFCMVo2YUkwWW9hRW52X0hJTVFURV9LVUNQX2ROdUlmUEdJa2MtS3g4WE9WQVE?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-18T04:30:00Z",
+      "description": "O antigo candidato presidencial considera que Portugal deve ter “cuidado nos momentos críticos” e zelar pelas “alianças firmes” que o país mantém há séculos. Sobre as fragatas adquiridas a Itália, Gouveia e Melo considera que o negócio foi “honesto”, mas avisa que a integração desses equipamentos “não pode atrasar a transformação e a modernização” da Marinha.",
+      "image": "https://images.rr.pt/youtube48424351_socialshare.png",
+      "articleUrl": "https://rr.pt/noticia/amp/escala-global/2026/09/18/dizer-que-guerras-sao-estupidas-e-de-la-palice-gouveia-e-melo-diz-que-pm-nao-esteve-bem-sobre-medio-oriente/485869/"
     },
     {
       "title": "ONU encontra indícios de que Estados Unidos cometeram crimes de guerra no Irão - RTP",
@@ -195,24 +204,15 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjl0eVYwRFpQdmlMZjkxRHZNMWpsdFE5Ylc0eFp0SzZ0QlMxaUs3Szg1Y3g0VV92eXlaTWU2RjEzVnU2b1dXSEV2T25kbkladWpiU3pjSGVjLWR3bklUUWhHNU02Y2JVOUs2VjJTRzBINXpmbTREaXN2Y1V2bEUtTlI4UTdkTDdHaWRxMEplOFE3Nl8zVHgzRjFvVHc4UUlEdk9mcXR5VUFKSFRLaGlnU3ZrdlJfZmp2MmM5OUNWRmZFWW5TVDNjdG5R?oc=5",
       "source": "VEJA",
       "publishedAt": "2026-09-18T09:00:54Z",
-      "description": "Enquanto o conflito não terminar, seus dolorosos efeitos econômicos de alcance global continuarão a se espalhar",
-      "image": "https://veja.abril.com.br/wp-content/uploads/2026/09/GettyImages-1067986874.jpg.jpg?quality=70&strip=info&resize=1200,630&crop=1",
-      "articleUrl": "https://veja.abril.com.br/economia/guerra-no-oriente-medio-eleva-pressao-sobre-petroleo-e-aumenta-riscos-para-economia-brasileira/"
-    },
-    {
-      "title": "“Caminho estúpido”: Montenegro critica guerra no Médio Oriente - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlFodE5HYWhaVWljRVVJVkZrTDYtZnBnX2NFVW90bnFJcUJVZ1doRWY5RkhIZUVsQjdWTEtKeC1RUkc0QVRjSkdvUURBRFpRb1FTYW1NdXFOQlFOdWpGR2NVa1l6UmNfV0o2UmFNZEFRQUF2b0ZLLTltLTZ6MkZOTnBkUmc5cVB6ZENaRE55c3VnTEdRQXhpVXF6cUhiZmMyUE5MTmVBQXNlQjZVaFHSAbMBQVVfeXFMT3U4VEFJRnR5TGFVYXdkc1cxa1FtTzY5cUJmdFJiQTBuMDEtXzNJaWtTdWphMkVsa0Q0aEdHejZMMHFNRy1aalJCeXkwRnNLZklmSzB6ZHNDcFE3VzJ3SmFVS3VWQWF0cnVNNF9ldFNYQWM0bDdNQ1MwSERkTVlXc3BxdWR5Q216N3JLb3h5eGVFdzdyY1NwV2FTamtnRVdUUVRiRnlRLXN6aEFfT3c2Z3NGdjQ?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-09-17T09:00:00Z",
-      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por VEJA. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "EUA querem redirecionar US$ 52 milhões de verba militar de Europa e Oriente Médio para América Latina - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOU9KV1FDZnBHQkpEazVmdDM5YldRZzlobkptNVpaWlRWcjBuWTNFVlRFdE16RzNNSnpZalhhbkMyUzhjRlhWTTQ1ZGNWWTR6LWNHbm0yUHQtaExzREQwcm1Kc2tGX0xlcHNVNDZCUGlzYmxhdDVpVnpJZUdUbTRIazdpUmpBeXA1eXh1VE9WUFJ6Y2tvMGNYc3pvcHBGM0lyRDBlTmpNTWp3Y0JYNFNaUmdzTzNBRTctNU5TbnE5ZG5QVzB6d2ZNaFBjUnMzQjgzV3lMLU1BWUxzdlAzUi01OXdKbjE?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-09-18T02:00:00Z",
-      "description": "Notícia publicada por Folha de S.Paulo. Abra o artigo para consultar os detalhes completos.",
+      "title": "Ucrânia prevê orçamento recorde de R$ 270 bilhões em 2027 em meio à guerra com a Rússia - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUk4xUGd5cFVVNDJZZFcxVmFzajJmNm11TjI4WVdBcWFXZTBtNUlZRi0wTnFDd1NhU3ZrcFd3aWpYbzBDRDZGTTJMb3luc0Y1Q0x3eHZPUXVVcXlLN09rNUhsUDg5TUx6U0tiVDhCZGJPUm5tQnVEelBoX2VidmVFblRPV1BmcU9GeUhJYWJwcmxrUi1heW1pYWRKSlN3SW54cWVUOVhESHl3Z3dQaS1UUlVObmd0Yi1CR3lwXzczU0swakx3RFJtYmVibGk2a2lrQkkxZ1FYeUxkQdIB6AFBVV95cUxORUR4SjhpaWtzTm5NbjdBNDJ5MUMzZHh1N2pOTW9yS2RHX3VXOHYtTUJ0RWwwZGRjeU1QMU51X0YxQ1F5bUNsdGIxZ3o3UUJmc1UtTmY1ZXFRVC1fR3NJMG5uWW9JZmh2V2sydmZ0RWlCNFVmUWJNZnd1Y25haC0wRkM3MEl1SGZGdndiU0FWNVplc1hiMERzb3J5YjlsNzhGNjhNRXA3aXRyaG9vLTFGOWlxMHdoT1RlX2Z1TzNycE1tOTl6Qi1zZzhia1hKNmVOZjFMWUZIa2ZucHVvMWM3emx6Wkh0TkJC?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-09-17T17:57:35Z",
+      "description": "Notícia publicada por O GLOBO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
