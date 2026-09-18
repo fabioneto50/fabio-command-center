@@ -118,7 +118,7 @@ try:
        for key in ['route','dose','form','reconstitution','reconstitution_stability','dilution','dilution_stability','observations']:
         if row[key]:check(tag+f' {theme} presentation {i} exact {key}',row[key] in text)
       metrics=card.locator('.cuf2213-route').first.evaluate("e=>{const s=[...e.querySelectorAll('.ccd-doc-section')],o=e.querySelector('.ccd-doc-grid-wide .ccd-doc-field'),g=o.parentElement;return {heading:parseFloat(getComputedStyle(e.querySelector('.cuf-route-title')).fontSize),sections:s.map(x=>parseFloat(getComputedStyle(x).fontSize)),body:parseFloat(getComputedStyle(o.querySelector('div')).fontSize),ratio:o.getBoundingClientRect().width/g.getBoundingClientRect().width,emptyColumns:e.querySelectorAll('.ccd-doc-grid > div:empty').length,overflow:e.scrollWidth>e.clientWidth+1}}")
-      check(tag+' '+theme+' readable headings and full-width observations',metrics['heading']>=16 and min(metrics['sections'])>=14 and metrics['body']>=16 and metrics['ratio']>.98 and metrics['emptyColumns']==0 and not metrics['overflow'],metrics)
+      check(tag+' '+theme+' readable headings and full-width observations',metrics['heading']>=16 and min(metrics['sections'])>=14 and metrics['body']>=14 and metrics['ratio']>.98 and metrics['emptyColumns']==0 and not metrics['overflow'],metrics)
       route=card.locator('.cuf2213-route').first;route.scroll_into_view_if_needed();route.screenshot(path=str(OUT/(tag+'-antibiotics-'+theme+'.png')))
       check(tag+' '+theme+' no clinical document overflow',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
       # Collapse before reopening in next theme; show() can retain the expansion state.
