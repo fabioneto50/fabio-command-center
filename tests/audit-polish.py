@@ -122,7 +122,7 @@ try:
       route=card.locator('.cuf2213-route').first;route.scroll_into_view_if_needed();route.screenshot(path=str(OUT/(tag+'-antibiotics-'+theme+'.png')))
       check(tag+' '+theme+' no clinical document overflow',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
       # Collapse before reopening in next theme; show() can retain the expansion state.
-      card.locator(':scope > .ccd-doc-top').click()
+      p.locator('#fccDilutionBack').click()
      check(tag+' no unhandled runtime errors',not errors,errors);report['contexts'].append({'browser':engine,'viewport':[width,height],'pageErrors':errors})
     except Exception as e:
      report['checks'].append({'name':tag+' failure','pass':False,'error':str(e),'trace':traceback.format_exc(),'pageErrors':errors})

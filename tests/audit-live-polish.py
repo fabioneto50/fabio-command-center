@@ -67,7 +67,7 @@ try:
       m=route.evaluate("e=>{const o=e.querySelector('.ccd-doc-grid-wide .ccd-doc-field');return {heading:parseFloat(getComputedStyle(e.querySelector('.cuf-route-title')).fontSize),labels:[...e.querySelectorAll('.ccd-doc-section')].map(x=>parseFloat(getComputedStyle(x).fontSize)),ratio:o.getBoundingClientRect().width/o.parentElement.getBoundingClientRect().width,empty:e.querySelectorAll('.ccd-doc-grid>div:empty').length}}")
       check(tag+' '+theme+' antibiotic card readable and full width',m['heading']>=16 and min(m['labels'])>=14 and m['ratio']>.98 and m['empty']==0,m)
       rendered_theme(p,theme,tag+' antibiotic card')
-      route.screenshot(path=str(OUT/(tag+'-antibiotics-'+theme+'.png')),animations='disabled');card.locator(':scope>.ccd-doc-top').click()
+      route.screenshot(path=str(OUT/(tag+'-antibiotics-'+theme+'.png')),animations='disabled');p.locator('#fccDilutionBack').click()
       check(tag+' '+theme+' no document overflow',p.evaluate('document.documentElement.scrollWidth<=innerWidth+1'))
      check(tag+' no private vault or data created',p.evaluate('!FCCStore.status().configured&&!FCCAccess.isUnlocked()'))
      check(tag+' no unhandled page errors',not errors,errors)

@@ -59,6 +59,7 @@ try:
        for hidden in ['#perfDilutionSearch','#ccdGroup','#ccdOnlyVerified','#fccPerfInfo','#ccdCount','#perfDoseToggle','#clin-perf>.perf-safety']:
         check(t+' no catalogue '+hidden,not p.locator(hidden).is_visible())
        check(t+' bookmark identifies record',p.evaluate('FCCNavigation.route().ref').startswith('d-'))
+       selected.locator('h3').click();check(t+' reading title is not an accidental close control',selected.is_visible() and p.locator('#fccDilutionBack').is_visible() and selected.locator('.ccd-doc-top').get_attribute('role') is None)
        shot(p,t)
        p.go_back();p.wait_for_selector('#perfDilutionSearch');check(t+' browser back restores query',p.locator('#perfDilutionSearch').input_value()==q and p.locator('.top').is_visible())
        p.go_forward();selected.wait_for(state='visible');check(t+' forward restores same record',selected.locator('h3').text_content()==title)

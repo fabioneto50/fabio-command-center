@@ -1,6 +1,6 @@
 /* Generated with a build-specific manifest. Caches only declared public static resources. */
 'use strict';
-const BUILD='1.4.0-8524f181b566',VERSION='1.4.0',BASE=new URL('./',self.location.href),PREFIX='fcc-v2-'+BASE.pathname.replace(/[^a-z0-9]/gi,'_')+'-',CORE=PREFIX+BUILD+'-core';
+const BUILD='1.4.0-eca6d5d854be',VERSION='1.4.0',BASE=new URL('./',self.location.href),PREFIX='fcc-v2-'+BASE.pathname.replace(/[^a-z0-9]/gi,'_')+'-',CORE=PREFIX+BUILD+'-core';
 const MANIFEST_URL=new URL('asset-manifest.json?build='+BUILD,BASE).href;
 let manifestMemory=null;
 const abs=path=>new URL(path,BASE).href;
