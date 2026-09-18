@@ -1,91 +1,80 @@
+/* Dedicated dilution records. The source cards stay in place: no clinical text is cloned or rewritten. */
 (()=>{
-  if(window.__fccDilutionsCardUXV5Installed)return;
-  window.__fccDilutionsCardUXV5Installed=true;
-
-  function targetOf(tab){
-    const on=tab?.getAttribute('onclick')||'';
-    return on.match(/subtab\([^,]+,\s*['"]([^'"]+)['"]/)?.[1]||tab?.dataset?.subId||'';
+ 'use strict';
+ if(window.__fccDilutionsCardUXV5Installed)return;
+ window.__fccDilutionsCardUXV5Installed=true;
+ let host,grid,selected='',generation=0,scheduled=false;
+ const cards=()=>[...grid.querySelectorAll(':scope > .ccd-doc-card')].filter(x=>x.dataset.cufSuperseded!=='1');
+ const current=()=>window.FCCNavigation?.current()==='clinical'&&FCCNavigation.route().sub==='clin-perf';
+ // Stable public identity, including formulation/brand for legacy entries. Two 32-bit hashes avoid long URLs.
+ function recordId(card){
+  const top=card.querySelector(':scope > .ccd-doc-top');
+  const name=top?.querySelector('h3')?.textContent||'';
+  const key=card.dataset.cufCurrent||card.dataset.cufDrug?'cuf|'+name:'legacy|'+name+'|'+(top?.querySelector('p')?.textContent||'');
+  let a=2166136261,b=5381;for(const c of key){const n=c.codePointAt(0);a=Math.imul(a^n,16777619);b=Math.imul(b,33)^n;}
+  return 'd-'+(a>>>0).toString(16).padStart(8,'0')+(b>>>0).toString(16).padStart(8,'0');
+ }
+ function filters(){return {q:document.getElementById('perfDilutionSearch').value,g:document.getElementById('ccdGroup').value,v:document.getElementById('ccdOnlyVerified').checked?'1':''};}
+ function decorate(){
+  for(const card of cards()){
+   const top=card.querySelector(':scope > .ccd-doc-top'),details=card.querySelector(':scope > .ccd-doc-details');if(!top||!details)continue;
+   const id=recordId(card),on=selected===id;card.dataset.fccRecordId=id;
+   card.classList.toggle('fcc-record-selected',on);card.classList.toggle('ccd-card-open',on);
+   if(details.open!==on)details.open=on;
+   top.setAttribute('role','button');top.tabIndex=0;top.setAttribute('aria-expanded',String(on));
+   top.setAttribute('aria-label',(on?'Voltar aos resultados: ':'Abrir ficha: ')+(top.querySelector('h3')?.textContent||'medicação'));
   }
-
-  function renameDilutions(){
-    const wrap=document.querySelector('#page-clinical > .tabs');
-    const tab=[...(wrap?.querySelectorAll(':scope > .tab')||[])].find(t=>targetOf(t)==='clin-perf');
-    if(tab&&tab.textContent.trim()!=='Diluições')tab.textContent='Diluições';
-    const head=document.querySelector('#clin-perf .perf-head h3');
-    if(head)head.textContent='Diluições · UCIP + Urgência';
+ }
+ function leave(){
+  generation++;selected='';if(!host)return;
+  host.dataset.fccDilutionView='list';host.dataset.fccRecordView='list';
+  document.getElementById('fccDilutionBackBar').hidden=true;decorate();
+ }
+ function open(card,{route=true,focus=true}={}){
+  if(!card||!current())return false;
+  if(route){FCCNavigation.replaceFilters(filters());FCCNavigation.replaceDetail(recordId(card),false);}
+  selected=recordId(card);host.dataset.fccDilutionView='detail';host.dataset.fccRecordView='detail';
+  document.getElementById('fccDilutionBackBar').hidden=false;decorate();
+  const title=card.querySelector('.ccd-doc-top h3');title.tabIndex=-1;
+  document.title=title.textContent+' · Ficha de medicação';
+  if(focus){window.scrollTo({top:0,behavior:'instant'});title.focus({preventScroll:true});}
+  return true;
+ }
+ function back(){
+  const id=selected,y=FCCNavigation.replaceDetail('',true);leave();
+  const top=cards().find(x=>recordId(x)===id)?.querySelector('.ccd-doc-top');
+  document.title='Perfusões e diluições · Fábio Command Center';
+  requestAnimationFrame(()=>{if(!current()||selected)return;top?.focus({preventScroll:true});window.scrollTo({top:y,behavior:'instant'});});
+ }
+ async function restoreRoute(route,{focus=false}={}){
+  leave();const ticket=generation,f=route.filters||{};
+  const input=document.getElementById('perfDilutionSearch'),group=document.getElementById('ccdGroup'),only=document.getElementById('ccdOnlyVerified');
+  const q=String(f.q||''),g=[...group.options].some(x=>x.value===f.g)?f.g:'',v=f.v==='1';
+  const changed=input.value!==q||group.value!==g||only.checked!==v;
+  input.value=q;group.value=g;only.checked=v;if(changed)window.renderPerfDilutions();
+  if(!route.ref){decorate();return true;}
+  // Institutional enhancement follows the source renderer. Resolve the final card, not an earlier placeholder.
+  const deadline=performance.now()+2500;
+  do{
+   await new Promise(r=>setTimeout(r,25));if(ticket!==generation||!current())return false;
+   decorate();const found=cards().find(x=>recordId(x)===route.ref);
+   if(found)return open(found,{route:false,focus});
+  }while(performance.now()<deadline);
+  FCCNavigation.replaceDetail('',true);FCCUI.notify('Ficha não encontrada. A lista continua disponível.','error');return false;
+ }
+ function install(){
+  host=document.getElementById('clin-perf');grid=document.getElementById('perfDilutionGrid');if(!host||!grid)return false;
+  const bar=document.createElement('div');bar.id='fccDilutionBackBar';bar.className='fcc-record-bar';bar.hidden=true;
+  const button=document.createElement('button');button.id='fccDilutionBack';button.className='btn';button.type='button';button.textContent='← Voltar aos resultados';button.onclick=back;bar.append(button);grid.before(bar);
+  const style=document.createElement('style');style.id='ccd-card-ux-v5-style';
+  style.textContent='#perfDilutionGrid .ccd-doc-top{position:relative;cursor:pointer;padding:10px 32px 10px 10px;border:1px solid var(--line);border-radius:12px;outline:none}#perfDilutionGrid .ccd-doc-top:focus-visible{outline:3px solid var(--clinical);outline-offset:3px}#perfDilutionGrid .ccd-doc-top:after{content:"›";position:absolute;right:12px;top:16px;color:var(--clinical)}#perfDilutionGrid .fcc-record-selected>.ccd-doc-top:after{display:none}#perfDilutionGrid .ccd-doc-details>summary{display:none!important}';document.head.append(style);
+  grid.addEventListener('click',e=>{const top=e.target.closest('.ccd-doc-top');if(!top||!grid.contains(top))return;e.preventDefault();const card=top.closest('.ccd-doc-card');if(selected===recordId(card))back();else open(card);});
+  grid.addEventListener('keydown',e=>{const top=e.target.closest('.ccd-doc-top');if(!top||!grid.contains(top)||!['Enter',' '].includes(e.key))return;e.preventDefault();const card=top.closest('.ccd-doc-card');if(selected===recordId(card))back();else open(card);});
+  new MutationObserver(()=>{if(scheduled)return;scheduled=true;queueMicrotask(()=>{scheduled=false;decorate();});}).observe(grid,{childList:true,subtree:true});
+  for(const id of ['perfDilutionSearch','ccdGroup','ccdOnlyVerified']){
+   const el=document.getElementById(id);el.addEventListener(id==='perfDilutionSearch'?'input':'change',()=>{if(!current())return;leave();FCCNavigation.replaceFilters(filters());});
   }
-
-  function addStyles(){
-    if(document.getElementById('ccd-card-ux-v5-style'))return;
-    const s=document.createElement('style');
-    s.id='ccd-card-ux-v5-style';
-    s.textContent=`
-      #perfDilutionGrid .ccd-doc-top{position:relative;cursor:pointer;border:1px solid transparent;border-radius:11px;padding:8px 34px 8px 8px;margin:-5px -5px 0;transition:border-color .14s ease,background .14s ease;outline:none}
-      #perfDilutionGrid .ccd-doc-top:hover{border-color:var(--line-strong);background:rgba(98,212,255,.045)}
-      #perfDilutionGrid .ccd-doc-top:focus-visible{border-color:var(--clinical);box-shadow:0 0 0 2px var(--clinical-soft)}
-      #perfDilutionGrid .ccd-doc-top:after{content:'›';position:absolute;right:11px;top:50%;transform:translateY(-50%);font-size:18px;line-height:1;color:var(--muted);transition:transform .14s ease,color .14s ease}
-      #perfDilutionGrid .ccd-doc-card.ccd-card-open>.ccd-doc-top:after{transform:translateY(-50%) rotate(90deg);color:var(--clinical)}
-      #perfDilutionGrid .ccd-doc-card.ccd-card-open>.ccd-doc-top{border-color:rgba(98,212,255,.30);background:var(--clinical-soft)}
-      #perfDilutionGrid .ccd-doc-details>summary{display:none!important}
-      #perfDilutionGrid .ccd-doc-details{margin-top:10px}
-      @media(max-width:760px){#perfDilutionGrid .ccd-doc-top{padding-right:34px}}
-    `;
-    document.head.appendChild(s);
-  }
-
-  function decorate(){
-    renameDilutions();
-    document.querySelectorAll('#perfDilutionGrid .ccd-doc-card').forEach(card=>{
-      const top=card.querySelector(':scope > .ccd-doc-top');
-      const details=card.querySelector(':scope > .ccd-doc-details');
-      if(!top||!details)return;
-      top.setAttribute('role','button');
-      top.setAttribute('tabindex','0');
-      top.setAttribute('aria-expanded',String(details.open));
-      top.setAttribute('aria-label',(details.open?'Fechar ':'Abrir ')+(top.querySelector('h3')?.textContent?.trim()||'detalhes da medicação'));
-      card.classList.toggle('ccd-card-open',details.open);
-    });
-  }
-
-  function toggle(top){
-    const card=top?.closest('.ccd-doc-card');
-    const details=card?.querySelector(':scope > .ccd-doc-details');
-    if(!card||!details)return;
-    details.open=!details.open;
-    card.classList.toggle('ccd-card-open',details.open);
-    top.setAttribute('aria-expanded',String(details.open));
-    top.setAttribute('aria-label',(details.open?'Fechar ':'Abrir ')+(top.querySelector('h3')?.textContent?.trim()||'detalhes da medicação'));
-  }
-
-  function install(){
-    const host=document.getElementById('clin-perf');
-    const grid=document.getElementById('perfDilutionGrid');
-    if(!host||!grid)return false;
-    addStyles();renameDilutions();decorate();
-
-    grid.addEventListener('click',e=>{
-      const top=e.target.closest('.ccd-doc-top');
-      if(!top||!grid.contains(top))return;
-      e.preventDefault();
-      toggle(top);
-    });
-    grid.addEventListener('keydown',e=>{
-      const top=e.target.closest('.ccd-doc-top');
-      if(!top||!grid.contains(top)||(e.key!=='Enter'&&e.key!==' '))return;
-      e.preventDefault();
-      toggle(top);
-    });
-
-    const mo=new MutationObserver(()=>queueMicrotask(decorate));
-    mo.observe(grid,{childList:true,subtree:true});
-    const tabs=document.querySelector('#page-clinical > .tabs');
-    if(tabs)new MutationObserver(()=>queueMicrotask(renameDilutions)).observe(tabs,{childList:true,subtree:true,characterData:true});
-    setTimeout(decorate,150);
-    setTimeout(decorate,700);
-    return true;
-  }
-
-  let tries=0;
-  const boot=()=>{tries++;if(install()||tries>60)return;setTimeout(boot,120)};
-  boot();
+  window.FCCDilutionView=Object.freeze({restoreRoute,leave,back,open,recordId});decorate();return true;
+ }
+ let tries=0;const boot=()=>{if(install()||++tries>60)return;setTimeout(boot,120);};boot();
 })();
