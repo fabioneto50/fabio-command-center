@@ -1,41 +1,23 @@
 {
-  "updatedAt": "2026-09-19T17:18:13.650359Z",
+  "updatedAt": "2026-09-19T20:42:36.276519Z",
   "health": [
     {
-      "title": "ADN pede quadro actualizado das necessidades de enfermagem na Região - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnBkd3NIQnIzVVpoQzQ5R3pQcU12cDFaMVRERV8zLXdHb0Y3bDdTQTFyWFpxWjVrZ3MxSmZjZ3Ffb0tPYnplWjNMZm0zb3RiZEpuU3dwcXRHTUJFcjh2c1M3Z0JMdXkxMnczc1U4Wkt1MjBwV1FUdW91ZUVJWS1HWXJ5SnJhVV9UN3ZQNklkM3J0WnFlT2ZnazdXbGdldXFyODNtNzI1UFl2ODhoajJBRg?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-19T10:45:00Z",
-      "description": "O ADN Madeira decidiu escrever um comunicado no qual pede esclarecimentos e uma resposta coordenada para os vários bloqueios que continuam a afectar a enfermagem na Região, indo à edicão do DIÁRIO de sexta-feira recuperar processos de equivalência pendentes há cerca de três meses, citando também os 80 enfermeiros ainda em reserva de recrutamento do SESARAM e cerca de 200…",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoIMG_3328.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/19/505990-adn-pede-quadro-actualizado-das-necessidades-de-enfermagem-na-regiao/"
+      "title": "Utente ateia dois fogos no Hospital de Santa Maria em Lisboa - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXBvekJvRDVuaTI1UTNMTjZOTlM0U2o0LXNVVEgzMnhwNEc1U3g3Rk5GeGRhMFNPVWd2T2RBVW9JSTlCWXhvWDhOVVhkNXNlRlg5UndHX3RxWnY1NVE1Ti1Zc29uZDZXdk55YmluUHRIendkWGtIUE5PV3hFbThzZ00wTGE3X0lTenlxNURfdkFKRk9SMUtPMURpZzF1QkF6UXRCbXpZcDNKREhLVm1DeGplbnh1OEZOdEE1OTNTUWpiOU9IdUJXLWp3SkNUdw?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-19T11:53:00Z",
+      "description": "A mulher encontra-se agora internada na Ala de Psiquiatria",
+      "image": "https://img.iol.pt/preset/588601560cf26ed0e074e6b0/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/utente/fogo/utente-ateia-dois-fogos-no-hospital-de-santa-maria-em-lisboa/20260919/6aae77c2d34e9a786e758a99"
     },
     {
       "title": "Seis meses de urgência regional de obstetrícia: Loures realizou quase 1500 partos - Público",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEdyclh5TnBkWHJGWW1SUTNzeWRTeGlmZjlIVXdDWFZLRnJ6RndWdzFncVM4bHpLSHV5QUdkUnVUa2JHTUdDX3ptTFFNamhaYnJ0dkhVVDA2VW85eFV2THhIWExPRmVrMnd1Mi1wbWdEWWVSb2kzeU5ZVURleVBWWEtRbHVoUTgzZDlnYktpZGc0QmtockQxQzJCbHhGSW02Wnc4SzhXT0hDZVNQZno4cUcxdmFBdWNXdkNfOWVBTks1RFd4Q2Ytd1VpckVSTE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUkZFNUlxUWp5Y3ctYlV5OEo2T25TWmxZV0dJdEdtS1RNYThOOUxYMDJJTmJRcVhDVkxraGhzcVkxSjNIS0c3bTV6VGlGUDNWYU5FdUZfTGgzV0JJdXRUTlpRcWszUmFGTHpGZjlzMnpkekV1MjR5Tm9KSDhMMVN2NEREMUswbEs1MG9DSmxYRUlrUDdfbFByaERVMGFBM3pBcS0xSnB1TXlLVnEzNGNaODZXcFhWd2pVV0pUZmx2M25ZMnVXdHJDd1Z6cTc4cHZOekxlR2txZW5Wd2drUHlmOF9zZEg4SHBrb25QQ3NR?oc=5",
       "source": "Público",
       "publishedAt": "2026-09-19T16:40:00Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/19/sociedade/noticia/seis-meses-urgencia-regional-obstetricia-loures-realizou-quase-1500-partos-2188575"
-    },
-    {
-      "title": "Falta de anestesistas condiciona Hospital de São José. Resposta deverá normalizar com fim das férias - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRzZiaEIyUE9OcHphSGhXN09mZHBoTjJua0R6c0hnYzJHYnRnbXhVU1VtcVktRl9teVBaQ0tfQzZJUklxbDNoMlFRV2g5c2x2OHlnRW10ZzBKSFdTcWZGUE9xUHZETVdTMzNlTktTYUJaeDMyUG9VX1F6Wm5SdnBlSUVlbVpSNWFoTlZPSUFWMlpPY3U1aFBnQ3Q0bU9ZSHJFWkhta1piWHBPNUNoSXRiNENKZDBiNzl4aGpqdG1UeUxiT3phMGJhTzJ3Ql9XeE52UmFEYUlNX0ZGTEFhakdtb3BRNFh1UWRrZHdkSDBjYTcyVDF3WkhIeEhfMmtSVjh1?oc=5",
-      "source": "Jornal SOL",
-      "publishedAt": "2026-09-19T11:25:46Z",
-      "description": "Ausências por doença e licenças parentais coincidiram com o período de férias e dificultaram o preenchimento das escalas. Ao SOL, o hospital garante ter uma das maiores equipas de anestesiologia do país e prevê uma \"normalização gradual\" da capacidade de resposta com o regresso dos profissionais.",
-      "image": "https://img.iol.pt/preset/695ab9ba0cf2c7eb244697b6/og/sol",
-      "articleUrl": "https://sol.iol.pt/sociedade/noticias/falta-de-anestesistas-condiciona-hospital-de-sao-jose-resposta-devera-normalizar-com-fim-das-ferias/20260919/6aae71b30cf299bc2953cc84"
-    },
-    {
-      "title": "IGAS quer pagamento à entrada do hospital para evitar dívida - Observador",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajczS2lib2R0ZjZGcGZGQnNQN1c1V09HY3pEUjBkelVrZnRaSlVxQUJKdHAzMElkODZIUjgwNTZCaW5uQzNPNjdOWUplNEFUSlNnOGR1aEdNY0ZfcGo1NnM0dDFQdDVYc2FtWVRlVXU1VjNvNzFmSEJkMmpYWFF5Nk9YaXNiT0hDRmFFb202TVlQRkU5YzZVdmlTNm9ZRVF2ejF5bTJRMVJOTTFOOXJGaVFhUkFvcmNxdnAtMGhxakdMZUdIdmVBUXdkY0lrWE04LXRwRFJudmhSa0hFYmJHVWtnUGZ4eUVLWUVGZ0U2WGdtWXc1?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-18T18:30:07Z",
-      "description": "IGAS fez várias recomendações aos hospitais e à Administração Central do Sistema de Saúde sobre o acesso de não residentes ao SNS. Entidade quer também que as dívidas sejam tornadas públicas.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A213%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F09%2F16154740%2Fdventura-urgencia-sao-jose-2-scaled.jpg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/18/turismo-de-saude-igas-quer-taxas-moderadoras-pagas-a-entrada-dos-hospitais-e-sistema-de-check-out-para-evitar-fugas-a-pagamentos/"
+      "articleUrl": "https://www.publico.pt/2026/09/19/sociedade/noticia/seis-meses-urgencia-regional-obstetricia-loures-realizou-quase-1500-partos-2188575?ref=hp&cx=bloco_cat_15"
     },
     {
       "title": "Festival da Saúde estreia-se em Tomar com mais de 130 sessões gratuitas - O Mirante",
@@ -47,13 +29,40 @@
       "articleUrl": "https://omirante.pt/sociedade/2026-09-19-festival-da-saude-estreia-se-em-tomar-com-mais-de-130-sessoes-gratuitas-911b8c33"
     },
     {
-      "title": "Rainha Mette-Marit será protegida por nova decisão de hospital em momentos de saúde delicados - caras.pt",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbW1VNG9ESEowNG9PYlExQXFsM3ZOS3FJNjMyel9nLUMxNWFjd2J6dVh6eG9vbDFxM0EyTDZpU0lQZmtXdUtPMFNueVFadGxFU2NMSG9DeVNzZFp3OWM3WEF3X0hwb085WlllY0g5WXJ5eV9OSWk0c0VSYkVKdlFXWE5JRFVSdXJfdzNqdnIxaGEzM2hlUnhVajRvYUJudE1SR3lrTnhwdkx6TGdJU1N2Y2pZTkNMOXJpNHpwSVVWTDRjd085UU0xXzNR?oc=5",
-      "source": "caras.pt",
-      "publishedAt": "2026-09-19T14:18:00Z",
-      "description": "O Hospital Universitário de Oslo proibiu captação de imagens nas urgências após episódios polémicos com a Rainha Mette-Marit e o Rei Harald V",
-      "image": "https://caras.pt/wp-content/uploads/2026/09/260919_rainhamettemarit-gettyimages-600x315.jpg",
-      "articleUrl": "https://caras.pt/realeza/2026-09-19-rainha-mette-marit-sera-protegida-por-nova-decisao-de-hospital-em-momentos-de-saude-delicados/"
+      "title": "ADN quer “resposta coordenada” para “bloqueios que afectam a enfermagem” na RAM - Funchal Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnp1SXR6QXlYYl9SaGMweHJzMXJTTmowRE1HcEZlSDZoNG02Wkg3Mm13eHVPemlSb2ZfanhQVGhvSzl5VDlpQjA2TUN4X1lXSmh3R19CSHNfNk1DYzQ0NEtUdHlaLURWSnFsSlJ6dE5kU1diekhMV05RLWd6ZjFxaW5fck1xWm5JMU5YV3JRbzNRT0h3aUNkTzhXZVFYcklkOC12NGRibVo1YTFtUGdGSW1LUy1KUQ?oc=5",
+      "source": "Funchal Notícias",
+      "publishedAt": "2026-09-19T17:19:04Z",
+      "description": "O ADN Madeira veio pedir esclarecimentos e uma resposta coordenada para os vários bloqueios que continuam a afectar a enfermagem na Região: processos de equivalência pendentes há cerca de três mese…",
+      "image": "https://i0.wp.com/funchalnoticias.net/wp-content/uploads/2026/09/adn-2.png?fit=1200%2C675&ssl=1",
+      "articleUrl": "https://funchalnoticias.net/2026/09/19/adn-quer-resposta-coordenada-para-bloqueios-que-afectam-a-enfermagem-na-ram/"
+    },
+    {
+      "title": "Amplified Creations aplica realidade virtual na saúde - Jornal de Leiria",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUJZNTRsbXhUazhFZ2RMYnEyYkJmYlFHY19NMXZYUm1vSVAxZXBzbnJyVFdTcHg3VlcwZklJdzhaSUd6VHMzZUdhVzNETEZoRkM2b2V0bkpiYVRxMXI3ejBuYnl4dDJLLVRDUHpzaHgtblhmVHBQTHJZZE9tMTZDai1VTkFQLXh2ckRfYi1IOHFSOHFJeGc?oc=5",
+      "source": "Jornal de Leiria",
+      "publishedAt": "2026-09-19T18:00:58Z",
+      "description": "Depois do mercado nacional, tecnologia segue para a internacionalização",
+      "image": "https://www.jornaldeleiria.pt/uploads/r/x/w/rver-770x470-rxwh_facebook.jpg",
+      "articleUrl": "https://www.jornaldeleiria.pt/noticia/amplified-creations-aplica-realidade-virtual-na-saude"
+    },
+    {
+      "title": "ADN pede quadro actualizado das necessidades de enfermagem na Região - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnBkd3NIQnIzVVpoQzQ5R3pQcU12cDFaMVRERV8zLXdHb0Y3bDdTQTFyWFpxWjVrZ3MxSmZjZ3Ffb0tPYnplWjNMZm0zb3RiZEpuU3dwcXRHTUJFcjh2c1M3Z0JMdXkxMnczc1U4Wkt1MjBwV1FUdW91ZUVJWS1HWXJ5SnJhVV9UN3ZQNklkM3J0WnFlT2ZnazdXbGdldXFyODNtNzI1UFl2ODhoajJBRg?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-19T10:45:00Z",
+      "description": "O ADN Madeira decidiu escrever um comunicado no qual pede esclarecimentos e uma resposta coordenada para os vários bloqueios que continuam a afectar a enfermagem na Região, indo à edicão do DIÁRIO de sexta-feira recuperar processos de equivalência pendentes há cerca de três meses, citando também os 80 enfermeiros ainda em reserva de recrutamento do SESARAM e cerca de 200…",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoIMG_3328.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/19/505990-adn-pede-quadro-actualizado-das-necessidades-de-enfermagem-na-regiao/"
+    },
+    {
+      "title": "IGAS quer pagamento à entrada do hospital para evitar dívida - Observador",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajczS2lib2R0ZjZGcGZGQnNQN1c1V09HY3pEUjBkelVrZnRaSlVxQUJKdHAzMElkODZIUjgwNTZCaW5uQzNPNjdOWUplNEFUSlNnOGR1aEdNY0ZfcGo1NnM0dDFQdDVYc2FtWVRlVXU1VjNvNzFmSEJkMmpYWFF5Nk9YaXNiT0hDRmFFb202TVlQRkU5YzZVdmlTNm9ZRVF2ejF5bTJRMVJOTTFOOXJGaVFhUkFvcmNxdnAtMGhxakdMZUdIdmVBUXdkY0lrWE04LXRwRFJudmhSa0hFYmJHVWtnUGZ4eUVLWUVGZ0U2WGdtWXc1?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-18T18:30:07Z",
+      "description": "IGAS fez várias recomendações aos hospitais e à Administração Central do Sistema de Saúde sobre o acesso de não residentes ao SNS. Entidade quer também que as dívidas sejam tornadas públicas.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A213%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F09%2F16154740%2Fdventura-urgencia-sao-jose-2-scaled.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/18/turismo-de-saude-igas-quer-taxas-moderadoras-pagas-a-entrada-dos-hospitais-e-sistema-de-check-out-para-evitar-fugas-a-pagamentos/"
     },
     {
       "title": "Webinar internacional discute diagnóstico precoce da doença de Alzheimer - HealthNews",
@@ -74,37 +83,28 @@
       "articleUrl": "https://www.jn.pt/justica/artigo/mulher-ateia-fogo-a-carro-e-a-lencol-no-hospital-de-santa-maria/18128347"
     },
     {
+      "title": "Hospital dos Bonecos na Terceira recebeu mais de 450 crianças - RTP Açores",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDliUnZxenMydldQTXNiUXlqUGhYZ1ZrcmljSEE5dUlYQkFVaXJQOTl6QS1qX2twdy02bHRhdFFjQTN0M2dqQ0FOOFVpYWZNNEVsdlltUm54SGcwYzJyQ2ZQRnBHMGdkYnlfS243ME0xRXZNMktoOEs1S3E1UGxwZW4wWHRYSWplSV82RHlxMGtUOEIw?oc=5",
+      "source": "RTP Açores",
+      "publishedAt": "2026-09-19T12:21:00Z",
+      "description": "...serem tratados por profissionais de saúde.",
+      "image": "https://acores.rtp.pt/wp-content/uploads/2026/09/HOSPITAL-BONECOS-TERCEIR.png",
+      "articleUrl": "https://acores.rtp.pt/radio/hospital-dos-bonecos-na-terceira-recebeu-mais-de-450-criancas/"
+    },
+    {
       "title": "Doentes urgentes esperam quase seis horas no Amadora-Sintra - Expresso",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXNjYWFycFVzNWF0S2V2QWswZnRQcTdNVkdoSWxQN3VCclNjcW9vamNCZUtrekF5VU5ha3ZCRjZLb3dLTUhLYVZHOEo1WHpCSGZTY05OWkhhUzIzR1JGMEUzblJGN2l3Z05TLUxBc2staHpnbWE5Si1MWFFISWdRU2p2T0dRRzNPQTQwR0VvamdSVG0wVmtJa2VHT0pORDlTRVktbEgwOTVMQ2sza1E?oc=5",
       "source": "Expresso",
       "publishedAt": "2026-09-19T09:36:07Z",
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/2026-09-19-doentes-urgentes-esperam-quase-seis-horas-no-amadora-sintra-7bfadd0b"
-    },
-    {
-      "title": "Refeição na cantina da escola leva dezenas de miúdos para o hospital no norte - nit.pt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkZ1cV9FcTR6VU84NkVKNjhxbGxEYlloM3UwdXNCNnNjX1ZPSHhoNUtVLTNxYzZLc1YxZmlXU1JqVG5SbHlWV3VuSXZnOGhtR0FMUk5zdWJDZ1JGNU9oaVlfSXRWRngtX2tmR2ZfbHZEazRXYVhOQWVWUU40Yk9SWDZieHlxX2FndElFYTAwaWZ4ZW9tQ1kxNWNCdWpHdUhNTEVBZGQ0ZFBvdw?oc=5",
-      "source": "nit.pt",
-      "publishedAt": "2026-09-19T09:59:00Z",
-      "description": "A doença manifesta-se através de sintomas como diarreia, vómitos, náuseas, dores ou cólicas abdominais e febre.",
-      "image": "https://www.nit.pt/wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php?post_id=1696026&ts=20260919110959",
-      "articleUrl": "https://www.nit.pt/fit/saude/refeicao-na-cantina-da-escola-leva-dezenas-de-miudos-para-o-hospital-no-norte"
-    },
-    {
-      "title": "Pequeno Xavi vive sonho em Alvalade: criança com doença rara dará força aos jogadores do Sporting contra o Arouca - Record",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbUJja0xhbWxyTWZqUjQxeWJTZWpIV1F4VS04QUdFc3lDeEhzTnVwNHIxTkNrNW82UkY1ZzJEMTBrMkZSWnRic203QlNrUGxZRVQxT1hwaGRINm1lLUNvdGRqd1NzRHBxUmE2SGUtU2ZPWFY0bG1mUXl5VnoxejZ5SjRjM2FsUWpFU1V5N1NmNWIyc0RVSzVLZ2pWVXAxbU0yODRRVUtiQVVkZ3dZNFhTTmpkTVhlRk5qeElDTHZFSmVkVnZoT3BjTjJ1a1dfZHBBNzFFN3ZWdlZuTG9WN1JYZmdxNHR6OUpKVHdPNDk4ZlBJTXQ3aGFRUzQzMjIxU2lMMG95WjA4N0l4Z2UtelBaSl90TnhoQ3pMT015c05IVFJKZmZqVkhn0gGTAkFVX3lxTE1jUDRCMUtneGhId1lYRTlBQ2VjY21POFlQdUgtX0UyeVE0czlOUUxqeGJ6Q0RHMU9iX3RFSUNQMTNxQnlGVm5idnEzamIweEdrT0FKX0VUaGtfSm16UHNXSnV3TmxJOFpzOTl5Y2ZoajViQzJHX3dHVWhKT2d2UzQwMFJvWTVPeFRGRVBycGtnLXlGdWZnZDdlUFdpWEtwbEsybW1zYlpfekk1X0l6Y2ZOb3lWZzVHMWZMdWx5UnBhbG5YWU83QnhLZDFHaVJwdG9EOEI2MXhCcGhYcWh1SXRYVEJXUy0zYXVObEdKclJ0RVVxRUt0VVBPUFMxMzFic0Fkd0tNaWY3MlJ4RVBWRzF3R21v?oc=5",
-      "source": "Record",
-      "publishedAt": "2026-09-19T15:35:21Z",
-      "description": "Notícia publicada por Record. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "ADN Madeira pede resposta coordenada para os bloqueios na enfermagem - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWFidlBJeU9jT20tMDl3TVdLeXg1MlBBOTRtc3VoT2F6al9pa1RUZXI1QlZfNFVHVlUzS2hHeWkwbXVkaGtWVmhBc1JZTWRYSjZnaUZkazh1UlVFb0ViRDlwdVFjYkVQUHVFY1dnWVNOTm9hM19ZVnVvQjF0em01Wi1YcnlrM2R3NFZmb253X3dwZzVmZkJnb2RPOVEzdFE4M3VrX0VnMTJNWlJVNDlqd09vVmlWbHBfMm9hSTdqVS1MNHhtQXN0cw?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-09-19T10:41:06Z",
-      "description": "Notícia publicada por JM Madeira. Abra o artigo para consultar os detalhes completos.",
+      "title": "Após críticas, ACSS diz que novo modelo de escolha de vagas do internato garante mais transparência - Público",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1A0WlBfazFFa1NHU0hmU0s5bUF4YVdMVDlwbWRCNHFjTXpxektIdG5IWTdOSnpiazhfdFRtSWU1QnlhZkpZb3lST1J4WUZGeDRJTHdFY281ZDAyZGRFYkhiNmJ5U25RaV9LS1lwdkVpa01nR3JPaEZ6RWRncy11aTE1WE9qMkxQbUYzQ1k1Y25YMXY5YVZ4d1czOVdyX1BuUWMyUmJtT3ZKdlhtcVlaZ2dObGdNQ2Q4Q2RQbms2a01ZTGc4Z0FsYzYyZ3FNT3pYOGhpTmp6NEVBSFNCNDRj?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-19T19:44:18Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -119,15 +119,6 @@
       "articleUrl": "https://www.publico.pt/2026/09/19/mundo/noticia/bases-norteamericanas-medio-oriente-sofreram-danos-graves-ataques-iranianos-2188653"
     },
     {
-      "title": "Estados Unidos: Trump promulga novas sanções contra a Rússia - rfi.fr",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU9aYVBzRkJDRkxtaVZRSWFPRWo3TWt1NWZBYVRwRmM3RkFsSVlkbUdld1NVdE5INkpEWGpKUEMwQnJLQzEzX3Q4RHJfSVpDdFAwc1JFbzVPNm1ibzFaajNHRGhGQ05UOFg4WmVYMUh5Z2lrX2FjR2xNR2JhM1FETzNhNmdpNEpONmd4MlBRMHA4WFZmX3ZsMEhidGJrXzNQVTNiY1YwYWdWZWNVaS1yeg?oc=5",
-      "source": "rfi.fr",
-      "publishedAt": "2026-09-19T11:54:13Z",
-      "description": "Donald Trump promulgou, esta sexta-feira, 18 de Setembro, uma lei que impõe novas sanções contra a Rússia devido à guerra na Ucrânia. A decisão visa, em particular, o sector energético russo.",
-      "image": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1280/p:16x9/AP26261726847272.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260919-estados-unidos-trump-promulga-novas-san%C3%A7%C3%B5es-contra-a-r%C3%BAssia"
-    },
-    {
       "title": "Gastos dos EUA na guerra contra Irão superam 43,6 mil milhões de dólares até setembro - RTP",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUpnZHdqM1NxV1JscktjWE1raGViaE5VaWpSNnJIMGZuUW05QlpuWGxjTEM1SmxZT2wyb2tVajR4TTF5SEhPNkQyRTN4RVZFdm5WbVBYenV5UmpXN2FONVpkZTZ3ODU1dVFtU1h1QTh4SXhZQjRmY2lGY2R3MVpQWE93OHFWLVdOZEg5azRCeXBKVkFDMThVbFdCakNzNTg4MzlnRFBaSWF0bWk2dzhCdGo1RFRITEk0M1M1a3NFX2FQVmRRTnc?oc=5",
       "source": "RTP",
@@ -137,13 +128,31 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/gastos-dos-eua-na-guerra-contra-irao-superam-436-mil-milhoes-de-dolares-ate-setembro_n1766420"
     },
     {
+      "title": "Estados Unidos: Trump promulga novas sanções contra a Rússia - RFI",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU9aYVBzRkJDRkxtaVZRSWFPRWo3TWt1NWZBYVRwRmM3RkFsSVlkbUdld1NVdE5INkpEWGpKUEMwQnJLQzEzX3Q4RHJfSVpDdFAwc1JFbzVPNm1ibzFaajNHRGhGQ05UOFg4WmVYMUh5Z2lrX2FjR2xNR2JhM1FETzNhNmdpNEpONmd4MlBRMHA4WFZmX3ZsMEhidGJrXzNQVTNiY1YwYWdWZWNVaS1yeg?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-09-19T11:54:13Z",
+      "description": "Donald Trump promulgou, esta sexta-feira, 18 de Setembro, uma lei que impõe novas sanções contra a Rússia devido à guerra na Ucrânia. A decisão visa, em particular, o sector energético russo.",
+      "image": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1280/p:16x9/AP26261726847272.jpg",
+      "articleUrl": "https://www.rfi.fr/pt/mundo/20260919-estados-unidos-trump-promulga-novas-san%C3%A7%C3%B5es-contra-a-r%C3%BAssia"
+    },
+    {
       "title": "Eleições e tensões no Médio Oriente: 'neste momento Donald Trump não sabe como parar esta guerra' - Now Canal",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ0dMTm9yUGRiYUxZQWJ3Q3hSMHJPQl9CWWdnYW00ZGVTai0yM3JuWE9vc0lmTXZMM2JsWFZNcVpzX1AzdEROMzkxa2tBaWQ3Qk5KV3lxQmQyNVdBZzNabjdmbUx1VC1HUWZlaTdPcFFjckR4MnFMeDczMlFKV2FERXdvX25ESmQwZUVuVm9FVDY1VWhtU01yYmdfZVpYNkNpUkJGaVd4VFpBOXowd19FUkx0Q2ItcmZIMWpDdGtUNVI1XzU4U2ZBZ0hkNTNpWjQ?oc=5",
       "source": "Now Canal",
       "publishedAt": "2026-09-19T15:57:00Z",
-      "description": "Foram igualmente sublinhados os custos operacionais militares norte-americanos, que atingem cerca de três mil milhões de dólares mensais.",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-19-16-34-45-63156.jpg",
+      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/eleicoes-e-tensoes-no-medio-oriente-neste-momento-donald-trump-nao-sabe-como-parar-esta-guerra"
+    },
+    {
+      "title": "União Europeia apela a EUA para concederem visto à delegação palestiniana - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUS1NTnUzTms3bmZsT2MwVHI2QVhWMDdhclhJUmNENm10cl81aEFLV1MzenptQkVOZVBwdktzRXlrMDNsMlNPNEZSYkVDZllCYlVHWGRSSDhraEh5MFdrbnk3aXEtYmVkQjdiaFRtcEdFaUdSbEVtODVwc1V2ZHVwVERZQ2Q1SHdDZElxOFBPYlZtUU5RSzN0d2RQZG5taEJzTlkxZWpvZUFZWDN0TDgyMWR5ME1VeDZYbVpPLdIBwgFBVV95cUxOTV9VVGd6NzFJamptT3hpYVpLaUsxMVVvckJvS3Q0cUkxRFNYUW9ZZkViVU1mUWF2M3lhTW1HbnBJWk5USm9uMUZKazBrNHRnOFEtZy1sa21MY1pZTFI2d0k1azNrLXFMMDBlcHRYY3dQblUwOHJ0TXRjcGFwc0UwSmFlNVFmdmUtNVdNVGE4QXptUjMyQ0ZBU0VKanpvTm5YQTJQSW9iTG1fNTlIQkpxNS1YbUVsZGtKaHFnN2t6a2MzUQ?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-19T16:47:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://rr.pt/noticia/mundo/2026/09/19/uniao-europeia-apela-a-eua-para-concederem-visto-a-delegacao-palestiniana/486076/"
     },
     {
       "title": "Relatório da ONU aponta para crimes de guerra cometidos pelos Estados Unidos no Irão - Expresso",
@@ -182,36 +191,27 @@
       "articleUrl": "https://sol.iol.pt/opiniao/noticias/lidia-pereira-imagine-se-sem-a-uniao-europeia/20260918/6aacfe600cf22b9f8904c11d"
     },
     {
-      "title": "Médio Oriente: Gastos dos EUA na guerra contra Irão superam 38 mil ME até setembro - executivedigest.sapo.pt",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXYzM05QSFV2S0E5ZXIzVEFjYUdvQ21uS1VIaFZWUW91RTI0Mlc3eWt3NWpnNzMyOWxpenVudUpkNVVCdXZZRnV0YmxsU2lUdjgtSUd3aGhacndtR2tJeUtkcktpVkd3SVF5QlJCcWM5YkJoVEJXLU9iR3dFbWN4LUxReTN4WEVGNWg5cEx2V2hqQVA5RGV3bVk0cFhZU2Jnb0trd3luU3pxVFBmVGZodS14d08?oc=5",
-      "source": "executivedigest.sapo.pt",
-      "publishedAt": "2026-09-18T23:40:00Z",
-      "description": "Os Estados Unidos gastaram na guerra contra o Irão mais de 43,6 mil milhões de dólares (38 mil milhões de euros) até 03 de setembro, segundo uma nova estimativa apresentada esta semana ao Congresso.",
-      "image": "https://executivedigest.b-cdn.net/wp-content/uploads/2026/08/generica-lusa-politica-01.jpg",
-      "articleUrl": "https://executivedigest.sapo.pt/medio-oriente-gastos-dos-eua-na-guerra-contra-irao-superam-38-mil-me-ate-setembro/"
-    },
-    {
-      "title": "Comissão Europeia avisa que crise energética e fenómenos extremos do verão vão pesar no PIB - Dinheiro Vivo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPendrV1drUDJRRDR4TmRIb2hrOHVzenR5bHdnZjd3emdDd2ZydEVlSGhkXzZHclN1TVIybnRSVmMydmZuRWtiTUtyMC04bGhrNlJweE9Ud0poQ2x0M0NiY3Rqb2ZTYUNDUkpVY1l5UEhhb0dSOEtEWFJrX3BmUDNuT1ZFa01WWkpNYTlKUlFPM0Q2QkpkTEgzLXRhSHVncmZCTFRWYkUzT2xWWDhkeUJXVk1MbE9nZjBiZi15eFBn?oc=5",
-      "source": "Dinheiro Vivo",
-      "publishedAt": "2026-09-18T13:25:34Z",
-      "description": "A Comissão Europeia alertou esta sexta-feira que as perturbações na energia relacionadas com a guerra do Médio Oriente e o impacto dos fenómenos meteorológicos",
-      "image": "https://media.assettype.com/dn%2F2026-05-21%2Fgz6uxovv%2FDOC.20260521.47149486.12980592.jpg?rect=0%2C0%2C5258%2C2760&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "http://dinheirovivo.dn.pt/economia/comisso-europeia-avisa-que-crise-energtica-e-fenmenos-extremos-do-vero-vo-pesar-no-pib"
-    },
-    {
-      "title": "Trump anuncia acordo com a Dinamarca e a Gronelândia sobre segurança e defesa | Estados Unidos - Público",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZUM5WWxOME5GWWZJT0tCRDRMMnJJNWt5RV9BY1kxWFl1b1BaejF0LWF6UVZOZGxodnUtWjJJem94eXZEaWJYWUIyRUtpYzd4eXNTMEJGYUt2TlpwczhQUXBuNVVkVjU4ZXpKOXhaN2tsaDhNeWI5cUt0OUdVVFBfMUlHUVAxMDR5YkpNYkhWM0VCX3Exd3o2WGxiSTU1TmlGSU1JZmZOQUJvWExXVHEzOFp0Yy1WMW1JWkQ4NEk5UGJQQ0JlUHlB?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-19T12:47:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
       "title": "Estados Unidos e Coreia do Sul defendem liberdade de navegação no estreito de Ormuz - RTP",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFlFaDRKZlV6VkFoaVFVcTJGUXpXc2ZYcE5ZSEJscWhDUnU2VEpoV3lzeWQxQlZNVFprbEZKaHU1d29VZVBRZ0xhRUFkVXEycVU4NXlZV0dQeEIxN2tDM2pudmt3R29kM0pnTXc3MVNQSk1LZ0RTbFhIaEZHMmxERTdTWkdjeGNWRTd4UWlXNFczaUNMZGNCTkUyVmFIMVVzM0lMbFZPamVNM0pwQkJGc2NoQlBCakxNVU92UWFWc3FiaHh1?oc=5",
       "source": "RTP",
       "publishedAt": "2026-09-19T07:54:10Z",
+      "description": "Os Estados Unidos e a Coreia do Sul concordaram na sexta-feira sobre a necessidade de garantir a livre navegação no Estreito de Ormuz, apesar da recusa de Seul em enviar tropas para a proteção do tráfego marítimo na região.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/06/06fe46a5597bdd7aec3f78f1d4ec4d45?w=860&q=90&rect=0,0,1499,822&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/estados-unidos-e-coreia-do-sul-defendem-liberdade-de-navegacao-no-estreito-de-ormuz_n1766444"
+    },
+    {
+      "title": "Ouro da Venezuela quase a caminho dos Estados Unidos - Público",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXE2SHRtS0VpaWFfaEZzU3V6SzNTYVFxZm5yWGpZOHVCTE5WODVuSTFsY0ZRMzAzbl9WeUJaQ2JDZ1dMVmc5LXpqVUtFRTB5dk1FUWxXVkFpVjZIeHI2QmlyaVhXZ3dxUVZhcXNiQW9lZ2pic1VWRDRLQklBWUQ1bEhmVVp4X1pBZmFhLUNLNlFLY0JaWHpNV01fUWdRMHVNd2t5VFp2Mzc4N3UxREE?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-19T11:28:32Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "União Europeia aumenta alerta da missão naval no Mar Vermelho após ataques dos huthis - RTP",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXJLdHlrTW1qTTlwLThEWTRzMzJRd1F0X1ZmRmRuMjkwUk44LXFwM3o1T1hNU2NfNDViT0pzUFp3TG5rcU03SGNwRkVBWEl4cjBDVVdjMy1ONzJTYXBsZjR4M0FTcGk1WGNzd2pNV0hDYk00TWhCWUJjUHlweVdKanoxcXlxVlkxZW56WmF1ekMwWG1PZXVTd3B2c1diN21lMnQ1ZC1uZ2FfSFhjMXVONHAyV3Jfbm1rQU9jV2dRV3BWS1JoT0hz?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-18T15:17:31Z",
       "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
