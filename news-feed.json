@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-09-21T14:11:23.414927Z",
+  "updatedAt": "2026-09-21T19:29:27.537834Z",
   "health": [
+    {
+      "title": "PJ detém mulher que ateou incêndios no Hospital Santa Maria - Observador",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0JHU2w5UUZjVG5uWDJCQ0JFOFNPd0VuZWp4eEdXcWJ2T2R1QU1EdVNObHZSS1pOZTM3OFBoX1EwR2hWREhIU1NqTV9USFg0UmZhQlRwaHJqUVROSTNsRXFpdDNrd3NfR2tQbUtSYmpnM3FlNTFmRnBiLTZVbEdlZ25qRnR4Mm4tRmtiSHhzcjlLdUxVQjNZWjVtNjBEeFJjUF8w?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-21T16:26:50Z",
+      "description": "Os dois crimes foram praticados na sexta-feira com recurso a chama direta. A viatura ficou com a parte frontal esquerda totalmente carbonizada.",
+      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2018%2F04%2F24125007%2F16260242.jpg?layer=obstop:T",
+      "articleUrl": "https://observador.pt/2026/09/21/pj-detem-mulher-que-ateou-dois-incendios-no-hospital-de-santa-maria/"
+    },
+    {
+      "title": "IHMT NOVA promove formação internacional avançada em Avaliação em Saúde - ihmt.unl.pt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGNweC1MaGYzWEg4UW1VeXpUUFpHaWxCSkZPUHZTbWRNb1pnQl9KQ2hqY0hRbDVCc3NyaWFmR0tGMW9wUy1ON2V2Y0oyOEhkMjdrRlFWbkoyNUZub055Y0c5U3E2ckROdE9TMnZHYVdJVDhqNXExcjl0MGQwZWtlRlk0amxGbm1QS0VrSGEyaVZiV0lWZlIxSEg1RjQ?oc=5",
+      "source": "ihmt.unl.pt",
+      "publishedAt": "2026-09-21T17:36:06Z",
+      "description": "O Curso Avançado em Avaliação em Saúde, financiado pela OPAS – Organização Pan-Americana da Saúde, é coordenado pelas docentes do Instituto de Higiene e Medicina Tropical da Universidade NOVA de Lisboa (IHMT NOVA), Prof.ª Doutora Isabel Craveiro e Prof.ª Doutora Tania Rehem, Professora Convidada da Universidade de Brasília (UnB). No âmbito deste curso, decorreu em […]Ler mais",
+      "image": "https://www.ihmt.unl.pt/wp-content/uploads/2026/09/Destaques-Website-1200-x-649-px-9.png",
+      "articleUrl": "https://www.ihmt.unl.pt/ihmt-nova-promove-formacao-internacional-avancada-em-avaliacao-em-saude/"
+    },
+    {
+      "title": "Visita a Unidades Intermédias de Saúde - Câmara Municipal de Cascais",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSF9rXzRwSW1vNzFRYVFwNGUzYnJ4QWZ0ZW1OSHlZVXc1bkpua29KSFJqcDRRX1hsdmhzQ21lTU5DajBQcHRHNjl1OUNMUjRNSFZGODhqOFE3a0xYWWJEM0ZrX0hZOU1OcElCalJFeWRkRG92bkE?oc=5",
+      "source": "Câmara Municipal de Cascais",
+      "publishedAt": "2026-09-21T18:41:20Z",
+      "description": "Cascais conta com 70 camas de apoio ao internamento e vai aumentar oferta.",
+      "image": "https://www.cascais.pt/sites/default/files/styles/galerirfa-new/public/imagens/noticias/new/whatsapp_image_2026-09-21_at_18.27.53.jpeg?itok=tNnudm6e",
+      "articleUrl": "https://www.cascais.pt/noticia/visita-unidades-intermedias-de-saude"
+    },
+    {
+      "title": "Lusíadas Saúde inaugura hospital na Beloura após investimento de 40 milhões de euros - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlViSWhkbGZRNTZDMEZzRk9GSHRfSkk2ZTRiSnh2a0M0ZS1oaEQ0ZTh2U0d4OGZwVFJlb0YzWmk5NHNIZTcxanhnS3Zabks3c2VHWFVoOHVOUFhIdFpQOFphRFhtemhyQkdpR0tUTkNwNnJWSnJnRGNnTWtCQjl5empXNVBuVlViWGFkTEZrVzNqSVNDN3Z2a2F6TTNacVRjX05aUlZlYWVZSHhVYkVEVjBJaVFnUkFpVG5xbEo1RHJBUVFN?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-21T17:23:00Z",
+      "description": "Em funcionamento desde o início de setembro, o hospital é a oitava unidade hospitalar da Lusíadas Saúde na Grande Lisboa e surge com o objetivo de reforçar a resposta assistencial nos concelhos de Sintra, Cascais e zonas limítrofes, numa região marcada pelo crescimento populacional nos últimos anos.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2022/09/hospital-lusiadas.png",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/lusiadas-saude-inaugura-hospital-na-beloura-apos-investimento-de-40-milhoes-de-euros/"
+    },
+    {
+      "title": "Unidade móvel de saúde começa a percorrer quatro localidades de Abrantes - Saúde Mais TV",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXF0THJWY1dNU1FJdUFESUUxS3RZenBnRUllTjV4WnBMRmtMM25QSXN2UkRFMEE5LWRoSG1rdnlDUUtjZlgyVlBxdkhJYXdHZ0UwSWZxd1dpUDBicmNlMEc4ZjhMNGg1LUxjUjBBWF9JdkI0dzNmUzRsMDFoMDFRd2MzdGphaE9fNkdtYnUtNkU4ZDE5dXlmNnNEcllmVVBxMU9xaWxNV0xHVDlLd2E3YQ?oc=5",
+      "source": "Saúde Mais TV",
+      "publishedAt": "2026-09-21T18:55:08Z",
+      "description": "Uma unidade móvel de saúde começou a percorrer quatro localidades do concelho de Abrantes, levando cuidados de enfermagem, vacinação, rastreios e acompanhamento de doentes crónicos a populações com maiores dificuldades de acesso aos serviços.",
+      "image": "https://www.saudemais.tv/uploads/noticias/noticia_0000066846_0000000001.jpg",
+      "articleUrl": "https://www.saudemais.tv/noticia/66846-unidade-movel-de-saude-comeca-a-percorrer-quatro-localidades-de-abrantes"
+    },
+    {
+      "title": "Existe um “lobbie” das farmácias apoiado pela Ministra da Saúde? - SEP | Sindicato dos Enfermeiros Portugueses",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGVibW1FQ3NLU1gwZnpBVnhMUlpDc3Q5ZFEtUHA5cmI5OXBjN2hrLUVFT0VwTi1xbjY2bHpVa2F0R1F3aUVHZTJySTBxZzRrRlhWYUJEZFNpTDVuZUdXSXlmQ1YzQWpVN3RqeXFiMnU2cnhwZHlMNjVYMkkzQm5fSEdDNW50NTZvRG4tYzhvVTRFZHdOdS1VTDI4X1RZbHBjeWZDajVha2dqdw?oc=5",
+      "source": "SEP | Sindicato dos Enfermeiros Portugueses",
+      "publishedAt": "2026-09-21T15:52:56Z",
+      "description": "Unidades Locais de Saúde obrigadas a abrir concursos públicos para comprar agulhas e seringas para dar às farmácias comunitárias. A pandemia da COVID-19 permitiu perceber a importância de termos em Portugal uma reserva estratégica de, nomeadamente, agulhas e seringas. As agulhas e seringas dessa reserva estratégica têm vindo a ser entregues, ao longo dos últimos",
+      "image": "https://www.sep.org.pt/files/uploads/2021/12/SEP_16122021_CONTRATACAO_VACINACAO.jpg",
+      "articleUrl": "https://www.sep.org.pt/artigo/sem-categoria/existe-um-lobbie-das-farmacias-apoiado-pela-ministra-da-saude/"
+    },
+    {
+      "title": "PJ detém mulher que ateou dois incêndios no Hospital de Santa Maria - cnnportugal.iol.pt",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0JFOUNzMnRRaEpZd0JsQ2pPYzl1RFRHRHNKV0RsanRuaXJVeEFGaXJpalFhOEVoM0ZId2hlMHFTWXRlV1hkMkdndTZobDY2WE1OWWM1TGNCeTQzZmRHN3hDelpLYU96N0N0WFVuMDdqWXRlZGRCdEN6UFgzWUFZVFYybl9rNlRIUWswalZmV2p0TngtRnM5NExmZmtvdmRCbFhNMlllQnhhcmhVYTc2NEkxSnVyUl92NFlQeGxlSVk2UmM1b1VpZXMybXFWRHltRThoUEpSQkY?oc=5",
+      "source": "cnnportugal.iol.pt",
+      "publishedAt": "2026-09-21T16:13:00Z",
+      "description": "A mulher pôs fogo a uma maca e a uma viatura estacionada nas urgências",
+      "image": "https://img.iol.pt/preset/6579f001d34e65afa2f89e58/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/incendios/pj/pj-detem-mulher-que-ateou-dois-incendios-no-hospital-de-santa-maria/20260921/6ab1579ad34e9a786e758f61"
+    },
     {
       "title": "Santa Casa cria Bolsas de Estudo para Estudantes de Licenciatura em Enfermagem - Santa Casa da Misericórdia de Lisboa",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFNJLWE3Rk1UaThqZlRpUlVzUkl0RUtneFVqYjVXYzl1TUxHYzItZ3dLbDVkdklDLTgzMjBqV3JsYmxxMnNMdjFJWmFUeVYyUHBjaERMYlJKY09pLUFCbkRsVG4xN1VjcTg3REluMHJXN3czSXBiVFFnVFF1Zzk2d2l5aTg5Tzc5bHJKczZ3ZzVBQlY4S3FXejI2OE1temRfYkQ2YzI5VWc5WnVxNlJfSXJjbnB0dkU?oc=5",
@@ -9,15 +72,6 @@
       "description": "A Santa Casa da Misericórdia de Lisboa criou um programa de Bolsas de Estudo dirigido exclusivamente a estudantes de licenciatura em enfermagem. No total,…",
       "image": "https://scml.pt/wp-content/uploads/2026/09/bolsas-enfermagem-v2.webp",
       "articleUrl": "https://scml.pt/comunicacao/noticias/santa-casa-cria-bolsas-de-estudo-para-estudantes-de-licenciatura-em-enfermagem/"
-    },
-    {
-      "title": "ULS de Coimbra lança projeto para diagnosticar precocemente a doença de Alzheimer - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeUYwT1VCRVFKVkd3N0FzOWQtcUdOMWZ2Y3REOWRVMENNVmk3Q0llOUJKZVdyOTBHSHBNdFc2OEIzTlYyam56UzBXbFgxMXpSMmdqTXZiR0M4M1ZWM08xcnZzcE1TMVRTajAzbm9mMTRLbzEyQVZJcU5YVjkxcHlSc2RESDB4d0lFWjV3bDlwNEp2MjBicktKOXFSVkdXR1kxdGVGYWp1MHNNUnppWVJNQVJFZ0FSOE13eDg2TEpNekhrZ1B2VFhhYThGRjJQUm81OFJOZGt4eElTdw?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-21T12:53:28Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://sicnoticias.pt/saude-e-bem-estar/2026-09-21-uls-de-coimbra-lanca-projeto-para-diagnosticar-precocemente-a-doenca-de-alzheimer-f7337429"
     },
     {
       "title": "Manhã de sábado com cuidados de saúde - Junta de Freguesia do Parque das Nações",
@@ -29,103 +83,85 @@
       "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3136-manha_de_sabado_com_cuidados_de_saude"
     },
     {
-      "title": "21 de setembro | Dia Mundial da Doença de Alzheimer - Câmara Municipal de Albergaria-a-Velha",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ3JHZ0diS2RXRE5GR1ZXbFI1dTZZdFB2OTB1Y2NMTkcxZlVrXy1CLW5LYnRuaXZLYjJyYzJrTU5pX1lrUGktOThWRXNDUnhtOGIzSXNZaG85TW1FUTJXRFAzbVNkUldLeV9ZcUJsTVhTNW53RTg3NlJYUVVfYk5UUWc4WVZXQ2c2aFVKMkdEYk1USWVkcVdPc1RSeXdTZGZVS25XY282WWVTYWQ2SVVwZkdaNWRaUTRIc2Nha1gwS2FBRl9fTExNT2h4SWdYVzdFdzlwRW5iYTdPODRocktB?oc=5",
-      "source": "Câmara Municipal de Albergaria-a-Velha",
-      "publishedAt": "2026-09-21T12:54:00Z",
-      "description": "Receber o diagnóstico de uma doença de Alzheimer ou de outro processo demencial pode ser emocionalmente desafiante. Para a pessoa diagnosticada e ...",
-      "image": "https://www.cm-albergaria.pt/albergaria/uploads/news/image/2714/alzheimer_noticia.jpg",
-      "articleUrl": "https://www.cm-albergaria.pt/municipio/comunicacao-e-transparencia/noticias-do-municipio/noticia/21-de-setembro-dia-mundial-da-doenca-de-alzheimer"
-    },
-    {
-      "title": "Saúde Reprodutiva - fcsh.unl.pt",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91NWdqWjBpT3dzWVhMWG93Y29RX0JLZkx3bWkxRzBKN01xTW4tZ2tVYWxuQUdfZGpEZklMSmppUDFWUWVvQUxBWWRzc25zQnlvRnBhQjAxUUFuSEIzTDdV?oc=5",
-      "source": "fcsh.unl.pt",
-      "publishedAt": "2026-09-21T09:26:13Z",
-      "description": "O projeto de investigação CARE — Contemporary Arts Activism for Reproductive Healthcare in Portugal promove um workshop dedicado à Saúde Reprodutiva a 3 de outubro, em Guimarães. O CARE é um projeto de ativismo artístico sediado no Instituto de História da Arte da NOVA FCSH que investiga as experiências de mulheres confrontadas com obstáculos no acesso aos […]",
-      "image": "https://www.fcsh.unl.pt/content/uploads/2026/09/WhatsApp-Image-2026-07-24-at-07.45.37-11.jpeg",
-      "articleUrl": "https://www.fcsh.unl.pt/eventos/saude-reprodutiva/"
-    },
-    {
-      "title": "Os dados de saúde: uma oportunidade que Portugal não pode desperdiçar - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN01wTDA5Ykl5U0oxRlUtZFU2SVl3a2QwbWFITTRETW13cEtXSEpCME1rZHp0ampDTG1SbFBVWVppWEdOOHZ6OUlDX2FkdkpvQnhtdF81TnR0eWp3Zk5pYS1BSzY4eXZxakhIRGgyS19qSndseGFuckN1OG9IRmNYdldtbi10YmdZSTVseTh5R1NMZWEzOE9UMmwxbGNFTEh5WlJvTldfV0YxQ21EUGdsMzRxWHVYeE0?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-21T05:47:10Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "title": "Exercício físico em Lisboa ao serviço da saúde - Informação Lisboa",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemhmX3pHQW9qc1M3NDBPemJ6WGtHNDgtWXJpemg0d2dmYkE2a3RxSl9VZks0dUMxYlNZMGpoVFVtTFRhVGVOY0tibWdmLVdobkxieXRqZXdtVFNYaHMwbGkxZkxMLV9sb3V0U3dOUFFLaFBralVpMHNJbFhVRkRBd3Q2U2l5eHVXQkdZRTFDMXM0U2JrOTVZ?oc=5",
+      "source": "Informação Lisboa",
+      "publishedAt": "2026-09-21T15:13:31Z",
+      "description": "Notícia publicada por Informação Lisboa. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/opiniao/2026-09-21-os-dados-de-saude-uma-oportunidade-que-portugal-nao-pode-desperdicar-a177ab04"
+      "articleUrl": "https://informacao.lisboa.pt/noticias/detalhe/exercicio-fisico-em-lisboa-ao-servico-da-saude"
     },
     {
-      "title": "\"Boas intenções\" do Governo na Saúde não chegam. Ano de 2026 \"está perdido\", é preciso fazer mais e investir na prevenção - TSF",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjBEMTJkQXB4VTBLREtOX08tMnZNM002TGdhd0FBWEpva2YtOGZoVnU1NnNUck9YdDVmdW5LOEd5ZlRIem1jQUEwTVY5M0M4ZnpQZUdTQTE3NWxMZUR0V2I2em9hOFRGaWRqbWlzVjV5Y19taGs5VkUtd2h4RHk1cVFIUzh6YWdodkFtNjlkaDFnQ21rZUgxYUNhNlVCLXZKRXFNYVMwOGpyVzJmVzlPNHBneXl6ZG9KcmloLUJUYW82RE1VLVJZOVNEcXA2d0JCVjRyZmpwZFBkY3pIc3JTZl9mRnNmQS1scEd2NWswb250d9IB4AFBVV95cUxQUEZhQzJKanhBV3paSnk1TnZCOW5VS1U4Zk96WFNDU1RISzVrNmZvbVBBWWtnYzk0M09CYUR2bGh0Ry05TWN0WmZHTVZBa0h6dUszRXZ3eUtSZzYzbVJNR04wX1hpenNNZkFLblRtUW9RUTdLa005U1N3V3hwbEFhVlE1WFphTkJfM2N3TDdlczJITTM1SWJ6NzJTeEpETXZVbGktZkJlbW94WnZhTFUtcjlTZEc5UjFpSm15RFU0c0diRVQwa1UxeGZENkNUOWRRNVZ6VTNDVmZZcmZ2UkpoUA?oc=5",
-      "source": "TSF",
-      "publishedAt": "2026-09-21T11:29:00Z",
-      "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.tsf.pt/sociedade/artigo/boas-intencoes-do-governo-na-saude-nao-chegam-ano-de-2026-esta-perdido-e-preciso-fazer-mais-e-investir-na-prevencao/18128894"
-    },
-    {
-      "title": "Câmara de Lobos ausculta população para definir prioridades na saúde e bem-estar - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXd5NmJ3TlQ2dXZuSUZXcHRoNURkblNySEZ6MzNoVU9MOVpPQk54bVNDQlJmd2ExZlI3cUFHLU1UNGVYU0tLaTM2OW92elJTOUFWVTdtTGJuajZBNjl5cExfMHMzOTNFM09iTTl1NVdaV2FqNVNvRG5YbVIyNEJLTmRMSVUzalVDZXMzQjczMkhhWFpoaXFVRk56Z1FpR0hzZlVENkNIVnFhTDcxYm95T3pJbkJ5VmZGQnhYX0tDOXY?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-21T11:44:00Z",
-      "description": "O município de Câmara de Lobos lançou hoje um questionário dirigido à população residente no concelho para dar a conhecer melhor as condições, necessidades e percepções dos munícipes nas áreas da saúde e do bem-estar.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoBa%C3%ADa_de_CL_7681uW1.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/21/506170-camara-de-lobos-ausculta-populacao-para-definir-prioridades-na-saude-e-bem-estar/"
-    },
-    {
-      "title": "Novo Sistema Nacional de Avaliação de Tecnologias de Saúde - Cuatrecasas",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPejJBd0VybzdnTGlmZ1hjSGw2VVRCRUZlM1BRNmdxcjd3ZThTUGRqQzRMeHYyemV2b1BDVkZFSXVISndXMldoUnJJUkQtV1RqM1R4TjM2Q3UtSXZEcTl3NmxPVXkzd0FoWGhuLTF4TzRJR05tcWw4MjlsNEt6UmtRNlRDY1dXelJ3YXVEQ3ZYS0V2cHVkTzFXOFp6WFgzajJ3OEhXcTZ0bHNVN0J6NW1NbVlkU1c?oc=5",
-      "source": "Cuatrecasas",
-      "publishedAt": "2026-09-21T07:53:00Z",
-      "description": "Entrou em vigor o novo regime do Sistema Nacional de Avaliação de Tecnologias de Saúde (SiNATS)",
-      "image": "https://www.cuatrecasas.com/images/cache/no_filter/resources/tecnologias-de-saude-image-6ab0e440d91ee897916808.jpg?v1.100.2.20260918",
-      "articleUrl": "https://www.cuatrecasas.com/pt/portugal/farmaceutico-saude/art/novo-sistema-nacional-avaliacao-tecnologias-saude-1"
-    },
-    {
-      "title": "Santa Casa aposta em estudantes de Enfermagem com programa de bolsas - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlE5Qkk4XzJKOFdvRkxBakdHOWNZVXhGNFpkSi13TlhoOEM3ZmFBZHJ1ZFkxR2U0OWVDcWVIM1BDOHA3bHdLR2V4NHF5MEZtMVNNQ2tCeTVpeFpmQmVhMnhfakR0eFdsRnpxNkwtT1dDN3VlVlJEeDRxVXJET3MwdVZoOXlPaWF6ZzdnN1RSYjVrbUNMNk5QX0kxVXN0NTl3YlprSQ?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-21T10:08:36Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://healthnews.pt/2026/09/21/santa-casa-aposta-em-estudantes-de-enfermagem-com-programa-de-bolsas/"
-    },
-    {
-      "title": "Novo centro de saúde do Cartaxo abre no início de 2027 após atraso na obra - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUU91U0tVQV9tckpKT2ZCbmNOZ2F4QzJ4cjN1UXpDQS1iNGVGanBWVUxMbWV5Z2c5dXpycnZHdEV4TzA4ejJIWDhVZDlCTXFZVF9lOC1uV1FxQmNsc1Z4Z3ptUW00bkpnaF93YXg2MzY5THB6N3VMLUtWeWNWWTFRekNKcWtXbUVDY2FzWW9mWGs2ZW8wRGJTdjJHekNRS0Z0RGFHbjNhTlIzVXoxZnoxSTBZLUpTUjh2a0tZOXpvSTBuUQ?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-09-21T11:00:00Z",
-      "description": "Notícia publicada por O Mirante. Abra o artigo para consultar os detalhes completos.",
+      "title": "ULS de Coimbra lança projeto para diagnosticar precocemente a doença de Alzheimer - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeUYwT1VCRVFKVkd3N0FzOWQtcUdOMWZ2Y3REOWRVMENNVmk3Q0llOUJKZVdyOTBHSHBNdFc2OEIzTlYyam56UzBXbFgxMXpSMmdqTXZiR0M4M1ZWM08xcnZzcE1TMVRTajAzbm9mMTRLbzEyQVZJcU5YVjkxcHlSc2RESDB4d0lFWjV3bDlwNEp2MjBicktKOXFSVkdXR1kxdGVGYWp1MHNNUnppWVJNQVJFZ0FSOE13eDg2TEpNekhrZ1B2VFhhYThGRjJQUm81OFJOZGt4eElTdw?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-09-21T12:53:28Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Centeno pediu a Costa para sair das Finanças para cargo \"transversal\" onde pudesse reformar Saúde - Observador",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFVBS1RGVU1FbWwxOGNabm5UVEU5TWlZeHFybjJTU2x5VXQ1aGpUOER0enZ5Q2hfcVVSaF9fMG1hWVZLZy1ZQnJYSW1aWmpvRHZIcnRwR05FbXljU1N4c0NYajZXaUgwWUU1MXNTdzlLTXFfS01BTFlPQTNnOXpnNFNwNlNtQmNsbE93S2F3MERZMi0tLTNPeG51RDdFLWZ4SkFIT2tyOTZNTEJfbVB0QkpicFFtMjNqbWRSWHp3bw?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-21T06:48:52Z",
-      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
+      "title": "Hospital Terras do Infante promove 1.ª Jornada Comunitária de Integração em Saúde - Sul Informação",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUY0VUVZYTd5S1c2bnBHSVZWOEhrS20wWHZ5TllTWUdHaFZaM0FjYWgxeTFwZlNSSzhOc1lSZXZQTzc1VHhRX3EtT0kwczFVNG5rLXE3UjFoYk8tTTFSTTBlNkltYWR0MDQ1MlpqZ3FLcVhiOUxxUV9TcGdOZlpUWWFlLXdFN1o0TjgtZTdkWWQ5WTZINUJtdnBTVFlibV81NWVjaWFYRjRicUcybGtVNUZVeldUT3lucUhF?oc=5",
+      "source": "Sul Informação",
+      "publishedAt": "2026-09-21T14:29:00Z",
+      "description": "Notícia publicada por Sul Informação. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "ONU alerta para risco de guerra nuclear e aponta IA como fator de agravamento - Expresso",
+      "title": "EUA e Irão podem voltar à \"guerra total\" - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEhmU05HanFxZGhoUVpWdU5PdVdIVGNVelRtWkRTS0d4QXdaNjBwR0k5ODVuLVFwNzRHZ3poOC04djNWX3UzeTNIcGVNQklzVk03TUdoWGc4RnVfRUNDWTIxcldJdjV5WkJOTHpXVVBwVnh2UVo0V2lnMWRERElNa1Z4SkFZazREblFtSG0xU3gtQlhUZXNUMjhHZnpEVDNGenVoTW52NG5mY2xobjZBaUtJT0U?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-21T13:40:24Z",
+      "description": "A Guarda Revolucionária iraniana avisou estar pronta para uma “guerra prolongada” com armas estratégicas não usadas, enquanto Trump disse à Fox News ponderar opções: “se e quando devo fazer explodir todo o país”",
+      "image": "https://images.euronews.com/articles/stories/09/92/13/47/1200x675_cmsv2_08b8b3d1-ef24-55df-952d-468a890766c6-9921347.jpg",
+      "articleUrl": "https://pt.euronews.com/2026/09/21/estados-unidos-e-irao-trocam-ameacas-com-receios-de-regresso-a-uma-guerra-total"
+    },
+    {
+      "title": "Ucrânia: Trump critica guerra \"ridícula e interminável\" da Rússia - Jornal Económico",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbllDdzQ0Qk9DNEV0VFh5ZFd5Y3pFSm5CYjVuQmsxbERWU0hMSFZ3VjhDTlhsNmZFTDZKSV9FbnVyR3NPeVBXc1pPZlQyTGxZdEZ2SDZZRU5vQVQtVlB3dkZWNFJtQU9rQXhyNmU3QWpSSHpQZjBzcUZoT0hZWnE2N0V2X1QxdmdSemhEM0tzTEY5VF9zNjhacjd6bFZkSjBIaHZYQXZsMA?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-09-21T14:43:00Z",
+      "description": "“Esta guerra ridícula e interminável [da Rússia] com a Ucrânia tem de acabar”, escreveu na rede social de que é proprietário, citado pela agência espanhola Europa Press.",
+      "image": "https://jornaleconomico.sapo.pt/wp-content/uploads/2026/08/donald-trump-e1787845756499.jpg",
+      "articleUrl": "https://jornaleconomico.sapo.pt/noticias/ucrania-trump-critica-guerra-ridicula-e-interminavel-da-russia/"
+    },
+    {
+      "title": "Os Estados Unidos têm “as crianças mais doentes da história do mundo”? Não, é falso - Público",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzBsU1NCdXRUa3ZnMFdWNHNUVFVpX3Zuak0wUGw1aEZrUGpIWHcxd0dKbFBvSWFGbGk2OVJBelJVLVpVakhsS25kb29QcUJ2TWN2MVhpN1FBemItdnZUMDBCN1hFcElWOWFFQWVDOHMwUWY5Z3lkMXJrelpMS08wN0NUTVkzSjNuRG9TNFRuRHk1eXZoMno2b0VvR2ZlNDRzcl9DcV9udFB5WFBWNmZpR2dB?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-21T14:24:24Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/21/mundo/noticia/estados-unidos-criancas-doentes-historia-mundo-nao-falso-2188784"
+    },
+    {
+      "title": "ONU alerta para risco de guerra nuclear e aponta IA como fator de agravamento - expresso.pt",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc2x4LWkzVjJnRWo2UVdEUnFDYVZCZlFmTldtVzJhMXQ4NTBac0lCRVFDemtGRTFIaVVmWERTU3M5VnFqSk9pMHd1Y3lYWGJ1MFRtLUZKOV9yVG5pazRualk5VDlPc1hSVUVrWlRsdXBRMEdOTnFCWXB0UFh3bmE5V1B0S2E0ZVg4dFhHSnFBSlVpVkNzQWpLcFgzSGoxZjlrSXcwemtNYnJTM3VHNHZFdUV5bzRCa0hkVnhvMzl2WVN5MnR6ZGNuRWJjaTBVVW9YWERxMDNVN25TMWZWQl9vMVotYw?oc=5",
-      "source": "Expresso",
+      "source": "expresso.pt",
       "publishedAt": "2026-09-21T06:43:49Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/internacional/2026-09-21-onu-alerta-para-risco-de-guerra-nuclear-e-acusa-unilateralismo-de-enfraquecer-controlo-de-armas-66ce39f1"
     },
     {
-      "title": "Mesmo em países onde não passou, lei da burqa foi impulsionada pela direita radical - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3ZQUzFZTWdRRzh6bjdYeDVGQWlndWpTOVRfSlBvQ2lwOXpEdmdUR25DdlJ6OUdGWVVvLVoxTEU4NnVjazFYb01yeU1ibGd5Q25jWnpzOVFyWnkyLVE1bFFBVWUwejJ6TzZRUVNOUFBtVWxJM0RqakpzeG83LVJEaWpLd2hGR09sWWJqUWJQOGltMUxqc1U2R3Zka1duS2g5SVE5aExYMDRaeGhmbTZnTjhReEd3bGw3SGFEWmo1dWlVa3EzbFp5UGZuMlYwdFZBX05TZ2M4cHNIakxq?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-21T05:50:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/21/mundo/noticia/paises-onde-nao-passou-lei-burqa-impulsionada-direita-radical-2188645?ref=mundo&cx=page__content"
+      "title": "Análise: por que a Europa está se preparando para um conflito mais amplo? - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1pTTmVYV2tYblVKaDdTUml5UGc0eGJGUm1EdG5fSWt2Q3pKOXIweFFFZ3R2SkIyMkVzUWpGV2hBNlNOUmotWDR1WTNjWGFlU3I3ZFcyRmtydUpjNjBiZVltMHBhcTh1UGctd1Q4d0dxWmtlV2lkVDhRN2NJcURYdHI3NVoxcGlYUWVkRmlBMTJwQ3pHelN2YjEzSml2dFYxRmpMZWtIY1VKVEphRHVVT3Nuc3Zndw?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-09-21T11:12:17Z",
+      "description": "Manobras em região estratégica do continente, próxima aos Países Bálticos, geram preocupação entre membros da Otan",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/2025-09-17T113144Z_1_LOP566617092025RP1_RTRMADP_BASEIMAGE-960X540_UKRAINE-CRISIS-POLAND-NATO.jpg?w=960&h=540&crop=1",
+      "articleUrl": "https://www.cnnbrasil.com.br/internacional/analise-por-que-a-europa-esta-se-preparando-para-um-conflito-mais-amplo/"
+    },
+    {
+      "title": "Irão diz que \"o mundo ficará surpreendido\" com as suas novas armas - RTP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3M4Y3BQeXowRy1uNXZRa2l0RGt0ejFtQmZqX1VPS2ZNeUtKeXhxSThwQmpYOVY0TmhHUFduN2ViV0kwWWhjRldhenlXZDhIbS1qSEY5ZXZrUGx5NEpiNDVhSUlBNWhVMllqU0lFQWhNUm10STVneVQycFpveE5vRWF0Z0pLaFhoa3FJcnZiR1hBQVp3ZVdPVUZrUFRWejgtSnpRM0p4a1E0VlVQLVJXV3dRNlF3NGtwZ1ZsYVFubWdld2M?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-21T08:14:15Z",
+      "description": "Depois de ter avançado que os EUA estariam a planear \"medidas contra o Irão\", Teerão ameaçou com novas armas e novos alvos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ca/caaa22394d0bafb2a2bf2b4fdf4149e5?w=860&q=90&rect=2,0,5673,3110&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-diz-que-o-mundo-ficara-surpreendido-com-as-suas-novas-armas_n1766751"
     },
     {
       "title": "Zelensky e Trump vão reunir-se em Nova Iorque para discutir guerra na Ucrânia - Renascença",
@@ -146,73 +182,37 @@
       "articleUrl": "https://www.dn.pt/internacional/iro-alerta-contra-nova-escalada-dos-estados-unidos-e-aliados"
     },
     {
+      "title": "Alucinação de IA quase levou Estados Unidos a atacar um navio chinês - Tek Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSThUdVpxQjNaMjlSVS14UzZOeVlPdHotcUc0VGN0bjlYU0FmUVJOYkNtM2hHc0JQbzFEZlFIbGJHUUQ2OEdQMURIU0NEeXFGVDBWLVhjNVB5cHBSYi1hci0wckFQUEt4WnpJRzFiZ2Q0Q0F6N0FEcXBZcWQycmpiUzB0SC14OFhmYnU4TVZlbkp6Q0ptRU1IWVBMRjAyR2gyZHZaa1RYWXFSLXpnd2VpdnBkeWxtWkE5TDBR?oc=5",
+      "source": "Tek Notícias",
+      "publishedAt": "2026-09-21T19:10:00Z",
+      "description": "Um relatório de inteligência montado com recurso à IA levou os Estados Unidos a preparar a interceção de um navio chinês no Médio Oriente.",
+      "image": "https://cdn.teknoticias.pt/uploads/c14b60d08d77146512f1cc5e6636b5c67174d4a1.jpg",
+      "articleUrl": "https://tek.sapo.pt/noticias/computadores/artigos/alucinacao-de-ia-quase-levou-estados-unidos-a-atacar-um-navio-chines/"
+    },
+    {
+      "title": "Mesmo em países onde não passou, lei da burqa foi impulsionada pela direita radical - Público",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3ZQUzFZTWdRRzh6bjdYeDVGQWlndWpTOVRfSlBvQ2lwOXpEdmdUR25DdlJ6OUdGWVVvLVoxTEU4NnVjazFYb01yeU1ibGd5Q25jWnpzOVFyWnkyLVE1bFFBVWUwejJ6TzZRUVNOUFBtVWxJM0RqakpzeG83LVJEaWpLd2hGR09sWWJqUWJQOGltMUxqc1U2R3Zka1duS2g5SVE5aExYMDRaeGhmbTZnTjhReEd3bGw3SGFEWmo1dWlVa3EzbFp5UGZuMlYwdFZBX05TZ2M4cHNIakxq?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-21T05:50:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/21/mundo/noticia/paises-onde-nao-passou-lei-burqa-impulsionada-direita-radical-2188645?ref=mundo&cx=page__content"
+    },
+    {
+      "title": "Porque é que Trump recuou no ataque aos hutis que a Arábia Saudita pediu? Um explicador em dez perguntas e respostas - expresso.pt",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQV3IxZXFCcExPVTRtZW9QNDZrdWlrSVFCTGloVFVWM3J3S0VJMHctdjdpT2R1N1hRRVRqbnA5ak4tTEtCWUJsUmU1VXYySk80X3hZOTFoNWhRaldlcUczN05MYlBEWVYzcE53RWFrUHZZTDRDNVo5ekhiZFlLTUNGSmhXUXYxUkNJRkk5SEhnT3REMjVIWk9ndHZMYVN5SlBtb3FfX0toUUhtWEMwMHJjTGtxN3NwMzdfaUp2MXVMb1Q1cTZab2pKTmdzbjVhQWp1elRVV2p6Sll4cDNldWN6U3h4TmpTanNtODlDdDhiVkhkQUJha3lSYnVzLVFRN3FuQkp2bUdTM3c2X3M?oc=5",
+      "source": "expresso.pt",
+      "publishedAt": "2026-09-21T16:16:55Z",
+      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
       "title": "Guerra no Médio Oriente: Economia do Irão contrai 10% após o início do conflito - SAPO",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnlyU2pGLUZ4eEZfTk12eG9sUGtKWHB4V0lhSzFpeW9ta3dwMzVqamdUT3BWb2RwS1R0dlVTemhpajBoV3dlSGNYandRSkctUUFjeXhrc3NMa0hVUEtlN0NfdHBtU2hNWEg4SEZQLXFzVFRiVTA3ZHpiOEUxNElDc1hSNUpfTUNQamNMcDdPdEtHUGNWTERCOXpCWEtmWFY3REIydjgydXljRUZnTGxLQkotRXJ5UlBkcHY2SThtU1FNazQ?oc=5",
       "source": "SAPO",
       "publishedAt": "2026-09-21T09:17:35Z",
-      "description": "A economia iraniana contraiu 10,1% no primeiro trimestre do ano persa, entre março e maio, em comparação com o mesmo período do ano passado, em plena guerra iniciada pelos Estados Unidos há quase sete meses, foi ontem revelado. O Centro de Estatísticas do Irão indicou que o setor mais afetado foi a extração de petróleo [...]",
-      "image": "https://www.forbespt.com/wp-content/uploads/2026/09/Irao-Pixabay-scaled.jpg",
-      "articleUrl": "https://sapo.pt/artigo/guerra-no-medio-oriente-economia-do-irao-contrai-10-apos-o-inicio-do-conflito-6ab0f57e7a663ca5d3726a48"
-    },
-    {
-      "title": "PIB do Irã cai 10,1% em meio à guerra no Oriente Médio - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNINUthMmR0SlFGZ2VXQW0yYVdnV3U2aVIyaFg5bHVubFdwdGR1dnUtUEw0cmJPRjBHZXJKbVRhVy1ZVUxvNk5HXzZSS3gwSFZXVmU2TjJIRmZ3VGttQTVQUUhnNTdyWlhFQ2FVd25kU3JhZ2x2eUFWMzYzc1VnUjN3MU1rT1dfRU43WFRmSnBoTUxtZzRybldQQXRYYkZ2WnZMVGdUMl9WeDFvcVhoZnJvZTNJQdIBxAFBVV95cUxQU2tKVWZta3ZFWTBHcVVKV3JnR21uU0tETnFjZkFZQmxLZkV3U2hwOFMzNk1sR20yekY2M2I5RThjblZBNDgyYmo1SUdVa3hrS1JHcVhZd2Q3cVA4YVRkREJUc3BVRGNYYXNPYkFoRkJqVUJEcXA1ampOSmdDWlhlUzVQQlBqY2VWR1pwQzdnZmVzSUJZU2c0WWlQRG4zN2E3a2xMbzE3Qzl3MldCVHAxNGF4Zm1fRjNUejRMbzBmM3RHMWNr?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-09-21T02:46:14Z",
-      "description": "Economia do país está há anos sobrecarregada por uma hiperinflação crônica e uma forte desvalorização da moeda nacional, o rial, resultado em particular de sanções internacionais",
-      "image": "https://s2-oglobo.glbimg.com/CohNl9A-6oFVGo50gy8humQ89Ts=/4985x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/n/k/qXgpyvS76QSS5HumZWEw/mideast-conflict-9-2-.jpg",
-      "articleUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/pib-do-ira-cai-101percent-em-meio-a-guerra-no-oriente-medio.ghtml"
-    },
-    {
-      "title": "Teerão afirma ter comunicado aos EUA as condições para pôr fim à guerra - TSF",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUx5NGpWRmU5aGxZaU05TTFGNFBnd3dIR3BrX0FYbEZUZzE1cmFLQVNtUEdHV0k5aDNOT0NRTEkxamlSNkhPc2c2aFMyOTRQS1ZISkpmQldrb1h1WkJSNWRPcUstWmd1dVdrVXcxVnBTQkduMFdrMUJ0NU9zNGVxYXFCanhBWC1mYm04TmxCRVFWcFQ2Y2VFV0xyQlpCOEJGZVBveG1n0gGmAUFVX3lxTFBRTHk0alZGZTlobFlpTTlNMUY0UGd3d0hHcGtfQVhsRlRnMTVyYUtBU21QR0dXSTloM05PQ1FMSTFqaVI2SE9zZzZoUzI5NFBLVkhKSmZCV2tvWHVaQlI1ZE9xSy1aZ3V1V2tVdzFWcFNCR24wV2sxQnQ1T3M0ZXFhcUJqeEFYLWZibThObEJFUVZwVDZjZUVXTHJCWkI4QkZlUG94bWc?oc=5",
-      "source": "TSF",
-      "publishedAt": "2026-09-20T12:29:00Z",
-      "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.tsf.pt/amp/18128583/teerao-afirma-ter-comunicado-aos-eua-as-condicoes-para-por-fim-a-guerra"
-    },
-    {
-      "title": "Os Estados Unidos estão preocupados com a possibilidade de serem arrastados para uma guerra de desgaste. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVlKTmNfZnZyNnEyaTQ4Q3lrcjFqSGNCcHVqUmU0dWQwNjhDME9KVVZMaEJKUWZzMmNNUkg2MFFUVlZEOEhVRkFTOWRXbzc0WWpBSmN5aUhOV0F2Y0xYay1aU3V6dF9zZk5lWmp1UnpQeWVjV3lqekw1aUhkSzhtaDJWc3RrbzBEWE5QbzROWQ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-21T08:49:35Z",
-      "description": "GD&TĐ - Segundo especialistas, embora os EUA desejem uma vitória rápida, precisam se preparar para a possibilidade de serem arrastados para uma guerra de desgaste por seus adversários.",
-      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/21/1789977885595_my-lo-lang-sa-vao-cuoc-chien-tranh-tieu-hao-jpg.webp",
-      "articleUrl": "https://www.vietnam.vn/pt/my-lo-lang-vien-canh-bi-sa-vao-mot-cuoc-chien-tranh-tieu-hao"
-    },
-    {
-      "title": "Arábia Saudita confirma que houthis atacaram Riad com um míssil balístico | Médio Oriente - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGNvT013NzU1c0FGR1NZbEVQaUFOTFloRzFlSDR5TC1RWE44cVR6SkRVdzZaclhUQldvN0hFVnJ5TmlCbXhYLThtOUVIZXRWeGdaVlRQZXExUlh1QlBTeWpDSGt0dnJnUlJHZ2xGdzFjZ0tKM1J1R1pFLUFRd2NzbU45OUhXUldYVGFNVzh2V0d6RjZkbXBBMlhxNkxDazR3T0lXdnNMektNOFRlNzhhTk10bUxGbzllVEJV?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-20T17:34:57Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/20/mundo/noticia/arabia-saudita-confirma-houthis-atacaram-riade-missil-balistico-2188714"
-    },
-    {
-      "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd0pfb3B0dndaUHZhbWpnaGQ4R3o0RlZaZ1NMYU1pNzJJWEFURFJiY2tJcXdadURiTGRMUU1NX2hKZ25TRmt6NU9UUkNEVEY3enpkTVhZX0w4bTFXdnItd21jSHpxbjZEOG4zY1l0UFhpYWFDM3VzQVNldE8wRHBFazJiVlRzWk1qaGJNTS16T1h5NWllQ0F2OGV1WDY2d2l3U2JjM0hSd29ESHp3X19QRTV3T0VaYTZ4aFRUTlFJMG42MTJYRWZ3T0tXWDlpWDZPclZFSVA4TGlvYlpUMHI2dVNOVnA?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-20T14:02:48Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/20/politica/noticia/santos-silva-considera-vergonha-posicao-uniao-europeia-israel-2188693?ref=politica&cx=page__content"
-    },
-    {
-      "title": "Bases norte-americanas no Médio Oriente sofreram danos graves em ataques iranianos | Estados Unidos - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3F1SVNSVVh3cDAxV0ExLXRuS1NtOUZNOWZvSUExZURWQXJGS3VTdlBkWXlfRjAxZ085dURzZjJGTXJLZWZBNVM3cXN3RlUwXzNNU05hcWtvMVRLT2lDRmh6LXN2TzRZQkxLVndpajNqczNTenFpd2NZdG9aRkR6MTVGTi1tUHRpdXlmSDNHQTlCaElub093N3ppd244bjAxYVJ5dWhNSE8wLWswMU01ZmtTVEJuakZjNTFrVldmaWRkalJoZFBfbklJZw?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-19T16:08:02Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
-    },
-    {
-      "title": "O modelo americano e a realidade europeia: o equívoco do discurso sobre o estado da União - publico.pt",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWk4WU5IN3BiVU8yalhjUVdqUXFnel9nM25DLWtwT0NyY21fTU1Rc1JvQzl1UHcta1Q3ZmgwOC1TMk9SMzBDbnU0d0FNSnk2YzdTTWNmcGswNTFhLXhXU204dUdjX2pqOFhaaG9iRzEybGx4RUM3emVxdTlTYkZvTGQ0ajRQdDkyN0RLdVJIRDZVMVhLVG03eG9zV3N2aUdqTGlNQ2ZsWE9XMTlMeG5UczBPVDNHRnB3OUFyZ0x1UzV0ZTBUY0FRQmdKQlE0djQ?oc=5",
-      "source": "publico.pt",
-      "publishedAt": "2026-09-19T19:30:00Z",
-      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por SAPO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
