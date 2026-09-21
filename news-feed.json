@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-09-21T06:23:03.906735Z",
+  "updatedAt": "2026-09-21T14:11:23.414927Z",
   "health": [
+    {
+      "title": "Santa Casa cria Bolsas de Estudo para Estudantes de Licenciatura em Enfermagem - Santa Casa da Misericórdia de Lisboa",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFNJLWE3Rk1UaThqZlRpUlVzUkl0RUtneFVqYjVXYzl1TUxHYzItZ3dLbDVkdklDLTgzMjBqV3JsYmxxMnNMdjFJWmFUeVYyUHBjaERMYlJKY09pLUFCbkRsVG4xN1VjcTg3REluMHJXN3czSXBiVFFnVFF1Zzk2d2l5aTg5Tzc5bHJKczZ3ZzVBQlY4S3FXejI2OE1temRfYkQ2YzI5VWc5WnVxNlJfSXJjbnB0dkU?oc=5",
+      "source": "Santa Casa da Misericórdia de Lisboa",
+      "publishedAt": "2026-09-21T10:20:50Z",
+      "description": "A Santa Casa da Misericórdia de Lisboa criou um programa de Bolsas de Estudo dirigido exclusivamente a estudantes de licenciatura em enfermagem. No total,…",
+      "image": "https://scml.pt/wp-content/uploads/2026/09/bolsas-enfermagem-v2.webp",
+      "articleUrl": "https://scml.pt/comunicacao/noticias/santa-casa-cria-bolsas-de-estudo-para-estudantes-de-licenciatura-em-enfermagem/"
+    },
+    {
+      "title": "ULS de Coimbra lança projeto para diagnosticar precocemente a doença de Alzheimer - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeUYwT1VCRVFKVkd3N0FzOWQtcUdOMWZ2Y3REOWRVMENNVmk3Q0llOUJKZVdyOTBHSHBNdFc2OEIzTlYyam56UzBXbFgxMXpSMmdqTXZiR0M4M1ZWM08xcnZzcE1TMVRTajAzbm9mMTRLbzEyQVZJcU5YVjkxcHlSc2RESDB4d0lFWjV3bDlwNEp2MjBicktKOXFSVkdXR1kxdGVGYWp1MHNNUnppWVJNQVJFZ0FSOE13eDg2TEpNekhrZ1B2VFhhYThGRjJQUm81OFJOZGt4eElTdw?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-09-21T12:53:28Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://sicnoticias.pt/saude-e-bem-estar/2026-09-21-uls-de-coimbra-lanca-projeto-para-diagnosticar-precocemente-a-doenca-de-alzheimer-f7337429"
+    },
+    {
+      "title": "Manhã de sábado com cuidados de saúde - Junta de Freguesia do Parque das Nações",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVJQT3UxellXcU5MenVrZ1FyNl9ibWpqSnpuQUdTQ3BXVThMbEpwUm1TaUFxS3ljUUdEVFZKbEpPbWtaRmpHZmZOMWk0YjhFNXlmaGlibF9fM0hGeXFIbTk4aDJUUzlFUEdiMzVNZ3FGTXZ2WDFjRzdrNmgwS0lwa2x5UmRnUWRzdUkxZ1VrNnRoZVVyZmVwYW05NA?oc=5",
+      "source": "Junta de Freguesia do Parque das Nações",
+      "publishedAt": "2026-09-21T13:47:02Z",
+      "description": "Workshops, rastreios diversos, jogos, pinturas faciais foram algumas das atividades programadas pela JFPN para a animação da Feira de Saúde Infantojuvenil que se realizou na manhã de sábado na Escola Superior de Saúde de Lisboa.A iniciativa juntou atividades dinamizadas por vários parceiros, aos quais a JFPN agradece: Grupo Farmaspot, Tanto na Língua, Alberto Oculista, ULS…",
+      "image": "https://www.jf-parquedasnacoes.pt/images/autarquia/noticias/3136/imagem_3136.jpg",
+      "articleUrl": "https://www.jf-parquedasnacoes.pt/autarquia/noticias/3136-manha_de_sabado_com_cuidados_de_saude"
+    },
+    {
+      "title": "21 de setembro | Dia Mundial da Doença de Alzheimer - Câmara Municipal de Albergaria-a-Velha",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ3JHZ0diS2RXRE5GR1ZXbFI1dTZZdFB2OTB1Y2NMTkcxZlVrXy1CLW5LYnRuaXZLYjJyYzJrTU5pX1lrUGktOThWRXNDUnhtOGIzSXNZaG85TW1FUTJXRFAzbVNkUldLeV9ZcUJsTVhTNW53RTg3NlJYUVVfYk5UUWc4WVZXQ2c2aFVKMkdEYk1USWVkcVdPc1RSeXdTZGZVS25XY282WWVTYWQ2SVVwZkdaNWRaUTRIc2Nha1gwS2FBRl9fTExNT2h4SWdYVzdFdzlwRW5iYTdPODRocktB?oc=5",
+      "source": "Câmara Municipal de Albergaria-a-Velha",
+      "publishedAt": "2026-09-21T12:54:00Z",
+      "description": "Receber o diagnóstico de uma doença de Alzheimer ou de outro processo demencial pode ser emocionalmente desafiante. Para a pessoa diagnosticada e ...",
+      "image": "https://www.cm-albergaria.pt/albergaria/uploads/news/image/2714/alzheimer_noticia.jpg",
+      "articleUrl": "https://www.cm-albergaria.pt/municipio/comunicacao-e-transparencia/noticias-do-municipio/noticia/21-de-setembro-dia-mundial-da-doenca-de-alzheimer"
+    },
+    {
+      "title": "Saúde Reprodutiva - fcsh.unl.pt",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91NWdqWjBpT3dzWVhMWG93Y29RX0JLZkx3bWkxRzBKN01xTW4tZ2tVYWxuQUdfZGpEZklMSmppUDFWUWVvQUxBWWRzc25zQnlvRnBhQjAxUUFuSEIzTDdV?oc=5",
+      "source": "fcsh.unl.pt",
+      "publishedAt": "2026-09-21T09:26:13Z",
+      "description": "O projeto de investigação CARE — Contemporary Arts Activism for Reproductive Healthcare in Portugal promove um workshop dedicado à Saúde Reprodutiva a 3 de outubro, em Guimarães. O CARE é um projeto de ativismo artístico sediado no Instituto de História da Arte da NOVA FCSH que investiga as experiências de mulheres confrontadas com obstáculos no acesso aos […]",
+      "image": "https://www.fcsh.unl.pt/content/uploads/2026/09/WhatsApp-Image-2026-07-24-at-07.45.37-11.jpeg",
+      "articleUrl": "https://www.fcsh.unl.pt/eventos/saude-reprodutiva/"
+    },
     {
       "title": "Os dados de saúde: uma oportunidade que Portugal não pode desperdiçar - Expresso",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN01wTDA5Ykl5U0oxRlUtZFU2SVl3a2QwbWFITTRETW13cEtXSEpCME1rZHp0ampDTG1SbFBVWVppWEdOOHZ6OUlDX2FkdkpvQnhtdF81TnR0eWp3Zk5pYS1BSzY4eXZxakhIRGgyS19qSndseGFuckN1OG9IRmNYdldtbi10YmdZSTVseTh5R1NMZWEzOE9UMmwxbGNFTEh5WlJvTldfV0YxQ21EUGdsMzRxWHVYeE0?oc=5",
@@ -11,112 +56,85 @@
       "articleUrl": "https://expresso.pt/opiniao/2026-09-21-os-dados-de-saude-uma-oportunidade-que-portugal-nao-pode-desperdicar-a177ab04"
     },
     {
-      "title": "Santa Casa cria bolsas de estudo de 700 euros por mês para ajudar a formar (e reter) enfermeiros - Público",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjZlOUtOZG1OLTZDa1d1c1Vha3JlQ2Y0eWU3bnV5M1dZQzBtelUyVFlSdjVZTjFKWTB5MFUxczFLYnVCZDVTU2VRQjA2dHNZMHZHMlBOTzZIbDdpX1hJOVk1ZnU3Tll0UERqVDJuOVk5b3BtbXVKM290aXhSSjNSbTFBR3I4emR2VDZoSS1aUDBNYzdfdEpBaVU0TFIxQjdDTllUQl95OVhVOXFSNVFBN1Zxc0V2NnNneDJqWjV1dy15elFNNTBUbjZETGlqM296d2NlT1VTdEhVVjFLSi1EdGp6SQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-21T05:49:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "\"Boas intenções\" do Governo na Saúde não chegam. Ano de 2026 \"está perdido\", é preciso fazer mais e investir na prevenção - TSF",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjBEMTJkQXB4VTBLREtOX08tMnZNM002TGdhd0FBWEpva2YtOGZoVnU1NnNUck9YdDVmdW5LOEd5ZlRIem1jQUEwTVY5M0M4ZnpQZUdTQTE3NWxMZUR0V2I2em9hOFRGaWRqbWlzVjV5Y19taGs5VkUtd2h4RHk1cVFIUzh6YWdodkFtNjlkaDFnQ21rZUgxYUNhNlVCLXZKRXFNYVMwOGpyVzJmVzlPNHBneXl6ZG9KcmloLUJUYW82RE1VLVJZOVNEcXA2d0JCVjRyZmpwZFBkY3pIc3JTZl9mRnNmQS1scEd2NWswb250d9IB4AFBVV95cUxQUEZhQzJKanhBV3paSnk1TnZCOW5VS1U4Zk96WFNDU1RISzVrNmZvbVBBWWtnYzk0M09CYUR2bGh0Ry05TWN0WmZHTVZBa0h6dUszRXZ3eUtSZzYzbVJNR04wX1hpenNNZkFLblRtUW9RUTdLa005U1N3V3hwbEFhVlE1WFphTkJfM2N3TDdlczJITTM1SWJ6NzJTeEpETXZVbGktZkJlbW94WnZhTFUtcjlTZEc5UjFpSm15RFU0c0diRVQwa1UxeGZENkNUOWRRNVZ6VTNDVmZZcmZ2UkpoUA?oc=5",
+      "source": "TSF",
+      "publishedAt": "2026-09-21T11:29:00Z",
+      "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/21/sociedade/noticia/santa-casa-cria-bolsas-estudo-700-euros-mes-ajudar-formar-reter-enfermeiros-2188712?ref=sociedade"
+      "articleUrl": "https://www.tsf.pt/sociedade/artigo/boas-intencoes-do-governo-na-saude-nao-chegam-ano-de-2026-esta-perdido-e-preciso-fazer-mais-e-investir-na-prevencao/18128894"
     },
     {
-      "title": "Doença de Alzheimer: os sinais a que deve estar atento e como é feito o diagnóstico - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJZaTVFcU5jWllIcGJwOVdITThhU2YtWnZWM09UbHRKRExrNVlMdmFRbGdRR0ZhaklhMjd4M1d0Y0x5QnhaZ1RoTndwa0NGZEhTb193V2g1VFgtYVVKSE9jb0Q1MWlaZGxHeEdsOHZzYWhsbW5id2NfYTl2dlFJZGdUU1VaNTY4VmFweFJXdnFwVUNDVDU0elZlaw?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-20T09:15:00Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Câmara de Lobos ausculta população para definir prioridades na saúde e bem-estar - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXd5NmJ3TlQ2dXZuSUZXcHRoNURkblNySEZ6MzNoVU9MOVpPQk54bVNDQlJmd2ExZlI3cUFHLU1UNGVYU0tLaTM2OW92elJTOUFWVTdtTGJuajZBNjl5cExfMHMzOTNFM09iTTl1NVdaV2FqNVNvRG5YbVIyNEJLTmRMSVUzalVDZXMzQjczMkhhWFpoaXFVRk56Z1FpR0hzZlVENkNIVnFhTDcxYm95T3pJbkJ5VmZGQnhYX0tDOXY?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-21T11:44:00Z",
+      "description": "O município de Câmara de Lobos lançou hoje um questionário dirigido à população residente no concelho para dar a conhecer melhor as condições, necessidades e percepções dos munícipes nas áreas da saúde e do bem-estar.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoBa%C3%ADa_de_CL_7681uW1.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/21/506170-camara-de-lobos-ausculta-populacao-para-definir-prioridades-na-saude-e-bem-estar/"
+    },
+    {
+      "title": "Novo Sistema Nacional de Avaliação de Tecnologias de Saúde - Cuatrecasas",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPejJBd0VybzdnTGlmZ1hjSGw2VVRCRUZlM1BRNmdxcjd3ZThTUGRqQzRMeHYyemV2b1BDVkZFSXVISndXMldoUnJJUkQtV1RqM1R4TjM2Q3UtSXZEcTl3NmxPVXkzd0FoWGhuLTF4TzRJR05tcWw4MjlsNEt6UmtRNlRDY1dXelJ3YXVEQ3ZYS0V2cHVkTzFXOFp6WFgzajJ3OEhXcTZ0bHNVN0J6NW1NbVlkU1c?oc=5",
+      "source": "Cuatrecasas",
+      "publishedAt": "2026-09-21T07:53:00Z",
+      "description": "Entrou em vigor o novo regime do Sistema Nacional de Avaliação de Tecnologias de Saúde (SiNATS)",
+      "image": "https://www.cuatrecasas.com/images/cache/no_filter/resources/tecnologias-de-saude-image-6ab0e440d91ee897916808.jpg?v1.100.2.20260918",
+      "articleUrl": "https://www.cuatrecasas.com/pt/portugal/farmaceutico-saude/art/novo-sistema-nacional-avaliacao-tecnologias-saude-1"
+    },
+    {
+      "title": "Santa Casa aposta em estudantes de Enfermagem com programa de bolsas - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlE5Qkk4XzJKOFdvRkxBakdHOWNZVXhGNFpkSi13TlhoOEM3ZmFBZHJ1ZFkxR2U0OWVDcWVIM1BDOHA3bHdLR2V4NHF5MEZtMVNNQ2tCeTVpeFpmQmVhMnhfakR0eFdsRnpxNkwtT1dDN3VlVlJEeDRxVXJET3MwdVZoOXlPaWF6ZzdnN1RSYjVrbUNMNk5QX0kxVXN0NTl3YlprSQ?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-21T10:08:36Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://sicnoticias.pt/especiais/saude-mental/2026-09-20-o-que-e-a-doenca-de-alzheimer-2edb027f"
+      "articleUrl": "https://healthnews.pt/2026/09/21/santa-casa-aposta-em-estudantes-de-enfermagem-com-programa-de-bolsas/"
     },
     {
-      "title": "Novos medicamentos para o Alzheimer já chegaram a Portugal mas rondam €20 mil. \"Deviam ser comparticipados\" - SÁBADO",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0pzdUhzV0Z1dUVKZy13Njk4LXJzSE9Ya1hDQnhjSnlleGhTZC1RaG5ZVnFDVER1M3pNX182ZEVNUnJwSXJ1eC02eEdfcWVCUFFjUEw0MHJvMElWUjIxWm85ZUJxblR1WkFlUG02QnNZQmRUTWNlNGd0WTYzTC1Bbi1FdFVzendnQTFKbWRlcjh2TWVxaTE4RmN0X2E1V2xocGhlNWpvUDhib3JUdG9xN0xlVjZoeDloRFZnOHpwUFBVU2FPb2JVOHB6N1pqN1hhbFpMQ25Qb2Q3bzN5Z0RBdDRBVQ?oc=5",
-      "source": "SÁBADO",
-      "publishedAt": "2026-09-21T06:02:22Z",
-      "description": "O Lecanemab e o Donanemab mostraram ser capazes de atrasar a progressão da doença em fases iniciais e já estão disponíveis em Portugal. Apesar da esperança que trazem, o elevado custo e as dúvidas sobre a relação custo-benefício mantêm-nos fora do regime de comparticipação.",
-      "image": "https://cdn.sabado.pt/images/2026-09/img_1200x676uu2026-09-18-22-41-42-775933.jpg",
-      "articleUrl": "https://www.sabado.pt/ciencia---saude/detalhe/novos-medicamentos-para-o-alzheimer-ja-chegaram-a-portugal-mas-rondam-20-mil-deviam-ser-comparticipados"
-    },
-    {
-      "title": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRjREdnA1b3N1NDdEWWdaTXVrRzBmRm5UaEFZSGhZZW1mS2V5OThHZjNRNkEtazRkejJubUxRUlB0bEItWE1PVjAxcmJ4RHlPeEVzbzdWWWVTblJTOFJhQjFtMnRBay1JWmhibG1EclVrVDlqZUF4ZDlUdWdyZzQ5WDV2WTZ6SUVrSGFLdFpyMjR6TnVwUzZELU4tZEEtTFRyNFE1NXVvSUFiM1UxMmlXdnoyZ2xzRHZvVGM5V3haaUQ1dktodkJxQ1VXMEl0cjQwTUNaZEJRRVB2azRpbno0a2htUU1FeDM5a0w2UDNKODhycUtGbUtaUUlCUG5neW91?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-21T02:31:25Z",
-      "description": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica.",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/818365457_1124611963327306_4094086917000608921_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=gjUMZ0mxZZoQ7kNvwGPUOY9&_nc_oc=Ado-wd5xAkCx4cnYHKFiIHAZ9ncc_1qILw_vWnkiyh-sJtdREdj801tahngLNAmWvYY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=EOeYSOKFygJieHuKqe3izg&_nc_ss=7820f&oh=00_AQKLYvCKUHtk14MobBSK-zKSgQeL640C-sUNFAorAbdglA&oe=6AB6B65C",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/dire%C3%A7%C3%A3o-geral-da-sa%C3%BAde-n%C3%A3o-interv%C3%A9m-no-fornecimento-de-vacinas-destinadas-ao-mer/1481990444032234/"
-    },
-    {
-      "title": "Coração de Mãe: Em estado crítico, Guga tenta fugir do hospital - TVI",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCckVndlZ5dmtjTWhjc2piMVFRcFFnb3JRb2ZPZWhmSDBDd2dHWHkyVjM3ODY5dW1uQ2lleUF0RU9Yd1JLaWNybXhMN0wwWWpvVlRkN1BreWNKZjM0SDZMelRQTC04cGxnTzRxN0xDa2hQWnNBeEhqWDItc1ItYTQ?oc=5",
-      "source": "TVI",
-      "publishedAt": "2026-09-21T00:47:45Z",
-      "description": "Novelas",
-      "image": "https://img.iol.pt/preset/6aa91dc90cf23b0ed4fd8670/og/tvi",
-      "articleUrl": "https://tvi.iol.pt/novelas/episodios/coracaodemae/6aad4d600cf22b9f8904c219"
-    },
-    {
-      "title": "Salvaterra de Magos procura financiamento para concluir unidades de saúde - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOG90NVpkUS1tcGpRRW84dHByU3E5YjZ6S3RpMGNSYXh5Ry1SNmUyN3ZYTzZacVdzZ1N2ZnNEUXI4R2NLbzNXNk1td2xHSm5TNy1ic0V5eW05aEo2eDcxdXRkQmxyWlRRN1lOQXVMWGQwS2ZFYktCMzg1Y2FqWkhWQkFwb0FsUkpqMUpNdVhvcDB1VjBOQU44SWhuaFFBWk9iUTVhQUZNazhyemRJeUVPeU91Y0RiNDcyZlBCLVhUOXE?oc=5",
+      "title": "Novo centro de saúde do Cartaxo abre no início de 2027 após atraso na obra - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUU91U0tVQV9tckpKT2ZCbmNOZ2F4QzJ4cjN1UXpDQS1iNGVGanBWVUxMbWV5Z2c5dXpycnZHdEV4TzA4ejJIWDhVZDlCTXFZVF9lOC1uV1FxQmNsc1Z4Z3ptUW00bkpnaF93YXg2MzY5THB6N3VMLUtWeWNWWTFRekNKcWtXbUVDY2FzWW9mWGs2ZW8wRGJTdjJHekNRS0Z0RGFHbjNhTlIzVXoxZnoxSTBZLUpTUjh2a0tZOXpvSTBuUQ?oc=5",
       "source": "O Mirante",
-      "publishedAt": "2026-09-20T14:00:00Z",
-      "description": "As obras nas unidades de saúde de Salvaterra de Magos e Marinhais estão a ser analisadas à luz de dois mecanismos financeiros, sem que o executivo tenha ainda indicado qual será a solução escolhida para cada uma das intervenções.",
-      "image": "https://images.impresa.pt/mirante/2022-02-22-medicos",
-      "articleUrl": "https://omirante.pt/sociedade/2026-09-20-salvaterra-de-magos-procura-financiamento-para-concluir-unidades-de-saude-81aa254c"
-    },
-    {
-      "title": "Atualização de inscritos nos centros de saúde já deu médico de família a mais 107 mil utentes, mas “não resolve problema base” - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFBtdlVJQW9QQ1NWdmJEWVBfWWJSTS1fQk1ta0Vsb0oyNmxuOHJ6azNtczZDbmlxTFAteUNEQ0hibkkwdjdBV3YwSGFvRk4zR0d5RGRiRzBSbGxVNnE5cnlObzB6SUZ0eHpjQjZxN1VEc1hzZjRYYjFzbEcySEZvRHZReEdwTDhLNzVDSU1SMUJqeXpFdExqWGJUVlR5NEFFV25yMmV0SGJOUGw2NU9XZXRJUTZDaDhxSGFUQ3ZXc0dKV1RfcFlXZXgwbEZSSi1ONGI1RENCaEphQ0NB?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-20T20:03:46Z",
-      "description": "As novas regras para o Registo Nacional de Utente (RNU), aprovadas no Despacho n.º 3118/2026, de 11 de março, entraram em vigor a 4 de julho. O objetivo princip",
-      "image": "https://media.assettype.com/dn%2F2026-09-19%2F59tbsk2c%2Fqob7atz6w7d7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/atualizao-de-inscritos-nos-centros-de-sade-j-deu-mdico-de-famlia-a-mais-107-mil-utentes-mas-no-resolve-problema-base"
-    },
-    {
-      "title": "Vacina experimental contra o melanoma: “Resultados são promissores”, mas terapêutica pode demorar a chegar - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSEZmMDlMTEp3b2lQZk9KZEdUNzhNUE85bm84S3p0UmxqSWF0LXY2bjU4dW9KZk1rQlpKWnRJMWpXeVpIUGdfWmlfdmFqUnIxWHgwYllFZDZBeFRrdlk5WXRmNjAwLWVOMnFSdXhzWjNrODJLVllPc3BuQ2cwcmNIZmp2Um1iWVBlOGpSWVBpRHZfWEhRTmR3d0FJcWcyNkEzMy1SQk9pVmVCb19WWV93UEdBdWNNNl9LMlVQRUpURmtxbXhvUFRUWGRKZ3V1dk9jelZsX0RFQ2hzUWJBZzNON0xLM3dqWmZTamp0ek9HOA?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-21T06:09:08Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-21-vacina-experimental-contra-o-melanoma-resultados-sao-promissores-mas-terapeutica-pode-demorar-a-chegar-d405aa5e"
-    },
-    {
-      "title": "Dois homens detidos por causarem distúrbios nas urgências de hospital em Esch-sur-Alzette - contacto.lu",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2NxTnR6MWpPV1ZQSDBfcXY5TWpNTUtmTXJqOFIxRUczTWFKelBqaHZ2Sm4wSHEyOGxpZ3BjbXQ4eGhxWDdOTlJma0xsRWdpRzJVWURVNlRYN05LeXQxc1dqS1hCaFEwUHJkQTFKQm9kMjMxUnAxdkl5Z0tOcXJ3NnNuakYzc0J2UG1aMzg0ZkVfWGlZWU82Sm1XSWtwWTlHbS1IVldtalBtRnNRME1SME9qMlgydWpMTy11TWJBUGdiWjZOT3E5V1dkNjN6aTBPUXVwMFVn?oc=5",
-      "source": "contacto.lu",
-      "publishedAt": "2026-09-20T23:35:00Z",
-      "description": "Notícia publicada por contacto.lu. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.contacto.lu/luxemburgo/dois-homens-detidos-por-causarem-disturbios-nas-urgencias-de-hospital-em-esch-sur-alzette/161717275.html"
-    },
-    {
-      "title": "Marialvas e O. Hospital juntam-se à Académica na 3ª ronda da Taça de Portugal - Diário As Beiras",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWUtQzdoSHByLUx5bDlraFd6YUpnMzVKSXlHNmNlc3RWVTROTG11b0pvYmV3ZmFWOWdMWkFwblZZQW80NHJXWjBPMUN3VnNDczljdDdkcjVpV2FoUjl5N2lqS1BYVkJ2bWJyS0JUQTA2NEZhMWc0d2xyckMzNl84dFdocjJraU43VDNvT1JlZlZIcXlUYzEyZFU1Nndlcm4zejhr?oc=5",
-      "source": "Diário As Beiras",
-      "publishedAt": "2026-09-20T16:04:00Z",
-      "description": "Notícia publicada por Diário As Beiras. Abra o artigo para consultar os detalhes completos.",
+      "publishedAt": "2026-09-21T11:00:00Z",
+      "description": "Notícia publicada por O Mirante. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Maria Flor tem 20 anos e trava batalha contra doença crónica sem nome - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2pCY21JTWJEbjNyVnZ3YUt6TmgxbnpsaHE4TEEzV1E1eHVONVFDekQya2hkeTlIVlNVWW5JVFBuN2RsaTRyZTE1dkxIM0VhS2E4ZFM3WHFXcG9sQ2NVZDduNm1UVDZJUHhKR1ZIZXNrejRMRk5OOWk3R2RINDBkUVhkRzVwaC1vdUlfR0hkbUxhQjJ0MDBNUk5lalFoMUd2TUphOTFad2VJNG1QRk15WW94R01lU21XZzc4WmdZS3FUREZjbTlEX3NSTWVhc09yWHhRWDBIbnFDbUYyWXN2T09FZ2luTWM?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-20T15:49:43Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
+      "title": "Centeno pediu a Costa para sair das Finanças para cargo \"transversal\" onde pudesse reformar Saúde - Observador",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFVBS1RGVU1FbWwxOGNabm5UVEU5TWlZeHFybjJTU2x5VXQ1aGpUOER0enZ5Q2hfcVVSaF9fMG1hWVZLZy1ZQnJYSW1aWmpvRHZIcnRwR05FbXljU1N4c0NYajZXaUgwWUU1MXNTdzlLTXFfS01BTFlPQTNnOXpnNFNwNlNtQmNsbE93S2F3MERZMi0tLTNPeG51RDdFLWZ4SkFIT2tyOTZNTEJfbVB0QkpicFFtMjNqbWRSWHp3bw?oc=5",
+      "source": "Observador",
+      "publishedAt": "2026-09-21T06:48:52Z",
+      "description": "Notícia publicada por Observador. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Mesmo em países onde não passou, lei da burqa foi impulsionada pela direita radical - Público",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGFNR29HTDZtTXJIemtIeUE3UkFubl91dG5VS0VfUFBOcEhQSnlFV3VXY2I1QWdvNWdiWkx4VHBoSkR4Slk1VG1iZkVQMFBYbWF0cHg0MTZQWUlkSFNMVWRvb2tfaWJKN2kzN2J1emo3OWFCMk5fcVhRSjZiWlFkNFJTTkMyMEhsR1o3Wld5QUJWb3k0RXRkbEJsYUNGMndjVlRsV3NJeDJJelBDOEVlRWNnV19nYXlh?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-21T05:50:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "ONU alerta para risco de guerra nuclear e aponta IA como fator de agravamento - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc2x4LWkzVjJnRWo2UVdEUnFDYVZCZlFmTldtVzJhMXQ4NTBac0lCRVFDemtGRTFIaVVmWERTU3M5VnFqSk9pMHd1Y3lYWGJ1MFRtLUZKOV9yVG5pazRualk5VDlPc1hSVUVrWlRsdXBRMEdOTnFCWXB0UFh3bmE5V1B0S2E0ZVg4dFhHSnFBSlVpVkNzQWpLcFgzSGoxZjlrSXcwemtNYnJTM3VHNHZFdUV5bzRCa0hkVnhvMzl2WVN5MnR6ZGNuRWJjaTBVVW9YWERxMDNVN25TMWZWQl9vMVotYw?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-21T06:43:49Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/21/mundo/noticia/paises-onde-nao-passou-lei-burqa-impulsionada-direita-radical-2188645"
+      "articleUrl": "https://expresso.pt/internacional/2026-09-21-onu-alerta-para-risco-de-guerra-nuclear-e-acusa-unilateralismo-de-enfraquecer-controlo-de-armas-66ce39f1"
+    },
+    {
+      "title": "Mesmo em países onde não passou, lei da burqa foi impulsionada pela direita radical - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3ZQUzFZTWdRRzh6bjdYeDVGQWlndWpTOVRfSlBvQ2lwOXpEdmdUR25DdlJ6OUdGWVVvLVoxTEU4NnVjazFYb01yeU1ibGd5Q25jWnpzOVFyWnkyLVE1bFFBVWUwejJ6TzZRUVNOUFBtVWxJM0RqakpzeG83LVJEaWpLd2hGR09sWWJqUWJQOGltMUxqc1U2R3Zka1duS2g5SVE5aExYMDRaeGhmbTZnTjhReEd3bGw3SGFEWmo1dWlVa3EzbFp5UGZuMlYwdFZBX05TZ2M4cHNIakxq?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-21T05:50:00Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/21/mundo/noticia/paises-onde-nao-passou-lei-burqa-impulsionada-direita-radical-2188645?ref=mundo&cx=page__content"
+    },
+    {
+      "title": "Zelensky e Trump vão reunir-se em Nova Iorque para discutir guerra na Ucrânia - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0xrQWMtcG95N0xmMWhGUE5XbmItZU44UThwTTMxc1RvV1dtOVYxWnhRNWUzV3hOaFU0SGdIU0V5Ym5EcER6NXAzZklHbl9pU0ZSVjRiNlN1Q1NMc0prUzNFMXNMNXJKNTVRcWZuS280SXFYTUhWdHZZUWFrVmZhcmw2dmdGQXF0TF9JV2R2N3ZDTlVQUV84QjkzNk4wN0tpbVhYMVB4WDVrWFpXVVRyMXRGSm43STRoU1g3d1owZmlfQdIBxwFBVV95cUxQY3pRb190Q3Jud0QtTmdQZFZKRmFJQlNGNURVcGJSZ3dBaUxlZmJTVWFsQi13NFVyYVpkMjZTekxXVXpsRHNLYUNYVjNFMFZjRzh4b05zOV90czRuT0tOZ18tSzhqRERxeF8zazloZ0VyamJHMDNkaTJlN1VSQmhHQ2hROWJpWjBkNmpOakhhbEVuZ2JYNk83RzFnSE5mMmIzelJ1QU5Wdzc3RUtCV0M2b3pOcDNIa0tnSmg2Q0dkV2ZiUlR0QVBr?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-20T18:46:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://rr.pt/noticia/mundo/2026/09/20/zelensky-e-trump-vao-reunir-se-em-nova-iorque-para-discutir-guerra-na-ucrania/486175/"
     },
     {
       "title": "Irão alerta contra nova escalada dos Estados Unidos e aliados - Diário de Notícias",
@@ -128,13 +146,22 @@
       "articleUrl": "https://www.dn.pt/internacional/iro-alerta-contra-nova-escalada-dos-estados-unidos-e-aliados"
     },
     {
-      "title": "Zelensky e Trump vão reunir-se em Nova Iorque para discutir guerra na Ucrânia - Renascença",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3pRb190Q3Jud0QtTmdQZFZKRmFJQlNGNURVcGJSZ3dBaUxlZmJTVWFsQi13NFVyYVpkMjZTekxXVXpsRHNLYUNYVjNFMFZjRzh4b05zOV90czRuT0tOZ18tSzhqRERxeF8zazloZ0VyamJHMDNkaTJlN1VSQmhHQ2hROWJpWjBkNmpOakhhbEVuZ2JYNk83RzFnSE5mMmIzelJ1QU5Wdzc3RUtCV0M2b3pOcDNIa0tnSmg2Q0dkV2ZiUlR0QVBr0gHHAUFVX3lxTFBjelFvX3RDcm53RC1OZ1BkVkpGYUlCU0Y1RFVwYlJnd0FpTGVmYlNVYWxCLXc0VXJhWmQyNlN6TFdVemxEc0thQ1hWM0UwVmNHOHhvTnM5X3RzNG5PS05nXy1LOGpERHF4XzNrOWhnRXJqYkcwM2RpMmU3VVJCaEdDaFE5YmlaMGQ2ak5qSGFsRW5nYlg2TzdHMWdITmYyYjN6UnVBTlZ3NzdFS0JXQzZvek5wM0hrS2dKaDZDR2RXZmJSVHRBUGs?oc=5",
-      "source": "Renascença",
-      "publishedAt": "2026-09-20T18:46:00Z",
-      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/20/zelensky-e-trump-vao-reunir-se-em-nova-iorque-para-discutir-guerra-na-ucrania/486175/"
+      "title": "Guerra no Médio Oriente: Economia do Irão contrai 10% após o início do conflito - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnlyU2pGLUZ4eEZfTk12eG9sUGtKWHB4V0lhSzFpeW9ta3dwMzVqamdUT3BWb2RwS1R0dlVTemhpajBoV3dlSGNYandRSkctUUFjeXhrc3NMa0hVUEtlN0NfdHBtU2hNWEg4SEZQLXFzVFRiVTA3ZHpiOEUxNElDc1hSNUpfTUNQamNMcDdPdEtHUGNWTERCOXpCWEtmWFY3REIydjgydXljRUZnTGxLQkotRXJ5UlBkcHY2SThtU1FNazQ?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-09-21T09:17:35Z",
+      "description": "A economia iraniana contraiu 10,1% no primeiro trimestre do ano persa, entre março e maio, em comparação com o mesmo período do ano passado, em plena guerra iniciada pelos Estados Unidos há quase sete meses, foi ontem revelado. O Centro de Estatísticas do Irão indicou que o setor mais afetado foi a extração de petróleo [...]",
+      "image": "https://www.forbespt.com/wp-content/uploads/2026/09/Irao-Pixabay-scaled.jpg",
+      "articleUrl": "https://sapo.pt/artigo/guerra-no-medio-oriente-economia-do-irao-contrai-10-apos-o-inicio-do-conflito-6ab0f57e7a663ca5d3726a48"
+    },
+    {
+      "title": "PIB do Irã cai 10,1% em meio à guerra no Oriente Médio - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNINUthMmR0SlFGZ2VXQW0yYVdnV3U2aVIyaFg5bHVubFdwdGR1dnUtUEw0cmJPRjBHZXJKbVRhVy1ZVUxvNk5HXzZSS3gwSFZXVmU2TjJIRmZ3VGttQTVQUUhnNTdyWlhFQ2FVd25kU3JhZ2x2eUFWMzYzc1VnUjN3MU1rT1dfRU43WFRmSnBoTUxtZzRybldQQXRYYkZ2WnZMVGdUMl9WeDFvcVhoZnJvZTNJQdIBxAFBVV95cUxQU2tKVWZta3ZFWTBHcVVKV3JnR21uU0tETnFjZkFZQmxLZkV3U2hwOFMzNk1sR20yekY2M2I5RThjblZBNDgyYmo1SUdVa3hrS1JHcVhZd2Q3cVA4YVRkREJUc3BVRGNYYXNPYkFoRkJqVUJEcXA1ampOSmdDWlhlUzVQQlBqY2VWR1pwQzdnZmVzSUJZU2c0WWlQRG4zN2E3a2xMbzE3Qzl3MldCVHAxNGF4Zm1fRjNUejRMbzBmM3RHMWNr?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-09-21T02:46:14Z",
+      "description": "Economia do país está há anos sobrecarregada por uma hiperinflação crônica e uma forte desvalorização da moeda nacional, o rial, resultado em particular de sanções internacionais",
+      "image": "https://s2-oglobo.glbimg.com/CohNl9A-6oFVGo50gy8humQ89Ts=/4985x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/n/k/qXgpyvS76QSS5HumZWEw/mideast-conflict-9-2-.jpg",
+      "articleUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/pib-do-ira-cai-101percent-em-meio-a-guerra-no-oriente-medio.ghtml"
     },
     {
       "title": "Teerão afirma ter comunicado aos EUA as condições para pôr fim à guerra - TSF",
@@ -146,73 +173,46 @@
       "articleUrl": "https://www.tsf.pt/amp/18128583/teerao-afirma-ter-comunicado-aos-eua-as-condicoes-para-por-fim-a-guerra"
     },
     {
-      "title": "Economia do Irão contrai 10% após o início da guerra - RTP",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUUzQTAya1I2LVZPb21hSVhfMzJoZGxjVE03X0hBVWd3WkF6NV9yaVUzblh6MHZ1OVh3cjNiVFltY3NPc0Z0OEpOVFdRa0NkUkQydFMxeGRnc1A0Mzk0cW4wNGhXVVFZNlgtanUwTDdFNVl5VC1pTmQ0bjJEREZmUFZPNGVCd2FnY21OSWxMcFNHTVJtcUFYY09qTmdJdw?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-20T13:51:39Z",
-      "description": "A economia iraniana contraiu 10,1% no primeiro trimestre do ano persa, entre março e maio, em comparação com o mesmo período do ano passado, em plena guerra iniciada pelos Estados Unidos há quase sete meses, foi hoje revelado.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1dab06ab2d9117bd6dc0a2d29410c0bf?w=860&q=90&rect=0,0,1499,822&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/economia/economia-do-irao-contrai-10-apos-o-inicio-da-guerra_n1766622"
+      "title": "Os Estados Unidos estão preocupados com a possibilidade de serem arrastados para uma guerra de desgaste. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVlKTmNfZnZyNnEyaTQ4Q3lrcjFqSGNCcHVqUmU0dWQwNjhDME9KVVZMaEJKUWZzMmNNUkg2MFFUVlZEOEhVRkFTOWRXbzc0WWpBSmN5aUhOV0F2Y0xYay1aU3V6dF9zZk5lWmp1UnpQeWVjV3lqekw1aUhkSzhtaDJWc3RrbzBEWE5QbzROWQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-21T08:49:35Z",
+      "description": "GD&TĐ - Segundo especialistas, embora os EUA desejem uma vitória rápida, precisam se preparar para a possibilidade de serem arrastados para uma guerra de desgaste por seus adversários.",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/21/1789977885595_my-lo-lang-sa-vao-cuoc-chien-tranh-tieu-hao-jpg.webp",
+      "articleUrl": "https://www.vietnam.vn/pt/my-lo-lang-vien-canh-bi-sa-vao-mot-cuoc-chien-tranh-tieu-hao"
     },
     {
-      "title": "Estados Unidos: Trump promulga novas sanções contra a Rússia - RFI",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU9aYVBzRkJDRkxtaVZRSWFPRWo3TWt1NWZBYVRwRmM3RkFsSVlkbUdld1NVdE5INkpEWGpKUEMwQnJLQzEzX3Q4RHJfSVpDdFAwc1JFbzVPNm1ibzFaajNHRGhGQ05UOFg4WmVYMUh5Z2lrX2FjR2xNR2JhM1FETzNhNmdpNEpONmd4MlBRMHA4WFZmX3ZsMEhidGJrXzNQVTNiY1YwYWdWZWNVaS1yeg?oc=5",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T11:54:13Z",
-      "description": "Donald Trump promulgou, esta sexta-feira, 18 de Setembro, uma lei que impõe novas sanções contra a Rússia devido à guerra na Ucrânia. A decisão visa, em particular, o sector energético russo.",
-      "image": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1280/p:16x9/AP26261726847272.jpg",
-      "articleUrl": "https://www.rfi.fr/pt/mundo/20260919-estados-unidos-trump-promulga-novas-san%C3%A7%C3%B5es-contra-a-r%C3%BAssia"
-    },
-    {
-      "title": "Irã ameaça retaliar 'sem qualquer limitação' contra bases dos EUA e países do Oriente Médio caso volte a ser atacado - G1",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjQ1QVFiWW81Yzd3RVV2T0ZHUEh1Tm90V1NlUjRfUmxzZlE1aXJpSVVWUkRRcXRFSlZzb3lLc2FibGFVVy1WU2JQYW5YZWdXTHlvYzU5eEZkOTI5NUprZ1lGOERKbDJrM1lib2JUMFhJbFcyUUc2WVgwbWlsX0czbFI5RjllM3dJMm1aTGdmSHF2VHpHYXdwMGhOMDJ1RFd3RVJYTnctV2p1enJvLVNSN1dPVlpfSFRsWjNCT0hQOEU2Z205OXfSAdQBQVVfeXFMUFpsVWttSVZURi1ZR3lRNkFGRF9UV2pWVzZpc05TdXkzazZaRll1bTBzR2ltc2lhSVdhUUhIdkVPeW5LRElNb3J2N2xfMG5IQmFhWVlwN2ZsVGJDSHVRWDFLVFFNaDlpRk9FdVZjV0ZWd2lDWlBjQndGZ3otdkdEVTlRZWFLUzNXMllZS05IUWFibDhXOWRydG9xY3dNX0lHSWNuQ2RsNzNWSWZxUE1LaTV4U29xbkpsZ3Y4Zmo0ZmZDS1cwT1pPY3VKUjNTWDRGME9sUHA?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-09-20T11:23:19Z",
-      "description": "Regime iraniano disse ter sido informado de que o governo Trump planeja retomar bombardeios em larga escala contra o território iraniano. Guerra do Oriente Médio está no 7º mês sem perspectiva de ser finalizada.",
-      "image": "https://s2-g1.glbimg.com/EJ58hWXkUBOgDC7IZDATgGRfs5c=/5676x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/KFyLi2RfApnmfYAdX0hA/2026-09-18t085650z-104433441-rc2hlnapqvdv-rtrmadp-3-iran-crisis.jpg",
-      "articleUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/ira-ameaca-retaliar-bases-eua-paises-oriente-medio-caso-volte-a-ser-atacado.ghtml"
-    },
-    {
-      "title": "Médio Oriente: Egito pede avanço no cessar-fogo em Gaza e Irão apresenta novas propostas aos EUA - 24 Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeTBvb3lmbHpPTDZNVldocFlOYjBLUVcyVjJSYjF4TUY4UTl4aWZ1N3FvazhTTXJDVmZSZk9uMmUxTldrQTRUZkpwUzJwYmt2QUsyUVNWM0xLUy1HR083eUJveVFITWZ6MmVwVzhqX3owRi1STzlNOTVKZVF2b3ZsdHgtOXh2R0J4QnVEQ29zSHBVcjM1ZldRMWVYcFJyMkxkOU5ZZzJpOE9HQzhwX3BpRlJYa1MxSHJzOFVtSDMtZHdRZWxRb0ZkRWhOdjhlMmhFNXBrNWgwbnM?oc=5",
-      "source": "24 Notícias",
-      "publishedAt": "2026-09-20T11:57:45Z",
-      "description": "Notícia publicada por 24 Notícias. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://24noticias.sapo.pt/atualidade/artigos/medio-oriente-egito-pede-avanco-no-cessar-fogo-em-gaza-e-irao-apresenta-novas-propostas-aos-eua"
-    },
-    {
-      "title": "Arábia Saudita confirma que houthis atacaram Riad com um míssil balístico | Médio Oriente - Público",
+      "title": "Arábia Saudita confirma que houthis atacaram Riad com um míssil balístico | Médio Oriente - publico.pt",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGNvT013NzU1c0FGR1NZbEVQaUFOTFloRzFlSDR5TC1RWE44cVR6SkRVdzZaclhUQldvN0hFVnJ5TmlCbXhYLThtOUVIZXRWeGdaVlRQZXExUlh1QlBTeWpDSGt0dnJnUlJHZ2xGdzFjZ0tKM1J1R1pFLUFRd2NzbU45OUhXUldYVGFNVzh2V0d6RjZkbXBBMlhxNkxDazR3T0lXdnNMektNOFRlNzhhTk10bUxGbzllVEJV?oc=5",
-      "source": "Público",
+      "source": "publico.pt",
       "publishedAt": "2026-09-20T17:34:57Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/20/mundo/noticia/arabia-saudita-confirma-houthis-atacaram-riade-missil-balistico-2188714"
     },
     {
-      "title": "Alerta falso de IA quase levou Estados Unidos a intercetar navio chinês no Médio Oriente - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlkyMW5WTm9qM2ZVbWYySmFNSkxrY2lGbmptLVdiVklTZUFwMmxlTnNiNzVtdmtJMFFnVjNGTmFQNHg5b0pjOGJGLU1qaTk2alk2UmtpZFozTWNSb3lUeVhQR2RQV3dhdTVRcllpQVRaU1VjM1p2WENpVzB3a01SWXpieURZYWRYU05iWmtsa25kV1dJXzVGUi1ELUlaRmlqM1NnSmlpWGFiZkNITGxuS09RZElnZjJidFE?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-19T10:02:23Z",
-      "description": "As Forças Armadas norte-americanas estiveram perto de intercetar um navio chinês no Médio Oriente com base num relatório de informações incorreto, produzido com",
-      "image": "https://media.assettype.com/dn%2F2025-10-29%2Fsoib32z9%2FTrump-Coreia.jpg?rect=0%2C0%2C3228%2C1695&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/internacional/alerta-falso-de-ia-quase-levou-estados-unidos-a-intercetar-navio-chins-no-mdio-oriente"
+      "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd0pfb3B0dndaUHZhbWpnaGQ4R3o0RlZaZ1NMYU1pNzJJWEFURFJiY2tJcXdadURiTGRMUU1NX2hKZ25TRmt6NU9UUkNEVEY3enpkTVhZX0w4bTFXdnItd21jSHpxbjZEOG4zY1l0UFhpYWFDM3VzQVNldE8wRHBFazJiVlRzWk1qaGJNTS16T1h5NWllQ0F2OGV1WDY2d2l3U2JjM0hSd29ESHp3X19QRTV3T0VaYTZ4aFRUTlFJMG42MTJYRWZ3T0tXWDlpWDZPclZFSVA4TGlvYlpUMHI2dVNOVnA?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-20T14:02:48Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/20/politica/noticia/santos-silva-considera-vergonha-posicao-uniao-europeia-israel-2188693?ref=politica&cx=page__content"
     },
     {
-      "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel - Público",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVXVCVjRTQlpmR213OVZDcmdQb1huQ2hNVFdENnNWTzU2enBkQ002aHNLNGxqYS1xTU9lOVJmdi10czFlT0pSUVE5aHM4ZnVCS015ZjJZdU1SWF9RLWJlMnpURTh4bGl0Wk1Uam1TVTd3ZlhEUGVrNEZOc0NEOWVoVDlYcnN0MUNpTURJMXdMNTZWcFN4MzM2dnlHWlRkZ3lSdXVqeVk4b2dNNm5hQjgzYmxyZTNwZ3pvM0ZiRERyTkVKWnRCNU9ZOWh3N0Z0ZFI3SWVNZk9YNA?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-20T14:02:48Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Bases norte-americanas no Médio Oriente sofreram danos graves em ataques iranianos | Estados Unidos - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3F1SVNSVVh3cDAxV0ExLXRuS1NtOUZNOWZvSUExZURWQXJGS3VTdlBkWXlfRjAxZ085dURzZjJGTXJLZWZBNVM3cXN3RlUwXzNNU05hcWtvMVRLT2lDRmh6LXN2TzRZQkxLVndpajNqczNTenFpd2NZdG9aRkR6MTVGTi1tUHRpdXlmSDNHQTlCaElub093N3ppd244bjAxYVJ5dWhNSE8wLWswMU01ZmtTVEJuakZjNTFrVldmaWRkalJoZFBfbklJZw?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-19T16:08:02Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Bases norte-americanas no Médio Oriente sofreram danos graves em ataques iranianos | Estados Unidos - Público",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3F1SVNSVVh3cDAxV0ExLXRuS1NtOUZNOWZvSUExZURWQXJGS3VTdlBkWXlfRjAxZ085dURzZjJGTXJLZWZBNVM3cXN3RlUwXzNNU05hcWtvMVRLT2lDRmh6LXN2TzRZQkxLVndpajNqczNTenFpd2NZdG9aRkR6MTVGTi1tUHRpdXlmSDNHQTlCaElub093N3ppd244bjAxYVJ5dWhNSE8wLWswMU01ZmtTVEJuakZjNTFrVldmaWRkalJoZFBfbklJZw?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-19T16:08:02Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "O modelo americano e a realidade europeia: o equívoco do discurso sobre o estado da União - publico.pt",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWk4WU5IN3BiVU8yalhjUVdqUXFnel9nM25DLWtwT0NyY21fTU1Rc1JvQzl1UHcta1Q3ZmgwOC1TMk9SMzBDbnU0d0FNSnk2YzdTTWNmcGswNTFhLXhXU204dUdjX2pqOFhaaG9iRzEybGx4RUM3emVxdTlTYkZvTGQ0ajRQdDkyN0RLdVJIRDZVMVhLVG03eG9zV3N2aUdqTGlNQ2ZsWE9XMTlMeG5UczBPVDNHRnB3OUFyZ0x1UzV0ZTBUY0FRQmdKQlE0djQ?oc=5",
+      "source": "publico.pt",
+      "publishedAt": "2026-09-19T19:30:00Z",
+      "description": "Notícia publicada por publico.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
