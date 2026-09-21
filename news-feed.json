@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-21T01:07:39.349340Z",
+  "updatedAt": "2026-09-21T06:23:03.906735Z",
   "health": [
+    {
+      "title": "Os dados de saúde: uma oportunidade que Portugal não pode desperdiçar - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN01wTDA5Ykl5U0oxRlUtZFU2SVl3a2QwbWFITTRETW13cEtXSEpCME1rZHp0ampDTG1SbFBVWVppWEdOOHZ6OUlDX2FkdkpvQnhtdF81TnR0eWp3Zk5pYS1BSzY4eXZxakhIRGgyS19qSndseGFuckN1OG9IRmNYdldtbi10YmdZSTVseTh5R1NMZWEzOE9UMmwxbGNFTEh5WlJvTldfV0YxQ21EUGdsMzRxWHVYeE0?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-21T05:47:10Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/opiniao/2026-09-21-os-dados-de-saude-uma-oportunidade-que-portugal-nao-pode-desperdicar-a177ab04"
+    },
+    {
+      "title": "Santa Casa cria bolsas de estudo de 700 euros por mês para ajudar a formar (e reter) enfermeiros - Público",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjZlOUtOZG1OLTZDa1d1c1Vha3JlQ2Y0eWU3bnV5M1dZQzBtelUyVFlSdjVZTjFKWTB5MFUxczFLYnVCZDVTU2VRQjA2dHNZMHZHMlBOTzZIbDdpX1hJOVk1ZnU3Tll0UERqVDJuOVk5b3BtbXVKM290aXhSSjNSbTFBR3I4emR2VDZoSS1aUDBNYzdfdEpBaVU0TFIxQjdDTllUQl95OVhVOXFSNVFBN1Zxc0V2NnNneDJqWjV1dy15elFNNTBUbjZETGlqM296d2NlT1VTdEhVVjFLSi1EdGp6SQ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-21T05:49:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/21/sociedade/noticia/santa-casa-cria-bolsas-estudo-700-euros-mes-ajudar-formar-reter-enfermeiros-2188712?ref=sociedade"
+    },
     {
       "title": "Doença de Alzheimer: os sinais a que deve estar atento e como é feito o diagnóstico - SIC Notícias",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJZaTVFcU5jWllIcGJwOVdITThhU2YtWnZWM09UbHRKRExrNVlMdmFRbGdRR0ZhaklhMjd4M1d0Y0x5QnhaZ1RoTndwa0NGZEhTb193V2g1VFgtYVVKSE9jb0Q1MWlaZGxHeEdsOHZzYWhsbW5id2NfYTl2dlFJZGdUU1VaNTY4VmFweFJXdnFwVUNDVDU0elZlaw?oc=5",
@@ -11,31 +29,31 @@
       "articleUrl": "https://sicnoticias.pt/especiais/saude-mental/2026-09-20-o-que-e-a-doenca-de-alzheimer-2edb027f"
     },
     {
-      "title": "Tempos de espera nas urgências voltam a subir: quase nove horas no hospital Amadora-Sintra - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1ZuZjFsTjQ3cnVzMU42ek9ZSlBmVW1mS0x2ampEYjQ2eERUYlRHTnFxRndaNEMwbUY1SjQwa3NNM2N0eWk1YVlqSnhUX2pQcm8yNTZVbDBxekFKLUdSLTRRY1hrZW1OY3pib1dySlJSZDFoaE5ZNzZXLTdnWVJNUDJfU3RwUE5DSlhqQktjMmF3ZXJvZGk4VE5IQUNjeENnTFhvYXZ2VHlvSVVKRjJKdGgtb2ZOMzlzc3R6NGFldXkxTzFqeFpiOXdPM3VFeW5QSmMweldB?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-20T10:39:29Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/2026-09-20-tempos-de-espera-nas-urgencias-voltam-a-subir-quase-nove-horas-no-hospital-amadora-sintra-20dda9df"
+      "title": "Novos medicamentos para o Alzheimer já chegaram a Portugal mas rondam €20 mil. \"Deviam ser comparticipados\" - SÁBADO",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0pzdUhzV0Z1dUVKZy13Njk4LXJzSE9Ya1hDQnhjSnlleGhTZC1RaG5ZVnFDVER1M3pNX182ZEVNUnJwSXJ1eC02eEdfcWVCUFFjUEw0MHJvMElWUjIxWm85ZUJxblR1WkFlUG02QnNZQmRUTWNlNGd0WTYzTC1Bbi1FdFVzendnQTFKbWRlcjh2TWVxaTE4RmN0X2E1V2xocGhlNWpvUDhib3JUdG9xN0xlVjZoeDloRFZnOHpwUFBVU2FPb2JVOHB6N1pqN1hhbFpMQ25Qb2Q3bzN5Z0RBdDRBVQ?oc=5",
+      "source": "SÁBADO",
+      "publishedAt": "2026-09-21T06:02:22Z",
+      "description": "O Lecanemab e o Donanemab mostraram ser capazes de atrasar a progressão da doença em fases iniciais e já estão disponíveis em Portugal. Apesar da esperança que trazem, o elevado custo e as dúvidas sobre a relação custo-benefício mantêm-nos fora do regime de comparticipação.",
+      "image": "https://cdn.sabado.pt/images/2026-09/img_1200x676uu2026-09-18-22-41-42-775933.jpg",
+      "articleUrl": "https://www.sabado.pt/ciencia---saude/detalhe/novos-medicamentos-para-o-alzheimer-ja-chegaram-a-portugal-mas-rondam-20-mil-deviam-ser-comparticipados"
     },
     {
-      "title": "Centeno propôs a Costa deixar pasta das Finanças para reformar gestão da Saúde - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFBLOHNhZll0LU9FWkpLT1NjeU5kTmJZX05zNjVvT0VVWVpWemlJNmtFMVFVY0NZYVZjUWpBbEFzTTNIYjNObW91b05tZmpZcWRNQVRiaXNabWNtVDJXTXp1WXE1NThYeVNHdTVWd0F0ZTVGLThJYWx6NFgxbzl0LXl2TjJRWGVBcmJqaE9QYVJJYjRrTmlJbzJCVElKMm1TNFRIYWxJUk5DaXkzN29CVDhqb3BsRlNEclBzMmMyS1k?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-20T19:11:49Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/20/politica/noticia/centeno-propos-costa-deixar-pasta-financas-reformar-gestao-saude-2188729"
+      "title": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRjREdnA1b3N1NDdEWWdaTXVrRzBmRm5UaEFZSGhZZW1mS2V5OThHZjNRNkEtazRkejJubUxRUlB0bEItWE1PVjAxcmJ4RHlPeEVzbzdWWWVTblJTOFJhQjFtMnRBay1JWmhibG1EclVrVDlqZUF4ZDlUdWdyZzQ5WDV2WTZ6SUVrSGFLdFpyMjR6TnVwUzZELU4tZEEtTFRyNFE1NXVvSUFiM1UxMmlXdnoyZ2xzRHZvVGM5V3haaUQ1dktodkJxQ1VXMEl0cjQwTUNaZEJRRVB2azRpbno0a2htUU1FeDM5a0w2UDNKODhycUtGbUtaUUlCUG5neW91?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "2026-09-21T02:31:25Z",
+      "description": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica.",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/818365457_1124611963327306_4094086917000608921_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=gjUMZ0mxZZoQ7kNvwGPUOY9&_nc_oc=Ado-wd5xAkCx4cnYHKFiIHAZ9ncc_1qILw_vWnkiyh-sJtdREdj801tahngLNAmWvYY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=EOeYSOKFygJieHuKqe3izg&_nc_ss=7820f&oh=00_AQKLYvCKUHtk14MobBSK-zKSgQeL640C-sUNFAorAbdglA&oe=6AB6B65C",
+      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/dire%C3%A7%C3%A3o-geral-da-sa%C3%BAde-n%C3%A3o-interv%C3%A9m-no-fornecimento-de-vacinas-destinadas-ao-mer/1481990444032234/"
     },
     {
-      "title": "Atualização de inscritos nos centros de saúde já deu médico de família a mais 107 mil utentes, mas “não resolve problema base” - dn.pt",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFBtdlVJQW9QQ1NWdmJEWVBfWWJSTS1fQk1ta0Vsb0oyNmxuOHJ6azNtczZDbmlxTFAteUNEQ0hibkkwdjdBV3YwSGFvRk4zR0d5RGRiRzBSbGxVNnE5cnlObzB6SUZ0eHpjQjZxN1VEc1hzZjRYYjFzbEcySEZvRHZReEdwTDhLNzVDSU1SMUJqeXpFdExqWGJUVlR5NEFFV25yMmV0SGJOUGw2NU9XZXRJUTZDaDhxSGFUQ3ZXc0dKV1RfcFlXZXgwbEZSSi1ONGI1RENCaEphQ0NB?oc=5",
-      "source": "dn.pt",
-      "publishedAt": "2026-09-20T20:03:46Z",
-      "description": "As novas regras para o Registo Nacional de Utente (RNU), aprovadas no Despacho n.º 3118/2026, de 11 de março, entraram em vigor a 4 de julho. O objetivo princip",
-      "image": "https://media.assettype.com/dn%2F2026-09-19%2F59tbsk2c%2Fqob7atz6w7d7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/atualizao-de-inscritos-nos-centros-de-sade-j-deu-mdico-de-famlia-a-mais-107-mil-utentes-mas-no-resolve-problema-base"
+      "title": "Coração de Mãe: Em estado crítico, Guga tenta fugir do hospital - TVI",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCckVndlZ5dmtjTWhjc2piMVFRcFFnb3JRb2ZPZWhmSDBDd2dHWHkyVjM3ODY5dW1uQ2lleUF0RU9Yd1JLaWNybXhMN0wwWWpvVlRkN1BreWNKZjM0SDZMelRQTC04cGxnTzRxN0xDa2hQWnNBeEhqWDItc1ItYTQ?oc=5",
+      "source": "TVI",
+      "publishedAt": "2026-09-21T00:47:45Z",
+      "description": "Novelas",
+      "image": "https://img.iol.pt/preset/6aa91dc90cf23b0ed4fd8670/og/tvi",
+      "articleUrl": "https://tvi.iol.pt/novelas/episodios/coracaodemae/6aad4d600cf22b9f8904c219"
     },
     {
       "title": "Salvaterra de Magos procura financiamento para concluir unidades de saúde - O Mirante",
@@ -47,31 +65,31 @@
       "articleUrl": "https://omirante.pt/sociedade/2026-09-20-salvaterra-de-magos-procura-financiamento-para-concluir-unidades-de-saude-81aa254c"
     },
     {
-      "title": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRjREdnA1b3N1NDdEWWdaTXVrRzBmRm5UaEFZSGhZZW1mS2V5OThHZjNRNkEtazRkejJubUxRUlB0bEItWE1PVjAxcmJ4RHlPeEVzbzdWWWVTblJTOFJhQjFtMnRBay1JWmhibG1EclVrVDlqZUF4ZDlUdWdyZzQ5WDV2WTZ6SUVrSGFLdFpyMjR6TnVwUzZELU4tZEEtTFRyNFE1NXVvSUFiM1UxMmlXdnoyZ2xzRHZvVGM5V3haaUQ1dktodkJxQ1VXMEl0cjQwTUNaZEJRRVB2azRpbno0a2htUU1FeDM5a0w2UDNKODhycUtGbUtaUUlCUG5neW91?oc=5",
-      "source": "facebook.com",
-      "publishedAt": "2026-09-20T20:35:40Z",
-      "description": "Direção-Geral da Saúde não intervém no fornecimento de vacinas destinadas ao mercado privado, afirmando tratar-se de uma relação entre operadores privados e indústria farmacêutica.",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/818365457_1124611963327306_4094086917000608921_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=111&ccb=1-7&_nc_sid=cae128&_nc_ohc=gjUMZ0mxZZoQ7kNvwH3qKFp&_nc_oc=Adqg2r5g8d0j6NqC9z-7yAFErpFgs99Xrk5lILM7Wrzna4kbkixGd4aPtLFGG8CghPU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mw30nN0s3q4ctXmKXmWLkg&_nc_ss=7820f&oh=00_AQKAfCvOSuyrGyoNi4mm5_lNfxNHAK_MbDyjo0TO71V29g&oe=6AB645DC",
-      "articleUrl": "https://www.facebook.com/ObservadorOnTime/posts/dire%C3%A7%C3%A3o-geral-da-sa%C3%BAde-n%C3%A3o-interv%C3%A9m-no-fornecimento-de-vacinas-destinadas-ao-mer/1481990444032234/"
+      "title": "Atualização de inscritos nos centros de saúde já deu médico de família a mais 107 mil utentes, mas “não resolve problema base” - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFBtdlVJQW9QQ1NWdmJEWVBfWWJSTS1fQk1ta0Vsb0oyNmxuOHJ6azNtczZDbmlxTFAteUNEQ0hibkkwdjdBV3YwSGFvRk4zR0d5RGRiRzBSbGxVNnE5cnlObzB6SUZ0eHpjQjZxN1VEc1hzZjRYYjFzbEcySEZvRHZReEdwTDhLNzVDSU1SMUJqeXpFdExqWGJUVlR5NEFFV25yMmV0SGJOUGw2NU9XZXRJUTZDaDhxSGFUQ3ZXc0dKV1RfcFlXZXgwbEZSSi1ONGI1RENCaEphQ0NB?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-20T20:03:46Z",
+      "description": "As novas regras para o Registo Nacional de Utente (RNU), aprovadas no Despacho n.º 3118/2026, de 11 de março, entraram em vigor a 4 de julho. O objetivo princip",
+      "image": "https://media.assettype.com/dn%2F2026-09-19%2F59tbsk2c%2Fqob7atz6w7d7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/sociedade/atualizao-de-inscritos-nos-centros-de-sade-j-deu-mdico-de-famlia-a-mais-107-mil-utentes-mas-no-resolve-problema-base"
     },
     {
-      "title": "O SNS é dos portugueses - Jornal de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpMlRJbzc3UjJNTUZIYzY2MUdVUnRwczVjdUVRMTAyWlUzRUd1N1V0Q3FWMmZRRy1wY1BTVUNVWk1hdU52NWxrdjFobXpFMlZ1VmpvZ1ZpQS12d2xjemlnbmxJaFZ2dFR1UHNMUFVieHpjdTTSAWRBVV95cUxNWm4ydFhRb1Vrc3o0SjRadWZfOG9faXBxRUpBWk5PT1ZUY3U5bWV6OXJGSmFoaERoNjREVHNuRkh4WVUzMzM3ZWV0SVpLWTFiWHVhTk1pNmJZWnFtRVMtSnlQRmdZ?oc=5",
-      "source": "Jornal de Notícias",
-      "publishedAt": "2026-09-20T23:00:01Z",
-      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Vacina experimental contra o melanoma: “Resultados são promissores”, mas terapêutica pode demorar a chegar - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSEZmMDlMTEp3b2lQZk9KZEdUNzhNUE85bm84S3p0UmxqSWF0LXY2bjU4dW9KZk1rQlpKWnRJMWpXeVpIUGdfWmlfdmFqUnIxWHgwYllFZDZBeFRrdlk5WXRmNjAwLWVOMnFSdXhzWjNrODJLVllPc3BuQ2cwcmNIZmp2Um1iWVBlOGpSWVBpRHZfWEhRTmR3d0FJcWcyNkEzMy1SQk9pVmVCb19WWV93UEdBdWNNNl9LMlVQRUpURmtxbXhvUFRUWGRKZ3V1dk9jelZsX0RFQ2hzUWJBZzNON0xLM3dqWmZTamp0ek9HOA?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-09-21T06:09:08Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.jn.pt/opiniao/artigo/o-sns-e-dos-portugueses/18128716"
+      "articleUrl": "https://expresso.pt/sociedade/saude/2026-09-21-vacina-experimental-contra-o-melanoma-resultados-sao-promissores-mas-terapeutica-pode-demorar-a-chegar-d405aa5e"
     },
     {
-      "title": "Maria Flor tem 20 anos e trava batalha contra doença crónica sem nome - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2pCY21JTWJEbjNyVnZ3YUt6TmgxbnpsaHE4TEEzV1E1eHVONVFDekQya2hkeTlIVlNVWW5JVFBuN2RsaTRyZTE1dkxIM0VhS2E4ZFM3WHFXcG9sQ2NVZDduNm1UVDZJUHhKR1ZIZXNrejRMRk5OOWk3R2RINDBkUVhkRzVwaC1vdUlfR0hkbUxhQjJ0MDBNUk5lalFoMUd2TUphOTFad2VJNG1QRk15WW94R01lU21XZzc4WmdZS3FUREZjbTlEX3NSTWVhc09yWHhRWDBIbnFDbUYyWXN2T09FZ2luTWM?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-09-20T15:49:43Z",
-      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
+      "title": "Dois homens detidos por causarem distúrbios nas urgências de hospital em Esch-sur-Alzette - contacto.lu",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2NxTnR6MWpPV1ZQSDBfcXY5TWpNTUtmTXJqOFIxRUczTWFKelBqaHZ2Sm4wSHEyOGxpZ3BjbXQ4eGhxWDdOTlJma0xsRWdpRzJVWURVNlRYN05LeXQxc1dqS1hCaFEwUHJkQTFKQm9kMjMxUnAxdkl5Z0tOcXJ3NnNuakYzc0J2UG1aMzg0ZkVfWGlZWU82Sm1XSWtwWTlHbS1IVldtalBtRnNRME1SME9qMlgydWpMTy11TWJBUGdiWjZOT3E5V1dkNjN6aTBPUXVwMFVn?oc=5",
+      "source": "contacto.lu",
+      "publishedAt": "2026-09-20T23:35:00Z",
+      "description": "Notícia publicada por contacto.lu. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.cmjornal.pt/cmtv/videos/historias-de-superacao/detalhe/20260920-164943-maria-flor-tem-20-anos-e-trava-batalha-contra-doenca-cronica-sem-nome"
+      "articleUrl": "https://www.contacto.lu/luxemburgo/dois-homens-detidos-por-causarem-disturbios-nas-urgencias-de-hospital-em-esch-sur-alzette/161717275.html"
     },
     {
       "title": "Marialvas e O. Hospital juntam-se à Académica na 3ª ronda da Taça de Portugal - Diário As Beiras",
@@ -79,44 +97,35 @@
       "source": "Diário As Beiras",
       "publishedAt": "2026-09-20T16:04:00Z",
       "description": "Notícia publicada por Diário As Beiras. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.asbeiras.pt/marialvas-e-o-hospital-juntam-se-a-academica-na-3a-ronda-da-taca-de-portugal/"
-    },
-    {
-      "title": "Atualização de inscritos nos centros de saúde já deu médico de família a mais 107 mil utentes, mas “não resolve problema base” - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTm1LUV9kbW9KMXR6VXBET3pmUnBUY2dRaThRdy1ZNjhDTEtLV08yMmozcmNkd09JcUh6Qlh6dHpkSEphZTdGNFdWMTAxYldETm9rajAwbk9ITUo2NjNtZ1ZUcWZoSVZRQWVxc3A0X3p4ckF1RFVDQW1pS3habGhqQ0xHZXU5U0Z1ZXpnWjl6d3pJbHlpRGpEaEo5UTE0ZWJUa3ZSeDg2d0JaalpXQU1xWjdva1JadG5jbHZoODJ5Q0dhUlVoa1hvckR2eE9iTWticHhsLWpPQldFUGhyeTdLSmFBUXZ0YmhKRXpHaTR2NmpUeXpJNWdLRVB4MjVIclVl?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-09-21T00:05:13Z",
-      "description": "Crianças inscritas sem os pais ou utentes que perderam comparticipação de medicamentos são situações que quem está no terreno diz serem resultado das novas regras do Registo Nacional de Utente.",
-      "image": "https://media.assettype.com/dn/2026-09-19/59tbsk2c/qob7atz6w7d7.jpg",
-      "articleUrl": "https://sapo.pt/artigo/atualizacao-de-inscritos-nos-centros-de-saude-ja-deu-medico-de-familia-a-mais-107-mil-utentes-mas-nao-resolve-problema-base-6ab03c8c813778af662d3c03"
-    },
-    {
-      "title": "Observatório Português da Saúde e Ambiente apresenta Relatório de 2025 a 30 de setembro - HealthNews",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXVsTmJIdEhuM2w5eC1wamtHbmZPNVNNWEhCUTRxVk0wdVA0RFdlTlUzQjUwWUJjcnZjWXZ5X0czbkVNcm5UbkJwYlBJVG04QWNxX2NMcDRiejZxUUJhTUt1Vm9mSVQxQkhadVhMY2pfR2hpWjRKTExYVDlub3oybm1oYmk5NWo3aWp1UENMampVb3VsVFpFRkhxaF9laDlsdTg2cTFyNS1DZEo2NWNuODlTNHBjTTZCOGxicTRn?oc=5",
-      "source": "HealthNews",
-      "publishedAt": "2026-09-20T05:28:10Z",
-      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Barómetro: Saúde e custo de vida são a grande preocupação. Educação deixa dúvidas, mas ministro deve ficar - Jornal de Negócios",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcnpSMUpNLURBNk9zWmVyVUp6MHFaVUh2SEtYRWduaDlxZC1BZlNVbzZBRnFheGJ6elZGT1Uyd3dEaXJMdU9VajJfOUk1NTRTQjUxN3lzYlJLNnFhU3VNel94eWN5bzAyandpdWQwUzZ4VkFpOGN3MTZIOFVpZWRwVDJOdF9qaDZjM3hrZlZoeHRRNnIyQ2lrNmxoTW96MXRfdkdoc2xQcHdHZXQ2RUZyTXFfMVd3T0IwRElpeHNyQjRCV0pDNURMVGpXLXZYS0VmTFpkUzdtdjQtMEQwVGhXOVlEVHRTeTg?oc=5",
-      "source": "Jornal de Negócios",
-      "publishedAt": "2026-09-20T07:30:38Z",
-      "description": "Notícia publicada por Jornal de Negócios. Abra o artigo para consultar os detalhes completos.",
+      "title": "Maria Flor tem 20 anos e trava batalha contra doença crónica sem nome - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2pCY21JTWJEbjNyVnZ3YUt6TmgxbnpsaHE4TEEzV1E1eHVONVFDekQya2hkeTlIVlNVWW5JVFBuN2RsaTRyZTE1dkxIM0VhS2E4ZFM3WHFXcG9sQ2NVZDduNm1UVDZJUHhKR1ZIZXNrejRMRk5OOWk3R2RINDBkUVhkRzVwaC1vdUlfR0hkbUxhQjJ0MDBNUk5lalFoMUd2TUphOTFad2VJNG1QRk15WW94R01lU21XZzc4WmdZS3FUREZjbTlEX3NSTWVhc09yWHhRWDBIbnFDbUYyWXN2T09FZ2luTWM?oc=5",
+      "source": "Correio da Manhã",
+      "publishedAt": "2026-09-20T15:49:43Z",
+      "description": "Notícia publicada por Correio da Manhã. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel - Público",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUNCTWhnMk5PX29oSWxxa01RZDFfQl9kemUzRmZOWkhFcGlTTVFCSmdVOFphUGRNbzZZZ1JOTHI0cUtjV211cHlZM0hkX2NKWmFQX0hsZm00S3FhUmRVR3FKYUNIU3NvS1RqUXpHZU4wcXZhTmUxRlc2akMwVUU1WlAtZHEtTFlzSTVjaEpHdmREdWxrX2hDUXlDdS0xSkp1LWctWHlraVRTVjJsNm9wSUJIRXpXb1Y0ci1xYQ?oc=5",
+      "title": "Mesmo em países onde não passou, lei da burqa foi impulsionada pela direita radical - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGFNR29HTDZtTXJIemtIeUE3UkFubl91dG5VS0VfUFBOcEhQSnlFV3VXY2I1QWdvNWdiWkx4VHBoSkR4Slk1VG1iZkVQMFBYbWF0cHg0MTZQWUlkSFNMVWRvb2tfaWJKN2kzN2J1emo3OWFCMk5fcVhRSjZiWlFkNFJTTkMyMEhsR1o3Wld5QUJWb3k0RXRkbEJsYUNGMndjVlRsV3NJeDJJelBDOEVlRWNnV19nYXlh?oc=5",
       "source": "Público",
-      "publishedAt": "2026-09-20T14:02:48Z",
+      "publishedAt": "2026-09-21T05:50:00Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/20/politica/noticia/santos-silva-considera-vergonha-posicao-uniao-europeia-israel-2188693"
+      "articleUrl": "https://www.publico.pt/2026/09/21/mundo/noticia/paises-onde-nao-passou-lei-burqa-impulsionada-direita-radical-2188645"
+    },
+    {
+      "title": "Irão alerta contra nova escalada dos Estados Unidos e aliados - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzRodlAtRm1KUVJqVlQwcVRMVEdnZDJjNklXTU04bjFBRGFwVWxSWFZLTTR2bzhVR01qX2hQVWdTZjBhMlJXTEY1QUIzaXlhTlpWX3phbk0wcEw0X29wZ1lBQTJHVVNrMVJ3Vld0cFNXS3lZQXFGWTV2Wl9LUEFHWHRVV3hqb1lFTkNDRk5fWF91R2N4aGNz?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-20T15:43:24Z",
+      "description": "O Irão alertou este domingo contra qualquer novo grande ataque por parte dos Estados Unidos e dos seus aliados, afirmando ter informações de que tal ação estava",
+      "image": "https://media.assettype.com/dn%2F2026-09-20%2Fp3fxkr01%2FDOC.20260918.47795980.13247423.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/internacional/iro-alerta-contra-nova-escalada-dos-estados-unidos-e-aliados"
     },
     {
       "title": "Zelensky e Trump vão reunir-se em Nova Iorque para discutir guerra na Ucrânia - Renascença",
@@ -128,20 +137,11 @@
       "articleUrl": "https://rr.pt/noticia/amp/mundo/2026/09/20/zelensky-e-trump-vao-reunir-se-em-nova-iorque-para-discutir-guerra-na-ucrania/486175/"
     },
     {
-      "title": "Irão alerta contra nova escalada dos Estados Unidos e aliados - dn.pt",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzRodlAtRm1KUVJqVlQwcVRMVEdnZDJjNklXTU04bjFBRGFwVWxSWFZLTTR2bzhVR01qX2hQVWdTZjBhMlJXTEY1QUIzaXlhTlpWX3phbk0wcEw0X29wZ1lBQTJHVVNrMVJ3Vld0cFNXS3lZQXFGWTV2Wl9LUEFHWHRVV3hqb1lFTkNDRk5fWF91R2N4aGNz?oc=5",
-      "source": "dn.pt",
-      "publishedAt": "2026-09-20T15:43:24Z",
-      "description": "Notícia publicada por dn.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.dn.pt/internacional/iro-alerta-contra-nova-escalada-dos-estados-unidos-e-aliados"
-    },
-    {
-      "title": "Teerão afirma ter comunicado aos EUA as condições para pôr fim à guerra - tsf.pt",
+      "title": "Teerão afirma ter comunicado aos EUA as condições para pôr fim à guerra - TSF",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUx5NGpWRmU5aGxZaU05TTFGNFBnd3dIR3BrX0FYbEZUZzE1cmFLQVNtUEdHV0k5aDNOT0NRTEkxamlSNkhPc2c2aFMyOTRQS1ZISkpmQldrb1h1WkJSNWRPcUstWmd1dVdrVXcxVnBTQkduMFdrMUJ0NU9zNGVxYXFCanhBWC1mYm04TmxCRVFWcFQ2Y2VFV0xyQlpCOEJGZVBveG1n0gGmAUFVX3lxTFBRTHk0alZGZTlobFlpTTlNMUY0UGd3d0hHcGtfQVhsRlRnMTVyYUtBU21QR0dXSTloM05PQ1FMSTFqaVI2SE9zZzZoUzI5NFBLVkhKSmZCV2tvWHVaQlI1ZE9xSy1aZ3V1V2tVdzFWcFNCR24wV2sxQnQ1T3M0ZXFhcUJqeEFYLWZibThObEJFUVZwVDZjZUVXTHJCWkI4QkZlUG94bWc?oc=5",
-      "source": "tsf.pt",
+      "source": "TSF",
       "publishedAt": "2026-09-20T12:29:00Z",
-      "description": "Notícia publicada por tsf.pt. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por TSF. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.tsf.pt/amp/18128583/teerao-afirma-ter-comunicado-aos-eua-as-condicoes-para-por-fim-a-guerra"
     },
@@ -177,42 +177,42 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeTBvb3lmbHpPTDZNVldocFlOYjBLUVcyVjJSYjF4TUY4UTl4aWZ1N3FvazhTTXJDVmZSZk9uMmUxTldrQTRUZkpwUzJwYmt2QUsyUVNWM0xLUy1HR083eUJveVFITWZ6MmVwVzhqX3owRi1STzlNOTVKZVF2b3ZsdHgtOXh2R0J4QnVEQ29zSHBVcjM1ZldRMWVYcFJyMkxkOU5ZZzJpOE9HQzhwX3BpRlJYa1MxSHJzOFVtSDMtZHdRZWxRb0ZkRWhOdjhlMmhFNXBrNWgwbnM?oc=5",
       "source": "24 Notícias",
       "publishedAt": "2026-09-20T11:57:45Z",
-      "description": "A guerra no Médio Oriente continua marcada pela tensão entre o Irão e os Estados Unidos, enquanto o Egito pede o avanço para a segunda fase do cessar-fogo em Gaza. Teerão ameaça países da região que apoiem eventuais ataques norte-americanos, enquanto Israel e Hezbollah mantêm posições de confronto.",
-      "image": "https://cdn.24noticias.pt/public-wp-content/uploads/2026/09/0cddb9c524094d047c8fb43c2848b3cea31716b6.jpg",
+      "description": "Notícia publicada por 24 Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
       "articleUrl": "https://24noticias.sapo.pt/atualidade/artigos/medio-oriente-egito-pede-avanco-no-cessar-fogo-em-gaza-e-irao-apresenta-novas-propostas-aos-eua"
     },
     {
-      "title": "Rússia está travando uma 'guerra híbrida' contra a Europa? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Mc2hGbGNNMFo3dS1QMk5VYW5GTEFKblN4NW1NWTBSWUlhRUgtVEx2azFDeENQVWxPYWMxQlU4WF93Y3BlQkNUY1pjZ3dESVlkYUxuLTFPOXppUktlZXdRckd30gFnQVVfeXFMT3B3V0Y5VHNwajUwMXRXcnBXNG1Hb0NXeEotQ2xBRnFpYXpWZVR5eEhrWm9DaUVMM1h2LUhmV2ZCZmI0dVlvMnJqVVRHMWlMdEVkT05GYnp2M2NFM1Z5U05aZmVJSlFyMA?oc=5",
-      "source": "BBC",
-      "publishedAt": "2026-09-19T17:29:42Z",
-      "description": "Segundo especialistas, o governo de Vladimir Putin estaria por trás de diversos ataques na Europa que combinam métodos militares e não militares para exercer pressão sem desencadear uma guerra aberta",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/2850/live/9e9f2c90-ab93-11f1-aa04-efbf6a882854.jpg",
-      "articleUrl": "https://www.bbc.com/portuguese/articles/ckg8207gn9xo"
+      "title": "Arábia Saudita confirma que houthis atacaram Riad com um míssil balístico | Médio Oriente - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGNvT013NzU1c0FGR1NZbEVQaUFOTFloRzFlSDR5TC1RWE44cVR6SkRVdzZaclhUQldvN0hFVnJ5TmlCbXhYLThtOUVIZXRWeGdaVlRQZXExUlh1QlBTeWpDSGt0dnJnUlJHZ2xGdzFjZ0tKM1J1R1pFLUFRd2NzbU45OUhXUldYVGFNVzh2V0d6RjZkbXBBMlhxNkxDazR3T0lXdnNMektNOFRlNzhhTk10bUxGbzllVEJV?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-20T17:34:57Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/20/mundo/noticia/arabia-saudita-confirma-houthis-atacaram-riade-missil-balistico-2188714"
     },
     {
-      "title": "Alerta falso de IA quase levou Estados Unidos a intercetar navio chinês no Médio Oriente - dn.pt",
+      "title": "Alerta falso de IA quase levou Estados Unidos a intercetar navio chinês no Médio Oriente - Diário de Notícias",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlkyMW5WTm9qM2ZVbWYySmFNSkxrY2lGbmptLVdiVklTZUFwMmxlTnNiNzVtdmtJMFFnVjNGTmFQNHg5b0pjOGJGLU1qaTk2alk2UmtpZFozTWNSb3lUeVhQR2RQV3dhdTVRcllpQVRaU1VjM1p2WENpVzB3a01SWXpieURZYWRYU05iWmtsa25kV1dJXzVGUi1ELUlaRmlqM1NnSmlpWGFiZkNITGxuS09RZElnZjJidFE?oc=5",
-      "source": "dn.pt",
+      "source": "Diário de Notícias",
       "publishedAt": "2026-09-19T10:02:23Z",
       "description": "As Forças Armadas norte-americanas estiveram perto de intercetar um navio chinês no Médio Oriente com base num relatório de informações incorreto, produzido com",
       "image": "https://media.assettype.com/dn%2F2025-10-29%2Fsoib32z9%2FTrump-Coreia.jpg?rect=0%2C0%2C3228%2C1695&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "articleUrl": "https://www.dn.pt/internacional/alerta-falso-de-ia-quase-levou-estados-unidos-a-intercetar-navio-chins-no-mdio-oriente"
     },
     {
-      "title": "Arábia Saudita confirma que houthis atacaram Riade com um míssil balístico - Público",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZzFZanZ5VWZISS1ybG1HM2UydWRWZFVUaWk5VURrcXJBNFVuTExoMjRZeHlxZmliRnpSbTdlS0sxcFp3SXc1MDhHMDZKUU5VUHdUQ283NVlsYnhSejJsbmNQMTI3a2xmMHNxM1kzem5YU1RwaGR4enctWDN1MnYwaVJyeHlNSXc1WDNybi1nNjdFMlNialZMcHRRdzE2alVRNVpqSUFpcGJYT0NfTTVOek5DeG04bjRRTjB4a296bzlldENadWhzLUwxei1raGd2TE9vd3BMSC1fWWFzRk5V?oc=5",
+      "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel - Público",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVXVCVjRTQlpmR213OVZDcmdQb1huQ2hNVFdENnNWTzU2enBkQ002aHNLNGxqYS1xTU9lOVJmdi10czFlT0pSUVE5aHM4ZnVCS015ZjJZdU1SWF9RLWJlMnpURTh4bGl0Wk1Uam1TVTd3ZlhEUGVrNEZOc0NEOWVoVDlYcnN0MUNpTURJMXdMNTZWcFN4MzM2dnlHWlRkZ3lSdXVqeVk4b2dNNm5hQjgzYmxyZTNwZ3pvM0ZiRERyTkVKWnRCNU9ZOWh3N0Z0ZFI3SWVNZk9YNA?oc=5",
       "source": "Público",
-      "publishedAt": "2026-09-20T17:34:57Z",
+      "publishedAt": "2026-09-20T14:02:48Z",
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Gastos dos EUA na guerra contra Irão superam 43,6 mil milhões de dólares até setembro - RTP",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUpnZHdqM1NxV1JscktjWE1raGViaE5VaWpSNnJIMGZuUW05QlpuWGxjTEM1SmxZT2wyb2tVajR4TTF5SEhPNkQyRTN4RVZFdm5WbVBYenV5UmpXN2FONVpkZTZ3ODU1dVFtU1h1QTh4SXhZQjRmY2lGY2R3MVpQWE93OHFWLVdOZEg5azRCeXBKVkFDMThVbFdCakNzNTg4MzlnRFBaSWF0bWk2dzhCdGo1RFRITEk0M1M1a3NFX2FQVmRRTnc?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-19T07:23:52Z",
-      "description": "Notícia publicada por RTP. Abra o artigo para consultar os detalhes completos.",
+      "title": "Bases norte-americanas no Médio Oriente sofreram danos graves em ataques iranianos | Estados Unidos - Público",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3F1SVNSVVh3cDAxV0ExLXRuS1NtOUZNOWZvSUExZURWQXJGS3VTdlBkWXlfRjAxZ085dURzZjJGTXJLZWZBNVM3cXN3RlUwXzNNU05hcWtvMVRLT2lDRmh6LXN2TzRZQkxLVndpajNqczNTenFpd2NZdG9aRkR6MTVGTi1tUHRpdXlmSDNHQTlCaElub093N3ppd244bjAxYVJ5dWhNSE8wLWswMU01ZmtTVEJuakZjNTFrVldmaWRkalJoZFBfbklJZw?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-19T16:08:02Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
