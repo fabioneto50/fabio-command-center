@@ -4,6 +4,7 @@ on:
     branches: [medication-corrections-2026-09-23]
     paths:
       - 'scripts/apply-medication-corrections-20260923.py'
+      - 'scripts/finalize-medication-wording-20260923.py'
       - 'tests/medication-corrections*'
       - '.github/workflows/medication-corrections-20260923.yml'
 permissions:
@@ -30,7 +31,7 @@ jobs:
         with: {python-version: '3.11'}
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with: {node-version: '22'}
-      - name: Check unmodified baseline before applying corrections
+      - name: Check baseline before applying corrections
         run: |
           set -euo pipefail
           mkdir -p audit-evidence
@@ -43,7 +44,6 @@ jobs:
           python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
           python -m playwright install --with-deps chromium webkit
       - name: Record general browser baseline
-        continue-on-error: true
         run: |
           set -euo pipefail
           python tests/audit-browser.py | tee audit-evidence/medication-baseline-browser.txt
@@ -52,10 +52,11 @@ jobs:
         run: |
           set -euo pipefail
           python scripts/apply-medication-corrections-20260923.py --install
+          python scripts/finalize-medication-wording-20260923.py
           python scripts/recover-antibiotics.py
           node --expose-internals scripts/build-clinical-data.cjs
           node --expose-internals scripts/build-assets.cjs
-          python -c "import json; assert json.load(open('build-info.json'))['assetBuild']=='1.4.0-dd9ac1e1b44b', 'Build differs from locally verified correction package'"
+          python -c "import json; assert json.load(open('build-info.json'))['assetBuild']=='1.4.0-2484781810f6', 'Build differs from locally verified correction package'"
       - name: Recheck code, integrity, typography and the amended fields
         run: |
           set -euo pipefail
@@ -63,6 +64,7 @@ jobs:
           python scripts/audit-integrity.py | tee audit-evidence/medication-after-integrity.txt
           node tests/check-typography.cjs | tee audit-evidence/medication-after-typography.txt
           node tests/medication-corrections-20260923.cjs | tee audit-evidence/medication-amendments.txt
+          python -c "from pathlib import Path; assert 'com validação multi-fonte' not in Path('iv-compatibility.js').read_text()"
       - name: General application regression after changes
         run: |
           set -euo pipefail
