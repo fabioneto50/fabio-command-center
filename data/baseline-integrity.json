@@ -1,9 +1,1 @@
-{
-  "dressings.json": "84f256dfac7a7e748183b26e794b5b805de7d46d826b6879fe37cf5080f87ee5",
-  "source.json": "79850586d641dd06c529a448cbb7a3ccb833f7848eeda2b95165bf4d6576e65b",
-  "cases.json": "8678d2c75685476c34da6ae0cf6b7fb7dd556dfad4dd5fb4e7c8fc93b72ef6d9",
-  "dilutions.json": "48d926de3022985fab14f7188cc8d581cb55342ce4532c71ecd9f4a6c507fe7e",
-  "dilutionSource.json": "bafeba6a4c24bbc739b7818d9a9fb472ef9ef902b4f5432636be874d0a802eef",
-  "ivNames.json": "1398e47793266df2ed7c69d8519b84b35b84a6fd7bd973aa8f8fcb03ed4584fa",
-  "medications.json": "454d3961b4bf692827c3b57c6d59fd343a4589d6c9d6eaa16b66c8678bca4f8a"
-}
+{"dressings.json":"84f256dfac7a7e748183b26e794b5b805de7d46d826b6879fe37cf5080f87ee5","source.json":"79850586d641dd06c529a448cbb7a3ccb833f7848eeda2b95165bf4d6576e65b","cases.json":"8678d2c75685476c34da6ae0cf6b7fb7dd556dfad4dd5fb4e7c8fc93b72ef6d9","dilutions.json":"0366b69351517d73be0eb5cf4d2ca08e897bf99985ee2150da5062603def747a","dilutionSource.json":"8d94e68c5cbc7e50c8f1d3d7ed6c429ace1193365d1a09924ae02eddde04b2a3","ivNames.json":"1398e47793266df2ed7c69d8519b84b35b84a6fd7bd973aa8f8fcb03ed4584fa","medications.json":"f4b52887b706f8c76a155d492107b0c704c0514ceddd2f4f4710f63c35338a14"}

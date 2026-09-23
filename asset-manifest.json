@@ -1,97 +1,97 @@
 {
   "version": "1.4.0",
-  "build": "1.4.0-e7a484d883bd",
+  "build": "1.4.0-dd9ac1e1b44b",
   "assets": {
-    "release/1.4.0-e7a484d883bd/styles.css": {
+    "release/1.4.0-dd9ac1e1b44b/styles.css": {
       "sha256": "94a81316928f7c7c5e4ec49682f412d33df0cea65397e8f566b45ce8e836245d",
       "bytes": 18883
     },
-    "release/1.4.0-e7a484d883bd/fcc-ui.css": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-ui.css": {
       "sha256": "cd51671569097455f81efc66ea8179a0d4a19d6d9c5d5d759447216c3e52ee84",
       "bytes": 15306
     },
-    "release/1.4.0-e7a484d883bd/fcc-design.css": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-design.css": {
       "sha256": "906b67cb8b6e20ad9f349f04b0c33d1a29f627b4c70f900dda7cb013bbce0a08",
       "bytes": 60321
     },
-    "release/1.4.0-e7a484d883bd/fcc-core.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-core.js": {
       "sha256": "57b327b959d8a96e8a6a01448eb8dfa92db9968de463d5e0737a34f34d479ce3",
       "bytes": 11561
     },
-    "release/1.4.0-e7a484d883bd/fcc-store.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-store.js": {
       "sha256": "3da9027fc00719a868089277db8dfa0526c1241bc19bb851ddf337cae0f72151",
       "bytes": 22313
     },
-    "release/1.4.0-e7a484d883bd/fcc-ui.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-ui.js": {
       "sha256": "508ab843a679d0ec01f02f68940c7c4231ca310834cffe6c472c248da48b684f",
       "bytes": 6916
     },
-    "release/1.4.0-e7a484d883bd/fcc-clinical-ui.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-clinical-ui.js": {
       "sha256": "e25611b2cc2dd5dc3c21843434ce455c8e63d616471f4a1e4bf5cc0f50678ade",
       "bytes": 8869
     },
-    "release/1.4.0-e7a484d883bd/app.js": {
+    "release/1.4.0-dd9ac1e1b44b/app.js": {
       "sha256": "b6d5fae21fd03a2240c7b4fca6473668c0078545c3489c8be9ec9bf92dee71b7",
       "bytes": 76946
     },
-    "release/1.4.0-e7a484d883bd/navigation-hub.js": {
+    "release/1.4.0-dd9ac1e1b44b/navigation-hub.js": {
       "sha256": "797d053576cb256b471d3c2e6fe7ee2afe00172470461ecec259c6ef6a8c4fef",
       "bytes": 8750
     },
-    "release/1.4.0-e7a484d883bd/theme-switcher.js": {
+    "release/1.4.0-dd9ac1e1b44b/theme-switcher.js": {
       "sha256": "d53ef979cfbf175050cee191cc2611db828bdfb52e34978fa922cd42d4f79733",
       "bytes": 11965
     },
-    "release/1.4.0-e7a484d883bd/theme-auto-v2.js": {
+    "release/1.4.0-dd9ac1e1b44b/theme-auto-v2.js": {
       "sha256": "b908ab58d44bfd28245b64cf6b9d860473e6d28b24cfb89b29519aed6c89ce74",
       "bytes": 3151
     },
-    "release/1.4.0-e7a484d883bd/theme-audit-fixes.js": {
+    "release/1.4.0-dd9ac1e1b44b/theme-audit-fixes.js": {
       "sha256": "dbbf7ee77248f25f459e3c0ee56979c2808fd57a7093cd1e7b0f85d6256070e7",
       "bytes": 7515
     },
-    "release/1.4.0-e7a484d883bd/personal-security-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/personal-security-v1.js": {
       "sha256": "61df8c17a7fe2e2a4d3ba444628e8d893ffeb6e9f3b901f2db1b9afea040fe0e",
       "bytes": 6671
     },
-    "release/1.4.0-e7a484d883bd/fcc-areas.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-areas.js": {
       "sha256": "4d57aeba6677ae64ce475f1b3ff63499c4fa17551736b85c4d553e2fbd50b70e",
       "bytes": 17368
     },
-    "release/1.4.0-e7a484d883bd/fcc-navigation.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-navigation.js": {
       "sha256": "8ab2bd5593e4e4d55ad6e4d37a7e67370a77ffc0c22edd2d68cb59056188e6b2",
       "bytes": 16082
     },
-    "release/1.4.0-e7a484d883bd/personal-hub-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/personal-hub-v1.js": {
       "sha256": "32e740a7d565782561d27be1fcad9031db2c98b6c7b0042e1ba0fe852986f056",
       "bytes": 1368
     },
-    "release/1.4.0-e7a484d883bd/fcc-backup.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-backup.js": {
       "sha256": "a76316be6ddb0a753fd33b70bda281f1e5fb5a2964702a8cf58b1a1565a4c7da",
       "bytes": 8526
     },
-    "release/1.4.0-e7a484d883bd/search-enhancer.js": {
+    "release/1.4.0-dd9ac1e1b44b/search-enhancer.js": {
       "sha256": "99dbd24c62182368159e44307862eefa0505bea761edb2468fc6b390f40ccd06",
       "bytes": 7196
     },
-    "release/1.4.0-e7a484d883bd/fcc-favorites.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-favorites.js": {
       "sha256": "9b84a2649b98900e312c8c0b083fd8d8cc96cd7cb7851bac2a7158894ef217a8",
       "bytes": 10162
     },
-    "release/1.4.0-e7a484d883bd/fcc-offline.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-offline.js": {
       "sha256": "4e59be5c185920d3a271fde3d6f6334b1b7531acba8fd9146325a87182095414",
       "bytes": 5990
     },
-    "release/1.4.0-e7a484d883bd/fcc-appearance.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-appearance.js": {
       "sha256": "725ca27b74d8c27730ea56126b92edcbe6a5e25997d899a321ec2b5fb0a8a3c9",
       "bytes": 4023
     },
-    "release/1.4.0-e7a484d883bd/home-current-news-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/home-current-news-v1.js": {
       "sha256": "6b172257ce7a64c94c873ec4869cd1e49dc0cb4159793098ab1d90a638be2c93",
       "bytes": 6129
     },
     "index.html": {
-      "sha256": "574353e7847d6a14f1e36e72ffc99dec8e5c733ebe1c350f11da9238935d7a87",
+      "sha256": "52b14fa3d91eaf9f0cd64d6bd24e98f359178925c3b52bc68a60ada34f7db742",
       "bytes": 48549
     },
     "manifest.webmanifest": {
@@ -110,135 +110,135 @@
       "sha256": "ec85c4ea95bbfb987e1b43d716eb20b3edc202d33891db7b2e3c428671f31675",
       "bytes": 483
     },
-    "release/1.4.0-e7a484d883bd/fcc-content-core-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-content-core-v1.js": {
       "sha256": "b4fb7c098d3e5551de173918eb8d7d51bff7a944938235e976a783e52c371794",
       "bytes": 12158
     },
-    "release/1.4.0-e7a484d883bd/fcc-content-config-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-content-config-v1.js": {
       "sha256": "8e12054eab45b8a7feb1eabbcb06c86c795347ab2f4660bd24cc49d8b304b346",
       "bytes": 2053
     },
-    "release/1.4.0-e7a484d883bd/data/institutional.json": {
-      "sha256": "cdc3bb82cfcbaecf4230d7ad859352219ac49593f8dfe3bf3c1e42fc6eb165e8",
-      "bytes": 165653
+    "release/1.4.0-dd9ac1e1b44b/data/institutional.json": {
+      "sha256": "ec64e4fbad74a90709e9da1c1f7e85fc9c74ffe9495ef79054ae641534e8cada",
+      "bytes": 166265
     },
-    "release/1.4.0-e7a484d883bd/data/high-alert.json": {
+    "release/1.4.0-dd9ac1e1b44b/data/high-alert.json": {
       "sha256": "a42dea24fe1d7acd297bb687564ad3ed1dfc7eadbdc4a190d0daffe3cb0cbcbd",
       "bytes": 92330
     },
-    "release/1.4.0-e7a484d883bd/perfusion-reference.js": {
+    "release/1.4.0-dd9ac1e1b44b/perfusion-reference.js": {
       "sha256": "0f136117a4266fcb3dc406e220def8f805063a046f2aa405a4499e9b1e6321c8",
       "bytes": 16682
     },
-    "release/1.4.0-e7a484d883bd/critical-care-dilutions-v2.js": {
+    "release/1.4.0-dd9ac1e1b44b/critical-care-dilutions-v2.js": {
       "sha256": "85945c9c88cf5bcdf2125e3c58f1595254b1791ddc39ca6ed97e1fb8bf749fc7",
       "bytes": 16642
     },
-    "release/1.4.0-e7a484d883bd/dilutions-ux-v3.js": {
+    "release/1.4.0-dd9ac1e1b44b/dilutions-ux-v3.js": {
       "sha256": "2f6bf0b4bf8d52ca2cdd66a0f0f9e07df0e66d7927629f35524006db0c6c6d8e",
       "bytes": 3951
     },
-    "release/1.4.0-e7a484d883bd/dilutions-document-db-v4.js": {
-      "sha256": "bd4fc93b580e25f5725faeb3a9245b30cea9ca1e5457814ed01dfe382b0dacc6",
-      "bytes": 15558
+    "release/1.4.0-dd9ac1e1b44b/dilutions-document-db-v4.js": {
+      "sha256": "3cca58a84317530282060c79aa6d785ce823a7efa6d331ffb31520ce619529b1",
+      "bytes": 15890
     },
-    "release/1.4.0-e7a484d883bd/dilutions-cuf-v6.js": {
+    "release/1.4.0-dd9ac1e1b44b/dilutions-cuf-v6.js": {
       "sha256": "48643d4b95f30f99c8921f5e19a9c09cd2fd0cd5b89e8940e202b51ac4fccbee",
       "bytes": 9744
     },
-    "release/1.4.0-e7a484d883bd/dilutions-card-ux-v5.js": {
+    "release/1.4.0-dd9ac1e1b44b/dilutions-card-ux-v5.js": {
       "sha256": "3b37e3ecfbf67e9456e605ad4aaf101abeec2b418fe4a99609ec26583448cfc6",
       "bytes": 6531
     },
-    "release/1.4.0-e7a484d883bd/data/dilutionSource.json": {
-      "sha256": "bafeba6a4c24bbc739b7818d9a9fb472ef9ef902b4f5432636be874d0a802eef",
-      "bytes": 271300
+    "release/1.4.0-dd9ac1e1b44b/data/dilutionSource.json": {
+      "sha256": "8d94e68c5cbc7e50c8f1d3d7ed6c429ace1193365d1a09924ae02eddde04b2a3",
+      "bytes": 276302
     },
-    "release/1.4.0-e7a484d883bd/fcc-medications.js": {
-      "sha256": "4b9a13615fe819865301d7b7119be28f4fe5ad18c801967609aaa5476fa4726a",
-      "bytes": 10532
+    "release/1.4.0-dd9ac1e1b44b/fcc-medications.js": {
+      "sha256": "29bebfafc6d1f085d95b27007fceda28b49c44440494d7f622638e56aeca160e",
+      "bytes": 10842
     },
-    "release/1.4.0-e7a484d883bd/medication-stability-cuf-v1.js": {
-      "sha256": "bf9c4e621547baaf0bbf4a3f1792754117700209b761b2914c916a560d45783a",
-      "bytes": 5214
+    "release/1.4.0-dd9ac1e1b44b/medication-stability-cuf-v1.js": {
+      "sha256": "7fe7817746980ae925b90ef6b1d712a4b54979dbdd3af6cb686cc63353d8bb2c",
+      "bytes": 6225
     },
-    "release/1.4.0-e7a484d883bd/data/medications.json": {
-      "sha256": "454d3961b4bf692827c3b57c6d59fd343a4589d6c9d6eaa16b66c8678bca4f8a",
-      "bytes": 1662128
+    "release/1.4.0-dd9ac1e1b44b/data/medications.json": {
+      "sha256": "f4b52887b706f8c76a155d492107b0c704c0514ceddd2f4f4710f63c35338a14",
+      "bytes": 2015214
     },
-    "release/1.4.0-e7a484d883bd/data/brand-names.json": {
+    "release/1.4.0-dd9ac1e1b44b/data/brand-names.json": {
       "sha256": "dcde1f257c55995d975313410ab2152db074474b4bcb21b0ed79507473258682",
       "bytes": 534
     },
-    "release/1.4.0-e7a484d883bd/medication-safety-cuf-v2.js": {
+    "release/1.4.0-dd9ac1e1b44b/medication-safety-cuf-v2.js": {
       "sha256": "20e17c7c122c87a3b9220b54773a958e5c642bcff542af3f37504cb8cbe7b80a",
       "bytes": 22614
     },
-    "release/1.4.0-e7a484d883bd/iv-compatibility.js": {
-      "sha256": "2b10590253ecfd56f6905d019d81f2db2d3ccd09856b88f62ad1f8bd1b8d5fa9",
-      "bytes": 17332
+    "release/1.4.0-dd9ac1e1b44b/iv-compatibility.js": {
+      "sha256": "5d664a486666c8df3fa458e2ac411123ab03f0086d616c77d508f2f299661ca4",
+      "bytes": 17433
     },
-    "release/1.4.0-e7a484d883bd/iv-catalogue.js": {
-      "sha256": "af16aa0fd4ff6944853c69e1a0cfcf2d8e7a082b1966dee55af2f21db14e65d7",
-      "bytes": 11016
+    "release/1.4.0-dd9ac1e1b44b/iv-catalogue.js": {
+      "sha256": "adbc560d9e040cd96b77c4583086e6a003aca33261e30bdf14cae2a23ccff477",
+      "bytes": 11090
     },
-    "release/1.4.0-e7a484d883bd/iv-compatibility-ui-v2.js": {
-      "sha256": "605da94a76cb934acadb1af05e1fdbe1cc20fb81593dcfc10b0d6598f645b787",
-      "bytes": 13136
+    "release/1.4.0-dd9ac1e1b44b/iv-compatibility-ui-v2.js": {
+      "sha256": "d2efc14f7d2c5e7d601667572dd7183699951bf6bceee71fa46d431f1040518c",
+      "bytes": 13200
     },
-    "release/1.4.0-e7a484d883bd/iv-source-evidence.js": {
-      "sha256": "378c190a721c958bbf1b550f96ff7eb32b14078a222e77101ac1cca3cd570794",
-      "bytes": 9313
+    "release/1.4.0-dd9ac1e1b44b/iv-source-evidence.js": {
+      "sha256": "5ebd18f00b59c74129c57ec3bf4a506c96b5391bf6206492358cba4f4738519a",
+      "bytes": 9360
     },
-    "release/1.4.0-e7a484d883bd/iv-compatibility-expanded-v3.js": {
-      "sha256": "5672449d4c1f3e141ff02c26946c379f75e889d35cff5076930f5adb7ea0e5d9",
-      "bytes": 7971
+    "release/1.4.0-dd9ac1e1b44b/iv-compatibility-expanded-v3.js": {
+      "sha256": "4a02d6af9934c257ce82cfa52c49d8cabef0679fefe03f34bd9d03f42deabfb0",
+      "bytes": 11278
     },
-    "release/1.4.0-e7a484d883bd/iv-compatibility-exit-reset-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/iv-compatibility-exit-reset-v1.js": {
       "sha256": "9663f3194c299932e31b193514bc390b146705cbd22bd48625ca0db53e7b65e9",
       "bytes": 1044
     },
-    "release/1.4.0-e7a484d883bd/fcc-cases.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-cases.js": {
       "sha256": "46463e8a4c15fe0a7580526e4f30352116acf61c6db25ffd285f1ed5e2542c95",
       "bytes": 7053
     },
-    "release/1.4.0-e7a484d883bd/data/cases.json": {
+    "release/1.4.0-dd9ac1e1b44b/data/cases.json": {
       "sha256": "8678d2c75685476c34da6ae0cf6b7fb7dd556dfad4dd5fb4e7c8fc93b72ef6d9",
       "bytes": 109759
     },
-    "release/1.4.0-e7a484d883bd/data/case-sources.json": {
+    "release/1.4.0-dd9ac1e1b44b/data/case-sources.json": {
       "sha256": "79061310d66cbc7612a015f6995cfefecdde793e881d4bfcf7cae84ff77a2816",
       "bytes": 1147
     },
-    "release/1.4.0-e7a484d883bd/ecg-photo-assist.js": {
+    "release/1.4.0-dd9ac1e1b44b/ecg-photo-assist.js": {
       "sha256": "647313e08a67338cdebe6950026369d07c6334f0b9b4ca22bcee8c98940ebd28",
       "bytes": 7426
     },
-    "release/1.4.0-e7a484d883bd/ecg-image-analyzer-v3.js": {
+    "release/1.4.0-dd9ac1e1b44b/ecg-image-analyzer-v3.js": {
       "sha256": "25713b94be0e1b22a174124f5e52cdd67a84bf755884c8b7fe7385a12d7db241",
       "bytes": 26728
     },
-    "release/1.4.0-e7a484d883bd/data/search-index.json": {
-      "sha256": "aac86c57baed5cbce658049b09305d81b29cdbd858314a553e5b02d0d01cfa77",
-      "bytes": 816697
+    "release/1.4.0-dd9ac1e1b44b/data/search-index.json": {
+      "sha256": "7a245405cb29de4abd2da08ab3ada3ce8a5bfb24459c40cdd2e3a164c393444b",
+      "bytes": 813260
     },
-    "release/1.4.0-e7a484d883bd/wound-dressings-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/wound-dressings-v1.js": {
       "sha256": "77b2d724d308b79fe412f7fb6cea61437113d0f20ca2ca1c0b5f2fd57c9ca7c8",
       "bytes": 39171
     },
-    "release/1.4.0-e7a484d883bd/wound-dressings-local-data-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/wound-dressings-local-data-v1.js": {
       "sha256": "072851369483f110625e229cf02dcfe9591623e1817dfdf5a8818c1f9edae9e3",
       "bytes": 2435
     },
-    "release/1.4.0-e7a484d883bd/wound-dressings-order-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/wound-dressings-order-v1.js": {
       "sha256": "4449fc313041f3cb038e346b43f2806f8d7b9d4fe4b9d5e4e41bf8e718d741d9",
       "bytes": 4847
     },
-    "release/1.4.0-e7a484d883bd/wound-dressings-media-model-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/wound-dressings-media-model-v1.js": {
       "sha256": "724445ef146d5fb8ebdd511eb08a62d5cd7beef904eb31faae3a6f3f80c57850",
       "bytes": 8516
     },
-    "release/1.4.0-e7a484d883bd/wound-images-curated-v1.json": {
+    "release/1.4.0-dd9ac1e1b44b/wound-images-curated-v1.json": {
       "sha256": "abd54e2663e81ce4a9d8d9e9bb835b6e109545b809d7f6b23db4c0a26a5779a8",
       "bytes": 14082
     },
@@ -426,31 +426,31 @@
       "sha256": "4fc4675a1807183d73bcf13ae3359136506c815a984a710ff715413a1f94e6bc",
       "bytes": 169970
     },
-    "release/1.4.0-e7a484d883bd/fcc-personal.js": {
+    "release/1.4.0-dd9ac1e1b44b/fcc-personal.js": {
       "sha256": "dea235b488adafda97a0f2089afc06739be974e48eb88a49b9bfa69cb4bb258d",
       "bytes": 4335
     },
-    "release/1.4.0-e7a484d883bd/expense-recurring-engine.js": {
+    "release/1.4.0-dd9ac1e1b44b/expense-recurring-engine.js": {
       "sha256": "ce8f62b357a50f76c3a05d99e8eaa2919ed7284af1242080dbdc00937b7df1ae",
       "bytes": 12060
     },
-    "release/1.4.0-e7a484d883bd/expense-center.js": {
+    "release/1.4.0-dd9ac1e1b44b/expense-center.js": {
       "sha256": "be72f5518843411d4eb9732c8fbc346226d74069c5bd59083094124223792a37",
       "bytes": 38827
     },
-    "release/1.4.0-e7a484d883bd/expense-recurring-ui.js": {
+    "release/1.4.0-dd9ac1e1b44b/expense-recurring-ui.js": {
       "sha256": "3314b7547ca6e3a99ce2e63f97a1ed6b8e97aae43b818d6c4ce05a18a5b36bbd",
       "bytes": 15665
     },
-    "release/1.4.0-e7a484d883bd/research-live-search-v1.js": {
+    "release/1.4.0-dd9ac1e1b44b/research-live-search-v1.js": {
       "sha256": "8223a7e026967b3d78bcc7d55bc43fe7fbfb23c9af420cff5df4c22f5b5d3142",
       "bytes": 6663
     },
-    "release/1.4.0-e7a484d883bd/clinical-material.js": {
+    "release/1.4.0-dd9ac1e1b44b/clinical-material.js": {
       "sha256": "836eba748e11eafd3030f504c73f95e8e5650e148fa868771eb1c6c42654fc2a",
       "bytes": 6061
     },
-    "release/1.4.0-e7a484d883bd/clinical-material-window-v2.js": {
+    "release/1.4.0-dd9ac1e1b44b/clinical-material-window-v2.js": {
       "sha256": "475eb86a486f27a7a31fe12cfbe49e5d6f81fd0e04411b04305de5bb8af5d9f5",
       "bytes": 2103
     }
@@ -459,28 +459,28 @@
     "core": {
       "label": "Base da aplicação",
       "files": [
-        "release/1.4.0-e7a484d883bd/styles.css",
-        "release/1.4.0-e7a484d883bd/fcc-ui.css",
-        "release/1.4.0-e7a484d883bd/fcc-design.css",
-        "release/1.4.0-e7a484d883bd/fcc-core.js",
-        "release/1.4.0-e7a484d883bd/fcc-store.js",
-        "release/1.4.0-e7a484d883bd/fcc-ui.js",
-        "release/1.4.0-e7a484d883bd/fcc-clinical-ui.js",
-        "release/1.4.0-e7a484d883bd/app.js",
-        "release/1.4.0-e7a484d883bd/navigation-hub.js",
-        "release/1.4.0-e7a484d883bd/theme-switcher.js",
-        "release/1.4.0-e7a484d883bd/theme-auto-v2.js",
-        "release/1.4.0-e7a484d883bd/theme-audit-fixes.js",
-        "release/1.4.0-e7a484d883bd/personal-security-v1.js",
-        "release/1.4.0-e7a484d883bd/fcc-areas.js",
-        "release/1.4.0-e7a484d883bd/fcc-navigation.js",
-        "release/1.4.0-e7a484d883bd/personal-hub-v1.js",
-        "release/1.4.0-e7a484d883bd/fcc-backup.js",
-        "release/1.4.0-e7a484d883bd/search-enhancer.js",
-        "release/1.4.0-e7a484d883bd/fcc-favorites.js",
-        "release/1.4.0-e7a484d883bd/fcc-offline.js",
-        "release/1.4.0-e7a484d883bd/fcc-appearance.js",
-        "release/1.4.0-e7a484d883bd/home-current-news-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/styles.css",
+        "release/1.4.0-dd9ac1e1b44b/fcc-ui.css",
+        "release/1.4.0-dd9ac1e1b44b/fcc-design.css",
+        "release/1.4.0-dd9ac1e1b44b/fcc-core.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-store.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-ui.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-clinical-ui.js",
+        "release/1.4.0-dd9ac1e1b44b/app.js",
+        "release/1.4.0-dd9ac1e1b44b/navigation-hub.js",
+        "release/1.4.0-dd9ac1e1b44b/theme-switcher.js",
+        "release/1.4.0-dd9ac1e1b44b/theme-auto-v2.js",
+        "release/1.4.0-dd9ac1e1b44b/theme-audit-fixes.js",
+        "release/1.4.0-dd9ac1e1b44b/personal-security-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-areas.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-navigation.js",
+        "release/1.4.0-dd9ac1e1b44b/personal-hub-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-backup.js",
+        "release/1.4.0-dd9ac1e1b44b/search-enhancer.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-favorites.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-offline.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-appearance.js",
+        "release/1.4.0-dd9ac1e1b44b/home-current-news-v1.js",
         "index.html",
         "manifest.webmanifest",
         "icon-192.png",
@@ -491,46 +491,46 @@
     "clinical": {
       "label": "Clínica completa e pesquisa",
       "files": [
-        "release/1.4.0-e7a484d883bd/fcc-content-core-v1.js",
-        "release/1.4.0-e7a484d883bd/fcc-content-config-v1.js",
-        "release/1.4.0-e7a484d883bd/data/institutional.json",
-        "release/1.4.0-e7a484d883bd/data/high-alert.json",
-        "release/1.4.0-e7a484d883bd/perfusion-reference.js",
-        "release/1.4.0-e7a484d883bd/critical-care-dilutions-v2.js",
-        "release/1.4.0-e7a484d883bd/dilutions-ux-v3.js",
-        "release/1.4.0-e7a484d883bd/dilutions-document-db-v4.js",
-        "release/1.4.0-e7a484d883bd/dilutions-cuf-v6.js",
-        "release/1.4.0-e7a484d883bd/dilutions-card-ux-v5.js",
-        "release/1.4.0-e7a484d883bd/data/dilutionSource.json",
-        "release/1.4.0-e7a484d883bd/fcc-medications.js",
-        "release/1.4.0-e7a484d883bd/medication-stability-cuf-v1.js",
-        "release/1.4.0-e7a484d883bd/data/medications.json",
-        "release/1.4.0-e7a484d883bd/data/brand-names.json",
-        "release/1.4.0-e7a484d883bd/medication-safety-cuf-v2.js",
-        "release/1.4.0-e7a484d883bd/iv-compatibility.js",
-        "release/1.4.0-e7a484d883bd/iv-catalogue.js",
-        "release/1.4.0-e7a484d883bd/iv-compatibility-ui-v2.js",
-        "release/1.4.0-e7a484d883bd/iv-source-evidence.js",
-        "release/1.4.0-e7a484d883bd/iv-compatibility-expanded-v3.js",
-        "release/1.4.0-e7a484d883bd/iv-compatibility-exit-reset-v1.js",
-        "release/1.4.0-e7a484d883bd/fcc-cases.js",
-        "release/1.4.0-e7a484d883bd/data/cases.json",
-        "release/1.4.0-e7a484d883bd/data/case-sources.json",
-        "release/1.4.0-e7a484d883bd/ecg-photo-assist.js",
-        "release/1.4.0-e7a484d883bd/ecg-image-analyzer-v3.js",
-        "release/1.4.0-e7a484d883bd/data/search-index.json"
+        "release/1.4.0-dd9ac1e1b44b/fcc-content-core-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-content-config-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/data/institutional.json",
+        "release/1.4.0-dd9ac1e1b44b/data/high-alert.json",
+        "release/1.4.0-dd9ac1e1b44b/perfusion-reference.js",
+        "release/1.4.0-dd9ac1e1b44b/critical-care-dilutions-v2.js",
+        "release/1.4.0-dd9ac1e1b44b/dilutions-ux-v3.js",
+        "release/1.4.0-dd9ac1e1b44b/dilutions-document-db-v4.js",
+        "release/1.4.0-dd9ac1e1b44b/dilutions-cuf-v6.js",
+        "release/1.4.0-dd9ac1e1b44b/dilutions-card-ux-v5.js",
+        "release/1.4.0-dd9ac1e1b44b/data/dilutionSource.json",
+        "release/1.4.0-dd9ac1e1b44b/fcc-medications.js",
+        "release/1.4.0-dd9ac1e1b44b/medication-stability-cuf-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/data/medications.json",
+        "release/1.4.0-dd9ac1e1b44b/data/brand-names.json",
+        "release/1.4.0-dd9ac1e1b44b/medication-safety-cuf-v2.js",
+        "release/1.4.0-dd9ac1e1b44b/iv-compatibility.js",
+        "release/1.4.0-dd9ac1e1b44b/iv-catalogue.js",
+        "release/1.4.0-dd9ac1e1b44b/iv-compatibility-ui-v2.js",
+        "release/1.4.0-dd9ac1e1b44b/iv-source-evidence.js",
+        "release/1.4.0-dd9ac1e1b44b/iv-compatibility-expanded-v3.js",
+        "release/1.4.0-dd9ac1e1b44b/iv-compatibility-exit-reset-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-cases.js",
+        "release/1.4.0-dd9ac1e1b44b/data/cases.json",
+        "release/1.4.0-dd9ac1e1b44b/data/case-sources.json",
+        "release/1.4.0-dd9ac1e1b44b/ecg-photo-assist.js",
+        "release/1.4.0-dd9ac1e1b44b/ecg-image-analyzer-v3.js",
+        "release/1.4.0-dd9ac1e1b44b/data/search-index.json"
       ]
     },
     "dressings": {
       "label": "Pensos e 46 imagens",
       "files": [
-        "release/1.4.0-e7a484d883bd/wound-dressings-v1.js",
-        "release/1.4.0-e7a484d883bd/wound-dressings-local-data-v1.js",
-        "release/1.4.0-e7a484d883bd/wound-dressings-order-v1.js",
-        "release/1.4.0-e7a484d883bd/wound-dressings-media-model-v1.js",
-        "release/1.4.0-e7a484d883bd/wound-images-curated-v1.json",
-        "release/1.4.0-e7a484d883bd/fcc-content-core-v1.js",
-        "release/1.4.0-e7a484d883bd/fcc-content-config-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/wound-dressings-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/wound-dressings-local-data-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/wound-dressings-order-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/wound-dressings-media-model-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/wound-images-curated-v1.json",
+        "release/1.4.0-dd9ac1e1b44b/fcc-content-core-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-content-config-v1.js",
         "assets/wound-images/user-final/acticoat-flex-3-01.webp",
         "assets/wound-images/user-final/actisorb-silver-220-01.webp",
         "assets/wound-images/user-final/adaptic-01.webp",
@@ -582,15 +582,15 @@
     "personal": {
       "label": "Ferramentas pessoais",
       "files": [
-        "release/1.4.0-e7a484d883bd/fcc-personal.js",
-        "release/1.4.0-e7a484d883bd/expense-recurring-engine.js",
-        "release/1.4.0-e7a484d883bd/expense-center.js",
-        "release/1.4.0-e7a484d883bd/expense-recurring-ui.js",
-        "release/1.4.0-e7a484d883bd/research-live-search-v1.js",
-        "release/1.4.0-e7a484d883bd/clinical-material.js",
-        "release/1.4.0-e7a484d883bd/clinical-material-window-v2.js",
-        "release/1.4.0-e7a484d883bd/fcc-content-core-v1.js",
-        "release/1.4.0-e7a484d883bd/fcc-content-config-v1.js"
+        "release/1.4.0-dd9ac1e1b44b/fcc-personal.js",
+        "release/1.4.0-dd9ac1e1b44b/expense-recurring-engine.js",
+        "release/1.4.0-dd9ac1e1b44b/expense-center.js",
+        "release/1.4.0-dd9ac1e1b44b/expense-recurring-ui.js",
+        "release/1.4.0-dd9ac1e1b44b/research-live-search-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/clinical-material.js",
+        "release/1.4.0-dd9ac1e1b44b/clinical-material-window-v2.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-content-core-v1.js",
+        "release/1.4.0-dd9ac1e1b44b/fcc-content-config-v1.js"
       ]
     }
   }
