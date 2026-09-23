@@ -1,0 +1,98 @@
+name: Medication corrections 2026-09-23
+on:
+  push:
+    branches: [medication-corrections-2026-09-23]
+    paths:
+      - 'scripts/apply-medication-corrections-20260923.py'
+      - 'tests/medication-corrections*'
+      - '.github/workflows/medication-corrections-20260923.yml'
+permissions:
+  contents: read
+concurrency:
+  group: medication-corrections-20260923
+  cancel-in-progress: true
+jobs:
+  prepare-and-verify:
+    if: github.repository == 'fabioneto50/fabio-command-center'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: medication-corrections-2026-09-23
+          fetch-depth: 0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with: {python-version: '3.11'}
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with: {node-version: '22'}
+      - name: Check unmodified baseline before applying corrections
+        run: |
+          set -euo pipefail
+          mkdir -p audit-evidence
+          node --test tests/audit-unit.mjs | tee audit-evidence/medication-baseline-unit.txt
+          python scripts/audit-integrity.py | tee audit-evidence/medication-baseline-integrity.txt
+          node tests/check-typography.cjs | tee audit-evidence/medication-baseline-typography.txt
+      - name: Install pinned browsers
+        run: |
+          set -euo pipefail
+          python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
+          python -m playwright install --with-deps chromium webkit
+      - name: Record general browser baseline
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          python tests/audit-browser.py | tee audit-evidence/medication-baseline-browser.txt
+          cp audit-evidence/browser-audit.json audit-evidence/medication-baseline-browser.json
+      - name: Apply only bounded amendments and build exact versioned runtime
+        run: |
+          set -euo pipefail
+          python scripts/apply-medication-corrections-20260923.py --install
+          python scripts/recover-antibiotics.py
+          node --expose-internals scripts/build-clinical-data.cjs
+          node --expose-internals scripts/build-assets.cjs
+          python -c "import json; assert json.load(open('build-info.json'))['assetBuild']=='1.4.0-dd9ac1e1b44b', 'Build differs from locally verified correction package'"
+      - name: Recheck code, integrity, typography and the amended fields
+        run: |
+          set -euo pipefail
+          node --test tests/audit-unit.mjs | tee audit-evidence/medication-after-unit.txt
+          python scripts/audit-integrity.py | tee audit-evidence/medication-after-integrity.txt
+          node tests/check-typography.cjs | tee audit-evidence/medication-after-typography.txt
+          node tests/medication-corrections-20260923.cjs | tee audit-evidence/medication-amendments.txt
+      - name: General application regression after changes
+        run: |
+          set -euo pipefail
+          python tests/audit-browser.py | tee audit-evidence/medication-after-browser.txt
+          cp audit-evidence/browser-audit.json audit-evidence/medication-after-browser.json
+      - name: Targeted mobile and desktop amendment regression
+        run: |
+          set -euo pipefail
+          python tests/medication-corrections-browser-20260923.py | tee audit-evidence/medication-targeted-browser.txt
+          python tests/audit-record-view.py
+          python scripts/stage-site.py
+      - name: Commit verified derived files to the same isolated branch only
+        run: |
+          set -euo pipefail
+          test "$(git branch --show-current)" = medication-corrections-2026-09-23
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- scripts/build-clinical-data.cjs fcc-medications.js medication-stability-cuf-v1.js dilutions-document-db-v4.js iv-compatibility.js iv-catalogue.js iv-compatibility-ui-v2.js iv-source-evidence.js iv-compatibility-expanded-v3.js data/ release/ index.html asset-manifest.json service-worker.js build-info.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Apply and verify bounded medication amendments; retain incomplete clinical review status'
+            git push origin HEAD:medication-corrections-2026-09-23
+          fi
+          git rev-parse HEAD > audit-evidence/medication-verified-commit.txt
+      - name: Preserve verification evidence, even after failure
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: medication-corrections-evidence
+          path: |
+            audit-evidence/
+            data/medication-corrections-20260923.json
+            build-info.json
+          retention-days: 30
