@@ -1,0 +1,62 @@
+name: Published medication corrections check
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/medication-corrections-20260923.json'
+      - 'tests/medication-corrections-browser-20260923.py'
+      - '.github/workflows/medication-corrections-live-20260923.yml'
+permissions:
+  contents: read
+concurrency:
+  group: medication-corrections-live
+  cancel-in-progress: true
+jobs:
+  verify-published:
+    if: github.repository == 'fabioneto50/fabio-command-center'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with: {persist-credentials: false}
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with: {python-version: '3.11'}
+      - name: Install pinned browsers
+        run: |
+          set -euo pipefail
+          python -m pip install playwright==1.55.0 pyee==13.0.0 greenlet==3.2.4
+          python -m playwright install --with-deps chromium webkit
+      - name: Wait for this exact build, without altering publication settings
+        run: |
+          python - <<'PY'
+          import json,time,urllib.request
+          from pathlib import Path
+          expected=json.loads(Path('build-info.json').read_text())['assetBuild']
+          url='https://fabioneto50.github.io/fabio-command-center/build-info.json'
+          for attempt in range(40):
+              try:
+                  req=urllib.request.Request(url+'?build='+expected+'&attempt='+str(attempt),headers={'Cache-Control':'no-cache'})
+                  with urllib.request.urlopen(req,timeout=20) as response:
+                      actual=json.load(response)['assetBuild']
+                  if actual==expected:
+                      print('Published build confirmed:',actual)
+                      break
+              except Exception as e:
+                  print(type(e).__name__,str(e))
+              time.sleep(15)
+          else:
+              raise SystemExit('Expected build was not observed; no publication success asserted.')
+          PY
+      - name: Verify actual published medication flows in fresh profiles
+        env:
+          SITE_URL: https://fabioneto50.github.io/fabio-command-center/
+        run: python tests/medication-corrections-browser-20260923.py
+      - name: Preserve publication evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: published-medication-corrections-evidence
+          path: |
+            audit-evidence/
+            build-info.json
+          retention-days: 30
