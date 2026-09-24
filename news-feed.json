@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-09-24T04:53:57.209006Z",
+  "updatedAt": "2026-09-24T10:02:58.557717Z",
   "health": [
     {
-      "title": "Universidade do Porto sancionou seis professores da Faculdade de Medicina envolvidos no concurso para licenciados - Público",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcVJrbmNJWThWTWRkSWJMM1ZMZkRuRmdKODhMSjRzWjJycW5vbFlvQXFHM0lvanVmVVczNkVmeThhN19Tbk9hdkhkWDZoUWpsYmJkN0lwXzh4RlBRNWJDV3o4Y2RERzZ5NU00RDJlRUdkUXhybzJWZTVSSTJWRlB6TjhLUWMyYnh3dUd5ZVpMNUQzcndhTmVueWhReTR0Zk1xVERUbzRWQnFKc3YzcnhMTGV5ODhtMHlmQ1ZNbENCVk5XYjlRSWc2amhwa24tVlJRN1VBVjlnUWdrU3ZsR3dXOXBjalFwUU9BVERoOQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-23T09:29:25Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "title": "Balcões de saúde somam mais de 45 mil atendimentos - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHNOUXpIcV9GRmtCTXFJbm5SN0Z5aU1XNkNnYmEydXl5Xzhtd1BwSUQtajg5amNjaTEzVGJMOE9qMllKbFN0bVM0SnVfVXFWODJvdWI3cFdCLW83Nnh1a1RiQS1PZFlQR2J3WjRhdUFOU1hXWUVBT2JfRFYya2tKcXBWNm8tYVhYSU4yRW9IRjc1XzFfX2Fpdw?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-24T09:46:00Z",
+      "description": "Os postos descentralizados para entrega de despesas de saúde nos centros de saúde da Madeira já realizaram mais de 45.400 atendimentos desde a criação do serviço, em Fevereiro de 2021. Ao longo de cinco anos, foram ainda entregues mais de 42.500 processos de reembolso.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoDescentralizacao_IASAUDE_reembolsos.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/2026/9/24/506556-balcoes-de-saude-somam-mais-de-45-mil-atendimentos/"
+    },
+    {
+      "title": "Albanese acusa OpenAI de piratear o site de saúde do governo numa violação “obviamente inadmissível” - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTloZW9PWno4RFpzM1pmNzFaWjNGWGIyNVYxMnYyak5ZLW1ldzdUOHdWckZ1ZmJnNXBsUS1vTkNiNFkydmkxek5CNGxmV3dZZFg1LW9FX3gzV1cwaUNGYkx1M080SGU0QmprVnpNd0xJemQ0dnhSQWZ2ci11ajVuMUhfXzRrZ1hnWXNUNlB6c2s3aXdqOUdsX3ZYT1FsakJjckJNeU83THJhMzRmT2RYWk9TNTB6c212Qk5pT2dkNmJucEE?oc=5",
+      "source": "Euronews.com",
+      "publishedAt": "2026-09-24T06:33:56Z",
+      "description": "A OpenAI só alertou o governo australiano em setembro, enviando uma mensagem para uma caixa de correio genérica consultada apenas uma vez por dia.",
+      "image": "https://images.euronews.com/articles/stories/09/92/56/35/1200x675_cmsv2_b8b55d30-b349-5fce-a903-93597f7a6093-9925635.jpg",
+      "articleUrl": "https://pt.euronews.com/2026/09/24/albanese-acusa-openai-de-piratear-o-site-de-saude-do-governo-numa-violacao-obviamente-inad"
+    },
+    {
+      "title": "Agente de IA da OpenAI invadiu sistema de saúde australiano - ECO",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRG1renppQ0p0REZ0WG9mdEEzXzVuNVI5a21QMnNBSUdLVUFhWGlhc3YtSzBXSkd6STJlaU1ZSWZvUnBNd0gwYkd2RHhLc0hFZy1PblhlOV8tMVh6WTZvbkhsQ1lHa2FKSjV4cldGWDNINmMxNVRxaGxlT2EyMWFtclRkMEtpU3M0M3hZRWNmSWVRdFRORFE?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-24T05:10:28Z",
+      "description": "Um agente da OpenAI acedeu a ficheiros públicos e não públicos de um portal de saúde australiano. A empresa só detetou o incidente meses depois e já o comunicou às autoridades do país.",
+      "image": "https://eco.imgix.net/uploads/2026/08/cropped-doc202606094725776613026233.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/24/agente-de-ia-da-openai-invadiu-sistema-de-saude-australiano/"
+    },
+    {
+      "title": "Unidades móveis de saúde reforçam cobertura em sete concelhos do Médio Tejo - O Mirante",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEo4bnRuYkxPSVAyS3RXSk1iZER1OEtTVDVqaUVnM3pVZ1JWXzJ0TTlEVTgwZTZUMzhiWjVNa1l0dVgyY29sMnYyWHJzakJaVjdpaWhISkFUeU5sc19hMVp3VlZnOTZUMm9NaHlJdUhoSm5hSEI0SXJBVk5Ydmthc1Y3YkVLTGM5NzhwX3I5NTdpS00zei1kWE9lLXNtTTZTZUMyX20zajlFaE55THVsRFdnUDNzQ3hqblF1bXJJQ0x5WWc?oc=5",
+      "source": "O Mirante",
+      "publishedAt": "2026-09-24T09:00:00Z",
+      "description": "As unidades móveis de saúde da ULS Médio Tejo realizaram 1.169 consultas de enfermagem desde Fevereiro e estão a reforçar a presença em Abrantes, Mação, Sardoal e Vila de Rei, completando progressivamente a cobertura dos sete concelhos inicialmente abrangidos pelo projecto.",
+      "image": "https://images.impresa.pt/mirante/2022-10-24-medico-doente",
+      "articleUrl": "https://omirante.pt/sociedade/2026-09-24-unidades-moveis-de-saude-reforcam-cobertura-em-sete-concelhos-do-medio-tejo-bb4003c1"
+    },
+    {
+      "title": "Terreno do Centro de Saúde dos Carvalhos ainda é privado - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazVCQ3Zzbks4bGF1RGt0VXpxbGl5S29weUJHOVI4VjFNd0k3bWtyQXVrN2pxQ2luM0JncU1IOVI3eTBfbHVCUDB4cllQck04ODRrRDJ0ZElhZFM5MlVJcXlIaE1pS2t5NEpKbUdxblV6U1hsUklmQXJCYlE0WVZPUEs1UlNyYlpOcHpCWkNLVWpyZXo0ZDVBaUszWQ?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-09-24T07:58:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/23/sociedade/noticia/universidade-porto-sancionou-seis-professores-faculdade-medicina-envolvidos-concurso-licenciados-2188973"
+      "articleUrl": "https://www.jn.pt/pais/artigo/terreno-do-centro-de-saude-dos-carvalhos-ainda-e-privado/18129800"
     },
     {
       "title": "OMS avalia reforma da saúde mental em Portugal que vai entrar num novo ciclo - Observador",
@@ -29,86 +65,59 @@
       "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-23-como-usar-dados-para-melhores-cuidados-em-saude--60f2099a"
     },
     {
-      "title": "Entradas em Medicina: diretor da Faculdade de Medicina do Porto foi suspenso - SIC Notícias",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWUtCR0wtM3FMV3JKUzhHZkJScDJiUklHWjhVNVVNRk9idEdoYmhKMmU0bFFuRFRhQmJXR0N1M0NudVNnM1NENUwtejNHNDJMZHIxM1lxQXl3QXdIM0hvT1RLQUlqTFRta3VjTUdKRWhSVzV1VUJCdTFPUGk0M2lyN1l4aGdKNWdxTEJCZVotemFzLXVvanpvRHppY242SWFIandOZWJ4aTJZLTFBLXFRdHZXSFRGaXhHWjhRLU41VF9jZ1o0SnFsQlJrdS00RTltcl9iTnlfOEpvemhIZzhyQjJ3cjk0NlF4dG13MHZzRTFidzlLeTZ4dVZHVzRIQVRTV3IzV21DQQ?oc=5",
-      "source": "SIC Notícias",
-      "publishedAt": "2026-09-23T13:43:10Z",
-      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Saúde mental: 300 doentes retidos em hospitais psiquiátricos por falta de alternativas - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaV9XdThJZnVNRDFVZUVvSVdRODZlQUFkblBpT3NpZHhvLVhWTFRRU2kybjloUGlwMDZHWTZIZzQyN0p4MklqQTViUTBZRG9SSE9VS1dMcFNwWjdta2pfZG1fS0NBMHF5bkVVcXRXVUtKVVFweUpiVGZLc0R4TUhfbVRWbUQ3NHBkS2RER01VVVNsWmw2Q1UxVzB1MmRNbnZmMDI2V3ZwemJ0Q3poYVpITnhQTWtKUmd2dU5R?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-09-24T09:06:17Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://sicnoticias.pt/pais/educacao/2026-09-23-video-suspensao-de-45-dias-para-diretor-da-faculdade-de-medicina-do-porto-por-suspeitas-de-irregularidades-em-admissoes-16f2922b"
+      "articleUrl": "https://healthnews.pt/2026/09/24/saude-mental-300-doentes-retidos-em-hospitais-psiquiatricos-por-falta-de-alternativas/"
     },
     {
-      "title": "Governo convida OMS a avaliar estado da reforma da saúde mental em Portugal - XXV Governo Constitucional",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2NYajJYbkVvcS0zQkhzZDBCdHBBRkx0eW1RdGZ4MndsTms5ODk0LW92LTB5b3V6Q3dQX0FaelBVTGNmWGNNdExiTm9KeWJXVzcxYUxZaE1aUXBydGxqMW9PbmRwWGFHNmFoQ3RxR19oRmJ4R0lYX09lMXMxR21UNzhuLTJwV3g2cWRpT2ZFOVdJZ0wzSS1YcGd6andLR0l2aVlOX2FqQnJ3Rm42d3FqdGRlbl9KOWNhdTdaVEd4cTIxTG9YaVNqQ0YyaUY?oc=5",
-      "source": "XXV Governo Constitucional",
-      "publishedAt": "2026-09-23T12:17:00Z",
-      "description": "Peritos analisam legislação, governação, financiamento e modelo de desinstitucionalização",
-      "image": "https://edge.sitecorecloud.io/centrodeges65c9-cegere0de-prod6279-8af9/media/Project/Portal-do-Governo/Portal-do-Governo/gc25/galeria-fotos/saude/20260923-ms-reforma-saude-mental.jpg?h=1000&iar=0&w=1500",
-      "articleUrl": "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticias/governo-convida-oms-a-avaliar-estado-da-reforma-da-saude-mental-em-portugal"
+      "title": "Agente autónomo de IA entra no sistema de saúde da Austrália - Renascença",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXJYN1JhalJ3ZmFZNkc3aTRPSzAzUGgwTXZUM3QwUFpIWXFMOFdqSjNnTzMxSzhRUExmRzZvZ0ZZMjYwU1pvRV80RUlja1o1eTFpV1Izb0ctcHo2MDlKVmcyMzI1MVkwSk5qTEk3eS1CY3g2REdtQnJFWno3NXpGQXVZZFFDT21FbVlIeDhSdTZFQkhJek9odXdJWEp3VHpiQmtRWjY3XzcyRmfSAbABQVVfeXFMTjBZazdFMHdpVmtDSFZGOUwyNUphY1BVVFZhUVhabDBjOGU2NXIza2pYOEJHOTNid1FncXdoVUxQRXlmMU9vTW1KTWJ2NXF2NjR4VmZHbmlBLUd5VnJuUDh2d2lEMEZJWlFzbkR4TTJ6Z3RxZURYLUdTVEpVTTkyR1g3WEdUNy1WR1JpN3JkZkNoTEJpNWh2T09lb2FpbV8yc0lxTjRTV2hndHZoQkZ0TEE?oc=5",
+      "source": "Renascença",
+      "publishedAt": "2026-09-24T06:57:00Z",
+      "description": "Notícia publicada por Renascença. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://rr.pt/noticia/mundo/2026/09/24/agente-autonomo-de-ia-entra-no-sistema-de-saude-da-australia/486607/"
     },
     {
-      "title": "Unidade móvel leva cuidados de saúde às aldeias mais afastadas de Abrantes - O Mirante",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXUtdkd0SnpSZXB3b2J2dTF0RE9lZ1VNcjFLZlUyRWRXb2RNYVozSHFjTFhxcHZ1YmNFSmFPS3o0Q1BFSnBHNFU2bDJnU2VaLWZYU0Jod2tSU0I5N3RIOTN3MVFfUVlicDA5OFg0TUthZE9QQ0xPNGU0QTZfNDgwNDJhRHUtd1dza0pNRmk4eGcxZzJpR0x4RHloQXI0Vm1IUXJZejNOTnl1T1dnMFFEZTFTcHRya1M0S1JYTUM4Y0M2QQ?oc=5",
-      "source": "O Mirante",
-      "publishedAt": "2026-09-23T17:00:00Z",
-      "description": "Fontes, Martinchel, Vale das Mós e São Facundo são as primeiras localidades abrangidas pelo novo serviço. Unidade presta cuidados de enfermagem, vacinação, rastreios e acompanhamento de doentes crónicos e poderá chegar a outras zonas do concelho.",
-      "image": "https://images.impresa.pt/mirante/2026-07-28-manuel-valamatos--1-.jpg-a702999a",
-      "articleUrl": "https://omirante.pt/sociedade/2026-09-23-unidade-movel-leva-cuidados-de-saude-as-aldeias-mais-afastadas-de-abrantes-ca786305"
+      "title": "Universidade do Porto sancionou seis professores da Faculdade de Medicina envolvidos no concurso para licenciados - Público",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcVJrbmNJWThWTWRkSWJMM1ZMZkRuRmdKODhMSjRzWjJycW5vbFlvQXFHM0lvanVmVVczNkVmeThhN19Tbk9hdkhkWDZoUWpsYmJkN0lwXzh4RlBRNWJDV3o4Y2RERzZ5NU00RDJlRUdkUXhybzJWZTVSSTJWRlB6TjhLUWMyYnh3dUd5ZVpMNUQzcndhTmVueWhReTR0Zk1xVERUbzRWQnFKc3YzcnhMTGV5ODhtMHlmQ1ZNbENCVk5XYjlRSWc2amhwa24tVlJRN1VBVjlnUWdrU3ZsR3dXOXBjalFwUU9BVERoOQ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-23T09:29:25Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/23/sociedade/noticia/universidade-porto-sancionou-seis-professores-faculdade-medicina-envolvidos-concurso-licenciados-2188973"
     },
     {
-      "title": "Mais de 60% dos ortopedistas do país estão fora do Serviço Nacional de Saúde - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZFNDWHJZQTc4dFBMRHhabEZyODRiMzJCaDNuMVYzbXVha04tTGtURTlNR1hacC1VMUVYR1EwTHFzUVNfcFVkQlZSSWJhZm5wZUpzNHNZQ3QyeFA0My1mdkFZOGRSYTlMTFlVVEpyRlc3UXRSVXhpSFZUUFNkNjN6VjdDOTZWaDlTTVpBeWNmLWlBZF9kMTBnaDRYUkNNcGVPbXphNWEzQlpwSUZLYW1yVDN1NEdLWUJKQVRYdnFQLUZ0UlFxYXBuZnRaM3l4eHoxbXBYMVpNZEthV2dSWXpzSU9GcVVsUUVSUDd0Q3kydHVGVXJx?oc=5",
-      "source": "CNN Portugal",
-      "publishedAt": "2026-09-23T20:02:00Z",
-      "description": "Segundo dados a que a CNN Portugal teve acesso, dos 1.525 inscritos, só 643 estão nos hospitais públicos. Problema é maior na região de Lisboa e Vale do Tejo, mas ministra garantiu que problema será resolvido com concentração de urgências",
-      "image": "https://img.iol.pt/preset/641c70730cf2cf9224ff0459/og/cnn",
-      "articleUrl": "https://cnnportugal.iol.pt/medicos/ordem-dos-medicos/mais-de-60-dos-ortopedistas-do-pais-estao-fora-do-servico-nacional-de-saude/20260923/6ab4081dd34e9a786e7594d4"
-    },
-    {
-      "title": "Guimarães reforça aposta na saúde, conhecimento e inovação com inauguração da International Health Business School - guimaraesvisivel.pt",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcFA0d3NMMHE2NW13SnAxMFhwMmtCdVlMOXdVNDVEXzNMakZhSHZNTHBMbnlJQXNZb01IZjcxZTI5bnpHSDJhYUNZM1pCS1JUNjdCcDlSS2dqd1FkT3RKNGhlQnZEYlkzblBvTXdTX1NxX0NNb1dXQ1VldUtObk51OHJzMkdBcDFZX3lqN0dPRDFmY2xrdkFTSFUtbHA1Y3R6YzludlQ1NlpaSjh0LTZkTExEeWpyTmowd09XUTJKWXR6UDBKUEdsUzJsWTJEd2FYcGlzTzRjOVpXeWlRaG81VC1WdnJZS1JYdVRwQ2h3RDlzOXBsaXlRLQ?oc=5",
-      "source": "guimaraesvisivel.pt",
-      "publishedAt": "2026-09-23T22:38:58Z",
-      "description": "Nova escola internacional promovida pela CESPU terá sede no Estádio D. Afonso Henriques e polos em São Paulo e Luanda, com os primeiros cursos ...",
-      "image": "https://www.guimaraesvisivel.pt/cmguimaraes-portaldenoticias/uploads/news/image/14555/2026_09_22_cespu___sessaio_de_inauguracao_e_apresentacao_da_alianca_universitaria_para_o_desenvolvimento_e_inovacao_em_saude__cmguimaraes_francisco_guedes_rodrigues_411.jpg",
-      "articleUrl": "https://www.guimaraesvisivel.pt/noticias/noticia-93/guimaraes-reforca-aposta-na-saude-conhecimento-e-inovacao-com-inauguracao-da-international-health-business-school"
-    },
-    {
-      "title": "I Jornadas de Saúde Pública do SESARAM reúnem especialistas no Funchal - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLW1YbzUzeVVlemd6aU4taXRPRGpiT2xOYmFoWUZhZnZoTTBqVXFxWXVfZzlsM3V4RUVqU1JWd2REcmEzMnlOeDV2OFdKNGNYSV9pQ0tsaWRxNWM3ZGx1WUVoaTZOVzNhNW80R3c0OExlRS1paElxNGZSVXEwUEFOWEZCUGk1MDdOY1pvRkE4ZjdRb2VoUGg1em9zQWZqeERBdTJtaE5GS1c4Y2xzUThWYmNlMTVNMTVTTTh1U0ZOWFVmYVJmVkdQSDVhcw?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-09-23T15:40:49Z",
-      "description": "Arrancaram, hoje, as I Jornadas da Unidade de Saúde Pública, que reúnem, no Colégio dos Jesuítas, diversos profissionais de saúde para debater os mais recentes avanços científicos e técnicos na área. Promovida pela Unidade de Sa&u...",
-      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_09_23/a372fa69-88cf-48da-8799-15fcbc1e0762-1790177916976_1790177982.jpg--i_jornadas_de_sa_de_p_blica_do_sesaram_re_nem_especialistas_no_funchal.webp?1790177982845",
-      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005672/i-jornadas-de-saude-publica-do-sesaram-reunem-especialistas-no-funchal.html"
-    },
-    {
-      "title": "Plano Local de Saúde do Arco Ribeirinho 2030 assinado no Barreiro - Câmara Municipal da Moita",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFQ0ZVp3WUNocWxjYnl4WDNPTVFrbEk2SHJJMFNQeTFfbEdMWDZWa0VxQ0N4MjZrRHZpMlVUVjY1NVRsRUdZQlhDMGgxMENTSUZNMmh6SXBLZmlpZWVtMWxtVHYyWUF5VDZCenljT2hMdHJPamtKc1o1UktUa0ZNcm1RSDBreWdsbzFrRWphVnpySjZQWTIyeGxlVU50SUhLU2w0R1I4U3hmQ0pCTmdHVmlNaGFhSjlPa2taVXhJV3Vadw?oc=5",
-      "source": "Câmara Municipal da Moita",
-      "publishedAt": "2026-09-23T14:16:00Z",
-      "description": "Documento constitui o principal instrumento de planeamento estratégico em saúde para os concelhos de Alcochete, Barreiro, Moita e Montijo. Foi ...",
-      "image": "https://www.cm-moita.pt/cmmoita/uploads/news/image/10378/img_20260923_wa0027.jpg",
-      "articleUrl": "https://www.cm-moita.pt/viver/informacao-municipal/noticia/plano-local-de-saude-do-arco-ribeirinho-2030-assinado-no-barreiro"
-    },
-    {
-      "title": "Descomplicar a Mente: webinar promove saúde mental e autoconhecimento - Município de Vila Franca de Xira",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVVEb0JRRmdlWTN4ajNrN2JUY2t0OXA5di1BcTBVTlF2MnpSWDBWMUdiSXVweC15Ti1BS21KcXRLMEpNWUk2S2pWZ0pxaVVtVDEtXzBYVFZpeVZ2enFsb2RCQ2tZNnVQalZockFORFZHSDJPMklaS09ldDJGckN0VjFMZ0VRYlBSTllwSGpRdzlUcnl3dVU3MUU0TmxnRXhkQnBfX1pPTm9pem0ycHhKcjc3LWU?oc=5",
-      "source": "Município de Vila Franca de Xira",
-      "publishedAt": "2026-09-23T13:50:50Z",
-      "description": "Notícia publicada por Município de Vila Franca de Xira. Abra o artigo para consultar os detalhes completos.",
+      "title": "Médicos aposentados voltam ao SNS com sentido de missão - jornaldeleiria.pt",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3czRk5UdTlTTXg4QXQxbHd0UFBKYVJKZGZnaDZ1UUc5NElqX1VZendsRE5XcEpkdnhYWW1MaGNWSVY1Umk4Wld4eEc5LW96XzFIWXpKMU9XNjBVV2JfODBBTVlXYXdtTl9zTU40YkNCeDJBakNrand1dktvSDRVRVhaVnlmVDd1Q3l2cFJuN1pUV21pMjQ4Tw?oc=5",
+      "source": "jornaldeleiria.pt",
+      "publishedAt": "2026-09-24T08:30:00Z",
+      "description": "Notícia publicada por jornaldeleiria.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "CMF reafirma compromisso com prevenção da doença e promoção da saúde - Funchal Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQi1qTTJoMHJnTldiTi1kTkZBV0ZOZTdEQ0ZKRWdyVUNzRUhDWHMyYTd2b3lPbmxmUGhScFpwZ3pLS1NBbjZuQmYxdFZEVHk0RzB1QS1uVXBfazN5X2JhX2hVVTdSODZJOVQ2OXlpT1V6c3J0TkJ1bjRhanFzNm8xTk1lQ0FjQnpQLXlxWVBIaHJwSmowa0RmOHR6NDlzMExUYjhfX0pJNzI0X2Ns?oc=5",
-      "source": "Funchal Notícias",
-      "publishedAt": "2026-09-23T15:25:22Z",
-      "description": "Notícia publicada por Funchal Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Governo australiano aponta o dedo à OpenAI por ter \"infiltrado\" site dos serviços de saúde - Dinheiro Vivo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWFBSlZObFFjblJPcVk4RUdkMzVmcUFIQjltSll2Ny1JZkRsQTFCZUZJOU5aeTMyRGtUTkFFZWhWdnpOemFVbWdRSDM3U25vNW1oMm02N1ROaFc5UU5CU0R2R2F4M00tTFNnaWVBWDNTc2dfRmQ2VEJwVGJwTWZEeUxRdWt4akpWR1dCc2hrdkVQVExtLVdwQXh4NXpIRTR0b3QtUDZVYUlzdjZiS0QzWHF4c0dKcEpIeDZ3?oc=5",
+      "source": "Dinheiro Vivo",
+      "publishedAt": "2026-09-24T07:16:49Z",
+      "description": "Notícia publicada por Dinheiro Vivo. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
+    {
+      "title": "Preço médio do gasóleo na União Europeia bate recorde e atinge os 2,23 euros por litro - Dinheiro Vivo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUpPMVlIX1NrdDFfNGF5bF9tRGpOeUtkeW5EelVBQ0pKblRTa1ZuUjhmd2hONzZUbkc1dFhpejJIQnZXWFJHN1lTREZVNllnS0l6TkVYa1RUTEpHd2NnSVZ0Rmk4QjJVeEhPZU9FVUhfeER5WW1fWF92TTBwYmpVUVh0VXVpUEhDYVZ5MTJoaUhGeTEweWpGMnM3M3RKOUVuZG5BMklPOHFBcDVGOEdrTWo1TW93MHc?oc=5",
+      "source": "Dinheiro Vivo",
+      "publishedAt": "2026-09-24T08:51:30Z",
+      "description": "Os preços do gasóleo na União Europeia (UE) registaram um novo máximo, alcançando 2,23 euros por litro, em comparação com 2,16 euros na semana anterior. Esta in",
+      "image": "https://media.assettype.com/dn%2F2026-04-03%2Fr7hnx3my%2F31032026-PAULO-SPRANGER559818.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "http://dinheirovivo.dn.pt/economia/preo-mdio-do-gasleo-na-unio-europeia-bate-recorde-e-atinge-os-223-euros-por-litro"
+    },
     {
       "title": "Acordo ou \"aniquilação\"? Diplomacias de Irão e Estados Unidos em diálogo na sede da ONU - RTP",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN05nUk9adFA4SXBuOUFhcFJ1eUNUbXhxY0lqYmVjSFE3dDZlLW1jT2RPa3ZwWUFobUdzWlBMb0ZXYnprbWZVOXVLaE1qM0M1LUVoYWozMFc4N3hJYm5RWW44VGFqLTZvU0xDWGVMRjhjN3padlBWRVR5R3lrZEZ3RWZJUmhkLUp1dVZTRk5aSk05UG8tNVlqNVRjcl9hWTFCdHM2QnpQWjhoYzF1ZTRKTnZBRW16eTdxWl8xWWRPdXM4MGpPckE?oc=5",
@@ -128,6 +137,15 @@
       "articleUrl": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2026-09-23-video-encontro-entre-zelensky-e-trump-reforca-esperanca-no-fim-da-guerra-na-ucrania-78a9d702"
     },
     {
+      "title": "Preço médio do gasóleo nas bombas da União Europeia atinge máximo histórico - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZk1ZenBnLVlZaDBoUlpmeEpnb3h2SUt1Z1p5bEZLTDZhS1c2R2ZzTXZRYVphMkRhcXpLd095TlNSaDA2OVNHa0tFc2dmTFVpQzJwQ3F1TUZOYXk2WmxRV3dZTDdUX21Jc0pESjhoMngtTVpxNE5aRmFLb25YWUFGVy1RbWdnY1o2WEVwTlJCYTlzYUljQ09GV2htaFhodTYtUDlnWG5PdEhWZmw0c0t1UDh6MTN4UQ?oc=5",
+      "source": "Jornal de Notícias",
+      "publishedAt": "2026-09-24T09:25:00Z",
+      "description": "Notícia publicada por Jornal de Notícias. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.jn.pt/mundo/artigo/preco-medio-do-gasoleo-nas-bombas-da-uniao-europeia-atinge-maximo-historico/18129954"
+    },
+    {
       "title": "EUA e Irão retomam contactos depois de Trump ameaçar “aniquilar” a República Islâmica - Público",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXZjQ2h5elV1LXNoZm84dmg2LS0ybzFESEhkd2F2MTJPd0dIbHYxaURHWmJHdUhvTS1QY3FmV1ZVZmZYV2h1dURySXZ6Yy16RFhES2d3OC1Td2FKOEpMWll3Vm1iOHFsVk43WVBsbDZSbDJnNUlGZVdSN0lzYk80dmNjakNxOUFjOEc0RFgxLXY5b1RVX0RRVE1EM2dQOVYycmFLX25TZmNzTWtMZUx2LWdzcThQdUhCc0NXMmF4Zk5DR1U?oc=5",
       "source": "Público",
@@ -135,15 +153,6 @@
       "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://www.publico.pt/2026/09/23/mundo/noticia/eua-irao-retomam-contactos-trump-ameacar-aniquilar-republica-islamica-2189004"
-    },
-    {
-      "title": "Trump diz que EUA têm \"mais munições do que nunca\" e insiste em acordo com o Irão após eleições intercalares - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzBJTU4wSWVLQ0Y5MV9xOTBxeWRKdUU2Y0lvaXVaQVNtXzQtdU1BSWIyWjhYeEhRTkt4Q1BoZ2ZEMm5LMFppRzlmVm1mNXlzbUk4a19hQVhYUGlVMFRuMlRQaXpmSWgzcFl6N19RdzZycUNHeTU3QkxMZVRXOWNoWW5lRWI1MVVIQ2U3Sjkzd3JIQjRnM19mRnhWS05CYldlaGF1RWlMbi1tb2I0dGRkOTliVnNxZkRPaVFDUTJJOWFqT1l0bnJ3ZG55NA?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-22T15:38:17Z",
-      "description": "Donald Trump negou esta terça-feira, 22 de setembro, durante o seu discurso na sessão de abertura da Assembleia-Geral da ONU, que as forças armadas norte-americ",
-      "image": "https://media.assettype.com/dn%2F2026-09-22%2F7meb16jz%2FDOC.20260922.47817749.13255800.jpg?rect=0%2C0%2C3072%2C1613&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/internacional/trump-diz-que-eua-tm-mais-munies-do-que-nunca-e-insiste-em-acordo-com-o-iro-aps-eleies-intercalares"
     },
     {
       "title": "Trump diz que Irão ou é \"aniquilado\" ou chega a acordo com EUA e paz entre Rússia e Ucrânia chegará em breve - SÁBADO",
@@ -164,22 +173,13 @@
       "articleUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/terrorista-aniquilar-para-o-inferno-eua-e-ira-trocam-acusacoes-no-pulpito-da-onu-mas-negociam-fim-da-guerra-nos-bastidores.ghtml"
     },
     {
-      "title": "França: Macron fala com Trump sobre petróleo e guerra na Ucrânia - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1NZcWk2YzBhcEVWRVVmWDFPellKUjZzclU2SUxjNkpfejJiakg2RkIwZGNHTGpOQndQTUwyRkJGalNkaUZZaUcyeUF5T1l4dVBDRmhMOE5FOUNrWUdVTGg0Yldsa2ItTkt6cnlUY1cxQVpHWHBrVFF5ekhJOVV1VHp0TVdUczIycHRRZVpEc19zVy14RGE5bEc3aWNlTHM?oc=5",
-      "source": "Euronews.com",
-      "publishedAt": "2026-09-22T09:43:38Z",
-      "description": "Em Nova Iorque, na segunda‑feira, o presidente francês apresentou ao homólogo norte‑americano propostas para moderar o preço do petróleo, incluindo uma “moratória” sobre ataques a infraestruturas energéticas ucranianas e russas. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/92/24/06/1200x675_cmsv2_16e770ee-c410-54e2-9718-438567793de0-9922406.jpg",
-      "articleUrl": "https://pt.euronews.com/2026/09/22/franca-macron-fala-com-trump-sobre-petroleo-e-guerra-na-ucrania"
-    },
-    {
-      "title": "ONU alerta para nova e perigosa fase da guerra na Ucrânia. EUA tentam travar ataques a instalações energéticas - SAPO",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVRDY3JONjJVbEIyT2JZX0twbzN4eE9OUGtMN3VzZGJLRjZaRWpULWJNRjI4SlZENmEzNmtKUEdDTVlHTGE4Z3Q3dV95dDR3TS15S1FYQWJZWG1nN1Y1R0kzbXVQdU1RcVF6cGRiS2JpRWJ6bDRKSXZ1eHFyU1FYOEFkRHBhbTQtYnRJZGVQREZzX1hrQ0dJdVUzTHdqelBHZTdlZlM0T2FnQzdiWGVhRVd6SEhlLVRoeW8tbDRHZU5DWGRsT2JiZmpsUHU3VkVEcHpBQ0JWT1JpR3cyUnJFMVJYNEh3N3RTX2kzdk1n?oc=5",
-      "source": "SAPO",
-      "publishedAt": "2026-09-23T23:07:27Z",
-      "description": "A Rússia \"não vai interromper\" a sua guerra com a Ucrânia, garantiu esta quarta-feira, 23 de setembro, o ministro dos Negócios Estrangeiros russo, Sergei Lavrov, acusando a Europa de estar a tentar sabotar os esforços de paz.",
-      "image": "https://media.assettype.com/dn/2026-09-23/70txcrgl/DOC.20260923.47824408.13258039.jpg",
-      "articleUrl": "https://sapo.pt/artigo/onu-alerta-para-nova-e-perigosa-fase-da-guerra-na-ucrania-eua-tentam-travar-ataques-a-instalacoes-energeticas-6ab4078381e84b9eabc37542"
+      "title": "\"Isto é um absurdo\". Montenegro pede \"sentido de responsabilidade\" para pôr fim à guerra no Médio Oriente - RTP",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYm1jQlhieGpaZUxuU01BZXZoaDE0Q1dvMXBzY25ZZ2ZiekFaZnVkMmh4a0tHS0g0d2h5dXhLYUg0WjdzSUJYZkF1RFVTWVR6U1BSak9lVDBwMkd3S2x2bFptVUZGbEdjeVR3eG1fRFVyUGtQWXNwYTNvVnNlaE1rM0RfalpvcXRkY29VaDYtazhuZ1FPa05oSnVaOTRZOVJIbFNEZ3dJYjJTVTY0emVtZEtMb0dfcGktUUkyUHlQbXcxTy16RVdsVm5EdnVVN1p4NDhLNk5ydVRKbUk?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-09-23T16:55:34Z",
+      "description": "O chefe de Governo criticou os que \"não têm a capacidade de superar este bloqueio ao desenvolvimento global\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/96/96abdb702d444aa9311c7dd8c4f0bb83?w=860&q=90&rect=1,0,3807,2087&auto=format",
+      "articleUrl": "https://www.rtp.pt/noticias/mundo/isto-e-um-absurdo-montenegro-pede-sentido-de-responsabilidade-para-por-fim-a-guerra-no-medio-oriente_n1767275"
     },
     {
       "title": "\"Convidámos Putin para a cimeira do G20. Esperamos que aceite\" - Notícias ao Minuto",
@@ -191,28 +191,28 @@
       "articleUrl": "https://www.noticiasaominuto.com/mundo/3056334/convidamos-putin-para-a-cimeira-do-g20-esperamos-que-aceite"
     },
     {
-      "title": "\"Isto é um absurdo\". Montenegro pede \"sentido de responsabilidade\" para pôr fim à guerra no Médio Oriente - RTP",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYm1jQlhieGpaZUxuU01BZXZoaDE0Q1dvMXBzY25ZZ2ZiekFaZnVkMmh4a0tHS0g0d2h5dXhLYUg0WjdzSUJYZkF1RFVTWVR6U1BSak9lVDBwMkd3S2x2bFptVUZGbEdjeVR3eG1fRFVyUGtQWXNwYTNvVnNlaE1rM0RfalpvcXRkY29VaDYtazhuZ1FPa05oSnVaOTRZOVJIbFNEZ3dJYjJTVTY0emVtZEtMb0dfcGktUUkyUHlQbXcxTy16RVdsVm5EdnVVN1p4NDhLNk5ydVRKbUk?oc=5",
-      "source": "RTP",
-      "publishedAt": "2026-09-23T16:55:34Z",
-      "description": "O chefe de Governo criticou os que \"não têm a capacidade de superar este bloqueio ao desenvolvimento global\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/96/96abdb702d444aa9311c7dd8c4f0bb83?w=860&q=90&rect=1,0,3807,2087&auto=format",
-      "articleUrl": "https://www.rtp.pt/noticias/mundo/isto-e-um-absurdo-montenegro-pede-sentido-de-responsabilidade-para-por-fim-a-guerra-no-medio-oriente_n1767275"
-    },
-    {
       "title": "\"Ele entende o que tem de fazer\": Burnham e Trump encontram-se pela primeira vez para falar sobre Irão, Ucrânia e imigração - CNN Portugal",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUmJWaVVjZXdVRkZBcWNRaU91eGIzUDZYbnp0RzhFdVNFWU5JWXM2M1IxTGpVTFJLRExiNkwwQzJEQzFFMmszV0wtLTdvU1JpVDB0c0hQek1odTg3b3lqOXZHb09NWHQ2MEZkZzF2QkFUVnppdUFfZ0loanZmTTdJMy1tUXFTbW0zbDlaemR6LVF5WFlXcE5pM0lhT3VSaTNIekdpem1jQWxNNEF4SW9ZU3Y1U3UxRTgwZFBzT0R0a1IyVUdDaWpnMWtoMWgtcUxqTVpUQjRyVF9hSFhCdVgycm1IOUZfZ3ZsTDF3U2gxVkRIaGUycHU0RjRfZ1pOMUZuMXRlMWRRQ3huaDFaN01WLW5PQUlvRTJiVDRSZVZFSjd0YzAxRGxUaVdnZEhSbnlx?oc=5",
       "source": "CNN Portugal",
       "publishedAt": "2026-09-22T18:37:49Z",
-      "description": "Notícia publicada por CNN Portugal. Abra o artigo para consultar os detalhes completos.",
+      "description": "O primeiro-ministro britânico e o presidente dos Estados Unidos encontraram-se pela primeira vez frente a frente - um encontro determinante para Andy Burnham depois de vários meses de turbulência na relação entre os dois países",
+      "image": "https://img.iol.pt/preset/6ab2caf1d34e53c759c73456/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/reino-unido/estados-unidos/ele-entende-o-que-tem-de-fazer-burnham-e-trump-encontram-se-pela-primeira-vez-para-falar-sobre-irao-ucrania-e-imigracao/20260922/6ab2cb1bd34e53c759c73459"
+    },
+    {
+      "title": "Trump critica \"cobardes e traidores\" que afirmam que EUA têm \"poucas munições\" face à guerra no Irão - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb09tMFhEQUpYZnpnWGdhNWJNMXFrQ3FTbHlTVmdNMGRrN1ZSWUJFNnNpLUFMWFE5bXNOVDBVbi1yQVk2aGV6aU8yUTVoeW96NGdIanpvdVZURjlzZWRhQUtBdTl0VG9GbDctbkF6cElTRGE1Y0NvX3MxR1hHNnF6emk5c3RIMTBNNTF1YnhqWTB3clYwOTN3ak9wQUZNS0trZjNpMHBoUVlfbWw1N0hYYWtUc3ZTbGxxR2Q3WURFQ3RIOHo3a0V0VjFsVlFUMG94NTlCdzh3?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-22T18:02:00Z",
+      "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Alexandre Borges: Na ONU, Lula alinhou o Brasil com Rússia e China na nova Guerra Fria - UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnNha3dKdTd1dWpPMl80MWlvcG9MdWdTdjFCVVd0cEY4Rmtwd0E1NEhxM19BeHFoRjQ2WUwwR1BYUklNQkwzZWtlUTJwbXczUkhHRVpBRkplUWFJZGZuOUY0MW9ndl84dFdEV0ZTbzFsYVVqWk1SUFhzN3pQYkFwQ2hZbkpkX3VWLVctNU5uMmFHeUpxVlhqWG1USmp3Vk9qcVJVSmhIYUZ0bk5sSEFON1pKc3V2bjFFX1dzOEZNM19MYUllUUxBX29nTWgtMkRQ?oc=5",
-      "source": "UOL Notícias",
-      "publishedAt": "2026-09-23T17:54:03Z",
-      "description": "Notícia publicada por UOL Notícias. Abra o artigo para consultar os detalhes completos.",
+      "title": "Trump diz que EUA têm \"mais munições do que nunca\" e insiste em acordo com o Irão após eleições intercalares - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzBJTU4wSWVLQ0Y5MV9xOTBxeWRKdUU2Y0lvaXVaQVNtXzQtdU1BSWIyWjhYeEhRTkt4Q1BoZ2ZEMm5LMFppRzlmVm1mNXlzbUk4a19hQVhYUGlVMFRuMlRQaXpmSWgzcFl6N19RdzZycUNHeTU3QkxMZVRXOWNoWW5lRWI1MVVIQ2U3Sjkzd3JIQjRnM19mRnhWS05CYldlaGF1RWlMbi1tb2I0dGRkOTliVnNxZkRPaVFDUTJJOWFqT1l0bnJ3ZG55NA?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-22T15:38:17Z",
+      "description": "Notícia publicada por Diário de Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
