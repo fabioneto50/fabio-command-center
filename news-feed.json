@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-26T07:44:20.922850Z",
+  "updatedAt": "2026-09-26T13:07:39.820961Z",
   "health": [
+    {
+      "title": "Saúde Escolar chegou a 31 mil alunos nos Açores no ano letivo 2024/2025 - Portal do Governo dos Açores",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNVZWcE1YUGkxSWIwXzFtNllTemEyN0VTOUI2ZG9rX09sX01kcGw4R2g1Q1F0Z2puQldNMFJsYzAzSk15RC0yNVdYNjRrd2VkNDgzTTRQeld1cS1mSnB0bVU2TGRHYk03dWlqczQxYkh5Nkd0VGVz?oc=5",
+      "source": "Portal do Governo dos Açores",
+      "publishedAt": "2026-09-26T12:02:05Z",
+      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23932831"
+    },
+    {
+      "title": "Interdanças | Seixal, Saúde e Bem-Estar - Câmara Municipal do Seixal",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44clpBSTZzMjFTaHljSWU0U0E3NzJBajVUWWJFSmlKc3A3TXFDNlZQMFpaNVBGRWptMF9XZlh0cFFraEthdkZmVmxzWk9TdzFMWFdUUE9hQy1yTkFYTS00ZjZTTHdxQzhWSVM3QXRmVEtNUXlFSHVoWDFB?oc=5",
+      "source": "Câmara Municipal do Seixal",
+      "publishedAt": "2026-09-26T07:00:00Z",
+      "description": "Notícia publicada por Câmara Municipal do Seixal. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.cm-seixal.pt/evento/interdancas-seixal-saude-e-bem-estar-1"
+    },
+    {
+      "title": "Unidades Móveis de Saúde alargam rotas a Abrantes, Mação, Sardoal e Vila de Rei - Mais Ribatejo",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNek9zWjV2S1pmTXFkTGV3Sl9jTk9BV1huS0tBdWZaWVZjU2JDQXp2eVhuUmFiQk9PN2V0SGpNbEN1T1VPMGJEOE1oLXU3SHlkaE9uMDNVbEczWGxvN2ZPSlVGQWFjVWNlSUNUR045RXYzWFo3MzgzV004d3lfenFyRWoxOWw?oc=5",
+      "source": "Mais Ribatejo",
+      "publishedAt": "2026-09-26T11:01:28Z",
+      "description": "As Unidades Móveis de Saúde da ULS Médio Tejo alargaram rotas a Abrantes, Mação, Sardoal e Vila de Rei, com cuidados de proximidade.",
+      "image": "https://maisribatejo.pt/wp-content/uploads/2026/09/image002-1.webp",
+      "articleUrl": "https://maisribatejo.pt/unidades-moveis-saude-abrantes-macao-sardoal-vila-rei/"
+    },
+    {
+      "title": "PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZG9weTdlQVhPZGFnZkJQOUdhclBPN3hfVGZhaE1NTXl4ZWp3R09JdFU4bndPV0hCdzZxXzdMRHNSX0FhbDB3STgzVFNMZm1LTzJ6dHpzdFhGX1dyRW9IX1R2eGdUMlFqNTM1UmZ2bnVGNkxIVUZfWE1jWlhlTDBQZ2tMZU5CNjM1Z1ZqNjBjM3FJV1JtZzN2OGk3dGxOWEdQVDM4ZjdlVkQwMTl5MmZsVDBELS0wMnM?oc=5",
+      "source": "Diário de Notícias",
+      "publishedAt": "2026-09-26T11:37:46Z",
+      "description": "PSD e CDS-PP entregaram novamente um projeto para restringir o acesso ao Serviço Nacional de Saúde por cidadãos estrangeiros não residentes em Portugal, iniciat",
+      "image": "https://media.assettype.com/dn%2F2026-06-12%2Fjw0i4oqz%2FTarefeiros-3-foto.-jpg.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "articleUrl": "https://www.dn.pt/pol%C3%ADtica/psd-e-cds-pp-voltam-a-propor-restrio-do-acesso-ao-sns-por-estrangeiros-no-residentes"
+    },
     {
       "title": "Seguro defende articulação entre SNS e privados: “A Saúde não pode ficar refém de ciclos políticos curtos” - Expresso",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV0U5WTFqWWZsM080RHVQQi1qQ0ptYUtQNmg0eWcyWVNiNU01eUo1RHNYTGh1a0ozck1SUHFmN2IwT1piVGpRZ1VEV3JTZEhpT1lack0wZGRVVXYxSHB3X05FdGtnSm5rT1MzT0tqMDVaaFZsYndOcGtobWFVQXF6Z0ZGU29sUDlFOXVnVk1UMERXSHBUWElfVkdXaWhCd0ZNSVF6clZ1UFZPbGZJSVV5b204eklVUUQ1cVdjSUlha0VSMDhaWktGYl90eGMxLVpfVG5HSVp0eDVURy0zOUhiUk9seGJEOFd5NDJBRWhpZVRST2V3TENMeA?oc=5",
@@ -9,6 +45,15 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/presidencia-republica/2026-09-25-seguro-defende-articulacao-entre-sns-e-privados-a-saude-nao-pode-ficar-refem-de-ciclos-politicos-curtos-0a27aed8"
+    },
+    {
+      "title": "“Finanças continuam a determinar o que será a prestação de cuidados no futuro” | Entrevista - Público",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkRhdG8wdXZYaE5obWZFMDFDNWQ0dW4yd0oxQzZEVFpNOWZhOUxRcnpOMFRBRkNtTUdoaGo1bEJKazcxMWNrTkR3bDVTN3pzRVNQMXdVVWY4LTZMc2VSYmZ6bW12b3Uxd19uYURmRDYtbHptazlNUTdqU0ctVDRGOHJfTlhLU1Q1REdjNDgtQ0JtM0dXVUtuSUs3cmg4Y2d0VDFsSWlvaF95YUtubjlXM2VuN3Q0Y1ZDZ09ISkluR0NCdHN4TndJ?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-26T05:30:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/26/sociedade/entrevista/continuam-financas-determinar-vai-prestacao-cuidados-saude-futuro-2189279"
     },
     {
       "title": "Doutora Réka Maulide Cane defende Doutoramento em Saúde Internacional com a tese \"Prevalência de anemia em mulheres grávidas e crianças, dos seis aos 59 meses de idade, em Moçambique e Portugal\" - ihmt.unl.pt",
@@ -20,103 +65,76 @@
       "articleUrl": "https://www.ihmt.unl.pt/doutora-reka-maulide-cane-defende-doutoramento-em-saude-internacional-com-a-tese-prevalencia-de-anemia-em-mulheres-gravidas-e-criancas-dos-seis-aos-59-meses-de-idade-em-mocambique-e-portugal/"
     },
     {
-      "title": "Turismo continua de boa saúde mas foco deve mudar - CTP - Lusa",
+      "title": "Turismo continua de boa saúde mas foco deve mudar - CTP - LUSA",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHphRGFzWEN6NkdHR3RzX3hBOUt0d2hydGxXZTdCTkdnb0h3RmRyc1ZMenEwc2VNNThjV3BuaEZrSDVWVHFRbGIycUR5OHh2X3h3Y25RN2NBVUlUTVA3YWI2S1JtX3JEY0dzUEtyTGd6VWtuamVEZGFKYWlpNTZjeVBVOFFucVIxZ05peUhFQ3dNZ1huY3ZXRzg3OA?oc=5",
-      "source": "Lusa",
+      "source": "LUSA",
       "publishedAt": "2026-09-26T04:02:00Z",
       "description": "O presidente da Confederação do Turismo de Portugal diz que o setor está saudável, mas que, dada a conjuntura nacional e internacional, é hora de deixar de ter como prioridade o número de turistas e focar na criação de valor",
       "image": "https://www.lusa.pt/TEMP/IMAGES/780x1200/CACHE_780X1200_ANALOG_WATERMARKED_47815827_4873750_25092026105104.JPG",
       "articleUrl": "https://www.lusa.pt/article/47838598/turismo-continua-de-boa-sa%C3%BAde-mas-foco-deve-mudar-ctp"
     },
     {
-      "title": "“Sem solução para prestadores de serviços até ao Inverno, teremos muitos problemas” | Reportagem - Público",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0k3UFI3ZkZ4N0hCSlZFanJGZzJOTTJSdmN4bXd4WU9DeUJJRmZsVHlWcUlhRGd6YUtaUldCaXJmMnZSQ1oxSzRzUVlYUDEwNVJqMXlsRkFERXZ1R2EySHd1cHRHVC0ybkp2SFlJNTVCQnB4V25wUzNoeDRFaVdDbi12ckVVMk16Z21QNmNDMDdrWmVyUHdoVG9ma2sweEx6SUlGNXJYUFVld29Yb0FBT1YwbW5MUDZDWVJQenhTQjk?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-26T05:30:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/26/sociedade/reportagem/nao-solucao-prestadores-servicos-ate-inverno-vamos-problemas-2189233"
-    },
-    {
-      "title": "Lançado concurso de 26 milhões de euros para novo Centro de Saúde da Ribeira Grande - Observador",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFpGYkpEb1kzSTdJUVdXampHOFVISkV4RTFGRDhwdUZfbHZEdXM5M1VISWRKUEdFVW1Pb2RubmtYeDFKYWQ0YWloNmRFT2lkVm50VnROaUU0ZmR1bzVJaFNfYmltcXBEbktDVnpBZGV3R051bS0zcG9HSGlRNEIwTGVoVUlOdEdhSUpINjBQX3JGT1RMR19MUXVkWC14cmFJUHZnUm9remRjdm9RbFd5dG9lU1lPVFNE?oc=5",
-      "source": "Observador",
-      "publishedAt": "2026-09-25T15:36:00Z",
-      "description": "O projeto permite que o estabelecimento melhore as respostas à população local disponibilizando serviços de saúde primária, de medicina dentária, urgência, entre outros. Terá 35 mil metros quadrados.",
-      "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A3000%3A1687%3Anowe%3A0%3A156%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F11%2F08144710%2F7o0b4678.jpeg?layer=obstop:T",
-      "articleUrl": "https://observador.pt/2026/09/25/lancado-concurso-de-26-milhoes-de-euros-para-novo-centro-de-saude-da-ribeira-grande/"
-    },
-    {
-      "title": "Intervenção no Fórum Internacional de Saúde de Cascais - Cascais International Health Forum 2026 - Presidência da República Portuguesa",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWhBWDhmOE4zVkh1Si1jLTcxWlR6X1lBOF90ZFZQbFdYTkljSnAtRlVzZFFRNTE5QVhzQmtDNXdtSXg3RmJmcHFJTmNFZE9xVlFuNHZxYmk2WHlyTGZkdk1mbnMzb2dfYVB0YW1HUWIzMXdRVVJXbk1YRE5aZklXS3hMSGc2Wmt0S0RMc0EyX2Z5SHBZYTNJcTQ1VzF5MEhyZTZNVmRZU0tSWTJkZXVNbk9yTnNFNzdJa2tvNWtpVzlwcTFtR0hKb0MzV0ZGckc1aEE1VnpXMlNDX29zV2dXRjJUWHJobzh0NlBGSDBMd0g?oc=5",
-      "source": "Presidência da República Portuguesa",
-      "publishedAt": "2026-09-25T16:17:37Z",
-      "description": "Excelente, é como eu caracterizo o que acabámos de ouvir. Portanto, quero felicitar muito vivamente a doutora Maria João, a doutora Camile, a doutora Margarida e o doutor Álvaro Beleza, e dizer-vos: excelente, porque, em tão pouco tempo, condensar várias informações e várias mensagens sobre um tema tão desafiante como aquele que aqui foi lançado é extraordinário. A doutora…",
-      "image": "http://www.presidencia.pt/media/prtnxepz/260925-prajs-arn-0023-05948.jpg?anchor=center&mode=crop&width=1200&height=630&rnd=134348324416600000",
-      "articleUrl": "https://www.presidencia.pt/atualidade/toda-a-atualidade/2026/09/intervencao-no-forum-internacional-de-saude-de-cascais-cascais-international-health-forum-2026/"
-    },
-    {
-      "title": "Governo dos Açores lança concurso para novo Centro de Saúde da Ribeira Grande - Portal do Governo dos Açores",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hcXZXcnhKYjlRblhTOEFKV1czc2hHQkJTbzdEQWhDcVM3T0tFNUVQZjJxME5IeFg1TGRuWUotSGM2TFQxSWJjejQzSUxEV1VJWXl5UjVIVVQ4bWRNZDlaZC1wVndrZmxka1c4aWZyQV9yTEh0RWtR?oc=5",
-      "source": "Portal do Governo dos Açores",
-      "publishedAt": "2026-09-25T15:38:06Z",
-      "description": "Notícia publicada por Portal do Governo dos Açores. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://portal.azores.gov.pt/web/comunicacao/news-detail?id=23927238"
-    },
-    {
-      "title": "“Por trás das varizes, esconde-se uma doença crónica” - omirante.pt",
+      "title": "“Por trás das varizes, esconde-se uma doença crónica” - O Mirante",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObUUwSk1YangxZjM1WFhfZUFURWVMSTZXVF9hQXQ5Vl9zNHZaYTVrNkpmam5selVKY2VvTEFuYXhSNzhlbUNrWm8zVjdmakN0RjB0ZGUxeUFoR1BNcmQzZ2F1Tm9zc3ZGQ2FvNUptSEtZMVkzV0NFYWg0M1BPNDB3VnVTM0VGSkJ4RmIzOGdhbUV5VFpOTlM2Wk5haG1hNUdDSzh3YW9YaXZVQ3NjM1k2bWxGd3VxRzV2WTBhaVFkYkhLOVdZNlYwLVlSYw?oc=5",
-      "source": "omirante.pt",
+      "source": "O Mirante",
       "publishedAt": "2026-09-26T06:00:00Z",
       "description": "As varizes, que podem afetar até 30% da população, são ainda consideradas, com frequência, um problema meramente estético. Mas a verdade é que as veias dilatadas alertam para uma doença que pode ter consequências graves e um impacto significativo na saúde e na qualidade de vida. Sérgio Eufrásio, especialista em Angiologia e Cirurgia Vascular no Hospital CUF Santarém, explica…",
       "image": "https://images.impresa.pt/mirante/2026-09-23-sergio-eufrasio_cirurgia-vascular_cuf.jpg-47c6ea55",
       "articleUrl": "https://omirante.pt/divulgacao-cientifica/03_sabado/machetes/2026-09-26-por-tras-das-varizes-esconde-se-uma-doenca-cronica-acb4e6ab"
     },
     {
-      "title": "Luís Goes Pinheiro destaca interoperabilidade e dados de qualidade como base para a IA na Saúde - SPMS – Serviços Partilhados do Ministério da Saúde",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnJFVUdWMGJraER4RWJWaE1PQWpnTWN5OWJidjlKYk1Nc3ZTVFF0RDBjUDFhbUlKdFlyWVhoNWRFWHd5R1hIRDZZeS1OVGQ4RjZSS0NRRXdRYm5sOUd4Zm9HeV8xSGtvOWVKT1ZWM0lLbllEOWtQa01UWlFpdnYxZFBIbUVEcXd3NnAwelNuNVlVSS1pNUN2c3dNTGREWlg0aTh0UURMUDUyM2Rvczd1SEhlN2t1YWYtdlRhbEcyRGtyQnBvUGt2STlHeFZjQnM?oc=5",
-      "source": "SPMS – Serviços Partilhados do Ministério da Saúde",
-      "publishedAt": "2026-09-25T17:15:10Z",
-      "description": "Notícia publicada por SPMS – Serviços Partilhados do Ministério da Saúde. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.spms.min-saude.pt/2026/09/luis-goes-pinheiro-destaca-interoperabilidade-e-dados-de-qualidade-como-base-para-a-ia-na-saude/"
+      "title": "Alentejo litoral: CIM e ULSLA preparam estratégia para fixar profissionais de saúde - O Atual",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnJRX05ZaWU0OUpSam4zSW1SZ0ZtQkpGUXpscHZLTjJIUjVOaF9MN1ozeUxtYVp1ZGhpMS1aRUwycVFwUmlhWWYyc2c5Z2d1Mnowak5ORXFLQ1RGOU5JYnpHa2JtVC1SY3JMUHVkbklDLVYxU2JDUnlVM0hTMlJyd2tCdTRmQ25BVThqRWZrYWEzc1ZnV0c0YTFncTNZUE5KSWJNWU9VSDRLbUtvZXp5WGNFQQ?oc=5",
+      "source": "O Atual",
+      "publishedAt": "2026-09-26T10:42:24Z",
+      "description": "A Comunidade Intermunicipal do Alentejo Litoral (CIMAL) está a preparar, em conjunto com a Unidade Local de Saúde do Litoral Alentejano (ULSLA), uma estratégia para atrair e fixar profissionais de saúde na região.",
+      "image": "https://media.oatual.pt/images/202105281007477619.jpg",
+      "articleUrl": "https://www.oatual.pt/noticias/alentejo-litoral-cim-e-ulsla-preparam-estrategia-para-fixar-profissionais-de-saude"
     },
     {
-      "title": "PGR instaura inquérito à morte de quatro idosos em lar de Estremoz - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWROb0FxeTlYSHBPSDk4WENXbjRFZXhJLVVCVENWM1R6R0I3SGdOVUFQQ2xteGpGY3hJRUhDcTVEUUF4MWlMeEFPSEFiYkVTVHQzT2xIQjU4TGg1ZW9RaWJUVG1VcVBHWExNSy0zbE9vYUEwM3dhZXo5N0VMektQbnFadUZGZnB6SzZkMGpMMURqcVgxMS1Edw?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-09-25T15:02:32Z",
-      "description": "Um surto de doença respiratória num lar de idosos em Veiros, localidade do concelho de Estremoz, matou quatro pessoas desde o passado domingo, estando outras qu",
-      "image": "https://media.assettype.com/dn%2F2025-08-21%2Faq1x3od4%2Fhospital-de-evora.avif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/surto-de-doena-respiratria-em-lar-de-estremoz-causa-quatro-mortos"
-    },
-    {
-      "title": "Seminário CEGIST “From Flexible Hospital Wards to Healthcare-at-Home: Two Perspectives on Healthcare Operations Management” - Técnico ULisboa",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN084elowWWpCdHZoY2R1Nk4wcXpBTTVDQ1cyczYwNGg2LTVhQWlnNG9CRzllZno5QjRoQ3hzMFJEbW5VOVNsNzJiYWEyclBoYzN5RDBicUI4WGJDcG5tT1Q3RUFjREFjT0hWcHh0ZHdOcVNBaUdMTHQzZXlKMDFQRjh5N2kyMkpWcVh6Yzhmdk43dDhvSjJaQ0d2bVE4SHZDQzBHYTZkX0kzUG0xbEZNS2lfbGpMZHNTXzdxSHRDamdUczgwcDhibFpidmVudllOSE9BRzI0LUI5UEJlUW9FdmxxSlZDN2c0czVKbnZhck4?oc=5",
-      "source": "Técnico ULisboa",
-      "publishedAt": "2026-09-25T15:26:18Z",
-      "description": "Notícia publicada por Técnico ULisboa. Abra o artigo para consultar os detalhes completos.",
+      "title": "Feira da Saúde, integrada na Feira D’Aires 2026, a decorrer até segunda-feira, … - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVjJtb2syX2pLWHpTdFk4Uzl5MF96dEFlY3lITGpoUGpvbXBpTUtYekhXRXZJVTBjUW8wUUNBS2p4QUJmZXJ4bHF6R19pSjVLX08yZlJKM3NZQUJ0ZTRZNzVpa0UwM3NkTmNvd2lwYzRnSWlhcmZzNmFVN3k1TnUtT0hjTzliaGZ6d0o2Wjc4eVFpaGVHTmZRY0dCeU9hLXV5bjRtaEFWd19JU3N3Z0l4Q1h2Z0Q5Y0ZMMnVtNkIyLTI?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-09-26T12:33:54Z",
+      "description": "Notícia publicada por SAPO. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "ESEP acolheu reunião europeia sobre enfermagem do trabalho - Notícias U.Porto",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQm1RTFltQy1OTnpKbmZRTUdHdWVWLWRWVzVQWWgzQU1FMlVVWFJQSU90WDM3NmFMY095U1Q0WDBRekxLMG5qUWFydXdGOEdwZTNEdVlPcGRPcHBDdnRnSXEyb3BpZlFCajlvX20xUFdRblNoMWVleVN6Z0xNYzZ1dzlURkoxOFkzSDFuNG9HYUFULUlIMmJ5OQ?oc=5",
-      "source": "Notícias U.Porto",
-      "publishedAt": "2026-09-25T10:32:40Z",
-      "description": "Notícia publicada por Notícias U.Porto. Abra o artigo para consultar os detalhes completos.",
+      "title": "Universidade de Aveiro - Universidade de Aveiro",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSURFNnhmZWRiaXVTZHB2U2NwRk9Dem9LYzlwa1RWTXlQdjVzcDRLOXZNNzNFc0ZJZVVMWWlEbG9leUliVEtMX0JJRnFITWc?oc=5",
+      "source": "Universidade de Aveiro",
+      "publishedAt": "2026-09-25T20:20:07Z",
+      "description": "Notícia publicada por Universidade de Aveiro. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
   "world": [
     {
-      "title": "Irão apresenta nova proposta aos Estados Unidos para pôr fim à guerra - Expresso",
+      "title": "Gomes Cravinho avisa que comprar caças F-35 aos EUA seria “erro grave” - Público",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa04xX1pxUTBMN2dxamtvUlNhNWFPSkJJeFQtWG5BM0VsV2tzUDlFWTBNYldJNUlzZUFZbUxXWlNyQWhOZ3A2eVloSDZGM3J4ZGhBR0t5ZnA1UUpyTEtNRHlXa202aVVpb1hhX3dkTFlGTGxpcmVib1JHd3M0cHVSWUIzdW9OSlRNdW5BU0xBUXJBS3YwTGVuZzRnYkxVUEZTbkxIdzZSVVhlVHNObWNlSmx3?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-26T11:24:31Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/09/26/politica/noticia/gomes-cravinho-avisa-comprar-cacas-f35-eua-erro-grave-2189400"
+    },
+    {
+      "title": "Irão apresenta nova proposta aos Estados Unidos para pôr fim à guerra - expresso.pt",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXkzRmxXWkNBZXBsNVBTTWpfU2tQV1kwN1laOHVzZUp2NmYySmxhOUk1WVVHdThnZzhxZmdDWVY2RGhESi1KSTkzbDZMd3g5OXdGV0R5d2RLR1ZZTzhwRDZPZE9lc1JYak1pak9BaTJhRGNLTmpBdzZtMUV4M1J6M0I2Q0JVX2V3bGMyUkFFVEZGRkU0NDRnZHAzX0pZY1lVQVRUc2FFX0RmY1BWMWVxRzRjd19OOFdNb1hmYWxBREQ3SXUzOGZuTy1fdlI?oc=5",
-      "source": "Expresso",
+      "source": "expresso.pt",
       "publishedAt": "2026-09-25T12:31:02Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-25-irao-apresenta-nova-proposta-aos-estados-unidos-para-por-fim-a-guerra-05d9f04b"
+    },
+    {
+      "title": "Costa poderia ser interlocutor da UE para Rússia, mas não agora - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1lkekl5VVBFN1JVRm1zVG9LNzNfM1hEbE5ZMUtWS3ZhQlVxOG5YMXhKVHBpOGg0aDdEQmJsY2VnblEyOTZ5QUxtc1B0cm8wclJTYVd6THYtWEhvRWJnLWNWUk5aeGZNc1NPTktCTThFTGZCaHFBVDU1UmFuZS0yZWZ5SU5FTnlDOVk4dDVlZHJQT0pEMjhhdEM1RWZTQjRORU9EVHN6Q1RoN3BLSWc?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-26T10:21:00Z",
+      "description": "Antigo ministro dos Negócios Estrangeiros João Gomes Cravinho considera que o presidente do Conselho Europeu consegue construir consensos",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logo6fff529f1e414d62c2319d7bb4946adfbd601a8a_fbHaDnO.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/app/2026/9/26/506822-costa-poderia-ser-interlocutor-da-ue-para-russia-mas-nao-agora/"
     },
     {
       "title": "É preciso avançar \"substancialmente mais depressa\": agência da UE alerta que Europa está a ficar sem tempo para se defender dos ataques russos - CNN Portugal",
@@ -128,40 +146,13 @@
       "articleUrl": "https://cnnportugal.iol.pt/russia/europa/e-preciso-avancar-substancialmente-mais-depressa-agencia-da-ue-alerta-que-europa-esta-a-ficar-sem-tempo-para-se-defender-dos-ataques-russos/20260925/6ab63dd0d34e9a786e75990a"
     },
     {
-      "title": "União Europeia promete condenar a Rússia na cimeira do G20, com ou sem Putin - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFBhZjU5Y2xtTFVsMEtJek9pM0tFVWt5S1dEZVZXaXUtc0JGTzY1dmVIV194Ykdac0xvRk1ISVV6d3FSOUtISTJER1ZTU2hkZnFDenJENXdaRjN3ejBoelM0YVNvSG10NHk5aGozWjZkT0RqSFJIVnJDdGJ3RTZ2bGhxWFpqcXZNWDFaTGF2YzZNRkNlVlhnczdrVUQxdDJOQ2cwb083aF9UWGEwNVc4?oc=5",
-      "source": "Euronews",
-      "publishedAt": "2026-09-24T12:34:02Z",
-      "description": "Os Estados Unidos convidaram formalmente Vladimir Putin para participar na cimeira do G20 em Miami. Já a União Europeia afirma que manterá a sua posição e condenará a guerra da Rússia contra a Ucrânia em qualquer caso. #EuropeNews",
-      "image": "https://images.euronews.com/articles/stories/09/92/61/87/1200x675_cmsv2_224f1d10-96b4-578a-95ba-00fcc42e6e29-9926187.jpg",
-      "articleUrl": "https://pt.euronews.com/2026/09/24/uniao-europeia-promete-condenar-a-russia-na-cimeira-do-g20-com-ou-sem-putin"
-    },
-    {
-      "title": "União Europeia desbloqueia 6,6 mil ME de apoio militar a Kiev - dnoticias.pt",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXhpWHE0Um1pU29Ydml5RHpMODZjWDdTYXpGM05vRHJxblBHODRBb3ZwZkpvc3Mtalg1V0Z3UVdscy1VX2psTE9KaGVhYVp6RE9jR1d0UmJ1OXBiWWZhWFhCdjhZX0d0cXZLUndMZzhlNktjb0lrUUNTNkhONXgyQ21pREtWS1VtVTUtWDJQcklGQWx1T0RKVGlzV3U4UThoVVVIbnBB?oc=5",
-      "source": "dnoticias.pt",
-      "publishedAt": "2026-09-25T14:42:00Z",
-      "description": "A União Europeia chegou hoje a acordo para desbloquear 6,6 mil milhões de euros de apoio militar à Ucrânia ao abrigo do Mecanismo Europeu de Apoio à Paz, após três anos de bloqueio pela Hungria.",
-      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logo4f5sxl0qg2gv_LruD7nr_bJ6bH8t.JPEG",
-      "articleUrl": "https://www.dnoticias.pt/2026/9/25/506733-uniao-europeia-desbloqueia-66-mil-me-de-apoio-militar-a-kiev/"
-    },
-    {
-      "title": "Guerra na Ucrânia: «Quem acaba por ganhar são os Estados Unidos porque vendem» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3NZM0p3RXpkZUFpX0QzUzFwSy1Ga1NES0pKbWZSQThmOG1rZWs1MmVZOElCalZWbHVuTnBhQWxac3pIZkxJOFlXNlVDLXRmY0dFM3RWV1gxT2ZsaG1SVl91UWUzMTlfWXpJRm1sb0tDdG8yNTNrOElpM1lXWW1rOTdPTEZfc0cyM1h4bDVUS0xQMVIzQ0tzakRTQzNWT3ZFQ2oxS0JiZk16dGp0ODE3RWpnQnl0Zw?oc=5",
-      "source": "Now Canal",
-      "publishedAt": "2026-09-25T12:21:00Z",
-      "description": "José Filipe Pinto esteve no NOW a analisar o conflito entre a Ucrânia e a Rússia.",
-      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-25-14-18-27-63842.jpg",
-      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-na-ucrania-quem-acaba-por-ganhar-sao-os-estados-unidos-porque-vendem"
-    },
-    {
-      "title": "Depois de meses de negociação, EUA autorizam Ucrânia a produzir mísseis Patriot - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2x5RmowVlZ0MGdOZTFZMTlzVlUzeXp5TGpXTFhFNWFsTHBhM29SdlVocXZRR29pc003YWE4MnV1Z2tmMXVkQk9yWHFPeUhZVXlfMnE3WFphcUozVXNMblQxZHItSjV6UVlzemIwMzF0UkhhUVZMdnNOOHdfdG1LT0J2VXNvWl9HVWRjVUFwUlB5UkFQdy1UMi1ZZUpNZWV0NzRQZUt5ZkRHVndISjZlY3p4NS0xMTdKbndGMEU0U1JKM3dkYTZjdTB2NmpVZw?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-09-25T13:29:22Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://expresso.pt/guerra-ucrania/2026-09-25-depois-de-meses-de-negociacao-eua-autorizam-ucrania-a-produzir-misseis-patriot-2bdfb5eb"
+      "title": "Trump autorizou Kiev a produzir mísseis ‘Patriot’ - ECO",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdngyTHJidU9rOXhudlZEdktib3BnY3gybWIyTXRrTGlYSVpjMUxvanROQjRJUGlGQzV6ZkxpaHdZUjFHeW5vWjVZYzdwNjRGZnJleTRxaGl1OG1qNHRUWmxYTDBkNG81d0VJM3gxc3psck5YYjRaLWRhanVHa0VWS3pVQ1dZQQ?oc=5",
+      "source": "ECO",
+      "publishedAt": "2026-09-25T14:01:53Z",
+      "description": "Devido à intensa utilização na Guerra da Ucrânia e aos conflitos no Médio Oriente, os 'stocks' globais do míssil enfrentam uma pressão sem precedentes.",
+      "image": "https://eco.imgix.net/uploads/2026/09/cropped-47819442-scaled-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
+      "articleUrl": "https://eco.sapo.pt/2026/09/25/trump-autorizou-kiev-a-produzir-misseis-patriot/"
     },
     {
       "title": "Xi aconselha prudência aos Estados Unidos no dossier Taiwan - RTP",
@@ -173,45 +164,54 @@
       "articleUrl": "https://www.rtp.pt/noticias/mundo/xi-aconselha-prudencia-aos-estados-unidos-no-dossier-taiwan_v1767558"
     },
     {
-      "title": "Irão apresenta aos EUA plano para reabrir estreito de Ormuz em 7 dias – Ministro - impala.pt",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjRYSFRvZXVGRGJTczFUN0RJYUtCS3BZU2MwZkZ4Y0tvZXBPWG93RG9PdkJ0MjEwREh2UXFkemlKSDA3MXJUZkVtRDdwSFJaTUJKcmpWQ0VZTHBZeTRpNDc5bGdxNklpRElhUE9jVjhHYW45TnJxRTMwaEtvelVsS01yYVNsVFhkd2hrRzk0R0VsU1E4VUFGZk1xZlc3WDFJU1pzelpVVWM1ZUYzTF9vNnYxODM0MmFNZ0Fn?oc=5",
-      "source": "impala.pt",
-      "publishedAt": "2026-09-25T21:45:06Z",
-      "description": "Notícia publicada por impala.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "Irão propõe trégua e reabertura do estreito de Ormuz em sete dias - expresso.pt",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnlvTDJBbF9BZ2xlWGhXTkxUem1zQ2NMTmQ5YXFidmQ4THRMQzh2RC02UW5reFlTckF0dUFWMXhWalV1NjRpbWRyUjFoUHpBLVJiaDZ1cmREVkV4X2FjSzM3bnpLTlhOb1hoenZpMm9ZdHlkSTR1SWhPN1FxcnZ1YkI4Q1NGRWpYQkRfMkJpQWh4RVUydUNCNmo5Mjk0YlBLUk9QYm4yLWdSS0pEeEV0em9pZW9ibU9vU3J6R2JvM2dlcGNKWmJr?oc=5",
+      "source": "expresso.pt",
+      "publishedAt": "2026-09-25T21:42:07Z",
+      "description": "Notícia publicada por expresso.pt. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://www.impala.pt/noticias/politica/irao-apresenta-aos-eua-plano-para-reabrir-estreito-de-ormuz-em-7-dias-ministro/"
+      "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-09-25-irao-propoe-tregua-e-reabertura-do-estreito-de-ormuz-em-sete-dias-ade9bb88"
     },
     {
-      "title": "A União Europeia não vai fechar fronteiras — narrativa distorce votação do Parlamento Europeu - Público",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNanJ1a2wwSklwak1HdWYwbDFnd0JISy0xVTd4YVBabjhaX0p0WlVfd1doQjY3R2hDUzdTc2F1QUo3VmFuNDk1SzU0RTBoQ0hocXZOVjJiYmJaVUdfZ2tyNWdkOXh5dDNPU2xzaGJxdmNBalotWTFXOFN5cGNrZ0V3UFpENklGSjZsLURVOEl4MnVXLThFdlQydm45RVE4aV8tZzRnV2NTMVZmT3NLNkU4RjFFWWxfd2d2NzFfUks2NzBTcnZTaDBTVDR5dnpoMVkzSi1oaDU1VEJhTlFxWFNhVXp5Q3ZxZGowWXVfejFodDlPcTR5ZkpqUXNRcXVSUQ?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-09-24T13:41:28Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/09/24/mundo/noticia/uniao-europeia-nao-vai-fechar-fronteiras-narrativa-distorce-votacao-parlamento-europeu-2188384?ref=mundo&cx=page__content"
+      "title": "Guerra na Ucrânia: «Quem acaba por ganhar são os Estados Unidos porque vendem» - Now Canal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3NZM0p3RXpkZUFpX0QzUzFwSy1Ga1NES0pKbWZSQThmOG1rZWs1MmVZOElCalZWbHVuTnBhQWxac3pIZkxJOFlXNlVDLXRmY0dFM3RWV1gxT2ZsaG1SVl91UWUzMTlfWXpJRm1sb0tDdG8yNTNrOElpM1lXWW1rOTdPTEZfc0cyM1h4bDVUS0xQMVIzQ0tzakRTQzNWT3ZFQ2oxS0JiZk16dGp0ODE3RWpnQnl0Zw?oc=5",
+      "source": "Now Canal",
+      "publishedAt": "2026-09-25T12:21:00Z",
+      "description": "José Filipe Pinto esteve no NOW a analisar o conflito entre a Ucrânia e a Rússia.",
+      "image": "https://cdn.nowcanal.pt/images/2026-09/img_1280x721uu2026-09-25-14-18-27-63842.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-na-ucrania-quem-acaba-por-ganhar-sao-os-estados-unidos-porque-vendem"
     },
     {
-      "title": "A União Europeia concordou em liberar mais de 7,5 bilhões de dólares em ajuda militar para a Ucrânia. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDlkVDIwNHR5cGxUYmJILWlSb1pFRkpzV2ZrVjhTSGpveGpNMGk1Nklsbnh6TXJjTlNwQkc5bXJOWGZPVFowcXJCWjljZnJJblBxNjJ1b0NMSWRTdm1IdWhOTllBbFRPVmJmZkdRckRMckh2OWtObFlZS0IxbW9WWUtKV29ZSV8tbUR2M011TFBjTHA5ZGM2NWoyVHVKdzk3YmVmV0p1NTNrUQ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-26T03:03:33Z",
-      "description": "Notícia publicada por Vietnam.vn. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.vietnam.vn/pt/lien-minh-chau-au-nhat-tri-giai-ngan-hon-7-5-ty-usd-vien-tro-quan-su-cho-ukraine"
-    },
-    {
-      "title": "Preço médio do gasóleo na União Europeia bate recorde e atinge os 2,23 euros por litro - dinheirovivo.dn.pt",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUpPMVlIX1NrdDFfNGF5bF9tRGpOeUtkeW5EelVBQ0pKblRTa1ZuUjhmd2hONzZUbkc1dFhpejJIQnZXWFJHN1lTREZVNllnS0l6TkVYa1RUTEpHd2NnSVZ0Rmk4QjJVeEhPZU9FVUhfeER5WW1fWF92TTBwYmpVUVh0VXVpUEhDYVZ5MTJoaUhGeTEweWpGMnM3M3RKOUVuZG5BMklPOHFBcDVGOEdrTWo1TW93MHc?oc=5",
-      "source": "dinheirovivo.dn.pt",
-      "publishedAt": "2026-09-24T08:51:30Z",
-      "description": "Notícia publicada por dinheirovivo.dn.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": ""
+      "title": "Já não dá para esconder: Rússia tem de continuar a pagar a guerra e Putin decidiu aumentar os impostos - CNN Portugal",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTnNhYXRIRUhBVWVOcm01RlFZeVhpN2hJZ05ZQ09lSVNUMjNuckZ3QTNCdjdKS3ZablZpcWNyc2JEbU1zWjFDMTE0WGJvb2NoNGFWbHdlSFhZNHNqbzQxSk5ENFNUZ2hwWGRMZTNUOFhjVTllcHRIVTVwVDFSdmtBQjRudlYwaVozR3NoRWs0MWUtOXJWdVI2YmFqb25mdXo2endhdlMteXFRMjNGWmtOaU5abUZHUkhWdm1WeXpfaGdMaUdheUpTZ040eHl4NUN2QWNJaloyTmxsSElDa2V2cnUyb0VJMkFOcVZOWFhDYk00ejI5VVhWTkJKWi13MHgyOUwwSnRHcWo?oc=5",
+      "source": "CNN Portugal",
+      "publishedAt": "2026-09-24T18:05:00Z",
+      "description": "Empresas ocidentais que ainda estão na Rússia são as principais visadas, mas não pára por aí",
+      "image": "https://img.iol.pt/preset/6aaad3cdd34e9a786e758401/og/cnn",
+      "articleUrl": "https://cnnportugal.iol.pt/guerra/ucrania/ja-nao-da-para-esconder-russia-tem-de-continuar-a-pagar-a-guerra-e-putin-decidiu-aumentar-os-impostos/20260924/6ab5666fd34e53c759c73a89"
     },
     {
       "title": "Pentágono inclui mais 37 militares na lista de feridos na guerra - dnoticias.pt",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXJKRUZmWmdCSm8wdXJZTXNPUlVDcHpQWDZaUTBvTzc4SUZsZmFpSkg0ZGNTSkR1NjgyMjY0OVdJWFV1aUxkRkJ4LWFOT0RacnF5M1hKZVFEZmhtMkxxME9VYklWSjFMTzFLSG9wM1UtSEtPV002SkVzdGFtcnl3QWdEYWk2cjZLdkt6Y0FZM290WlpxRmRVbm1LaThFb3pKak5MOERwUU0yaFBsLUtJMA?oc=5",
       "source": "dnoticias.pt",
       "publishedAt": "2026-09-26T02:01:00Z",
+      "description": "O Pentágono incluiu adicionou 37 militares norte-americanos no balanço oficial das baixas da guerra com o Irão, elevando para 861 o número de militares feridos desde o início do conflito.",
+      "image": "https://static-storage.dnoticias.pt/www-assets.dnoticias.pt/images/configuration/fb-9/logoshutterstock_1210283029_riKr07J_Cbv56Wx.JPEG",
+      "articleUrl": "https://www.dnoticias.pt/app/2026/9/26/506792-pentagono-inclui-mais-37-militares-na-lista-de-feridos-na-guerra/"
+    },
+    {
+      "title": "Irão apresentou aos EUA um plano de sete dias para reabrir o estreito de Ormuz - Público",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTY1d2hSeElMdVFhMFhnWFFHYmZGZ1BCb2FkZHJMbmk3M2NsR2p4MEFRcXBuNHRQeTlPRXJxdXVaNWw1NmltbzBnbGJkUWEyNTByQ202VlBMN3ZGUFRyUm5vemI0dndrRHFOWnN2aS01ZEdhSmNfTTVNbG1XMDRhR1BTamJRTE9hTkVOdDFESjF6cjVFR1pzMGl1VGJ3S0pnTjV2aHhrOTAwTmhjZGNxVXpIMmo?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-09-25T20:41:55Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": ""
+    },
+    {
+      "title": "União Europeia desbloqueia 6,6 mil ME de apoio militar a Kiev - dnoticias.pt",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXhpWHE0Um1pU29Ydml5RHpMODZjWDdTYXpGM05vRHJxblBHODRBb3ZwZkpvc3Mtalg1V0Z3UVdscy1VX2psTE9KaGVhYVp6RE9jR1d0UmJ1OXBiWWZhWFhCdjhZX0d0cXZLUndMZzhlNktjb0lrUUNTNkhONXgyQ21pREtWS1VtVTUtWDJQcklGQWx1T0RKVGlzV3U4UThoVVVIbnBB?oc=5",
+      "source": "dnoticias.pt",
+      "publishedAt": "2026-09-25T14:42:00Z",
       "description": "Notícia publicada por dnoticias.pt. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
