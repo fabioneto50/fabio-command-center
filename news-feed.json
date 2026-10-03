@@ -1,41 +1,68 @@
 {
-  "updatedAt": "2026-10-02T22:58:33.216721Z",
+  "updatedAt": "2026-10-03T01:59:28.851265Z",
   "health": [
     {
-      "title": "Sindicato diz que greve dos trabalhadores da Saúde está com 60% de adesão - observador.pt",
+      "title": "Medicina: vem aí outra pandemia? - Público",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUZ5TEk1QU85aUhvQ2dhSE9iR016c0NubHdEeDZHVmJSVzZWcVZJUFlvQVN6anpsMmVuS0dyOTFQQ3NpOFVTOVRuWS1BOENuYXB1YXptU3dmSHljNHhWWUJYMWQtVUFJWUpLWVNVV3JIbHNleFViV25KaGctNkNFZm01Q3laSEZqdXc?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-10-02T22:10:00Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://www.publico.pt/2026/10/03/opiniao/opiniao/medicina-vem-ai-pandemia-2189513"
+    },
+    {
+      "title": "Habitação, mobilidade e saúde são prioridades para as políticas públicas - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLTJ5eERSbjBMYW1nRWl0OFJpQUVlUUdGYVpKWkpOWGdVOF9aZzJqT2lvSnU3clh5MHk4NjY0RUxJbVBKXzcwZ3h6SE40dDk0cTllTWJjTTRleUlsUW5ldC1oUDRNMTVNd3RGLVIwNG5xbmZLQ2o2OUtsYks4SG1SMGVhSjNFc0ttYUdmcFFabDJIdlhfcnZ3bUpseHlHTkgyaEtXMWU4U0Nva3VlSkZDZTJQeFpvNzFXWkxia1ZTQXNOZm1GWkdFVjBnam9zekZQTUdtajBIcjdNeTJGVnFMaXdLS0E?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-10-02T20:59:29Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-10-02-habitacao-mobilidade-e-saude-sao-prioridades-para-as-politicas-publicas-bdf76395"
+    },
+    {
+      "title": "Quem faz a saúde acontecer? Obra pública, cidadãos e vizinhos chamados ao mesmo terreno - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFh3OEFuUnpERlR1OTNIR2tnMkNmQ18zSXhuMHVDdTh1elNSWlZrZkg5TXZjQjVObTBTalhsVDY0S05oTGpyb216QjRuU3daLVppbG1BY3JEMW9CMTJyYTFGMkg0cnc5UkdGQnVDWHNuNTI4UzNYRFlBb3M0a1V0NlRvOHV6UWVOX3FNcDhwcU9jc0gzeEtPdkFLUGNyV2taYjdfSDlLMGdRaVloX2RFcU91c0VYeGRjWXhF?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-10-02T19:51:18Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://healthnews.pt/2026/10/02/quem-faz-a-saude-acontecer-obra-publica-cidadaos-e-vizinhos-chamados-ao-mesmo-terreno/"
+    },
+    {
+      "title": "Declaração da WHS Academic Alliance na The Lancet destaca o papel da saúde na promoção da paz - uc.pt",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHpNbGZBNzNiTkowekVrUmRkT0psclZobmFXTGpCQ2J2dEN3eVVLWGpGSDdRb3drR0l0aEdkOExSWl9peXZrZE1uYXBPeUYtWWhoSldFX2FkaVBxUFk1TE1yTXpyelVQYlJBRFZya3BzNnNOS2xQZktFRlZHVERuMGdic3BCX3EwTDRIUTM5UkRqYWpNOWlURGozTVhHQVYybWw0WjBJS18wWmdwVlY4U0pEeVlMQko4bGhFZkk1ZVF5RjQ?oc=5",
+      "source": "uc.pt",
+      "publishedAt": "2026-10-02T21:56:15Z",
+      "description": "Notícia publicada por uc.pt. Abra o artigo para consultar os detalhes completos.",
+      "image": "",
+      "articleUrl": "https://noticias.uc.pt/artigos/declaracao-da-whs-academic-alliance-na-the-lancet-destaca-o-papel-da-saude-na-promocao-da-paz/"
+    },
+    {
+      "title": "A Saúde na Ponta da Língua Episódio 40 - de 03 out 2026 - RTP",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pRUtyNGRucGhzZ0JINW1ydlVUQmdBWnZXLUI3ai0yaTEzN29fX0czT1lsdWpIWXQ5UUFZbWVaalphVmRKQjR2bHVVUDdHNFkydU1kR1BIUzNCenZnUmJCd2VURVBWRnlQSHphUzhKVlhaLTA?oc=5",
+      "source": "RTP",
+      "publishedAt": "2026-10-03T00:52:39Z",
+      "description": "A Saúde na Ponta da Língua - O que é essencial saber quando falalmos sobre perturbação do Espectro do Autismo? A psicóloga educacional Carla Mon",
+      "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/8089_13679_15067.png?v=3&w=860",
+      "articleUrl": "https://www.rtp.pt/play/p14878/e958033/a-saude-na-ponta-da-lingua"
+    },
+    {
+      "title": "Sindicato diz que greve dos trabalhadores da Saúde está com 60% de adesão - Observador",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0pjUjJiNFR5b2RKb1NMVzVQYnJwMjZMTnY3RVJhbFV2S0RMRGRpZk5JS1oybkNyX2FObkxxdnVXQ2xodUNBcEgyNEpYSFFnSS02YUFUV2JmNXplLTlCQlVFb25uUTlQODBWYTI4cUdjRnFkY2Q4ZEI4MFRoN1VzRDQ3M2VEUkJPY041MjZ4YVIzVkNkejlEQ3N2ckdHdk1XZ245M1JxVG5kdw?oc=5",
-      "source": "observador.pt",
+      "source": "Observador",
       "publishedAt": "2026-10-02T11:48:04Z",
       "description": "Mário Rui, presidente do Sindicato dos Trabalhadores dos Serviços diz haver \"serviços fechados a 100%\": \"Contamos que até às 15h00, que é a altura que mudam os turnos, estejamos nos 80% de adesão\".",
       "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2500%3A1405%3Anowe%3A0%3A131%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F15133605%2Fts154a3466.jpg?layer=obstop:T",
       "articleUrl": "https://observador.pt/2026/10/02/sindicato-diz-que-greve-dos-trabalhadores-da-saude-esta-com-60-de-adesao/"
     },
     {
-      "title": "224 processos por assédio na Saúde em quase dez anos, apenas três confirmados - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmZIV2llZTJ3SExiRjZndXYzeGtWeGVZcTFvNmdRNjhIaDZFTkFYU2s4Q3ZWemRQZC03MHZ4V3J0R3N4NWlkSWNHdXNjMG1US29aOG5PTTNUZlBzeTUwUmdTN1BlakV0T1cxVWlxa0JWWTRHajlvTEEwQUZCRlZKQ0dtTnVhSXY0WDkzX2FfWEowUXIxVHZjWEtrdnczdUlYalZ0VVV5d2Q2U2w2aWJXUkFTMkFzTFlRN3dILUgzaXpKTXdH?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-10-02T15:56:53Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "title": "Governo disponível para integrar médicos tarefeiros no SNS - SIC Notícias",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcmJ5WWpIQWhZRE1SSXRCT0dCMktIdkIxOHhCdmxZOGVZWURHbTZhbGdrbHE5UVVmenY2RFZCNk1mQnd1VW5XR2d0M2NLMnNyUE5lZ1BWaTJCZzJiV190NGV1YTRXQ3pLMUk3TlRQam96VzRDQTQ0ZmxJR1U2RmpPd0RhdDYxUDlEY0lfOTNpcng4Q2NHNFQzZ0xFNXlRaUgyMFZFSUFDOUs1b3VsckppdjFMR3hLOVZndUxLSFBnUzhiY2RaR25N?oc=5",
+      "source": "SIC Notícias",
+      "publishedAt": "2026-10-02T19:41:15Z",
+      "description": "Notícia publicada por SIC Notícias. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://expresso.pt/sociedade/2026-10-02-224-processos-por-assedio-na-saude-em-quase-dez-anos-apenas-tres-confirmados-d554c32c"
-    },
-    {
-      "title": "Carl Becker: “Se não tivermos bons funerais, a saúde da comunidade vai diminuir” - Público",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzRfdHN1NGhGNFhHT0wyQzhWVEtzT3BUYkdBQlN0VlhYQ0dHcm5rb3p0V0trMzJDMTdETFV3S04zUVFHdFZ1Q0xUMHlCWVNjT0kzTnE3YXBmVVM1dmhiNkQtMnJzdUdFZTdXOGVpQmN6NmtsdlE5bEZHUGxVMklJaXBlQVM5bzFmTGFhdnRtNUxkSkp2T1JfS0VxLWs3VHdXNzdkb1EyN3YxOGxHb0VBUmQwVkh5Nll3T0NSMGxhZw?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-10-02T18:04:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/10/02/sociedade/entrevista/carl-becker-nao-bons-funerais-saude-comunidade-vai-diminuir-2190055"
-    },
-    {
-      "title": "Tiago Grila levado de urgência para um hospital - Correio da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGNOeFZHWG5jeDlvc0VzWDZYWVZxZXVpWmo1Sk1vRVRUNTNCNEtLelNUS05kWE1JX0FNMnJxVHBZazNyYklFT3Ryc000bll2blZlTEZja2NrLXUtZ0Q5Y1ZLMVFOTWdEOEthbzB5NElWbEJmTFdYUG1rcjU2YjlhbDdqV2NrV01XVEpQb3cxUmJXd9IBjAFBVV95cUxNTGJzZlJqcThGOFhHZlRTT2RzUE5ZSnlOa2ZTUVB2aWNiQmVxOUpCMklWUlJaY1FSTEU3ZDFBdUhsYmloNWNRMVoyMl9BalJuQ0VMaEJWRHdaa1I3NGxBbGxwT2Uyam13NzNPZUJOMG5WNHFBNXMyRzRZeHkteXZBeGpiS2FfOGtsRGhXaQ?oc=5",
-      "source": "Correio da Manhã",
-      "publishedAt": "2026-10-02T20:34:21Z",
-      "description": "Influencer foi encontrado, sem sentidos, na casa de banho de um quarto de hotel no concelho de Oeiras.",
-      "image": "https://cdn.cmjornal.pt/images/2026-03/img_1280x718uu2026-03-19-18-30-45-2273491.png",
-      "articleUrl": "https://www.cmjornal.pt/portugal/detalhe/tiago-grila-levado-de-urgencia-para-um-hospital"
+      "articleUrl": "https://sicnoticias.pt/pais/2026-10-02-ministerio-da-saude-reafirma-compromisso-para-integrar-medicos-tarefeiros-no-sns-50a8a85d"
     },
     {
       "title": "Saúde com serviços fechados e 60% de adesão à greve - Jornal de Notícias",
@@ -47,64 +74,37 @@
       "articleUrl": "https://www.jn.pt/nacional/artigo/saude-com-servicos-fechados-e-60-de-adesao-a-greve/18132821"
     },
     {
-      "title": "Governo admite possível fase de transição para integrar prestadores de serviços sem especialidade no SNS - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0pDWEZpeTdWLUs5TUNmcUlzb0Z4ZWhIdTA4UUJUcHZLUWtIWXRQRVJKOWx6QVBQbi1vUmNpd0xxUmgwcDE1VFZVWFo3cy1hdzZHQ3RXLXZwZl9IVDNKNk9xMWxobTBGVnlZSUlVU0RqbGswd2FYeDZENVRhYnc2bnlzdUU3eklMX0plREQ5b3NYaTNGNDFIeHlRWTVwVWlVUWdjejRLT1drX3o5aUI2ZU1Mckcwc0ExemdnTjg5S3ZPdVhUaUdF?oc=5",
-      "source": "Diário de Notícias",
-      "publishedAt": "2026-10-02T19:27:24Z",
-      "description": "O Ministério da Saúde esteve esta sexta-feira, 02 de outubro, reunido com a Associação de Médicos Prestadores de Serviço (AMPS), tendo mostrado disponibilidade",
-      "image": "https://media.assettype.com/dn%2F2026-07-15%2Fm00xaz0b%2Fana-paula-martins.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "articleUrl": "https://www.dn.pt/sociedade/governo-admite-possvel-fase-de-transio-para-integrar-prestadores-de-servios-sem-especialidade-no-sns"
+      "title": "Tiago Grila reaparece no hospital após ser encontrado inconsciente em hotel: ‘Está tudo bem’ - caras.pt",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXJQbUk2anNCY24wbzZuQnRDZmdfMXRkRjYyT3FLUmoyTkVXaHpRNlNQSmQyZmxmQVpDaFgxeWJxdlhFbVBaaS0xcGR4Y05PRm1BdVh1UVdZc2k1UEg3SjlzdWhUX3hHdXBWWHpjUWlOZUh3YnpWRl9xejh0cUZGbnZ1UHc5dXB6Tnh6b1c4aFJoaFA0VUg5WV9DZnFPelJIcEJ5bkNXM3pqNVFFdTlfSTRVeDJ2QXRuaVlObG02UVRIS0Jz?oc=5",
+      "source": "caras.pt",
+      "publishedAt": "2026-10-02T21:54:00Z",
+      "description": "Influenciador português foi transportado de urgência para o Hospital de São Francisco Xavier depois de ter sido encontrado sem sentidos num hotel em Oeiras. Horas mais tarde, recorreu às redes sociais para tranquilizar quem o acompanha",
+      "image": "https://caras.pt/wp-content/uploads/2026/10/261002_modelos-varios-formatos-CARAS-20-600x315.jpg",
+      "articleUrl": "https://caras.pt/famosos/2026-10-02-tiago-grila-reaparece-no-hospital-apos-ser-encontrado-inconsciente-em-hotel-esta-tudo-bem/"
     },
     {
-      "title": "Quem faz a saúde acontecer? Obra pública, cidadãos e vizinhos chamados ao mesmo terreno - healthnews.pt",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFh3OEFuUnpERlR1OTNIR2tnMkNmQ18zSXhuMHVDdTh1elNSWlZrZkg5TXZjQjVObTBTalhsVDY0S05oTGpyb216QjRuU3daLVppbG1BY3JEMW9CMTJyYTFGMkg0cnc5UkdGQnVDWHNuNTI4UzNYRFlBb3M0a1V0NlRvOHV6UWVOX3FNcDhwcU9jc0gzeEtPdkFLUGNyV2taYjdfSDlLMGdRaVloX2RFcU91c0VYeGRjWXhF?oc=5",
-      "source": "healthnews.pt",
-      "publishedAt": "2026-10-02T19:51:18Z",
-      "description": "Notícia publicada por healthnews.pt. Abra o artigo para consultar os detalhes completos.",
+      "title": "224 processos por assédio na Saúde em quase dez anos, apenas três confirmados - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmZIV2llZTJ3SExiRjZndXYzeGtWeGVZcTFvNmdRNjhIaDZFTkFYU2s4Q3ZWemRQZC03MHZ4V3J0R3N4NWlkSWNHdXNjMG1US29aOG5PTTNUZlBzeTUwUmdTN1BlakV0T1cxVWlxa0JWWTRHajlvTEEwQUZCRlZKQ0dtTnVhSXY0WDkzX2FfWEowUXIxVHZjWEtrdnczdUlYalZ0VVV5d2Q2U2w2aWJXUkFTMkFzTFlRN3dILUgzaXpKTXdH?oc=5",
+      "source": "Expresso",
+      "publishedAt": "2026-10-02T15:56:53Z",
+      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
-      "articleUrl": "https://healthnews.pt/2026/10/02/quem-faz-a-saude-acontecer-obra-publica-cidadaos-e-vizinhos-chamados-ao-mesmo-terreno/"
+      "articleUrl": "https://expresso.pt/sociedade/2026-10-02-224-processos-por-assedio-na-saude-em-quase-dez-anos-apenas-tres-confirmados-d554c32c"
     },
     {
-      "title": "Declaração da WHS Academic Alliance na The Lancet destaca o papel da saúde na promoção da paz - uc.pt",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHpNbGZBNzNiTkowekVrUmRkT0psclZobmFXTGpCQ2J2dEN3eVVLWGpGSDdRb3drR0l0aEdkOExSWl9peXZrZE1uYXBPeUYtWWhoSldFX2FkaVBxUFk1TE1yTXpyelVQYlJBRFZya3BzNnNOS2xQZktFRlZHVERuMGdic3BCX3EwTDRIUTM5UkRqYWpNOWlURGozTVhHQVYybWw0WjBJS18wWmdwVlY4U0pEeVlMQko4bGhFZkk1ZVF5RjQ?oc=5",
-      "source": "uc.pt",
-      "publishedAt": "2026-10-02T17:12:03Z",
-      "description": "Notícia publicada por uc.pt. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://noticias.uc.pt/artigos/declaracao-da-whs-academic-alliance-na-the-lancet-destaca-o-papel-da-saude-na-promocao-da-paz/"
-    },
-    {
-      "title": "PS exige ao Governo planeamento dos profissionais de saúde - JM Madeira",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHNHbE0yUDhDS1BILUtEVWpaZFZCNzNPaUR1NUlZNnBWS2hLWGcydWRlNTN3WUlMSUNCT1B2dTFReFM4VGlzMzJIRkZ6SmJFZ09QbUFtZ1BmQVpDeUh3VFpNb2YwNlNPeHZkOWpWaDVXdE52UTRyclhjbDc1UlVzdVh2YXltWXZ5UHB4d3ljQ0d2cjlxcU1ybzR2M184SEFucURHcFhZdVlNbERNYWNHaHlOMHNxLWZfaVhF?oc=5",
-      "source": "JM Madeira",
-      "publishedAt": "2026-10-02T18:16:48Z",
-      "description": "“Afirma-se normalmente que há cobertura de 100% de médico de família na Região, mas pelo menos 20% da população que se inscreve não tem médico de família”, disse Célia Pessegueiro.",
-      "image": "https://jm-madeira.cdn.m33cloud.com/resizer/600/315/true/2026_10_02/5de6b1d5-c917-4d75-8552-e8737e60a3da-1790964950296.jpg--ps_exige_ao_governo_planeamento_dos_profissionais_de_sa_de.webp?1790964950758",
-      "articleUrl": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006357/ps-exige-ao-governo-planeamento-dos-profissionais-de-saude.html"
-    },
-    {
-      "title": "Socialistas exigem ao GR planeamento dos profissionais de saúde necessários - Funchal Notícias",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWhEaDBGWU5PNFlkVjZhM0hHemI1MGNDQUdSVllMbUxBaEVfVy03Ry01THNmZE5RVEVoZ0sxZl9ETkNrcDExYXdOUFlrT3JRc3djLWlzbGVVbm12NnRpVm03ZGxnU2F3R2hhTGdfZDdnUlRnMnN2QkIxeElkU1YwYXl3bi1TYmVfWlU5aHhHR2RXc3RlVl92M3F0aHB2dFktbDZ1alk2Rk9mNzQtMC13Q2diZV82Zw?oc=5",
-      "source": "Funchal Notícias",
-      "publishedAt": "2026-10-02T18:13:46Z",
-      "description": "O PS-M quer que o Governo Regional calcule e torne público o número de médicos e outros profissionais de saúde que se irão aposentar nos próximos anos. O objectivo é, com essa previsibilidade, não …",
-      "image": "https://i0.wp.com/funchalnoticias.net/wp-content/uploads/2026/10/ps-profissionais-de-saude.jpeg?fit=1200%2C800&ssl=1",
-      "articleUrl": "https://funchalnoticias.net/2026/10/02/socialistas-exigem-ao-gr-planeamento-dos-profissionais-de-saude-necessarios/"
-    },
-    {
-      "title": "Tiago Grila faz vídeo de cama de hospital: \"Está tudo bem, malta\" - Notícias ao Minuto",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejNMZFZCUTFzXzlreDFDTHhZUGQxbVN1dUhlSnQweEtDYjRqamxtQUN3VmdDTE5XZTZ6N04ySDNVbi1UemNFV2w0VWtYdVA4SW5SMmd3dF85UmV4YUR5cWFzYTMxYTZJNk81SzFwN0hLelZGVjZMWDVMZFBmREp0T1oxbTl2SmktQndCR192YXNFMjFmdnhncWI3dy1pZUxNRGotbE9SOXdXMG8?oc=5",
-      "source": "Notícias ao Minuto",
-      "publishedAt": "2026-10-02T21:39:02Z",
-      "description": "Notícia publicada por Notícias ao Minuto. Abra o artigo para consultar os detalhes completos.",
+      "title": "Saúde pública pede mais prevenção e lugar à mesa das decisões em situações de catástrofe - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGtXMEtMb0xtZTBiejVUaTdVRDBFYl9wT2lJVWRxYnZJVXdvNTItRUtHZ1htbDBDVVg3ekg3SmY1RlR5bGM0ZlVvNllFRFlmQXFSODdnSXlFTlRLQ2U1cWxybUEtUFI5aHdWMlU2QWJpZHZBenkxMTA4ZGg1SlU5d3FWNjc3cWNDUGRuYmQ3YVJWVnJXYnc2Sm5UWXREcXlBeE42dk5GVnlFczNGUG1KT3RMLUVvcWd4QjAySUFnVQ?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-10-02T18:20:42Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Habitação, mobilidade e saúde são prioridades para as políticas públicas - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSTRkTEpuamRScV9VRExoZTVLb1k4N3V3OVpyS3JWVzRCWFJmRE5EWWNTVndnaTFqN1h4Q255NERGVDFLU2lXQmV3VDB0ejhtVVJSS0ZZUEprbmxBaVpuRW15MUxsNi11N3VFVVRRQ0t1MjlQa0U1SkFIUzc5bndYWVU1eDd6Rm1EdTdLSmNVMU5STldJUG5OMHgzeTNwOGRtLTE1TTFMRmRhMEpUMEdjNG1oY1UxWVJKVTdhaEhjQlVQN0tWSXRkNzhMTGljcUFLTnlSbTFQcExPNVJiZkh3VG02VXJ5RXY1alhUU0ZpNHNyRHFHNWZhYktJRC1PNklFWTRXQWZpU2g3T0tvYmhrTU9HeWI4N3VDaHpuOEJxUnE3RGJadjMzTWFJaVE0dkxyeUF3NVE3d2lURC1CZ1hGX0NlUHAzY2gzS0xLQTh6cXo0WHFtWTM0VHBPUjBJN0RoRlcyYWNEbE1welNOVW4wMnQxZVVHdDU5cGo4SUJ6NXUzREJNV0s2b1N6SlpnMGRxai1ZUjQ2WHV3MnJLNEF3Y19aVGxUN3BoMTBicGROQnBsbkRBMEpWYzl2NERGZ3RKSmNTOWRJOUpteVUyRThtRUpUZEtXR0hma1VyYWZRNk5iVklJcGU0eUdvRWtPaEdq?oc=5",
-      "source": "Expresso",
-      "publishedAt": "2026-10-02T20:59:29Z",
-      "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
+      "title": "Saúde pública exige decisões fora do SNS, diz João Paulo Magalhães - HealthNews",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGdaMmU1d01HdFhuNzN1bWFWNkk5dlNGREk4RTd6a2dHY1RaVERmUnVTNTZDV1hNdGRBNlVIeWxQVHJGZGE4azFHd1VTVXM1UzV4ekhYN1JjS3F5aFc1MWhqU3VVTjhZUGx3eGFjU0ROQk4wTjk4VzZLT2FYVk9zOHpOZEw3TjhfZTZJdVNha3JsNnJIR0pLc056V0NhTkhz?oc=5",
+      "source": "HealthNews",
+      "publishedAt": "2026-10-02T20:01:22Z",
+      "description": "Notícia publicada por HealthNews. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ],
@@ -137,18 +137,9 @@
       "articleUrl": "https://sapo.pt/artigo/papa-aborda-com-chefe-da-diplomacia-da-ue-guerras-na-ucrania-e-no-medio-oriente-6abff9f8251665e3d6b3be57"
     },
     {
-      "title": "O estranho caso dos Estados Unidos da América - Público",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkNWZ2RUd2lJME1aN2FFZ3Ntcm03bVJlcFZkdlRodFB0ZjZUU3phTXNOb0dyS1lCTUtWLU5DR1I1OHBWQkxtUURmd2hTVVUtODFBSkp6NzFHSmFPbTNxZ0Z4cXo5RElsMnZyZW1YSEl2YVNoakhDU1RKVGFoUktlTndCNUtaWllhVEpheGppcDZkT09iRWRn?oc=5",
-      "source": "Público",
-      "publishedAt": "2026-10-02T06:00:00Z",
-      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
-      "image": "",
-      "articleUrl": "https://www.publico.pt/2026/10/02/mundo/cronica/estranho-caso-estados-unidos-america-2190009"
-    },
-    {
-      "title": "Representante dos EUA na NATO: revisão das tropas na Europa dependerá da política \"America First\" - pt.euronews.com",
+      "title": "Representante dos EUA na NATO: revisão das tropas na Europa dependerá da política \"America First\" - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJvaEt6UGI5dEd4eGJObjlwSDFRTnVzM1h2Q0ViM2wyYXlaX01VYmV3Y2c0V3hZNklaaEtaMmhvcUpKcXd6dFd4amxtVmIxSDNTV0Z5TkZGeEh4dWQ3eHhDcnd0bmNOYkhhVjdCeEE0eWloXzFfdGc3SUstUm9pblVsOURFaThreDd5dlUwcmtkYVVKaWZhMVcwV3lzdHNNX3ZHMFhMQ1RULUh2SU9YWQ?oc=5",
-      "source": "pt.euronews.com",
+      "source": "Euronews.com",
       "publishedAt": "2026-10-01T16:31:01Z",
       "description": "A revisão das tropas estacionadas na Europa foi iniciada após tensões geradas por países da NATO que recusaram às forças norte‑americanas o acesso a bases militares para a guerra no Irão. #12MinutesWith",
       "image": "https://images.euronews.com/articles/stories/09/93/39/90/1200x675_cmsv2_4b31ff9a-0762-56d9-b183-ca53846dbfc5-9933990.jpg",
@@ -162,15 +153,6 @@
       "description": "Notícia publicada por Expresso. Abra o artigo para consultar os detalhes completos.",
       "image": "",
       "articleUrl": "https://expresso.pt/medio-oriente/conflito/2026-10-01-eua-exigiu-a-saida-imediata-de-delegacao-iraniana-do-pais-apos-falhanco-no-acordo-para-por-fim-a-guerra-7e94023e"
-    },
-    {
-      "title": "Ucrânia: reunida em Lisboa, a diáspora feminina prepara o pós-guerra - Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRVQ3SkZYYmNaSEsxdEJQVi1sUjh4T2dXMlIwU0FXajFSVU9MdjE4dFhIWnhJUU1MWU1iY1BMbFZHVjRWYzRqSkc5dHdkejZUY3AwQ1JwWHprZkNTMkIyNkNjOWg0djlscGNqM2RjYjA4bjctWk5TWlpFQ1lGX1c4UFhFUG5wV2NKaE55VnU3ZWJYS3NSOWtTRHRWTUlBelJwWlh6eU5mZWlOQ01WMlQ1S2JSUXpJSy1QczFuelJ6VzlBdW1oR1BueTkxQzNFSGhXOFIxTUZCcHR1eDZSRHVqd2l3THZaa1BUVXFJQVA2YUk?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-10-02T19:02:00Z",
-      "description": "Desde o início da invasão russa, as organizações de mulheres ucranianas no exterior desempenham um papel importante no apoio a Kiev. Mais de 100 ucranianas vindas de 23 países reuniram-se em Lisboa, Portugal, para uma conferência dedicada à reconstrução do país, à preservação da identidade e ao combate à desinformação.",
-      "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/970788980-whatsapp-image-2026-09-30-at-18-09-14.jpg",
-      "articleUrl": "https://www.terra.com.br/noticias/mundo/europa/ucrania-reunida-em-lisboa-a-diaspora-feminina-prepara-o-pos-guerra,6c5c0b9f3160125b57769139b72aa2a6212oadbh.html"
     },
     {
       "title": "Porta-aviões dos EUA a caminho do Médio Oriente numa escalada com o Irão - Portal Impala",
@@ -191,6 +173,15 @@
       "articleUrl": "https://areferencia.com/destaque-home-principal/como-migrantes-estao-atravessando-tuneis-sob-a-fronteira-de-belarus-com-a-uniao-europeia/"
     },
     {
+      "title": "Os Estados Unidos estão enviando mais navios de guerra e tropas para o Oriente Médio antes das eleições. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkVXY2JMT1JYNXJ6VXZoY3hEX2xhTEJyRmczb0t2bXdnWVg4eWhIbThyeml0Unp2ZFdEZGJMZTN1YW1RekY4aEFTVFROTjRQbFh3UUUwTUx0UzBVUk8zQ1I4WmQ5cVRfQ1I2XzFfaFJzOUFncVRYUVVYRXF6VlJxVTlwNlZrdjdZWUF1U25seTc1empv?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-02T13:08:51Z",
+      "description": "GD&TĐ - Os EUA estão enviando mais navios de guerra e tropas para o Oriente Médio em meio à consideração do presidente Donald Trump de retomar os ataques aéreos contra o Irã.",
+      "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/02/1790940909782_taumy-8150-jpg.webp",
+      "articleUrl": "https://www.vietnam.vn/pt/my-dieu-them-tau-chien-quan-doi-toi-trung-dong-truoc-them-bau-cu"
+    },
+    {
       "title": "Terceiro porta-aviões e milhares de soldados dos EUA a caminho do Médio Oriente - RTP",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcDQwb09TWDlraVc4Zy1qS041X1VKT0JOTThqSDVxS29MSW1QMkU0cDJCdXAxOEd4TzhvZFM2SGhETG5yQmlMR0tmVUMzWVBTYUczemFWckNEdm1PckVkRlJZX1FYZEJLaDRYeUZ3VE4yMDRjMjM3Vmd6aGxSLWJqMFhROGE3V1NkOHhoMlZXdUdUQVNUUkZGWkc5MGZ1WGpLY3h6cnhQWE15Rnowam9aVjJoRW5vRzg3MjhNSUsyNA?oc=5",
       "source": "RTP",
@@ -204,15 +195,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlRqZ2dubW13N3VzUzFORFdBNlg4WnZ0TzdZUEpmd09IdXp4WWJSbW1EMkNOR21DZ09ueTVQbTFUcFByeTVPQkV0TWhQN1hhQUhIc3ZQcnlUN0psN0dZdk1sc3MzNVNqcEFWOGIwYkhVbElUdFVlMlJ0aUtPSjRpWjFqUTkwREJ5WmNILW03RXRyeHRESDNGUXM1amY0R2F5aXNkSGR0NmVJZw?oc=5",
       "source": "Now Canal",
       "publishedAt": "2026-10-01T10:44:00Z",
-      "description": "Notícia publicada por Now Canal. Abra o artigo para consultar os detalhes completos.",
+      "description": "Relativamente à retirada militar norte-americana do Iraque após doze anos e ao anúncio de uma nova infraestrutura em solo dos Estados Unidos, Eduardo Baptista Correia considerou que «não se percebe a estratégia» da administração americana ao afastar-se da base mais próxima de Teerão.",
+      "image": "https://cdn.nowcanal.pt/images/2026-10/img_1280x721uu2026-10-01-12-43-34-64518.jpg",
+      "articleUrl": "https://www.nowcanal.pt/ultimas/detalhe/guerra-no-medio-oriente-teimosia-impera-tanto-num-lado-como-noutro"
+    },
+    {
+      "title": "Netanyahu: ainda é “cedo” para saber quem está por detrás de incidente em voo para Telavive - Público",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFZrZDJYQkkwcUROVFZadnktNGszbmRiOWtpUFhTU3VSVmZMRnFwREdBcVZHM3g3d0FGVHVRUVBqZE4xNUhINXBLdW9DNHpiVHF5X2xaZ3AwVlF0YWRFRVBRa0dxR0ZMUDFtMUlXOXFBR2VGeEFqZkVNaHcxaWo5alhpY3dmR3JzMzFNc2FmenYwWVNKZHhtbEpGMXEzOC1XUktDdUFzd2RGQnlTZFVSa1FEQjlCenV0ZzN3?oc=5",
+      "source": "Público",
+      "publishedAt": "2026-10-01T08:50:41Z",
+      "description": "Notícia publicada por Público. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     },
     {
-      "title": "Petróleo cai com liberação de reservas do G7 e Oriente Médio no radar - CNN Brasil",
+      "title": "Petróleo cai com liberação de reservas do G7 e Oriente Médio no radar - cnnbrasil.com.br",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGJMNHZhSTgyTjk4UkVHLWN5QVhhT2ZKLXdlRmRnNmZCX2JFV1JfMnY0QnYtRk05MWFMT3VkMDVxTXBxRkFYOGZ3ZFZua3dISmpwZWptV2xrQWlqMWd3SHdwbjVXNGd2OFRQUWpKQzM1SXVoeTA1MHFNemdYS0NvRk9waFpNMFBGYnFDVDdFVGFXWlRTQ1ZhZGZHVGloaVhxLUV2X2NsWnlseE0tZXJCT3U3WFJ0MUVYRExJSVczRQ?oc=5",
-      "source": "CNN Brasil",
+      "source": "cnnbrasil.com.br",
       "publishedAt": "2026-10-02T19:31:03Z",
-      "description": "Notícia publicada por CNN Brasil. Abra o artigo para consultar os detalhes completos.",
+      "description": "Notícia publicada por cnnbrasil.com.br. Abra o artigo para consultar os detalhes completos.",
       "image": ""
     }
   ]
