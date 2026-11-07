@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:28:17.135517Z",
+  "updatedAt": "2026-11-07T20:53:53.796471Z",
   "health": [
     {
       "title": "Seguro avisa que distribuição de medicamentos não pode falhar",
@@ -100,6 +100,54 @@
   ],
   "world": [
     {
+      "title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
+      "url": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T20:15:33Z",
+      "description": "Gadi Eisenkot, líder do bloco de oposição ao atual primeiro-ministro, Benjamin Netanyahu, foi o escolhido para tentar formar governo em Israel.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e09ed101cf7bc275c5d4024c3578c3b8?w=350&q=50&rect=0,0,1519,833&auto=format"
+    },
+    {
+      "title": "Polónia: tiroteio no centro histórico de Cracóvia faz pelo menos seis mortos",
+      "url": "https://pt.euronews.com/2026/11/07/polonia-tiroteio-no-centro-historico-de-cracovia-faz-pelo-menos-seis-mortos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-07T19:30:31Z",
+      "description": "Imagens UGC mostram pessoas a correr para se abrigarem enquanto decorre um tiroteio mortal em Cracóvia, Polónia, com pelo menos seis mortos e cerca de uma dúzia de feridos, segundo a polícia",
+      "image": "https://images.euronews.com/articles/stories/09/98/40/48/1200x675_cmsv2_3d2d649c-cc23-52fe-b4cd-22cfba09c3fc-9984048.jpg"
+    },
+    {
+      "title": "Estados Unidos oferecem até 20 milhões de dólares por informações sobre programa nuclear iraniano",
+      "url": "https://pt.euronews.com/2026/11/07/estados-unidos-oferecem-ate-20-milhoes-de-dolares-por-informacoes-sobre-programa-nuclear-i",
+      "source": "Euronews",
+      "publishedAt": "2026-11-07T17:45:29Z",
+      "description": "O Departamento de Estado dos EUA justificou a oferta da recompensa com a existência de “lacunas nas informações sobre as atividades nucleares iranianas”.",
+      "image": "https://images.euronews.com/articles/stories/09/98/36/13/1200x675_cmsv2_6fd7a36c-d9f2-5af9-9677-83e47bd76c59-9983613.jpg"
+    },
+    {
+      "title": "Notícias do dia | 7 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/07/noticias-do-dia-7-de-novembro-2026-noite",
+      "source": "Euronews",
+      "publishedAt": "2026-11-07T17:00:35Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 7 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/98/40/30/1200x675_cmsv2_b4319b31-84c6-5e11-a79a-42c9e71f3f5d-9984030.jpg"
+    },
+    {
+      "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França",
+      "url": "https://www.rtp.pt/noticias/mundo/confrontos-violentos-em-paris-em-mais-uma-tarde-de-manifestacoes-em-franca_n1777623",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T16:49:41Z",
+      "description": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd58cbd5841f59f5020d79897fd353a9?w=350&q=50&rect=0,0,1519,833&auto=format"
+    },
+    {
+      "title": "Polónia: tiroteio em Cracóvia faz seis mortos e quinze feridos",
+      "url": "https://pt.euronews.com/2026/11/07/polonia-tiroteio-em-cracovia-faz-cinco-mortos-e-varios-feridos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-07T15:34:57Z",
+      "description": "Balanço trágico do tiroteio na Praça do Mercado Principal, em Cracóvia: seis mortos e quinze feridos. A polícia informou que o autor foi detido.",
+      "image": "https://images.euronews.com/articles/stories/09/98/40/08/1200x675_cmsv2_a42a5e47-2be1-5d3d-b8b9-5a036945dcaf-9984008.jpg"
+    },
+    {
       "title": "Leão XIV no Uruguai fala de saúde e inclusão",
       "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-uruguai-fala-de-saude-e-inclusao_v1777593",
       "source": "RTP Notícias",
@@ -140,60 +188,12 @@
       "image": "https://images.euronews.com/articles/stories/09/98/37/53/1200x675_cmsv2_05ba9121-5516-5cfe-a6f0-f36fbfe3f1a2-9983753.jpg"
     },
     {
-      "title": "França: quarto sábado de protestos junta sindicatos e movimento coletes amarelos",
-      "url": "https://pt.euronews.com/2026/11/07/franca-quarto-sabado-de-protestos-junta-sindicatos-e-movimento-coletes-amarelos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T12:30:10Z",
-      "description": "Cerca de cem manifestações contra o custo de vida e em apoio à juventude estão marcadas para o quarto sábado consecutivo, dois dias antes de uma “conferência social” anunciada pelo primeiro-ministro Sébastien Lecornu.",
-      "image": "https://images.euronews.com/articles/stories/09/98/36/83/1200x675_cmsv2_00d9bff0-a881-5f99-851d-b56ceec49f3e-9983683.jpg"
-    },
-    {
-      "title": "Espanha: detido em Barcelona jihadista reincidente que quebrou medidas de vigilância",
-      "url": "https://pt.euronews.com/2026/11/07/espanha-detido-em-barcelona-jihadista-reincidente-que-quebrou-medidas-de-vigilancia",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T12:23:13Z",
-      "description": "Detido simpatizante do Daesh tinha sido condenado por enaltecimento e doutrinação terrorista e ficou em liberdade vigiada em 2021.",
-      "image": "https://images.euronews.com/articles/stories/09/98/38/41/1200x675_cmsv2_a03cf30a-b181-57ff-92b0-a9a617fe75fa-9983841.jpg"
-    },
-    {
-      "title": "União Europeia “deplora” condenação de ex-deputado e ativista pró-democracia português em Macau",
-      "url": "https://pt.euronews.com/2026/11/07/uniao-europeia-deplora-condenacao-de-ex-deputado-e-ativista-pro-democracia-portugues-em-ma",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T12:09:49Z",
-      "description": "A União Europeia lamentou a condenação de Au Kam San, cidadão português e ex-deputado em Macau, a 12 anos e seis meses de prisão num processo chinês por “prática de crimes contra a segurança do Estado”. Portugal também “repudiou” a decisão do tribunal através do Ministério dos Negócios Estrangeiros.",
-      "image": "https://images.euronews.com/articles/stories/09/98/38/68/1200x675_cmsv2_42d7b8b7-3506-5564-8bd3-27d25ff91761-9983868.jpg"
-    },
-    {
-      "title": "EUA lançam ataques cirúrgicos contra o Irão enquanto Trump afirma avanços nas conversações de paz",
-      "url": "https://pt.euronews.com/2026/11/07/estados-unidos-lancam-novos-ataques-no-sul-do-irao-e-dizem-avancar-em-negociacoes-com-o-ir",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T11:36:51Z",
-      "description": "Os EUA lançaram novos ataques aéreos contra sistemas de defesa iranianos, agitando o Golfo, mas Trump insiste que são “golpes menores” enquanto prosseguem intensos esforços diplomáticos para evitar uma guerra total.",
-      "image": "https://images.euronews.com/articles/stories/09/98/38/09/1200x675_cmsv2_9577bf6c-ec61-5266-8c6b-9dd85ee39dd2-9983809.jpg"
-    },
-    {
       "title": "Mais de 1.500 habitantes de Gaza pediram socorro após forte tempestade",
       "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/mais-de-1-500-habitantes-de-gaza-pediram-socorro-apos-forte-tempestade_n1777575",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-07T11:29:54Z",
       "description": "Mais de 1.500 pedidos de ajuda de habitantes de Gaza foram recebidos hoje pela defesa civil do enclave devido à forte tempestade que deixou tendas e abrigos inundados ou danificados, noticiou a imprensa internacional.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcaeb4068b2361c1aeb4fd03fd2b0472?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Extremistas mataram pelo menos 19 pessoas em dez dias em Cabo Delgado",
-      "url": "https://www.rtp.pt/noticias/mundo/extremistas-mataram-pelo-menos-19-pessoas-em-dez-dias-em-cabo-delgado_n1777560",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T08:14:06Z",
-      "description": "A organização ACLED relatou que extremistas associados ao Estado Islâmico Moçambique atacaram pelo menos sete localidades nos distritos de Mueda e Muidumbe, em Cabo Delgado, entre 21 e 31 de outubro, provocando pelo menos 19 mortos.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e045637e83d877642231894b8883f9a9?w=350&q=50&rect=0,0,795,436&auto=format"
-    },
-    {
-      "title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T08:11:57Z",
-      "description": "\"A situação do abastecimento energético da capital é extremamente difícil. Isto afeta o funcionamento dos sistemas de aquecimento e de abastecimento de água da cidade\", descreve no Telegram o presidente da câmara de Kiev, Vitali Klitschko.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/40/40f96d4933b6d07db340b84f310dd244?w=350&q=50&rect=0,0,1499,822&auto=format"
     }
   ]
 }
