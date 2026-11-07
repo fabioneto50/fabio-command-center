@@ -1,47 +1,64 @@
 from __future__ import annotations
 
+import argparse
 import html
 import json
+import os
 import re
 import sys
+import tempfile
+import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
-try:
-    from googlenewsdecoder import gnewsdecoder
-except Exception:
-    gnewsdecoder = None
-
 OUT = Path(__file__).resolve().parents[1] / "news-feed.json"
 UA = "Mozilla/5.0 (compatible; FabioCommandCenter/1.0; +https://github.com/fabioneto50/fabio-command-center)"
 MAX_ITEMS = 12
-ENRICH_ITEMS = 10
+MIN_ITEMS = 4
+MAX_FEED_AGE = timedelta(hours=48)
+MAX_ARTICLE_AGE = {"health": timedelta(days=7), "world": timedelta(days=4)}
 
-HEALTH_QUERY = "when:3d (saúde OR medicina OR hospital OR enfermagem OR OMS OR vacina OR doença OR medicamento)"
-WORLD_QUERY = "when:2d (Ucrânia OR Rússia OR Médio Oriente OR China OR Estados Unidos OR União Europeia OR NATO OR África OR Ásia OR guerra OR diplomacia)"
-HEALTH_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
-    {"q": HEALTH_QUERY, "hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"}
+# Direct publisher RSS feeds give stable article URLs; Google News decoding broke
+# in October 2026. The quota reserves room for more than one publisher.
+# (publisher, RSS URL, quota, filter by health terms)
+SOURCES = {
+    "health": (
+        ("HealthNews", "https://healthnews.pt/feed/", 8, False),
+        ("RTP Notícias", "https://www.rtp.pt/noticias/rss/pais", 4, True),
+        ("RTP Notícias", "https://www.rtp.pt/noticias/rss", 4, True),
+    ),
+    "world": (
+        ("RTP Notícias", "https://www.rtp.pt/noticias/rss/mundo", 6, False),
+        ("Euronews", "https://pt.euronews.com/rss?level=vertical&name=news", 6, False),
+    ),
+}
+HEALTH_TERMS = (
+    "saude", "hospital", "urgencia", "medic", "enfermag", "sns", "doent",
+    "vacina", "infecc", "farmac", "covid", "cancro", "ambul", "transplante",
+    "clinica", "cirurg", "tratamento", "doenca",
 )
-WORLD_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
-    {"q": WORLD_QUERY, "hl": "pt-PT", "gl": "PT", "ceid": "PT:pt-150"}
-)
+CONTENT_TAG = "{http://purl.org/rss/1.0/modules/content/}encoded"
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 
 
 class MetaParser(HTMLParser):
     def __init__(self) -> None:
         super().__init__()
         self.meta: dict[str, str] = {}
+        self.first_image = ""
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        data = {str(k).lower(): str(v or "") for k, v in attrs}
+        if tag.lower() == "img" and not self.first_image:
+            self.first_image = data.get("src") or data.get("data-src") or ""
         if tag.lower() != "meta":
             return
-        data = {str(k).lower(): str(v or "") for k, v in attrs}
         key = (data.get("property") or data.get("name") or "").lower()
         value = data.get("content", "").strip()
         if key and value and key not in self.meta:
@@ -53,8 +70,36 @@ def fetch_xml(url: str) -> ET.Element:
         url,
         headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"},
     )
-    with urllib.request.urlopen(req, timeout=20) as response:
-        return ET.fromstring(response.read())
+    with urllib.request.urlopen(req, timeout=15) as response:
+        return ET.fromstring(response.read(3_000_000))
+
+
+def safe_url(value: str, base: str = "") -> str:
+    value = html.unescape((value or "").strip())
+    if not value:
+        return ""
+    if base:
+        value = urllib.parse.urljoin(base, value)
+    try:
+        parts = urllib.parse.urlsplit(value)
+        return value if parts.scheme in ("http", "https") and parts.hostname else ""
+    except ValueError:
+        return ""
+
+
+def direct_url(value: str) -> str:
+    url = safe_url(value)
+    if not url:
+        return ""
+    parts = urllib.parse.urlsplit(url)
+    query = urllib.parse.parse_qsl(parts.query, keep_blank_values=True)
+    query = [(k, v) for k, v in query if not k.casefold().startswith("utm_")
+             and k.casefold() not in ("fbclid", "gclid")]
+    return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, urllib.parse.urlencode(query), ""))
+
+
+def parse_iso(value: str) -> datetime:
+    return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
 
 
 def iso_date(value: str) -> str:
@@ -85,51 +130,58 @@ def useful_description(value: str, title: str) -> str:
     return value
 
 
-def parse_feed(url: str) -> list[dict[str, str]]:
+def is_health_headline(title: str) -> bool:
+    normalized = unicodedata.normalize("NFD", title.casefold())
+    normalized = "".join(ch for ch in normalized if unicodedata.category(ch) != "Mn")
+    return any(term in normalized for term in HEALTH_TERMS)
+
+
+def image_from_rss(item: ET.Element, link: str, markup: str) -> str:
+    for tag in (f"{MEDIA_NS}thumbnail", f"{MEDIA_NS}content", "enclosure"):
+        for node in item.findall(tag):
+            if tag == "enclosure" and not node.get("type", "").startswith("image/"):
+                continue
+            image = safe_url(node.get("url", ""), link)
+            if image:
+                return image
+    parser = MetaParser()
+    parser.feed(markup)
+    return safe_url(parser.first_image, link)
+
+
+def parse_feed(url: str, publisher: str, kind: str, health_only: bool, now: datetime) -> list[dict[str, str]]:
     root = fetch_xml(url)
     rows: list[dict[str, str]] = []
     seen: set[str] = set()
     for item in root.findall("./channel/item"):
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
+        title = clean_text(item.findtext("title") or "", 240)
+        link = direct_url(item.findtext("link") or "")
         pub = (item.findtext("pubDate") or "").strip()
-        source_node = item.find("source")
-        source = ((source_node.text if source_node is not None else "") or "Google News").strip()
-        if not title or not link:
+        published = iso_date(pub)
+        if not title or not link or not published or (health_only and not is_health_headline(title)):
             continue
-        key = title.casefold()
-        if key in seen:
+        if "news.google.com" in urllib.parse.urlsplit(link).hostname.lower():
             continue
-        seen.add(key)
+        posted = parse_iso(published)
+        if posted < now - MAX_ARTICLE_AGE[kind] or posted > now + timedelta(minutes=30):
+            continue
+        if link in seen:
+            continue
+        seen.add(link)
+        description_html = item.findtext("description") or ""
+        full_html = item.findtext(CONTENT_TAG) or ""
         rows.append(
             {
                 "title": title,
                 "url": link,
-                "source": source,
-                "publishedAt": iso_date(pub),
-                "description": "",
-                "image": "",
+                "source": publisher,
+                "publishedAt": published,
+                "description": useful_description(description_html or full_html, title)
+                               or f"Notícia de {publisher}. Consulte o artigo na fonte original.",
+                "image": image_from_rss(item, link, description_html + " " + full_html),
             }
         )
-        if len(rows) >= MAX_ITEMS:
-            break
     return rows
-
-
-def resolve_source_url(url: str) -> str:
-    if "news.google.com" not in urllib.parse.urlparse(url).netloc:
-        return url
-    if gnewsdecoder is None:
-        return url
-    try:
-        result = gnewsdecoder(url, interval=0)
-        if isinstance(result, dict) and result.get("status") and result.get("decoded_url"):
-            decoded = str(result["decoded_url"]).strip()
-            if decoded.startswith(("http://", "https://")):
-                return decoded
-    except Exception:
-        pass
-    return url
 
 
 def fetch_article_metadata(article_url: str, title: str) -> tuple[str, str]:
@@ -168,65 +220,131 @@ def fetch_article_metadata(article_url: str, title: str) -> tuple[str, str]:
 
 def enrich(row: dict[str, str]) -> dict[str, str]:
     out = dict(row)
-    source_url = resolve_source_url(row["url"])
-    if source_url != row["url"]:
-        out["articleUrl"] = source_url
+    if out.get("image"):
+        return out
     try:
-        image, description = fetch_article_metadata(source_url, row["title"])
+        image, description = fetch_article_metadata(row["url"], row["title"])
         if image:
             out["image"] = image
-        if description:
+        if description and out["description"].startswith("Notícia de "):
             out["description"] = description
     except Exception:
         pass
-    if not out.get("description"):
-        out["description"] = f"Notícia publicada por {out.get('source') or 'a fonte original'}. Abra o artigo para consultar os detalhes completos."
     return out
 
 
 def enrich_group(rows: list[dict[str, str]]) -> list[dict[str, str]]:
-    first = rows[:ENRICH_ITEMS]
-    results: list[dict[str, str] | None] = [None] * len(first)
-    with ThreadPoolExecutor(max_workers=4) as pool:
-        futures = {pool.submit(enrich, row): i for i, row in enumerate(first)}
+    results: list[dict[str, str] | None] = [None] * len(rows)
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = {pool.submit(enrich, row): i for i, row in enumerate(rows)}
         for future in as_completed(futures):
             index = futures[future]
             try:
                 results[index] = future.result()
             except Exception:
-                results[index] = first[index]
-    enriched = [row or first[i] for i, row in enumerate(results)]
-    for row in rows[ENRICH_ITEMS:]:
-        copy = dict(row)
-        copy["description"] = f"Notícia publicada por {copy.get('source') or 'a fonte original'}. Abra o artigo para consultar os detalhes completos."
-        enriched.append(copy)
-    return enriched
+                results[index] = rows[index]
+    return [row or rows[i] for i, row in enumerate(results)]
+
+
+def collect_group(kind: str, now: datetime) -> list[dict[str, str]]:
+    definitions = SOURCES[kind]
+    by_source: dict[str, list[dict[str, str]]] = {}
+    with ThreadPoolExecutor(max_workers=len(definitions)) as pool:
+        futures = {pool.submit(parse_feed, url, publisher, kind, health_only, now): url
+                   for publisher, url, _, health_only in definitions}
+        for future in as_completed(futures):
+            url = futures[future]
+            try:
+                by_source[url] = future.result()
+                print(f"{kind}: {url} -> {len(by_source[url])} recent articles")
+            except Exception as exc:
+                by_source[url] = []
+                print(f"WARN {kind}: {url} unavailable: {exc}", file=sys.stderr)
+
+    selected: list[dict[str, str]] = []
+    seen: set[str] = set()
+
+    def add(row: dict[str, str]) -> None:
+        if len(selected) < MAX_ITEMS and row["url"] not in seen:
+            selected.append(row)
+            seen.add(row["url"])
+
+    # First give each publisher a place; then fill unused slots with fresh items.
+    for _, url, quota, _ in definitions:
+        for row in by_source[url][:quota]:
+            add(row)
+    remaining = sorted((row for rows in by_source.values() for row in rows),
+                       key=lambda row: row["publishedAt"], reverse=True)
+    for row in remaining:
+        add(row)
+    selected.sort(key=lambda row: row["publishedAt"], reverse=True)
+    return enrich_group(selected)
+
+
+def validate_data(data: dict, now: datetime | None = None) -> None:
+    now = now or datetime.now(timezone.utc)
+    updated = parse_iso(data["updatedAt"])
+    if updated < now - MAX_FEED_AGE or updated > now + timedelta(minutes=30):
+        raise ValueError(f"Feed timestamp is stale or in the future: {data['updatedAt']}")
+    for kind in ("health", "world"):
+        rows = data.get(kind)
+        if not isinstance(rows, list) or len(rows) < MIN_ITEMS:
+            raise ValueError(f"{kind}: fewer than {MIN_ITEMS} articles")
+        seen: set[str] = set()
+        for row in rows:
+            url = safe_url(row.get("url", ""))
+            if not url or "news.google.com" in urllib.parse.urlsplit(url).hostname.lower():
+                raise ValueError(f"{kind}: invalid or unresolved article URL")
+            if url in seen or not row.get("title") or not row.get("source") or not row.get("description"):
+                raise ValueError(f"{kind}: duplicate article or missing fields")
+            seen.add(url)
+            published = parse_iso(row["publishedAt"])
+            if published < now - MAX_ARTICLE_AGE[kind] or published > now + timedelta(minutes=30):
+                raise ValueError(f"{kind}: article outside freshness window")
+            if row.get("image") and not safe_url(row["image"]):
+                raise ValueError(f"{kind}: invalid image URL")
+        images = sum(bool(row.get("image")) for row in rows)
+        print(f"{kind}: direct_urls={len(rows)} images={images}")
+        if images < 2:
+            print(f"WARN {kind}: fewer than two editorial images; text is still valid", file=sys.stderr)
+
+
+def write_atomically(data: dict) -> None:
+    filename = ""
+    try:
+        with tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=OUT.parent,
+                                         prefix=".news-feed-", suffix=".tmp", delete=False) as handle:
+            filename = handle.name
+            json.dump(data, handle, ensure_ascii=False, indent=2)
+            handle.write("\n")
+        os.replace(filename, OUT)
+    finally:
+        if filename and os.path.exists(filename):
+            os.unlink(filename)
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Update or validate the Home news feed")
+    parser.add_argument("--validate", action="store_true", help="Only validate the existing news-feed.json")
+    args = parser.parse_args()
     try:
-        health = enrich_group(parse_feed(HEALTH_URL))
-        world = enrich_group(parse_feed(WORLD_URL))
-    except Exception as exc:
-        print(f"News fetch failed; keeping existing feed: {exc}", file=sys.stderr)
+        if args.validate:
+            validate_data(json.loads(OUT.read_text(encoding="utf-8")))
+            print("News feed validation: PASS")
+            return 0
+        now = datetime.now(timezone.utc)
+        payload = {
+            "updatedAt": now.isoformat().replace("+00:00", "Z"),
+            "health": collect_group("health", now),
+            "world": collect_group("world", now),
+        }
+        validate_data(payload, now)
+        write_atomically(payload)
+        print(f"Updated {OUT.name} at {payload['updatedAt']}")
         return 0
-
-    if len(health) < 4 or len(world) < 4:
-        print(f"Feed incomplete (health={len(health)}, world={len(world)}); keeping existing feed", file=sys.stderr)
-        return 0
-
-    payload = {
-        "updatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "health": health,
-        "world": world,
-    }
-    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(
-        f"Updated {OUT.name}: health={len(health)} world={len(world)} "
-        f"resolved={sum(bool(x.get('articleUrl')) for x in health)+sum(bool(x.get('articleUrl')) for x in world)} "
-        f"images={sum(bool(x.get('image')) for x in health)+sum(bool(x.get('image')) for x in world)}"
-    )
-    return 0
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        print(f"ERROR News refresh failed; existing feed preserved: {exc}", file=sys.stderr)
+        return 1
 
 
 if __name__ == "__main__":
