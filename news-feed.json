@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-07T13:03:44.729243Z",
+  "updatedAt": "2026-11-07T16:28:17.135517Z",
   "health": [
+    {
+      "title": "Seguro avisa que distribuição de medicamentos não pode falhar",
+      "url": "https://www.rtp.pt/noticias/pais/seguro-avisa-que-distribuicao-de-medicamentos-nao-pode-falhar_v1777601",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T14:12:47Z",
+      "description": "O presidente da República esteve em Coimbra na homenagem ao farmacêutico Miguel Silvestre.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/51/514112bda8db1d70e4c30e5bfd03b3da.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Novo caso de morte sob suspeita no Hospital de Portimão",
+      "url": "https://www.rtp.pt/noticias/pais/novo-caso-de-morte-sob-suspeita-no-hospital-de-portimao_v1777584",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T13:22:47Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
     {
       "title": "Autarca afirma que mortes de utentes em espera no Hospital de Portimão são graves",
       "url": "https://www.rtp.pt/noticias/pais/autarca-afirma-que-mortes-de-utentes-em-espera-no-hospital-de-portimao-sao-graves_n1777570",
@@ -10,11 +26,27 @@
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b57367a43ad79caa5b4c68275383c810?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
+      "title": "Menopausa: especialistas reclamam resposta uniforme no SNS",
+      "url": "https://healthnews.pt/2026/11/07/menopausa-especialistas-reclamam-resposta-uniforme-no-sns/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-07T09:45:18Z",
+      "description": "Médicos e associações ligados à saúde das mulheres reclamam uma resposta mais integrada do Serviço Nacional de Saúde (SNS) à perimenopausa e à menopausa, com acesso uniforme a acompanhamento especializado, melhor articulação entre cuidados primários e hospitais e menos barreiras económicas aos tratamentos. O Ministério da Saúde assegura que existem respostas assistenciais e…",
+      "image": ""
+    },
+    {
       "title": "Doze anos após surto de legionella, vítimas relatam sequelas e aguardam indemnizações",
       "url": "https://healthnews.pt/2026/11/07/doze-anos-apos-surto-de-legionella-vitimas-relatam-sequelas-e-aguardam-indemnizacoes/",
       "source": "HealthNews",
       "publishedAt": "2026-11-07T09:35:46Z",
       "description": "Doze anos depois do surto de legionella em Vila Franca de Xira, há vítimas que continuam a relatar limitações respiratórias, cansaço e dificuldades nas atividades quotidianas, enquanto aguardam indemnizações. A Associação de Apoio às Vítimas da Legionella (AAVL) mantém uma ação popular contra o Estado português, pendente no Tribunal Administrativo de Lisboa.",
+      "image": ""
+    },
+    {
+      "title": "Mortes na urgência de Portimão levam autarca a exigir medidas urgentes",
+      "url": "https://healthnews.pt/2026/11/07/mortes-na-urgencia-de-portimao-levam-autarca-a-exigir-medidas-urgentes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-07T09:30:35Z",
+      "description": "O presidente da Câmara de Portimão, Álvaro Bila, classificou este sábado como de “extrema gravidade” os casos de dois utentes que morreram no Hospital de Portimão, alegadamente enquanto aguardavam observação médica, e exigiu medidas urgentes para garantir o funcionamento da unidade e a segurança dos doentes.",
       "image": ""
     },
     {
@@ -58,47 +90,39 @@
       "image": ""
     },
     {
-      "title": "PCP quer integrar internato na carreira médica e apoiar regresso ao SNS",
-      "url": "https://healthnews.pt/2026/11/07/pcp-quer-integrar-internato-na-carreira-medica-e-apoiar-regresso-ao-sns/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T07:00:23Z",
-      "description": "O PCP propôs esta sexta-feira, 6 de novembro, a criação de um programa de regresso de profissionais ao Serviço Nacional de Saúde (SNS) e a integração do internato médico na carreira médica, no âmbito das propostas de alteração ao Orçamento do Estado para 2027. O conjunto de medidas inclui também a reposição das pensões de reformados da Caixa Geral de Aposentações (CGA)…",
-      "image": ""
-    },
-    {
-      "title": "Álcool e drogas na condução entre as prioridades da Visão Zero 2030",
-      "url": "https://healthnews.pt/2026/11/07/alcool-e-drogas-na-conducao-entre-as-prioridades-da-visao-zero-2030/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T06:47:30Z",
-      "description": "Reduzir para metade as mortes e os feridos graves nas estradas até 2030 é a meta da Estratégia Nacional de Segurança Rodoviária aprovada pelo Governo, que aposta na prevenção da condução sob o efeito de álcool e substâncias psicotrópicas, na gestão da velocidade e na resposta às vítimas de acidentes.",
-      "image": ""
-    },
-    {
       "title": "Urgências de Portimão. Idoso morre depois de esperar mais de 11 horas",
       "url": "https://www.rtp.pt/noticias/pais/urgencias-de-portimao-idoso-morre-depois-de-esperar-mais-de-11-horas_v1777230",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-05T20:51:47Z",
       "description": "A Inspeção Geral das Atividades em Saúde abriu um inquérito à morte do idoso que esperou mais de 11 horas para ser observado por um médico na urgência do hospital de Portimão. O diretor das urgências já foi afastado.",
       "image": "https://cdn-images.rtp.pt/icm/images/ce/cee5b1fd924644da1079930f3a1961ff_N.jpg?"
-    },
-    {
-      "title": "Utentes reclamam por cuidados de saúde",
-      "url": "https://www.rtp.pt/noticias/pais/utentes-reclamam-por-cuidados-de-saude_v1777146",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-05T13:56:47Z",
-      "description": "Um estudo da Ordem dos Médicos mostra que três em cada 10 portugueses dizem que não recebem cuidados de saúde no tempo adequado.",
-      "image": "https://cdn-images.rtp.pt/icm/images/0c/0c65d7421afaaa41c8dbb102b7dbd8da_N.jpg?"
-    },
-    {
-      "title": "Idoso morre nas Urgências após 11 horas de espera",
-      "url": "https://www.rtp.pt/noticias/pais/idoso-morre-nas-urgencias-apos-11-horas-de-espera_v1777132",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-05T13:38:52Z",
-      "description": "O caso aconteceu nas Urgências do Hospital de Portimão.",
-      "image": "https://cdn-images.rtp.pt/icm/images/50/50f88b84c807770ea77c040fb001643e_N.jpg?"
     }
   ],
   "world": [
+    {
+      "title": "Leão XIV no Uruguai fala de saúde e inclusão",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-uruguai-fala-de-saude-e-inclusao_v1777593",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T13:55:47Z",
+      "description": "Três semanas depois da cirurgia ao cancro no pulmão, o Papa Leão XIV diz que está em \"muito boa forma\". Palavras ditas na viagem para o Uruguai, onde cumpre este sábado o segundo de três dias de visita.",
+      "image": "https://cdn-images.rtp.pt/icm/images/22/22209e014b9b2cde32576bc0b925227a_N.jpg?"
+    },
+    {
+      "title": "Senado do Paraguai destituiu presidente Santiago Peña",
+      "url": "https://www.rtp.pt/noticias/mundo/senado-do-paraguai-destituiu-presidente-santiago-pena_v1777592",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T13:53:47Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Mais um sábado de protestos em França",
+      "url": "https://www.rtp.pt/noticias/mundo/mais-um-sabado-de-protestos-em-franca_v1777590",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T13:39:47Z",
+      "description": "Estão mobilizados 70 mil agentes das forças de segurança.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e27cf81026f870cd82ce66bfa9debe21.jpg?w=350&q=50&auto=format"
+    },
     {
       "title": "Nova Zelândia apura votos em eleição renhida centrada no custo de vida",
       "url": "https://pt.euronews.com/2026/11/07/nova-zelandia-apura-votos-em-eleicao-renhida-centrada-no-custo-de-vida",
@@ -165,35 +189,11 @@
     },
     {
       "title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
-      "url": "https://www.rtp.pt/noticias/mundo/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-07T08:11:57Z",
       "description": "\"A situação do abastecimento energético da capital é extremamente difícil. Isto afeta o funcionamento dos sistemas de aquecimento e de abastecimento de água da cidade\", descreve no Telegram o presidente da câmara de Kiev, Vitali Klitschko.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/40/40f96d4933b6d07db340b84f310dd244?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Ex-presidente de Banco Central do Paraguai entrega-se no âmbito do caso Ueno Bank",
-      "url": "https://www.rtp.pt/noticias/mundo/ex-presidente-de-banco-central-do-paraguai-entrega-se-no-ambito-do-caso-ueno-bank_n1777557",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T08:09:48Z",
-      "description": "O ex-presidente do banco central paraguaio Carlos Carvallo entregou-se às autoridades, após emissão de um mandado de detenção no âmbito do escândalo relativo ao encerramento do Ueno Bank, que levou à destituição do presidente Santiago Peña.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf1993ab72ecc4123d0214e708e37d17?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Forças Armadas do Irão declaram-se \"mais poderosas\" do que \"no início da guerra\"",
-      "url": "https://www.rtp.pt/noticias/mundo/forcas-armadas-do-irao-declaram-se-mais-poderosas-do-que-no-inicio-da-guerra_n1777555",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T08:07:54Z",
-      "description": "A via das negociações parece ter acelerado nos últimos dias, embora o presidente dos Estados Unidos mantenha em aberto o cenário de novos bombardeamentos sobre o Irão.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b341c551573033ae71e1ef272bb0002?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Macau expressa \"forte oposição\" a críticas internacionais à condenação de Au Kam San",
-      "url": "https://www.rtp.pt/noticias/mundo/macau-expressa-forte-oposicao-a-criticas-internacionais-a-condenacao-de-au-kam-san_n1777554",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T08:06:38Z",
-      "description": "O Governo de Macau manifestou hoje \"forte oposição\" às críticas de entidades internacionais, incluindo as Nações Unidas e a União Europeia, à condenação do ex-deputado pró-democracia Au Kam San a 12 anos e meio de prisão.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/92/929a2d2d92cf8ff60bebe74a3c3d7e90?w=350&q=50&rect=0,0,669,367&auto=format"
     }
   ]
 }
