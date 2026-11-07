@@ -13,7 +13,8 @@ concurrency:
   cancel-in-progress: true
 jobs:
   verify:
-    runs-on: ubuntu-latest
+    # Playwright 1.55 does not support the new ubuntu-26.04 runner image.
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     defaults:
       run: {shell: bash}
@@ -114,7 +115,7 @@ jobs:
   live-audit:
     needs: [verify, deploy]
     if: ${{ !cancelled() && github.ref == 'refs/heads/main' && needs.verify.result == 'success' && (needs.deploy.result == 'success' || needs.deploy.result == 'skipped') }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
