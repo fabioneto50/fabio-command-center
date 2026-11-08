@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-08T19:43:22.745021Z",
+  "updatedAt": "2026-11-08T23:44:01.155407Z",
   "health": [
+    {
+      "title": "Hospital de Portimão. ULS Algarve nega falta de assistência e transporte de criança",
+      "url": "https://www.rtp.pt/noticias/pais/hospital-de-portimao-uls-algarve-nega-falta-de-assistencia-e-transporte-de-crianca_v1777770",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T20:50:47Z",
+      "description": "Uma criança de dois anos morreu no hospital de Faro. O líder do PS diz que poderá ter sido a falta de assistência a contribuir para a morte.",
+      "image": "https://cdn-images.rtp.pt/icm/images/57/576e44ec489368795a930b7d65870e08_N.jpg?"
+    },
     {
       "title": "Urgências de Portimão. Enfermeiros falam em anarquia funcional",
       "url": "https://www.rtp.pt/noticias/pais/urgencias-de-portimao-enfermeiros-falam-em-anarquia-funcional_v1777667",
@@ -24,14 +32,6 @@
       "publishedAt": "2026-11-07T13:22:47Z",
       "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Autarca afirma que mortes de utentes em espera no Hospital de Portimão são graves",
-      "url": "https://www.rtp.pt/noticias/pais/autarca-afirma-que-mortes-de-utentes-em-espera-no-hospital-de-portimao-sao-graves_n1777570",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T09:51:59Z",
-      "description": "O presidente da Câmara de Portimão, Álvaro Bila, afirmou hoje que os casos de alegadas mortes por falta de atendimento no Hospital da cidade são de \"extrema gravidade\" e exigem \"medidas urgentes\" para garantir o seu normal funcionamento.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b57367a43ad79caa5b4c68275383c810?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
       "title": "Menopausa: especialistas reclamam resposta uniforme no SNS",
@@ -100,6 +100,38 @@
   ],
   "world": [
     {
+      "title": "Países Baixos: milhares marcham em Amesterdão contra ofensiva israelita em Gaza",
+      "url": "https://pt.euronews.com/video/2026/11/08/paises-baixos-milhares-marcham-em-amesterdao-contra-ofensiva-israelita-em-gaza",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T22:19:58Z",
+      "description": "Dezenas de milhares de pessoas, muitas vestidas de vermelho, marcharam este domingo, 8 de novembro, em Amesterdão, exigindo que o governo neerlandês adote uma posição mais firme contra Israel devido à guerra em Gaza.",
+      "image": "https://images.euronews.com/articles/stories/09/98/48/03/1200x675_cmsv2_9a69df69-3eec-5b67-b82d-8af349f9de5b-9984803.jpg"
+    },
+    {
+      "title": "Polónia: reabre local do tiroteio em Kraków e população lembra vítimas",
+      "url": "https://pt.euronews.com/video/2026/11/08/polonia-reabre-local-do-tiroteio-em-krakow-e-populacao-lembra-vitimas",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T22:07:23Z",
+      "description": "A histórica praça principal de Cracóvia, no sul da Polónia, reabriu ao público domingo, 8 de novembro, pouco mais de 24 horas após um tiroteio mortal que fez seis mortos e 15 feridos. Moradores acendem velas pelas vítimas, com marcas de balas ainda visíveis nas janelas dos cafés.",
+      "image": "https://images.euronews.com/articles/stories/09/98/47/90/1200x675_cmsv2_c549268d-71f1-5d33-a3af-0093bbcd72d3-9984790.jpg"
+    },
+    {
+      "title": "Cimeira do clima da ONU arranca esta segunda-feira na Turquia",
+      "url": "https://www.rtp.pt/noticias/mundo/cimeira-do-clima-da-onu-arranca-esta-segunda-feira-na-turquia_v1777776",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T21:17:47Z",
+      "description": "A COP31 decorre até dia 20 de novembro em Antália, o principal polo turístico do país.",
+      "image": "https://cdn-images.rtp.pt/icm/images/a4/a4f5af84aa2e9834fb3893ac48d9dfe2_N.jpg?"
+    },
+    {
+      "title": "Ucrânia: ataques russos deixam 850 mil sem energia e Zelenskyy denuncia drones em Komyshuvakha",
+      "url": "https://pt.euronews.com/2026/11/08/ucrania-ataques-russos-deixam-850-mil-sem-energia-e-zelenskyy-denuncia-drones-em-komyshuva",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T20:05:49Z",
+      "description": "Zelenskyy afirmou que a Rússia tinha lançado um ataque com drones contra o local de um recente ataque em Komyshuvakha, onde as equipas de socorro têm vindo a realizar operações de busca na sequência de um bombardeamento que matou pelo menos 55 pessoas na segunda-feira.",
+      "image": "https://images.euronews.com/articles/stories/09/98/45/99/1200x675_cmsv2_c4340459-d45c-58f4-a31c-14960d309ad9-9984599.jpg"
+    },
+    {
       "title": "Depressão Bruna: continente sob aviso amarelo e vários desalojados na Madeira",
       "url": "https://pt.euronews.com/2026/11/08/depressao-bruna-continente-sob-aviso-amarelo-e-varios-desalojados-na-madeira",
       "source": "Euronews",
@@ -140,30 +172,6 @@
       "image": "https://images.euronews.com/articles/stories/09/98/47/56/1200x675_cmsv2_f5c1cca0-878c-5c15-80ab-81423ac64ba7-9984756.jpg"
     },
     {
-      "title": "Polónia: arranca campanha em Cracóvia para apoiar polícias feridos",
-      "url": "https://pt.euronews.com/2026/11/08/polonia-arranca-campanha-em-cracovia-para-apoiar-policias-feridos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T16:58:25Z",
-      "description": "Após os acontecimentos dramáticos no centro de Cracóvia, arrancou uma angariação de fundos para os polícias feridos, que já ultrapassou vários milhões de zlotys graças a forte mobilização pública.",
-      "image": "https://images.euronews.com/articles/stories/09/98/45/22/1200x675_cmsv2_3a58dbed-c34e-58cb-a65c-5de988c1834f-9984522.jpg"
-    },
-    {
-      "title": "Egipto: colisão de dois comboios a sul do Cairo faz 4 mortos e 88 feridos",
-      "url": "https://pt.euronews.com/2026/11/08/egipto-colisao-de-dois-comboios-a-sul-do-cairo-faz-4-mortos-e-88-feridos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T16:51:59Z",
-      "description": "Acidente a cerca de 52 quilómetros a sul do Cairo: um comboio embateu na traseira de outro e um deles descarrilou. O presidente egípcio Abdelfatah al-Sisi ordenou uma investigação sobre as causas e responsabilidades.",
-      "image": "https://images.euronews.com/articles/stories/09/98/46/87/1200x675_cmsv2_52ff1a40-6443-565e-803b-c7f98a0a526b-9984687.jpg"
-    },
-    {
-      "title": "Argentina e Uruguai: Papa apela ao orgulho cristão e lamenta vítimas de Cracóvia",
-      "url": "https://pt.euronews.com/2026/11/08/argentina-e-uruguai-papa-apela-ao-orgulho-cristao-e-lamenta-vitimas-de-cracovia",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T16:50:24Z",
-      "description": "Conclui no Uruguai a primeira etapa da viagem apostólica, apelando aos fiéis para viverem a fé com coragem e aos governantes para trabalharem pelo bem comum, antes da chegada à Argentina, num contexto de polémicas anti-Milei.",
-      "image": "https://images.euronews.com/articles/stories/09/98/46/91/1200x675_cmsv2_60b55f0c-aad4-5631-84d5-d57556a3e8e8-9984691.jpg"
-    },
-    {
       "title": "Egito. Pelo menos sete mortos e 112 feridos em colisão de comboios a sul do Cairo",
       "url": "https://www.rtp.pt/noticias/mundo/egito-pelo-menos-sete-mortos-e-112-feridos-em-colisao-de-comboios-a-sul-do-cairo_n1777741",
       "source": "RTP Notícias",
@@ -186,14 +194,6 @@
       "publishedAt": "2026-11-08T14:07:47Z",
       "description": "A terminar a visita ao Uruguai, Leão XIV alerta para os riscos da indiferença religiosa.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c0b6b186776029ff67a8f4f459dcde06?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "COP31. Guterres reitera que este é o momento de agir",
-      "url": "https://www.rtp.pt/noticias/mundo/cop31-guterres-reitera-que-este-e-o-momento-de-agir_v1777721",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T13:50:47Z",
-      "description": "Começa esta segunda-feira, na Turquia, mais uma conferência do clima das Nações Unidas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/af/afdae04b4be2455f8eae523acacbaf62?w=350&q=50&rect=0,135,1236,678&auto=format"
     }
   ]
 }
