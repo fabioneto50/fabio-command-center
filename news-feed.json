@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T00:38:08.249512Z",
+  "updatedAt": "2026-11-08T07:23:29.433433Z",
   "health": [
     {
       "title": "Urgências de Portimão. Enfermeiros falam em anarquia funcional",
@@ -100,6 +100,22 @@
   ],
   "world": [
     {
+      "title": "Trump oferece cargo de porta-voz da Casa Branca ao chefe da UFC Dana White",
+      "url": "https://pt.euronews.com/2026/11/08/trump-oferece-cargo-de-porta-voz-da-casa-branca-ao-chefe-da-ufc-dana-white",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T07:16:47Z",
+      "description": "Trump e White construíram uma relação próxima ao longo dos anos. O presidente tem sido presença assídua em eventos da UFC e White tem falado em vários comícios do republicano radical.",
+      "image": "https://images.euronews.com/articles/stories/09/98/42/01/1200x675_cmsv2_804566ff-b7ff-5188-abbd-75162850856b-9984201.jpg"
+    },
+    {
+      "title": "Notícias do dia | 8 de novembro 2026 - Manhã",
+      "url": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-manha",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T06:00:19Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 8 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/98/42/08/1200x675_cmsv2_893925bc-c291-5cac-be3e-b9d92753e514-9984208.jpg"
+    },
+    {
       "title": "Stephen Miller é o novo Chefe de Gabinete do presidente Trump",
       "url": "https://www.rtp.pt/noticias/mundo/stephen-miller-e-o-novo-chefe-de-gabinete-do-presidente-trump_v1777670",
       "source": "RTP Notícias",
@@ -172,28 +188,12 @@
       "image": "https://images.euronews.com/articles/stories/09/98/36/13/1200x675_cmsv2_6fd7a36c-d9f2-5af9-9677-83e47bd76c59-9983613.jpg"
     },
     {
-      "title": "Notícias do dia | 7 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/07/noticias-do-dia-7-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 7 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/98/40/30/1200x675_cmsv2_b4319b31-84c6-5e11-a79a-42c9e71f3f5d-9984030.jpg"
-    },
-    {
       "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França",
       "url": "https://www.rtp.pt/noticias/mundo/confrontos-violentos-em-paris-em-mais-uma-tarde-de-manifestacoes-em-franca_n1777623",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-07T16:49:41Z",
       "description": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd58cbd5841f59f5020d79897fd353a9?w=350&q=50&rect=0,0,1519,833&auto=format"
-    },
-    {
-      "title": "Polónia: tiroteio em Cracóvia faz seis mortos e quinze feridos",
-      "url": "https://pt.euronews.com/2026/11/07/polonia-tiroteio-em-cracovia-faz-cinco-mortos-e-varios-feridos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T15:34:57Z",
-      "description": "Balanço trágico do tiroteio na Praça do Mercado Principal, em Cracóvia: seis mortos e quinze feridos. A polícia informou que o autor foi detido.",
-      "image": "https://images.euronews.com/articles/stories/09/98/40/08/1200x675_cmsv2_a42a5e47-2be1-5d3d-b8b9-5a036945dcaf-9984008.jpg"
     }
   ]
 }
