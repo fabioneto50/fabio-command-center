@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:23:29.433433Z",
+  "updatedAt": "2026-11-08T15:13:54.008937Z",
   "health": [
     {
       "title": "Urgências de Portimão. Enfermeiros falam em anarquia funcional",
@@ -7,7 +7,7 @@
       "source": "RTP Notícias",
       "publishedAt": "2026-11-07T22:34:47Z",
       "description": "Um homem morreu depois de ter estado cerca de 24 horas sem observação médica no hospital de Portimão.",
-      "image": "https://cdn-images.rtp.pt/icm/images/bc/bc907bccf4977b5e7013ceba069b152c_N.jpg?"
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/91/91278c28cbc2b6710328c5e582c3ffb5?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
       "title": "Seguro avisa que distribuição de medicamentos não pode falhar",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
-      "title": "Trump oferece cargo de porta-voz da Casa Branca ao chefe da UFC Dana White",
-      "url": "https://pt.euronews.com/2026/11/08/trump-oferece-cargo-de-porta-voz-da-casa-branca-ao-chefe-da-ufc-dana-white",
+      "title": "Palestiniano ergue abrigo de madeira e barro para a sua família depois de perder a casa na guerra em Gaza",
+      "url": "https://pt.euronews.com/2026/11/08/palestiniano-ergue-abrigo-de-madeira-e-barro-para-a-sua-familia-depois-de-perder-a-casa-na",
       "source": "Euronews",
-      "publishedAt": "2026-11-08T07:16:47Z",
-      "description": "Trump e White construíram uma relação próxima ao longo dos anos. O presidente tem sido presença assídua em eventos da UFC e White tem falado em vários comícios do republicano radical.",
-      "image": "https://images.euronews.com/articles/stories/09/98/42/01/1200x675_cmsv2_804566ff-b7ff-5188-abbd-75162850856b-9984201.jpg"
+      "publishedAt": "2026-11-08T14:28:52Z",
+      "description": "Hamid descreveu a remoção dos escombros como “difícil”, porque a casa guarda memórias ligadas à sua infância e à vida antes da guerra.",
+      "image": "https://images.euronews.com/articles/stories/09/98/11/97/1200x675_cmsv2_571c68c4-993c-5ae6-adfa-2061cfb7d168-9981197.jpg"
     },
     {
-      "title": "Notícias do dia | 8 de novembro 2026 - Manhã",
-      "url": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-manha",
+      "title": "Leão XIV adverte contra indiferença religiosa",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-adverte-contra-indiferenca-religiosa_v1777725",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T14:07:47Z",
+      "description": "A terminar a visita ao Uruguai, Leão XIV alerta para os riscos da indiferença religiosa.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c0b6b186776029ff67a8f4f459dcde06?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "COP31. Guterres reitera que este é o momento de agir",
+      "url": "https://www.rtp.pt/noticias/mundo/cop31-guterres-reitera-que-este-e-o-momento-de-agir_v1777721",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T13:50:47Z",
+      "description": "Começa esta segunda-feira, na Turquia, mais uma conferência do clima das Nações Unidas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/af/afdae04b4be2455f8eae523acacbaf62?w=350&q=50&rect=0,135,1236,678&auto=format"
+    },
+    {
+      "title": "Entrevista a Yulia Navalnaya. \"Estamos com dificuldades mas existimos\"",
+      "url": "https://www.rtp.pt/noticias/mundo/entrevista-a-yulia-navalnaya-estamos-com-dificuldades-mas-existimos_v1777720",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T13:46:47Z",
+      "description": "A viúva do opositor ao regime russo Alexei Navalny revela o trabalho da oposição no exílio, alerta para a falta de liberdade na Rússia e deixa criticas à União Europeia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6a389b9e0bbe03272c8cf4492a85e22d?w=350&q=50&rect=0,241,1500,822&auto=format"
+    },
+    {
+      "title": "Eisenkot chamado pelo presidente de Israel para substituir Netanyahu",
+      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-chamado-pelo-presidente-de-israel-para-substituir-netanyahu_v1777719",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T13:39:47Z",
+      "description": "Benjamin Netanhyahu ainda tentou uma solução de última hora para continuar no poder.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e496170d632fbada251437a9fa9970f3?w=350&q=50&rect=0,677,5708,3129&auto=format"
+    },
+    {
+      "title": "Estados Unidos atingem navio comercial no golfo de Omã após avisos ignorados",
+      "url": "https://pt.euronews.com/2026/11/08/estados-unidos-atingem-navio-comercial-no-golfo-de-oma-apos-avisos-ignorados",
       "source": "Euronews",
-      "publishedAt": "2026-11-08T06:00:19Z",
+      "publishedAt": "2026-11-08T12:04:59Z",
+      "description": "A agência marítima UKMTO informou, no final de sábado, ter recebido um relatório sobre um incidente envolvendo um graneleiro e forças militares no golfo.",
+      "image": "https://images.euronews.com/articles/stories/09/98/41/07/1200x675_cmsv2_1a31f037-5292-5b2f-a0de-0110b34e7b49-9984107.jpg"
+    },
+    {
+      "title": "Manifestante parisiense relata à Euronews momento de “coesão” e “necessidades culturais”",
+      "url": "https://pt.euronews.com/2026/11/08/manifestante-parisiense-relata-a-euronews-momento-de-coesao-e-necessidades-culturais",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T11:38:59Z",
+      "description": "A mobilização recuou sábado nas ruas de França face aos três últimos fins de semana, mas os sindicatos já convocaram nova greve para terça-feira. Um manifestante parisiense fala à Euronews de um momento de “coesão” e da expressão de “necessidades culturais”.",
+      "image": "https://images.euronews.com/articles/stories/09/98/41/09/1200x675_cmsv2_7b7b0272-bdf6-51dd-9585-95451cdc4192-9984109.jpg"
+    },
+    {
+      "title": "Notícias do dia | 8 de novembro 2026 - Tarde",
+      "url": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-tarde",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T11:00:07Z",
       "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 8 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
       "image": "https://images.euronews.com/articles/stories/09/98/42/08/1200x675_cmsv2_893925bc-c291-5cac-be3e-b9d92753e514-9984208.jpg"
     },
     {
-      "title": "Stephen Miller é o novo Chefe de Gabinete do presidente Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/stephen-miller-e-o-novo-chefe-de-gabinete-do-presidente-trump_v1777670",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T22:41:48Z",
-      "description": "Há uma nomeação na administração Trump a suscitar polémica.",
-      "image": "https://cdn-images.rtp.pt/icm/images/8f/8fe74bb636ad312213b89a4f34fbda30_N.jpg?"
-    },
-    {
-      "title": "Papa apela à união dos povos em viagem pela América do Sul",
-      "url": "https://www.rtp.pt/noticias/mundo/papa-apela-a-uniao-dos-povos-em-viagem-pela-america-do-sul_v1777669",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T22:40:47Z",
-      "description": "O Papa Leão XIV apelou à união dos povos da América do Sul, numa celebração junto à fronteira entre o Uruguai e a Argentina.",
-      "image": "https://cdn-images.rtp.pt/icm/images/2d/2dc9a3d79a99467f2d8fc0999b7f4a06_N.jpg?"
-    },
-    {
-      "title": "Protestos em França. Nova jornada de manifestações em todo o país",
-      "url": "https://www.rtp.pt/noticias/mundo/protestos-em-franca-nova-jornada-de-manifestacoes-em-todo-o-pais_v1777659",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T22:25:47Z",
-      "description": "Foi o quarto sábado de protestos contra o aumento do custo de vida, com manifestações em várias cidades e 70 mil polícias nas ruas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e9d845e668860c615b62df8c232ed4b?w=350&q=50&rect=0,210,6000,3289&auto=format"
-    },
-    {
-      "title": "Polónia: tiroteio em Cracóvia faz seis mortos e 16 feridos na praça principal",
-      "url": "https://pt.euronews.com/video/2026/11/07/polonia-tiroteio-em-cracovia-faz-seis-mortos-e-16-feridos-na-praca-principal",
+      "title": "Sánchez reúne de urgência comissão de imigração após chegada massiva de migrantes às Canárias",
+      "url": "https://pt.euronews.com/2026/11/08/sanchez-reune-de-urgencia-comissao-de-imigracao-apos-chegada-massiva-de-migrantes-as-canar",
       "source": "Euronews",
-      "publishedAt": "2026-11-07T22:11:18Z",
-      "description": "Imagens mostram pessoas a fugir enquanto carros aceleram durante um tiroteio mortal na Praça do Mercado de Cracóvia, que fez seis mortos e cerca de 15 feridos",
-      "image": "https://images.euronews.com/articles/stories/09/98/40/94/1200x675_cmsv2_6b627c20-7592-54d8-b31d-c4e540ce1a8f-9984094.jpg"
+      "publishedAt": "2026-11-08T10:26:52Z",
+      "description": "Chegaram 4 587 migrantes ao arquipélago em seis dias, em 49 embarcações, 35 para El Hierro, levando o Governo regional a exigir mais recursos e medidas urgentes ao Estado.",
+      "image": "https://images.euronews.com/articles/stories/09/98/42/13/1200x675_cmsv2_a11d1c54-aa0b-508a-ace7-7002c276f2d3-9984213.jpg"
     },
     {
-      "title": "Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas",
-      "url": "https://pt.euronews.com/video/2026/11/07/ucrania-ataques-russos-atingem-regiao-de-kiev-e-danificam-infraestruturas",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T21:46:48Z",
-      "description": "Ataques russos danificaram infraestruturas na região de Kiev e deixaram um jardim‑de‑infância em ruínas na capital ucraniana. Bombeiros combateram um grande incêndio enquanto a Ucrânia enfrentava novos ataques à sua rede energética.",
-      "image": "https://images.euronews.com/articles/stories/09/98/40/78/1200x675_cmsv2_63d0852d-8819-55d7-97a0-03d111eb252d-9984078.jpg"
-    },
-    {
-      "title": "Três mortos encontrados na casa do atirador de Cracóvia",
-      "url": "https://www.rtp.pt/noticias/mundo/tres-mortos-encontrados-na-casa-do-atirador-de-cracovia_n1777653",
+      "title": "\"Ideologia de extrema-direita\". A pista seguida numa Polónia em choque após o ataque de Cracóvia",
+      "url": "https://www.rtp.pt/noticias/mundo/ideologia-de-extrema-direita-a-pista-seguida-numa-polonia-em-choque-apos-o-ataque-de-cracovia_n1777698",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T21:15:46Z",
-      "description": "O primeiro-ministro da Polónia, Donald Tusk, confirmou este sábado que foram encontrados três corpos na casa do atirador que disparou esta tarde sobre várias pessoas no centro histórico de Cracóvia, provocando seis mortos.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ae/ae3acf3e7cc1345b5e9bf91665740ae0?w=350&q=50&rect=0,59,3034,1663&auto=format"
+      "publishedAt": "2026-11-08T10:16:26Z",
+      "description": "O atirador, de nacionalidade polaca, abateu seis pessoas a tiro e feriu outras 16, entre as quais uma portuguesa, na principal praça de Cracóvia, antes de ser baleado e capturado pelas forças de segurança. Foram depois encontrados mais três corpos na sua casa.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3cba9340df0f90e9123100ffa4cbb534?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
-      "title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
-      "url": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T20:15:33Z",
-      "description": "Gadi Eisenkot, líder do bloco de oposição ao atual primeiro-ministro, Benjamin Netanyahu, foi o escolhido para tentar formar governo em Israel.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e09ed101cf7bc275c5d4024c3578c3b8?w=350&q=50&rect=0,0,1519,833&auto=format"
-    },
-    {
-      "title": "Polónia: tiroteio no centro histórico de Cracóvia faz pelo menos seis mortos",
-      "url": "https://pt.euronews.com/2026/11/07/polonia-tiroteio-no-centro-historico-de-cracovia-faz-pelo-menos-seis-mortos",
+      "title": "Uruguai: Papa Leão XIV diz que a paz é possível e destaca o mate como símbolo de amizade",
+      "url": "https://pt.euronews.com/2026/11/08/uruguai-papa-leao-xiv-diz-que-a-paz-e-possivel-e-destaca-o-mate-como-simbolo-de-amizade",
       "source": "Euronews",
-      "publishedAt": "2026-11-07T19:30:31Z",
-      "description": "Imagens UGC mostram pessoas a correr para se abrigarem enquanto decorre um tiroteio mortal em Cracóvia, Polónia, com pelo menos seis mortos e cerca de uma dúzia de feridos, segundo a polícia",
-      "image": "https://images.euronews.com/articles/stories/09/98/40/48/1200x675_cmsv2_3d2d649c-cc23-52fe-b4cd-22cfba09c3fc-9984048.jpg"
+      "publishedAt": "2026-11-08T10:10:50Z",
+      "description": "Papa recebido por 40 mil pessoas em Paysandú, no Uruguai. A sexta viagem apostólica de Leão ocorre menos de um mês após a cirurgia a um adenocarcinoma pulmonar no Hospital Gemelli, em Roma.",
+      "image": "https://images.euronews.com/articles/stories/09/98/39/89/1200x675_cmsv2_9d661945-f945-5bd8-943a-037fa864e822-9983989.jpg"
     },
     {
-      "title": "Estados Unidos oferecem até 20 milhões de dólares por informações sobre programa nuclear iraniano",
-      "url": "https://pt.euronews.com/2026/11/07/estados-unidos-oferecem-ate-20-milhoes-de-dolares-por-informacoes-sobre-programa-nuclear-i",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T17:45:29Z",
-      "description": "O Departamento de Estado dos EUA justificou a oferta da recompensa com a existência de “lacunas nas informações sobre as atividades nucleares iranianas”.",
-      "image": "https://images.euronews.com/articles/stories/09/98/36/13/1200x675_cmsv2_6fd7a36c-d9f2-5af9-9677-83e47bd76c59-9983613.jpg"
-    },
-    {
-      "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França",
-      "url": "https://www.rtp.pt/noticias/mundo/confrontos-violentos-em-paris-em-mais-uma-tarde-de-manifestacoes-em-franca_n1777623",
+      "title": "COP31. Ministra do Ambiente pede ação porque objetivos já existem",
+      "url": "https://www.rtp.pt/noticias/mundo/cop31-ministra-do-ambiente-pede-acao-porque-objetivos-ja-existem_n1777695",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T16:49:41Z",
-      "description": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd58cbd5841f59f5020d79897fd353a9?w=350&q=50&rect=0,0,1519,833&auto=format"
+      "publishedAt": "2026-11-08T09:06:40Z",
+      "description": "A ministra do Ambiente e Energia defende que na cimeira do clima que começa segunda-feira na Turquia é preciso \"passar das grandes declarações para a ação\", porque os objetivos já existem.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ]
 }
