@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:13:54.008937Z",
+  "updatedAt": "2026-11-08T19:43:22.745021Z",
   "health": [
     {
       "title": "Urgências de Portimão. Enfermeiros falam em anarquia funcional",
@@ -100,12 +100,84 @@
   ],
   "world": [
     {
-      "title": "Palestiniano ergue abrigo de madeira e barro para a sua família depois de perder a casa na guerra em Gaza",
-      "url": "https://pt.euronews.com/2026/11/08/palestiniano-ergue-abrigo-de-madeira-e-barro-para-a-sua-familia-depois-de-perder-a-casa-na",
+      "title": "Depressão Bruna: continente sob aviso amarelo e vários desalojados na Madeira",
+      "url": "https://pt.euronews.com/2026/11/08/depressao-bruna-continente-sob-aviso-amarelo-e-varios-desalojados-na-madeira",
       "source": "Euronews",
-      "publishedAt": "2026-11-08T14:28:52Z",
-      "description": "Hamid descreveu a remoção dos escombros como “difícil”, porque a casa guarda memórias ligadas à sua infância e à vida antes da guerra.",
-      "image": "https://images.euronews.com/articles/stories/09/98/11/97/1200x675_cmsv2_571c68c4-993c-5ae6-adfa-2061cfb7d168-9981197.jpg"
+      "publishedAt": "2026-11-08T19:33:43Z",
+      "description": "Chuva forte, vento, trovoada e agitação marítima deixam todos os distritos de Portugal continental sob aviso amarelo. Mau tempo já fez, pelo menos, nove desalojados na Madeira. Nadador-salvador desapareceu no mar na zona do Funchal.",
+      "image": "https://images.euronews.com/articles/stories/09/98/47/75/1200x675_cmsv2_522044c1-04de-5b16-90c8-e65cb9344bc6-9984775.jpg"
+    },
+    {
+      "title": "Huthis reivindicam ataques contra aeroporto de Riade e instalações de petrolífera",
+      "url": "https://www.rtp.pt/noticias/mundo/huthis-reivindicam-ataques-contra-aeroporto-de-riade-e-instalacoes-de-petrolifera_n1777736",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T17:53:13Z",
+      "description": "Os rebeldes huthis reivindicaram hoje uma série de ataques contra vários alvos civis, energéticos e militares na Arábia Saudita, incluindo o aeroporto internacional rei Khalid, em Riade, e instalações da petrolífera estatal saudita Aramco.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Pelo menos 34 mortos após naufrágio de barco no Senegal",
+      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-34-mortos-apos-naufragio-de-barco-no-senegal_n1777748",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T17:52:49Z",
+      "description": "Pelo menos 34 pessoas morreram num naufrágio na costa do departamento de Kébémer, na região de Louga, no norte do Senegal, divulgou hoje a agência de notícias estatal APS.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Reino Unido assinala \"Domingo da Memória\" em homenagem aos militares mortos em conflitos",
+      "url": "https://pt.euronews.com/2026/11/08/reino-unido-assinala-domingo-da-memoria-em-homenagem-aos-militares-mortos-em-conflitos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T17:17:41Z",
+      "description": "Britânicos assinalam o \"Domingo da Memória\" no segundo domingo de novembro, o mais próximo do Dia do Armistício, a 11 de novembro, aniversário do fim da Primeira Guerra Mundial.",
+      "image": "https://images.euronews.com/articles/stories/09/98/46/46/1200x675_cmsv2_ce2a91f3-3f48-5f2a-8257-0a7cd0cd4d91-9984646.jpg"
+    },
+    {
+      "title": "Notícias do dia | 8 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-noite",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T17:00:35Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 8 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/98/47/56/1200x675_cmsv2_f5c1cca0-878c-5c15-80ab-81423ac64ba7-9984756.jpg"
+    },
+    {
+      "title": "Polónia: arranca campanha em Cracóvia para apoiar polícias feridos",
+      "url": "https://pt.euronews.com/2026/11/08/polonia-arranca-campanha-em-cracovia-para-apoiar-policias-feridos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T16:58:25Z",
+      "description": "Após os acontecimentos dramáticos no centro de Cracóvia, arrancou uma angariação de fundos para os polícias feridos, que já ultrapassou vários milhões de zlotys graças a forte mobilização pública.",
+      "image": "https://images.euronews.com/articles/stories/09/98/45/22/1200x675_cmsv2_3a58dbed-c34e-58cb-a65c-5de988c1834f-9984522.jpg"
+    },
+    {
+      "title": "Egipto: colisão de dois comboios a sul do Cairo faz 4 mortos e 88 feridos",
+      "url": "https://pt.euronews.com/2026/11/08/egipto-colisao-de-dois-comboios-a-sul-do-cairo-faz-4-mortos-e-88-feridos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T16:51:59Z",
+      "description": "Acidente a cerca de 52 quilómetros a sul do Cairo: um comboio embateu na traseira de outro e um deles descarrilou. O presidente egípcio Abdelfatah al-Sisi ordenou uma investigação sobre as causas e responsabilidades.",
+      "image": "https://images.euronews.com/articles/stories/09/98/46/87/1200x675_cmsv2_52ff1a40-6443-565e-803b-c7f98a0a526b-9984687.jpg"
+    },
+    {
+      "title": "Argentina e Uruguai: Papa apela ao orgulho cristão e lamenta vítimas de Cracóvia",
+      "url": "https://pt.euronews.com/2026/11/08/argentina-e-uruguai-papa-apela-ao-orgulho-cristao-e-lamenta-vitimas-de-cracovia",
+      "source": "Euronews",
+      "publishedAt": "2026-11-08T16:50:24Z",
+      "description": "Conclui no Uruguai a primeira etapa da viagem apostólica, apelando aos fiéis para viverem a fé com coragem e aos governantes para trabalharem pelo bem comum, antes da chegada à Argentina, num contexto de polémicas anti-Milei.",
+      "image": "https://images.euronews.com/articles/stories/09/98/46/91/1200x675_cmsv2_60b55f0c-aad4-5631-84d5-d57556a3e8e8-9984691.jpg"
+    },
+    {
+      "title": "Egito. Pelo menos sete mortos e 112 feridos em colisão de comboios a sul do Cairo",
+      "url": "https://www.rtp.pt/noticias/mundo/egito-pelo-menos-sete-mortos-e-112-feridos-em-colisao-de-comboios-a-sul-do-cairo_n1777741",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T16:19:41Z",
+      "description": "O choque entre dois comboios na região de Al-Ayyat, em Gizé, provocou pelo menos sete mortos e 112 feridos. O último balanço era de quatro mortos e 88 feridos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/45/458530dd59005315c2a71918f5a652cc?w=350&q=50&rect=0,0,1519,833&auto=format"
+    },
+    {
+      "title": "Eisenkot convidado a formar governo afirma que Netanyahu é bem-vindo a integrar futuro executivo",
+      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-convidado-a-formar-governo-afirma-que-netanyahu-e-bem-vindo-a-integrar-futuro-executivo_n1777740",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-08T16:03:59Z",
+      "description": "O líder do principal bloco de oposição a Benjamin Netanyahu foi convidado este domingo a formar governo na sequência das eleições legislativas de outubro. Gadi Eisenkot considerou que o momento atual é de grandes dificuldades e mostrou-se disponível para acolher o ex-primeiro-ministro numa futura coligação.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c9f00f733de548108b1ec110c5e36333?w=350&q=50&rect=0,0,1519,833&auto=format"
     },
     {
       "title": "Leão XIV adverte contra indiferença religiosa",
@@ -122,78 +194,6 @@
       "publishedAt": "2026-11-08T13:50:47Z",
       "description": "Começa esta segunda-feira, na Turquia, mais uma conferência do clima das Nações Unidas.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/af/afdae04b4be2455f8eae523acacbaf62?w=350&q=50&rect=0,135,1236,678&auto=format"
-    },
-    {
-      "title": "Entrevista a Yulia Navalnaya. \"Estamos com dificuldades mas existimos\"",
-      "url": "https://www.rtp.pt/noticias/mundo/entrevista-a-yulia-navalnaya-estamos-com-dificuldades-mas-existimos_v1777720",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T13:46:47Z",
-      "description": "A viúva do opositor ao regime russo Alexei Navalny revela o trabalho da oposição no exílio, alerta para a falta de liberdade na Rússia e deixa criticas à União Europeia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6a389b9e0bbe03272c8cf4492a85e22d?w=350&q=50&rect=0,241,1500,822&auto=format"
-    },
-    {
-      "title": "Eisenkot chamado pelo presidente de Israel para substituir Netanyahu",
-      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-chamado-pelo-presidente-de-israel-para-substituir-netanyahu_v1777719",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T13:39:47Z",
-      "description": "Benjamin Netanhyahu ainda tentou uma solução de última hora para continuar no poder.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e496170d632fbada251437a9fa9970f3?w=350&q=50&rect=0,677,5708,3129&auto=format"
-    },
-    {
-      "title": "Estados Unidos atingem navio comercial no golfo de Omã após avisos ignorados",
-      "url": "https://pt.euronews.com/2026/11/08/estados-unidos-atingem-navio-comercial-no-golfo-de-oma-apos-avisos-ignorados",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T12:04:59Z",
-      "description": "A agência marítima UKMTO informou, no final de sábado, ter recebido um relatório sobre um incidente envolvendo um graneleiro e forças militares no golfo.",
-      "image": "https://images.euronews.com/articles/stories/09/98/41/07/1200x675_cmsv2_1a31f037-5292-5b2f-a0de-0110b34e7b49-9984107.jpg"
-    },
-    {
-      "title": "Manifestante parisiense relata à Euronews momento de “coesão” e “necessidades culturais”",
-      "url": "https://pt.euronews.com/2026/11/08/manifestante-parisiense-relata-a-euronews-momento-de-coesao-e-necessidades-culturais",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T11:38:59Z",
-      "description": "A mobilização recuou sábado nas ruas de França face aos três últimos fins de semana, mas os sindicatos já convocaram nova greve para terça-feira. Um manifestante parisiense fala à Euronews de um momento de “coesão” e da expressão de “necessidades culturais”.",
-      "image": "https://images.euronews.com/articles/stories/09/98/41/09/1200x675_cmsv2_7b7b0272-bdf6-51dd-9585-95451cdc4192-9984109.jpg"
-    },
-    {
-      "title": "Notícias do dia | 8 de novembro 2026 - Tarde",
-      "url": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-tarde",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T11:00:07Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 8 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/98/42/08/1200x675_cmsv2_893925bc-c291-5cac-be3e-b9d92753e514-9984208.jpg"
-    },
-    {
-      "title": "Sánchez reúne de urgência comissão de imigração após chegada massiva de migrantes às Canárias",
-      "url": "https://pt.euronews.com/2026/11/08/sanchez-reune-de-urgencia-comissao-de-imigracao-apos-chegada-massiva-de-migrantes-as-canar",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T10:26:52Z",
-      "description": "Chegaram 4 587 migrantes ao arquipélago em seis dias, em 49 embarcações, 35 para El Hierro, levando o Governo regional a exigir mais recursos e medidas urgentes ao Estado.",
-      "image": "https://images.euronews.com/articles/stories/09/98/42/13/1200x675_cmsv2_a11d1c54-aa0b-508a-ace7-7002c276f2d3-9984213.jpg"
-    },
-    {
-      "title": "\"Ideologia de extrema-direita\". A pista seguida numa Polónia em choque após o ataque de Cracóvia",
-      "url": "https://www.rtp.pt/noticias/mundo/ideologia-de-extrema-direita-a-pista-seguida-numa-polonia-em-choque-apos-o-ataque-de-cracovia_n1777698",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T10:16:26Z",
-      "description": "O atirador, de nacionalidade polaca, abateu seis pessoas a tiro e feriu outras 16, entre as quais uma portuguesa, na principal praça de Cracóvia, antes de ser baleado e capturado pelas forças de segurança. Foram depois encontrados mais três corpos na sua casa.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3cba9340df0f90e9123100ffa4cbb534?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Uruguai: Papa Leão XIV diz que a paz é possível e destaca o mate como símbolo de amizade",
-      "url": "https://pt.euronews.com/2026/11/08/uruguai-papa-leao-xiv-diz-que-a-paz-e-possivel-e-destaca-o-mate-como-simbolo-de-amizade",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T10:10:50Z",
-      "description": "Papa recebido por 40 mil pessoas em Paysandú, no Uruguai. A sexta viagem apostólica de Leão ocorre menos de um mês após a cirurgia a um adenocarcinoma pulmonar no Hospital Gemelli, em Roma.",
-      "image": "https://images.euronews.com/articles/stories/09/98/39/89/1200x675_cmsv2_9d661945-f945-5bd8-943a-037fa864e822-9983989.jpg"
-    },
-    {
-      "title": "COP31. Ministra do Ambiente pede ação porque objetivos já existem",
-      "url": "https://www.rtp.pt/noticias/mundo/cop31-ministra-do-ambiente-pede-acao-porque-objetivos-ja-existem_n1777695",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T09:06:40Z",
-      "description": "A ministra do Ambiente e Energia defende que na cimeira do clima que começa segunda-feira na Turquia é preciso \"passar das grandes declarações para a ação\", porque os objetivos já existem.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ]
 }
