@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-07T20:53:53.796471Z",
+  "updatedAt": "2026-11-08T00:38:08.249512Z",
   "health": [
+    {
+      "title": "Urgências de Portimão. Enfermeiros falam em anarquia funcional",
+      "url": "https://www.rtp.pt/noticias/pais/urgencias-de-portimao-enfermeiros-falam-em-anarquia-funcional_v1777667",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T22:34:47Z",
+      "description": "Um homem morreu depois de ter estado cerca de 24 horas sem observação médica no hospital de Portimão.",
+      "image": "https://cdn-images.rtp.pt/icm/images/bc/bc907bccf4977b5e7013ceba069b152c_N.jpg?"
+    },
     {
       "title": "Seguro avisa que distribuição de medicamentos não pode falhar",
       "url": "https://www.rtp.pt/noticias/pais/seguro-avisa-que-distribuicao-de-medicamentos-nao-pode-falhar_v1777601",
@@ -88,17 +96,57 @@
       "publishedAt": "2026-11-07T07:07:23Z",
       "description": "Moçambique necessita de cerca de 50 mil cirurgias cardíacas por ano, segundo uma estimativa do cirurgião português Manuel Antunes, que alerta para a distância entre as necessidades da população e a capacidade de resposta existente. O médico lidera uma missão de cirurgia gratuita no Instituto do Coração (Icor), em Maputo, com conclusão prevista para 11 de novembro.",
       "image": ""
-    },
-    {
-      "title": "Urgências de Portimão. Idoso morre depois de esperar mais de 11 horas",
-      "url": "https://www.rtp.pt/noticias/pais/urgencias-de-portimao-idoso-morre-depois-de-esperar-mais-de-11-horas_v1777230",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-05T20:51:47Z",
-      "description": "A Inspeção Geral das Atividades em Saúde abriu um inquérito à morte do idoso que esperou mais de 11 horas para ser observado por um médico na urgência do hospital de Portimão. O diretor das urgências já foi afastado.",
-      "image": "https://cdn-images.rtp.pt/icm/images/ce/cee5b1fd924644da1079930f3a1961ff_N.jpg?"
     }
   ],
   "world": [
+    {
+      "title": "Stephen Miller é o novo Chefe de Gabinete do presidente Trump",
+      "url": "https://www.rtp.pt/noticias/mundo/stephen-miller-e-o-novo-chefe-de-gabinete-do-presidente-trump_v1777670",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T22:41:48Z",
+      "description": "Há uma nomeação na administração Trump a suscitar polémica.",
+      "image": "https://cdn-images.rtp.pt/icm/images/8f/8fe74bb636ad312213b89a4f34fbda30_N.jpg?"
+    },
+    {
+      "title": "Papa apela à união dos povos em viagem pela América do Sul",
+      "url": "https://www.rtp.pt/noticias/mundo/papa-apela-a-uniao-dos-povos-em-viagem-pela-america-do-sul_v1777669",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T22:40:47Z",
+      "description": "O Papa Leão XIV apelou à união dos povos da América do Sul, numa celebração junto à fronteira entre o Uruguai e a Argentina.",
+      "image": "https://cdn-images.rtp.pt/icm/images/2d/2dc9a3d79a99467f2d8fc0999b7f4a06_N.jpg?"
+    },
+    {
+      "title": "Protestos em França. Nova jornada de manifestações em todo o país",
+      "url": "https://www.rtp.pt/noticias/mundo/protestos-em-franca-nova-jornada-de-manifestacoes-em-todo-o-pais_v1777659",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T22:25:47Z",
+      "description": "Foi o quarto sábado de protestos contra o aumento do custo de vida, com manifestações em várias cidades e 70 mil polícias nas ruas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e9d845e668860c615b62df8c232ed4b?w=350&q=50&rect=0,210,6000,3289&auto=format"
+    },
+    {
+      "title": "Polónia: tiroteio em Cracóvia faz seis mortos e 16 feridos na praça principal",
+      "url": "https://pt.euronews.com/video/2026/11/07/polonia-tiroteio-em-cracovia-faz-seis-mortos-e-16-feridos-na-praca-principal",
+      "source": "Euronews",
+      "publishedAt": "2026-11-07T22:11:18Z",
+      "description": "Imagens mostram pessoas a fugir enquanto carros aceleram durante um tiroteio mortal na Praça do Mercado de Cracóvia, que fez seis mortos e cerca de 15 feridos",
+      "image": "https://images.euronews.com/articles/stories/09/98/40/94/1200x675_cmsv2_6b627c20-7592-54d8-b31d-c4e540ce1a8f-9984094.jpg"
+    },
+    {
+      "title": "Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas",
+      "url": "https://pt.euronews.com/video/2026/11/07/ucrania-ataques-russos-atingem-regiao-de-kiev-e-danificam-infraestruturas",
+      "source": "Euronews",
+      "publishedAt": "2026-11-07T21:46:48Z",
+      "description": "Ataques russos danificaram infraestruturas na região de Kiev e deixaram um jardim‑de‑infância em ruínas na capital ucraniana. Bombeiros combateram um grande incêndio enquanto a Ucrânia enfrentava novos ataques à sua rede energética.",
+      "image": "https://images.euronews.com/articles/stories/09/98/40/78/1200x675_cmsv2_63d0852d-8819-55d7-97a0-03d111eb252d-9984078.jpg"
+    },
+    {
+      "title": "Três mortos encontrados na casa do atirador de Cracóvia",
+      "url": "https://www.rtp.pt/noticias/mundo/tres-mortos-encontrados-na-casa-do-atirador-de-cracovia_n1777653",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-07T21:15:46Z",
+      "description": "O primeiro-ministro da Polónia, Donald Tusk, confirmou este sábado que foram encontrados três corpos na casa do atirador que disparou esta tarde sobre várias pessoas no centro histórico de Cracóvia, provocando seis mortos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ae/ae3acf3e7cc1345b5e9bf91665740ae0?w=350&q=50&rect=0,59,3034,1663&auto=format"
+    },
     {
       "title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
       "url": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
@@ -146,54 +194,6 @@
       "publishedAt": "2026-11-07T15:34:57Z",
       "description": "Balanço trágico do tiroteio na Praça do Mercado Principal, em Cracóvia: seis mortos e quinze feridos. A polícia informou que o autor foi detido.",
       "image": "https://images.euronews.com/articles/stories/09/98/40/08/1200x675_cmsv2_a42a5e47-2be1-5d3d-b8b9-5a036945dcaf-9984008.jpg"
-    },
-    {
-      "title": "Leão XIV no Uruguai fala de saúde e inclusão",
-      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-uruguai-fala-de-saude-e-inclusao_v1777593",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T13:55:47Z",
-      "description": "Três semanas depois da cirurgia ao cancro no pulmão, o Papa Leão XIV diz que está em \"muito boa forma\". Palavras ditas na viagem para o Uruguai, onde cumpre este sábado o segundo de três dias de visita.",
-      "image": "https://cdn-images.rtp.pt/icm/images/22/22209e014b9b2cde32576bc0b925227a_N.jpg?"
-    },
-    {
-      "title": "Senado do Paraguai destituiu presidente Santiago Peña",
-      "url": "https://www.rtp.pt/noticias/mundo/senado-do-paraguai-destituiu-presidente-santiago-pena_v1777592",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T13:53:47Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Mais um sábado de protestos em França",
-      "url": "https://www.rtp.pt/noticias/mundo/mais-um-sabado-de-protestos-em-franca_v1777590",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T13:39:47Z",
-      "description": "Estão mobilizados 70 mil agentes das forças de segurança.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e27cf81026f870cd82ce66bfa9debe21.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Nova Zelândia apura votos em eleição renhida centrada no custo de vida",
-      "url": "https://pt.euronews.com/2026/11/07/nova-zelandia-apura-votos-em-eleicao-renhida-centrada-no-custo-de-vida",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T12:43:46Z",
-      "description": "Na Nova Zelândia, os eleitores dão dois votos nas legislativas: escolhem um candidato para o círculo local e escolhem o partido que querem no governo.",
-      "image": "https://images.euronews.com/articles/stories/09/98/36/18/1200x675_cmsv2_4dce7e50-a9e1-5420-aea0-21ffedbeec17-9983618.jpg"
-    },
-    {
-      "title": "Itália: dados do ministro Tajani divulgados por hackers russos na dark web",
-      "url": "https://pt.euronews.com/2026/11/07/italia-dados-do-ministro-tajani-divulgados-por-hackers-russos-na-dark-web",
-      "source": "Euronews",
-      "publishedAt": "2026-11-07T12:33:44Z",
-      "description": "O ministro dos Negócios Estrangeiros denunciou a divulgação de dados pessoais na dark web por piratas informáticos russos. Também foram visados o procurador de Roma e o chefe da Polícia. Giorgia Meloni condenou o ataque informático.",
-      "image": "https://images.euronews.com/articles/stories/09/98/37/53/1200x675_cmsv2_05ba9121-5516-5cfe-a6f0-f36fbfe3f1a2-9983753.jpg"
-    },
-    {
-      "title": "Mais de 1.500 habitantes de Gaza pediram socorro após forte tempestade",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/mais-de-1-500-habitantes-de-gaza-pediram-socorro-apos-forte-tempestade_n1777575",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T11:29:54Z",
-      "description": "Mais de 1.500 pedidos de ajuda de habitantes de Gaza foram recebidos hoje pela defesa civil do enclave devido à forte tempestade que deixou tendas e abrigos inundados ou danificados, noticiou a imprensa internacional.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcaeb4068b2361c1aeb4fd03fd2b0472?w=350&q=50&rect=0,0,1499,822&auto=format"
     }
   ]
 }
