@@ -1,13 +1,93 @@
 {
-  "updatedAt": "2026-11-09T06:33:31.697225Z",
+  "updatedAt": "2026-11-09T17:31:25.786545Z",
   "health": [
+    {
+      "title": "Doação de gâmetas: novos limites de compensação entram em vigor a 1 de novembro",
+      "url": "https://healthnews.pt/2026/11/09/doacao-de-gametas-novos-limites-de-compensacao-entram-em-vigor-a-1-de-novembro/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T15:27:29Z",
+      "description": "Quase uma década depois da última revisão, Portugal atualiza os valores máximos pagos a dadores de óvulos e esperma. A medida, que entra em vigor a 1 de novembro, é vista como um passo para reduzir as filas de espera, embora especialistas alertem que não resolve tudo",
+      "image": ""
+    },
+    {
+      "title": "Crises de asma disparam com a chegada do frio e da humidade",
+      "url": "https://healthnews.pt/2026/11/09/crises-de-asma-disparam-com-a-chegada-do-frio-e-da-humidade/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T15:22:17Z",
+      "description": "A descida das temperaturas e o aumento da humidade marcam o regresso das crises de asma, sobretudo em crianças e adultos. A SPAIC alerta para a importância de manter a medicação preventiva, arejar as casas e vacinar-se contra a gripe para evitar idas às urgências",
+      "image": ""
+    },
+    {
+      "title": "ULSAC relança concurso para radioterapia de Évora após chumbo do Tribunal de Contas",
+      "url": "https://healthnews.pt/2026/11/09/ulsac-relanca-concurso-para-radioterapia-de-evora-apos-chumbo-do-tribunal-de-contas/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T15:12:37Z",
+      "description": "A Unidade Local de Saúde do Alentejo Central vai abrir novo procedimento para concessionar a Unidade de Radioterapia de Évora, encerrada desde junho, depois de o Tribunal de Contas ter recusado o visto ao contrato com a Atrys, adjudicado em abril por 13,5 milhões de euros",
+      "image": ""
+    },
+    {
+      "title": "Cabinda soma 16 anos à espera de centro oncológico e doentes morrem em casa",
+      "url": "https://healthnews.pt/2026/11/09/cabinda-soma-16-anos-a-espera-de-centro-oncologico-e-doentes-morrem-em-casa/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T14:09:29Z",
+      "description": "O responsável do núcleo de oncologia de Cabinda, Pedro Sebastião, reclamou a criação urgente de um centro especializado na província, avisando que muitos doentes permanecem em casa em fase crítica por falta de resposta adequada e que a deslocação a Luanda, por via aérea ou marítima, representa risco de vida",
+      "image": ""
+    },
+    {
+      "title": "Dádiva mensal de sangue chega ao campus do ICBAS",
+      "url": "https://healthnews.pt/2026/11/09/dadiva-mensal-de-sangue-chega-ao-campus-do-icbas/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T14:06:38Z",
+      "description": "Sessões mensais de colheita de sangue passam a realizar-se no Complexo ICBAS/FFUP, numa parceria entre a AEICBAS e a ULS de Santo António. A primeira está marcada para 10 de novembro e abrange toda a comunidade académica e o público em geral.",
+      "image": ""
+    },
+    {
+      "title": "Escassez de profissionais trava compras hospitalares no SNS",
+      "url": "https://healthnews.pt/2026/11/09/escassez-de-profissionais-trava-compras-hospitalares-no-sns/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T13:31:41Z",
+      "description": "Quase três em cada quatro participantes no primeiro Barómetro de Compras Hospitalares apontam a falta de profissionais como o principal risco da função no SNS e admitem recorrer a compras urgentes quando há ruturas de fornecimento",
+      "image": ""
+    },
+    {
+      "title": "Mortes no Algarve. Ordem dos Médicos fala em \"situações lamentáveis\"",
+      "url": "https://www.rtp.pt/noticias/pais/mortes-no-algarve-ordem-dos-medicos-fala-em-situacoes-lamentaveis_v1777876",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-09T13:29:47Z",
+      "description": "O bastonário da Ordem dos Médicos considera inadmissíveis os alegados casos de mortes por falta de assistência no Algarve. Carlos Cortes garante que os avisos da falta de recursos eram do conhecimento da Administração da Unidade Local de Saúde e do Ministério.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c6b6a7dfb750c5b6229473c6a487478.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Dentistas pedem 7,2 milhões ao OE2027 para tratar quem fica de fora",
+      "url": "https://healthnews.pt/2026/11/09/dentistas-pedem-72-milhoes-ao-oe2027-para-tratar-quem-fica-de-fora/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T13:28:14Z",
+      "description": "A Ordem dos Médicos Dentistas propõe 7,2 milhões de euros no Orçamento do Estado de 2027 para cheques de saúde oral, reabilitação protésica e respostas de proximidade, reclamando ainda 30% da receita do imposto sobre bebidas açucaradas para o setor",
+      "image": ""
+    },
+    {
+      "title": "Nova viatura SIV reforça emergência médica em Vendas Novas",
+      "url": "https://healthnews.pt/2026/11/09/nova-viatura-siv-reforca-emergencia-medica-em-vendas-novas/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-09T13:25:13Z",
+      "description": "Uma nova viatura de Suporte Imediato de Vida entrou hoje ao serviço em Vendas Novas, no distrito de Évora, num reforço da resposta de emergência médica pré-hospitalar no concelho e na região, anunciou o INEM",
+      "image": ""
+    },
+    {
+      "title": "Dentistas querem 7,2 milhões para saúde oral e respostas de proximidade",
+      "url": "https://www.rtp.pt/noticias/pais/dentistas-querem-7-2-milhoes-para-saude-oral-e-respostas-de-proximidade_n1777860",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-09T12:58:25Z",
+      "description": "A Ordem dos Médicos Dentistas propôs a afetação de 7,2 milhões de euros do Orçamento do Estado de 2027 para atualizar os cheques de saúde oral, financiar a reabilitação oral e apoiar respostas de proximidade.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/43/43ef5e5008f56b2d7cd5b36cc0eb5d69?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
     {
       "title": "Hospital de Portimão. ULS Algarve nega falta de assistência e transporte de criança",
       "url": "https://www.rtp.pt/noticias/pais/hospital-de-portimao-uls-algarve-nega-falta-de-assistencia-e-transporte-de-crianca_v1777770",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-08T20:50:47Z",
       "description": "Uma criança de dois anos morreu no hospital de Faro. O líder do PS diz que poderá ter sido a falta de assistência a contribuir para a morte.",
-      "image": "https://cdn-images.rtp.pt/icm/images/57/576e44ec489368795a930b7d65870e08_N.jpg?"
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b57367a43ad79caa5b4c68275383c810?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
       "title": "Urgências de Portimão. Enfermeiros falam em anarquia funcional",
@@ -16,184 +96,104 @@
       "publishedAt": "2026-11-07T22:34:47Z",
       "description": "Um homem morreu depois de ter estado cerca de 24 horas sem observação médica no hospital de Portimão.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/91/91278c28cbc2b6710328c5e582c3ffb5?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Seguro avisa que distribuição de medicamentos não pode falhar",
-      "url": "https://www.rtp.pt/noticias/pais/seguro-avisa-que-distribuicao-de-medicamentos-nao-pode-falhar_v1777601",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T14:12:47Z",
-      "description": "O presidente da República esteve em Coimbra na homenagem ao farmacêutico Miguel Silvestre.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/51/514112bda8db1d70e4c30e5bfd03b3da.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Novo caso de morte sob suspeita no Hospital de Portimão",
-      "url": "https://www.rtp.pt/noticias/pais/novo-caso-de-morte-sob-suspeita-no-hospital-de-portimao_v1777584",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-07T13:22:47Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Menopausa: especialistas reclamam resposta uniforme no SNS",
-      "url": "https://healthnews.pt/2026/11/07/menopausa-especialistas-reclamam-resposta-uniforme-no-sns/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T09:45:18Z",
-      "description": "Médicos e associações ligados à saúde das mulheres reclamam uma resposta mais integrada do Serviço Nacional de Saúde (SNS) à perimenopausa e à menopausa, com acesso uniforme a acompanhamento especializado, melhor articulação entre cuidados primários e hospitais e menos barreiras económicas aos tratamentos. O Ministério da Saúde assegura que existem respostas assistenciais e…",
-      "image": ""
-    },
-    {
-      "title": "Doze anos após surto de legionella, vítimas relatam sequelas e aguardam indemnizações",
-      "url": "https://healthnews.pt/2026/11/07/doze-anos-apos-surto-de-legionella-vitimas-relatam-sequelas-e-aguardam-indemnizacoes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T09:35:46Z",
-      "description": "Doze anos depois do surto de legionella em Vila Franca de Xira, há vítimas que continuam a relatar limitações respiratórias, cansaço e dificuldades nas atividades quotidianas, enquanto aguardam indemnizações. A Associação de Apoio às Vítimas da Legionella (AAVL) mantém uma ação popular contra o Estado português, pendente no Tribunal Administrativo de Lisboa.",
-      "image": ""
-    },
-    {
-      "title": "Mortes na urgência de Portimão levam autarca a exigir medidas urgentes",
-      "url": "https://healthnews.pt/2026/11/07/mortes-na-urgencia-de-portimao-levam-autarca-a-exigir-medidas-urgentes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T09:30:35Z",
-      "description": "O presidente da Câmara de Portimão, Álvaro Bila, classificou este sábado como de “extrema gravidade” os casos de dois utentes que morreram no Hospital de Portimão, alegadamente enquanto aguardavam observação médica, e exigiu medidas urgentes para garantir o funcionamento da unidade e a segurança dos doentes.",
-      "image": ""
-    },
-    {
-      "title": "Santa Maria reforça urgências para mudança de sistemas informáticos",
-      "url": "https://healthnews.pt/2026/11/07/santa-maria-reforca-urgencias-para-mudanca-de-sistemas-informaticos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T09:18:13Z",
-      "description": "A Unidade Local de Saúde de Santa Maria (ULSSM) reforçou as equipas das três urgências para este sábado, 7 de novembro, dia previsto para o início da transição para os sistemas de informação SONHO V2 e SClínico. A instituição assegurou que os serviços de urgência central, de pediatria e de obstetrícia e ginecologia estarão em «pleno funcionamento» durante a mudança.",
-      "image": ""
-    },
-    {
-      "title": "Cancro infantil: PSD e CDS querem permitir acompanhamento pelos dois pais",
-      "url": "https://healthnews.pt/2026/11/07/cancro-infantil-psd-e-cds-querem-permitir-acompanhamento-pelos-dois-pais/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T07:35:52Z",
-      "description": "PSD e CDS querem permitir que os pais de crianças com doença oncológica beneficiem de licença em simultâneo nos períodos de maior gravidade da doença dos filhos. A medida integra as propostas de alteração dos dois partidos ao Orçamento do Estado para 2027, na fase de especialidade.",
-      "image": ""
-    },
-    {
-      "title": "RD-Portugal saúda programa prioritário e espera execução do plano",
-      "url": "https://healthnews.pt/2026/11/07/rd-portugal-sauda-programa-prioritario-e-espera-execucao-do-plano/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T07:16:22Z",
-      "description": "A RD-Portugal saudou a criação do Programa de Saúde Prioritário para as Doenças Raras, com início previsto para janeiro de 2027 na Direção-Geral da Saúde (DGS), considerando que representa uma etapa há muito aguardada para concretizar o plano de ação para 2025-2030.",
-      "image": ""
-    },
-    {
-      "title": "Maria do Céu Machado vai liderar programa da DGS para as doenças raras",
-      "url": "https://healthnews.pt/2026/11/07/maria-do-ceu-machado-vai-liderar-programa-da-dgs-para-as-doencas-raras/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T07:08:50Z",
-      "description": "As doenças raras vão passar a integrar os programas de saúde prioritários da Direção-Geral da Saúde (DGS), numa nova estrutura que, segundo o Ministério da Saúde, deverá começar a funcionar em janeiro de 2027, sob a direção de Maria do Céu Machado. O programa terá como missão assegurar a execução e o acompanhamento das 25 ações prioritárias previstas na estratégia para…",
-      "image": ""
-    },
-    {
-      "title": "Manuel Antunes estima necessidade de 50 mil cirurgias cardíacas anuais em Moçambique",
-      "url": "https://healthnews.pt/2026/11/07/manuel-antunes-estima-necessidade-de-50-mil-cirurgias-cardiacas-anuais-em-mocambique/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-07T07:07:23Z",
-      "description": "Moçambique necessita de cerca de 50 mil cirurgias cardíacas por ano, segundo uma estimativa do cirurgião português Manuel Antunes, que alerta para a distância entre as necessidades da população e a capacidade de resposta existente. O médico lidera uma missão de cirurgia gratuita no Instituto do Coração (Icor), em Maputo, com conclusão prevista para 11 de novembro.",
-      "image": ""
     }
   ],
   "world": [
     {
-      "title": "Donald Trump admite provável encontro com Xi e Putin na China",
-      "url": "https://www.rtp.pt/noticias/mundo/donald-trump-admite-provavel-encontro-com-xi-e-putin-na-china_n1777798",
+      "title": "Não é possível negociar segurança europeia sem um cessar-fogo diz Von der Leyen",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/nao-e-possivel-negociar-seguranca-europeia-sem-um-cessar-fogo-diz-von-der-leyen_n1777920",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T06:24:50Z",
-      "description": "O Presidente dos Estados Unidos, Donald Trump, afirmou que deverá reunir-se com os homólogos chinês e russo durante a cimeira da APEC, na China, para discutir o fim da guerra no Médio Oriente.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca7014ec7c62a1e38e9ace3e467e62c4?w=350&q=50&rect=0,0,1720,943&auto=format"
+      "publishedAt": "2026-11-09T17:26:55Z",
+      "description": "A presidente da Comissão Europeia advertiu hoje que qualquer negociação sobre a arquitetura de segurança europeia só acontecerá após um cessar-fogo na Ucrânia e defendeu que essas conversações devem incluir os países da UE e NATO.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2e59bf2709b49805df3d54d53cc66fc?w=350&q=50&rect=0,165,1500,822&auto=format"
     },
     {
-      "title": "Taiwan detém líder de partido minoritário por alegado apoio da China nas eleições",
-      "url": "https://www.rtp.pt/noticias/mundo/taiwan-detem-lider-de-partido-minoritario-por-alegado-apoio-da-china-nas-eleicoes_n1777796",
+      "title": "Dos tapetes para o Eliseu. Pentacampeão olímpico de judo é candidato surpresa às eleições francesas",
+      "url": "https://www.rtp.pt/noticias/mundo/dos-tapetes-para-o-eliseu-pentacampeao-olimpico-de-judo-e-candidato-surpresa-as-eleicoes-francesas_n1777923",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T06:17:44Z",
-      "description": "A justiça de Taiwan decretou a prisão preventiva do fundador e presidente do Partido Comunista Popular de Taiwan, suspeito de receber financiamento e instruções de Pequim para concorrer às eleições locais de 28 de novembro.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c7/c7e24ec5cdca06521b659c0840fd1cfe?w=350&q=50&rect=0,335,879,482&auto=format"
+      "publishedAt": "2026-11-09T17:18:21Z",
+      "description": "Teddy Riner é candidato às eleições presidenciais em França. O judoca surpreendeu o país ao comunicar a entrada na classe política e lançar-se na corrida ao Palácio do Eliseu.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/24/242db2933c09bac13356a9bd15099c96?w=350&q=50&rect=0,6,1200,658&auto=format"
     },
     {
-      "title": "EUA: Nvidia investiga se CEO Jensen Huang foi alvo de espionagem chinesa após alegado caso extraconjugal",
-      "url": "https://pt.euronews.com/2026/11/09/eua-nvidia-investiga-se-ceo-jensen-huang-foi-alvo-de-espionagem-chinesa-apos-alegado-caso-",
+      "title": "Argentina: Papa Leão XIV é calorosamente recebido em Claypole",
+      "url": "https://pt.euronews.com/video/2026/11/09/argentina-papa-leao-xiv-e-calorosamente-recebido-em-claypole",
       "source": "Euronews",
-      "publishedAt": "2026-11-09T06:17:41Z",
-      "description": "Jensen Huang, presidente‑executivo da gigante tecnológica norte‑americana Nvidia, é investigado pelo conselho após relatos de que foi “alvo de espionagem estrangeira” ligada a uma executiva tida pelos EUA como informadora de Pequim.",
-      "image": "https://images.euronews.com/articles/stories/09/95/79/93/1200x675_cmsv2_f8f8ae3f-86d3-5649-a459-de8b6dc96175-9957993.jpg"
+      "publishedAt": "2026-11-09T17:05:10Z",
+      "description": "Multidões receberam o Papa Leão XIV em Claypole, perto de Buenos Aires, durante a visita ao lar Don Orione, onde saudou fiéis e inaugurou uma placa na sua digressão de 12 dias pela América do Sul",
+      "image": "https://images.euronews.com/articles/stories/09/98/60/59/1200x675_cmsv2_70b4502f-986e-5871-bb2b-59d3b031a3df-9986059.jpg"
     },
     {
-      "title": "Notícias do dia | 9 de novembro 2026 - Manhã",
-      "url": "https://pt.euronews.com/video/2026/11/09/noticias-do-dia-9-de-novembro-2026-manha",
-      "source": "Euronews",
-      "publishedAt": "2026-11-09T06:00:20Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 9 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/98/49/41/1200x675_cmsv2_086eeb21-880b-5fa9-9e1a-6c23d66a8ab7-9984941.jpg"
-    },
-    {
-      "title": "Pelo menos cinco mortos em incêndio num edifício residencial no norte da China",
-      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-cinco-mortos-em-incendio-num-edificio-residencial-no-norte-da-china_n1777790",
+      "title": "Erdogan rejeita novos ataques dos Estados Unidos e apela ao \"bom senso\"",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/erdogan-rejeita-novos-ataques-dos-estados-unidos-e-apela-ao-bom-senso_n1777918",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T05:50:11Z",
-      "description": "Pelo menos cinco pessoas morreram na sequência de um incêndio ocorrido no domingo num complexo de apartamentos em Taiyuan, capital da província de Shanxi, no norte da China, informaram as autoridades locais.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/75/75027df1325fadca2b25abfba6f10c0d?w=350&q=50&rect=0,105,888,487&auto=format"
-    },
-    {
-      "title": "Países Baixos: milhares marcham em Amesterdão contra ofensiva israelita em Gaza",
-      "url": "https://pt.euronews.com/video/2026/11/08/paises-baixos-milhares-marcham-em-amesterdao-contra-ofensiva-israelita-em-gaza",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T22:19:58Z",
-      "description": "Dezenas de milhares de pessoas, muitas vestidas de vermelho, marcharam este domingo, 8 de novembro, em Amesterdão, exigindo que o governo neerlandês adote uma posição mais firme contra Israel devido à guerra em Gaza.",
-      "image": "https://images.euronews.com/articles/stories/09/98/48/03/1200x675_cmsv2_9a69df69-3eec-5b67-b82d-8af349f9de5b-9984803.jpg"
-    },
-    {
-      "title": "Polónia: reabre local do tiroteio em Kraków e população lembra vítimas",
-      "url": "https://pt.euronews.com/video/2026/11/08/polonia-reabre-local-do-tiroteio-em-krakow-e-populacao-lembra-vitimas",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T22:07:23Z",
-      "description": "A histórica praça principal de Cracóvia, no sul da Polónia, reabriu ao público domingo, 8 de novembro, pouco mais de 24 horas após um tiroteio mortal que fez seis mortos e 15 feridos. Moradores acendem velas pelas vítimas, com marcas de balas ainda visíveis nas janelas dos cafés.",
-      "image": "https://images.euronews.com/articles/stories/09/98/47/90/1200x675_cmsv2_c549268d-71f1-5d33-a3af-0093bbcd72d3-9984790.jpg"
-    },
-    {
-      "title": "Cimeira do clima da ONU arranca esta segunda-feira na Turquia",
-      "url": "https://www.rtp.pt/noticias/mundo/cimeira-do-clima-da-onu-arranca-esta-segunda-feira-na-turquia_v1777776",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T21:17:47Z",
-      "description": "A COP31 decorre até dia 20 de novembro em Antália, o principal polo turístico do país.",
-      "image": "https://cdn-images.rtp.pt/icm/images/a4/a4f5af84aa2e9834fb3893ac48d9dfe2_N.jpg?"
-    },
-    {
-      "title": "Ucrânia: ataques russos deixam 850 mil sem energia e Zelenskyy denuncia drones em Komyshuvakha",
-      "url": "https://pt.euronews.com/2026/11/08/ucrania-ataques-russos-deixam-850-mil-sem-energia-e-zelenskyy-denuncia-drones-em-komyshuva",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T20:05:49Z",
-      "description": "Zelenskyy afirmou que a Rússia tinha lançado um ataque com drones contra o local de um recente ataque em Komyshuvakha, onde as equipas de socorro têm vindo a realizar operações de busca na sequência de um bombardeamento que matou pelo menos 55 pessoas na segunda-feira.",
-      "image": "https://images.euronews.com/articles/stories/09/98/45/99/1200x675_cmsv2_c4340459-d45c-58f4-a31c-14960d309ad9-9984599.jpg"
-    },
-    {
-      "title": "Depressão Bruna: continente sob aviso amarelo e vários desalojados na Madeira",
-      "url": "https://pt.euronews.com/2026/11/08/depressao-bruna-continente-sob-aviso-amarelo-e-varios-desalojados-na-madeira",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T19:33:43Z",
-      "description": "Chuva forte, vento, trovoada e agitação marítima deixam todos os distritos de Portugal continental sob aviso amarelo. Mau tempo já fez, pelo menos, nove desalojados na Madeira. Nadador-salvador desapareceu no mar na zona do Funchal.",
-      "image": "https://images.euronews.com/articles/stories/09/98/47/75/1200x675_cmsv2_522044c1-04de-5b16-90c8-e65cb9344bc6-9984775.jpg"
-    },
-    {
-      "title": "Huthis reivindicam ataques contra aeroporto de Riade e instalações de petrolífera",
-      "url": "https://www.rtp.pt/noticias/mundo/huthis-reivindicam-ataques-contra-aeroporto-de-riade-e-instalacoes-de-petrolifera_n1777736",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T17:53:13Z",
-      "description": "Os rebeldes huthis reivindicaram hoje uma série de ataques contra vários alvos civis, energéticos e militares na Arábia Saudita, incluindo o aeroporto internacional rei Khalid, em Riade, e instalações da petrolífera estatal saudita Aramco.",
+      "publishedAt": "2026-11-09T16:57:39Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Pelo menos 34 mortos após naufrágio de barco no Senegal",
-      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-34-mortos-apos-naufragio-de-barco-no-senegal_n1777748",
+      "title": "Explosão numa fábrica faz 16 mortos na Turquia",
+      "url": "https://www.rtp.pt/noticias/mundo/explosao-numa-fabrica-faz-16-mortos-na-turquia_n1777913",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-08T17:52:49Z",
-      "description": "Pelo menos 34 pessoas morreram num naufrágio na costa do departamento de Kébémer, na região de Louga, no norte do Senegal, divulgou hoje a agência de notícias estatal APS.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-09T16:33:57Z",
+      "description": "Pelo menos 16 pessoas morreram na Turquia na explosão que se deu numa fábrica, de acordo com indicações do próprio presidente do país, Recep Tayyip Erdogan.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/62/6253951438f84e8089b13862a7445131?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "ONU alerta para guerra imprevisível com vítimas civis em níveis recorde",
+      "url": "https://www.rtp.pt/noticias/mundo/onu-alerta-para-guerra-imprevisivel-com-vitimas-civis-em-niveis-recorde_n1777902",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-09T16:20:35Z",
+      "description": "As Nações Unidas (ONU) alertaram hoje que a guerra na Ucrânia está cada vez \"mais perigosa e imprevisível\", frisando que o número de vítimas civis em solo ucraniano atinge constantemente níveis recorde.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7af2e6d9c198594ee245097ade3b6381?w=350&q=50&rect=0,111,1500,822&auto=format"
+    },
+    {
+      "title": "Acampada de Lisboa: Tribunal suspende decisão que dava razão a Renata Cambra",
+      "url": "https://pt.euronews.com/2026/11/09/acampada-de-lisboa-tribunal-suspende-decisao-que-dava-razao-a-renata-cambra",
+      "source": "Euronews",
+      "publishedAt": "2026-11-09T15:21:17Z",
+      "description": "Tribunal decretou o efeito suspensivo do recurso apresentado pelo MP ao Constitucional sobre a decisão que permitia a Renata Cambra permanecer acampada no Rossio, em Lisboa, até 24 de novembro. Autorização fica suspensa até que TC se pronuncie sobre a legalidade do limite horário das manifestações.",
+      "image": "https://images.euronews.com/articles/stories/09/98/57/86/1200x675_cmsv2_7313747e-63b3-5d34-8605-c18e2831bbc8-9985786.jpg"
+    },
+    {
+      "title": "\"A Europa tem a oportunidade de utilizar a descarbonização para o crescimento económico\"",
+      "url": "https://www.rtp.pt/noticias/mundo/a-europa-tem-a-oportunidade-de-utilizar-a-descarbonizacao-para-o-crescimento-economico_n1777896",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-09T14:43:04Z",
+      "description": "A COP31, que arranca esta segunda-feira em Antália, na Turquia, deve servir para implementar os acordos já alcançados pelas partes. É o que defende Lídia Pereira. A eurodeputada social-democrata, que preside à delegação do Parlamento Europeu na conferência, acredita que \"a Europa tem a oportunidade de usar a descarbonização para o crescimento económico\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/af/afff12402d2d486d231b33b461c93cbd.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "França: judoca Teddy Riner anuncia candidatura presidencial",
+      "url": "https://pt.euronews.com/2026/11/09/franca-judoca-teddy-riner-anuncia-candidatura-presidencial",
+      "source": "Euronews",
+      "publishedAt": "2026-11-09T12:59:51Z",
+      "description": "Cinco vezes medalhado de ouro olímpico francês Teddy Riner descreveu-se como um candidato da “unidade” que procura “unir” a esquerda e a direita.",
+      "image": "https://images.euronews.com/articles/stories/09/98/54/71/1200x675_cmsv2_f3030c11-cda4-50f9-8e1d-8fec713eb15f-9985471.jpg"
+    },
+    {
+      "title": "Irmão de Viktor Orbán terá sido detido por suspeita de tráfico de seres humanos",
+      "url": "https://pt.euronews.com/2026/11/09/irmao-de-viktor-orban-tera-sido-detido-por-suspeita-de-trafico-de-seres-humanos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-09T12:59:47Z",
+      "description": "O irmão de Viktor Orban foi detido na segunda-feira sob a acusação de tráfico de seres humanos, anunciou o primeiro-ministro húngaro Peter Magyar.",
+      "image": "https://images.euronews.com/articles/stories/09/98/52/68/1200x675_cmsv2_e7508bf9-7974-5e94-bfb7-82f56a5408a0-9985268.jpg"
+    },
+    {
+      "title": "Colômbia: De la Espriella reforça proteção a meios de comunicação ameaçados pelo ELN",
+      "url": "https://pt.euronews.com/2026/11/09/colombia-de-la-espriella-reforca-protecao-a-meios-de-comunicacao-ameacados-pelo-eln",
+      "source": "Euronews",
+      "publishedAt": "2026-11-09T12:08:32Z",
+      "description": "O presidente Abelardo de la Espriella anunciou proteção para as televisões Caracol e RCN, tal como da revista “Semana”, após alertas sobre possíveis atentados do ELN. A Caracol Televisión evacuou parte das instalações em Bogotá devido a uma ameaça de bomba.",
+      "image": "https://images.euronews.com/articles/stories/09/98/54/13/1200x675_cmsv2_09f11046-b652-56f9-9a5f-d8bf2c099c6a-9985413.jpg"
+    },
+    {
+      "title": "Ativista critica falta de vontade política nas políticas climáticas antes da COP31",
+      "url": "https://pt.euronews.com/2026/11/09/ativista-critica-falta-de-vontade-politica-nas-politicas-climaticas-antes-da-cop31",
+      "source": "Euronews",
+      "publishedAt": "2026-11-09T12:06:28Z",
+      "description": "Chloé Mikolajczak, ativista social e ambiental, considera que falta ao mundo “vontade política de agir” em matéria de políticas climáticas antes da COP31 na Turquia.",
+      "image": "https://images.euronews.com/articles/stories/09/98/49/07/1200x675_cmsv2_feb08f80-9525-5784-977e-cd145c09cd42-9984907.jpg"
     }
   ]
 }
