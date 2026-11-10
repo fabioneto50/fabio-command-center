@@ -1,17 +1,89 @@
 {
-  "updatedAt": "2026-11-10T01:33:13.640451Z",
+  "updatedAt": "2026-11-10T09:52:37.737594Z",
   "health": [
     {
-      "title": "Ministra da Saúde vai demitir presidente do Conselho da Administração da ULS Algarve",
-      "url": "https://www.rtp.pt/noticias/pais/ministra-da-saude-vai-demitir-presidente-do-conselho-da-administracao-da-uls-algarve_n1777956",
+      "title": "Antigos ministros da Saúde pedem mudanças urgentes no SNS",
+      "url": "https://www.rtp.pt/noticias/pais/antigos-ministros-da-saude-pedem-mudancas-urgentes-no-sns_v1778031",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-10T08:02:47Z",
+      "description": "A demissão do presidente da Unidade Local de Saúde do Algarve continua a gerar debate e fortes críticas à gestão da tutela.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1a/1a988ffdc9eb8f9d04ee0a25c241f9b7.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Melanoma da úvea: o tumor que cresce no interior do olho sem dar sinais",
+      "url": "https://healthnews.pt/2026/11/10/melanoma-da-uvea-o-tumor-que-cresce-no-interior-do-olho-sem-dar-sinais/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:10:38Z",
+      "description": "A Sociedade Portuguesa de Oftalmologia e a Immunocore lançam uma campanha para dar a conhecer o melanoma da úvea, um tumor raro que se desenvolve dentro do olho e que, numa fase inicial, pode não provocar qualquer sintoma. Em Portugal, estima-se que surjam anualmente dois a três casos por milhão de habitantes",
+      "image": ""
+    },
+    {
+      "title": "Urgências da Madeira com boletim semanal e 2.418 atendimentos em oito dias",
+      "url": "https://healthnews.pt/2026/11/10/urgencias-da-madeira-com-boletim-semanal-e-2-418-atendimentos-em-oito-dias/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:08:32Z",
+      "description": "O SESARAM vai divulgar semanalmente o número de atendimentos nas Urgências do Hospital Dr. Nélio Mendonça, no Funchal. Nos primeiros oito dias de novembro registaram-se 2.418 entradas, entre adultos e pediatria, no mês em que se assinala a implementação da Triagem de Manchester",
+      "image": ""
+    },
+    {
+      "title": "João Neto: «Não pode valer tudo» — a lição de ética do Museu da Farmácia",
+      "url": "https://healthnews.pt/2026/11/10/joao-neto-nao-pode-valer-tudo-a-licao-de-etica-do-museu-da-farmacia/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:07:51Z",
+      "description": "João Neto, Diretor do Museu da Farmácia — instituição que acaba de assinalar 30 anos e foi o primeiro museu de história universal em Portugal —, em entrevista exclusiva ao HealthNews, fala sobre os desafios de comunicar uma coleção com mais de 15 mil peças, o papel do humor na literacia em saúde, a responsabilidade de tratar temas como o Holocausto e os critérios para…",
+      "image": "https://healthnews.pt/wp-content/uploads/2026/11/Museu-da-Farmacia_Frankenstein.jpg"
+    },
+    {
+      "title": "ULS Lezíria moderniza imagiologia com quase um milhão de euros",
+      "url": "https://healthnews.pt/2026/11/10/uls-leziria-moderniza-imagiologia-com-quase-um-milhao-de-euros/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:06:03Z",
+      "description": "A Unidade Local de Saúde da Lezíria investiu 988.578 euros em novos equipamentos de imagiologia, financiados pelo PRR, para servir 207.116 utentes e reforçar o diagnóstico precoce do cancro da mama",
+      "image": ""
+    },
+    {
+      "title": "UE pondera resposta firme a ciberataques atribuídos ao Irão",
+      "url": "https://healthnews.pt/2026/11/10/ue-pondera-resposta-firme-a-ciberataques-atribuidos-ao-irao/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:05:44Z",
+      "description": "Kaja Kallas admitiu hoje em Paris que a União Europeia poderá adotar uma resposta contundente contra o Irão se se confirmar a responsabilidade iraniana nos ciberataques a supermercados franceses e de outros países. França acusa formalmente a Guarda Revolucionária",
+      "image": ""
+    },
+    {
+      "title": "Vacinas da gripe esgotadas nas farmácias para quem tem receita",
+      "url": "https://healthnews.pt/2026/11/10/vacinas-da-gripe-esgotadas-nas-farmacias-para-quem-tem-receita/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:03:59Z",
+      "description": "As vacinas contra a gripe para pessoas com receita médica fora dos grupos de risco estão esgotadas nas farmácias portuguesas. A presidente da Associação Nacional das Farmácias (ANF), Ema Paulino, confirmou à Lusa que o contingente privado “já não está disponível” e que este ano as farmácias receberam cerca de 50 mil doses, contra as cerca de 300 mil de 2025",
+      "image": ""
+    },
+    {
+      "title": "Limpeza de centros de saúde de Évora em greve por salários em atraso",
+      "url": "https://healthnews.pt/2026/11/10/limpeza-de-centros-de-saude-de-evora-em-greve-por-salarios-em-atraso/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:03:57Z",
+      "description": "Trabalhadoras da limpeza das unidades de cuidados primários de Évora cumpriram esta segunda-feira uma greve de 24 horas contra atrasos salariais e cortes em direitos. A empresa Reginaldo & Gabriela, concessionada pela Câmara, não paga desde outubro e a autarquia prepara a rescisão",
+      "image": ""
+    },
+    {
+      "title": "João Espregueira Mendes: “O legado só faz sentido quando serve para construir o futuro”",
+      "url": "https://healthnews.pt/2026/11/10/joao-espregueira-mendes-o-legado-so-faz-sentido-quando-serve-para-construir-o-futuro/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-10T07:02:33Z",
+      "description": "No âmbito dos 100 anos das Clínicas Espregueira, João Espregueira Mendes fala ao HealthNews sobre três gerações dedicadas à ortopedia, o papel da medicina regenerativa, a presidência da ISAKOS e os desafios da saúde musculoesquelética",
+      "image": "https://healthnews.pt/wp-content/uploads/2026/11/CLINICA-ESPREGUEIRA-V2-157.jpg"
+    },
+    {
+      "title": "Ministra da Saúde demite presidente do Conselho da Administração da ULS Algarve",
+      "url": "https://www.rtp.pt/noticias/pais/ministra-da-saude-demite-presidente-do-conselho-da-administracao-da-uls-algarve_n1777956",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-09T20:47:30Z",
-      "description": "A ministra da Saúde avançou que irá demitir o presidente do Conselho da Administração da ULS do Algarve, Tiago Martins da Silva, na sequência das mortes no Hospital de Portimão durante constrangimentos nas urgências.",
+      "description": "A ministra da Saúde avançou a intenção de demitir o presidente do Conselho da Administração da ULS do Algarve, Tiago Martins da Silva, na sequência das mortes no Hospital de Portimão durante constrangimentos nas urgências.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/ed/ed80cb048da698a65a1800bfe43e6dff.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "IGAS vai abrir processo de inspeção ao serviço de urgência do Hospital de Portimão",
-      "url": "https://www.rtp.pt/noticias/pais/igas-vai-abrir-processo-de-inspecao-ao-servico-de-urgencia-do-hospital-de-portimao_n1777933",
+      "title": "IGAS abre processo de inspeção ao serviço de urgência do Hospital de Portimão",
+      "url": "https://www.rtp.pt/noticias/pais/igas-abre-processo-de-inspecao-ao-servico-de-urgencia-do-hospital-de-portimao_n1777933",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-09T18:11:49Z",
       "description": "Em causa estão mortes de utentes por alegadas falhas no atendimento nas urgências do Hospital de Portimão. O último caso foi o de uma criança de dois anos.",
@@ -24,176 +96,104 @@
       "publishedAt": "2026-11-09T18:10:59Z",
       "description": "Ana Jorge considera \"fundamental\" que se projetem alterações ao Serviço Nacional de Saúde, essencialmente nas equipas de trabalho e na organização dos serviços de urgência. A antiga ministra da Saúde aponta a preocupações a ter em atenção na chegada da estação mais fria.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a18dc6608636b0b900c9fcc6a281c367?w=350&q=50&rect=0,86,2048,1123&auto=format"
-    },
-    {
-      "title": "Doação de gâmetas: novos limites de compensação entram em vigor a 1 de novembro",
-      "url": "https://healthnews.pt/2026/11/09/doacao-de-gametas-novos-limites-de-compensacao-entram-em-vigor-a-1-de-novembro/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T15:27:29Z",
-      "description": "Quase uma década depois da última revisão, Portugal atualiza os valores máximos pagos a dadores de óvulos e esperma. A medida, que entra em vigor a 1 de novembro, é vista como um passo para reduzir as filas de espera, embora especialistas alertem que não resolve tudo",
-      "image": ""
-    },
-    {
-      "title": "Crises de asma disparam com a chegada do frio e da humidade",
-      "url": "https://healthnews.pt/2026/11/09/crises-de-asma-disparam-com-a-chegada-do-frio-e-da-humidade/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T15:22:17Z",
-      "description": "A descida das temperaturas e o aumento da humidade marcam o regresso das crises de asma, sobretudo em crianças e adultos. A SPAIC alerta para a importância de manter a medicação preventiva, arejar as casas e vacinar-se contra a gripe para evitar idas às urgências",
-      "image": ""
-    },
-    {
-      "title": "ULSAC relança concurso para radioterapia de Évora após chumbo do Tribunal de Contas",
-      "url": "https://healthnews.pt/2026/11/09/ulsac-relanca-concurso-para-radioterapia-de-evora-apos-chumbo-do-tribunal-de-contas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T15:12:37Z",
-      "description": "A Unidade Local de Saúde do Alentejo Central vai abrir novo procedimento para concessionar a Unidade de Radioterapia de Évora, encerrada desde junho, depois de o Tribunal de Contas ter recusado o visto ao contrato com a Atrys, adjudicado em abril por 13,5 milhões de euros",
-      "image": ""
-    },
-    {
-      "title": "Cabinda soma 16 anos à espera de centro oncológico e doentes morrem em casa",
-      "url": "https://healthnews.pt/2026/11/09/cabinda-soma-16-anos-a-espera-de-centro-oncologico-e-doentes-morrem-em-casa/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T14:09:29Z",
-      "description": "O responsável do núcleo de oncologia de Cabinda, Pedro Sebastião, reclamou a criação urgente de um centro especializado na província, avisando que muitos doentes permanecem em casa em fase crítica por falta de resposta adequada e que a deslocação a Luanda, por via aérea ou marítima, representa risco de vida",
-      "image": ""
-    },
-    {
-      "title": "Dádiva mensal de sangue chega ao campus do ICBAS",
-      "url": "https://healthnews.pt/2026/11/09/dadiva-mensal-de-sangue-chega-ao-campus-do-icbas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T14:06:38Z",
-      "description": "Sessões mensais de colheita de sangue passam a realizar-se no Complexo ICBAS/FFUP, numa parceria entre a AEICBAS e a ULS de Santo António. A primeira está marcada para 10 de novembro e abrange toda a comunidade académica e o público em geral.",
-      "image": ""
-    },
-    {
-      "title": "Escassez de profissionais trava compras hospitalares no SNS",
-      "url": "https://healthnews.pt/2026/11/09/escassez-de-profissionais-trava-compras-hospitalares-no-sns/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T13:31:41Z",
-      "description": "Quase três em cada quatro participantes no primeiro Barómetro de Compras Hospitalares apontam a falta de profissionais como o principal risco da função no SNS e admitem recorrer a compras urgentes quando há ruturas de fornecimento",
-      "image": ""
-    },
-    {
-      "title": "Mortes no Algarve. Ordem dos Médicos fala em \"situações lamentáveis\"",
-      "url": "https://www.rtp.pt/noticias/pais/mortes-no-algarve-ordem-dos-medicos-fala-em-situacoes-lamentaveis_v1777876",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T13:29:47Z",
-      "description": "O bastonário da Ordem dos Médicos considera inadmissíveis os alegados casos de mortes por falta de assistência no Algarve. Carlos Cortes garante que os avisos da falta de recursos eram do conhecimento da Administração da Unidade Local de Saúde e do Ministério.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c6b6a7dfb750c5b6229473c6a487478.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Dentistas pedem 7,2 milhões ao OE2027 para tratar quem fica de fora",
-      "url": "https://healthnews.pt/2026/11/09/dentistas-pedem-72-milhoes-ao-oe2027-para-tratar-quem-fica-de-fora/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T13:28:14Z",
-      "description": "A Ordem dos Médicos Dentistas propõe 7,2 milhões de euros no Orçamento do Estado de 2027 para cheques de saúde oral, reabilitação protésica e respostas de proximidade, reclamando ainda 30% da receita do imposto sobre bebidas açucaradas para o setor",
-      "image": ""
-    },
-    {
-      "title": "Nova viatura SIV reforça emergência médica em Vendas Novas",
-      "url": "https://healthnews.pt/2026/11/09/nova-viatura-siv-reforca-emergencia-medica-em-vendas-novas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-09T13:25:13Z",
-      "description": "Uma nova viatura de Suporte Imediato de Vida entrou hoje ao serviço em Vendas Novas, no distrito de Évora, num reforço da resposta de emergência médica pré-hospitalar no concelho e na região, anunciou o INEM",
-      "image": ""
     }
   ],
   "world": [
     {
-      "title": "Empresário José Enrique Rincón em liberdade condicional após cinco meses preso",
-      "url": "https://www.rtp.pt/noticias/mundo/empresario-jose-enrique-rincon-em-liberdade-condicional-apos-cinco-meses-preso_n1777983",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T22:58:56Z",
-      "description": "O conhecido empresário venezuelano-italiano José Enrique Rincón, passou para o regime de liberdade condicional tendo saído da prisão de El Rodeo I, ficando sujeito a apresentações periódicas às autoridades, confirmou hoje a organização não governamental Foro Penal (FP).",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Riade regressa ao ensino à distância após aumento de ataques dos houthis",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/riade-regressa-ao-ensino-a-distancia-apos-aumento-de-ataques-dos-houthis_n1777980",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T22:40:21Z",
-      "description": "As aulas virtuais foram inicialmente impostas a 11 de outubro, após um ataque fatal contra o aeroporto da capital saudita, mas tinham regressado ao regime presencial há dois dias.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/27/27313f86c938575721678a8dfd72b868.JPG?w=350&q=75_&auto=format&q=50"
-    },
-    {
-      "title": "Papa defende na Argentina os sindicatos como \"instituição indispensável\"",
-      "url": "https://www.rtp.pt/noticias/mundo/papa-defende-na-argentina-os-sindicatos-como-instituicao-indispensavel_n1777976",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T22:19:09Z",
-      "description": "O papa defendeu hoje os sindicatos, considerando-os como uma \"instituição indispensável\", no segundo dia da sua visita à Argentina, onde o mundo sindical se opõe há três anos à desregulamentação liberal sob a presidência de Javier Milei.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Conselho da Paz pede ação imediata a Israel após tempestades em Gaza",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/conselho-da-paz-pede-acao-imediata-a-israel-apos-tempestades-em-gaza_n1777953",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T22:18:32Z",
-      "description": "O Conselho da Paz, órgão criado pelo Presidente norte-americano, Donald Trump, para o processo de paz na Faixa de Gaza, pediu hoje a Israel que \"aja imediatamente\" face à \"emergência humanitária\" provocada pelas tempestades no enclave palestiniano.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Iniciado processo de destituição contra secretário de Defesa dos EUA no Congresso",
-      "url": "https://www.rtp.pt/noticias/mundo/iniciado-processo-de-destituicao-contra-secretario-de-defesa-dos-eua-no-congresso_n1777977",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T22:13:20Z",
-      "description": "Um congressista republicano iniciou hoje um processo de destituição (impeachment) contra o secretário da Defesa norte-americano, Pete Hegseth, criticado, entre outros temas, pela forma como conduziu a guerra no Irão.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/79/7952d24dc252f814e9898e4c63ac80d0?w=350&q=50&rect=0,22,1500,822&auto=format"
-    },
-    {
-      "title": "Turquia: explosão em siderurgia em Izmir provoca incêndio e investigação oficial",
-      "url": "https://pt.euronews.com/video/2026/11/09/turquia-explosao-em-siderurgia-em-izmir-provoca-incendio-e-investigacao-oficial",
+      "title": "Itália domina candidaturas à prova EPSO e complica equilíbrio nas contratações da UE",
+      "url": "https://pt.euronews.com/2026/11/10/italia-domina-candidaturas-a-prova-epso-e-complica-equilibrio-nas-contratacoes-da-ue",
       "source": "Euronews",
-      "publishedAt": "2026-11-09T22:03:01Z",
-      "description": "Explosão devastadora na siderurgia Habaş em Aliağa, no oeste da Turquia, mata 17 pessoas. Testemunhas falam em abalo sísmico; imagens mostram chamas, fumo denso e familiares em choque junto à fábrica.",
-      "image": "https://images.euronews.com/articles/stories/09/98/63/44/1200x675_cmsv2_885d2721-3974-5c19-83c0-dd4f2bec4fa4-9986344.jpg"
+      "publishedAt": "2026-11-10T09:30:49Z",
+      "description": "O concurso geralista da EPSO começou a 9 de novembro, mas quase metade dos candidatos é italiana, em choque com regras da Comissão que privilegiam países sub-representados.",
+      "image": "https://images.euronews.com/articles/stories/09/98/59/02/1200x675_cmsv2_da1d48ac-d712-5a22-9d77-5fbe935ddac1-9985902.jpg"
     },
     {
-      "title": "Retiradas quase mil pessoas de navio de passageiros na Grécia após ameaça de bomba",
-      "url": "https://www.rtp.pt/noticias/mundo/retiradas-quase-mil-pessoas-de-navio-de-passageiros-na-grecia-apos-ameaca-de-bomba_n1777975",
+      "title": "\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi",
+      "url": "https://www.rtp.pt/noticias/mundo/fim-definitivo-a-procura-da-paz-para-a-ucrania-em-abu-dhabi_n1778032",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T21:55:43Z",
-      "description": "Um navio com 875 passageiros e 83 tripulantes, que estava prestes a zarpar do porto do Pireu em direção a várias ilhas gregas, foi hoje evacuado após uma ameaça de bomba.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/83/83e914cec9e01d786b12c016d5c5dfb3.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-10T09:24:22Z",
+      "description": "Abu Dabhi acolhe as primeiras conversações desde fevereiro que vão ter por base a proposta dos EUA para uma \"arquitetura de segurança a longo prazo\" entre Moscovo e a Europa. As autoridades norte-americanas querem um \"fim definitivo\" para a guerra entre a Rússia e a Ucrânia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/25/25f17bf32985a9a7859c0228dc94e51f?w=350&q=50&rect=0,196,1500,822&auto=format"
     },
     {
-      "title": "Polónia: Tusk e Nawrocki prestam homenagem às seis vítimas do ataque em Cracóvia",
-      "url": "https://pt.euronews.com/video/2026/11/09/polonia-tusk-e-nawrocki-prestam-homenagem-as-seis-vitimas-do-ataque-em-cracovia",
+      "title": "Liceais voltam às ruas contra reforma de Parcoursup e para pressionar governo",
+      "url": "https://pt.euronews.com/2026/11/10/liceais-voltam-as-ruas-contra-reforma-de-parcoursup-e-para-pressionar-governo",
       "source": "Euronews",
-      "publishedAt": "2026-11-09T21:34:57Z",
-      "description": "Presidente e primeiro-ministro polacos deixam de lado divergências políticas para homenagear as seis vítimas do tiroteio mortal em Cracóvia, acendendo velas e ajoelhando-se juntos numa vigília no centro histórico",
-      "image": "https://images.euronews.com/articles/stories/09/98/63/31/1200x675_cmsv2_3f380230-fc03-5819-b9e1-af4b889318e7-9986331.jpg"
+      "publishedAt": "2026-11-10T09:22:03Z",
+      "description": "O movimento dos estudantes do secundário não dá sinais de abrandar. Esta terça-feira, 10 de novembro, as organizações apelam a novas manifestações para manter o governo sob pressão.",
+      "image": "https://images.euronews.com/articles/stories/09/98/64/93/1200x675_cmsv2_1533605d-ce97-5015-8524-9b511045a8cc-9986493.jpg"
     },
     {
-      "title": "Turquia: arranca COP31 em Antalya com chegada de delegados",
-      "url": "https://pt.euronews.com/video/2026/11/09/turquia-arranca-cop31-em-antalya-com-chegada-de-delegados",
-      "source": "Euronews",
-      "publishedAt": "2026-11-09T21:24:13Z",
-      "description": "Cimeira climática COP31 da ONU abre em Antália após ano de ondas de calor mortais e cheias devastadoras, enquanto a guerra no Irão perturba o abastecimento energético mundial",
-      "image": "https://images.euronews.com/articles/stories/09/98/63/06/1200x675_cmsv2_64c59a65-5d38-5bba-ae48-f140abfa5939-9986306.jpg"
+      "title": "Kaja Kallas considera apoio dos EUA indispensável para travar a Rússia",
+      "url": "https://www.rtp.pt/noticias/mundo/kaja-kallas-considera-apoio-dos-eua-indispensavel-para-travar-a-russia_v1778039",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-10T08:42:47Z",
+      "description": "Kaja Kallas afirma que não vê qualquer vontade por parte da Rússia para negociar a paz.",
+      "image": "https://cdn-images.rtp.pt/icm/images/28/286a495e05abb81137cb477c8cd635bc_N.jpg?"
     },
     {
-      "title": "Espanha mobiliza aviões militares para aliviar pressão migratória nas Canárias",
-      "url": "https://pt.euronews.com/2026/11/09/espanha-mobiliza-avioes-militares-para-aliviar-pressao-migratoria-nas-canarias",
-      "source": "Euronews",
-      "publishedAt": "2026-11-09T19:25:33Z",
-      "description": "Governo reúne esta terça-feira na Moncloa a Comissão Interministerial de Imigração, enquanto o PP critica os traslados e as Canárias apresentam oito medidas, após cerca de 6 700 chegadas nos nove primeiros dias de novembro, que levaram à ativação do Exército do Ar",
-      "image": "https://images.euronews.com/articles/stories/09/98/58/63/1200x675_cmsv2_a55ca05d-3b5f-5d56-ac2d-15797c3120aa-9985863.jpg"
+      "title": "Ucrânia. Trump mantém otimismo na paz apesar da violência no terreno",
+      "url": "https://www.rtp.pt/noticias/mundo/ucrania-trump-mantem-otimismo-na-paz-apesar-da-violencia-no-terreno_v1778037",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-10T08:39:48Z",
+      "description": "Rússia e Ucrânia voltam hoje à mesa de negociações, numa altura em que Moscovo intensifica os ataques contra as infraestruturas energéticas ucranianas.",
+      "image": "https://cdn-images.rtp.pt/icm/images/66/66e8f988b1de61bd395596b06e49db72_N.jpg?"
     },
     {
-      "title": "Espanha apoia Hernández de Cos para suceder a Lagarde no Banco Central Europeu",
-      "url": "https://pt.euronews.com/2026/11/09/espanha-apoia-hernandez-de-cos-para-suceder-a-lagarde-no-banco-central-europeu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-09T19:24:15Z",
-      "description": "Ministro espanhol Carlos Cuerpo defende candidato Pablo Hernández de Cos para suceder a Christine Lagarde no BCE",
-      "image": "https://images.euronews.com/articles/stories/09/98/50/82/1200x675_cmsv2_fce9ee6f-cc9e-58e2-8a70-7cf2306b17d2-9985082.jpg"
+      "title": "Trump garante apoio a Pete Hegseth perante ameaça de destituição",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-garante-apoio-a-pete-hegseth-perante-ameaca-de-destituicao_v1778036",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-10T08:35:47Z",
+      "description": "Donald Trump mantém total apoio ao secretário da Defesa. O presidente dos Estados Unidos já garantiu que estará firmemente ao lado de Pete Hegseth, caso este venha a ser alvo de um processo de destituição no Congresso.",
+      "image": "https://cdn-images.rtp.pt/icm/images/24/243d78530e1c8f8ef423199b6406005f_N.jpg?"
     },
     {
-      "title": "França acusa Irão de ciberataques a frigoríficos de supermercados",
-      "url": "https://pt.euronews.com/2026/11/09/franca-acusa-irao-de-ciberataques-a-frigorificos-de-supermercados",
+      "title": "Estados Unidos: Eleitores da Califórnia rejeitam taxa única sobre riqueza de multimilionários",
+      "url": "https://pt.euronews.com/2026/11/10/estados-unidos-eleitores-da-california-rejeitam-taxa-unica-sobre-riqueza-de-multimilionari",
       "source": "Euronews",
-      "publishedAt": "2026-11-09T19:07:43Z",
-      "description": "Disse o ministro francês dos Negócios Estrangeiros, Barrot, que ainda decorre uma investigação ao ataque ao frigorífico e que o embaixador do Irão em França será convocado",
-      "image": "https://images.euronews.com/articles/stories/09/98/03/60/1200x675_cmsv2_703f52a9-6b6e-51d5-83d8-0f6c3d0aef14-9980360.jpg"
+      "publishedAt": "2026-11-10T08:32:31Z",
+      "description": "Medida via-se como teste crucial para a campanha global contra a desigualdade, mas prevaleceram avisos de que os super-ricos acabariam por deixar o estado.",
+      "image": "https://images.euronews.com/articles/stories/09/98/65/88/1200x675_cmsv2_2268e51f-0e64-5f4f-b77c-0e0426ab6cfa-9986588.jpg"
+    },
+    {
+      "title": "Senegal: imagens mostram destroços de barco de migrantes com 39 mortos",
+      "url": "https://pt.euronews.com/video/2026/11/10/senegal-imagens-mostram-destrocos-de-barco-de-migrantes-com-39-mortos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-10T08:27:36Z",
+      "description": "Pelo menos 39 pessoas morreram após um barco de migrantes se afundar ao largo da costa atlântica do Senegal. Imagens mostram a embarcação destruída na praia enquanto equipas de salvamento continuam à procura de vítimas",
+      "image": "https://images.euronews.com/articles/stories/09/98/66/71/1200x675_cmsv2_9417e457-57ca-5424-9c7e-62d0b5b88c37-9986671.jpg"
+    },
+    {
+      "title": "Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso",
+      "url": "https://www.rtp.pt/noticias/mundo/irao-pete-hegseth-enfrenta-ameaca-de-destituicao-no-congresso_v1778034",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-10T08:18:47Z",
+      "description": "O secretário da Defesa dos Estados Unidos, Pete Hegseth, enfrenta um processo de destituição promovido pelo republicano Thomas Massie, devido à gestão do conflito no Irão.",
+      "image": "https://cdn-images.rtp.pt/icm/images/ee/eebb94f75239449b850c0d7e4eefb0d5_N.jpg?"
+    },
+    {
+      "title": "A aposta orçamental de Merz: sem financiamento para a Ucrânia, não há orçamento da UE",
+      "url": "https://pt.euronews.com/2026/11/10/a-aposta-orcamental-de-merz-sem-financiamento-para-a-ucrania-nao-ha-orcamento-da-ue",
+      "source": "Euronews",
+      "publishedAt": "2026-11-10T08:13:37Z",
+      "description": "Bom dia. Sou Luca Bertuzzi e assino a newsletter de hoje. Nesta edição: Merz liga o orçamento da UE ao apoio financeiro unânime à Ucrânia, Europa envia delegação a Abu Dhabi mas fica fora das conversações trilaterais, e a estratégia para o Mar Negro tenta manter-se à tona.",
+      "image": "https://images.euronews.com/articles/stories/09/98/53/66/1200x675_cmsv2_4f534c8f-b065-5578-9a91-0357b1c0d210-9985366.jpg"
+    },
+    {
+      "title": "Peru revela estátua gigante do Papa Leão XIV antes de visita ao país",
+      "url": "https://pt.euronews.com/video/2026/11/10/peru-revela-estatua-gigante-do-papa-leo-xiv-antes-de-visita-ao-pais",
+      "source": "Euronews",
+      "publishedAt": "2026-11-10T07:46:27Z",
+      "description": "Uma estátua gigante do Papa Leão XIV foi inaugurada em Callao, no Peru, antes da próxima visita. O monumento homenageia os laços estreitos do pontífice com o país, onde foi missionário e bispo",
+      "image": "https://images.euronews.com/articles/stories/09/98/66/39/1200x675_cmsv2_c2b57aa7-cbbb-58e5-8864-8dbd3fc6ccf5-9986639.jpg"
+    },
+    {
+      "title": "Human Rights Watch apela à libertação \"incondicional e imediata\" de ativista de Macau Au Kam San",
+      "url": "https://www.rtp.pt/noticias/mundo/human-rights-watch-apela-a-libertacao-incondicional-e-imediata-de-ativista-de-macau-au-kam-san_n1778022",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-10T07:18:52Z",
+      "description": "A Human Rights Watch (HRW) defendeu hoje que o ex-deputado ao parlamento de Macau Au Kam San foi condenado \"com base em acusações infundadas\" e apelou à libertação \"imediata e incondicional\" do ativista.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/50/507e99388bde8ecd11c1962fae32313e?w=350&q=50&rect=0,0,960,526&auto=format"
     }
   ]
 }
