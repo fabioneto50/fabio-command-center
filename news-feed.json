@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-11T06:25:22.574318Z",
+  "updatedAt": "2026-11-11T15:14:35.750570Z",
   "health": [
+    {
+      "title": "médicos reúnem-se em Matosinhos para discutir produtividade e o peso da burocracia no SNS",
+      "url": "https://healthnews.pt/2026/11/11/medicos-reunem-se-em-matosinhos-para-discutir-produtividade-e-o-peso-da-burocracia-no-sns/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T13:22:33Z",
+      "description": "A Ordem dos Médicos realiza a 12 e 13 de novembro o seu 29.º Congresso Nacional, no Terminal de Cruzeiros de Leixões, com um programa que coloca a falta de recursos humanos, a organização das Unidades Locais de Saúde e a inteligência artificial no centro do debate sobre o futuro da profissão",
+      "image": ""
+    },
+    {
+      "title": "SNS com défice de 2.679 milhões em 2027 e menos 328 milhões do Estado",
+      "url": "https://healthnews.pt/2026/11/11/sns-com-defice-de-2-679-milhoes-em-2027-e-menos-328-milhoes-do-estado/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T13:11:53Z",
+      "description": "O economista Eugénio Rosa analisou a nota explicativa do Ministério da Saúde entregue aos deputados e conclui que o orçamento do SNS para 2027 prevê um saldo negativo de 2.679,4 milhões de euros, mais do dobro do estimado para este ano, e uma transferência do Estado inferior à de 2026",
+      "image": ""
+    },
+    {
+      "title": "Litoral Alentejano suspende atividade programada e fecha centros de saúde ao início da tarde",
+      "url": "https://healthnews.pt/2026/11/11/litoral-alentejano-suspende-atividade-programada-e-fecha-centros-de-saude-ao-inicio-da-tarde/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T12:06:24Z",
+      "description": "ULS do Litoral Alentejano cancelou consultas, exames e tratamentos não urgentes esta quarta-feira devido à depressão Charles. Urgências mantêm-se e centros de saúde abrem só até às 13h00 para doença aguda",
+      "image": ""
+    },
+    {
+      "title": "Gilead e parceiros distinguem quatro projetos de saúde com bolsas de 50 mil euros",
+      "url": "https://healthnews.pt/2026/11/11/gilead-e-parceiros-distinguem-quatro-projetos-de-saude-com-bolsas-de-50-mil-euros/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T11:12:22Z",
+      "description": "A quinta edição das Bolsas \"Mais Valor em Saúde – Vidas que Valem\" premeia quatro projetos do Serviço Nacional de Saúde. A cerimónia decorre a 17 de novembro, no auditório da Ordem dos Farmacêuticos, em Lisboa, e reúne António Costa Silva e Pedro Pita Barros para debater o peso da saúde na economia",
+      "image": ""
+    },
+    {
+      "title": "Faro é o único distrito sob aviso vermelho por vento",
+      "url": "https://healthnews.pt/2026/11/11/faro-e-o-unico-distrito-sob-aviso-vermelho-por-vento/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T10:09:44Z",
+      "description": "Faro é o único distrito que mantém esta quarta-feira, 11 de novembro, o aviso vermelho devido ao vento forte, após o Instituto Português do Mar e da Atmosfera (IPMA) ter reduzido para laranja o nível de aviso em sete distritos. No Algarve, estão previstas rajadas até 120 quilómetros por hora, que poderão atingir 140 quilómetros por hora nos locais mais expostos.",
+      "image": ""
+    },
+    {
+      "title": "Mau tempo: autoridades pedem afastamento da orla costeira",
+      "url": "https://healthnews.pt/2026/11/11/mau-tempo-autoridades-pedem-afastamento-da-orla-costeira/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T08:43:33Z",
+      "description": "A Autoridade Marítima Nacional (AMN) e a Marinha apelaram à população para evitar passeios junto ao mar e suspender a pesca lúdica nas zonas costeiras expostas à rebentação, perante o agravamento das condições meteorológicas e da agitação marítima previsto até às 12h00 de quinta-feira, 12 de novembro.",
+      "image": ""
+    },
+    {
+      "title": "Depressão Charles: o que esperar hoje",
+      "url": "https://healthnews.pt/2026/11/11/depressao-charles-o-que-esperar-hoje/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T07:30:30Z",
+      "description": "A depressão Charles chegou na noite passada a Portugal e traz aviso vermelho à Madeira e a oito distritos do continente hoje, com rajadas até 140 km/h, escolas encerradas e apelo ao teletrabalho. O Governo declarou situação de alerta entre as 00:00 e as 23:59",
+      "image": ""
+    },
+    {
+      "title": "Depressão Charles leva ULS Amadora-Sintra a suspender consultas presenciais e cirurgias esta quarta-feira",
+      "url": "https://healthnews.pt/2026/11/11/depressao-charles-leva-uls-amadora-sintra-a-suspender-consultas-presenciais-e-cirurgias-esta-quarta-feira/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T07:28:50Z",
+      "description": "A ULS Amadora-Sintra adiou para hoje consultas presenciais, exames e cirurgias programadas, com exceção da atividade oncológica, devido à depressão Charles. Urgências, cuidados urgentes e a consulta de doença aguda mantêm-se, com reagendamentos a serem comunicados aos utentes",
+      "image": ""
+    },
+    {
+      "title": "Depressão Charles: SNS reforça urgências no dia de alerto máximo",
+      "url": "https://healthnews.pt/2026/11/11/depressao-charles-sns-reforca-urgencias-no-dia-de-alerto-maximo/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T07:27:26Z",
+      "description": "Esta quarta-feira, com Portugal continental em alerta máximo até às 23:59, a Direção Executiva do SNS pediu às unidades de saúde para avaliarem o absentismo dos profissionais e reforçarem urgências e cuidados primários face à depressão Charles",
+      "image": ""
+    },
     {
       "title": "Ex-diretor da urgência de Portimão nega acusações que levaram à sua substituição",
       "url": "https://www.rtp.pt/noticias/pais/ex-diretor-da-urgencia-de-portimao-nega-acusacoes-que-levaram-a-sua-substituicao_n1778258",
@@ -8,22 +80,6 @@
       "publishedAt": "2026-11-10T20:47:28Z",
       "description": "Afastado do cargo de diretor do serviço de urgência do Hospital de Portimão após a morte de um idoso na última semana, João Coucelo reagiu, esta terça-feira, às acusações de \"incapacidade\" de gestão por parte da administração. Em comunicado, nega, ainda, que a relação de proximidade com Ana Paula Martins tenha originado conflitos de autoridade no hospital.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/51/51cb3d82acf0163c7ddfc730d99e4d6e?w=350&q=50&rect=0,342,4898,2685&auto=format"
-    },
-    {
-      "title": "Depressão Charles leva ULS Alto Alentejo a cancelar atividade não urgente e a antecipar internamentos oncológicos",
-      "url": "https://healthnews.pt/2026/11/10/depressao-charles-leva-uls-alto-alentejo-a-cancelar-atividade-nao-urgente-e-a-antecipar-internamentos-oncologicos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T15:21:12Z",
-      "description": "A ULS Alto Alentejo cancelou toda a atividade programada não urgente para quarta-feira e decidiu antecipar internamentos de doentes oncológicos para esta tarde, devido ao agravamento do estado do tempo com a chegada da depressão Charles",
-      "image": ""
-    },
-    {
-      "title": "Ministra demite presidente da ULS de Aveiro detido por suspeitas de corrupção",
-      "url": "https://healthnews.pt/2026/11/10/ministra-demite-presidente-da-uls-de-aveiro-detido-por-suspeitas-de-corrupcao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T14:39:45Z",
-      "description": "A ministra da Saúde demitiu hoje, com efeitos imediatos, Ricardo Matos, presidente da Unidade Local de Saúde da Região de Aveiro, detido pela Polícia Judiciária por suspeitas de corrupção, participação económica em negócio, abuso de poder e tráfico de influência",
-      "image": ""
     },
     {
       "title": "Detido pela Polícia Judiciária. Ministra da Saúde demite diretor da ULS de Aveiro",
@@ -34,166 +90,110 @@
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2d0ffad4d454a6f2fd815c52ff79932?w=350&q=50&rect=0,28,4362,2391&auto=format"
     },
     {
-      "title": "Presidente da ULS de Aveiro detido em operação anti-corrupção",
-      "url": "https://healthnews.pt/2026/11/10/presidente-da-uls-de-aveiro-detido-em-operacao-anti-corrupcao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T12:26:13Z",
-      "description": "A Polícia Judiciária (PJ) confirma que um dos três detidos na operação “Batas & Betão” é o presidente da Unidade Local de Saúde (ULS) da Região de Aveiro, Ricardo Matos",
-      "image": ""
-    },
-    {
-      "title": "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
-      "url": "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T12:23:10Z",
-      "description": "A Unidade de Saúde Familiar do Arco, na Travessa do Noronha, está fechada por decisão do conselho de administração da ULS São José, que alega segurança de utentes e profissionais. O encerramento ocorre a menos de 24 horas de uma nova depressão, Charles, que deverá atingir o continente com vento e chuva intensos",
-      "image": ""
-    },
-    {
-      "title": "Última hora: IPMA eleva aviso para vermelho com rajadas até 140 km/h",
-      "url": "https://healthnews.pt/2026/11/10/ultima-hora-ipma-eleva-aviso-para-vermelho-com-rajadas-ate-140-km-h/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T09:35:13Z",
-      "description": "O Instituto Português do Mar e da Atmosfera (IPMA) colocou oito distritos de Portugal continental sob aviso vermelho para vento forte na quarta-feira, 11 de novembro, devido à passagem da depressão Charles. O aviso vermelho é o nível mais grave da escala. As rajadas poderão chegar aos 120 km/h e atingir os 140 km/h nos locais mais expostos.",
-      "image": ""
-    },
-    {
-      "title": "Maldita.es identifica mais de mil conteúdos de abuso sexual infantil no TikTok",
-      "url": "https://healthnews.pt/2026/11/10/maldita-es-identifica-mais-de-mil-conteudos-de-abuso-sexual-infantil-no-tiktok/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T09:02:38Z",
-      "description": "A fundação espanhola Maldita.es identificou mais de mil publicações com material explícito de abuso sexual infantil no TikTok, que acumulavam 48 milhões de visualizações. A investigação, divulgada em 9 de novembro de 2026, denuncia falhas nos mecanismos de proteção de crianças e adolescentes e sustenta que as próprias ferramentas da plataforma facilitam o acesso a estes…",
-      "image": ""
-    },
-    {
-      "title": "PS/Açores propõe integrar hospitais e unidades de saúde de ilha",
-      "url": "https://healthnews.pt/2026/11/10/ps-acores-propoe-integrar-hospitais-e-unidades-de-saude-de-ilha/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T08:33:39Z",
-      "description": "O presidente do PS/Açores, Francisco César, propôs a criação de um Centro Integrado e Universitário de Saúde dos Açores, que reúna os três hospitais da região e as unidades de saúde de ilha numa estratégia comum. A proposta prevê uma integração progressiva da gestão, preservando a capacidade de decisão das direções clínicas junto das populações.",
-      "image": ""
-    },
-    {
-      "title": "Depressão Charles: seis distritos em aviso laranja e Proteção Civil apela à prevenção",
-      "url": "https://healthnews.pt/2026/11/10/depressao-charles-seis-distritos-em-aviso-laranja-e-protecao-civil-apela-a-prevencao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-10T08:24:51Z",
-      "description": "A depressão Charles deverá agravar o estado do tempo em Portugal continental a partir do final da manhã de quarta-feira, 11 de novembro. São esperadas rajadas de vento da ordem dos 100 a 120 km/h e chuva por vezes forte em quase todo o território. O Instituto Português do Mar e da Atmosfera (IPMA) anunciou a emissão de avisos de nível laranja e não exclui o seu agravamento em…",
-      "image": ""
-    },
-    {
       "title": "Antigos ministros da Saúde pedem mudanças urgentes no SNS",
       "url": "https://www.rtp.pt/noticias/pais/antigos-ministros-da-saude-pedem-mudancas-urgentes-no-sns_v1778031",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-10T08:02:47Z",
       "description": "A demissão do presidente da Unidade Local de Saúde do Algarve continua a gerar debate e fortes críticas à gestão da tutela.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/1a/1a988ffdc9eb8f9d04ee0a25c241f9b7.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Ministra da Saúde demite presidente do Conselho da Administração da ULS Algarve",
-      "url": "https://www.rtp.pt/noticias/pais/ministra-da-saude-demite-presidente-do-conselho-da-administracao-da-uls-algarve_n1777956",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-09T20:47:30Z",
-      "description": "A ministra da Saúde avançou a intenção de demitir o presidente do Conselho da Administração da ULS do Algarve, Tiago Martins da Silva, na sequência das mortes no Hospital de Portimão durante constrangimentos nas urgências.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ed/ed80cb048da698a65a1800bfe43e6dff.jpg?w=350&q=50&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Espanha: 69 velas acesas na catedral de Toledo pelas vítimas do acidente ferroviário",
-      "url": "https://pt.euronews.com/video/2026/11/10/espanha-69-velas-acesas-na-catedral-de-toledo-pelas-vitimas-do-acidente-ferroviario",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T22:54:08Z",
-      "description": "Rei Filipe VI de Espanha e rainha Letizia participaram, a 10 de novembro, no funeral de Estado na catedral de Toledo pelas 69 vítimas do devastador choque de um comboio de alta velocidade perto de Urda, em 28 de outubro",
-      "image": "https://images.euronews.com/articles/stories/09/98/76/99/1200x675_cmsv2_5995a6cf-cf5a-5dbd-9cac-e27ff30dec9f-9987699.jpg"
-    },
-    {
-      "title": "Argentina: Papa Leão XIV celebra missa perante 650 mil fiéis em Córdoba",
-      "url": "https://pt.euronews.com/video/2026/11/10/argentina-papa-leao-xiv-celebra-missa-perante-650-mil-fieis-em-cordoba",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T22:20:01Z",
-      "description": "O Papa Leão XIV celebrou missa perante cerca de 650 mil fiéis em Córdoba, na Argentina, saudou a multidão do papamóvel e apelou a que abrissem os corações e abraçassem a sua fé",
-      "image": "https://images.euronews.com/articles/stories/09/98/76/86/1200x675_cmsv2_f259e251-91d1-59ad-b716-e00c2bab4146-9987686.jpg"
-    },
-    {
-      "title": "PR são-tomense convida MLSTP a indicar primeiro-ministro mas pede sustentabilidade",
-      "url": "https://www.rtp.pt/noticias/mundo/pr-sao-tomense-convida-mlstp-a-indicar-primeiro-ministro-mas-pede-sustentabilidade_n1778247",
+      "title": "Crise da habitação e salários na base de greve geral em Espanha",
+      "url": "https://www.rtp.pt/noticias/mundo/crise-da-habitacao-e-salarios-na-base-de-greve-geral-em-espanha_v1778450",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T22:10:04Z",
-      "description": "O Presidente são-tomense convidou hoje o Movimento de Libertação de São Tomé e Príncipe (MLSTP), vencedor das últimas eleições sem maioria absoluta, a indicar o primeiro-ministro, mas exigiu provas de sustentabilidade parlamentar.",
+      "publishedAt": "2026-11-11T14:31:48Z",
+      "description": "Esta quarta-feira é dia de greve geral em Espanha - a primeira em 14 anos. Uma paralisação inédita, já que acontece a um dia do arranque da campanha eleitoral e é incentivada pelo atual Governo de Pedro Sánchez.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/77/77dbdbaa98362bc9aa13f548e87e54a3?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "Sombra de Kennedy pode travar planos de Trump para arco triunfal",
+      "url": "https://www.rtp.pt/noticias/mundo/sombra-de-kennedy-pode-travar-planos-de-trump-para-arco-triunfal_n1778427",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-11T14:26:34Z",
+      "description": "A família do antigo presidente norte-americano John F. Kennedy recorreu aos tribunais para impedir que Donald Trump concretize a construção de um arco triunfal em Washington. Os familiares alegam que a estrutura de 76 metros irá bloquear a vista do túmulo de Kennedy, bem como a de milhares de veteranos sepultados no Cemitério Nacional de Arlington, na Virgínia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1a/1a2487d5d34812caeebe6bf0f59addf9?w=350&q=50&rect=0,154,1500,822&auto=format"
+    },
+    {
+      "title": "Rússia proíbe entrada no país a dois deputados e dois jornalistas franceses",
+      "url": "https://pt.euronews.com/2026/11/11/russia-proibe-entrada-no-pais-a-dois-deputados-e-dois-jornalistas-franceses",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T14:25:43Z",
+      "description": "Resposta à expulsão e ao congelamento dos bens de Xenia Fedorova, ex-dirigente da RT France e figura dos media do multimilionário Vincent Bolloré.",
+      "image": "https://images.euronews.com/articles/stories/09/98/86/07/1200x675_cmsv2_e9046479-8c7d-5239-a15e-a20a95566191-9988607.jpg"
+    },
+    {
+      "title": "\"Combustíveis fósseis vão desaparecer como os dinossauros\"",
+      "url": "https://www.rtp.pt/noticias/mundo/combustiveis-fosseis-vao-desaparecer-como-os-dinossauros_n1778444",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-11T14:10:49Z",
+      "description": "O secretário-geral das Nações Unidas, António Guterres, disse esta quarta-feira, ao discursar perante a COP31, na Turquia, que os combustíveis fósseis devem desaparecer, tal como aconteceu com os dinossauros.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd1940c1811c7f5f5dcc041b331f7986?w=350&q=50&rect=0,52,955,524&auto=format"
+    },
+    {
+      "title": "Grupo português vai produzir componentes para os caças da sueca Saab",
+      "url": "https://pt.euronews.com/2026/11/11/grupo-portugues-vai-produzir-componentes-para-os-cacas-da-sueca-saab",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T14:04:39Z",
+      "description": "Empresa sueca anunciou a parceria com o grupo industrial português Vangest que irá produzir oito componentes complexos para os caças Gripen E/F nas suas instalações na Marinha Grande. Caça sueco é um dos modelos apontados à renovação da frota de F-16 da Força Aérea portuguesa.",
+      "image": "https://images.euronews.com/articles/stories/09/98/84/95/1200x675_cmsv2_5e441367-ecda-5a30-8db6-cc2a99ff6e95-9988495.jpg"
+    },
+    {
+      "title": "Greve geral deixa Espanha dividida",
+      "url": "https://www.rtp.pt/noticias/mundo/greve-geral-deixa-espanha-dividida_n1778439",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-11T14:00:45Z",
+      "description": "Esta quarta-feira é dia de greve geral em Espanha convocada pelos principais sindicatos. Mas a adesão ao protesto está a ser distinta nas diferentes regiões do país. Há também registo de confrontos entre a polícia e piquetes de greve.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad05980b778b67ca9e92ca38ad64c472?w=350&q=50&rect=0,90,1633,895&auto=format"
+    },
+    {
+      "title": "União Europeia prepara diálogo de defesa em Doha com países do Golfo",
+      "url": "https://pt.euronews.com/2026/11/11/uniao-europeia-prepara-dialogo-de-defesa-em-doha-com-paises-do-golfo",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T13:36:58Z",
+      "description": "O embaixador da UE no Qatar, Antonino Maggiore, diz à Euronews que a Europa reforça a cooperação de defesa com o Qatar e o Golfo e aprofunda a cooperação política e económica, pois “toda a crise traz oportunidades”.",
+      "image": "https://images.euronews.com/articles/stories/09/98/80/22/1200x675_cmsv2_78d38641-9c01-5f47-89ae-c6509e47cab4-9988022.jpg"
+    },
+    {
+      "title": "Negociações em Abu Dhabi terminam com troca de prisioneiros, enviados dos EUA vão reunir-se com Putin",
+      "url": "https://pt.euronews.com/2026/11/11/negociacoes-em-abu-dhabi-terminam-com-troca-de-prisioneiros-enviados-dos-eua-vao-reunir-se",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T13:29:26Z",
+      "description": "Uma troca de prisioneiros em grande escala acabou por ser o único resultado concreto de dois dias de conversações entre Ucrânia e Rússia em Abu Dhabi, mediadas pelos EUA, sem avanços quanto a cessar-fogo ou disputas territoriais.",
+      "image": "https://images.euronews.com/articles/stories/09/98/84/67/1200x675_cmsv2_6c32c6ad-bffd-5752-86b2-21a37916fcf3-9988467.jpg"
+    },
+    {
+      "title": "Portugal: tempestade Charles traz chuva intensa, ventos fortes e ondas atlânticas",
+      "url": "https://pt.euronews.com/video/2026/11/11/portugal-tempestade-charles-traz-chuva-intensa-ventos-fortes-e-ondas-atlanticas",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T13:28:47Z",
+      "description": "Chuva intensa, mar agitado e ventos fortes atingiram a Costa da Caparica, levando ao encerramento de estruturas costeiras e a ruas inundadas",
+      "image": "https://images.euronews.com/articles/stories/09/98/85/28/1200x675_cmsv2_7437e25d-ee19-54e1-badd-970a0391fb7a-9988528.jpg"
+    },
+    {
+      "title": "Reino Unido acusa homens ligados a ataques a sinagogas de Londres por plano contra base aérea",
+      "url": "https://pt.euronews.com/2026/11/11/reino-unido-acusa-homens-ligados-a-ataques-a-sinagogas-de-londres-por-plano-contra-base-ae",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T12:56:26Z",
+      "description": "Os procuradores dizem que um dos arguidos, enquanto estava numa prisão nos EUA, transmitiu instruções codificadas aos outros através da mãe e da irmã.",
+      "image": "https://images.euronews.com/articles/stories/09/98/80/89/1200x675_cmsv2_e14d6a9a-1449-5624-89a9-e589ce7b4fad-9988089.jpg"
+    },
+    {
+      "title": "Lula da Silva lamenta armas e tarifas mais presentes nos discursos do que o clima",
+      "url": "https://www.rtp.pt/noticias/mundo/lula-da-silva-lamenta-armas-e-tarifas-mais-presentes-nos-discursos-do-que-o-clima_n1778399",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-11T11:45:44Z",
+      "description": "O Presidente brasileiro lamentou hoje, durante a 31ª conferência das Nações Unidas sobre o clima (COP31), na Turquia, que \"as armas e as tarifas alfandegárias\" estejam mais presentes nos discursos dos líderes mundiais do que as alterações climáticas.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Harvard devolve ao Brasil crânios de escravizados do século XIX",
-      "url": "https://www.rtp.pt/noticias/mundo/harvard-devolve-ao-brasil-cranios-de-escravizados-do-seculo-xix_n1778251",
+      "title": "Irão não permitirá que material nuclear enriquecido saia do país",
+      "url": "https://www.rtp.pt/noticias/mundo/irao-nao-permitira-que-material-nuclear-enriquecido-saia-do-pais_n1778396",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T21:46:47Z",
-      "description": "A Universidade de Harvard, nos Estados Unidos, devolveu ao Brasil dois crânios de pessoas escravizadas no século XIX, disse hoje à Lusa a secretária-executiva do Ministério dos Direitos Humanos e da Cidadania, Caroline Reis.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Navio francês inicia estudos para cabo de interligação elétrica Grécia-Chipre",
-      "url": "https://pt.euronews.com/2026/11/10/navio-frances-inicia-estudos-para-cabo-de-interligacao-eletrica-grecia-chipre",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T20:02:57Z",
-      "description": "O navio francês de investigação“Abeille Marengo” encontra-se no porto de Heraclião, cidade da ilha de Creta, e vai realizar levantamentos submarinos para o cabo de interligação eléctrica Grécia-Chipre, financiado pela UE.",
-      "image": "https://images.euronews.com/articles/stories/09/98/74/65/1200x675_cmsv2_f1dc1b50-6606-5ed4-b510-642261d6f9cd-9987465.jpg"
-    },
-    {
-      "title": "Estados Unidos: democratas conquistam Congresso e redefinem vencedores e derrotados",
-      "url": "https://pt.euronews.com/2026/11/10/estados-unidos-democratas-conquistam-congresso-e-redefinem-vencedores-e-derrotados",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T19:55:00Z",
-      "description": "Até terça-feira, as projeções atribuíam aos democratas 254 lugares e aos republicanos 165, com 16 disputas ainda por decidir.",
-      "image": "https://images.euronews.com/articles/stories/09/98/75/17/1200x675_cmsv2_da9d1698-5e95-5e0f-b560-d41d9fd3c4c7-9987517.jpg"
-    },
-    {
-      "title": "Neonazis de Núcleo Nacional espanhol treinam na Ucrânia e discutem possível “levantamento armado”",
-      "url": "https://pt.euronews.com/2026/11/10/neonazis-de-nucleo-nacional-espanhol-treinam-na-ucrania-e-discutem-possivel-levantamento-a",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T19:53:05Z",
-      "description": "Membros do grupo neonazi espanhol Núcleo Nacional treinaram com espingardas de assalto na Ucrânia, em contacto com a brigada Azov, e falaram de um possível “levantamento armado” em Espanha.",
-      "image": "https://images.euronews.com/articles/stories/09/98/73/81/1200x675_cmsv2_eba79dca-10a2-50c6-ab4a-8484f51b06e5-9987381.jpg"
-    },
-    {
-      "title": "Constitucional valida lei das carreiras militares das Forças Armadas de Angola",
-      "url": "https://www.rtp.pt/noticias/mundo/constitucional-valida-lei-das-carreiras-militares-das-forcas-armadas-de-angola_n1778243",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T19:52:25Z",
-      "description": "O Tribunal Constitucional de Angola recusou o pedido de inconstitucionalidade da lei que altera as carreiras dos militares das Forças Armadas, feito pelo principal partido da oposição, a UNITA.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Espanha aprova medidas urgentes para reforçar segurança ferroviária e proteger maquinistas",
-      "url": "https://pt.euronews.com/2026/11/10/espanha-aprova-medidas-urgentes-para-reforcar-seguranca-ferroviaria-e-proteger-maquinistas",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T19:43:28Z",
-      "description": "Decreto-lei permite aos maquinistas parar comboios perante riscos graves, garante canais confidenciais para denunciar problemas de segurança e reforça as competências de inspeção. Conselho de Ministros cria ainda uma figura para apoiar as vítimas de acidentes.",
-      "image": "https://images.euronews.com/articles/stories/09/98/66/87/1200x675_cmsv2_20343a1d-6da3-5813-af53-502c052b4510-9986687.jpg"
-    },
-    {
-      "title": "Manuscrito do discurso \"Eu tenho um sonho\" de Martin Luther King vai a leilão em janeiro",
-      "url": "https://www.rtp.pt/noticias/mundo/manuscrito-do-discurso-eu-tenho-um-sonho-de-martin-luther-king-vai-a-leilao-em-janeiro_n1778237",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T19:38:53Z",
-      "description": "O manuscrito final do discurso \"Eu tenho um sonho\", de Martin Luther King Jr., que culminou a Marcha sobre Washington, em agosto de 1963, vai ser leiloado pela Christie`s, em Nova Iorque, em 22 de janeiro, anunciou a leiloeira.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/76/765d06caf2c6c49f05d8883a6413b1df?w=350&q=50&rect=0,61,2000,1096&auto=format"
-    },
-    {
-      "title": "Eisenkot avisa ultraortodoxos que não vai ceder no serviço militar \"para todos\"",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eisenkot-avisa-ultraortodoxos-que-nao-vai-ceder-no-servico-militar-para-todos_n1778200",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T18:47:44Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "EUA afastam necessidade de nova ofensiva militar contra Teerão",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eua-afastam-necessidade-de-nova-ofensiva-militar-contra-teerao_n1778176",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T18:25:50Z",
-      "description": "O secretário de Estado norte-americano, Marco Rubio, afirmou hoje que a pressão económica sobre o Irão torna desnecessária uma nova ofensiva militar, mas acusou Teerão de apresentar condições \"absurdas\" para um acordo de paz.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/73/738c9f26190c349f0940251f8e9393f9?w=350&q=50&rect=0,102,1500,822&auto=format"
+      "publishedAt": "2026-11-11T11:33:07Z",
+      "description": "O Irão não vai permitir que sequer uma partícula de material nuclear enriquecido saia do país e haverá consequências caso ocorram novos ataques dos EUA contra a República Islâmica, afirmou o chefe de segurança iraniano, Mohsen Rezaei.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aec4298f3b07e29696186df4480f30ca?w=350&q=50&rect=0,166,1500,822&auto=format"
     }
   ]
 }
