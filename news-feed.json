@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-11T15:14:35.750570Z",
+  "updatedAt": "2026-11-11T21:59:38.590627Z",
   "health": [
+    {
+      "title": "Carlos Cortes: “As urgências não estão preparadas nem para amanhã, nem para ontem”",
+      "url": "https://healthnews.pt/2026/11/11/carlos-cortes-as-urgencias-nao-estao-preparadas-nem-para-amanha-nem-para-ontem/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T15:21:29Z",
+      "description": "No palco do II Fórum das Ordens Profissionais, que decorreu na terça-feira no auditório da Ordem dos Médicos, em Lisboa, Carlos Cortes foi a voz mais crítica do painel dedicado à reforma do Estado na Saúde. Defendeu uma reforma profunda do Serviço Nacional de Saúde (SNS), classificou como “uma vergonha” o que se tem passado nas nomeações e lembrou que, no dia do acidente do…",
+      "image": ""
+    },
+    {
+      "title": "António Mendonça: Portugal não tem planeamento “nem na saúde, nem em lado nenhum”",
+      "url": "https://healthnews.pt/2026/11/11/antonio-mendonca-portugal-nao-tem-planeamento-nem-na-saude-nem-em-lado-nenhum/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T15:20:25Z",
+      "description": "Portugal não tem planeamento nem visão estratégica, “nem na saúde, nem em lado nenhum”. O diagnóstico foi feito pelo presidente do Conselho Nacional das Ordens Profissionais (CNOP), António Mendonça, no encerramento do II Fórum das Ordens Profissionais, na terça-feira, no auditório da Ordem dos Médicos, em Lisboa. Para o também bastonário da Ordem dos Economistas, são precisas…",
+      "image": ""
+    },
+    {
+      "title": "Adalberto Campos Fernandes quer “saltar o muro” entre profissões de saúde",
+      "url": "https://healthnews.pt/2026/11/11/adalberto-campos-fernandes-quer-saltar-o-muro-entre-profissoes-de-saude/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T15:20:07Z",
+      "description": "O coordenador do Pacto para a Saúde da Presidência da República, Adalberto Campos Fernandes, desafiou as ordens profissionais a “saltar o muro” e partilhar competências, sem que nenhuma profissão abdique das suas responsabilidades. No II Fórum das Ordens Profissionais, que decorreu esta terça-feira no auditório da Ordem dos Médicos, em Lisboa, o antigo ministro defendeu que a…",
+      "image": ""
+    },
+    {
+      "title": "Ordens da saúde juntas por “Uma Só Saúde” e por mais prevenção",
+      "url": "https://healthnews.pt/2026/11/11/ordens-da-saude-juntas-por-uma-so-saude-e-por-mais-prevencao/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-11T15:20:05Z",
+      "description": "As ordens da saúde querem que o país aprove, no prazo de um ano, uma agenda nacional “Uma Só Saúde”, que junte a saúde humana, a saúde animal e o ambiente, e pedem que a reforma do Serviço Nacional de Saúde (SNS) aposte a sério na prevenção. Os bastonários dos Médicos, dos Médicos Dentistas, dos Nutricionistas e dos Médicos Veterinários convergiram nestes dois objetivos na…",
+      "image": ""
+    },
     {
       "title": "médicos reúnem-se em Matosinhos para discutir produtividade e o peso da burocracia no SNS",
       "url": "https://healthnews.pt/2026/11/11/medicos-reunem-se-em-matosinhos-para-discutir-produtividade-e-o-peso-da-burocracia-no-sns/",
@@ -50,150 +82,110 @@
       "image": ""
     },
     {
-      "title": "Depressão Charles: o que esperar hoje",
-      "url": "https://healthnews.pt/2026/11/11/depressao-charles-o-que-esperar-hoje/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T07:30:30Z",
-      "description": "A depressão Charles chegou na noite passada a Portugal e traz aviso vermelho à Madeira e a oito distritos do continente hoje, com rajadas até 140 km/h, escolas encerradas e apelo ao teletrabalho. O Governo declarou situação de alerta entre as 00:00 e as 23:59",
-      "image": ""
-    },
-    {
-      "title": "Depressão Charles leva ULS Amadora-Sintra a suspender consultas presenciais e cirurgias esta quarta-feira",
-      "url": "https://healthnews.pt/2026/11/11/depressao-charles-leva-uls-amadora-sintra-a-suspender-consultas-presenciais-e-cirurgias-esta-quarta-feira/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T07:28:50Z",
-      "description": "A ULS Amadora-Sintra adiou para hoje consultas presenciais, exames e cirurgias programadas, com exceção da atividade oncológica, devido à depressão Charles. Urgências, cuidados urgentes e a consulta de doença aguda mantêm-se, com reagendamentos a serem comunicados aos utentes",
-      "image": ""
-    },
-    {
-      "title": "Depressão Charles: SNS reforça urgências no dia de alerto máximo",
-      "url": "https://healthnews.pt/2026/11/11/depressao-charles-sns-reforca-urgencias-no-dia-de-alerto-maximo/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T07:27:26Z",
-      "description": "Esta quarta-feira, com Portugal continental em alerta máximo até às 23:59, a Direção Executiva do SNS pediu às unidades de saúde para avaliarem o absentismo dos profissionais e reforçarem urgências e cuidados primários face à depressão Charles",
-      "image": ""
-    },
-    {
       "title": "Ex-diretor da urgência de Portimão nega acusações que levaram à sua substituição",
       "url": "https://www.rtp.pt/noticias/pais/ex-diretor-da-urgencia-de-portimao-nega-acusacoes-que-levaram-a-sua-substituicao_n1778258",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-10T20:47:28Z",
       "description": "Afastado do cargo de diretor do serviço de urgência do Hospital de Portimão após a morte de um idoso na última semana, João Coucelo reagiu, esta terça-feira, às acusações de \"incapacidade\" de gestão por parte da administração. Em comunicado, nega, ainda, que a relação de proximidade com Ana Paula Martins tenha originado conflitos de autoridade no hospital.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/51/51cb3d82acf0163c7ddfc730d99e4d6e?w=350&q=50&rect=0,342,4898,2685&auto=format"
-    },
-    {
-      "title": "Detido pela Polícia Judiciária. Ministra da Saúde demite diretor da ULS de Aveiro",
-      "url": "https://www.rtp.pt/noticias/pais/detido-pela-policia-judiciaria-ministra-da-saude-demite-diretor-da-uls-de-aveiro_n1778097",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T13:16:28Z",
-      "description": "Ana Paula Martins invoca \"coerência\" para anunciar a demissão \"com efeitos imediatos\" de Ricardo Matos, detido por suspeitas de corrupção no âmbito da Operação \"Batas & Betão\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2d0ffad4d454a6f2fd815c52ff79932?w=350&q=50&rect=0,28,4362,2391&auto=format"
-    },
-    {
-      "title": "Antigos ministros da Saúde pedem mudanças urgentes no SNS",
-      "url": "https://www.rtp.pt/noticias/pais/antigos-ministros-da-saude-pedem-mudancas-urgentes-no-sns_v1778031",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T08:02:47Z",
-      "description": "A demissão do presidente da Unidade Local de Saúde do Algarve continua a gerar debate e fortes críticas à gestão da tutela.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1a/1a988ffdc9eb8f9d04ee0a25c241f9b7.jpg?w=350&q=50&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Crise da habitação e salários na base de greve geral em Espanha",
-      "url": "https://www.rtp.pt/noticias/mundo/crise-da-habitacao-e-salarios-na-base-de-greve-geral-em-espanha_v1778450",
+      "title": "Na Argentina. Papa Leão XIV invoca Francisco perante milhões de fiéis",
+      "url": "https://www.rtp.pt/noticias/mundo/na-argentina-papa-leao-xiv-invoca-francisco-perante-milhoes-de-fieis_v1778552",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T14:31:48Z",
-      "description": "Esta quarta-feira é dia de greve geral em Espanha - a primeira em 14 anos. Uma paralisação inédita, já que acontece a um dia do arranque da campanha eleitoral e é incentivada pelo atual Governo de Pedro Sánchez.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/77/77dbdbaa98362bc9aa13f548e87e54a3?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-11T21:56:47Z",
+      "description": "O Papa despediu-se da Argentina com uma missa perante mais de 3 milhões de pessoas.",
+      "image": "https://cdn-images.rtp.pt/icm/images/dc/dc3eb81ab051f87f13df045ef09fcd4b_N.jpg?"
     },
     {
-      "title": "Sombra de Kennedy pode travar planos de Trump para arco triunfal",
-      "url": "https://www.rtp.pt/noticias/mundo/sombra-de-kennedy-pode-travar-planos-de-trump-para-arco-triunfal_n1778427",
+      "title": "Rússia e Ucrânia acordaram a troca de mil ou mais prisioneiros",
+      "url": "https://www.rtp.pt/noticias/mundo/russia-e-ucrania-acordaram-a-troca-de-mil-ou-mais-prisioneiros_v1778551",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T14:26:34Z",
-      "description": "A família do antigo presidente norte-americano John F. Kennedy recorreu aos tribunais para impedir que Donald Trump concretize a construção de um arco triunfal em Washington. Os familiares alegam que a estrutura de 76 metros irá bloquear a vista do túmulo de Kennedy, bem como a de milhares de veteranos sepultados no Cemitério Nacional de Arlington, na Virgínia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1a/1a2487d5d34812caeebe6bf0f59addf9?w=350&q=50&rect=0,154,1500,822&auto=format"
+      "publishedAt": "2026-11-11T21:54:53Z",
+      "description": "Esta ronda de negociações entre os dois países terminou com desacordo sobre os territórios e a segurança no pós-guerra.",
+      "image": "https://cdn-images.rtp.pt/icm/images/fd/fdeefa7b270a90c82b3e87f05a4289db_N.jpg?"
     },
     {
-      "title": "Rússia proíbe entrada no país a dois deputados e dois jornalistas franceses",
-      "url": "https://pt.euronews.com/2026/11/11/russia-proibe-entrada-no-pais-a-dois-deputados-e-dois-jornalistas-franceses",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T14:25:43Z",
-      "description": "Resposta à expulsão e ao congelamento dos bens de Xenia Fedorova, ex-dirigente da RT France e figura dos media do multimilionário Vincent Bolloré.",
-      "image": "https://images.euronews.com/articles/stories/09/98/86/07/1200x675_cmsv2_e9046479-8c7d-5239-a15e-a20a95566191-9988607.jpg"
-    },
-    {
-      "title": "\"Combustíveis fósseis vão desaparecer como os dinossauros\"",
-      "url": "https://www.rtp.pt/noticias/mundo/combustiveis-fosseis-vao-desaparecer-como-os-dinossauros_n1778444",
+      "title": "COP31 reúne representantes de 200 países na Turquia",
+      "url": "https://www.rtp.pt/noticias/mundo/cop31-reune-representantes-de-200-paises-na-turquia_v1778549",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T14:10:49Z",
-      "description": "O secretário-geral das Nações Unidas, António Guterres, disse esta quarta-feira, ao discursar perante a COP31, na Turquia, que os combustíveis fósseis devem desaparecer, tal como aconteceu com os dinossauros.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd1940c1811c7f5f5dcc041b331f7986?w=350&q=50&rect=0,52,955,524&auto=format"
+      "publishedAt": "2026-11-11T21:53:47Z",
+      "description": "Começaram a chegar à Turquia os líderes mundiais que vão participar na Conferência da ONU sobre Alterações Climáticas.",
+      "image": "https://cdn-images.rtp.pt/icm/images/3f/3f897353fbb3736b2a609fb01c8593d9_N.jpg?"
     },
     {
-      "title": "Grupo português vai produzir componentes para os caças da sueca Saab",
-      "url": "https://pt.euronews.com/2026/11/11/grupo-portugues-vai-produzir-componentes-para-os-cacas-da-sueca-saab",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T14:04:39Z",
-      "description": "Empresa sueca anunciou a parceria com o grupo industrial português Vangest que irá produzir oito componentes complexos para os caças Gripen E/F nas suas instalações na Marinha Grande. Caça sueco é um dos modelos apontados à renovação da frota de F-16 da Força Aérea portuguesa.",
-      "image": "https://images.euronews.com/articles/stories/09/98/84/95/1200x675_cmsv2_5e441367-ecda-5a30-8db6-cc2a99ff6e95-9988495.jpg"
-    },
-    {
-      "title": "Greve geral deixa Espanha dividida",
-      "url": "https://www.rtp.pt/noticias/mundo/greve-geral-deixa-espanha-dividida_n1778439",
+      "title": "Tempestade Charles atinge regiões de Espanha",
+      "url": "https://www.rtp.pt/noticias/mundo/tempestade-charles-atinge-regioes-de-espanha_v1778544",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T14:00:45Z",
-      "description": "Esta quarta-feira é dia de greve geral em Espanha convocada pelos principais sindicatos. Mas a adesão ao protesto está a ser distinta nas diferentes regiões do país. Há também registo de confrontos entre a polícia e piquetes de greve.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad05980b778b67ca9e92ca38ad64c472?w=350&q=50&rect=0,90,1633,895&auto=format"
+      "publishedAt": "2026-11-11T21:31:48Z",
+      "description": "As regiões mais atingidas são as da Extremadura, Castela-Leão e Canárias.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5d1bbc5acd2dcae41b901f8bd677c8f?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
-      "title": "União Europeia prepara diálogo de defesa em Doha com países do Golfo",
-      "url": "https://pt.euronews.com/2026/11/11/uniao-europeia-prepara-dialogo-de-defesa-em-doha-com-paises-do-golfo",
+      "title": "Alemanha: Singulus fecha contrato de 60 milhões com Elon Musk para células solares de satélite",
+      "url": "https://pt.euronews.com/2026/11/11/alemanha-singulus-fecha-contrato-de-60-milhoes-com-elon-musk-para-celulas-solares-de-satel",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T13:36:58Z",
-      "description": "O embaixador da UE no Qatar, Antonino Maggiore, diz à Euronews que a Europa reforça a cooperação de defesa com o Qatar e o Golfo e aprofunda a cooperação política e económica, pois “toda a crise traz oportunidades”.",
-      "image": "https://images.euronews.com/articles/stories/09/98/80/22/1200x675_cmsv2_78d38641-9c01-5f47-89ae-c6509e47cab4-9988022.jpg"
+      "publishedAt": "2026-11-11T19:18:12Z",
+      "description": "A SpaceX assinou um contrato de 60 milhões de euros com a empresa alemã de engenharia mecânica Singulus Technologies para o fornecimento estratégico de células solares, o que provocou uma forte valorização da empresa alemã.",
+      "image": "https://images.euronews.com/articles/stories/09/98/89/58/1200x675_cmsv2_f02b6449-d90f-5871-88fb-5acff3609175-9988958.jpg"
     },
     {
-      "title": "Negociações em Abu Dhabi terminam com troca de prisioneiros, enviados dos EUA vão reunir-se com Putin",
-      "url": "https://pt.euronews.com/2026/11/11/negociacoes-em-abu-dhabi-terminam-com-troca-de-prisioneiros-enviados-dos-eua-vao-reunir-se",
+      "title": "Irmão de Viktor Órban fica em prisão preventiva por pelo menos um mês",
+      "url": "https://pt.euronews.com/2026/11/11/orban-aron-fica-em-prisao-preventiva-por-pelo-menos-um-mes",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T13:29:26Z",
-      "description": "Uma troca de prisioneiros em grande escala acabou por ser o único resultado concreto de dois dias de conversações entre Ucrânia e Rússia em Abu Dhabi, mediadas pelos EUA, sem avanços quanto a cessar-fogo ou disputas territoriais.",
-      "image": "https://images.euronews.com/articles/stories/09/98/84/67/1200x675_cmsv2_6c32c6ad-bffd-5752-86b2-21a37916fcf3-9988467.jpg"
+      "publishedAt": "2026-11-11T18:48:57Z",
+      "description": "O irmão do antigo primeiro-ministro da Hungria, Viktor Orbán, e cúmplices são suspeitos de tráfico de pessoas em associação criminosa.",
+      "image": "https://images.euronews.com/articles/stories/09/98/86/23/1200x675_cmsv2_1a35bd54-87ea-5b1b-a3ed-ccb8ad28cbd3-9988623.jpg"
     },
     {
-      "title": "Portugal: tempestade Charles traz chuva intensa, ventos fortes e ondas atlânticas",
-      "url": "https://pt.euronews.com/video/2026/11/11/portugal-tempestade-charles-traz-chuva-intensa-ventos-fortes-e-ondas-atlanticas",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T13:28:47Z",
-      "description": "Chuva intensa, mar agitado e ventos fortes atingiram a Costa da Caparica, levando ao encerramento de estruturas costeiras e a ruas inundadas",
-      "image": "https://images.euronews.com/articles/stories/09/98/85/28/1200x675_cmsv2_7437e25d-ee19-54e1-badd-970a0391fb7a-9988528.jpg"
-    },
-    {
-      "title": "Reino Unido acusa homens ligados a ataques a sinagogas de Londres por plano contra base aérea",
-      "url": "https://pt.euronews.com/2026/11/11/reino-unido-acusa-homens-ligados-a-ataques-a-sinagogas-de-londres-por-plano-contra-base-ae",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T12:56:26Z",
-      "description": "Os procuradores dizem que um dos arguidos, enquanto estava numa prisão nos EUA, transmitiu instruções codificadas aos outros através da mãe e da irmã.",
-      "image": "https://images.euronews.com/articles/stories/09/98/80/89/1200x675_cmsv2_e14d6a9a-1449-5624-89a9-e589ce7b4fad-9988089.jpg"
-    },
-    {
-      "title": "Lula da Silva lamenta armas e tarifas mais presentes nos discursos do que o clima",
-      "url": "https://www.rtp.pt/noticias/mundo/lula-da-silva-lamenta-armas-e-tarifas-mais-presentes-nos-discursos-do-que-o-clima_n1778399",
+      "title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
+      "url": "https://www.rtp.pt/noticias/economia/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T11:45:44Z",
-      "description": "O Presidente brasileiro lamentou hoje, durante a 31ª conferência das Nações Unidas sobre o clima (COP31), na Turquia, que \"as armas e as tarifas alfandegárias\" estejam mais presentes nos discursos dos líderes mundiais do que as alterações climáticas.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-11T18:41:45Z",
+      "description": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0eaf3aeaaa60df45c459479cf13d1879?w=350&q=50&rect=0,178,1500,822&auto=format"
     },
     {
-      "title": "Irão não permitirá que material nuclear enriquecido saia do país",
-      "url": "https://www.rtp.pt/noticias/mundo/irao-nao-permitira-que-material-nuclear-enriquecido-saia-do-pais_n1778396",
+      "title": "Espanha abre inquérito por alegada divulgação de conteúdos de pedofilia no TikTok",
+      "url": "https://www.rtp.pt/noticias/mundo/espanha-abre-inquerito-por-alegada-divulgacao-de-conteudos-de-pedofilia-no-tiktok_n1778496",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T11:33:07Z",
-      "description": "O Irão não vai permitir que sequer uma partícula de material nuclear enriquecido saia do país e haverá consequências caso ocorram novos ataques dos EUA contra a República Islâmica, afirmou o chefe de segurança iraniano, Mohsen Rezaei.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aec4298f3b07e29696186df4480f30ca?w=350&q=50&rect=0,166,1500,822&auto=format"
+      "publishedAt": "2026-11-11T18:25:27Z",
+      "description": "O Ministério Público espanhol ordenou esta quarta-feira a abertura de um inquérito por alegada divulgação de conteúdos relativos a pedofilia na rede social TikTok, na sequência de uma denúncia apresentada pela fundação Maldita.es.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/30/306cdea56ae7bb3db5a92527ffa11d35.JPG?w=350&q=50&auto=format"
+    },
+    {
+      "title": "França Dia do Armistício com homenagens de Macron, Le Pen e Mélenchon",
+      "url": "https://pt.euronews.com/2026/11/11/franca-dia-do-armisticio-com-homenagens-de-macron-le-pen-e-melenchon",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T18:25:06Z",
+      "description": "Por ocasião do 108.º aniversário do armistício de 1918, Emmanuel Macron presidiu à cerimónia sob o Arco do Triunfo, enquanto Marine Le Pen e Jean-Luc Mélenchon escolheram locais simbólicos para transmitirem as suas mensagens a poucos meses das presidenciais.",
+      "image": "https://images.euronews.com/articles/stories/09/98/85/71/1200x675_cmsv2_7e7ce9d2-09d9-5449-8008-b68097a8c694-9988571.jpg"
+    },
+    {
+      "title": "Trinidad e Tobago: tribunal superior revoga lei que criminaliza sexo gay",
+      "url": "https://pt.euronews.com/2026/11/11/trinidad-e-tobago-tribunal-superior-revoga-lei-que-criminaliza-sexo-gay",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T18:11:00Z",
+      "description": "O mais alto tribunal do país insular revogou uma lei de 1986 que criminalizava relações sexuais consensuais entre adultos do mesmo sexo",
+      "image": "https://images.euronews.com/articles/stories/09/98/88/10/1200x675_cmsv2_2999f134-7a35-513e-9491-238319f7a38c-9988810.jpg"
+    },
+    {
+      "title": "Embaixador da Rússia nos Estados Unidos morre aos 66 anos",
+      "url": "https://pt.euronews.com/2026/11/11/embaixador-da-russia-nos-estados-unidos-morre-aos-66-anos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T17:37:30Z",
+      "description": "Alexander Darchiev, embaixador da Rússia nos Estados Unidos, morreu na quarta-feira aos 66 anos.",
+      "image": "https://images.euronews.com/articles/stories/09/98/89/20/1200x675_cmsv2_781f1458-98a6-5c64-9f8d-f2d53d1cf35b-9988920.jpg"
+    },
+    {
+      "title": "Notícias do dia | 11 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-noite",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T17:00:35Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 11 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/98/89/49/1200x675_cmsv2_d400b464-2e26-5f5e-a9ab-f23b5fd778cf-9988949.jpg"
     }
   ]
 }
