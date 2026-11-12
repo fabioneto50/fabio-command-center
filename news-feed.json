@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T21:59:38.590627Z",
+  "updatedAt": "2026-11-12T03:01:11.002031Z",
   "health": [
+    {
+      "title": "01h Sociedade Portuguesa de Pneumologia apela à vacinação dos grupos mais vulneráveis",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-sociedade-portuguesa-de-pneumologia-apela-a-vacinacao-dos-grupos-mais-vulneraveis_a1_1778572",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T01:53:02Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
+    },
     {
       "title": "Carlos Cortes: “As urgências não estão preparadas nem para amanhã, nem para ontem”",
       "url": "https://healthnews.pt/2026/11/11/carlos-cortes-as-urgencias-nao-estao-preparadas-nem-para-amanha-nem-para-ontem/",
@@ -92,6 +100,30 @@
   ],
   "world": [
     {
+      "title": "Espanha: confrontos eclodem em Barcelona após marcha pacífica da greve geral",
+      "url": "https://pt.euronews.com/video/2026/11/11/espanha-confrontos-eclodem-em-barcelona-apos-marcha-pacifica-da-greve-geral",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T22:55:27Z",
+      "description": "Barricadas em chamas eclodem em Barcelona após marcha pacífica contra custos da habitação; polícia dispara projéteis para dispersar manifestantes mascarados e violência alastra pelo centro.",
+      "image": "https://images.euronews.com/articles/stories/09/98/90/33/1200x675_cmsv2_2c46f7b4-9916-5bf2-ab5f-e959853c0f46-9989033.jpg"
+    },
+    {
+      "title": "Prédio desaba em Nova Iorque e deixa vítimas presas nos escombros",
+      "url": "https://www.rtp.pt/noticias/mundo/predio-desaba-em-nova-iorque-e-deixa-vitimas-presas-nos-escombros_n1778557",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-11T22:48:28Z",
+      "description": "Um edifício de três andares colapsou numa zona residencial do bairro de Brooklyn, em Nova Iorque. Há registo de pelo menos uma vítima mortal e de pessoas presas nos escombros.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3da9c0e34c3b9e09069a4b1d9a90791e.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Espanha: 120 mil manifestam-se em Madrid por casas acessíveis e melhores salários",
+      "url": "https://pt.euronews.com/video/2026/11/11/espanha-120-mil-manifestam-se-em-madrid-por-casas-acessiveis-e-melhores-salarios",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T22:37:57Z",
+      "description": "Cerca de 120 000 pessoas marcharam no centro de Madrid, a 11 de novembro, segundo as autoridades, numa greve geral que protestou contra a escalada dos custos da habitação e a pressão sobre os orçamentos familiares.",
+      "image": "https://images.euronews.com/articles/stories/09/98/90/20/1200x675_cmsv2_5a20112a-17f3-59d6-bd53-0c618aa3ab6b-9989020.jpg"
+    },
+    {
       "title": "Na Argentina. Papa Leão XIV invoca Francisco perante milhões de fiéis",
       "url": "https://www.rtp.pt/noticias/mundo/na-argentina-papa-leao-xiv-invoca-francisco-perante-milhoes-de-fieis_v1778552",
       "source": "RTP Notícias",
@@ -148,14 +180,6 @@
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0eaf3aeaaa60df45c459479cf13d1879?w=350&q=50&rect=0,178,1500,822&auto=format"
     },
     {
-      "title": "Espanha abre inquérito por alegada divulgação de conteúdos de pedofilia no TikTok",
-      "url": "https://www.rtp.pt/noticias/mundo/espanha-abre-inquerito-por-alegada-divulgacao-de-conteudos-de-pedofilia-no-tiktok_n1778496",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T18:25:27Z",
-      "description": "O Ministério Público espanhol ordenou esta quarta-feira a abertura de um inquérito por alegada divulgação de conteúdos relativos a pedofilia na rede social TikTok, na sequência de uma denúncia apresentada pela fundação Maldita.es.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/30/306cdea56ae7bb3db5a92527ffa11d35.JPG?w=350&q=50&auto=format"
-    },
-    {
       "title": "França Dia do Armistício com homenagens de Macron, Le Pen e Mélenchon",
       "url": "https://pt.euronews.com/2026/11/11/franca-dia-do-armisticio-com-homenagens-de-macron-le-pen-e-melenchon",
       "source": "Euronews",
@@ -170,22 +194,6 @@
       "publishedAt": "2026-11-11T18:11:00Z",
       "description": "O mais alto tribunal do país insular revogou uma lei de 1986 que criminalizava relações sexuais consensuais entre adultos do mesmo sexo",
       "image": "https://images.euronews.com/articles/stories/09/98/88/10/1200x675_cmsv2_2999f134-7a35-513e-9491-238319f7a38c-9988810.jpg"
-    },
-    {
-      "title": "Embaixador da Rússia nos Estados Unidos morre aos 66 anos",
-      "url": "https://pt.euronews.com/2026/11/11/embaixador-da-russia-nos-estados-unidos-morre-aos-66-anos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T17:37:30Z",
-      "description": "Alexander Darchiev, embaixador da Rússia nos Estados Unidos, morreu na quarta-feira aos 66 anos.",
-      "image": "https://images.euronews.com/articles/stories/09/98/89/20/1200x675_cmsv2_781f1458-98a6-5c64-9f8d-f2d53d1cf35b-9988920.jpg"
-    },
-    {
-      "title": "Notícias do dia | 11 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 11 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/98/89/49/1200x675_cmsv2_d400b464-2e26-5f5e-a9ab-f23b5fd778cf-9988949.jpg"
     }
   ]
 }
