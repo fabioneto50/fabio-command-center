@@ -1,199 +1,199 @@
 {
-  "updatedAt": "2026-11-12T03:01:11.002031Z",
+  "updatedAt": "2026-11-12T11:15:35.465912Z",
   "health": [
     {
-      "title": "01h Sociedade Portuguesa de Pneumologia apela à vacinação dos grupos mais vulneráveis",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-sociedade-portuguesa-de-pneumologia-apela-a-vacinacao-dos-grupos-mais-vulneraveis_a1_1778572",
+      "title": "Ataque israelita a hospital em Gaza faz pelo menos seis mortos",
+      "url": "https://www.rtp.pt/noticias/mundo/ataque-israelita-a-hospital-em-gaza-faz-pelo-menos-seis-mortos_n1778611",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T01:53:02Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-12T09:33:12Z",
+      "description": "O Hamas fala num “crime de guerra”, enquanto as forças israelitas alegam ter visado uma célula terrorista.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/39/3983055ad649afbfee5e09f0bf6ae84b.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Carlos Cortes: “As urgências não estão preparadas nem para amanhã, nem para ontem”",
-      "url": "https://healthnews.pt/2026/11/11/carlos-cortes-as-urgencias-nao-estao-preparadas-nem-para-amanha-nem-para-ontem/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T15:21:29Z",
-      "description": "No palco do II Fórum das Ordens Profissionais, que decorreu na terça-feira no auditório da Ordem dos Médicos, em Lisboa, Carlos Cortes foi a voz mais crítica do painel dedicado à reforma do Estado na Saúde. Defendeu uma reforma profunda do Serviço Nacional de Saúde (SNS), classificou como “uma vergonha” o que se tem passado nas nomeações e lembrou que, no dia do acidente do…",
-      "image": ""
-    },
-    {
-      "title": "António Mendonça: Portugal não tem planeamento “nem na saúde, nem em lado nenhum”",
-      "url": "https://healthnews.pt/2026/11/11/antonio-mendonca-portugal-nao-tem-planeamento-nem-na-saude-nem-em-lado-nenhum/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T15:20:25Z",
-      "description": "Portugal não tem planeamento nem visão estratégica, “nem na saúde, nem em lado nenhum”. O diagnóstico foi feito pelo presidente do Conselho Nacional das Ordens Profissionais (CNOP), António Mendonça, no encerramento do II Fórum das Ordens Profissionais, na terça-feira, no auditório da Ordem dos Médicos, em Lisboa. Para o também bastonário da Ordem dos Economistas, são precisas…",
-      "image": ""
-    },
-    {
-      "title": "Adalberto Campos Fernandes quer “saltar o muro” entre profissões de saúde",
-      "url": "https://healthnews.pt/2026/11/11/adalberto-campos-fernandes-quer-saltar-o-muro-entre-profissoes-de-saude/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T15:20:07Z",
-      "description": "O coordenador do Pacto para a Saúde da Presidência da República, Adalberto Campos Fernandes, desafiou as ordens profissionais a “saltar o muro” e partilhar competências, sem que nenhuma profissão abdique das suas responsabilidades. No II Fórum das Ordens Profissionais, que decorreu esta terça-feira no auditório da Ordem dos Médicos, em Lisboa, o antigo ministro defendeu que a…",
-      "image": ""
-    },
-    {
-      "title": "Ordens da saúde juntas por “Uma Só Saúde” e por mais prevenção",
-      "url": "https://healthnews.pt/2026/11/11/ordens-da-saude-juntas-por-uma-so-saude-e-por-mais-prevencao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T15:20:05Z",
-      "description": "As ordens da saúde querem que o país aprove, no prazo de um ano, uma agenda nacional “Uma Só Saúde”, que junte a saúde humana, a saúde animal e o ambiente, e pedem que a reforma do Serviço Nacional de Saúde (SNS) aposte a sério na prevenção. Os bastonários dos Médicos, dos Médicos Dentistas, dos Nutricionistas e dos Médicos Veterinários convergiram nestes dois objetivos na…",
-      "image": ""
-    },
-    {
-      "title": "médicos reúnem-se em Matosinhos para discutir produtividade e o peso da burocracia no SNS",
-      "url": "https://healthnews.pt/2026/11/11/medicos-reunem-se-em-matosinhos-para-discutir-produtividade-e-o-peso-da-burocracia-no-sns/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T13:22:33Z",
-      "description": "A Ordem dos Médicos realiza a 12 e 13 de novembro o seu 29.º Congresso Nacional, no Terminal de Cruzeiros de Leixões, com um programa que coloca a falta de recursos humanos, a organização das Unidades Locais de Saúde e a inteligência artificial no centro do debate sobre o futuro da profissão",
-      "image": ""
-    },
-    {
-      "title": "SNS com défice de 2.679 milhões em 2027 e menos 328 milhões do Estado",
-      "url": "https://healthnews.pt/2026/11/11/sns-com-defice-de-2-679-milhoes-em-2027-e-menos-328-milhoes-do-estado/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T13:11:53Z",
-      "description": "O economista Eugénio Rosa analisou a nota explicativa do Ministério da Saúde entregue aos deputados e conclui que o orçamento do SNS para 2027 prevê um saldo negativo de 2.679,4 milhões de euros, mais do dobro do estimado para este ano, e uma transferência do Estado inferior à de 2026",
-      "image": ""
-    },
-    {
-      "title": "Litoral Alentejano suspende atividade programada e fecha centros de saúde ao início da tarde",
-      "url": "https://healthnews.pt/2026/11/11/litoral-alentejano-suspende-atividade-programada-e-fecha-centros-de-saude-ao-inicio-da-tarde/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T12:06:24Z",
-      "description": "ULS do Litoral Alentejano cancelou consultas, exames e tratamentos não urgentes esta quarta-feira devido à depressão Charles. Urgências mantêm-se e centros de saúde abrem só até às 13h00 para doença aguda",
-      "image": ""
-    },
-    {
-      "title": "Gilead e parceiros distinguem quatro projetos de saúde com bolsas de 50 mil euros",
-      "url": "https://healthnews.pt/2026/11/11/gilead-e-parceiros-distinguem-quatro-projetos-de-saude-com-bolsas-de-50-mil-euros/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T11:12:22Z",
-      "description": "A quinta edição das Bolsas \"Mais Valor em Saúde – Vidas que Valem\" premeia quatro projetos do Serviço Nacional de Saúde. A cerimónia decorre a 17 de novembro, no auditório da Ordem dos Farmacêuticos, em Lisboa, e reúne António Costa Silva e Pedro Pita Barros para debater o peso da saúde na economia",
-      "image": ""
-    },
-    {
-      "title": "Faro é o único distrito sob aviso vermelho por vento",
-      "url": "https://healthnews.pt/2026/11/11/faro-e-o-unico-distrito-sob-aviso-vermelho-por-vento/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T10:09:44Z",
-      "description": "Faro é o único distrito que mantém esta quarta-feira, 11 de novembro, o aviso vermelho devido ao vento forte, após o Instituto Português do Mar e da Atmosfera (IPMA) ter reduzido para laranja o nível de aviso em sete distritos. No Algarve, estão previstas rajadas até 120 quilómetros por hora, que poderão atingir 140 quilómetros por hora nos locais mais expostos.",
-      "image": ""
-    },
-    {
-      "title": "Mau tempo: autoridades pedem afastamento da orla costeira",
-      "url": "https://healthnews.pt/2026/11/11/mau-tempo-autoridades-pedem-afastamento-da-orla-costeira/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-11T08:43:33Z",
-      "description": "A Autoridade Marítima Nacional (AMN) e a Marinha apelaram à população para evitar passeios junto ao mar e suspender a pesca lúdica nas zonas costeiras expostas à rebentação, perante o agravamento das condições meteorológicas e da agitação marítima previsto até às 12h00 de quinta-feira, 12 de novembro.",
-      "image": ""
-    },
-    {
-      "title": "Ex-diretor da urgência de Portimão nega acusações que levaram à sua substituição",
-      "url": "https://www.rtp.pt/noticias/pais/ex-diretor-da-urgencia-de-portimao-nega-acusacoes-que-levaram-a-sua-substituicao_n1778258",
+      "title": "Médicos pelos Direitos Humanos condena bombardeamento ao Hospital Nasser",
+      "url": "https://www.rtp.pt/noticias/mundo/medicos-pelos-direitos-humanos-condena-bombardeamento-ao-hospital-nasser_n1778610",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-10T20:47:28Z",
-      "description": "Afastado do cargo de diretor do serviço de urgência do Hospital de Portimão após a morte de um idoso na última semana, João Coucelo reagiu, esta terça-feira, às acusações de \"incapacidade\" de gestão por parte da administração. Em comunicado, nega, ainda, que a relação de proximidade com Ana Paula Martins tenha originado conflitos de autoridade no hospital.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/51/51cb3d82acf0163c7ddfc730d99e4d6e?w=350&q=50&rect=0,342,4898,2685&auto=format"
+      "publishedAt": "2026-11-12T09:31:04Z",
+      "description": "A organização Médicos pelos Direitos Humanos - Israel (PHRI) condenou o bombardeamento do Exército israelita ao Hospital Nasser, em Gaza, que matou hoje pelo menos seis pessoas, classificando o ato como a \"continuação do genocídio\" na Faixa de Gaza.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/78/78e890d93df9f1e29d5cc24bd6411acb?w=350&q=50&rect=102,0,967,530&auto=format"
+    },
+    {
+      "title": "Hospital em Gaza bombardeado por Israel",
+      "url": "https://www.rtp.pt/noticias/mundo/hospital-em-gaza-bombardeado-por-israel_n1778600",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T08:38:31Z",
+      "description": "Um ataque de Israel ao hospital Nasser, em Khan Younis, no sul da Faixa de Gaza, fez pelo menos seis mortos e duas dezenas de feridos. O Hamas fala em crime de guerra e as forças israelitas alegam ter visado uma célula terrorista escondida.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0a1cb5a5af24c1dc1d18a3a7225a4b14?w=350&q=50&rect=0,320,5500,3015&auto=format"
+    },
+    {
+      "title": "Autoridade de saúde de Gaza diz que ataque a hospital fez seis mortos",
+      "url": "https://www.rtp.pt/noticias/mundo/autoridade-de-saude-de-gaza-diz-que-ataque-a-hospital-fez-seis-mortos_n1778589",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T07:34:00Z",
+      "description": "Um ataque aéreo israelita contra o Hospital Nasser, no sul da Faixa de Gaza, matou seis pessoas e feriu pelo menos uma dezena de outras, informou o Ministério da Saúde do território palestiniano.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c4df812162ba31335dba7d6c8fbe8ff?w=350&q=50&rect=0,64,1080,592&auto=format"
+    },
+    {
+      "title": "Saúde e segurança das pessoas: a responsabilidade política de garantir cuidados profissionalmente qualificados",
+      "url": "https://healthnews.pt/2026/11/12/saude-e-seguranca-das-pessoas-a-responsabilidade-politica-de-garantir-cuidados-profissionalmente-qualificados/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:13:50Z",
+      "description": "Nelson Guerra, RN, MsC, PhD Presidente da APEGEL",
+      "image": ""
+    },
+    {
+      "title": "Técnicos superiores de diagnóstico e terapêutica voltam à greve a 19 e 20 de novembro",
+      "url": "https://healthnews.pt/2026/11/12/tecnicos-superiores-de-diagnostico-e-terapeutica-voltam-a-greve-a-19-e-20-de-novembro/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:12:01Z",
+      "description": "Os profissionais de diagnóstico e terapêutica cumprem novo protesto nacional a 19 e 20 de novembro, com concentrações em Lisboa, Funchal e cinco ilhas dos Açores. O STSS exige respostas do Governo à revisão da tabela remuneratória, à contagem integral dos pontos e à regularização dos retroativos",
+      "image": ""
+    },
+    {
+      "title": "Prof. José Silva Nunes: “Os casos de sucesso inspiram, mas os casos difíceis ensinam”",
+      "url": "https://healthnews.pt/2026/11/12/prof-jose-silva-nunes-os-casos-de-sucesso-inspiram-mas-os-casos-dificeis-ensinam/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:11:16Z",
+      "description": "Em entrevista exclusiva ao HealthNews, o Prof. José Silva Nunes, da NOVA Medical School, presidente da Sociedade Portuguesa para o Estudo da Obesidade e coordenador científico do programa REFRAME Obesity, defende que os médicos de família têm de poder tratar a obesidade com todas as armas terapêuticas e que a empatia é a competência mais disruptiva para quebrar o estigma",
+      "image": ""
+    },
+    {
+      "title": "LisbonPH junta líderes femininas em webinar internacional sobre inovação e saúde",
+      "url": "https://healthnews.pt/2026/11/12/lisbonph-junta-lideres-femininas-em-webinar-internacional-sobre-inovacao-e-saude/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:10:05Z",
+      "description": "A LisbonPH – Júnior Empresa da Faculdade de Farmácia da Universidade de Lisboa promove a 19 de novembro de 2026 o webinar internacional “EmpowHER: Women Leading Innovation”, subordinado ao mote “Empower. Innovate. Lead”. A participação é gratuita e o evento reúne oradoras de vários países com percursos em liderança e inovação",
+      "image": ""
+    },
+    {
+      "title": "Médicos juntam-se à greve da administração pública de 20 de novembro",
+      "url": "https://healthnews.pt/2026/11/12/medicos-juntam-se-a-greve-da-administracao-publica-de-20-de-novembro/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:09:35Z",
+      "description": "A Federação Nacional dos Médicos aderiu à greve geral da administração pública convocada pela Frente Comum para 20 de novembro. O pré-aviso abrange clínicos dos setores público, social e privado e cruza-se com a contestação ao Orçamento do Estado",
+      "image": ""
+    },
+    {
+      "title": "Ensaio de fase 3 alcança normalização da fosfatase alcalina em três quartos dos doentes com CBP",
+      "url": "https://healthnews.pt/2026/11/12/ensaio-de-fase-3-alcanca-normalizacao-da-fosfatase-alcalina-em-tres-quartos-dos-doentes-com-cbp/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:08:23Z",
+      "description": "Artigo acessível apenas a profissionais de saúde. Registe-se",
+      "image": ""
+    },
+    {
+      "title": "Dor, Doença Cardiovascular e Fisioterapia: a urgência de ajustar e aproximar os cuidados de saúde das populações",
+      "url": "https://healthnews.pt/2026/11/12/dor-doenca-cardiovascular-e-fisioterapia-a-urgencia-de-ajustar-e-aproximar-os-cuidados-de-saude-das-populacoes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:07:13Z",
+      "description": "Carla Leão: Professora da Licenciatura em Fisioterapia da Escola Superior de Saúde Atlântica",
+      "image": ""
+    },
+    {
+      "title": "Quatro médicos do Centro sobem ao palco do 29.º Congresso da Ordem para receber medalhas de mérito",
+      "url": "https://healthnews.pt/2026/11/12/quatro-medicos-do-centro-sobem-ao-palco-do-29-o-congresso-da-ordem-para-receber-medalhas-de-merito/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-12T07:06:03Z",
+      "description": "A Secção Regional do Centro da Ordem dos Médicos vê quatro dos seus inscritos distinguidos esta sexta-feira, em Matosinhos, numa cerimónia que reconhece percursos que vão da obstetrícia à cardiologia, da oftalmologia à emergência pré-hospitalar",
+      "image": ""
     }
   ],
   "world": [
     {
-      "title": "Espanha: confrontos eclodem em Barcelona após marcha pacífica da greve geral",
-      "url": "https://pt.euronews.com/video/2026/11/11/espanha-confrontos-eclodem-em-barcelona-apos-marcha-pacifica-da-greve-geral",
+      "title": "Estados Unidos: bebé enterrado numa jaula de cão é resgatado vivo após 24 horas",
+      "url": "https://pt.euronews.com/2026/11/12/estados-unidos-bebe-enterrado-numa-jaula-de-cao-e-resgatado-vivo-apos-24-horas",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T22:55:27Z",
-      "description": "Barricadas em chamas eclodem em Barcelona após marcha pacífica contra custos da habitação; polícia dispara projéteis para dispersar manifestantes mascarados e violência alastra pelo centro.",
-      "image": "https://images.euronews.com/articles/stories/09/98/90/33/1200x675_cmsv2_2c46f7b4-9916-5bf2-ab5f-e959853c0f46-9989033.jpg"
+      "publishedAt": "2026-11-12T11:13:57Z",
+      "description": "Segundo o xerife local, as temperaturas baixas e uma toalha que criou uma bolsa de ar terão sido determinantes para a sua sobrevivência.",
+      "image": "https://images.euronews.com/articles/stories/09/98/98/35/1200x675_cmsv2_981c214c-4f5c-52e3-a4fb-df70aa82d6d2-9989835.jpg"
     },
     {
-      "title": "Prédio desaba em Nova Iorque e deixa vítimas presas nos escombros",
-      "url": "https://www.rtp.pt/noticias/mundo/predio-desaba-em-nova-iorque-e-deixa-vitimas-presas-nos-escombros_n1778557",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T22:48:28Z",
-      "description": "Um edifício de três andares colapsou numa zona residencial do bairro de Brooklyn, em Nova Iorque. Há registo de pelo menos uma vítima mortal e de pessoas presas nos escombros.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3da9c0e34c3b9e09069a4b1d9a90791e.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Espanha: 120 mil manifestam-se em Madrid por casas acessíveis e melhores salários",
-      "url": "https://pt.euronews.com/video/2026/11/11/espanha-120-mil-manifestam-se-em-madrid-por-casas-acessiveis-e-melhores-salarios",
+      "title": "Alemanha: Merz insta UE a manter reformas do mercado de carbono e rejeita mudanças no ETS2",
+      "url": "https://pt.euronews.com/2026/11/12/alemanha-merz-insta-ue-a-manter-reformas-do-mercado-de-carbono-e-rejeita-mudancas-no-ets2",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T22:37:57Z",
-      "description": "Cerca de 120 000 pessoas marcharam no centro de Madrid, a 11 de novembro, segundo as autoridades, numa greve geral que protestou contra a escalada dos custos da habitação e a pressão sobre os orçamentos familiares.",
-      "image": "https://images.euronews.com/articles/stories/09/98/90/20/1200x675_cmsv2_5a20112a-17f3-59d6-bd53-0c618aa3ab6b-9989020.jpg"
+      "publishedAt": "2026-11-12T11:05:39Z",
+      "description": "O chanceler alemão alertou para o risco de enfraquecer o mercado de carbono da UE, defendendo preços de carbono previsíveis para as empresas, apesar da crescente pressão dos Estados-membros e do seu próprio ministro da Economia.",
+      "image": "https://images.euronews.com/articles/stories/09/98/93/89/1200x675_cmsv2_af3391d4-f302-554e-b1ed-f4f49cc7e9a6-9989389.jpg"
     },
     {
-      "title": "Na Argentina. Papa Leão XIV invoca Francisco perante milhões de fiéis",
-      "url": "https://www.rtp.pt/noticias/mundo/na-argentina-papa-leao-xiv-invoca-francisco-perante-milhoes-de-fieis_v1778552",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T21:56:47Z",
-      "description": "O Papa despediu-se da Argentina com uma missa perante mais de 3 milhões de pessoas.",
-      "image": "https://cdn-images.rtp.pt/icm/images/dc/dc3eb81ab051f87f13df045ef09fcd4b_N.jpg?"
-    },
-    {
-      "title": "Rússia e Ucrânia acordaram a troca de mil ou mais prisioneiros",
-      "url": "https://www.rtp.pt/noticias/mundo/russia-e-ucrania-acordaram-a-troca-de-mil-ou-mais-prisioneiros_v1778551",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T21:54:53Z",
-      "description": "Esta ronda de negociações entre os dois países terminou com desacordo sobre os territórios e a segurança no pós-guerra.",
-      "image": "https://cdn-images.rtp.pt/icm/images/fd/fdeefa7b270a90c82b3e87f05a4289db_N.jpg?"
-    },
-    {
-      "title": "COP31 reúne representantes de 200 países na Turquia",
-      "url": "https://www.rtp.pt/noticias/mundo/cop31-reune-representantes-de-200-paises-na-turquia_v1778549",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T21:53:47Z",
-      "description": "Começaram a chegar à Turquia os líderes mundiais que vão participar na Conferência da ONU sobre Alterações Climáticas.",
-      "image": "https://cdn-images.rtp.pt/icm/images/3f/3f897353fbb3736b2a609fb01c8593d9_N.jpg?"
-    },
-    {
-      "title": "Tempestade Charles atinge regiões de Espanha",
-      "url": "https://www.rtp.pt/noticias/mundo/tempestade-charles-atinge-regioes-de-espanha_v1778544",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T21:31:48Z",
-      "description": "As regiões mais atingidas são as da Extremadura, Castela-Leão e Canárias.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5d1bbc5acd2dcae41b901f8bd677c8f?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Alemanha: Singulus fecha contrato de 60 milhões com Elon Musk para células solares de satélite",
-      "url": "https://pt.euronews.com/2026/11/11/alemanha-singulus-fecha-contrato-de-60-milhoes-com-elon-musk-para-celulas-solares-de-satel",
+      "title": "França: alerta de bomba na estação ferroviária de Calais-Frethun perturba ligações",
+      "url": "https://pt.euronews.com/2026/11/12/franca-alerta-de-bomba-na-estacao-ferroviaria-de-calais-frethun-perturba-ligacoes",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T19:18:12Z",
-      "description": "A SpaceX assinou um contrato de 60 milhões de euros com a empresa alemã de engenharia mecânica Singulus Technologies para o fornecimento estratégico de células solares, o que provocou uma forte valorização da empresa alemã.",
-      "image": "https://images.euronews.com/articles/stories/09/98/89/58/1200x675_cmsv2_f02b6449-d90f-5871-88fb-5acff3609175-9988958.jpg"
+      "publishedAt": "2026-11-12T10:56:52Z",
+      "description": "A autoridade de Pas-de-Calais indicou na manhã de quinta-feira que foi iniciada uma verificação de segurança que não encontrou qualquer ameaça real. Circulação de comboios já foi retormada.",
+      "image": "https://images.euronews.com/articles/stories/09/98/97/35/1200x675_cmsv2_1f8cb3bb-d9aa-5da7-932d-8e07267846be-9989735.jpg"
     },
     {
-      "title": "Irmão de Viktor Órban fica em prisão preventiva por pelo menos um mês",
-      "url": "https://pt.euronews.com/2026/11/11/orban-aron-fica-em-prisao-preventiva-por-pelo-menos-um-mes",
+      "title": "Hungria regista dez meses mais secos dos últimos 125 anos",
+      "url": "https://pt.euronews.com/2026/11/12/hungria-regista-dez-meses-mais-secos-dos-ultimos-125-anos",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T18:48:57Z",
-      "description": "O irmão do antigo primeiro-ministro da Hungria, Viktor Orbán, e cúmplices são suspeitos de tráfico de pessoas em associação criminosa.",
-      "image": "https://images.euronews.com/articles/stories/09/98/86/23/1200x675_cmsv2_1a35bd54-87ea-5b1b-a3ed-ccb8ad28cbd3-9988623.jpg"
+      "publishedAt": "2026-11-12T10:56:03Z",
+      "description": "As alterações climáticas tornaram mais frequentes os anticiclones, que dificultam a formação de nuvens e, assim, a ocorrência de precipitação.",
+      "image": "https://images.euronews.com/articles/stories/09/98/85/92/1200x675_cmsv2_bccb1229-645c-5763-90bb-2793e8cadcc7-9988592.jpg"
     },
     {
-      "title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
-      "url": "https://www.rtp.pt/noticias/economia/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505",
+      "title": "Viriato Soromenho-Marques. \"Corremos o risco de entrar em colapso\" ambiental",
+      "url": "https://www.rtp.pt/noticias/mundo/viriato-soromenho-marques-corremos-o-risco-de-entrar-em-colapso-ambiental_n1778632",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-11T18:41:45Z",
-      "description": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0eaf3aeaaa60df45c459479cf13d1879?w=350&q=50&rect=0,178,1500,822&auto=format"
+      "publishedAt": "2026-11-12T10:28:13Z",
+      "description": "Numa altura em que cerca de 200 países se reúnem em Antália, na Turquia, para a COP31, o professor universitário e especialista em alterações climáticas Viriato Soromenho-Marques alerta para o risco de \"entrarmos numa situação irreversível em que a crise se transforma num colapso\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e400973f1f21a7f93ff571df581bbc76?w=350&q=50&rect=0,0,1291,708&auto=format"
     },
     {
-      "title": "França Dia do Armistício com homenagens de Macron, Le Pen e Mélenchon",
-      "url": "https://pt.euronews.com/2026/11/11/franca-dia-do-armisticio-com-homenagens-de-macron-le-pen-e-melenchon",
+      "title": "Witkoff e Kushner chegam a Moscovo e pedem “bênção” de Putin para papel europeu na paz na Ucrânia",
+      "url": "https://pt.euronews.com/2026/11/12/witkoff-e-kushner-chegam-a-moscovo-e-pedem-bencao-de-putin-para-papel-europeu-na-paz-na-uc",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T18:25:06Z",
-      "description": "Por ocasião do 108.º aniversário do armistício de 1918, Emmanuel Macron presidiu à cerimónia sob o Arco do Triunfo, enquanto Marine Le Pen e Jean-Luc Mélenchon escolheram locais simbólicos para transmitirem as suas mensagens a poucos meses das presidenciais.",
-      "image": "https://images.euronews.com/articles/stories/09/98/85/71/1200x675_cmsv2_7e7ce9d2-09d9-5449-8008-b68097a8c694-9988571.jpg"
+      "publishedAt": "2026-11-12T10:27:16Z",
+      "description": "Steve Witkoff faz a sua décima visita à Rússia desde o regresso de Donald Trump à Casa Branca, acompanhado por Jared Kushner, enquanto Washington procura obter a aprovação de Vladimir Putin para trazer representantes europeus para as negociações de paz sobre a Ucrânia.",
+      "image": "https://images.euronews.com/articles/stories/09/98/93/15/1200x675_cmsv2_b86b4ed5-233c-5c0b-8493-2fe1aaf406f6-9989315.jpg"
     },
     {
-      "title": "Trinidad e Tobago: tribunal superior revoga lei que criminaliza sexo gay",
-      "url": "https://pt.euronews.com/2026/11/11/trinidad-e-tobago-tribunal-superior-revoga-lei-que-criminaliza-sexo-gay",
+      "title": "Zelenskyy: restrições ao Starlink na Ucrânia dificultam interceção de drones russos",
+      "url": "https://pt.euronews.com/2026/11/12/zelenskyy-restricoes-ao-starlink-na-ucrania-dificultam-intercecao-de-drones-russos",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T18:11:00Z",
-      "description": "O mais alto tribunal do país insular revogou uma lei de 1986 que criminalizava relações sexuais consensuais entre adultos do mesmo sexo",
-      "image": "https://images.euronews.com/articles/stories/09/98/88/10/1200x675_cmsv2_2999f134-7a35-513e-9491-238319f7a38c-9988810.jpg"
+      "publishedAt": "2026-11-12T10:12:49Z",
+      "description": "A Ucrânia afirma que as novas restrições de velocidade impostas ao Starshield, a versão militar do serviço de satélites Starlink da SpaceX, estão a prejudicar as interceções de drones ao longo da linha da frente, semanas depois de terem sido levantadas restrições semelhantes.",
+      "image": "https://images.euronews.com/articles/stories/09/98/96/61/1200x675_cmsv2_653c63ee-b196-54f3-bdbd-72a78123b208-9989661.jpg"
+    },
+    {
+      "title": "Livro \"A água não pede licença\" apresenta viagem pela Palestina ocupada",
+      "url": "https://www.rtp.pt/noticias/mundo/livro-a-agua-nao-pede-licenca-apresenta-viagem-pela-palestina-ocupada_n1778622",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T10:00:16Z",
+      "description": "O deputado do Bloco de Esquerda Fabian Figueiredo esteve em viagem pelos territórios palestinianos ocupados e recolheu histórias e retratos no terreno. Uma viagem que agora se apresenta em livro com o título “A água não pede licença”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/45/459be83314be7a58638276b6161e3b9d?w=350&q=50&rect=0,30,1024,561&auto=format"
+    },
+    {
+      "title": "França. Alerta de bomba na estação ferroviária de Calais-Frethun",
+      "url": "https://www.rtp.pt/noticias/mundo/franca-alerta-de-bomba-na-estacao-ferroviaria-de-calais-frethun_n1778619",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T09:55:18Z",
+      "description": "O alerta foi emitido esta manhã e as autoridades estão no local para determinar se a ameaça é credível.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f8/f8f35aa9d1be2a2adda35e464b2792fa?w=350&q=50&rect=0,0,2048,1123&auto=format"
+    },
+    {
+      "title": "Leão XIV visita Peru. Papa no país onde foi de missionário a bispo",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-visita-peru-papa-no-pais-onde-foi-de-missionario-a-bispo_n1778617",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T09:42:00Z",
+      "description": "O papa Leão XIV está de visita ao Peru na terceira e última paragem da sua viagem pela América Latina. Uma presença que marca o regresso do sumo pontífice ao seu país adotivo, onde viveu mais de 20 anos na sua vida eclesiástica.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f2e8b0ca7839c0d240e320ac6fa1e3f?w=350&q=50&rect=0,61,1024,561&auto=format"
+    },
+    {
+      "title": "Investigadora aponta fragilidades para independência da pesquisa em Moçambique",
+      "url": "https://www.rtp.pt/noticias/mundo/investigadora-aponta-fragilidades-para-independencia-da-pesquisa-em-mocambique_n1778615",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T09:35:31Z",
+      "description": "A pesquisadora do Observatório do Meio Rural (OMR) Carmeliza Rosário afirmou hoje que o ambiente político agrava fragilidades na investigação e advocacia em Moçambique, considerando que a pressão exercida sobre investigadores críticos limita a produção de conhecimento.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Cofundadora de projeto de conservação moçambicano vence prémio Príncipe William",
+      "url": "https://www.rtp.pt/noticias/mundo/cofundadora-de-projeto-de-conservacao-mocambicano-vence-premio-principe-william_n1778613",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-12T09:34:59Z",
+      "description": "A conservacionista Colleen Begg, cofundadora e diretora-geral do Niassa Carnivore Project, em Moçambique, venceu o Prémio Príncipe William para a Conservação em África 2026, uma das mais prestigiadas distinções de conservação da natureza atribuídas no continente africano.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ]
 }
