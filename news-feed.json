@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-13T08:00:13.794118Z",
+  "updatedAt": "2026-11-13T16:26:38.384885Z",
   "health": [
+    {
+      "title": "Reestruturação orgânica do Ministério da Saúde deve ser apresentada este mês",
+      "url": "https://www.rtp.pt/noticias/pais/reestruturacao-organica-do-ministerio-da-saude-deve-ser-apresentada-este-mes_v1778939",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-13T13:22:47Z",
+      "description": "O Governo prepara a reorganização, mesmo em tempo de polémicas que envolvem o setor, as administrações hospitalares e a atuação da ministra Ana Paula Martins.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/95/956a552949a1ff9a134afa603c42fd32?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "Ignacio Schoendorff: “Criar valor é também deixar conhecimento e capacidade nas instituições”",
+      "url": "https://healthnews.pt/2026/11/13/ignacio-schoendorff-criar-valor-e-tambem-deixar-conhecimento-e-capacidade-nas-instituicoes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T12:35:53Z",
+      "description": "Lançado em 2021 pela Gilead Sciences, com a APAH, a Exigo e a Vision for Value, o Programa Mais Valor em Saúde quer levar o Value-Based Healthcare à prática no SNS. Em cinco edições, já apoiou 20 projetos com 1 milhão de euros em consultoria especializada. Este ano recebeu 27 candidaturas de 20 instituições. Na 5.ª edição, “Vidas que Valem”, o diretor executivo da Gilead…",
+      "image": ""
+    },
+    {
+      "title": "Colapso na Microsoft afetou Saúde mas Governo garante \"funcionamento normal\" do Estado",
+      "url": "https://www.rtp.pt/noticias/mundo/colapso-na-microsoft-afetou-saude-mas-governo-garante-funcionamento-normal-do-estado_n1778894",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-13T10:43:35Z",
+      "description": "Os Serviços Partilhados do Ministério da Saúde revelaram que a falha global na Microsoft afetou entidades sob tutela do Governo. No entanto, não referem especificamente as áreas atingidas. A Associação de Medicina Geral e Familiar registou mesmo atrasos na remarcação de consultas e receitas. Ainda assim, o Governo garante estar acautelado o \"funcionamento normal\" quer do…",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b662417c93b834640b08a70b6f5d033?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "O burnout é um problema de operações",
+      "url": "https://healthnews.pt/2026/11/13/o-burnout-e-um-problema-de-operacoes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T09:43:25Z",
+      "description": "Rui Neto Gestor de operações nos setores da saúde e do retalho, com foco na melhoria contínua e na gestão da mudança.",
+      "image": ""
+    },
+    {
+      "title": "Quem ensinou os homens a sofrer em silêncio?",
+      "url": "https://healthnews.pt/2026/11/13/quem-ensinou-os-homens-a-sofrer-em-silencio/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T09:37:15Z",
+      "description": "Ana Justo Mestre em Psicologia do Bem-Estar e Promoção da Saúde e doutoranda em Ciências da Cognição, Linguagem e Neurociências na Universidade Católica Portuguesa. Psicóloga e membro efetivo da Ordem dos Psicólogos Portugueses.",
+      "image": ""
+    },
+    {
+      "title": "Atualização da plataforma impede registo de consultas de psicologia e nutrição até 29 de novembro",
+      "url": "https://healthnews.pt/2026/11/13/atualizacao-da-plataforma-impede-registo-de-consultas-de-psicologia-e-nutricao-ate-29-de-novembro/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T09:17:17Z",
+      "description": "O programa de consultas gratuitas de psicologia e nutrição para jovens recebeu 42.040 pedidos desde 2 de julho e levou à emissão de 90.019 cheques, segundo dados divulgados pelo Instituto Português do Desporto e Juventude (IPDJ) esta sexta-feira, 13 de novembro. Uma atualização da plataforma impede, contudo, os profissionais aderentes de registar novas consultas até 29 de…",
+      "image": ""
+    },
+    {
+      "title": "DGS prepara rastreio da diabetes tipo 1 na vacinação dos seis anos",
+      "url": "https://healthnews.pt/2026/11/13/dgs-prepara-rastreio-da-diabetes-tipo-1-na-vacinacao-dos-seis-anos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T09:12:42Z",
+      "description": "A Direção-Geral da Saúde (DGS) vai lançar um projeto-piloto de rastreio da diabetes tipo 1 em crianças, através de análises ao sangue realizadas no momento da vacinação dos seis anos. O objetivo é identificar a doença antes do aparecimento de sintomas, anunciou à Lusa a diretora do Programa Nacional para a Diabetes, Sónia do Vale.",
+      "image": ""
+    },
+    {
+      "title": "O oitavo",
+      "url": "https://healthnews.pt/2026/11/13/o-oitavo/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T09:03:18Z",
+      "description": "Denis Pizhin: Licenciatura em Medicina — Universidade Estatal da Crimeia, Ucrânia; Equivalência do grau — ICBAS, Universidade do Porto; Internato de Medicina Interna — Centro Hospitalar Universitário do Algarve; Formação em Medicina Intensiva — Hospital de São José, CHULC; Especialista em Medicina Intensiva e Medicina Interna; competência em Medicina de Emergência; INEM:…",
+      "image": ""
+    },
+    {
+      "title": "DGS alerta para casos de diabetes por diagnosticar",
+      "url": "https://healthnews.pt/2026/11/13/dgs-alerta-para-casos-de-diabetes-por-diagnosticar/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T09:01:25Z",
+      "description": "Os cuidados de saúde primários registaram 70.399 novos diagnósticos de diabetes em 2025, elevando para 960.064 o número de pessoas com a doença registada no Serviço Nacional de Saúde (SNS), o equivalente a 8,9% dos utentes inscritos. Os dados constam do Relatório 2026 do Programa Nacional para a Diabetes, divulgado esta sexta-feira, 13 de novembro, pela Direção-Geral da Saúde…",
+      "image": ""
+    },
+    {
+      "title": "Santa Maria moderniza laboratório de Patologia Clínica",
+      "url": "https://healthnews.pt/2026/11/13/santa-maria-moderniza-laboratorio-de-patologia-clinica/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-13T08:31:06Z",
+      "description": "A Unidade Local de Saúde (ULS) Santa Maria tem prevista para esta sexta-feira, 13 de novembro, a inauguração do renovado laboratório do Serviço de Patologia Clínica, no Hospital de Santa Maria, que passa a dispor de um sistema de transporte de amostras através de linhas elevadas. A intervenção inclui a substituição dos equipamentos de rotina e a remodelação integral do espaço,…",
+      "image": ""
+    },
+    {
+      "title": "DGS regista menos casos de diabetes em 2025 mas surgiram 70 mil novos doentes",
+      "url": "https://www.rtp.pt/noticias/pais/dgs-regista-menos-casos-de-diabetes-em-2025-mas-surgiram-70-mil-novos-doentes_n1778858",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-13T08:27:19Z",
+      "description": "Portugal registou, no ano passado, mais de 70 mil novos casos de diabetes. Um número que desceu em relação ao ano anterior. Ainda assim suscita preocupação.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee5b65fb0865f963a0a9d7fae77f64a4?w=350&q=50&rect=0,283,2580,1414&auto=format"
+    },
     {
       "title": "Quase 70.399 novos casos de diabetes registados em 2025 nos cuidados de saúde primários",
       "url": "https://www.rtp.pt/noticias/pais/quase-70-399-novos-casos-de-diabetes-registados-em-2025-nos-cuidados-de-saude-primarios_n1778839",
@@ -8,192 +96,104 @@
       "publishedAt": "2026-11-13T07:15:54Z",
       "description": "Quase 70.400 novos casos de diabetes foram registados em 2025 nos cuidados de saúde primários, elevando para 960.064 o número de pessoas com diagnóstico registado no SNS, o equivalente a 8,9% dos utentes inscritos no SNS, segundo a DGS.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e565770272e4a84a7fb172c09ce4dff7?w=350&q=50&rect=0,0,840,461&auto=format"
-    },
-    {
-      "title": "Hospital de Portimão. ULS do Algarve disse que ia tomar medidas",
-      "url": "https://www.rtp.pt/noticias/pais/hospital-de-portimao-uls-do-algarve-disse-que-ia-tomar-medidas_v1778786",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T20:50:47Z",
-      "description": "A ministra da Saúde disse que recebeu garantias de medidas para melhorar as urgências de Portimão.",
-      "image": "https://cdn-images.rtp.pt/icm/images/f1/f14aed610b7b11317bfb2b8d8dc1b24c_N.jpg?"
-    },
-    {
-      "title": "Internato preenche 82% das vagas, mas 186 lugares para médico de família ficam por ocupar",
-      "url": "https://www.rtp.pt/noticias/pais/internato-preenche-82-das-vagas-mas-186-lugares-para-medico-de-familia-ficam-por-ocupar_n1778752",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T17:55:10Z",
-      "description": "Mais de 80% das 2.338 vagas disponibilizadas para o internato médico que arranca em 2027 ficaram preenchidas, mas 186 lugares para a formação na especialidade de medicina geral e familiar ficaram por ocupar.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e5fc9c915d246dc716972d9f8ca57279?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Estudantes de medicina lamentam que 426 vagas para especialidades fiquem por preencher",
-      "url": "https://www.rtp.pt/noticias/pais/estudantes-de-medicina-lamentam-que-426-vagas-para-especialidades-fiquem-por-preencher_n1778724",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T16:14:56Z",
-      "description": "A Associação Nacional de Estudantes de Medicina (ANEM) lamentou hoje que 426 vagas para formação especializada tenham ficado por preencher e defendeu a urgência de tornar a medicina geral e familiar e a medicina interna mais atrativas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/78/78b414f82903ffc0e3bdd5fede6cf135?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "REFRAME Obesity leva capacitação clínica a 600 médicos de família",
-      "url": "https://healthnews.pt/2026/11/12/reframe-obesity-leva-capacitacao-clinica-a-600-medicos-de-familia/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T14:12:39Z",
-      "description": "A APMGF, a Lilly Portugal e a NOVA Medical School reúnem especialistas a 13 de novembro, em Lisboa, para debater a resposta nacional à obesidade e apresentar o REFRAME Obesity, programa que pretende capacitar 600 médicos de Medicina Geral e Familiar",
-      "image": ""
-    },
-    {
-      "title": "Enfermeiros em protesto no Ministério da Saúde exigem contratações e progressão na carreira",
-      "url": "https://healthnews.pt/2026/11/12/enfermeiros-em-protesto-no-ministerio-da-saude-exigem-contratacoes-e-progressao-na-carreira/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T13:40:14Z",
-      "description": "Dezenas de enfermeiros concentraram-se hoje junto ao Ministério da Saúde, em Lisboa, num protesto convocado pelo SEP para exigir a contratação de mais profissionais, melhores condições de trabalho e a resolução de problemas de carreira que afetam entre 30 a 40 mil profissionais",
-      "image": ""
-    },
-    {
-      "title": "FDA exige alerta sobre perda de visão em medicamentos como Ozempic e Wegovy",
-      "url": "https://healthnews.pt/2026/11/12/fda-exige-alerta-sobre-perda-de-visao-em-medicamentos-como-ozempic-e-wegovy/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T12:08:51Z",
-      "description": "A Food and Drug Administration vai incluir na bula de todos os fármacos da classe GLP-1 um aviso sobre um efeito secundário raro que pode causar perda significativa da visão, na sequência de uma análise a mais de 125 ensaios clínicos e de relatos registados no sistema de farmacovigilância norte-americano",
-      "image": ""
-    },
-    {
-      "title": "ACSS sem publicar classificações finais do concurso de consultor",
-      "url": "https://healthnews.pt/2026/11/12/acss-sem-publicar-classificacoes-finais-do-concurso-de-consultor/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T10:34:27Z",
-      "description": "O Sindicato dos Médicos do Norte exige à Administração Central do Sistema de Saúde a publicação imediata das listas de classificação final em falta do concurso de habilitação ao grau de consultor de 2023, alertando que o atraso impede o reconhecimento de qualificações e a progressão na carreira",
-      "image": ""
-    },
-    {
-      "title": "IMC não basta para avaliar a obesidade, conclui estudo",
-      "url": "https://healthnews.pt/2026/11/12/imc-nao-basta-para-avaliar-a-obesidade-conclui-estudo/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T08:43:38Z",
-      "description": "O índice de massa corporal (IMC), utilizado isoladamente, é insuficiente para avaliar a obesidade e os riscos de saúde associados ao excesso de gordura corporal, conclui um estudo internacional que analisou dados de 844.108 adultos. A investigação indica que complementar este indicador com medições da cintura e avaliar o funcionamento dos órgãos permite distinguir situações…",
-      "image": ""
-    },
-    {
-      "title": "IGAS avalia triagem e tempos de resposta na urgência de Portimão",
-      "url": "https://healthnews.pt/2026/11/12/igas-avalia-triagem-e-tempos-de-resposta-na-urgencia-de-portimao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T08:23:13Z",
-      "description": "A Inspeção-Geral das Atividades em Saúde (IGAS) vai avaliar os sistemas de triagem, os recursos humanos e os tempos de resposta do serviço de urgência do Hospital de Portimão, numa inspeção extraordinária determinada pela ministra da Saúde após a morte de dois idosos.",
-      "image": ""
-    },
-    {
-      "title": "Ataques à refrigeração de bancos de sangue motivam alerta europeu",
-      "url": "https://healthnews.pt/2026/11/12/ataques-a-refrigeracao-de-bancos-de-sangue-motivam-alerta-europeu/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T07:32:00Z",
-      "description": "Os ciberataques aos sistemas de refrigeração de bancos de sangue e supermercados devem servir de alerta para reforçar a proteção das infraestruturas essenciais na Europa, defendeu a vice-presidente da Comissão Europeia, Henna Virkkunen, num debate sobre ameaças híbridas realizado em 11 de novembro no Parlamento Europeu.",
-      "image": ""
-    },
-    {
-      "title": "Saúde e segurança das pessoas: a responsabilidade política de garantir cuidados profissionalmente qualificados",
-      "url": "https://healthnews.pt/2026/11/12/saude-e-seguranca-das-pessoas-a-responsabilidade-politica-de-garantir-cuidados-profissionalmente-qualificados/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-12T07:13:50Z",
-      "description": "Nelson Guerra, RN, MsC, PhD Presidente da APEGEL",
-      "image": ""
     }
   ],
   "world": [
     {
-      "title": "Pelo menos quatro mortos em ataque ucraniano contra região russa",
-      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-quatro-mortos-em-ataque-ucraniano-contra-regiao-russa_n1778848",
+      "title": "Quatro detidos e 58 crianças resgatadas de centro de acolhimento clandestino em Angola",
+      "url": "https://www.rtp.pt/noticias/mundo/quatro-detidos-e-58-criancas-resgatadas-de-centro-de-acolhimento-clandestino-em-angola_n1778972",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T07:56:16Z",
-      "description": "Pelo menos quatro pessoas morreram na sequência de um ataque lançado pelas forças ucranianas contra uma zona industrial da região russa de Volgogrado, disseram hoje as autoridades locais.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/db/dbed3caf598a669551db279152f0195e?w=350&q=50&rect=0,0,800,439&auto=format"
+      "publishedAt": "2026-11-13T16:22:22Z",
+      "description": "A Polícia angolana resgatou 58 crianças de um centro de acolhimento clandestino e deteve quatro responsáveis por alegados maus tratos, no município do Sambizanga, em Luanda, divulgaram hoje as autoridades policiais.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Irlanda: líderes da UE em Dublin discutem quem fala pela Europa nas negociações de paz",
-      "url": "https://pt.euronews.com/2026/11/13/irlanda-lideres-da-ue-em-dublin-discutem-quem-fala-pela-europa-nas-negociacoes-de-paz",
-      "source": "Euronews",
-      "publishedAt": "2026-11-13T07:33:06Z",
-      "description": "Bom dia. Sou Luca Bertuzzi, a assinar a newsletter de hoje. As conversações de paz da Ucrânia e a questão de quem representa a Europa dominaram a cimeira informal da UE, abrindo nova ronda do jogo dos nomes",
-      "image": "https://images.euronews.com/articles/stories/09/99/03/60/1200x675_cmsv2_4fcd02a8-6bf7-5ca7-a26f-9c135d3957e4-9990360.jpg"
-    },
-    {
-      "title": "Colapso mundial da Microsoft desliga e-mails. Gigante tecnológica à procura de remédio",
-      "url": "https://www.rtp.pt/noticias/mundo/colapso-mundial-da-microsoft-desliga-e-mails-gigante-tecnologica-a-procura-de-remedio_n1778840",
+      "title": "Rússia atinge hospital em Kiev após falhas no sistema Starshield",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/russia-atinge-hospital-em-kiev-apos-falhas-no-sistema-starshield_n1778967",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T07:13:43Z",
-      "description": "A multinacional adianta não estar a par de qualquer atividade maliciosa que tenha gerado a interrupção em cadeia dos seus serviços.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e2d0f49c6c6a603ecf45464277516f07?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-13T15:01:07Z",
+      "description": "A Rússia atacou um hospital no centro de Kiev, perto de várias embaixadas ocidentais, pouco depois de Volodymyr Zelensky ter declarado que as restrições de velocidade no sistema Starshield, da SpaceX, tornaram mais difícil para a Ucrânia abater drones inimigos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b0423a2383bd05c04d68b3445aa78f39?w=350&q=50&rect=0,451,5384,2952&auto=format"
     },
     {
-      "title": "Escassez de eletricidade devido a períodos sem sol e vento: alarmismo ou ameaça real?",
-      "url": "https://pt.euronews.com/2026/11/13/escassez-de-eletricidade-devido-a-periodos-sem-sol-e-vento-alarmismo-ou-ameaca-real",
+      "title": "Reino Unido: Kew Gardens ilumina Londres com novo percurso de luzes natalício",
+      "url": "https://pt.euronews.com/video/2026/11/13/reino-unido-kew-gardens-ilumina-londres-com-novo-percurso-de-luzes-natalicio",
       "source": "Euronews",
-      "publishedAt": "2026-11-13T06:55:56Z",
-      "description": "Quando falta vento e sol, a eletricidade escasseia e os preços na bolsa sobem. Terão os lares de suportar faturas mais altas? E quão preparada está a Alemanha para longos períodos sem sol nem vento?",
-      "image": "https://images.euronews.com/articles/stories/09/98/92/04/1200x675_cmsv2_d9e87bae-608f-5407-9132-64472a398386-9989204.jpg"
+      "publishedAt": "2026-11-13T14:48:10Z",
+      "description": "Os Jardins de Kew, em Londres, apresentam um deslumbrante percurso de luzes de Natal com mais de um milhão de luzes e 24 instalações, com um novo espetáculo de fontes e lasers no centro",
+      "image": "https://images.euronews.com/articles/stories/09/99/18/46/1200x675_cmsv2_6902e822-2049-5797-a0c9-8a1b4d29be24-9991846.jpg"
     },
     {
-      "title": "China nutre \"ódio intenso\" pelo magnata preso de Hong Kong Jimmy Lai diz Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/china-nutre-odio-intenso-pelo-magnata-preso-de-hong-kong-jimmy-lai-diz-trump_n1778837",
+      "title": "Kallas: \"Russos não me querem\" como enviada da UE para as negociações de paz",
+      "url": "https://pt.euronews.com/2026/11/13/kallas-russos-nao-me-querem-como-enviada-da-ue-para-as-negociacoes-de-paz",
+      "source": "Euronews",
+      "publishedAt": "2026-11-13T14:27:54Z",
+      "description": "Kaja Kallas tem feito uma forte pressão para ser nomeada enviada especial da UE para as negociações de paz. Mas “os russos não me querem”, acrescentou.",
+      "image": "https://images.euronews.com/articles/stories/09/99/13/01/1200x675_cmsv2_82ac081b-2424-5337-9ab0-1f9e01955b30-9991301.jpg"
+    },
+    {
+      "title": "Arrancou a campanha eleitoral em Espanha",
+      "url": "https://www.rtp.pt/noticias/mundo/arrancou-a-campanha-eleitoral-em-espanha_v1778960",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T06:55:13Z",
-      "description": "O Presidente dos Estados Unidos, Donald Trump, afirmou que a China nutre um \"ódio intenso\" pelo antigo magnata dos meios de comunicação pró-democracia de Hong Kong, Jimmy Lai, considerando improvável que venha a sair da prisão.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e953bd80e1e5878e9b1387a5345f606?w=350&q=50&rect=0,78,1080,592&auto=format"
+      "publishedAt": "2026-11-13T14:16:47Z",
+      "description": "Lula da Silva vai a Madrid apoiar Pedro Sánchez e a mulher do presidente do Governo espanhol, Begonha Gómez, interveio, pela primeira vez, num comício.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/86/86ab12c768d7ac1ca62d2bd71e725efa.jpg?w=350&q=75_&auto=format&q=50"
     },
     {
-      "title": "Ucrânia: ataques russos deixam Zaporíjia a viver em medo constante",
-      "url": "https://pt.euronews.com/2026/11/13/ucrania-ataques-russos-deixam-zaporijia-a-viver-em-medo-constante",
+      "title": "Da paz na Ucrânia ao futuro da Europa: como a Rússia está a alterar o debate",
+      "url": "https://pt.euronews.com/2026/11/13/da-paz-na-ucrania-ao-futuro-da-europa-como-a-russia-esta-a-alterar-o-debate",
       "source": "Euronews",
-      "publishedAt": "2026-11-13T06:54:25Z",
-      "description": "Quase nenhuma outra cidade da Ucrânia sofre tanto com a invasão russa em grande escala. A presidente da Câmara de Zaporíjia, Regina Kharchenko, fala à Euronews sobre o inverno rigoroso, ataques a civis e a central nuclear ocupada pelos russos",
-      "image": "https://images.euronews.com/articles/stories/09/98/85/69/1200x675_cmsv2_52af9e49-b0ff-57b0-9bf8-27b85d06b735-9988569.jpg"
+      "publishedAt": "2026-11-13T14:06:33Z",
+      "description": "À medida que as negociações para pôr fim à guerra da Rússia na Ucrânia pouco avançam, Moscovo insiste num acordo de segurança europeu mais amplo, alimentando receios de que o Kremlin procure redefinir, a seu modo, o futuro do continente.",
+      "image": "https://images.euronews.com/articles/stories/09/99/13/40/1200x675_cmsv2_95b62694-ca6f-5a13-bd61-bbb3e121020f-9991340.jpg"
     },
     {
-      "title": "Campanha para escolher Presidente da República termina hoje",
-      "url": "https://www.rtp.pt/noticias/mundo/campanha-para-escolher-presidente-da-republica-termina-hoje_n1778836",
+      "title": "Macedónia do Norte: Kriva Palanka pede estado de crise por 1 000 vacas à solta",
+      "url": "https://pt.euronews.com/video/2026/11/13/macedonia-do-norte-kriva-palanka-pede-estado-de-crise-por-1-000-vacas-a-solta",
+      "source": "Euronews",
+      "publishedAt": "2026-11-13T14:04:55Z",
+      "description": "Mais de 1 000 vacas vagueiam livremente por Kriva Palanka, na Macedónia do Norte, causando danos e alarmando moradores. Pede o presidente da câmara ao governo que declare um estado de crise de 30 dias",
+      "image": "https://images.euronews.com/articles/stories/09/99/16/13/1200x675_cmsv2_556e99ce-1e38-5608-b37a-cb4d74c154ea-9991613.jpg"
+    },
+    {
+      "title": "Espanha enfrenta crise da habitação com modelo de habitação cooperativa",
+      "url": "https://pt.euronews.com/2026/11/13/espanha-enfrenta-crise-da-habitacao-com-modelo-de-habitacao-cooperativa",
+      "source": "Euronews",
+      "publishedAt": "2026-11-13T14:00:56Z",
+      "description": "Perante o agravamento da crise da habitação em Espanha, uma cooperativa sediada em Barcelona propõe alternativa ao arrendamento e à compra: um modelo sem fins lucrativos de direito de uso que garante casas acessíveis e estáveis. Poderá ajudar a crise europeia?",
+      "image": "https://images.euronews.com/articles/stories/09/98/60/25/1200x675_cmsv2_937b3d79-0eec-5fb2-b27a-b6b05a6026c2-9986025.jpg"
+    },
+    {
+      "title": "OMS admite que avanços no combate são frágeis após quase meio ano de epidemia",
+      "url": "https://www.rtp.pt/noticias/mundo/oms-admite-que-avancos-no-combate-sao-frageis-apos-quase-meio-ano-de-epidemia_n1778941",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T06:49:02Z",
-      "description": "A campanha eleitoral para as eleições presidenciais de domingo, em Cabo Verde, termina hoje com seis candidatos na corrida, dois dos quais apoiados pelos principais partidos do país.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/15/15bb8ef1d6e4773f95ea4a4b52869592?w=350&q=50&rect=38,249,325,178&auto=format"
+      "publishedAt": "2026-11-13T13:47:23Z",
+      "description": "A Organização Mundial da Saúde (OMS) admitiu hoje que os avanços na luta contra a epidemia de Ébola na República Democrática do Congo (RDCongo), que ultrapassa os 5.400 mortos em quase seis meses, são \"frágeis e insuficientes\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/53/533dd45f4871b26d00bf59e948bb9db0?w=350&q=50&rect=0,75,1200,658&auto=format"
     },
     {
-      "title": "Taiwan denuncia \"instrumentalização\" de Sun Yat-sen por Pequim em prol da \"unificação\"",
-      "url": "https://www.rtp.pt/noticias/mundo/taiwan-denuncia-instrumentalizacao-de-sun-yat-sen-por-pequim-em-prol-da-unificacao_n1778833",
+      "title": "China opõe-se a novas restrições à compra de chips norte-americanos depois do caso Nvidia",
+      "url": "https://www.rtp.pt/noticias/mundo/china-opoe-se-a-novas-restricoes-a-compra-de-chips-norte-americanos-depois-do-caso-nvidia_v1778951",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T06:46:02Z",
-      "description": "O Governo de Taiwan denunciou a \"instrumentalização\" de Sun Yat-sen, primeiro presidente da República da China, durante a comemoração em Pequim do 160.º aniversário do seu nascimento, acusando-a de visar a \"unificação\" da ilha ao continente.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7e45491a04630b68c0cd9d41f7e0c9d?w=350&q=50&rect=0,81,1204,660&auto=format"
+      "publishedAt": "2026-11-13T13:46:49Z",
+      "description": "O escândalo já levou o Diretor Executivo da multinacional a demitir-se. Jensen Huang foi convocado para depor no Senado dos Estados Unidos sobre a relação com uma alegada espia chinesa.",
+      "image": "https://cdn-images.rtp.pt/icm/images/3d/3d36fbc855f9df35615e642009209a5b_N.jpg?"
     },
     {
-      "title": "Conflito diplomático com a Ucrânia ofusca a primeira cimeira sobre IA dos líderes da UE",
-      "url": "https://pt.euronews.com/2026/11/13/conflito-diplomatico-com-a-ucrania-ofusca-a-primeira-cimeira-sobre-ia-dos-lideres-da-ue",
-      "source": "Euronews",
-      "publishedAt": "2026-11-13T06:45:51Z",
-      "description": "Líderes da UE reúnem-se na sexta-feira em Dublin para discutir sobre IA, com Arthur Mensch e Geoffrey Hinton, mas a disputa sobre quem representa a Europa nas conversações de paz na Ucrânia deverá dominar o debate.",
-      "image": "https://images.euronews.com/articles/stories/09/99/03/43/1200x675_cmsv2_53cab84c-f1f3-5443-9019-b0b9f0d0acbe-9990343.jpg"
-    },
-    {
-      "title": "Taiwan regista redução na atividade militar chinesa perto da ilha",
-      "url": "https://www.rtp.pt/noticias/mundo/taiwan-regista-reducao-na-atividade-militar-chinesa-perto-da-ilha_n1778831",
+      "title": "ONU alerta para crise alimentar recorde com 30,3 milhões de afetados em 2027",
+      "url": "https://www.rtp.pt/noticias/mundo/onu-alerta-para-crise-alimentar-recorde-com-30-3-milhoes-de-afetados-em-2027_n1778925",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T06:41:09Z",
-      "description": "As autoridades taiwaneses anunciaram o registo de uma diminuição do número de navios militares chineses perto da ilha, mas alertaram que a China mantém o porta-aviões Liaoning e formações navais de três comandos no mar das Filipinas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc5e75c9b6c866a289ae1a7cef6d7a9e?w=350&q=50&rect=0,146,1233,676&auto=format"
+      "publishedAt": "2026-11-13T13:42:27Z",
+      "description": "Quatro agências da ONU alertaram hoje que um recorde de 30,3 milhões de pessoas na República Democrática do Congo (RDCongo) irão enfrentar níveis de crise de insegurança alimentar aguda, ou piores, durante o primeiro semestre de 2027.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/62/623e8c7b73de3629aabac2aa835b69fa?w=350&q=50&rect=0,95,728,399&auto=format"
     },
     {
-      "title": "Chris Van Hollen desafia Chuck Schumer na liderança democrata no Senado dos EUA",
-      "url": "https://pt.euronews.com/2026/11/13/chris-van-hollen-desafia-chuck-schumer-na-lideranca-democrata-no-senado-dos-eua",
+      "title": "Turquia: cavalo de Tróia gigante despeja lixo plástico na COP31",
+      "url": "https://pt.euronews.com/video/2026/11/13/turquia-cavalo-de-troia-gigante-despeja-lixo-plastico-na-cop31",
       "source": "Euronews",
-      "publishedAt": "2026-11-13T06:24:28Z",
-      "description": "Chris Van Hollen, que conta com o apoio de alguns dos progressistas mais ativos do Partido Democrata, é o primeiro a desafiar abertamente a candidatura do veterano líder democrata no Senado Chuck Schumer.",
-      "image": "https://images.euronews.com/articles/stories/09/99/07/55/1200x675_cmsv2_6e149067-786f-5157-875c-09c9137416da-9990755.jpg"
-    },
-    {
-      "title": "Notícias do dia | 13 de novembro 2026 - Manhã",
-      "url": "https://pt.euronews.com/video/2026/11/13/noticias-do-dia-13-de-novembro-2026-manha",
-      "source": "Euronews",
-      "publishedAt": "2026-11-13T06:00:20Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 13 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/08/98/1200x675_cmsv2_24e47d2b-f535-5f89-b375-5fed0f26fcf7-9990898.jpg"
+      "publishedAt": "2026-11-13T13:37:15Z",
+      "description": "Cavalo de Troia gigante, cheio de lixo plástico, surge em Antália numa ação da Greenpeace e do artista dinamarquês Thomas Dambo durante a COP31 para alertar para o impacto ambiental dos plásticos",
+      "image": "https://images.euronews.com/articles/stories/09/99/15/02/1200x675_cmsv2_1ab636d8-c4c7-56e0-95fa-8974498e236a-9991502.jpg"
     }
   ]
 }
