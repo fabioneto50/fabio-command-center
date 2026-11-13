@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T00:27:14.116979Z",
+  "updatedAt": "2026-11-13T08:00:13.794118Z",
   "health": [
+    {
+      "title": "Quase 70.399 novos casos de diabetes registados em 2025 nos cuidados de saúde primários",
+      "url": "https://www.rtp.pt/noticias/pais/quase-70-399-novos-casos-de-diabetes-registados-em-2025-nos-cuidados-de-saude-primarios_n1778839",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-13T07:15:54Z",
+      "description": "Quase 70.400 novos casos de diabetes foram registados em 2025 nos cuidados de saúde primários, elevando para 960.064 o número de pessoas com diagnóstico registado no SNS, o equivalente a 8,9% dos utentes inscritos no SNS, segundo a DGS.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e565770272e4a84a7fb172c09ce4dff7?w=350&q=50&rect=0,0,840,461&auto=format"
+    },
     {
       "title": "Hospital de Portimão. ULS do Algarve disse que ia tomar medidas",
       "url": "https://www.rtp.pt/noticias/pais/hospital-de-portimao-uls-do-algarve-disse-que-ia-tomar-medidas_v1778786",
@@ -40,14 +48,6 @@
       "publishedAt": "2026-11-12T13:40:14Z",
       "description": "Dezenas de enfermeiros concentraram-se hoje junto ao Ministério da Saúde, em Lisboa, num protesto convocado pelo SEP para exigir a contratação de mais profissionais, melhores condições de trabalho e a resolução de problemas de carreira que afetam entre 30 a 40 mil profissionais",
       "image": ""
-    },
-    {
-      "title": "Ministra da Saúde mantém no cargo acusado de vários crimes de corrupção",
-      "url": "https://www.rtp.pt/noticias/pais/ministra-da-saude-mantem-no-cargo-acusado-de-varios-crimes-de-corrupcao_v1778676",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T13:28:48Z",
-      "description": "A ministra da Saúde mantém no cargo o presidente da ULS do Tâmega e Sousa, também acusado de vários crimes de corrupção.",
-      "image": "https://cdn-images.rtp.pt/icm/images/74/742026a61b7abdf9c81f958f02a69b39_N.jpg?"
     },
     {
       "title": "FDA exige alerta sobre perda de visão em medicamentos como Ozempic e Wegovy",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
-      "title": "Quarenta Estados europeus formalizam princípios-chave de segurança numa carta",
-      "url": "https://www.rtp.pt/noticias/mundo/quarenta-estados-europeus-formalizam-principios-chave-de-seguranca-numa-carta_n1778815",
+      "title": "Pelo menos quatro mortos em ataque ucraniano contra região russa",
+      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-quatro-mortos-em-ataque-ucraniano-contra-regiao-russa_n1778848",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T00:10:09Z",
-      "description": "Quarenta Estados da \"Europa alargada\", que vai para além da União Europeia (UE), formalizaram esta quinta-feira os princípios-chave da sua segurança, numa carta que abrange também ameaças híbridas, de informação ou dirigidas contra a democracia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/30/30aafa8651dfd791c270d1e5f207ddae.JPG?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-13T07:56:16Z",
+      "description": "Pelo menos quatro pessoas morreram na sequência de um ataque lançado pelas forças ucranianas contra uma zona industrial da região russa de Volgogrado, disseram hoje as autoridades locais.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/db/dbed3caf598a669551db279152f0195e?w=350&q=50&rect=0,0,800,439&auto=format"
     },
     {
-      "title": "Estados Unidos: novos membros do Congresso posam para foto tradicional no Capitólio",
-      "url": "https://pt.euronews.com/video/2026/11/13/estados-unidos-novos-membros-do-congresso-posam-para-foto-tradicional-no-capitolio",
+      "title": "Irlanda: líderes da UE em Dublin discutem quem fala pela Europa nas negociações de paz",
+      "url": "https://pt.euronews.com/2026/11/13/irlanda-lideres-da-ue-em-dublin-discutem-quem-fala-pela-europa-nas-negociacoes-de-paz",
       "source": "Euronews",
-      "publishedAt": "2026-11-12T23:08:54Z",
-      "description": "Os recém-eleitos legisladores norte-americanos reuniram-se no Capitólio para a foto tradicional antes da abertura do 120.º Congresso, participando em sessões de orientação após as intercalares de novembro",
-      "image": "https://images.euronews.com/articles/stories/09/99/07/41/1200x675_cmsv2_f8df9b3d-89de-57fe-832c-f26dc60763b7-9990741.jpg"
+      "publishedAt": "2026-11-13T07:33:06Z",
+      "description": "Bom dia. Sou Luca Bertuzzi, a assinar a newsletter de hoje. As conversações de paz da Ucrânia e a questão de quem representa a Europa dominaram a cimeira informal da UE, abrindo nova ronda do jogo dos nomes",
+      "image": "https://images.euronews.com/articles/stories/09/99/03/60/1200x675_cmsv2_4fcd02a8-6bf7-5ca7-a26f-9c135d3957e4-9990360.jpg"
     },
     {
-      "title": "Orçamento do Estado aprovado em Angola com críticas ao peso da dívida pública",
-      "url": "https://www.rtp.pt/noticias/mundo/orcamento-do-estado-aprovado-em-angola-com-criticas-ao-peso-da-divida-publica_n1778805",
+      "title": "Colapso mundial da Microsoft desliga e-mails. Gigante tecnológica à procura de remédio",
+      "url": "https://www.rtp.pt/noticias/mundo/colapso-mundial-da-microsoft-desliga-e-mails-gigante-tecnologica-a-procura-de-remedio_n1778840",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T22:34:08Z",
-      "description": "O Parlamento angolano aprovou hoje o Orçamento Geral do Estado (OGE) para 2027 com os votos da maioria do MPLA e críticas da oposição ao peso da dívida, que absorve quase 44% dos 37,34 biliões de kwanzas previstos.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-13T07:13:43Z",
+      "description": "A multinacional adianta não estar a par de qualquer atividade maliciosa que tenha gerado a interrupção em cadeia dos seus serviços.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e2d0f49c6c6a603ecf45464277516f07?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
-      "title": "Lider do PAIGC defende que democracia em África não pode limitar-se à realização de eleições",
-      "url": "https://www.rtp.pt/noticias/mundo/lider-do-paigc-defende-que-democracia-em-africa-nao-pode-limitar-se-a-realizacao-de-eleicoes_n1778806",
+      "title": "Escassez de eletricidade devido a períodos sem sol e vento: alarmismo ou ameaça real?",
+      "url": "https://pt.euronews.com/2026/11/13/escassez-de-eletricidade-devido-a-periodos-sem-sol-e-vento-alarmismo-ou-ameaca-real",
+      "source": "Euronews",
+      "publishedAt": "2026-11-13T06:55:56Z",
+      "description": "Quando falta vento e sol, a eletricidade escasseia e os preços na bolsa sobem. Terão os lares de suportar faturas mais altas? E quão preparada está a Alemanha para longos períodos sem sol nem vento?",
+      "image": "https://images.euronews.com/articles/stories/09/98/92/04/1200x675_cmsv2_d9e87bae-608f-5407-9132-64472a398386-9989204.jpg"
+    },
+    {
+      "title": "China nutre \"ódio intenso\" pelo magnata preso de Hong Kong Jimmy Lai diz Trump",
+      "url": "https://www.rtp.pt/noticias/mundo/china-nutre-odio-intenso-pelo-magnata-preso-de-hong-kong-jimmy-lai-diz-trump_n1778837",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T22:33:11Z",
-      "description": "O político guineense Domingos Simões Pereira defendeu hoje que a democracia em África não pode limitar-se à realização de eleições, mesmo que livres e justas, exigindo também instituições consolidadas e mecanismos de fiscalização do poder entre os atos eleitorais.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-13T06:55:13Z",
+      "description": "O Presidente dos Estados Unidos, Donald Trump, afirmou que a China nutre um \"ódio intenso\" pelo antigo magnata dos meios de comunicação pró-democracia de Hong Kong, Jimmy Lai, considerando improvável que venha a sair da prisão.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e953bd80e1e5878e9b1387a5345f606?w=350&q=50&rect=0,78,1080,592&auto=format"
     },
     {
-      "title": "Reino Unido \"com interesse\" em projeto de centro extra-UE para retorno de migrantes",
-      "url": "https://www.rtp.pt/noticias/mundo/reino-unido-com-interesse-em-projeto-de-centro-extra-ue-para-retorno-de-migrantes_n1778800",
+      "title": "Ucrânia: ataques russos deixam Zaporíjia a viver em medo constante",
+      "url": "https://pt.euronews.com/2026/11/13/ucrania-ataques-russos-deixam-zaporijia-a-viver-em-medo-constante",
+      "source": "Euronews",
+      "publishedAt": "2026-11-13T06:54:25Z",
+      "description": "Quase nenhuma outra cidade da Ucrânia sofre tanto com a invasão russa em grande escala. A presidente da Câmara de Zaporíjia, Regina Kharchenko, fala à Euronews sobre o inverno rigoroso, ataques a civis e a central nuclear ocupada pelos russos",
+      "image": "https://images.euronews.com/articles/stories/09/98/85/69/1200x675_cmsv2_52af9e49-b0ff-57b0-9bf8-27b85d06b735-9988569.jpg"
+    },
+    {
+      "title": "Campanha para escolher Presidente da República termina hoje",
+      "url": "https://www.rtp.pt/noticias/mundo/campanha-para-escolher-presidente-da-republica-termina-hoje_n1778836",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T22:30:00Z",
-      "description": "O primeiro-ministro britânico, Andy Burnham, afirmou hoje seguir \"com interesse\" o projeto de vários países europeus para abrir um centro de retorno para migrantes fora da União Europeia (UE), possivelmente no Ruanda.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0eae47032a8a15708fdf13dee5bfa47c?w=350&q=50&rect=0,200,1500,822&auto=format"
+      "publishedAt": "2026-11-13T06:49:02Z",
+      "description": "A campanha eleitoral para as eleições presidenciais de domingo, em Cabo Verde, termina hoje com seis candidatos na corrida, dois dos quais apoiados pelos principais partidos do país.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/15/15bb8ef1d6e4773f95ea4a4b52869592?w=350&q=50&rect=38,249,325,178&auto=format"
     },
     {
-      "title": "Dino D`Santiago vence Grammy Latino com o álbum \"Criolo, Amaro e Dino\"",
-      "url": "https://www.rtp.pt/noticias/mundo/dino-dsantiago-vence-grammy-latino-com-o-album-criolo-amaro-e-dino_n1778807",
+      "title": "Taiwan denuncia \"instrumentalização\" de Sun Yat-sen por Pequim em prol da \"unificação\"",
+      "url": "https://www.rtp.pt/noticias/mundo/taiwan-denuncia-instrumentalizacao-de-sun-yat-sen-por-pequim-em-prol-da-unificacao_n1778833",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T22:16:57Z",
-      "description": "O músico português foi galardoado com um Grammy Latino pelo disco \"Criolo, Amaro e Dino\", projeto assinado com os brasileiros Amaro Freitas e Criolo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/48/48bcff3721a4d35b5cf9ba65d03417af?w=350&q=50&rect=0,0,1519,833&auto=format"
+      "publishedAt": "2026-11-13T06:46:02Z",
+      "description": "O Governo de Taiwan denunciou a \"instrumentalização\" de Sun Yat-sen, primeiro presidente da República da China, durante a comemoração em Pequim do 160.º aniversário do seu nascimento, acusando-a de visar a \"unificação\" da ilha ao continente.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7e45491a04630b68c0cd9d41f7e0c9d?w=350&q=50&rect=0,81,1204,660&auto=format"
     },
     {
-      "title": "Trump diz que EUA não precisam de acordo com o Irão e pede a Vance que se concentre na corrupção",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-diz-que-eua-nao-precisam-de-acordo-com-o-irao-e-pede-a-vance-que-se-concentre-na-corrupcao_n1778797",
+      "title": "Conflito diplomático com a Ucrânia ofusca a primeira cimeira sobre IA dos líderes da UE",
+      "url": "https://pt.euronews.com/2026/11/13/conflito-diplomatico-com-a-ucrania-ofusca-a-primeira-cimeira-sobre-ia-dos-lideres-da-ue",
+      "source": "Euronews",
+      "publishedAt": "2026-11-13T06:45:51Z",
+      "description": "Líderes da UE reúnem-se na sexta-feira em Dublin para discutir sobre IA, com Arthur Mensch e Geoffrey Hinton, mas a disputa sobre quem representa a Europa nas conversações de paz na Ucrânia deverá dominar o debate.",
+      "image": "https://images.euronews.com/articles/stories/09/99/03/43/1200x675_cmsv2_53cab84c-f1f3-5443-9019-b0b9f0d0acbe-9990343.jpg"
+    },
+    {
+      "title": "Taiwan regista redução na atividade militar chinesa perto da ilha",
+      "url": "https://www.rtp.pt/noticias/mundo/taiwan-regista-reducao-na-atividade-militar-chinesa-perto-da-ilha_n1778831",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-12T22:13:51Z",
-      "description": "JD Vance liderou, em abril, as negociações que resultaram no memorando de entendimento sobre a guerra no Irão. Agora, porém, Donald Trump retirou-o do processo e incumbiu-o de investigar alegada corrupção do Partido Democrático.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c0f4e1b1c88d750831727747e07d2aa?w=350&q=50&rect=0,298,5035,2760&auto=format"
+      "publishedAt": "2026-11-13T06:41:09Z",
+      "description": "As autoridades taiwaneses anunciaram o registo de uma diminuição do número de navios militares chineses perto da ilha, mas alertaram que a China mantém o porta-aviões Liaoning e formações navais de três comandos no mar das Filipinas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc5e75c9b6c866a289ae1a7cef6d7a9e?w=350&q=50&rect=0,146,1233,676&auto=format"
     },
     {
-      "title": "Qatar considerado seguro para o Mundial sub-17, diz presidente da FIFA",
-      "url": "https://pt.euronews.com/2026/11/12/qatar-considerado-seguro-para-o-mundial-sub-17-diz-presidente-da-fifa",
+      "title": "Chris Van Hollen desafia Chuck Schumer na liderança democrata no Senado dos EUA",
+      "url": "https://pt.euronews.com/2026/11/13/chris-van-hollen-desafia-chuck-schumer-na-lideranca-democrata-no-senado-dos-eua",
       "source": "Euronews",
-      "publishedAt": "2026-11-12T19:25:16Z",
-      "description": "Gianni Infantino e organizadores locais garantem que prosseguem os preparativos para o Mundial FIFA Sub-17 Qatar 2026, com arranque a 19 de novembro, enquanto a FIFA deverá escolher substituto para a equipa dos EUA, que desistiu devido a avisos de viagem norte-americanos.",
-      "image": "https://images.euronews.com/articles/stories/09/98/99/16/1200x675_cmsv2_491944b7-ee1a-591f-8b66-f3177b620bb2-9989916.jpg"
+      "publishedAt": "2026-11-13T06:24:28Z",
+      "description": "Chris Van Hollen, que conta com o apoio de alguns dos progressistas mais ativos do Partido Democrata, é o primeiro a desafiar abertamente a candidatura do veterano líder democrata no Senado Chuck Schumer.",
+      "image": "https://images.euronews.com/articles/stories/09/99/07/55/1200x675_cmsv2_6e149067-786f-5157-875c-09c9137416da-9990755.jpg"
     },
     {
-      "title": "Ministério Público Europeu investiga possível fraude em Espanha na compra de pulseiras eletrónicas",
-      "url": "https://pt.euronews.com/2026/11/12/ministerio-publico-europeu-investiga-possivel-fraude-em-espanha-na-compra-de-pulseiras-ele",
+      "title": "Notícias do dia | 13 de novembro 2026 - Manhã",
+      "url": "https://pt.euronews.com/video/2026/11/13/noticias-do-dia-13-de-novembro-2026-manha",
       "source": "Euronews",
-      "publishedAt": "2026-11-12T18:57:55Z",
-      "description": "A Procuradoria Europeia investiga desde 2025 uma possível fraude com fundos da UE destinados às pulseiras eletrónicas de violência de género; esta quinta-feira a UCO deslocou-se ao Ministério da Igualdade e ao Tribunal de Contas.",
-      "image": "https://images.euronews.com/articles/stories/09/99/03/61/1200x675_cmsv2_a638f539-5672-5a0f-8074-96c75e6a7b4b-9990361.jpg"
-    },
-    {
-      "title": "Rússia minimiza avanço em negociações e exige fim da ajuda militar europeia à Ucrânia",
-      "url": "https://pt.euronews.com/2026/11/12/russia-minimiza-avanco-em-negociacoes-e-exige-fim-da-ajuda-militar-europeia-a-ucrania",
-      "source": "Euronews",
-      "publishedAt": "2026-11-12T18:46:21Z",
-      "description": "Após Steve Witkoff ter alimentado expetativas de que europeus e russos se sentariam em breve à mesma mesa, Moscovo desvalorizou o cenário e defendeu que a Europa deve cessar o apoio militar à Ucrânia.",
-      "image": "https://images.euronews.com/articles/stories/09/99/04/74/1200x675_cmsv2_31f92fd7-52aa-533f-a568-2fa15cc1e9c2-9990474.jpg"
-    },
-    {
-      "title": "Estados Unidos: Trump ameaça duplicar tarifas se México não travar caravanas de migrantes",
-      "url": "https://pt.euronews.com/2026/11/12/estados-unidos-trump-ameaca-duplicar-tarifas-se-mexico-nao-travar-caravanas-de-migrantes",
-      "source": "Euronews",
-      "publishedAt": "2026-11-12T18:42:47Z",
-      "description": "O Presidente dos Estados Unidos, Donald Trump, advertiu esta quinta‑feira na rede Truth Social que irá duplicar de imediato as tarifas ao México se as autoridades mexicanas não travarem o avanço para os EUA das “enormes caravanas” de migrantes.",
-      "image": "https://images.euronews.com/articles/stories/09/98/66/93/1200x675_cmsv2_4a185094-1d53-543f-881c-250217ab6571-9986693.jpg"
-    },
-    {
-      "title": "Juíza investiga ex-representante do governo em Ceuta por entrada massiva de migrantes",
-      "url": "https://pt.euronews.com/2026/11/12/juiza-investiga-ex-representante-do-governo-em-ceuta-por-entrada-massiva-de-migrantes",
-      "source": "Euronews",
-      "publishedAt": "2026-11-12T18:35:36Z",
-      "description": "A juíza María Tardón marcou para 18 de novembro a constituição como arguido do ex-delegado do governo em Ceuta, Miguel Ángel Pérez, que se demitiu a 28 de setembro, na investigação sobre a entrada massiva de migrantes oriundos de Marrocos em 30 e 31 de julho.",
-      "image": "https://images.euronews.com/articles/stories/09/93/07/85/1200x675_cmsv2_b1909519-b16e-585c-9c56-081ba3d14e7c-9930785.jpg"
+      "publishedAt": "2026-11-13T06:00:20Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 13 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/99/08/98/1200x675_cmsv2_24e47d2b-f535-5f89-b375-5fed0f26fcf7-9990898.jpg"
     }
   ]
 }
