@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-14T11:29:28.274499Z",
+  "updatedAt": "2026-11-14T18:04:58.050104Z",
   "health": [
+    {
+      "title": "FAA levanta suspensão nacional de voos após cinco horas de caos. Portugal escapou ileso",
+      "url": "https://healthnews.pt/2026/11/14/faa-levanta-suspensao-nacional-de-voos-apos-cinco-horas-de-caos-portugal-escapou-ileso/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-14T10:13:47Z",
+      "description": "A Administração Federal de Aviação dos Estados Unidos levantou na noite de sexta-feira a suspensão nacional de descolagens que paralisou o país durante cerca de cinco horas. A falha foi atribuída a equipamentos informáticos com décadas de uso. Nenhum voo de ou para Portugal foi afetado",
+      "image": ""
+    },
     {
       "title": "Montenegro mantém confiança na ministra da Saúde",
       "url": "https://healthnews.pt/2026/11/14/montenegro-mantem-confianca-na-ministra-da-saude/",
@@ -58,14 +66,6 @@
       "image": ""
     },
     {
-      "title": "Idade cardíaca estimada por IA mais avançada do que a real associada a maior mortalidade",
-      "url": "https://healthnews.pt/2026/11/14/idade-cardiaca-estimada-por-ia-mais-avancada-do-que-a-real-associada-a-maior-mortalidade/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:10:35Z",
-      "description": "Um estudo retrospetivo com 568 adultos seguidos durante 20 anos concluiu que cada cinco anos de discrepância entre a idade cardíaca estimada por inteligência artificial e a idade cronológica corresponde a um aumento de 46% na mortalidade cardiovascular ou relacionada com demência, após ajuste para fatores de risco",
-      "image": ""
-    },
-    {
       "title": "Reestruturação orgânica do Ministério da Saúde deve ser apresentada este mês",
       "url": "https://www.rtp.pt/noticias/pais/reestruturacao-organica-do-ministerio-da-saude-deve-ser-apresentada-este-mes_v1778939",
       "source": "RTP Notícias",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
+      "title": "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
+      "url": "https://www.rtp.pt/noticias/mundo/franca-manifestantes-nas-ruas-de-paris-pelo-quinto-fim-de-semana-consecutivo_n1779193",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T17:36:40Z",
+      "description": "Uma manifestação contra o aumento do custo de vida percorreu hoje as ruas de Paris, pelo quinto fim de semana consecutivo. Manifestaram-se 106 mil pessoas, de acordo com o Ministério do Interior e 200 mil, segundo os organizadores. O protesto incorporou representantes do movimento \"coletes amarelos\", mas também estudantes, sindicatos e grupos contra a violência policial.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2b6a46c34af75a86c56d37e0ad7e2fa0?w=350&q=50&rect=0,35,1500,822&auto=format"
+    },
+    {
+      "title": "Notícias do dia | 14 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/14/noticias-do-dia-14-de-novembro-2026-noite",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T17:00:35Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 14 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/99/28/29/1200x675_cmsv2_0ecf091b-7992-5ba4-8838-399d17ced0bb-9992829.jpg"
+    },
+    {
+      "title": "Kremlin confirma encontro entre Putin, Trump e Xi na quinta-feira em Shenzhen",
+      "url": "https://www.rtp.pt/noticias/mundo/kremlin-confirma-encontro-entre-putin-trump-e-xi-na-quinta-feira-em-shenzhen_n1779181",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T16:59:49Z",
+      "description": "O encontro histórico entre os Presidentes da Rússia, Vladimir Putin, dos Estados Unidos, Donald Trump, e da China, Xi Jinping, vai decorrer na quinta-feira, à margem da cimeira da Cooperação Económica Ásia-Pacífico (APEC), confirmou hoje o Kremlin.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9683c17f6b119ab87ce10505af2279c?w=350&q=50&rect=0,88,1500,822&auto=format"
+    },
+    {
+      "title": "Cinco países europeus lançam campanha “We Tomato Europe” para clarificar a origem do tomate que compra",
+      "url": "https://pt.euronews.com/2026/11/14/cinco-paises-europeus-lancam-campanha-we-tomato-europe-para-clarificar-a-origem-do-tomate-",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T16:29:45Z",
+      "description": "Organizações de produtores de Espanha, França, Itália, Portugal e Polónia lançam “We Tomato Europe”, campanha com site e manifesto aberto para exigir às instituições europeias viabilidade da produção comunitária, transparência ao consumidor e concorrência justa.",
+      "image": "https://images.euronews.com/articles/stories/09/99/27/61/1200x675_cmsv2_8d4fd896-2679-511d-89c3-8431b6c18d89-9992761.jpg"
+    },
+    {
+      "title": "Exclusivo RTP. Theresa May acusa Rússia de uma \"forma de escravatura\"",
+      "url": "https://www.rtp.pt/noticias/mundo/exclusivo-rtp-theresa-may-acusa-russia-de-uma-forma-de-escravatura_v1779140",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T14:09:47Z",
+      "description": "Theresa May diz que Putin escraviza jovens de todo o mundo quando os converte em soldados russos. A antiga primeira-ministra do Reino Unido esteve em Portugal e deu uma entrevista exclusiva à RTP.",
+      "image": "https://cdn-images.rtp.pt/icm/images/fb/fbc42ae9dcfdacb2ad415f93ca38039d_N.jpg?"
+    },
+    {
+      "title": "Zelensky denuncia restrições no sistema Starshield",
+      "url": "https://www.rtp.pt/noticias/mundo/zelensky-denuncia-restricoes-no-sistema-starshield_v1779137",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T13:55:47Z",
+      "description": "Foi anunciado, este sábado, um encontro entre os líderes das três maiores potências mundiais: China, Estados Unidos e Rússia.",
+      "image": "https://cdn-images.rtp.pt/icm/images/2b/2b4d565b1bb97b5684894ac5aa844735_N.jpg?"
+    },
+    {
+      "title": "Colisão Mississippi. Mais de 30 pessoas hospitalizadas",
+      "url": "https://www.rtp.pt/noticias/mundo/colisao-mississippi-mais-de-30-pessoas-hospitalizadas_v1779135",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T13:51:47Z",
+      "description": "Um navio com 130 pessoas afundou depois da colisão com um cargueiro. Todos os passageiros foram resgatados. Aconteceu no Mississippi em Nova Orleães, nos Estados Unidos.",
+      "image": "https://cdn-images.rtp.pt/icm/images/a3/a3a9c05fc8096c2098cb4cb5b3867b4b_N.jpg?"
+    },
+    {
+      "title": "Caos nos aeroportos dos EUA. Milhares de passageiros afetados",
+      "url": "https://www.rtp.pt/noticias/mundo/caos-nos-aeroportos-dos-eua-milhares-de-passageiros-afetados_v1779124",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T13:12:47Z",
+      "description": "Centenas de milhares de passageiros afetados. O problema parece resolvido mas as consequências para quem voa mantêm-se nos próximos dias.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/74/74bc8041c8fe9949cd1e7f5dfa52ee1a?w=350&q=50&rect=0,122,1024,561&auto=format"
+    },
+    {
+      "title": "China: Trump reúne-se com Xi e Putin em Shenzhen na próxima semana",
+      "url": "https://pt.euronews.com/2026/11/14/china-trump-reune-se-com-xi-e-putin-em-shenzhen-na-proxima-semana",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T12:29:21Z",
+      "description": "Trump deverá deixar Washington na segunda-feira rumo às Filipinas, onde participará numa reunião da ASEAN antes de seguir para Shenzhen, na China.",
+      "image": "https://images.euronews.com/articles/stories/09/99/24/69/1200x675_cmsv2_17157d35-4ed0-5ea2-a716-e05b7b20efd8-9992469.jpg"
+    },
+    {
+      "title": "Estados Unidos propõem Ucrânia ceder território à Rússia em troca de adesão à NATO",
+      "url": "https://pt.euronews.com/2026/11/14/estados-unidos-propoem-ucrania-ceder-territorio-a-russia-em-troca-de-adesao-a-nato",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T12:22:43Z",
+      "description": "Putin indicou que a Rússia não cederá nas exigências territoriais para controlar partes da Ucrânia e rejeitou o envio de forças estrangeiras de manutenção da paz para o país.",
+      "image": "https://images.euronews.com/articles/stories/09/99/25/40/1200x675_cmsv2_4f0fe1f9-7680-5365-ade1-050fe90199b8-9992540.jpg"
+    },
+    {
+      "title": "Novo protesto em Portugal contra políticas do governo consideradas \"agravantes\" da crise na habitação",
+      "url": "https://pt.euronews.com/2026/11/14/novo-protesto-em-portugal-contra-politicas-do-governo-consideradas-agravantes-da-crise-na-",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T11:40:01Z",
+      "description": "Trinta e duas cidades portuguesas vão ter este sábado manifestações contra a falta de habitação convocadas pela plataforma Casa para Viver. Os organizadores reivindicam um teto para manter o valor das rendas compatível com os rendimentos dos inquilinos, mais proteção e mais habitação pública.",
+      "image": "https://images.euronews.com/articles/stories/09/99/24/82/1200x675_cmsv2_9b618e7b-8075-5aca-bb23-e55ceadb3af2-9992482.jpg"
+    },
+    {
       "title": "Notícias do dia | 14 de novembro 2026 - Tarde",
       "url": "https://pt.euronews.com/video/2026/11/14/noticias-do-dia-14-de-novembro-2026-tarde",
       "source": "Euronews",
       "publishedAt": "2026-11-14T11:00:07Z",
       "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 14 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
       "image": "https://images.euronews.com/articles/stories/09/99/24/53/1200x675_cmsv2_fd0e316b-e51d-599e-9ee2-7c4dac0b0c58-9992453.jpg"
-    },
-    {
-      "title": "Serviços da Microsoft restabelecidos após interrupção global",
-      "url": "https://www.rtp.pt/noticias/mundo/servicos-da-microsoft-restabelecidos-apos-interrupcao-global_n1779111",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T10:35:16Z",
-      "description": "A Microsoft anunciou, este sábado de manhã, que todos os serviços estão restabelecidos, depois da falha à escala global.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/78/78bc2b2d01689bb7cb5bbea526e38179?w=350&q=50&rect=0,49,1024,561&auto=format"
-    },
-    {
-      "title": "Pelo menos dois petroleiros em chamas após atingirem minas no Estreito de Ormuz",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pelo-menos-dois-petroleiros-em-chamas-apos-atingirem-minas-no-estreito-de-ormuz_n1779078",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T08:49:40Z",
-      "description": "A Guarda Revolucionária do Irão anunciou que dois petroleiros se incendiaram depois de atingirem minas no estreito de Ormuz, envolvido no conflito entre Teerão e Washington.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/34/34f9339cdce9f470fdd13b385c8a44bc?w=350&q=50&rect=0,0,1024,561&auto=format"
-    },
-    {
-      "title": "Marcha no Chile contra alta dos combustíveis acaba em incidentes com polícia",
-      "url": "https://www.rtp.pt/noticias/mundo/marcha-no-chile-contra-alta-dos-combustiveis-acaba-em-incidentes-com-policia_n1779071",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T08:40:29Z",
-      "description": "Uma marcha estudantil, que juntou cerca de mil manifestantes contra a subida do preço dos combustíveis no Chile, terminou com incidentes no centro de Santiago, levando à intervenção da polícia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d60b8a6ca98dbe81296818dea6101fc5?w=350&q=50&rect=0,69,1024,561&auto=format"
-    },
-    {
-      "title": "Voos retomados nos EUA após suspensão que cancelou seis mil ligações em todo o mundo",
-      "url": "https://www.rtp.pt/noticias/mundo/voos-retomados-nos-eua-apos-suspensao-que-cancelou-seis-mil-ligacoes-em-todo-o-mundo_n1779090",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T08:15:46Z",
-      "description": "Os voos nos Estados Unidos foram retomados após quatro horas de suspensão. As autoridades norte-americanas apontam culpa à tecnologia obsoleta e admitem que é possível que aconteçam mais incidentes deste tipo até que o sistema seja atualizado.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6fc86a611f8c3e69d4c55f997bd37aee?w=350&q=50&rect=0,0,819,449&auto=format"
-    },
-    {
-      "title": "Rússia exige mudar Mundial júnior de hóquei do Canadá após exclusão",
-      "url": "https://pt.euronews.com/2026/11/14/russia-exige-mudar-mundial-junior-de-hoquei-do-canada-apos-exclusao",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T08:07:40Z",
-      "description": "As autoridades canadianas anunciaram que os jogadores russos ficam de fora do torneio de dez países que começa a 26 de dezembro em Alberta. Estónia, Finlândia e Noruega tencionam excluir atletas russos até ao fim da guerra na Ucrânia.",
-      "image": "https://images.euronews.com/articles/stories/09/99/12/03/1200x675_cmsv2_6bb812ab-e185-532e-acd5-feeb209e9fca-9991203.jpg"
-    },
-    {
-      "title": "Milagre no Mississippi: todos passageiros a salvo após colisão de petroleiro com cruzeiro",
-      "url": "https://pt.euronews.com/2026/11/14/milagre-no-mississippi-todos-passageiros-a-salvo-apos-colisao-de-petroleiro-com-cruzeiro",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T07:52:37Z",
-      "description": "Segundo o Porto de Nova Orleães, foram contabilizados todos os 197 passageiros e tripulantes. “Não há registo de feridos graves”, indicou numa publicação nas redes sociais.",
-      "image": "https://images.euronews.com/articles/stories/09/99/23/05/1200x675_cmsv2_7411b761-8333-51b4-99b3-8009ba78a87a-9992305.jpg"
-    },
-    {
-      "title": "Estados Unidos: passageiros continuam a enfrentar atrasos e cancelamentos de voos",
-      "url": "https://pt.euronews.com/2026/11/14/estados-unidos-passageiros-continuam-a-enfrentar-atrasos-e-cancelamentos-de-voos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T07:45:08Z",
-      "description": "O secretário dos Transportes dos EUA, Sean Duffy, atribuiu a paralisação ao que chamou de sistema de controlo de tráfego aéreo “incrivelmente antigo” e avisou que a retoma das operações normais levará tempo.",
-      "image": "https://images.euronews.com/articles/stories/09/99/24/37/1200x675_cmsv2_a11b49f6-7320-5fcb-a1cd-3eb7e3443636-9992437.jpg"
-    },
-    {
-      "title": "Notícias do dia | 14 de novembro 2026 - Manhã",
-      "url": "https://pt.euronews.com/video/2026/11/14/noticias-do-dia-14-de-novembro-2026-manha",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T06:00:20Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 14 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/24/53/1200x675_cmsv2_fd0e316b-e51d-599e-9ee2-7c4dac0b0c58-9992453.jpg"
-    },
-    {
-      "title": "SpaceX lança Starship mas falha tentativa de recuperação de toda a nave espacial",
-      "url": "https://www.rtp.pt/noticias/mundo/spacex-lanca-starship-mas-falha-tentativa-de-recuperacao-de-toda-a-nave-espacial_n1779064",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T00:04:46Z",
-      "description": "A SpaceX lançou hoje a nave espacial Starship num voo de 22 horas que visava captar o foguetão completo, incluindo o propulsor, mas a primeira parte da inédita captura dupla falhou.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b159fb3f212257424e339c8db1b0562b?w=350&q=50&rect=0,71,1500,822&auto=format"
-    },
-    {
-      "title": "Petroleiro abalroa navio de cruzeiro com 129 pessoas no rio Mississippi",
-      "url": "https://www.rtp.pt/noticias/mundo/petroleiro-abalroa-navio-de-cruzeiro-com-129-pessoas-no-rio-mississippi_n1779053",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T22:00:06Z",
-      "description": "Um petroleiro colidiu hoje com um navio de cruzeiro com 129 pessoas a bordo, no rio Mississipi, próximo da cidade norte-americana de Nova Orleães, estando em curso operações de resgate.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc30700f6d31d4458422067374423473?w=350&q=50&rect=0,843,1568,860&auto=format"
-    },
-    {
-      "title": "Chefe de clã criminoso de Berlim, Remmo, recebido como \"convidado de Estado\" no Parlamento Europeu",
-      "url": "https://pt.euronews.com/2026/11/13/chefe-de-cla-criminoso-de-berlim-remmo-recebido-como-convidado-de-estado-no-parlamento-eur",
-      "source": "Euronews",
-      "publishedAt": "2026-11-13T19:23:11Z",
-      "description": "O chefe do chamado clã Remmo em Berlim, Issa Remo, participou oficialmente numa conferência contra o islamismo no Parlamento Europeu, o que provoca debates na Alemanha e em Bruxelas e leva muitos a perguntar como é possível.",
-      "image": "https://images.euronews.com/articles/stories/09/99/10/57/1200x675_cmsv2_12d155f8-f128-5f39-a2d5-e3db9780e28e-9991057.jpg"
     }
   ]
 }
