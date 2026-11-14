@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:04:58.050104Z",
+  "updatedAt": "2026-11-14T22:26:06.840497Z",
   "health": [
     {
       "title": "FAA levanta suspensão nacional de voos após cinco horas de caos. Portugal escapou ileso",
@@ -100,6 +100,54 @@
   ],
   "world": [
     {
+      "title": "Irão acusa EUA de ameaçarem matar iranianos à fome através de bloqueio económico",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-acusa-eua-de-ameacarem-matar-iranianos-a-fome-atraves-de-bloqueio-economico_n1779222",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T21:39:00Z",
+      "description": "O Irão acusou hoje os Estados Unidos da América (EUA) de ameaçarem matar o povo iraniano à fome através do bloqueio económico, depois de Washington afirmar que, no fim de contas, os iranianos “têm de comer”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a9b3ca89c8042793a8902d69632e43b8?w=350&q=50&rect=0,168,1500,822&auto=format"
+    },
+    {
+      "title": "Sistema de comunicações de tráfego aéreo \"obsoleto\" precisa de 50 mil milhões de dólares",
+      "url": "https://www.rtp.pt/noticias/mundo/sistema-de-comunicacoes-de-trafego-aereo-obsoleto-precisa-de-50-mil-milhoes-de-dolares_v1779210",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T19:33:47Z",
+      "description": "Na sequência dos problemas registados na sexta-feira que obrigaram à suspensão de milhares de voos, as autoridades assumem que o sistema de telecomunicação de controlo do tráfego aéreo está cheio de vulnerabilidades, instável e obsoleto.",
+      "image": "https://cdn-images.rtp.pt/icm/images/52/522e1cd00d57d72734a2c242d5b133ec_N.jpg?"
+    },
+    {
+      "title": "Continua o caos nos aeroportos dos Estados Unidos",
+      "url": "https://www.rtp.pt/noticias/mundo/continua-o-caos-nos-aeroportos-dos-estados-unidos_v1779208",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-14T19:27:47Z",
+      "description": "Desde sexta-feira, quase 14 mil voos foram cancelados e mais de 10 mil sofreram atrasos, na maior paralisação aérea desde o 11 de Setembro.",
+      "image": "https://cdn-images.rtp.pt/icm/images/68/6840e7d86587aa4b32269818c042247e_N.jpg?"
+    },
+    {
+      "title": "França vive novo sábado de protestos contra o custo de vida",
+      "url": "https://pt.euronews.com/2026/11/14/franca-vive-novo-sabado-de-protestos-contra-o-custo-de-vida",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T18:19:54Z",
+      "description": "Em Paris, o cortejo associativo, sindical e estudantil, ao qual se juntaram os “coletes amarelos”, partiu da Praça da República no início da tarde. Como nos três últimos sábados, cerca de 70 000 polícias e gendarmes estão mobilizados no país.",
+      "image": "https://images.euronews.com/articles/stories/09/99/27/58/1200x675_cmsv2_34e3f19d-67bd-56ce-8671-032ca737f325-9992758.jpg"
+    },
+    {
+      "title": "Qatar e Turquia assinam acordo de defesa mútua contra ataques externos",
+      "url": "https://pt.euronews.com/2026/11/14/qatar-e-turquia-assinam-acordo-de-defesa-mutua-contra-ataques-externos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T18:17:31Z",
+      "description": "Está em curso uma rápida remodelação do quadro de segurança multilateral no Golfo e Médio Oriente, desencadeada pela guerra com o Irão e pelos sinais dos EUA de que está a adaptar a sua presença de segurança de longa data na região.",
+      "image": "https://images.euronews.com/articles/stories/09/99/26/69/1200x675_cmsv2_5a8a0a0e-586a-52bd-a389-3a90d4cf69d8-9992669.jpg"
+    },
+    {
+      "title": "Peru e Argentina enfrentam surto de sarampo durante visita do Papa Leão XIV",
+      "url": "https://pt.euronews.com/2026/11/14/peru-e-argentina-enfrentam-surto-de-sarampo-durante-visita-do-papa-leao-xiv",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T18:15:36Z",
+      "description": "As enormes multidões que acorrem para ver o pontífice de 71 anos aumentam os receios das autoridades de saúde na América Latina, que registou este ano um aumento de casos de sarampo.",
+      "image": "https://images.euronews.com/articles/stories/09/99/25/01/1200x675_cmsv2_d46c7d6d-c033-5e59-89c6-1199d766ec3a-9992501.jpg"
+    },
+    {
       "title": "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
       "url": "https://www.rtp.pt/noticias/mundo/franca-manifestantes-nas-ruas-de-paris-pelo-quinto-fim-de-semana-consecutivo_n1779193",
       "source": "RTP Notícias",
@@ -140,60 +188,12 @@
       "image": "https://cdn-images.rtp.pt/icm/images/fb/fbc42ae9dcfdacb2ad415f93ca38039d_N.jpg?"
     },
     {
-      "title": "Zelensky denuncia restrições no sistema Starshield",
-      "url": "https://www.rtp.pt/noticias/mundo/zelensky-denuncia-restricoes-no-sistema-starshield_v1779137",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T13:55:47Z",
-      "description": "Foi anunciado, este sábado, um encontro entre os líderes das três maiores potências mundiais: China, Estados Unidos e Rússia.",
-      "image": "https://cdn-images.rtp.pt/icm/images/2b/2b4d565b1bb97b5684894ac5aa844735_N.jpg?"
-    },
-    {
-      "title": "Colisão Mississippi. Mais de 30 pessoas hospitalizadas",
-      "url": "https://www.rtp.pt/noticias/mundo/colisao-mississippi-mais-de-30-pessoas-hospitalizadas_v1779135",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T13:51:47Z",
-      "description": "Um navio com 130 pessoas afundou depois da colisão com um cargueiro. Todos os passageiros foram resgatados. Aconteceu no Mississippi em Nova Orleães, nos Estados Unidos.",
-      "image": "https://cdn-images.rtp.pt/icm/images/a3/a3a9c05fc8096c2098cb4cb5b3867b4b_N.jpg?"
-    },
-    {
-      "title": "Caos nos aeroportos dos EUA. Milhares de passageiros afetados",
-      "url": "https://www.rtp.pt/noticias/mundo/caos-nos-aeroportos-dos-eua-milhares-de-passageiros-afetados_v1779124",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T13:12:47Z",
-      "description": "Centenas de milhares de passageiros afetados. O problema parece resolvido mas as consequências para quem voa mantêm-se nos próximos dias.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/74/74bc8041c8fe9949cd1e7f5dfa52ee1a?w=350&q=50&rect=0,122,1024,561&auto=format"
-    },
-    {
       "title": "China: Trump reúne-se com Xi e Putin em Shenzhen na próxima semana",
       "url": "https://pt.euronews.com/2026/11/14/china-trump-reune-se-com-xi-e-putin-em-shenzhen-na-proxima-semana",
       "source": "Euronews",
       "publishedAt": "2026-11-14T12:29:21Z",
       "description": "Trump deverá deixar Washington na segunda-feira rumo às Filipinas, onde participará numa reunião da ASEAN antes de seguir para Shenzhen, na China.",
       "image": "https://images.euronews.com/articles/stories/09/99/24/69/1200x675_cmsv2_17157d35-4ed0-5ea2-a716-e05b7b20efd8-9992469.jpg"
-    },
-    {
-      "title": "Estados Unidos propõem Ucrânia ceder território à Rússia em troca de adesão à NATO",
-      "url": "https://pt.euronews.com/2026/11/14/estados-unidos-propoem-ucrania-ceder-territorio-a-russia-em-troca-de-adesao-a-nato",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T12:22:43Z",
-      "description": "Putin indicou que a Rússia não cederá nas exigências territoriais para controlar partes da Ucrânia e rejeitou o envio de forças estrangeiras de manutenção da paz para o país.",
-      "image": "https://images.euronews.com/articles/stories/09/99/25/40/1200x675_cmsv2_4f0fe1f9-7680-5365-ade1-050fe90199b8-9992540.jpg"
-    },
-    {
-      "title": "Novo protesto em Portugal contra políticas do governo consideradas \"agravantes\" da crise na habitação",
-      "url": "https://pt.euronews.com/2026/11/14/novo-protesto-em-portugal-contra-politicas-do-governo-consideradas-agravantes-da-crise-na-",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T11:40:01Z",
-      "description": "Trinta e duas cidades portuguesas vão ter este sábado manifestações contra a falta de habitação convocadas pela plataforma Casa para Viver. Os organizadores reivindicam um teto para manter o valor das rendas compatível com os rendimentos dos inquilinos, mais proteção e mais habitação pública.",
-      "image": "https://images.euronews.com/articles/stories/09/99/24/82/1200x675_cmsv2_9b618e7b-8075-5aca-bb23-e55ceadb3af2-9992482.jpg"
-    },
-    {
-      "title": "Notícias do dia | 14 de novembro 2026 - Tarde",
-      "url": "https://pt.euronews.com/video/2026/11/14/noticias-do-dia-14-de-novembro-2026-tarde",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T11:00:07Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 14 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/24/53/1200x675_cmsv2_fd0e316b-e51d-599e-9ee2-7c4dac0b0c58-9992453.jpg"
     }
   ]
 }
