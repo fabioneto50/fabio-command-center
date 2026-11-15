@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-15T10:56:19.081261Z",
+  "updatedAt": "2026-11-15T17:43:43.776061Z",
   "health": [
+    {
+      "title": "Cirurgia inédita em Nova Deli para reparar coluna vertebral de bebé antes de nascer",
+      "url": "https://www.rtp.pt/noticias/mundo/cirurgia-inedita-em-nova-deli-para-reparar-coluna-vertebral-de-bebe-antes-de-nascer_n1779325",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T15:38:16Z",
+      "description": "Uma equipa de mais de 30 médicos realizou a primeira cirurgia fetal aberta da Índia para reparar a coluna vertebral de um bebé antes do nascimento, revelou hoje o Instituto de Ciências Médicas da Índia (AIIMS), onde foi realizado o procedimento.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Residência em Castro Marim é a primeira a sul para doenças neurodegenerativas",
+      "url": "https://www.rtp.pt/noticias/pais/residencia-em-castro-marim-e-a-primeira-a-sul-para-doencas-neurodegenerativas_v1779318",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T13:56:47Z",
+      "description": "A residência José Cabrita, em Castro Marim, é a primeira instituição no sul do país exclusivamente dedicada ao tratamento de doenças neurodegenerativas, como demência e Alzheimer.",
+      "image": "https://cdn-images.rtp.pt/icm/images/b7/b77bfe8346e3e2bd91735d5f76473a96_N.jpg?"
+    },
+    {
+      "title": "Todos os utentes do distrito de Bragança já têm médico de família",
+      "url": "https://www.rtp.pt/noticias/pais/todos-os-utentes-do-distrito-de-braganca-ja-tem-medico-de-familia_v1779316",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T13:50:47Z",
+      "description": "A ULS do Nordeste é a primeira, do interior, com cobertura total.",
+      "image": "https://cdn-images.rtp.pt/icm/images/8d/8da0bc0795e18d9a020fd23605009dd5_N.jpg?"
+    },
     {
       "title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
       "url": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
@@ -8,70 +32,6 @@
       "publishedAt": "2026-11-15T10:20:47Z",
       "description": "O Bastonário da Ordem dos Médicos falou sobre as mortes nas urgências Portimão. Diz que é inadmissível, e que ninguém deve aceitar o que apelidou de \"tragédia\".",
       "image": "https://cdn-images.rtp.pt/icm/images/68/68189b2d298682f7291024c67f1c22d0_N.jpg?"
-    },
-    {
-      "title": "FAA levanta suspensão nacional de voos após cinco horas de caos. Portugal escapou ileso",
-      "url": "https://healthnews.pt/2026/11/14/faa-levanta-suspensao-nacional-de-voos-apos-cinco-horas-de-caos-portugal-escapou-ileso/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T10:13:47Z",
-      "description": "A Administração Federal de Aviação dos Estados Unidos levantou na noite de sexta-feira a suspensão nacional de descolagens que paralisou o país durante cerca de cinco horas. A falha foi atribuída a equipamentos informáticos com décadas de uso. Nenhum voo de ou para Portugal foi afetado",
-      "image": ""
-    },
-    {
-      "title": "Montenegro mantém confiança na ministra da Saúde",
-      "url": "https://healthnews.pt/2026/11/14/montenegro-mantem-confianca-na-ministra-da-saude/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:17:29Z",
-      "description": "O primeiro-ministro afirmou esta sexta-feira que mantém a confiança na ministra da Saúde, Ana Paula Martins, salientando que esta está a fazer o seu trabalho “numa conjuntura que é muito mais complexa do que era há dois anos e meio”. Luís Montenegro respondia a jornalistas em Dublin, no final da cimeira informal dos líderes da União Europeia",
-      "image": ""
-    },
-    {
-      "title": "Congresso de Medicina Desportiva do Hospital da Luz estreia-se em Lisboa com foco nas lesões de sobrecarga",
-      "url": "https://healthnews.pt/2026/11/14/congresso-de-medicina-desportiva-do-hospital-da-luz-estreia-se-em-lisboa-com-foco-nas-lesoes-de-sobrecarga/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:16:37Z",
-      "description": "O Hospital da Luz promove a 1.ª edição do Congresso de Medicina Desportiva, nos dias 20 e 21 de novembro, no Auditório do Hospital da Luz Lisboa. Dois dias de atualização científica e discussão multidisciplinar sobre prevenção, diagnóstico e regresso seguro à prática desportiva",
-      "image": ""
-    },
-    {
-      "title": "CReSAP sob escrutínio: PS interroga Governo sobre alegado favorecimento no processo que levou Ricardo Matos à ULS de Aveiro",
-      "url": "https://healthnews.pt/2026/11/14/cresap-sob-escrutinio-ps-interroga-governo-sobre-alegado-favorecimento-no-processo-que-levou-ricardo-matos-a-uls-de-aveiro/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:15:03Z",
-      "description": "O grupo parlamentar do PS entregou no parlamento uma pergunta ao ministro da Presidência sobre a idoneidade da CReSAP, na sequência da detenção do ex-presidente da ULS de Aveiro, Ricardo Matos, e de suspeitas de acesso antecipado às perguntas da entrevista de seleção",
-      "image": ""
-    },
-    {
-      "title": "Açores ultimam incentivos para segurar enfermeiros no Serviço Regional de Saúde",
-      "url": "https://healthnews.pt/2026/11/14/acores-ultimam-incentivos-para-segurar-enfermeiros-no-servico-regional-de-saude/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:14:04Z",
-      "description": "O Governo dos Açores está a preparar um diploma de incentivos à fixação de enfermeiros no Serviço Regional de Saúde, semelhante ao que já existe para os médicos. A secretária regional da Saúde, Mónica Seidi, admite quotas e critérios e avisa que os apoios não chegarão a todos",
-      "image": ""
-    },
-    {
-      "title": "Brasil revê em baixa previsão de colheita de grãos para 366,1 milhões de toneladas",
-      "url": "https://healthnews.pt/2026/11/14/brasil-reve-em-baixa-previsao-de-colheita-de-graos-para-3661-milhoes-de-toneladas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:13:27Z",
-      "description": "A Conab cortou um milhão de toneladas à estimativa da safra 2026/2027, que fica nos 366,1 milhões de toneladas. Chuvas irregulares, calor e El Niño pressionam as lavouras, sobretudo no Norte e Nordeste",
-      "image": ""
-    },
-    {
-      "title": "EMA pondera aviso de perda de visão em injetáveis para obesidade e diabetes",
-      "url": "https://healthnews.pt/2026/11/14/ema-pondera-aviso-de-perda-de-visao-em-injetaveis-para-obesidade-e-diabetes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:12:12Z",
-      "description": "A Agência Europeia de Medicamentos está a avaliar a inclusão de informação sobre neuropatia ótica isquémica anterior não arterítica, que pode causar perda de visão, nas bulas do Mounjaro e do Trulicity. A decisão segue-se a um alerta da FDA norte-americana.",
-      "image": ""
-    },
-    {
-      "title": "Crise nas urgências de Portimão: BE pede cabeça da ministra da Saúde",
-      "url": "https://healthnews.pt/2026/11/14/crise-nas-urgencias-de-portimao-be-pede-cabeca-da-ministra-da-saude/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-14T07:11:42Z",
-      "description": "O Bloco de Esquerda do Algarve exige a demissão da ministra da Saúde, Ana Paula Martins, na sequência das mortes de utentes que aguardavam atendimento no serviço de urgência do Hospital de Portimão, classificando a situação como uma \"verdadeira tragédia\" e responsabilizando o Governo de Luís Montenegro pela degradação do SNS na região",
-      "image": ""
     },
     {
       "title": "Reestruturação orgânica do Ministério da Saúde deve ser apresentada este mês",
@@ -96,104 +56,112 @@
       "publishedAt": "2026-11-13T08:27:19Z",
       "description": "Portugal registou, no ano passado, mais de 70 mil novos casos de diabetes. Um número que desceu em relação ao ano anterior. Ainda assim suscita preocupação.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee5b65fb0865f963a0a9d7fae77f64a4?w=350&q=50&rect=0,283,2580,1414&auto=format"
+    },
+    {
+      "title": "Quase 70.399 novos casos de diabetes registados em 2025 nos cuidados de saúde primários",
+      "url": "https://www.rtp.pt/noticias/pais/quase-70-399-novos-casos-de-diabetes-registados-em-2025-nos-cuidados-de-saude-primarios_n1778839",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-13T07:15:54Z",
+      "description": "Quase 70.400 novos casos de diabetes foram registados em 2025 nos cuidados de saúde primários, elevando para 960.064 o número de pessoas com diagnóstico registado no SNS, o equivalente a 8,9% dos utentes inscritos no SNS, segundo a DGS.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e565770272e4a84a7fb172c09ce4dff7?w=350&q=50&rect=0,0,840,461&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Estados Unidos: SpaceX apanha Starship no ar na torre de lançamento, marco no programa espacial",
-      "url": "https://pt.euronews.com/video/2026/11/15/estados-unidos-spacex-apanha-starship-no-ar-na-torre-de-lancamento-marco-no-programa-espac",
+      "title": "Cabo Verde. Eleitores em Portugal satisfeitos por cumprirem dever cívico",
+      "url": "https://www.rtp.pt/noticias/mundo/cabo-verde-eleitores-em-portugal-satisfeitos-por-cumprirem-dever-civico_n1779344",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T17:39:05Z",
+      "description": "Os cabo-verdianos que votaram hoje em Lisboa para escolher o Presidente de Cabo Verde mostraram-se satisfeitos por cumprirem o seu dever cívico e defenderam que votar é um dever de todos os cidadãos.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Checos contra plano do Governo de financiamento dos meios de comunicação públicos",
+      "url": "https://www.rtp.pt/noticias/mundo/checos-contra-plano-do-governo-de-financiamento-dos-meios-de-comunicacao-publicos_n1779341",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T17:36:57Z",
+      "description": "Centenas de milhares de pessoas manifestaram-se hoje em Praga contra um plano do governo do bilionário checo Andrej Babis para reformular o financiamento das emissoras públicas, por ameaçar minar a independência dos meios de comunicação e a democracia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4bef78202c7560545d2f9f45940a399b?w=350&q=50&rect=0,79,1024,561&auto=format"
+    },
+    {
+      "title": "Presidenciais em Cabo Verde. Votação arrancou com atraso e pouca afluência",
+      "url": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-votacao-arrancou-com-atraso-e-pouca-afluencia_v1779347",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T17:25:47Z",
+      "description": "Cabo Verde realiza este domingo as oitavas eleições presidenciais. A votação arrancou às oito horas, mas, em algumas mesas, registou-se um ligeiro atraso na abertura.",
+      "image": "https://cdn-images.rtp.pt/icm/images/c7/c70341ffc9aa8baed14548e12f543eaa_N.jpg?"
+    },
+    {
+      "title": "Austrália e Filipinas assinam pacto de defesa em clima de tensão no mar da China Meridional",
+      "url": "https://pt.euronews.com/2026/11/15/australia-e-filipinas-assinam-pacto-de-defesa-em-clima-de-tensao-no-mar-da-china-meridiona",
       "source": "Euronews",
-      "publishedAt": "2026-11-15T10:06:45Z",
-      "description": "A nave Starship da SpaceX foi apanhada com sucesso por braços mecânicos gigantes na torre de lançamento do Texas após 22 horas de viagem, marcando a primeira captura aérea bem-sucedida de uma Starship que regressa do espaço",
-      "image": "https://images.euronews.com/articles/stories/09/99/30/79/1200x675_cmsv2_cfe05e8e-a267-5b3b-8e89-a831a17adafc-9993079.jpg"
+      "publishedAt": "2026-11-15T17:20:59Z",
+      "description": "Filipinas reforçam laços militares com Austrália, Japão e EUA numa altura de tensões com a China no mar do Sul da China. As parcerias incluem exercícios conjuntos, equipamento de vigilância e maior coordenação das forças.",
+      "image": "https://images.euronews.com/articles/stories/09/99/32/63/1200x675_cmsv2_f1658a36-87cb-5f56-8d09-0574941a4730-9993263.jpg"
     },
     {
-      "title": "Dois aviões colidem na pista do aeroporto internacional de Miami",
-      "url": "https://www.rtp.pt/noticias/mundo/dois-avioes-colidem-na-pista-do-aeroporto-internacional-de-miami_n1779290",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T09:51:16Z",
-      "description": "Dois aviões colidiram no sábado à noite na pista do aeroporto internacional de Miami, causando dois feridos ligeiros. A ponta da asa de um Boeing 737 da Copa Airlines embateu contra o nariz de um Boeing 767 da UPS enquanto ambas as aeronaves circulavam na pista.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6120e8531fd760bdbe0b6974d984970?w=350&q=50&rect=0,79,1500,822&auto=format"
-    },
-    {
-      "title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
-      "url": "https://www.rtp.pt/noticias/mundo/milhares-de-passageiros-continuam-retidos-depois-da-paralisacao-aerea-de-sexta-feira_n1779289",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T09:30:03Z",
-      "description": "Depois de retomados os voos nos Estados Unidos, a total normalidade ainda não regressou. O problema foi resolvido, mas dezenas de milhares de passageiros continuam à espera de viajar.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a8239c9dd32bf8323ef23d43f28058c5?w=350&q=50&rect=0,8,1500,822&auto=format"
-    },
-    {
-      "title": "Cabo Verde vai hoje a votos e pode ter a primeira mulher eleita Presidente da República",
-      "url": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica",
+      "title": "Mistério no espaço: objeto acelera de forma estranha e pode ser sonda soviética perdida",
+      "url": "https://pt.euronews.com/2026/11/15/misterio-no-espaco-objeto-acelera-de-forma-estranha-e-pode-ser-sonda-sovietica-perdida",
       "source": "Euronews",
-      "publishedAt": "2026-11-15T08:39:12Z",
-      "description": "Cabo Verde poderá eleger a sua primeira mulher presidente nas eleições deste domingo. A ex-ministra da Justiça, Joana Rosa, é uma das favoritas contra o atual presidente, José Maria Neves, que se recandidata a um segundo mandato.",
-      "image": "https://images.euronews.com/articles/stories/09/99/30/00/1200x675_cmsv2_8aabba93-2a7d-5eff-bf48-ab8adab54cf1-9993000.jpg"
+      "publishedAt": "2026-11-15T17:16:39Z",
+      "description": "O objeto, conhecido como “1998 KY26”, com cerca de 11 metros de largura, desloca-se perto da Terra. Porém algo além da gravidade do Sol ou da Terra parece afetar a sua trajetória e velocidade.",
+      "image": "https://images.euronews.com/articles/stories/09/99/13/73/1200x675_cmsv2_cf739cdc-a2f6-5acb-abe3-f86d6d41de5e-9991373.jpg"
     },
     {
-      "title": "Irão. Teerão reivindica ataque contra base militar dos Estados Unidos no Bahrein",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-teerao-reivindica-ataque-contra-base-militar-dos-estados-unidos-no-bahrein_n1779273",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T07:39:42Z",
-      "description": "O Irão afirmou hoje ter atacado, com drones, uma base militar dos Estados Unidos (EUA) no Bahrein, país do Golfo onde foram ouvidas explosões durante a manhã.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/73/73b0a50b7053567740f3f7992c4d0413?w=350&q=50&rect=0,0,1500,822&auto=format"
-    },
-    {
-      "title": "Emmanuel Macron pede unidade e consenso antes da eleição do líder da Francofonia",
-      "url": "https://www.rtp.pt/noticias/mundo/emmanuel-macron-pede-unidade-e-consenso-antes-da-eleicao-do-lider-da-francofonia_n1779265",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T07:34:56Z",
-      "description": "Phnom Penh, 15 nov 2026 (Lusa) - O Presidente da França, Emmanuel Macron, pediu hoje unidade e consenso na véspera da eleição do novo secretário-geral da Organização Internacional da Francofonia (OIF), fonte de tensões entre República Democrática do Congo e Ruanda.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/35/354d23f6c4687c9960901ec9b4768f8e?w=350&q=50&rect=0,14,1500,822&auto=format"
-    },
-    {
-      "title": "Exército israelita diz ter morto responsável do Hamas",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-israelita-diz-ter-morto-responsavel-do-hamas_n1779262",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T07:29:33Z",
-      "description": "O exército de Israel anunciou hoje ter tido morto um dirigente do braço militar do Hamas, antes de fontes palestinianas confirmarem a morte de um comandante do movimento islamista no sul da Faixa de Gaza.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/21/214a966af94570bde3eeda6db89bd1cc?w=350&q=50&rect=0,89,1500,822&auto=format"
-    },
-    {
-      "title": "EUA perdem estatuto de país \"livre de sarampo\" após número recorde de casos",
-      "url": "https://www.rtp.pt/noticias/mundo/eua-perdem-estatuto-de-pais-livre-de-sarampo-apos-numero-recorde-de-casos_n1779260",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T07:28:24Z",
-      "description": "Os Estados Unidos (EUA) perderam o estatuto de país \"livre de sarampo\", anunciou a Organização Pan-Americana de Saúde (OPS), após registarem mais de 5.400 casos este ano, mais do dobro em comparação com 2025.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec8273dc14fcd71d8b4e723b5e9950ae?w=350&q=50&rect=0,3,1500,822&auto=format"
-    },
-    {
-      "title": "Zelenskyy questiona a SpaceX sobre alegadas limitações de velocidade do Starshield",
-      "url": "https://pt.euronews.com/2026/11/15/zelenskyy-questiona-a-spacex-sobre-alegadas-limitacoes-de-velocidade-do-starshield",
+      "title": "Reino Unido: escola de Pais Natal em Londres prepara intérpretes para 2026",
+      "url": "https://pt.euronews.com/video/2026/11/15/reino-unido-escola-de-pais-natal-em-londres-prepara-interpretes-para-2026",
       "source": "Euronews",
-      "publishedAt": "2026-11-15T07:23:11Z",
-      "description": "As restrições têm afetado diretamente a capacidade da Ucrânia de intercetar drones russos de ataque, afirmou Zelenskyy na cimeira da Comunidade Política Europeia, em Dublin.",
-      "image": "https://images.euronews.com/articles/stories/09/99/29/64/1200x675_cmsv2_a7620028-834f-5d59-a5a3-913b0aeaf940-9992964.jpg"
+      "publishedAt": "2026-11-15T17:14:14Z",
+      "description": "O Pai Natal regressa à escola em Londres: Pais Natais profissionais aprendem língua gestual, atualizam-se sobre brinquedos e preparam respostas para perguntas difíceis das crianças neste Natal",
+      "image": "https://images.euronews.com/articles/stories/09/99/34/81/1200x675_cmsv2_0dde72ae-f5bf-50dd-b171-ff16af22cfee-9993481.jpg"
     },
     {
-      "title": "Notícias do dia | 15 de novembro 2026 - Manhã",
-      "url": "https://pt.euronews.com/video/2026/11/15/noticias-do-dia-15-de-novembro-2026-manha",
+      "title": "Peru: Papa Leão XIV centra visita na defesa dos povos indígenas e da Amazónia",
+      "url": "https://pt.euronews.com/2026/11/15/peru-papa-leao-xiv-centra-visita-na-defesa-dos-povos-indigenas-e-da-amazonia",
       "source": "Euronews",
-      "publishedAt": "2026-11-15T06:00:19Z",
+      "publishedAt": "2026-11-15T17:04:09Z",
+      "description": "Leão XIV chegou domingo à Amazónia peruana, centrando a viagem nos povos indígenas e na defesa da floresta. Após Cusco, voará para Pucallpa, onde a mineração ilegal e a desflorestação ameaçam territórios ancestrais.",
+      "image": "https://images.euronews.com/articles/stories/09/99/34/01/1200x675_cmsv2_50fecdeb-a4b6-54ce-a6a7-e0c6055e12b8-9993401.jpg"
+    },
+    {
+      "title": "Notícias do dia | 15 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/15/noticias-do-dia-15-de-novembro-2026-noite",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T17:00:35Z",
       "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 15 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/29/66/1200x675_cmsv2_aeeddd27-1cd4-592e-8775-359713d079ea-9992966.jpg"
+      "image": "https://images.euronews.com/articles/stories/09/99/35/04/1200x675_cmsv2_000da2de-02a5-5974-999d-7befb9a443b5-9993504.jpg"
     },
     {
-      "title": "França vive novo sábado de protestos contra o custo de vida",
-      "url": "https://pt.euronews.com/2026/11/14/franca-vive-novo-sabado-de-protestos-contra-o-custo-de-vida",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T18:19:54Z",
-      "description": "Em Paris, o cortejo associativo, sindical e estudantil, ao qual se juntaram os “coletes amarelos”, partiu da Praça da República no início da tarde. Como nos três últimos sábados, cerca de 70 000 polícias e gendarmes estão mobilizados no país.",
-      "image": "https://images.euronews.com/articles/stories/09/99/27/58/1200x675_cmsv2_34e3f19d-67bd-56ce-8671-032ca737f325-9992758.jpg"
+      "title": "Estónia vai fechar fronteira com a Rússia após nova tentativa de sabotagem",
+      "url": "https://www.rtp.pt/noticias/mundo/estonia-vai-fechar-fronteira-com-a-russia-apos-nova-tentativa-de-sabotagem_n1779337",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T16:42:45Z",
+      "description": "A Estónia anunciou vai fechar completamente a fronteira com a Rússia, após evitar, no último instante, uma tentativa de incendiar uma fábrica de drones - uma ação que, segundo o país, foi orquestrada pelo serviço de inteligência militar russo, o GRU.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/08/083400a33022d5c1c5127b5df9ef0da6?w=350&q=50&rect=0,5,1024,561&auto=format"
     },
     {
-      "title": "Qatar e Turquia assinam acordo de defesa mútua contra ataques externos",
-      "url": "https://pt.euronews.com/2026/11/14/qatar-e-turquia-assinam-acordo-de-defesa-mutua-contra-ataques-externos",
+      "title": "Rússia não impõe condições ao grupo de negociadores da UE para a Ucrânia",
+      "url": "https://pt.euronews.com/2026/11/15/russia-nao-impoe-condicoes-ao-grupo-de-negociadores-da-ue-para-a-ucrania",
       "source": "Euronews",
-      "publishedAt": "2026-11-14T18:17:31Z",
-      "description": "Está em curso uma rápida remodelação do quadro de segurança multilateral no Golfo e Médio Oriente, desencadeada pela guerra com o Irão e pelos sinais dos EUA de que está a adaptar a sua presença de segurança de longa data na região.",
-      "image": "https://images.euronews.com/articles/stories/09/99/26/69/1200x675_cmsv2_5a8a0a0e-586a-52bd-a389-3a90d4cf69d8-9992669.jpg"
+      "publishedAt": "2026-11-15T16:22:45Z",
+      "description": "Europeus preparam-se para participar no próximo ciclo de consultas para pôr fim à guerra na Ucrânia. Moscovo dizia que não tinham lugar à mesa das negociações, mas a retórica do Kremlin mudou.",
+      "image": "https://images.euronews.com/articles/stories/09/99/28/23/1200x675_cmsv2_b3675eb2-3762-50ba-9fbd-0f604928a655-9992823.jpg"
+    },
+    {
+      "title": "Eleições Cabo Verde. Candidatos apelam ao voto e à redução da abstenção",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-cabo-verde-candidatos-apelam-ao-voto-e-a-reducao-da-abstencao_n1779327",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T15:41:43Z",
+      "description": "Os quatro candidatos à Presidência de Cabo Verde sem apoio dos dois principais partidos apelaram hoje à participação dos eleitores nas eleições, defendendo a necessidade de reduzir a abstenção, após votarem em diferentes ilhas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7fb97740c3d1cf817858bf765f59baa0?w=350&q=50&rect=0,26,1024,561&auto=format"
+    },
+    {
+      "title": "Acordo sobre mar do Sul da China ainda sem consenso entre ASEAN e Pequim",
+      "url": "https://www.rtp.pt/noticias/mundo/acordo-sobre-mar-do-sul-da-china-ainda-sem-consenso-entre-asean-e-pequim_n1779326",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T15:39:03Z",
+      "description": "A ASEAN admitiu hoje que o código de conduta para o mar do Sul da China que negoceia há mais de duas décadas com Pequim não será concluído na cimeira a decorrer em Manila.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ]
 }
