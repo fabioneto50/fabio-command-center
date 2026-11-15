@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:26:06.840497Z",
+  "updatedAt": "2026-11-15T02:40:37.459123Z",
   "health": [
     {
       "title": "FAA levanta suspensão nacional de voos após cinco horas de caos. Portugal escapou ileso",
@@ -100,6 +100,22 @@
   ],
   "world": [
     {
+      "title": "Netanyahu reafirma que só Governo de união nacional garante “segurança de Israel\"",
+      "url": "https://www.rtp.pt/noticias/mundo/netanyahu-reafirma-que-so-governo-de-uniao-nacional-garante-seguranca-de-israel_n1779253",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T01:16:37Z",
+      "description": "O primeiro-ministro israelita voltou hoje a defender um Governo de união nacional com o seu rival Gadi Eisenkot, como única forma de “garantir a segurança de Israel” perante o Irão, ameaça que promete eliminar “de uma vez por todas”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/79/79b23bf33f3a34884bceae0b75388853?w=350&q=50&rect=0,48,1500,822&auto=format"
+    },
+    {
+      "title": "Leão XIV denuncia escravatura e discriminação contra afrodescendentes no Peru",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-denuncia-escravatura-e-discriminacao-contra-afrodescendentes-no-peru_n1779244",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T00:33:23Z",
+      "description": "O Papa Leão XIV denunciou hoje discriminação contra afrodescendentes no Peru e recordou o grande sofrimento dos escravos, durante um discurso no santuário de Santo Toribio de Mogrovejo, em Zaña, onde cumpriu o último compromisso do dia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd8fd8d4e45c88fa1df316f9374f25c5?w=350&q=50&rect=0,89,1500,822&auto=format"
+    },
+    {
       "title": "Irão acusa EUA de ameaçarem matar iranianos à fome através de bloqueio económico",
       "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-acusa-eua-de-ameacarem-matar-iranianos-a-fome-atraves-de-bloqueio-economico_n1779222",
       "source": "RTP Notícias",
@@ -164,28 +180,12 @@
       "image": "https://images.euronews.com/articles/stories/09/99/28/29/1200x675_cmsv2_0ecf091b-7992-5ba4-8838-399d17ced0bb-9992829.jpg"
     },
     {
-      "title": "Kremlin confirma encontro entre Putin, Trump e Xi na quinta-feira em Shenzhen",
-      "url": "https://www.rtp.pt/noticias/mundo/kremlin-confirma-encontro-entre-putin-trump-e-xi-na-quinta-feira-em-shenzhen_n1779181",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T16:59:49Z",
-      "description": "O encontro histórico entre os Presidentes da Rússia, Vladimir Putin, dos Estados Unidos, Donald Trump, e da China, Xi Jinping, vai decorrer na quinta-feira, à margem da cimeira da Cooperação Económica Ásia-Pacífico (APEC), confirmou hoje o Kremlin.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9683c17f6b119ab87ce10505af2279c?w=350&q=50&rect=0,88,1500,822&auto=format"
-    },
-    {
       "title": "Cinco países europeus lançam campanha “We Tomato Europe” para clarificar a origem do tomate que compra",
       "url": "https://pt.euronews.com/2026/11/14/cinco-paises-europeus-lancam-campanha-we-tomato-europe-para-clarificar-a-origem-do-tomate-",
       "source": "Euronews",
       "publishedAt": "2026-11-14T16:29:45Z",
       "description": "Organizações de produtores de Espanha, França, Itália, Portugal e Polónia lançam “We Tomato Europe”, campanha com site e manifesto aberto para exigir às instituições europeias viabilidade da produção comunitária, transparência ao consumidor e concorrência justa.",
       "image": "https://images.euronews.com/articles/stories/09/99/27/61/1200x675_cmsv2_8d4fd896-2679-511d-89c3-8431b6c18d89-9992761.jpg"
-    },
-    {
-      "title": "Exclusivo RTP. Theresa May acusa Rússia de uma \"forma de escravatura\"",
-      "url": "https://www.rtp.pt/noticias/mundo/exclusivo-rtp-theresa-may-acusa-russia-de-uma-forma-de-escravatura_v1779140",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T14:09:47Z",
-      "description": "Theresa May diz que Putin escraviza jovens de todo o mundo quando os converte em soldados russos. A antiga primeira-ministra do Reino Unido esteve em Portugal e deu uma entrevista exclusiva à RTP.",
-      "image": "https://cdn-images.rtp.pt/icm/images/fb/fbc42ae9dcfdacb2ad415f93ca38039d_N.jpg?"
     },
     {
       "title": "China: Trump reúne-se com Xi e Putin em Shenzhen na próxima semana",
