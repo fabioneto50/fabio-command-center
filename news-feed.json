@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-15T02:40:37.459123Z",
+  "updatedAt": "2026-11-15T10:56:19.081261Z",
   "health": [
+    {
+      "title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
+      "url": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T10:20:47Z",
+      "description": "O Bastonário da Ordem dos Médicos falou sobre as mortes nas urgências Portimão. Diz que é inadmissível, e que ninguém deve aceitar o que apelidou de \"tragédia\".",
+      "image": "https://cdn-images.rtp.pt/icm/images/68/68189b2d298682f7291024c67f1c22d0_N.jpg?"
+    },
     {
       "title": "FAA levanta suspensão nacional de voos após cinco horas de caos. Portugal escapou ileso",
       "url": "https://healthnews.pt/2026/11/14/faa-levanta-suspensao-nacional-de-voos-apos-cinco-horas-de-caos-portugal-escapou-ileso/",
@@ -88,56 +96,88 @@
       "publishedAt": "2026-11-13T08:27:19Z",
       "description": "Portugal registou, no ano passado, mais de 70 mil novos casos de diabetes. Um número que desceu em relação ao ano anterior. Ainda assim suscita preocupação.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee5b65fb0865f963a0a9d7fae77f64a4?w=350&q=50&rect=0,283,2580,1414&auto=format"
-    },
-    {
-      "title": "Quase 70.399 novos casos de diabetes registados em 2025 nos cuidados de saúde primários",
-      "url": "https://www.rtp.pt/noticias/pais/quase-70-399-novos-casos-de-diabetes-registados-em-2025-nos-cuidados-de-saude-primarios_n1778839",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T07:15:54Z",
-      "description": "Quase 70.400 novos casos de diabetes foram registados em 2025 nos cuidados de saúde primários, elevando para 960.064 o número de pessoas com diagnóstico registado no SNS, o equivalente a 8,9% dos utentes inscritos no SNS, segundo a DGS.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e565770272e4a84a7fb172c09ce4dff7?w=350&q=50&rect=0,0,840,461&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Netanyahu reafirma que só Governo de união nacional garante “segurança de Israel\"",
-      "url": "https://www.rtp.pt/noticias/mundo/netanyahu-reafirma-que-so-governo-de-uniao-nacional-garante-seguranca-de-israel_n1779253",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T01:16:37Z",
-      "description": "O primeiro-ministro israelita voltou hoje a defender um Governo de união nacional com o seu rival Gadi Eisenkot, como única forma de “garantir a segurança de Israel” perante o Irão, ameaça que promete eliminar “de uma vez por todas”.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/79/79b23bf33f3a34884bceae0b75388853?w=350&q=50&rect=0,48,1500,822&auto=format"
+      "title": "Estados Unidos: SpaceX apanha Starship no ar na torre de lançamento, marco no programa espacial",
+      "url": "https://pt.euronews.com/video/2026/11/15/estados-unidos-spacex-apanha-starship-no-ar-na-torre-de-lancamento-marco-no-programa-espac",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T10:06:45Z",
+      "description": "A nave Starship da SpaceX foi apanhada com sucesso por braços mecânicos gigantes na torre de lançamento do Texas após 22 horas de viagem, marcando a primeira captura aérea bem-sucedida de uma Starship que regressa do espaço",
+      "image": "https://images.euronews.com/articles/stories/09/99/30/79/1200x675_cmsv2_cfe05e8e-a267-5b3b-8e89-a831a17adafc-9993079.jpg"
     },
     {
-      "title": "Leão XIV denuncia escravatura e discriminação contra afrodescendentes no Peru",
-      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-denuncia-escravatura-e-discriminacao-contra-afrodescendentes-no-peru_n1779244",
+      "title": "Dois aviões colidem na pista do aeroporto internacional de Miami",
+      "url": "https://www.rtp.pt/noticias/mundo/dois-avioes-colidem-na-pista-do-aeroporto-internacional-de-miami_n1779290",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T00:33:23Z",
-      "description": "O Papa Leão XIV denunciou hoje discriminação contra afrodescendentes no Peru e recordou o grande sofrimento dos escravos, durante um discurso no santuário de Santo Toribio de Mogrovejo, em Zaña, onde cumpriu o último compromisso do dia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd8fd8d4e45c88fa1df316f9374f25c5?w=350&q=50&rect=0,89,1500,822&auto=format"
+      "publishedAt": "2026-11-15T09:51:16Z",
+      "description": "Dois aviões colidiram no sábado à noite na pista do aeroporto internacional de Miami, causando dois feridos ligeiros. A ponta da asa de um Boeing 737 da Copa Airlines embateu contra o nariz de um Boeing 767 da UPS enquanto ambas as aeronaves circulavam na pista.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6120e8531fd760bdbe0b6974d984970?w=350&q=50&rect=0,79,1500,822&auto=format"
     },
     {
-      "title": "Irão acusa EUA de ameaçarem matar iranianos à fome através de bloqueio económico",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-acusa-eua-de-ameacarem-matar-iranianos-a-fome-atraves-de-bloqueio-economico_n1779222",
+      "title": "Milhares de passageiros continuam retidos depois da paralisação aérea de sexta-feira",
+      "url": "https://www.rtp.pt/noticias/mundo/milhares-de-passageiros-continuam-retidos-depois-da-paralisacao-aerea-de-sexta-feira_n1779289",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T21:39:00Z",
-      "description": "O Irão acusou hoje os Estados Unidos da América (EUA) de ameaçarem matar o povo iraniano à fome através do bloqueio económico, depois de Washington afirmar que, no fim de contas, os iranianos “têm de comer”.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a9b3ca89c8042793a8902d69632e43b8?w=350&q=50&rect=0,168,1500,822&auto=format"
+      "publishedAt": "2026-11-15T09:30:03Z",
+      "description": "Depois de retomados os voos nos Estados Unidos, a total normalidade ainda não regressou. O problema foi resolvido, mas dezenas de milhares de passageiros continuam à espera de viajar.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a8239c9dd32bf8323ef23d43f28058c5?w=350&q=50&rect=0,8,1500,822&auto=format"
     },
     {
-      "title": "Sistema de comunicações de tráfego aéreo \"obsoleto\" precisa de 50 mil milhões de dólares",
-      "url": "https://www.rtp.pt/noticias/mundo/sistema-de-comunicacoes-de-trafego-aereo-obsoleto-precisa-de-50-mil-milhoes-de-dolares_v1779210",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T19:33:47Z",
-      "description": "Na sequência dos problemas registados na sexta-feira que obrigaram à suspensão de milhares de voos, as autoridades assumem que o sistema de telecomunicação de controlo do tráfego aéreo está cheio de vulnerabilidades, instável e obsoleto.",
-      "image": "https://cdn-images.rtp.pt/icm/images/52/522e1cd00d57d72734a2c242d5b133ec_N.jpg?"
+      "title": "Cabo Verde vai hoje a votos e pode ter a primeira mulher eleita Presidente da República",
+      "url": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T08:39:12Z",
+      "description": "Cabo Verde poderá eleger a sua primeira mulher presidente nas eleições deste domingo. A ex-ministra da Justiça, Joana Rosa, é uma das favoritas contra o atual presidente, José Maria Neves, que se recandidata a um segundo mandato.",
+      "image": "https://images.euronews.com/articles/stories/09/99/30/00/1200x675_cmsv2_8aabba93-2a7d-5eff-bf48-ab8adab54cf1-9993000.jpg"
     },
     {
-      "title": "Continua o caos nos aeroportos dos Estados Unidos",
-      "url": "https://www.rtp.pt/noticias/mundo/continua-o-caos-nos-aeroportos-dos-estados-unidos_v1779208",
+      "title": "Irão. Teerão reivindica ataque contra base militar dos Estados Unidos no Bahrein",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-teerao-reivindica-ataque-contra-base-militar-dos-estados-unidos-no-bahrein_n1779273",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T19:27:47Z",
-      "description": "Desde sexta-feira, quase 14 mil voos foram cancelados e mais de 10 mil sofreram atrasos, na maior paralisação aérea desde o 11 de Setembro.",
-      "image": "https://cdn-images.rtp.pt/icm/images/68/6840e7d86587aa4b32269818c042247e_N.jpg?"
+      "publishedAt": "2026-11-15T07:39:42Z",
+      "description": "O Irão afirmou hoje ter atacado, com drones, uma base militar dos Estados Unidos (EUA) no Bahrein, país do Golfo onde foram ouvidas explosões durante a manhã.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/73/73b0a50b7053567740f3f7992c4d0413?w=350&q=50&rect=0,0,1500,822&auto=format"
+    },
+    {
+      "title": "Emmanuel Macron pede unidade e consenso antes da eleição do líder da Francofonia",
+      "url": "https://www.rtp.pt/noticias/mundo/emmanuel-macron-pede-unidade-e-consenso-antes-da-eleicao-do-lider-da-francofonia_n1779265",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T07:34:56Z",
+      "description": "Phnom Penh, 15 nov 2026 (Lusa) - O Presidente da França, Emmanuel Macron, pediu hoje unidade e consenso na véspera da eleição do novo secretário-geral da Organização Internacional da Francofonia (OIF), fonte de tensões entre República Democrática do Congo e Ruanda.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/35/354d23f6c4687c9960901ec9b4768f8e?w=350&q=50&rect=0,14,1500,822&auto=format"
+    },
+    {
+      "title": "Exército israelita diz ter morto responsável do Hamas",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-israelita-diz-ter-morto-responsavel-do-hamas_n1779262",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T07:29:33Z",
+      "description": "O exército de Israel anunciou hoje ter tido morto um dirigente do braço militar do Hamas, antes de fontes palestinianas confirmarem a morte de um comandante do movimento islamista no sul da Faixa de Gaza.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/21/214a966af94570bde3eeda6db89bd1cc?w=350&q=50&rect=0,89,1500,822&auto=format"
+    },
+    {
+      "title": "EUA perdem estatuto de país \"livre de sarampo\" após número recorde de casos",
+      "url": "https://www.rtp.pt/noticias/mundo/eua-perdem-estatuto-de-pais-livre-de-sarampo-apos-numero-recorde-de-casos_n1779260",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T07:28:24Z",
+      "description": "Os Estados Unidos (EUA) perderam o estatuto de país \"livre de sarampo\", anunciou a Organização Pan-Americana de Saúde (OPS), após registarem mais de 5.400 casos este ano, mais do dobro em comparação com 2025.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec8273dc14fcd71d8b4e723b5e9950ae?w=350&q=50&rect=0,3,1500,822&auto=format"
+    },
+    {
+      "title": "Zelenskyy questiona a SpaceX sobre alegadas limitações de velocidade do Starshield",
+      "url": "https://pt.euronews.com/2026/11/15/zelenskyy-questiona-a-spacex-sobre-alegadas-limitacoes-de-velocidade-do-starshield",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T07:23:11Z",
+      "description": "As restrições têm afetado diretamente a capacidade da Ucrânia de intercetar drones russos de ataque, afirmou Zelenskyy na cimeira da Comunidade Política Europeia, em Dublin.",
+      "image": "https://images.euronews.com/articles/stories/09/99/29/64/1200x675_cmsv2_a7620028-834f-5d59-a5a3-913b0aeaf940-9992964.jpg"
+    },
+    {
+      "title": "Notícias do dia | 15 de novembro 2026 - Manhã",
+      "url": "https://pt.euronews.com/video/2026/11/15/noticias-do-dia-15-de-novembro-2026-manha",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T06:00:19Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 15 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/09/99/29/66/1200x675_cmsv2_aeeddd27-1cd4-592e-8775-359713d079ea-9992966.jpg"
     },
     {
       "title": "França vive novo sábado de protestos contra o custo de vida",
@@ -154,46 +194,6 @@
       "publishedAt": "2026-11-14T18:17:31Z",
       "description": "Está em curso uma rápida remodelação do quadro de segurança multilateral no Golfo e Médio Oriente, desencadeada pela guerra com o Irão e pelos sinais dos EUA de que está a adaptar a sua presença de segurança de longa data na região.",
       "image": "https://images.euronews.com/articles/stories/09/99/26/69/1200x675_cmsv2_5a8a0a0e-586a-52bd-a389-3a90d4cf69d8-9992669.jpg"
-    },
-    {
-      "title": "Peru e Argentina enfrentam surto de sarampo durante visita do Papa Leão XIV",
-      "url": "https://pt.euronews.com/2026/11/14/peru-e-argentina-enfrentam-surto-de-sarampo-durante-visita-do-papa-leao-xiv",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T18:15:36Z",
-      "description": "As enormes multidões que acorrem para ver o pontífice de 71 anos aumentam os receios das autoridades de saúde na América Latina, que registou este ano um aumento de casos de sarampo.",
-      "image": "https://images.euronews.com/articles/stories/09/99/25/01/1200x675_cmsv2_d46c7d6d-c033-5e59-89c6-1199d766ec3a-9992501.jpg"
-    },
-    {
-      "title": "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
-      "url": "https://www.rtp.pt/noticias/mundo/franca-manifestantes-nas-ruas-de-paris-pelo-quinto-fim-de-semana-consecutivo_n1779193",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-14T17:36:40Z",
-      "description": "Uma manifestação contra o aumento do custo de vida percorreu hoje as ruas de Paris, pelo quinto fim de semana consecutivo. Manifestaram-se 106 mil pessoas, de acordo com o Ministério do Interior e 200 mil, segundo os organizadores. O protesto incorporou representantes do movimento \"coletes amarelos\", mas também estudantes, sindicatos e grupos contra a violência policial.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2b6a46c34af75a86c56d37e0ad7e2fa0?w=350&q=50&rect=0,35,1500,822&auto=format"
-    },
-    {
-      "title": "Notícias do dia | 14 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/14/noticias-do-dia-14-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 14 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/28/29/1200x675_cmsv2_0ecf091b-7992-5ba4-8838-399d17ced0bb-9992829.jpg"
-    },
-    {
-      "title": "Cinco países europeus lançam campanha “We Tomato Europe” para clarificar a origem do tomate que compra",
-      "url": "https://pt.euronews.com/2026/11/14/cinco-paises-europeus-lancam-campanha-we-tomato-europe-para-clarificar-a-origem-do-tomate-",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T16:29:45Z",
-      "description": "Organizações de produtores de Espanha, França, Itália, Portugal e Polónia lançam “We Tomato Europe”, campanha com site e manifesto aberto para exigir às instituições europeias viabilidade da produção comunitária, transparência ao consumidor e concorrência justa.",
-      "image": "https://images.euronews.com/articles/stories/09/99/27/61/1200x675_cmsv2_8d4fd896-2679-511d-89c3-8431b6c18d89-9992761.jpg"
-    },
-    {
-      "title": "China: Trump reúne-se com Xi e Putin em Shenzhen na próxima semana",
-      "url": "https://pt.euronews.com/2026/11/14/china-trump-reune-se-com-xi-e-putin-em-shenzhen-na-proxima-semana",
-      "source": "Euronews",
-      "publishedAt": "2026-11-14T12:29:21Z",
-      "description": "Trump deverá deixar Washington na segunda-feira rumo às Filipinas, onde participará numa reunião da ASEAN antes de seguir para Shenzhen, na China.",
-      "image": "https://images.euronews.com/articles/stories/09/99/24/69/1200x675_cmsv2_17157d35-4ed0-5ea2-a716-e05b7b20efd8-9992469.jpg"
     }
   ]
 }
