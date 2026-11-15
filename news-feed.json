@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-11-15T17:43:43.776061Z",
+  "updatedAt": "2026-11-15T22:49:52.997174Z",
   "health": [
     {
-      "title": "Cirurgia inédita em Nova Deli para reparar coluna vertebral de bebé antes de nascer",
-      "url": "https://www.rtp.pt/noticias/mundo/cirurgia-inedita-em-nova-deli-para-reparar-coluna-vertebral-de-bebe-antes-de-nascer_n1779325",
+      "title": "Médicos de Família em Bragança. Cobertura de 100% aos mais de 126 mil utentes da ULS Nordeste",
+      "url": "https://www.rtp.pt/noticias/pais/medicos-de-familia-em-braganca-cobertura-de-100-aos-mais-de-126-mil-utentes-da-uls-nordeste_v1779375",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T15:38:16Z",
-      "description": "Uma equipa de mais de 30 médicos realizou a primeira cirurgia fetal aberta da Índia para reparar a coluna vertebral de um bebé antes do nascimento, revelou hoje o Instituto de Ciências Médicas da Índia (AIIMS), onde foi realizado o procedimento.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-15T21:07:49Z",
+      "description": "Todos os utentes do distrito de Bragança já têm médico de família. A ULS do Nordeste é a primeira, do interior, com cobertura total.",
+      "image": "https://cdn-images.rtp.pt/icm/images/a5/a5f18bd9c15ead7db42a119f6655d4dc_N.jpg?"
+    },
+    {
+      "title": "Plano de Emergência para a Saúde. IGAS iliba Eurico Castro Alves e considera pagamentos legais",
+      "url": "https://www.rtp.pt/noticias/pais/plano-de-emergencia-para-a-saude-igas-iliba-eurico-castro-alves-e-considera-pagamentos-legais_v1779373",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T20:59:47Z",
+      "description": "A Inspeção-Geral das Atividades em Saúde recuou e deu luz verde ao pagamento de 179 mil euros a Eurico Castro Alves, coordenador do Plano de Emergência para a Saúde.",
+      "image": "https://cdn-images.rtp.pt/icm/images/6f/6f4fc48fcd9583a48611a55d23ac9278_N.jpg?"
+    },
+    {
+      "title": "Bebé operado à coluna ainda no útero em Nova Deli",
+      "url": "https://healthnews.pt/2026/11/15/bebe-operado-a-coluna-ainda-no-utero-em-nova-deli/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T17:14:43Z",
+      "description": "Uma equipa de mais de 30 médicos do Instituto de Ciências Médicas da Índia realizou a primeira cirurgia fetal aberta do país para reparar a coluna vertebral de um bebé antes do nascimento. A operação, que durou seis horas, decorreu na quinta-feira e visa reduzir o risco de paralisia e de outras deficiências neurológicas permanentes. Mãe e feto recuperam bem",
+      "image": ""
+    },
+    {
+      "title": "Comissão pró Casa do Médico",
+      "url": "https://healthnews.pt/2026/11/15/comissao-pro-casa-do-medico/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T15:22:53Z",
+      "description": "José Dias Pereira: Fundador e coordenador da Comissão Pró Casa do Médico: Ex Assistente Hospitalar Graduado do ex HUC",
+      "image": ""
     },
     {
       "title": "Residência em Castro Marim é a primeira a sul para doenças neurodegenerativas",
@@ -26,70 +50,118 @@
       "image": "https://cdn-images.rtp.pt/icm/images/8d/8da0bc0795e18d9a020fd23605009dd5_N.jpg?"
     },
     {
-      "title": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
-      "url": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T10:20:47Z",
-      "description": "O Bastonário da Ordem dos Médicos falou sobre as mortes nas urgências Portimão. Diz que é inadmissível, e que ninguém deve aceitar o que apelidou de \"tragédia\".",
-      "image": "https://cdn-images.rtp.pt/icm/images/68/68189b2d298682f7291024c67f1c22d0_N.jpg?"
+      "title": "A OMS assinala hoje o Dia Mundial da Prematuridade: Bebés prematuros: a alta hospitalar não é o fim da linha",
+      "url": "https://healthnews.pt/2026/11/15/a-oms-assinala-hoje-o-dia-mundial-da-prematuridade-bebes-prematuros-a-alta-hospitalar-nao-e-o-fim-da-linha/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T12:33:08Z",
+      "description": "A OMS assinala hoje, pela primeira vez, o Dia Mundial da Prematuridade e coloca o seguimento pós-alta no centro da mensagem. Cerca de 15 milhões de bebés nascem prematuros por ano e Portugal mantém uma taxa próxima dos 7%",
+      "image": ""
     },
     {
-      "title": "Reestruturação orgânica do Ministério da Saúde deve ser apresentada este mês",
-      "url": "https://www.rtp.pt/noticias/pais/reestruturacao-organica-do-ministerio-da-saude-deve-ser-apresentada-este-mes_v1778939",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T13:22:47Z",
-      "description": "O Governo prepara a reorganização, mesmo em tempo de polémicas que envolvem o setor, as administrações hospitalares e a atuação da ministra Ana Paula Martins.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/95/956a552949a1ff9a134afa603c42fd32?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "title": "Voos nos EUA: FAA promete normalização até ao final do dia de hoje após cancelamentos em massa",
+      "url": "https://healthnews.pt/2026/11/15/voos-nos-eua-faa-promete-normalizacao-ate-ao-fim-do-domingo-apos-cancelamentos-em-massa/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T12:16:07Z",
+      "description": "A FAA prevê que o tráfego aéreo nos Estados Unidos regresse à normalidade até ao final deste domingo, depois de mais de 12 mil voos terem sido cancelados entre sexta e sábado. O responsável da agência, Bryan Bedford, afirmou que \"o pior ficou para trás\", mas alertou que os efeitos da paralisação ainda serão sentidos nos próximos dias. A investigação aponta para um router…",
+      "image": ""
     },
     {
-      "title": "Colapso na Microsoft afetou Saúde mas Governo garante \"funcionamento normal\" do Estado",
-      "url": "https://www.rtp.pt/noticias/mundo/colapso-na-microsoft-afetou-saude-mas-governo-garante-funcionamento-normal-do-estado_n1778894",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T10:43:35Z",
-      "description": "Os Serviços Partilhados do Ministério da Saúde revelaram que a falha global na Microsoft afetou entidades sob tutela do Governo. No entanto, não referem especificamente as áreas atingidas. A Associação de Medicina Geral e Familiar registou mesmo atrasos na remarcação de consultas e receitas. Ainda assim, o Governo garante estar acautelado o \"funcionamento normal\" quer do…",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b662417c93b834640b08a70b6f5d033?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "title": "IPMA antecipa aviso amarelo para seis distritos devido à chuva",
+      "url": "https://healthnews.pt/2026/11/15/ipma-antecipa-aviso-amarelo-para-seis-distritos-devido-a-chuva/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T11:46:39Z",
+      "description": "O Instituto Português do Mar e da Atmosfera colocou seis distritos do continente sob aviso amarelo às 03:00 deste domingo, três horas antes do horário inicialmente comunicado. Viseu, Porto, Vila Real, Viana de Castelo, Aveiro e Braga estão abrangidos até às 15:00",
+      "image": ""
     },
     {
-      "title": "DGS regista menos casos de diabetes em 2025 mas surgiram 70 mil novos doentes",
-      "url": "https://www.rtp.pt/noticias/pais/dgs-regista-menos-casos-de-diabetes-em-2025-mas-surgiram-70-mil-novos-doentes_n1778858",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T08:27:19Z",
-      "description": "Portugal registou, no ano passado, mais de 70 mil novos casos de diabetes. Um número que desceu em relação ao ano anterior. Ainda assim suscita preocupação.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee5b65fb0865f963a0a9d7fae77f64a4?w=350&q=50&rect=0,283,2580,1414&auto=format"
+      "title": "EUA perdem certificação de eliminação do sarampo após surto que já supera 5.400 casos",
+      "url": "https://healthnews.pt/2026/11/15/eua-perdem-certificacao-de-eliminacao-do-sarampo-apos-surto-que-ja-supera-5-400-casos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T11:17:08Z",
+      "description": "A Organização Pan-Americana da Saúde (OPS) confirmou que os Estados Unidos deixaram de ser considerados território livre de transmissão endémica do sarampo. O país acumulou 5.412 casos confirmados desde janeiro, mais do dobro do total registado em 2025, e enfrenta cadeias de transmissão que persistem há mais de doze meses, condição que invalida o estatuto mantido desde 2000",
+      "image": ""
     },
     {
-      "title": "Quase 70.399 novos casos de diabetes registados em 2025 nos cuidados de saúde primários",
-      "url": "https://www.rtp.pt/noticias/pais/quase-70-399-novos-casos-de-diabetes-registados-em-2025-nos-cuidados-de-saude-primarios_n1778839",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-13T07:15:54Z",
-      "description": "Quase 70.400 novos casos de diabetes foram registados em 2025 nos cuidados de saúde primários, elevando para 960.064 o número de pessoas com diagnóstico registado no SNS, o equivalente a 8,9% dos utentes inscritos no SNS, segundo a DGS.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e565770272e4a84a7fb172c09ce4dff7?w=350&q=50&rect=0,0,840,461&auto=format"
+      "title": "Ventura exige remodelação com Saúde e Administração Interna à cabeça",
+      "url": "https://healthnews.pt/2026/11/15/ventura-exige-remodelacao-com-saude-e-administracao-interna-a-cabeca/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T07:20:53Z",
+      "description": "O presidente do Chega defendeu este sábado que os ministros da Administração Interna e da Saúde deveriam estar à cabeça de uma eventual remodelação governamental, alegando que o executivo de Luís Montenegro está a mergulhar na mais absoluta ineficácia e desorientação",
+      "image": ""
+    },
+    {
+      "title": "Carneiro aponta “silêncio cúmplice” de Montenegro na saúde",
+      "url": "https://healthnews.pt/2026/11/15/carneiro-aponta-silencio-cumplice-de-montenegro-na-saude/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-15T07:19:46Z",
+      "description": "O secretário-geral do PS acusou este sábado o primeiro-ministro de \"silêncio cúmplice\" perante os problemas do setor da saúde, sustentando que a falta de confiança na ministra Ana Paula Martins se está a alargar ao próprio Serviço Nacional de Saúde. José Luís Carneiro falava no encerramento do arranque dos novos Estados Gerais do partido, em Lisboa, onde apresentou propostas…",
+      "image": ""
     }
   ],
   "world": [
     {
-      "title": "Cabo Verde. Eleitores em Portugal satisfeitos por cumprirem dever cívico",
-      "url": "https://www.rtp.pt/noticias/mundo/cabo-verde-eleitores-em-portugal-satisfeitos-por-cumprirem-dever-civico_n1779344",
+      "title": "Cabo Verde. Joana Rosa reconhece derrota eleitoral",
+      "url": "https://www.rtp.pt/noticias/mundo/cabo-verde-joana-rosa-reconhece-derrota-eleitoral_n1779388",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T17:39:05Z",
-      "description": "Os cabo-verdianos que votaram hoje em Lisboa para escolher o Presidente de Cabo Verde mostraram-se satisfeitos por cumprirem o seu dever cívico e defenderam que votar é um dever de todos os cidadãos.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-15T22:42:41Z",
+      "description": "Joana Rosa, primeira mulher candidata à Presidência de Cabo Verde, reconheceu a derrota nas eleições de hoje em que José Maria Neves deverá ser reeleito à primeira volta.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a949911e421168469b50c2449ce21443?w=350&q=50&rect=0,25,1024,561&auto=format"
     },
     {
-      "title": "Checos contra plano do Governo de financiamento dos meios de comunicação públicos",
-      "url": "https://www.rtp.pt/noticias/mundo/checos-contra-plano-do-governo-de-financiamento-dos-meios-de-comunicacao-publicos_n1779341",
+      "title": "Negociações de paz na Ucrânia. Mediadores terão sugerido cedência do Donbass e entrada na NATO",
+      "url": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-na-ucrania-mediadores-terao-sugerido-cedencia-do-donbass-e-entrada-na-nato_v1779385",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T17:36:57Z",
-      "description": "Centenas de milhares de pessoas manifestaram-se hoje em Praga contra um plano do governo do bilionário checo Andrej Babis para reformular o financiamento das emissoras públicas, por ameaçar minar a independência dos meios de comunicação e a democracia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4bef78202c7560545d2f9f45940a399b?w=350&q=50&rect=0,79,1024,561&auto=format"
+      "publishedAt": "2026-11-15T21:50:47Z",
+      "description": "A Ucrânia na NATO em troca da retirada do Donbass. A hipótese terá sido levantada pelos Estados Unidos nas negociações de paz. A revelação é de Volodymyr Zelensky.",
+      "image": "https://cdn-images.rtp.pt/icm/images/ac/ac19fef6c10e666bcdabf6f921e7a307_N.jpg?"
     },
     {
-      "title": "Presidenciais em Cabo Verde. Votação arrancou com atraso e pouca afluência",
-      "url": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-votacao-arrancou-com-atraso-e-pouca-afluencia_v1779347",
+      "title": "Leão XIV no Peru. Papa vive Andes peruanos e selva amazónica",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-no-peru-papa-vive-andes-peruanos-e-selva-amazonica_v1779382",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T17:25:47Z",
-      "description": "Cabo Verde realiza este domingo as oitavas eleições presidenciais. A votação arrancou às oito horas, mas, em algumas mesas, registou-se um ligeiro atraso na abertura.",
-      "image": "https://cdn-images.rtp.pt/icm/images/c7/c70341ffc9aa8baed14548e12f543eaa_N.jpg?"
+      "publishedAt": "2026-11-15T21:44:47Z",
+      "description": "Ao quinto dia de visita apostólica ao Peru, Leão XIV chegou a Cusco, nos Andes peruanos para unir a tradição católica às raízes populares de um povo milenar: os incas.",
+      "image": "https://cdn-images.rtp.pt/icm/images/6a/6a0705191b592c84752cd6e3d96a9e48_N.jpg?"
+    },
+    {
+      "title": "República Democrática do Congo. Surto de ébola já fez mais de 5.400 mortos",
+      "url": "https://www.rtp.pt/noticias/mundo/republica-democratica-do-congo-surto-de-ebola-ja-fez-mais-de-5-400-mortos_v1779380",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T21:41:47Z",
+      "description": "O surto de Ébola na República Democrática do Congo já provocou cinco mil e 400 mortos. O balanço divulgado este domingo aponta para mais de 11 mil casos de infeção.",
+      "image": "https://cdn-images.rtp.pt/icm/images/51/511338dd12b0376df6886e87ed53930c_N.jpg?"
+    },
+    {
+      "title": "Presidenciais em Cabo Verde. José Maria Neves lidera na contagem dos votos",
+      "url": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-jose-maria-neves-lidera-na-contagem-dos-votos_n1779376",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T21:24:47Z",
+      "description": "Com a maioria das mesas apuradas, José Maria Neves está à frente na contagem dos votos em Cabo Verde e tudo indica vai voltar a vencer as eleições presidenciais deste domingo.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f1acd215a7ef149c871295b357a5e79f?w=350&q=50&rect=0,0,1024,561&auto=format"
+    },
+    {
+      "title": "Nvidia tem de \"procurar candidatos fora da empresa\" para encontrar um novo CEO",
+      "url": "https://www.rtp.pt/noticias/mundo/nvidia-tem-de-procurar-candidatos-fora-da-empresa-para-encontrar-um-novo-ceo_n1779359",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-15T18:56:49Z",
+      "description": "O secretário do Tesouro norte-americano defende que a Nvidia precisa de \"procurar candidatos fora da empresa\" para o cargo de diretor executivo, após a demissão de Jensen Huang no meio de revelações de casos extraconjugais.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b24ac9a7560e4edabcca5c149fa85137?w=350&q=50&rect=0,6,1024,561&auto=format"
+    },
+    {
+      "title": "Chéquia: milhares em Praga protestam contra planos do governo de financiamento da televisão e rádio públicas",
+      "url": "https://pt.euronews.com/2026/11/15/chequia-milhares-em-praga-protestam-contra-planos-do-governo-de-financiamento-da-televisao",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T18:41:32Z",
+      "description": "A multidão protestou, na tarde de domingo, contra os planos de alteração da televisão e rádio públicas checas, na maior ação até agora contra o governo tripartido de Andrej Babiš.",
+      "image": "https://images.euronews.com/articles/stories/09/99/34/02/1200x675_cmsv2_8877d394-5d64-5980-b75d-652bc274b2d5-9993402.jpg"
+    },
+    {
+      "title": "Setor dos casamentos volta a unir-se para apoiar a recuperação de crianças",
+      "url": "https://pt.euronews.com/2026/11/15/setor-dos-casamentos-volta-a-unir-se-para-apoiar-a-recuperacao-de-criancas",
+      "source": "Euronews",
+      "publishedAt": "2026-11-15T18:20:35Z",
+      "description": "Cerca de 8 mil euros foram angariados para o Hospital Pediátrico Bethesda pelos profissionais húngaros do setor dos casamentos na 13.ª Hungarian Wedding Gala",
+      "image": "https://images.euronews.com/articles/stories/09/99/27/17/1200x675_cmsv2_91a58568-a63e-5e37-8397-dbf3e01e9597-9992717.jpg"
     },
     {
       "title": "Austrália e Filipinas assinam pacto de defesa em clima de tensão no mar da China Meridional",
@@ -122,46 +194,6 @@
       "publishedAt": "2026-11-15T17:04:09Z",
       "description": "Leão XIV chegou domingo à Amazónia peruana, centrando a viagem nos povos indígenas e na defesa da floresta. Após Cusco, voará para Pucallpa, onde a mineração ilegal e a desflorestação ameaçam territórios ancestrais.",
       "image": "https://images.euronews.com/articles/stories/09/99/34/01/1200x675_cmsv2_50fecdeb-a4b6-54ce-a6a7-e0c6055e12b8-9993401.jpg"
-    },
-    {
-      "title": "Notícias do dia | 15 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/15/noticias-do-dia-15-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-15T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 15 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/35/04/1200x675_cmsv2_000da2de-02a5-5974-999d-7befb9a443b5-9993504.jpg"
-    },
-    {
-      "title": "Estónia vai fechar fronteira com a Rússia após nova tentativa de sabotagem",
-      "url": "https://www.rtp.pt/noticias/mundo/estonia-vai-fechar-fronteira-com-a-russia-apos-nova-tentativa-de-sabotagem_n1779337",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T16:42:45Z",
-      "description": "A Estónia anunciou vai fechar completamente a fronteira com a Rússia, após evitar, no último instante, uma tentativa de incendiar uma fábrica de drones - uma ação que, segundo o país, foi orquestrada pelo serviço de inteligência militar russo, o GRU.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/08/083400a33022d5c1c5127b5df9ef0da6?w=350&q=50&rect=0,5,1024,561&auto=format"
-    },
-    {
-      "title": "Rússia não impõe condições ao grupo de negociadores da UE para a Ucrânia",
-      "url": "https://pt.euronews.com/2026/11/15/russia-nao-impoe-condicoes-ao-grupo-de-negociadores-da-ue-para-a-ucrania",
-      "source": "Euronews",
-      "publishedAt": "2026-11-15T16:22:45Z",
-      "description": "Europeus preparam-se para participar no próximo ciclo de consultas para pôr fim à guerra na Ucrânia. Moscovo dizia que não tinham lugar à mesa das negociações, mas a retórica do Kremlin mudou.",
-      "image": "https://images.euronews.com/articles/stories/09/99/28/23/1200x675_cmsv2_b3675eb2-3762-50ba-9fbd-0f604928a655-9992823.jpg"
-    },
-    {
-      "title": "Eleições Cabo Verde. Candidatos apelam ao voto e à redução da abstenção",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-cabo-verde-candidatos-apelam-ao-voto-e-a-reducao-da-abstencao_n1779327",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T15:41:43Z",
-      "description": "Os quatro candidatos à Presidência de Cabo Verde sem apoio dos dois principais partidos apelaram hoje à participação dos eleitores nas eleições, defendendo a necessidade de reduzir a abstenção, após votarem em diferentes ilhas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7fb97740c3d1cf817858bf765f59baa0?w=350&q=50&rect=0,26,1024,561&auto=format"
-    },
-    {
-      "title": "Acordo sobre mar do Sul da China ainda sem consenso entre ASEAN e Pequim",
-      "url": "https://www.rtp.pt/noticias/mundo/acordo-sobre-mar-do-sul-da-china-ainda-sem-consenso-entre-asean-e-pequim_n1779326",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T15:39:03Z",
-      "description": "A ASEAN admitiu hoje que o código de conduta para o mar do Sul da China que negoceia há mais de duas décadas com Pequim não será concluído na cimeira a decorrer em Manila.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ]
 }
