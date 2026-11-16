@@ -1,36 +1,76 @@
 {
-  "updatedAt": "2026-11-16T11:22:53.387021Z",
+  "updatedAt": "2026-11-16T22:05:04.777237Z",
   "health": [
+    {
+      "title": "A recuperação após um AVC não termina quando o doente sai do hospital",
+      "url": "https://healthnews.pt/2026/11/16/a-recuperacao-apos-um-avc-nao-termina-quando-o-doente-sai-do-hospital/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-16T18:30:55Z",
+      "description": "Gabriel Leguizamón, Clinical Services Manager da DyCare",
+      "image": ""
+    },
+    {
+      "title": "Há falta de médicos em Portugal?",
+      "url": "https://healthnews.pt/2026/11/16/ha-falta-de-medicos-em-portugal/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-16T17:27:24Z",
+      "description": "Prof. Doutor José Torres da Costa (Especialista em Imunoalergologia e Medicina do trabalho; Presidente do Conselho Regional do Norte da Ordem dos Médicos.",
+      "image": ""
+    },
+    {
+      "title": "Cirurgia robótica estreia-se em Aveiro com duas prostatectomias",
+      "url": "https://healthnews.pt/2026/11/16/cirurgia-robotica-estreia-se-em-aveiro-com-duas-prostatectomias/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-16T16:17:35Z",
+      "description": "A Unidade Local de Saúde da Região de Aveiro realizou na sexta-feira as primeiras duas cirurgias com robot, ambas prostatectomias radicais no serviço de Urologia, após três meses de formação das equipas envolvidas",
+      "image": ""
+    },
     {
       "title": "José Fragata: «Medir resultados é o caminho imprescindível para a qualidade»",
       "url": "https://healthnews.pt/2026/11/16/jose-fragata-medir-resultados-e-o-caminho-imprescindivel-para-a-qualidade/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-16T10:04:52Z",
+      "publishedAt": "2026-11-16T16:10:52Z",
       "description": "Durante décadas operou corações. Hoje, José Fragata pede ao SNS que meça o que realmente importa ao doente. Cirurgião cardiotorácico e presidente do Conselho Nacional dos Centros Académicos Clínicos, José Fragata vê o valor em saúde como uma questão de qualidade, não de economia. Membro do júri das Bolsas Mais Valor em Saúde, explica o que procura num projeto e quanto custam…",
       "image": ""
     },
     {
-      "title": "Distrofia muscular LAMA2: estudo deteta alterações precoces noutros órgãos",
-      "url": "https://healthnews.pt/2026/11/16/distrofia-muscular-lama2-estudo-deteta-alteracoes-precoces-noutros-orgaos/",
+      "title": "Associação pede prudência nas decisões sobre medicamentos para obesidade",
+      "url": "https://www.rtp.pt/noticias/pais/associacao-pede-prudencia-nas-decisoes-sobre-medicamentos-para-obesidade_n1779465",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-16T15:50:30Z",
+      "description": "A UMG-Associação de Utentes de Medicamentos Genéricos pediu hoje prudência nas decisões públicas de financiamento dos medicamentos injetáveis usados para a obesidade e diabetes, insistindo na necessidade de recurso a licenças obrigatórias antes de se comparticipar.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "A realidade do Serviço de Contracepção Oral nas Farmácias Comunitárias do Reino Unido",
+      "url": "https://healthnews.pt/2026/11/16/a-realidade-do-servico-de-contracepcao-oral-nas-farmacias-comunitarias-do-reino-unido/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-16T10:03:35Z",
-      "description": "Uma equipa da Faculdade de Ciências da Universidade de Lisboa identificou alterações celulares no coração, nos rins e no fígado de ratinhos com deficiência de laminina-α2, associada a uma forma rara de distrofia muscular congénita. Detetadas durante o desenvolvimento fetal, as alterações sugerem que os efeitos da ausência desta proteína podem atingir vários órgãos desde as…",
+      "publishedAt": "2026-11-16T14:46:38Z",
+      "description": "Maria Madalena de Oliveira Alves",
       "image": ""
     },
     {
-      "title": "Associação pede prudência no financiamento de fármacos para a obesidade",
-      "url": "https://healthnews.pt/2026/11/16/associacao-pede-prudencia-no-financiamento-de-farmacos-para-a-obesidade/",
+      "title": "Senior Medical School encerra em Oeiras com balanço de expansão e reconhecimento externo",
+      "url": "https://healthnews.pt/2026/11/16/senior-medical-school-encerra-em-oeiras-com-balanco-de-expansao-e-reconhecimento-externo/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-16T09:52:39Z",
-      "description": "A UMG — Associação de Utentes de Medicamentos Genéricos pediu, esta segunda-feira, prudência nas decisões públicas de financiamento dos medicamentos injetáveis utilizados no tratamento da obesidade e da diabetes, na sequência dos alertas sobre um possível risco de perda de visão. A associação reiterou o apelo ao Governo para que pondere o recurso a licenças obrigatórias antes…",
+      "publishedAt": "2026-11-16T11:49:34Z",
+      "description": "O programa comunitário da NOVA Medical School dedicado à capacitação de pessoas mais velhas para a gestão da saúde e das doenças crónicas conclui mais uma edição descentralizada no concelho de Oeiras, depois de um ano em que chegou à Madeira e viu o seu modelo distinguido no estrangeiro",
       "image": ""
     },
     {
-      "title": "Resistência aos antibióticos: OMS alerta para falhas no diagnóstico",
-      "url": "https://healthnews.pt/2026/11/16/resistencia-aos-antibioticos-oms-alerta-para-falhas-no-diagnostico/",
+      "title": "Oito em cada dez trabalhadores enfrentaram conflitos no último ano",
+      "url": "https://healthnews.pt/2026/11/16/oito-em-cada-dez-trabalhadores-enfrentaram-conflitos-no-ultimo-ano/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-16T09:48:16Z",
-      "description": "A Organização Mundial da Saúde (OMS) defende o reforço da prevenção de infeções, do acesso ao diagnóstico e do uso adequado de antibióticos para travar a resistência aos antimicrobianos, que compromete a eficácia dos tratamentos e ameaça a capacidade de resposta dos sistemas de saúde.",
+      "publishedAt": "2026-11-16T11:34:30Z",
+      "description": "Estudo do Fórum de Ética da Católica Porto SBE revela que 95% consideram que conflitos não resolvidos prejudicam o bem-estar e que quase metade nunca recebeu formação nesta área; resultados são apresentados a 19 de novembro numa conferência com José Luis Fernández Fernández",
+      "image": ""
+    },
+    {
+      "title": "Susana Ganhão-Arranhado integra bolsa de peritos da Comissão Europeia",
+      "url": "https://healthnews.pt/2026/11/16/susana-ganhao-arranhado-integra-bolsa-de-peritos-da-comissao-europeia/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-16T11:27:48Z",
+      "description": "A coordenadora da Licenciatura em Ciências da Nutrição da Atlântica – Instituto Universitário passará a avaliar candidaturas a financiamento europeu e a acompanhar projetos financiados pela União Europeia, no âmbito da sua especialidade em nutrição clínica, gerontologia e geriatria",
       "image": ""
     },
     {
@@ -38,40 +78,8 @@
       "url": "https://www.rtp.pt/noticias/pais/explosao-caldas-da-rainha-mulher-transportada-de-helicoptero-para-as-urgencias-do-hospital-santa-maria_n1779463",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-16T09:36:03Z",
-      "description": "O rebentamento causou o desabamento parcial da estrutura da casa e deixou uma mulher soterrada nos escombros.",
+      "description": "Quando chegaram ao local, os bombeiros sentiram um cheiro intenso a gás.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f6c2082344f294f9f67dcf5433af83a?w=350&q=50&rect=0,151,1500,822&auto=format"
-    },
-    {
-      "title": "Médico sem avaliação ganha ação sobre direitos na carreira",
-      "url": "https://healthnews.pt/2026/11/16/medico-sem-avaliacao-ganha-acao-sobre-direitos-na-carreira/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-16T08:27:53Z",
-      "description": "O Tribunal Administrativo e Fiscal de Loulé reconheceu a um médico o direito à atribuição de nove pontos relativos aos anos de 2004 a 2012, durante os quais não foi avaliado, e determinou a avaliação por ponderação curricular do período entre 2013 e 2017, segundo informação divulgada pelo Sindicato dos Médicos da Zona Sul (SMZS), da Federação Nacional dos Médicos (FNAM).",
-      "image": ""
-    },
-    {
-      "title": "Quanto vale a saúde para a economia? António Costa Silva abre o debate na entrega das Bolsas Mais Valor em Saúde",
-      "url": "https://healthnews.pt/2026/11/16/quanto-vale-a-saude-para-a-economia-antonio-costa-silva-abre-o-debate-na-entrega-das-bolsas-mais-valor-em-saude/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-16T08:03:37Z",
-      "description": "Economistas, reguladores e investigadores sentam-se à mesma mesa a 17 de novembro para discutir se a saúde é apenas uma despesa ou um dos motores do crescimento do país. O debate antecede o anúncio dos quatro projetos do SNS distinguidos na 5.ª edição do Programa Mais Valor em Saúde – Vidas que Valem.",
-      "image": ""
-    },
-    {
-      "title": "Custos da formação pressionam contas da Escola Nacional de Bombeiros",
-      "url": "https://healthnews.pt/2026/11/16/custos-da-formacao-pressionam-contas-da-escola-nacional-de-bombeiros/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-16T06:32:13Z",
-      "description": "A Escola Nacional de Bombeiros (ENB) enfrenta dificuldades para pagar aos formadores externos, num ano em que aumentou a formação destinada a bombeiros e outros agentes da proteção civil, incluindo na área da emergência pré-hospitalar.",
-      "image": ""
-    },
-    {
-      "title": "Mulheres em Nampula enfrentam anos de dor e dificuldades no acesso a cuidados",
-      "url": "https://healthnews.pt/2026/11/16/mulheres-em-nampula-enfrentam-anos-de-dor-e-dificuldades-no-acesso-a-cuidados/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-16T05:40:25Z",
-      "description": "Josefina João Batista e Elisa António convivem há anos com dores que lhes limitam os movimentos, dificultam o trabalho e comprometem o quotidiano, sem terem, segundo relatam, uma explicação para os sintomas. No norte de Moçambique, procuraram uma nova avaliação numa caravana de saúde que passou pelo posto administrativo de Namialo, no distrito de Meconta, província de Nampula.",
-      "image": ""
     },
     {
       "title": "Médicos de Família em Bragança. Cobertura de 100% aos mais de 126 mil utentes da ULS Nordeste",
@@ -88,112 +96,104 @@
       "publishedAt": "2026-11-15T20:59:47Z",
       "description": "A Inspeção-Geral das Atividades em Saúde recuou e deu luz verde ao pagamento de 179 mil euros a Eurico Castro Alves, coordenador do Plano de Emergência para a Saúde.",
       "image": "https://cdn-images.rtp.pt/icm/images/6f/6f4fc48fcd9583a48611a55d23ac9278_N.jpg?"
-    },
-    {
-      "title": "Residência em Castro Marim é a primeira a sul para doenças neurodegenerativas",
-      "url": "https://www.rtp.pt/noticias/pais/residencia-em-castro-marim-e-a-primeira-a-sul-para-doencas-neurodegenerativas_v1779318",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T13:56:47Z",
-      "description": "A residência José Cabrita, em Castro Marim, é a primeira instituição no sul do país exclusivamente dedicada ao tratamento de doenças neurodegenerativas, como demência e Alzheimer.",
-      "image": "https://cdn-images.rtp.pt/icm/images/b7/b77bfe8346e3e2bd91735d5f76473a96_N.jpg?"
     }
   ],
   "world": [
     {
-      "title": "Austrália: milhões de caranguejos vermelhos iniciam migração anual na ilha Christmas",
-      "url": "https://pt.euronews.com/video/2026/11/16/australia-milhoes-de-caranguejos-vermelhos-iniciam-migracao-anual-na-ilha-christmas",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T11:19:39Z",
-      "description": "Milhões de caranguejos-vermelhos iniciaram a migração anual das florestas da Ilha do Natal para a costa, atravessando estradas e pontes especiais para chegar ao mar e reproduzir-se",
-      "image": "https://images.euronews.com/articles/stories/09/99/39/74/1200x675_cmsv2_753647f7-2147-5c44-8101-2f10ab521dad-9993974.jpg"
-    },
-    {
-      "title": "Estarão as famílias europeias preparadas para uma crise? Participe na nossa sondagem",
-      "url": "https://pt.euronews.com/2026/11/16/estarao-as-familias-europeias-preparadas-para-uma-crise-participe-na-nossa-sondagem",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T11:12:51Z",
-      "description": "A UE está a pedir aos cidadãos que sejam mais autónomos em caso de crise. A Comissão Europeia aconselha agregados familiares a abastecerem-se de bens de emergência para pelo menos 72 horas.",
-      "image": "https://images.euronews.com/articles/stories/09/99/19/25/1200x675_cmsv2_63a9dbd2-c0d8-510e-a97e-4c0889647127-9991925.jpg"
-    },
-    {
-      "title": "Israel: líderes da oposição denunciam Netanyahu por “tentativa de golpe”",
-      "url": "https://pt.euronews.com/2026/11/16/israel-lideres-da-oposicao-denunciam-netanyahu-por-tentativa-de-golpe",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T10:59:10Z",
-      "description": "Principal rival de Netanyahu, o antigo chefe do Estado-Maior Gadi Eisenkot escreveu, no domingo, que o primeiro-ministro interino “não pode manter-se à frente do governo por mais um minuto”.",
-      "image": "https://images.euronews.com/articles/stories/09/99/39/15/1200x675_cmsv2_9ee94799-8dd1-5d63-9fec-8904a610fa79-9993915.jpg"
-    },
-    {
-      "title": "França: Gerard Depardieu desiste de recurso contra condenação por agressão sexual",
-      "url": "https://pt.euronews.com/2026/11/16/franca-gerard-depardieu-desiste-de-recurso-contra-condenacao-por-agressao-sexual",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T10:57:28Z",
-      "description": "Depardieu, que participou em mais de 200 filmes e séries de televisão, é a figura de maior destaque apanhada na resposta de França ao movimento #MeToo.",
-      "image": "https://images.euronews.com/articles/stories/09/99/41/96/1200x675_cmsv2_a0cf082e-3b9e-54b9-b187-e91cb87aee48-9994196.jpg"
-    },
-    {
-      "title": "Cada vez menos estudantes do estrangeiro vão estudar para universidades dos EUA",
-      "url": "https://pt.euronews.com/2026/11/16/cada-vez-menos-estudantes-do-estrangeiro-vao-estudar-para-universidades-dos-eua",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T10:55:57Z",
-      "description": "Segundo um inquérito do Institute of International Education, as universidades dos EUA registaram neste outono uma queda de 9% nas matrículas internacionais.",
-      "image": "https://images.euronews.com/articles/stories/09/99/40/72/1200x675_cmsv2_c5bb7e2f-1bf3-577d-b23a-e1c4580687be-9994072.jpg"
-    },
-    {
-      "title": "\"Vão vencer a guerra\". Ucrânia recebe visita surpresa do príncipe Harry",
-      "url": "https://pt.euronews.com/2026/11/16/vao-vencer-a-guerra-ucrania-recebe-visita-surpresa-do-principe-harry",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T10:50:20Z",
-      "description": "Membro da família real britânica subiu ao palco numa conferência para médicos, organizada pela Superhumans, clínica especializada na reabilitação de militares feridos.",
-      "image": "https://images.euronews.com/articles/stories/09/99/39/77/1200x675_cmsv2_7420305b-05ef-54c1-bdf1-02bb6d9121e8-9993977.jpg"
-    },
-    {
-      "title": "Huang estará a ponderar regresso como CEO da Nvidia após demissão",
-      "url": "https://www.rtp.pt/noticias/mundo/huang-estara-a-ponderar-regresso-como-ceo-da-nvidia-apos-demissao_n1779470",
+      "title": "Presidenciais em Cabo Verde. José Maria Neves reeleito com 64% dos votos",
+      "url": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-jose-maria-neves-reeleito-com-64-dos-votos_v1779629",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T10:16:31Z",
-      "description": "Apenas alguns dias após a sua demissão, Jensen Huang estará a ponderar um regresso como diretor executivo da Nvidia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f51142fe58f0d5364071fa8a9ed248c3.jpg?w=350&q=75_&auto=format&q=50"
+      "publishedAt": "2026-11-16T21:49:47Z",
+      "description": "José Maria Neves foi reeleito Presidente da República de Cabo Verde com 64% dos votos.",
+      "image": "https://cdn-images.rtp.pt/icm/images/48/489628bbf003a37b28a4a99043694304_N.jpg?"
     },
     {
-      "title": "União Europeia acrescenta mais 113 novos nomes às sanções russas",
-      "url": "https://www.rtp.pt/noticias/mundo/uniao-europeia-acrescenta-mais-113-novos-nomes-as-sancoes-russas_n1779467",
+      "title": "Protestos em França. Orquestra do Novo Mundo atua nas manifestações",
+      "url": "https://www.rtp.pt/noticias/mundo/protestos-em-franca-orquestra-do-novo-mundo-atua-nas-manifestacoes_v1779623",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T09:59:45Z",
-      "description": "A União Europeia confirma novas sanções à Rússia, na reunião do Conselho de Negócios Estrangeiros que começou esta segunda-feira em Bruxelas. Uma reunião onde se vai debater a criação de um novo pacote de ajuda à Ucrânia, na preparação da Ucrânia para a guerra durante este inverno.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9a447f43b2f5b92d0db0abc533fc4651?w=350&q=50&rect=0,18,1024,561&auto=format"
+      "publishedAt": "2026-11-16T21:39:47Z",
+      "description": "A cinco meses das eleições presidenciais França prepara-se para a segunda greve convocada pelas duas centrais sindicais em apenas 12 dias.",
+      "image": "https://cdn-images.rtp.pt/icm/images/43/431cddcb26bff30b2eed809551e3a0db_N.jpg?"
     },
     {
-      "title": "Leão XIV contra a desflorestação amazónica e consequente abandono das comunidades indígenas",
-      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-contra-a-desflorestacao-amazonica-e-consequente-abandono-das-comunidades-indigenas_n1779444",
+      "title": "Trump, Putin e Xi reúnem-se na quinta-feira",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-putin-e-xi-reunem-se-na-quinta-feira_v1779622",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T08:13:38Z",
-      "description": "O papa esteve ontem ao fim do dia em Pucallpa - no coração da Amazónia peruana - onde denunciou as ameaças à floresta tropical e o abandono das comunidades indígenas. Leão XIV apela à defesa dos mais vulneráveis.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/03/03b4c12b49b05283c3bf3d99c59f4203?w=350&q=50&rect=0,115,1024,561&auto=format"
+      "publishedAt": "2026-11-16T21:36:47Z",
+      "description": "Donald Trump, Putin e Xi Jinping preparam-se para um encontro histórico esta semana na China.",
+      "image": "https://cdn-images.rtp.pt/icm/images/29/2912d70bbed8d873ca789597fd89da6e_N.jpg?"
     },
     {
-      "title": "Resistência ao fim dos combustíveis fósseis é a pedra na engrenagem na COP 31",
-      "url": "https://www.rtp.pt/noticias/mundo/resistencia-ao-fim-dos-combustiveis-fosseis-e-a-pedra-na-engrenagem-na-cop-31_n1779438",
+      "title": "Negociações de paz. Ministros europeus reforçam sanções",
+      "url": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-ministros-europeus-reforcam-sancoes_v1779621",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T08:01:34Z",
-      "description": "A Conferencia do Clima das Nações Unidas, na Turquia entra hoje na semana decisiva. Uma conferência onde negociadores tentam ultrapassar as principais divergências que bloqueiam um acordo final.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b60d5af4697ee10d67c29f7e3194880?w=350&q=50&rect=0,376,4978,2729&auto=format"
+      "publishedAt": "2026-11-16T21:31:47Z",
+      "description": "O Kremlin nega ter aceite a participação europeia nas negociações de paz para a Ucrânia tal como foi avançado pelos Estados Unidos",
+      "image": "https://cdn-images.rtp.pt/icm/images/3f/3f9820c9a1d4abfe1d4fb0c7d300bae7_N.jpg?"
     },
     {
-      "title": "Reeleição de José Maria Neves marcada pela abstenção",
-      "url": "https://www.rtp.pt/noticias/mundo/reeleicao-de-jose-maria-neves-marcada-pela-abstencao_n1779433",
+      "title": "\"A conversa não foi fácil\". Europeus, ucranianos e norte-americanos preparam negociações com a Rússia",
+      "url": "https://www.rtp.pt/noticias/mundo/a-conversa-nao-foi-facil-europeus-ucranianos-e-norte-americanos-preparam-negociacoes_n1779607",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T07:49:39Z",
-      "description": "José Maria Neves foi reeleito Presidente de Cabo Verde com mais de 63 por cento dos votos.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5dba3e2718966d668ef5cb1740edf11?w=350&q=50&rect=0,85,1500,822&auto=format"
+      "publishedAt": "2026-11-16T21:09:22Z",
+      "description": "\"A conversa não foi fácil, mas houve um resultado\", admitiu Volodymyr Zelensky, ao abordar a entrada de negociadores europeus nos preparativos para futuras negociações com a Rússia de Vladimir Putin.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6bbc2627df29d3c2381e812d87e139e?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
-      "title": "Rússia abate 1.336 drones ucranianos num dos maiores ataques da guerra",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/russia-abate-1-336-drones-ucranianos-num-dos-maiores-ataques-da-guerra_n1779418",
+      "title": "Em 48 horas, chegaram 2800 migrantes às Canárias",
+      "url": "https://www.rtp.pt/noticias/mundo/em-48-horas-chegaram-2800-migrantes-as-canarias_v1779611",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T07:25:37Z",
-      "description": "As defesas antiaéreas russas abateram esta noite 1.336 drones num dos maiores ataques ucranianos de toda a guerra contra o território do país vizinho, segundo informou hoje o Ministério da Defesa da Rússia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/41/4125050e0e31ee0272f34daa2b9d8c04?w=350&q=50&rect=0,15,1024,561&auto=format"
+      "publishedAt": "2026-11-16T21:02:47Z",
+      "description": "Em apenas duas semanas, chegaram às Canárias, em Espanha, nove mil pessoas oriundas da África subsariana. Os migrantes partiram, sobretudo, de países como a Gâmbia e o Senegal. <br /><br />No terreno, os serviços de ajuda humanitária entraram em colapso e Madrid já pediu ajuda à União Europeia. <br />",
+      "image": "https://cdn-images.rtp.pt/icm/images/c7/c7d8feb0bb50d4d6a2467a41acf2f3cf_N.jpg?"
+    },
+    {
+      "title": "Sérvia: Lista de Estudantes promete acelerar reformas para adesão à UE",
+      "url": "https://pt.euronews.com/2026/11/16/servia-lista-de-estudantes-promete-acelerar-reformas-para-adesao-a-ue",
+      "source": "Euronews",
+      "publishedAt": "2026-11-16T19:40:41Z",
+      "description": "Lista Estudantil da Sérvia promete acelerar reformas do Estado de direito necessárias à adesão à UE, afirma o deputado Aleksandar Baucal na primeira apresentação internacional do movimento",
+      "image": "https://images.euronews.com/articles/stories/09/99/47/78/1200x675_cmsv2_adc60a29-9262-518a-a5c9-8c9fa7fbc815-9994778.jpg"
+    },
+    {
+      "title": "China: Trump admite que pode reunir-se com Kim Jong-un esta semana",
+      "url": "https://pt.euronews.com/2026/11/16/china-trump-admite-que-pode-reunir-se-com-kim-jong-un-esta-semana",
+      "source": "Euronews",
+      "publishedAt": "2026-11-16T19:21:54Z",
+      "description": "Trump tenciona discutir o desarmamento nuclear quando se reunir esta semana em Shenzhen, na China, com o presidente russo Vladimir Putin e o presidente chinês Xi Jinping.",
+      "image": "https://images.euronews.com/articles/stories/09/99/47/85/1200x675_cmsv2_cd76b49a-e5e1-5304-9d6b-20bd2d6d7f62-9994785.jpg"
+    },
+    {
+      "title": "França: Marine Le Pen quer manter apoio à Ucrânia, mas sem nova ajuda financeira",
+      "url": "https://pt.euronews.com/2026/11/16/franca-marine-le-pen-quer-manter-apoio-a-ucrania-mas-sem-nova-ajuda-financeira",
+      "source": "Euronews",
+      "publishedAt": "2026-11-16T19:14:23Z",
+      "description": "Após se reunir com o embaixador ucraniano em Paris, Marine Le Pen confirmou que França deixaria de financiar Kiev se chegasse ao Eliseu em 2027, mas afirma querer respeitar os compromissos já assumidos por Paris e pela UE.",
+      "image": "https://images.euronews.com/articles/stories/09/99/50/02/1200x675_cmsv2_8debd5bd-0578-5799-8a17-696061c47a03-9995002.jpg"
+    },
+    {
+      "title": "Europa debate preparação contra ameaças híbridas e alargamento da UE",
+      "url": "https://pt.euronews.com/2026/11/16/europa-debate-preparacao-contra-ameacas-hibridas-e-alargamento-da-ue",
+      "source": "Euronews",
+      "publishedAt": "2026-11-16T17:41:59Z",
+      "description": "Num cenário de desinformação, ciberataques e falsas ameaças de bomba, países e grupos hostis testam fragilidades da Europa. Estará a Europa preparada, ou sequer capaz, de se defender?",
+      "image": "https://images.euronews.com/articles/stories/09/99/00/97/1200x675_cmsv2_46015a41-17a5-55f8-8bd6-c7c50b5c8d6f-9990097.jpg"
+    },
+    {
+      "title": "Philippe Diallo candidata-se contra Infantino à presidência da FIFA",
+      "url": "https://pt.euronews.com/2026/11/16/philippe-diallo-candidata-se-contra-infantino-a-presidencia-da-fifa",
+      "source": "Euronews",
+      "publishedAt": "2026-11-16T17:24:05Z",
+      "description": "A próxima eleição presidencial da FIFA está prevista para o 77.º Congresso da FIFA, em Rabat, Marrocos, na quinta-feira, 18 de março de 2027.",
+      "image": "https://images.euronews.com/articles/stories/09/99/49/74/1200x675_cmsv2_8918b60b-7f12-5279-b5bd-dc822c67ce4b-9994974.jpg"
+    },
+    {
+      "title": "Ruanda: cinco países da União Europeia avançam com centros de deportação",
+      "url": "https://pt.euronews.com/2026/11/16/ruanda-cinco-paises-da-uniao-europeia-avancam-com-centros-de-deportacao",
+      "source": "Euronews",
+      "publishedAt": "2026-11-16T17:03:44Z",
+      "description": "Cinco países da UE anunciam centros de deportação para o Ruanda até meados de 2027; Hadja Lahbib alerta que a Rússia usa o inverno na Ucrânia, ministro lituano Kęstutis Budrys rejeita conversações com Moscovo antes de um cessar-fogo e Robert Pattinson é revelado como o próximo James Bond",
+      "image": "https://images.euronews.com/articles/stories/09/98/93/19/1200x675_cmsv2_4e932514-243b-5a02-a853-e3f7195d04b1-9989319.jpg"
     }
   ]
 }
