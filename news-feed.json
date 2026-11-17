@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:05:04.777237Z",
+  "updatedAt": "2026-11-17T04:29:44.055767Z",
   "health": [
     {
       "title": "A recuperação após um AVC não termina quando o doente sai do hospital",
@@ -100,6 +100,38 @@
   ],
   "world": [
     {
+      "title": "Brasil recebe 7,59 milhões de turistas estrangeiros até outubro e supera meta anual",
+      "url": "https://www.rtp.pt/noticias/economia/brasil-recebe-7-59-milhoes-de-turistas-estrangeiros-ate-outubro-e-supera-meta-anual_n1779604",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-16T22:43:29Z",
+      "description": "O Brasil recebeu 7,594 milhões de turistas internacionais entre janeiro e outubro, superando em 1,3% a meta estabelecida para todo o ano de 2026, de 7,5 milhões de visitantes, informou hoje o Ministério do Turismo brasileiro.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a01eed08a0b42f2437fc773e7f7ff3ce?w=350&q=50&rect=0,90,1500,822&auto=format"
+    },
+    {
+      "title": "Centros de dados de IA são um \"grande perigo\" ambiental, avisa ONU",
+      "url": "https://www.rtp.pt/noticias/mundo/centros-de-dados-de-ia-sao-um-grande-perigo-ambiental-avisa-onu_n1779628",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-16T22:32:45Z",
+      "description": "No lançamento de uma iniciativa para regulamentar o desenvolvimento da inteligência artificial na COP31, na Turquia, Simon Stiell alertou para os riscos ambientais da sua utilização. Tem \"potencial\", mas é um \"grande perigo\" para o consumo mundial de água e energia, avisou o responsável da ONU para o Clima.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/30/303e80a8258f71b23ffc5e78f3678626?w=350&q=50&rect=0,0,4000,2958&auto=format"
+    },
+    {
+      "title": "Forças israelitas usaram centro de dados da Amazon para armazenar imagens de palestinianos",
+      "url": "https://www.rtp.pt/noticias/mundo/forcas-israelitas-usaram-centro-de-dados-da-amazon-para-armazenar-imagens-de-palestinianos_n1779645",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-16T22:23:25Z",
+      "description": "Investigação divulgada pelo jornal The Guardian mostra que uma empresa ligada ao exército israelita usou a plataforma fundada por Jeff Bezos para transferir milhões de imagens confidenciais para uma ferramenta de reconhecimento facial.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/67/67101aac53831dc7721de4f9e6bba662?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "\"Não é a solução\". Sánchez critica plano europeu de deportar migrantes para o Ruanda",
+      "url": "https://www.rtp.pt/noticias/mundo/nao-e-a-solucao-sanchez-critica-plano-europeu-de-deportar-migrantes-para-o-ruanda_n1779632",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-16T22:05:26Z",
+      "description": "O primeiro-ministro espanhol, Pedro Sánchez, rejeitou categoricamente o polémico projeto de cinco países europeus que consiste em criar um centro de deportação de migrantes no Ruanda.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ab/ab22d4515f84f9e21c3a1a55dcd9da85.jpg?w=350&q=50&auto=format"
+    },
+    {
       "title": "Presidenciais em Cabo Verde. José Maria Neves reeleito com 64% dos votos",
       "url": "https://www.rtp.pt/noticias/mundo/presidenciais-em-cabo-verde-jose-maria-neves-reeleito-com-64-dos-votos_v1779629",
       "source": "RTP Notícias",
@@ -113,39 +145,7 @@
       "source": "RTP Notícias",
       "publishedAt": "2026-11-16T21:39:47Z",
       "description": "A cinco meses das eleições presidenciais França prepara-se para a segunda greve convocada pelas duas centrais sindicais em apenas 12 dias.",
-      "image": "https://cdn-images.rtp.pt/icm/images/43/431cddcb26bff30b2eed809551e3a0db_N.jpg?"
-    },
-    {
-      "title": "Trump, Putin e Xi reúnem-se na quinta-feira",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-putin-e-xi-reunem-se-na-quinta-feira_v1779622",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T21:36:47Z",
-      "description": "Donald Trump, Putin e Xi Jinping preparam-se para um encontro histórico esta semana na China.",
-      "image": "https://cdn-images.rtp.pt/icm/images/29/2912d70bbed8d873ca789597fd89da6e_N.jpg?"
-    },
-    {
-      "title": "Negociações de paz. Ministros europeus reforçam sanções",
-      "url": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-ministros-europeus-reforcam-sancoes_v1779621",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T21:31:47Z",
-      "description": "O Kremlin nega ter aceite a participação europeia nas negociações de paz para a Ucrânia tal como foi avançado pelos Estados Unidos",
-      "image": "https://cdn-images.rtp.pt/icm/images/3f/3f9820c9a1d4abfe1d4fb0c7d300bae7_N.jpg?"
-    },
-    {
-      "title": "\"A conversa não foi fácil\". Europeus, ucranianos e norte-americanos preparam negociações com a Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/a-conversa-nao-foi-facil-europeus-ucranianos-e-norte-americanos-preparam-negociacoes_n1779607",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T21:09:22Z",
-      "description": "\"A conversa não foi fácil, mas houve um resultado\", admitiu Volodymyr Zelensky, ao abordar a entrada de negociadores europeus nos preparativos para futuras negociações com a Rússia de Vladimir Putin.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6bbc2627df29d3c2381e812d87e139e?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Em 48 horas, chegaram 2800 migrantes às Canárias",
-      "url": "https://www.rtp.pt/noticias/mundo/em-48-horas-chegaram-2800-migrantes-as-canarias_v1779611",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T21:02:47Z",
-      "description": "Em apenas duas semanas, chegaram às Canárias, em Espanha, nove mil pessoas oriundas da África subsariana. Os migrantes partiram, sobretudo, de países como a Gâmbia e o Senegal. <br /><br />No terreno, os serviços de ajuda humanitária entraram em colapso e Madrid já pediu ajuda à União Europeia. <br />",
-      "image": "https://cdn-images.rtp.pt/icm/images/c7/c7d8feb0bb50d4d6a2467a41acf2f3cf_N.jpg?"
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf5da722b35bc2f3548a56bbd4736577?w=350&q=50&rect=0,0,6000,3289&auto=format"
     },
     {
       "title": "Sérvia: Lista de Estudantes promete acelerar reformas para adesão à UE",
