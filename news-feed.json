@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-11-18T14:00:56.611911Z",
+  "updatedAt": "2026-11-18T21:58:01.189439Z",
   "health": [
+    {
+      "title": "Correia de Campos acusa a ministra da Saúde de \"substituição por varrimento\". Antigo ministro fala de \"varrer pessoas que tinham boas provas e substituí-las pela aventura\"",
+      "url": "https://www.rtp.pt/noticias/pais/correia-de-campos-acusa-a-ministra-da-saude-de-substituicao-por-varrimento-antigo-ministro-fala-de-varrer-pessoas-que-tinham-boas-provas-e-substitui-las-pela-aventura_a1779966",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-18T17:06:30Z",
+      "description": "Correia de Campos não tem dúvidas de que \"o problema é que o critério de escolha parece ter sido exclusivamente a escolha político-partidária em detrimento da competência técnica\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/28/2813e213cae01980cd62419512ad76dd?w=350&q=50&rect=0,579,1200,658&auto=format"
+    },
+    {
+      "title": "Plano de inverno: ministério da Saúde garante que está \"em operação\". Especialistas têm dúvidas",
+      "url": "https://www.rtp.pt/noticias/pais/plano-de-inverno-ministerio-da-saude-garante-que-esta-em-operacao-especialistas-tem-duvidas_a1780008",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-18T16:30:46Z",
+      "description": "O secretário de Estado da Gestão da Saúde adiantou na Antena 1 que o Plano de Inverno \"já está em operação\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e09331026c47a60dc01a6bb80aba62cc?w=350&q=50&rect=0,199,1600,877&auto=format"
+    },
+    {
+      "title": "Doença Pulmonar. Crises agudas custam 11 milhões",
+      "url": "https://www.rtp.pt/noticias/pais/doenca-pulmonar-crises-agudas-custam-11-milhoes_v1780002",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-18T14:56:48Z",
+      "description": "Por cada seis meses, Portugal gasta 11 milhões de euros a gerir as crises agudas da Doeça Pulmonar Obstrutiva Crónica.",
+      "image": "https://cdn-images.rtp.pt/icm/images/79/79c212de7e3daeed538cf7d8615deb47_N.jpg?"
+    },
     {
       "title": "Chove na Unidade de Saúde de Modivas",
       "url": "https://www.rtp.pt/noticias/pais/chove-na-unidade-de-saude-de-modivas_v1779982",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-18T13:50:47Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "description": "A denúncia é do Sindicato dos Médicos do Norte que acusa o ministério da saúde de não fazer nada e deixar que as infraestruturas se degradem.",
+      "image": "https://cdn-images.rtp.pt/icm/images/93/93b54dfa0ac1dacebfc0f8320ad74c78_N.jpg?"
     },
     {
       "title": "Adalberto Campos Fernandes: “A indústria farmacêutica não deve ser vista apenas como um setor económico. Deve ser considerada um ativo estratégico nacional”",
@@ -72,128 +96,104 @@
       "publishedAt": "2026-11-18T09:17:13Z",
       "description": "Febre, tosse ou dor de garganta não significam, por si só, que uma criança precise de antibióticos, alertou hoje a Direção-Geral da Saúde (DGS), assinalando o Dia Europeu dos Antibióticos. A maioria das infeções respiratórias na infância é causada por vírus, contra os quais estes medicamentos não são eficazes.",
       "image": ""
-    },
-    {
-      "title": "Sobrelotação e falhas no controlo de infeções favorecem bactérias resistentes",
-      "url": "https://healthnews.pt/2026/11/18/sobrelotacao-e-falhas-no-controlo-de-infecoes-favorecem-bacterias-resistentes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-18T09:02:31Z",
-      "description": "Sobrelotação, vulnerabilidade dos doentes e falhas na prevenção e controlo de infeções nos serviços de saúde podem favorecer a transmissão de bactérias resistentes. A Direção-Geral da Saúde (DGS) alerta que, para travar este fenómeno, não basta reduzir o consumo de antibióticos: é também necessário garantir que estes medicamentos são prescritos de forma adequada e prevenir a…",
-      "image": ""
-    },
-    {
-      "title": "Bolsas Mais Valor em Saúde para quatro Unidades Locais de Saúde do SNS",
-      "url": "https://www.rtp.pt/noticias/pais/bolsas-mais-valor-em-saude-para-quatro-unidades-locais-de-saude-do-sns_n1779672",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T06:25:57Z",
-      "description": "As Unidades Locais de Saúde Santo António, Entre Douro e Vouga, Loures-Odivelas e Viseu Dão-Lafões são as vencedoras da 5.ªedição das Bolsas Mais Valor em Saúde, que apoiam projetos em hospitais do Serviço Nacional de Saúde.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Associação pede prudência nas decisões sobre medicamentos para obesidade",
-      "url": "https://www.rtp.pt/noticias/pais/associacao-pede-prudencia-nas-decisoes-sobre-medicamentos-para-obesidade_n1779465",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T15:50:30Z",
-      "description": "A UMG-Associação de Utentes de Medicamentos Genéricos pediu hoje prudência nas decisões públicas de financiamento dos medicamentos injetáveis usados para a obesidade e diabetes, insistindo na necessidade de recurso a licenças obrigatórias antes de se comparticipar.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Bruxelas cria Serviço de Sanções da UE supervisionado por comissária portuguesa",
-      "url": "https://www.rtp.pt/noticias/mundo/bruxelas-cria-servico-de-sancoes-da-ue-supervisionado-por-comissaria-portuguesa_n1779964",
+      "title": "COP31 marca passo. Voz do Panamá alerta para mundo \"refém da máfia do petróleo\"",
+      "url": "https://www.rtp.pt/noticias/mundo/cop31-marca-passo-voz-do-panama-alerta-para-mundo-refem-da-mafia-do-petroleo_n1780099",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T13:37:46Z",
-      "description": "A Comissão Europeia anunciou hoje a criação de um Serviço de Sanções da União Europeia (UE) para reforçar a coordenação, aplicação e fiscalização das medidas restritivas comunitárias, que ficará sob responsabilidade política da comissária portuguesa Maria Luís Albuquerque.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/30/30326693236294854c6ed53cccb04deb.webp?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-18T21:30:52Z",
+      "description": "”Vejam estes encantadores países produtores de petróleo. São tão generosos, exceto que não contribuem com um único cêntimo”. As palavras são do ministro panamiano do Ambiente, Juan Carlos Navarro.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f4b61b2b12b9641e66a6d7b17ebabdf4?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
-      "title": "Ucrânia: Zelenskyy propõe 10 novas evacuações humanitárias em Kherson e Zaporíjia",
-      "url": "https://pt.euronews.com/2026/11/18/ucrania-zelenskyy-propoe-10-novas-evacuacoes-humanitarias-em-kherson-e-zaporijia",
-      "source": "Euronews",
-      "publishedAt": "2026-11-18T13:30:57Z",
-      "description": "Zelenskyy não revelou os nomes das 10 localidades e afirmou que a delegação da Ucrânia iria apresentar o plano aos mediadores norte-americanos, enquanto Putin sugeriu, por outro lado, uma operação semelhante em Kostiantynivka, que, segundo a Ucrânia, não está sob controlo da Rússia.",
-      "image": "https://images.euronews.com/articles/stories/09/99/74/20/1200x675_cmsv2_16996bdf-4894-593a-aa10-eb2f64e419ae-9997420.jpg"
-    },
-    {
-      "title": "Trump recebido por Xi Jinping",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-recebido-por-xi-jinping_v1779973",
+      "title": "Leão XIV assinalou os 400 anos da Basílica de São Pedro",
+      "url": "https://www.rtp.pt/noticias/mundo/leao-xiv-assinalou-os-400-anos-da-basilica-de-sao-pedro_v1780095",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T13:28:48Z",
-      "description": "O presidente dos EUA vai participar numa reunião que junta Putin e o presidente chinês.",
-      "image": "https://cdn-images.rtp.pt/icm/images/e0/e04ed0ab8fb8949b1f2c2142912fb5e7_N.jpg?"
+      "publishedAt": "2026-11-18T21:08:47Z",
+      "description": "Leão XIV pediu uma igreja comprometida na resposta aos conflitos e à pobreza.",
+      "image": "https://cdn-images.rtp.pt/icm/images/db/db083032663b6fec9ed7c7f4aa92652f_N.jpg?"
     },
     {
-      "title": "UE prepara novas sanções contra a Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/ue-prepara-novas-sancoes-contra-a-russia_v1779971",
+      "title": "Portugal vai apoiar Ucrânia com um milhão de euros para a compra de geradores",
+      "url": "https://www.rtp.pt/noticias/mundo/portugal-vai-apoiar-ucrania-com-um-milhao-de-euros-para-a-compra-de-geradores_v1780093",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T13:23:48Z",
-      "description": "A confirmação foi feita por Ursula Von der Leyen que fala na importância de intensificar a pressão sobre Moscovo.",
-      "image": "https://cdn-images.rtp.pt/icm/images/c0/c0688307f4c4e82f65995cbe9abfd22a_N.jpg?"
+      "publishedAt": "2026-11-18T21:03:47Z",
+      "description": "Portugal vai ajudar a Ucrânia com um milhão de euros para comprar geradores.",
+      "image": "https://cdn-images.rtp.pt/icm/images/54/5449f38f0270cfe01abf3cc5833ab6b7_N.jpg?"
     },
     {
-      "title": "China: Trump chega a Shenzhen para cimeira trilateral histórica com Xi e Putin",
-      "url": "https://pt.euronews.com/2026/11/18/china-trump-chega-a-shenzhen-para-cimeira-trilateral-historica-com-xi-e-putin",
-      "source": "Euronews",
-      "publishedAt": "2026-11-18T13:17:13Z",
-      "description": "Xi recebe os homólogos dos EUA e da Rússia na cimeira da APEC, antes da primeira reunião trilateral. Defende comércio aberto, Putin critica sanções, Trump mostra esperança em pôr fim à guerra na Ucrânia.",
-      "image": "https://images.euronews.com/articles/stories/09/99/75/97/1200x675_cmsv2_396948d9-f99d-5e93-bc81-951f35521f4a-9997597.jpg"
-    },
-    {
-      "title": "China recebe primeiro aperto de mão entre Trump e Putin desde 2025 antes de cimeira com Xi",
-      "url": "https://pt.euronews.com/2026/11/18/china-recebe-primeiro-aperto-de-mao-entre-trump-e-putin-desde-2025-antes-de-cimeira-com-xi",
-      "source": "Euronews",
-      "publishedAt": "2026-11-18T13:15:17Z",
-      "description": "Donald Trump, Vladimir Putin e Xi Jinping preparam conversações históricas a três na China, reunindo pessoalmente os três líderes pela primeira vez.",
-      "image": "https://images.euronews.com/articles/stories/09/99/79/97/1200x675_cmsv2_4068fcdd-eaca-50d0-9f91-a0073b430b62-9997997.jpg"
-    },
-    {
-      "title": "Reino Unido e UE: rascunho da cimeira revela ambição e limites do Brexit",
-      "url": "https://pt.euronews.com/2026/11/18/reino-unido-e-ue-rascunho-da-cimeira-revela-ambicao-e-limites-do-brexit",
-      "source": "Euronews",
-      "publishedAt": "2026-11-18T13:04:02Z",
-      "description": "Uma década após o referendo do Brexit, Bruxelas e Londres preparam-se para aprofundar laços em comércio, defesa e energia, mas rascunhos de conclusões de cimeira vistos pela Euronews revelam divisões políticas persistentes",
-      "image": "https://images.euronews.com/articles/stories/09/99/76/82/1200x675_cmsv2_192886de-254a-5641-9cd8-192c1cf2f7ab-9997682.jpg"
-    },
-    {
-      "title": "Julio Iglesias investigado por alegados delitos sexuais contra duas ex-funcionárias",
-      "url": "https://pt.euronews.com/2026/11/18/julio-iglesias-investigado-por-alegados-delitos-sexuais-contra-duas-ex-funcionarias",
-      "source": "Euronews",
-      "publishedAt": "2026-11-18T13:01:35Z",
-      "description": "A Audiência Nacional aceitou a queixa de duas antigas funcionárias de Julio Iglesias por alegados crimes sexuais, ofensas e maus-tratos. O cantor deverá depor a 3 de fevereiro.",
-      "image": "https://images.euronews.com/articles/stories/09/99/78/27/1200x675_cmsv2_f19bfe81-d418-559f-9a58-8e475999bcd9-9997827.jpg"
-    },
-    {
-      "title": "Irão promete resposta militar mais dura se os EUA atacarem novamente",
-      "url": "https://pt.euronews.com/2026/11/18/irao-promete-resposta-militar-mais-dura-se-os-eua-atacarem-novamente",
-      "source": "Euronews",
-      "publishedAt": "2026-11-18T12:58:54Z",
-      "description": "Amir Hatami, chefe do Exército, afirmou que forças iranianas atacariam os EUA “juntamente com os seus apoiantes” onde estivessem baseados, enquanto o CENTCOM confirmava que o USS Theodore Roosevelt se juntara a dois outros porta-aviões na região.",
-      "image": "https://images.euronews.com/articles/stories/09/99/76/12/1200x675_cmsv2_255dce03-2fed-52fb-88b0-31bffe815d74-9997612.jpg"
-    },
-    {
-      "title": "Governo quer reduzir consumo de gasóleo e gasolina nos transportes",
-      "url": "https://www.rtp.pt/noticias/mundo/governo-quer-reduzir-consumo-de-gasoleo-e-gasolina-nos-transportes_n1779957",
+      "title": "Falhas tecnológicas nos EUA. Rubio afasta ciberataques",
+      "url": "https://www.rtp.pt/noticias/mundo/falhas-tecnologicas-nos-eua-rubio-afasta-ciberataques_v1780091",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T12:51:48Z",
-      "description": "O Governo quer reduzir o consumo de gasóleo e gasolina no transporte rodoviário e vai abrir em janeiro uma consulta pública sobre as medidas a adotar, afirmou hoje a ministra Ambiente e Energia, Maria da Graça Carvalho.",
+      "publishedAt": "2026-11-18T20:57:47Z",
+      "description": "Depois da Microsoft, da United Airlines e de vários bancos, foi a vez da Apple ter problemas de funcionamento.",
+      "image": "https://cdn-images.rtp.pt/icm/images/09/095b29e96c50569ecb85ff93534a54aa_N.jpg?"
+    },
+    {
+      "title": "Papa Leão XIV envia \"calorosa saudação\" a Seguro ao sobrevoar Portugal",
+      "url": "https://www.rtp.pt/noticias/mundo/papa-leao-xiv-envia-calorosa-saudacao-a-seguro-ao-sobrevoar-portugal_n1780068",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-18T20:45:14Z",
+      "description": "Lisboa, 18 nov 2026 (Lusa) -- O Papa Leão XIV enviou uma mensagem de \"calorosa saudação\" ao Presidente da República, António José Seguro, e aos portugueses, ao sobrevoar Portugal, no regresso da América do Sul.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "UE propõe novo empréstimo de 45 mil milhões de euros à Ucrânia",
-      "url": "https://www.rtp.pt/noticias/economia/ue-propoe-novo-emprestimo-de-45-mil-milhoes-de-euros-a-ucrania_n1779940",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T11:04:03Z",
-      "description": "A presidente da Comissão Europeia fez o anúncio esta quarta-feira explicando que a verba vai servir para cobrir o défice orçamental ucraniano em 2027. Enquanto na China Putin acusou a Europa de estar num \"declínio humilhante\", Ursula von der Leyen defende que o empréstimo \"é a melhor forma de dar à Ucrânia uma posição de força na mesa das negociações\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7728d6d222da6dc501f97fc434d4a5b?w=350&q=50&rect=0,67,1500,822&auto=format"
+      "title": "Lisboa: oposição acusa Moedas de esconder durante um ano relatórios que apontam falhas graves nos elevadores",
+      "url": "https://pt.euronews.com/2026/11/18/lisboa-oposicao-acusa-moedas-de-esconder-durante-um-ano-relatorios-que-apontam-falhas-grav",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T20:05:00Z",
+      "description": "As quatro auditorias, datadas de outubro e novembro de 2025, foram disponibilizadas quarta-feira pelo executivo municipal aos vereadores da oposição após reportagem da TVI/CNN que dá conta da omissão dos documentos. São indicadas irregularidades nos elevadores da Glória, Lavra, Santa Justa e Bica.",
+      "image": "https://images.euronews.com/articles/stories/09/99/86/48/1200x675_cmsv2_9e5661e0-fa13-5eb7-9b93-2ab57b9365cc-9998648.jpg"
     },
     {
-      "title": "Alterações climáticas. \"Mitigação constitui uma prioridade absoluta\" para Portugal",
-      "url": "https://www.rtp.pt/noticias/mundo/alteracoes-climaticas-mitigacao-constitui-uma-prioridade-absoluta-para-portugal_n1779908",
+      "title": "Europa precisa de eletrificação rápida para evitar choques nos fósseis, alerta Jørgensen",
+      "url": "https://pt.euronews.com/2026/11/18/europa-precisa-de-eletrificacao-rapida-para-evitar-choques-nos-fosseis-alerta-jorgensen",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T19:50:23Z",
+      "description": "Dan Jørgensen, comissário da Energia, diz que o novo acordo da UE para acelerar licenças impulsiona energia limpa e infraestruturas, mas o financiamento da rede elétrica continua a ser um obstáculo.",
+      "image": "https://images.euronews.com/articles/stories/09/99/82/65/1200x675_cmsv2_e40a4957-64cd-513c-9dd1-622cbe55992f-9998265.jpg"
+    },
+    {
+      "title": "Estados Unidos: Hakeem Jeffries aproxima-se de liderar a Câmara dos Representantes",
+      "url": "https://pt.euronews.com/2026/11/18/estados-unidos-hakeem-jeffries-aproxima-se-de-liderar-a-camara-dos-representantes",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T19:37:01Z",
+      "description": "O democrata de Nova Iorque garantiu 251 votos a favor e 11 contra, mas enfrenta pressão de deputados progressistas que exigem compromissos em saúde, imigração e outras questões centrais.",
+      "image": "https://images.euronews.com/articles/stories/09/99/84/71/1200x675_cmsv2_7492a2dd-9b7f-55a2-b272-49696c614452-9998471.jpg"
+    },
+    {
+      "title": "Democrata Hakeem Jeffries a um passo de se tornar o primeiro presidente negro da Câmara dos Representantes",
+      "url": "https://www.rtp.pt/noticias/mundo/democrata-hakeem-jeffries-a-um-passo-de-se-tornar-o-primeiro-presidente-negro-da-camara-dos-representantes_n1780058",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T10:32:12Z",
-      "description": "A ministra do Ambiente e Energia, Maria da Graça Carvalho, afirmou hoje que a mitigação das alterações climáticas constitui uma \"prioridade absoluta\" para Portugal, defendendo na COP31 que os compromissos internacionais devem traduzir-se em ação concreta.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/59/59c91d33d0008494aceaeef0127533c1.JPG?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-18T19:07:26Z",
+      "description": "\"Vamos lutar para garantir que, diante da corrupção, do caos e da crueldade sem precedentes impostos aos americanos, os representantes democratas exijam responsabilização\", clamou Hakeem Jeffries.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7dbfd266d0017d5e1251277c6fd5d2a3?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "Emissora francesa enfrenta reações negativas após revelar o casamento de uma convidada feminista em direto",
+      "url": "https://pt.euronews.com/2026/11/18/emissora-francesa-enfrenta-reacoes-negativas-apos-revelar-o-casamento-de-uma-convidada-fem",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T19:02:21Z",
+      "description": "Uma ativista criticou uma emissora pública francesa depois de uma apresentadora ter revelado o seu casamento com um alto dirigente da televisão, o que suscitou uma controvérsia sobre as regras de transparência e reações políticas.",
+      "image": "https://images.euronews.com/articles/stories/09/99/83/47/1200x675_cmsv2_cd616436-b7bc-59b6-bad3-62098bd5d82e-9998347.jpg"
+    },
+    {
+      "title": "Estados Unidos: Hegseth visita Caracas de surpresa e anuncia acordo militar com a Venezuela",
+      "url": "https://pt.euronews.com/2026/11/18/estados-unidos-hegseth-visita-caracas-de-surpresa-e-anuncia-acordo-militar-com-a-venezuela",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T18:29:22Z",
+      "description": "O secretário da Defesa dos EUA reuniu-se com Delcy Rodríguez em Caracas, antes de viajar para a Colômbia, onde tenciona tratar da cooperação bilateral em segurança.",
+      "image": "https://images.euronews.com/articles/stories/09/99/84/72/1200x675_cmsv2_98b2d4a0-312f-5624-903e-88bfd513f7bd-9998472.jpg"
+    },
+    {
+      "title": "França: Édouard Philippe apresenta agenda conservadora enquanto centro e direita caem nas sondagens",
+      "url": "https://pt.euronews.com/2026/11/18/franca-edouard-philippe-apresenta-agenda-conservadora-enquanto-centro-e-direita-caem-nas-s",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T18:20:26Z",
+      "description": "Os candidatos socialistas, centristas e conservadores têm tido dificuldade em ganhar terreno antes das presidenciais francesas, numa corrida dominada pela extrema-esquerda e pela extrema-direita.",
+      "image": "https://images.euronews.com/articles/stories/09/99/80/89/1200x675_cmsv2_e1fa0e16-35c3-5d32-a43b-e9dfbb91565a-9998089.jpg"
     }
   ]
 }
