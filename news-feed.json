@@ -1,68 +1,84 @@
 {
-  "updatedAt": "2026-11-18T04:23:14.662488Z",
+  "updatedAt": "2026-11-18T14:00:56.611911Z",
   "health": [
     {
-      "title": "O comunicar num serviço de urgência",
-      "url": "https://healthnews.pt/2026/11/17/o-comunicar-num-servico-de-urgencia/",
+      "title": "Chove na Unidade de Saúde de Modivas",
+      "url": "https://www.rtp.pt/noticias/pais/chove-na-unidade-de-saude-de-modivas_v1779982",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-18T13:50:47Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Adalberto Campos Fernandes: “A indústria farmacêutica não deve ser vista apenas como um setor económico. Deve ser considerada um ativo estratégico nacional”",
+      "url": "https://healthnews.pt/2026/11/18/adalberto-campos-fernandes-a-industria-farmaceutica-nao-deve-ser-vista-apenas-como-um-setor-economico-deve-ser-considerada-um-ativo-estrategico-nacional/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-17T12:50:42Z",
-      "description": "José Rolão: Digital Marketer & Content Strategist na DCE Loving Brands",
+      "publishedAt": "2026-11-18T12:00:08Z",
+      "description": "\"Não podemos escolher os contextos internacionais em que vivemos, mas podemos sempre escolher como Portugal se posiciona perante eles.\" Foi com esta premissa — e com números que colocam a indústria farmacêutica a gerar 1.016 milhões de euros de valor acrescentado bruto e mais de 5 mil milhões em exportações — que Adalberto Campos Fernandes, Coordenador do Pacto Estratégico…",
       "image": ""
     },
     {
-      "title": "Congresso no Porto põe AVC no centro do debate",
-      "url": "https://healthnews.pt/2026/11/17/congresso-no-porto-poe-avc-no-centro-do-debate/",
+      "title": "Centros portugueses precisam de acelerar processos para captar ensaios clínicos",
+      "url": "https://healthnews.pt/2026/11/18/centros-portugueses-precisam-de-acelerar-processos-para-captar-ensaios-clinicos/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-17T12:36:22Z",
-      "description": "O 27.º Congresso Nacional do Núcleo da Doença Vascular Cerebral da SPMI reúne especialistas no Porto, a 26 e 27 de novembro, para discutir inovação, acesso à reabilitação e desigualdades geográficas. Tiago Gregório, coordenador do núcleo, lembra que \"tempo é cérebro\"",
-      "image": "https://healthnews.pt/wp-content/uploads/2026/11/27-Congresso-NEDVC.jpg"
-    },
-    {
-      "title": "Ignacio Schoendorff: “Criar valor é também deixar conhecimento e capacidade nas instituições”",
-      "url": "https://healthnews.pt/2026/11/17/ignacio-schoendorff-criar-valor-e-tambem-deixar-conhecimento-e-capacidade-nas-instituicoes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-17T12:35:53Z",
-      "description": "Lançado em 2021 pela Gilead Sciences, com a APAH, a Exigo e a Vision for Value, o Programa Mais Valor em Saúde quer levar o Value-Based Healthcare à prática no SNS. Em cinco edições, já apoiou 20 projetos com 1 milhão de euros em consultoria especializada. Este ano recebeu 27 candidaturas de 20 instituições. Na 5.ª edição, “Vidas que Valem”, o diretor executivo da Gilead…",
+      "publishedAt": "2026-11-18T09:59:04Z",
+      "description": "Os Centros de Investigação Clínica (CIC) portugueses são avaliados abaixo dos seus congéneres europeus pelos representantes da indústria farmacêutica que participaram no Barómetro de Inovação Clínica 2026. Entre os respondentes com experiência internacional suficiente para estabelecer uma comparação, 11 em 11 posicionaram os centros nacionais abaixo dos de outros países…",
       "image": ""
     },
     {
-      "title": "MOG alerta que prevenção do HPV não pode ficar só para a próxima geração",
-      "url": "https://healthnews.pt/2026/11/17/mog-alerta-que-prevencao-do-hpv-nao-pode-ficar-so-para-a-proxima-geracao/",
+      "title": "Recrutamento de participantes continua dependente de processos pouco digitalizados",
+      "url": "https://healthnews.pt/2026/11/18/recrutamento-de-participantes-continua-dependente-de-processos-pouco-digitalizados/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-17T12:20:37Z",
-      "description": "No Dia Mundial para a Eliminação do Cancro do Colo do Útero, a MOG – Movimento Oncológico Ginecológico defende que a prevenção do HPV é uma responsabilidade coletiva e apela ao envolvimento de todas as gerações, mulheres e homens, através do rastreio, da vacinação e do uso do preservativo",
+      "publishedAt": "2026-11-18T09:56:30Z",
+      "description": "Apenas 9% dos Centros de Investigação Clínica (CIC) portugueses dispõem de mecanismos automatizados para identificar potenciais participantes em ensaios clínicos através dos sistemas de informação clínica. A identificação e o recrutamento de doentes surgem, por isso, como uma das principais oportunidades de melhoria apontadas pelo Barómetro de Inovação Clínica 2026, promovido…",
       "image": ""
     },
     {
-      "title": "Prémio Inovação em Saúde entregue esta terça-feira na Faculdade de Medicina de Lisboa",
-      "url": "https://healthnews.pt/2026/11/17/premio-inovacao-em-saude-entregue-esta-terca-feira-na-faculdade-de-medicina-de-lisboa/",
+      "title": "Centros de investigação clínica continuam aquém das necessidades da indústria",
+      "url": "https://healthnews.pt/2026/11/18/centros-de-investigacao-clinica-continuam-aquem-das-necessidades-da-industria/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-17T12:03:23Z",
-      "description": "A cerimónia de entrega do Prémio Inovação em Saúde – Todos pela Sustentabilidade decorre a 18 de novembro, no Auditório João Lobo Antunes, em Lisboa. A sessão começa às 09h30 e inclui uma conferência sobre dados e decisão no SNS, a apresentação do Barómetro da Inovação Clínica e um debate sobre prioridades orçamentais",
+      "publishedAt": "2026-11-18T09:53:35Z",
+      "description": "A maioria das empresas farmacêuticas inquiridas considera que os Centros de Investigação Clínica (CIC) portugueses evoluíram pouco nos últimos dois a três anos. A conclusão é do Barómetro de Inovação Clínica 2026, promovido pela NTT DATA, que integrou, pela primeira vez, a perspetiva da indústria farmacêutica.",
       "image": ""
     },
     {
-      "title": "NOVA Medical School premeia excelência na PNA com prémio de seis anos de propinas",
-      "url": "https://healthnews.pt/2026/11/17/nova-medical-school-premeia-excelencia-na-pna-com-premio-de-seis-anos-de-propinas/",
+      "title": "Médicos fazem greve de 24 horas em defesa do SNS e das carreiras",
+      "url": "https://healthnews.pt/2026/11/18/medicos-fazem-greve-de-24-horas-em-defesa-do-sns-e-das-carreiras/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-17T11:57:35Z",
-      "description": "A NOVA Medical School criou o Prémio Professor Germano de Sousa, que distingue o diplomado em Medicina pela Escola com a classificação mais elevada na Prova Nacional de Acesso. A primeira edição reporta-se à PNA de 25 de novembro de 2026 e o galardão será entregue a 15 de novembro de 2027",
-      "image": "https://healthnews.pt/wp-content/uploads/2025/10/GERMANO_DE_SOUSA_415-002.jpg"
-    },
-    {
-      "title": "Viver com fibrose quística: o que mudou e o que falta mudar",
-      "url": "https://healthnews.pt/2026/11/17/viver-com-fibrose-quistica-o-que-mudou-e-o-que-falta-mudar/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-17T11:35:58Z",
-      "description": "A ANFQ e a APFQ assinalam a 21 de novembro o Dia Europeu da Fibrose Quística com um encontro no Ávilaspace, entre as 9h30 e as 17h30, dedicado à vida adulta com a doença. A sessão é presencial e online, com entrada livre",
+      "publishedAt": "2026-11-18T09:47:38Z",
+      "description": "O Sindicato dos Médicos do Norte anunciou que os médicos vão aderir à greve da Administração Pública marcada para 20 de novembro. A paralisação decorrerá entre as 00h00 e as 24h00 e visa defender o Serviço Nacional de Saúde (SNS), a negociação coletiva, a valorização salarial e as carreiras médicas.",
       "image": ""
     },
     {
-      "title": "Call on Wait somou 11 mil interações em cinco cidades",
-      "url": "https://healthnews.pt/2026/11/17/call-on-wait-somou-11-mil-interacoes-em-cinco-cidades/",
+      "title": "Infeções resistentes a antibióticos causam mais de 35 mil mortes anuais na UE",
+      "url": "https://healthnews.pt/2026/11/18/infecoes-resistentes-a-antibioticos-causam-mais-de-35-mil-mortes-anuais-na-ue/",
       "source": "HealthNews",
-      "publishedAt": "2026-11-17T11:16:14Z",
-      "description": "Mais de 11 mil interações com testemunhos reais de pessoas que vivem com obesidade. A Call on Wait, promovida pela Lilly Portugal, passou por Lisboa, Porto, Braga, Guarda e Santarém, transformando momentos de espera em oportunidades de escuta e reflexão sobre uma doença crónica, complexa e multifatorial",
+      "publishedAt": "2026-11-18T09:33:34Z",
+      "description": "Mais de 35 mil pessoas morrem todos os anos na União Europeia (UE) devido a infeções provocadas por microrganismos resistentes a antimicrobianos. A mortalidade é comparável à causada, em conjunto, pela gripe, tuberculose e VIH/SIDA.",
+      "image": ""
+    },
+    {
+      "title": "Portugal reduz consumo de antibióticos, mas resistência continua a aumentar",
+      "url": "https://healthnews.pt/2026/11/18/portugal-reduz-consumo-de-antibioticos-mas-resistencia-continua-a-aumentar/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-18T09:26:12Z",
+      "description": "Portugal reduziu em 5,2% o consumo de antibióticos entre 2019 e 2025, aproximando-se da meta nacional para 2030. Apesar da descida, a resistência bacteriana continua a exigir medidas de prevenção de infeções e de utilização adequada destes medicamentos, alertam o Infarmed, a Direção-Geral da Saúde (DGS) e o Instituto Nacional de Saúde Doutor Ricardo Jorge (INSA).",
+      "image": ""
+    },
+    {
+      "title": "DGS alerta que febre e tosse não justificam antibióticos em crianças",
+      "url": "https://healthnews.pt/2026/11/18/dgs-alerta-que-febre-e-tosse-nao-justificam-antibioticos-em-criancas/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-18T09:17:13Z",
+      "description": "Febre, tosse ou dor de garganta não significam, por si só, que uma criança precise de antibióticos, alertou hoje a Direção-Geral da Saúde (DGS), assinalando o Dia Europeu dos Antibióticos. A maioria das infeções respiratórias na infância é causada por vírus, contra os quais estes medicamentos não são eficazes.",
+      "image": ""
+    },
+    {
+      "title": "Sobrelotação e falhas no controlo de infeções favorecem bactérias resistentes",
+      "url": "https://healthnews.pt/2026/11/18/sobrelotacao-e-falhas-no-controlo-de-infecoes-favorecem-bacterias-resistentes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-18T09:02:31Z",
+      "description": "Sobrelotação, vulnerabilidade dos doentes e falhas na prevenção e controlo de infeções nos serviços de saúde podem favorecer a transmissão de bactérias resistentes. A Direção-Geral da Saúde (DGS) alerta que, para travar este fenómeno, não basta reduzir o consumo de antibióticos: é também necessário garantir que estes medicamentos são prescritos de forma adequada e prevenir a…",
       "image": ""
     },
     {
@@ -80,120 +96,104 @@
       "publishedAt": "2026-11-16T15:50:30Z",
       "description": "A UMG-Associação de Utentes de Medicamentos Genéricos pediu hoje prudência nas decisões públicas de financiamento dos medicamentos injetáveis usados para a obesidade e diabetes, insistindo na necessidade de recurso a licenças obrigatórias antes de se comparticipar.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Explosão Caldas da Rainha. Mulher transportada de helicóptero para as urgências do Hospital Santa Maria",
-      "url": "https://www.rtp.pt/noticias/pais/explosao-caldas-da-rainha-mulher-transportada-de-helicoptero-para-as-urgencias-do-hospital-santa-maria_n1779463",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-16T09:36:03Z",
-      "description": "Quando chegaram ao local, os bombeiros sentiram um cheiro intenso a gás.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f6c2082344f294f9f67dcf5433af83a?w=350&q=50&rect=0,151,1500,822&auto=format"
-    },
-    {
-      "title": "Médicos de Família em Bragança. Cobertura de 100% aos mais de 126 mil utentes da ULS Nordeste",
-      "url": "https://www.rtp.pt/noticias/pais/medicos-de-familia-em-braganca-cobertura-de-100-aos-mais-de-126-mil-utentes-da-uls-nordeste_v1779375",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-15T21:07:49Z",
-      "description": "Todos os utentes do distrito de Bragança já têm médico de família. A ULS do Nordeste é a primeira, do interior, com cobertura total.",
-      "image": "https://cdn-images.rtp.pt/icm/images/a5/a5f18bd9c15ead7db42a119f6655d4dc_N.jpg?"
     }
   ],
   "world": [
     {
-      "title": "Israel. Candidato da oposição eleito presidente do Parlamento",
-      "url": "https://www.rtp.pt/noticias/mundo/israel-candidato-da-oposicao-eleito-presidente-do-parlamento_n1779870",
+      "title": "Bruxelas cria Serviço de Sanções da UE supervisionado por comissária portuguesa",
+      "url": "https://www.rtp.pt/noticias/mundo/bruxelas-cria-servico-de-sancoes-da-ue-supervisionado-por-comissaria-portuguesa_n1779964",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T22:36:33Z",
-      "description": "O candidato da oposição em Israel a líder do novo parlamento, Matan Kahana, foi eleito esta terça-feira com o apoio dos dois partidos árabes. O novo presidente do Knesset substitui Amir Ohana, do Likud, partido do primeiro-ministro cessante, Benjamin Netanyahu.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/26/268820b40df3fc2fe70e61ed16eb316e?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-18T13:37:46Z",
+      "description": "A Comissão Europeia anunciou hoje a criação de um Serviço de Sanções da União Europeia (UE) para reforçar a coordenação, aplicação e fiscalização das medidas restritivas comunitárias, que ficará sob responsabilidade política da comissária portuguesa Maria Luís Albuquerque.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/30/30326693236294854c6ed53cccb04deb.webp?w=350&q=50&auto=format"
     },
     {
-      "title": "\"Degradação temporária\" durante manutenção. NSA minimiza quebra de rede de comunicação",
-      "url": "https://www.rtp.pt/noticias/mundo/degradacao-temporaria-durante-manutencao-nsa-minimiza-quebra-de-rede-de-comunicacao_n1779849",
+      "title": "Ucrânia: Zelenskyy propõe 10 novas evacuações humanitárias em Kherson e Zaporíjia",
+      "url": "https://pt.euronews.com/2026/11/18/ucrania-zelenskyy-propoe-10-novas-evacuacoes-humanitarias-em-kherson-e-zaporijia",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T13:30:57Z",
+      "description": "Zelenskyy não revelou os nomes das 10 localidades e afirmou que a delegação da Ucrânia iria apresentar o plano aos mediadores norte-americanos, enquanto Putin sugeriu, por outro lado, uma operação semelhante em Kostiantynivka, que, segundo a Ucrânia, não está sob controlo da Rússia.",
+      "image": "https://images.euronews.com/articles/stories/09/99/74/20/1200x675_cmsv2_16996bdf-4894-593a-aa10-eb2f64e419ae-9997420.jpg"
+    },
+    {
+      "title": "Trump recebido por Xi Jinping",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-recebido-por-xi-jinping_v1779973",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T20:43:06Z",
-      "description": "Uma \"degradação temporária\" ocorrida durante operações rotineiras de manutenção. É desta forma que a Agência de Segurança Nacional dos Estados Unidos retrata a quebra da sua rede de comunicação interna.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca334b1419120e19119a3f6641aacaef?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-18T13:28:48Z",
+      "description": "O presidente dos EUA vai participar numa reunião que junta Putin e o presidente chinês.",
+      "image": "https://cdn-images.rtp.pt/icm/images/e0/e04ed0ab8fb8949b1f2c2142912fb5e7_N.jpg?"
     },
     {
-      "title": "Cimeira do Clima. Fim dos combustíveis fósseis é tema forte",
-      "url": "https://www.rtp.pt/noticias/mundo/cimeira-do-clima-fim-dos-combustiveis-fosseis-e-tema-forte_v1779843",
+      "title": "UE prepara novas sanções contra a Rússia",
+      "url": "https://www.rtp.pt/noticias/mundo/ue-prepara-novas-sancoes-contra-a-russia_v1779971",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T19:59:47Z",
-      "description": "Pela primeira vez, numa cimeira do clima discute-se como eliminar os combustíveis fósseis. O tema é sensível e divide os mais de 200 países que participam na COP 31.",
-      "image": "https://cdn-images.rtp.pt/icm/images/b0/b0be2d2f5fd96bce7e1c28dfe8960439_N.jpg?"
+      "publishedAt": "2026-11-18T13:23:48Z",
+      "description": "A confirmação foi feita por Ursula Von der Leyen que fala na importância de intensificar a pressão sobre Moscovo.",
+      "image": "https://cdn-images.rtp.pt/icm/images/c0/c0688307f4c4e82f65995cbe9abfd22a_N.jpg?"
     },
     {
-      "title": "Avião militar russo despenha-se na Sibéria e faz 19 mortos",
-      "url": "https://www.rtp.pt/noticias/mundo/aviao-militar-russo-despenha-se-na-siberia-e-faz-19-mortos_n1779838",
+      "title": "China: Trump chega a Shenzhen para cimeira trilateral histórica com Xi e Putin",
+      "url": "https://pt.euronews.com/2026/11/18/china-trump-chega-a-shenzhen-para-cimeira-trilateral-historica-com-xi-e-putin",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T13:17:13Z",
+      "description": "Xi recebe os homólogos dos EUA e da Rússia na cimeira da APEC, antes da primeira reunião trilateral. Defende comércio aberto, Putin critica sanções, Trump mostra esperança em pôr fim à guerra na Ucrânia.",
+      "image": "https://images.euronews.com/articles/stories/09/99/75/97/1200x675_cmsv2_396948d9-f99d-5e93-bc81-951f35521f4a-9997597.jpg"
+    },
+    {
+      "title": "China recebe primeiro aperto de mão entre Trump e Putin desde 2025 antes de cimeira com Xi",
+      "url": "https://pt.euronews.com/2026/11/18/china-recebe-primeiro-aperto-de-mao-entre-trump-e-putin-desde-2025-antes-de-cimeira-com-xi",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T13:15:17Z",
+      "description": "Donald Trump, Vladimir Putin e Xi Jinping preparam conversações históricas a três na China, reunindo pessoalmente os três líderes pela primeira vez.",
+      "image": "https://images.euronews.com/articles/stories/09/99/79/97/1200x675_cmsv2_4068fcdd-eaca-50d0-9f91-a0073b430b62-9997997.jpg"
+    },
+    {
+      "title": "Reino Unido e UE: rascunho da cimeira revela ambição e limites do Brexit",
+      "url": "https://pt.euronews.com/2026/11/18/reino-unido-e-ue-rascunho-da-cimeira-revela-ambicao-e-limites-do-brexit",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T13:04:02Z",
+      "description": "Uma década após o referendo do Brexit, Bruxelas e Londres preparam-se para aprofundar laços em comércio, defesa e energia, mas rascunhos de conclusões de cimeira vistos pela Euronews revelam divisões políticas persistentes",
+      "image": "https://images.euronews.com/articles/stories/09/99/76/82/1200x675_cmsv2_192886de-254a-5641-9cd8-192c1cf2f7ab-9997682.jpg"
+    },
+    {
+      "title": "Julio Iglesias investigado por alegados delitos sexuais contra duas ex-funcionárias",
+      "url": "https://pt.euronews.com/2026/11/18/julio-iglesias-investigado-por-alegados-delitos-sexuais-contra-duas-ex-funcionarias",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T13:01:35Z",
+      "description": "A Audiência Nacional aceitou a queixa de duas antigas funcionárias de Julio Iglesias por alegados crimes sexuais, ofensas e maus-tratos. O cantor deverá depor a 3 de fevereiro.",
+      "image": "https://images.euronews.com/articles/stories/09/99/78/27/1200x675_cmsv2_f19bfe81-d418-559f-9a58-8e475999bcd9-9997827.jpg"
+    },
+    {
+      "title": "Irão promete resposta militar mais dura se os EUA atacarem novamente",
+      "url": "https://pt.euronews.com/2026/11/18/irao-promete-resposta-militar-mais-dura-se-os-eua-atacarem-novamente",
+      "source": "Euronews",
+      "publishedAt": "2026-11-18T12:58:54Z",
+      "description": "Amir Hatami, chefe do Exército, afirmou que forças iranianas atacariam os EUA “juntamente com os seus apoiantes” onde estivessem baseados, enquanto o CENTCOM confirmava que o USS Theodore Roosevelt se juntara a dois outros porta-aviões na região.",
+      "image": "https://images.euronews.com/articles/stories/09/99/76/12/1200x675_cmsv2_255dce03-2fed-52fb-88b0-31bffe815d74-9997612.jpg"
+    },
+    {
+      "title": "Governo quer reduzir consumo de gasóleo e gasolina nos transportes",
+      "url": "https://www.rtp.pt/noticias/mundo/governo-quer-reduzir-consumo-de-gasoleo-e-gasolina-nos-transportes_n1779957",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T19:38:10Z",
-      "description": "Um avião de transporte militar russo despenhou-se, esta terça-feira, na região de Kemerovo, na Sibéria Ocidental, provocando a morte das 19 pessoas que seguiam a bordo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f61a5000b2fdd592d9a511c9e4eefb1.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-18T12:51:48Z",
+      "description": "O Governo quer reduzir o consumo de gasóleo e gasolina no transporte rodoviário e vai abrir em janeiro uma consulta pública sobre as medidas a adotar, afirmou hoje a ministra Ambiente e Energia, Maria da Graça Carvalho.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "A caminho da China. Trump admite encontro a sós com Putin",
-      "url": "https://www.rtp.pt/noticias/mundo/a-caminho-da-china-trump-admite-encontro-a-sos-com-putin_v1779842",
+      "title": "UE propõe novo empréstimo de 45 mil milhões de euros à Ucrânia",
+      "url": "https://www.rtp.pt/noticias/economia/ue-propoe-novo-emprestimo-de-45-mil-milhoes-de-euros-a-ucrania_n1779940",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T19:34:47Z",
-      "description": "O presidente dos Estados Unidos admite reunir-se a sós com Vladimir Putin na cimeira da APEC.",
-      "image": "https://cdn-images.rtp.pt/icm/images/bb/bbe520c9bf38963bd3b6c7fa4a33ef68_N.jpg?"
+      "publishedAt": "2026-11-18T11:04:03Z",
+      "description": "A presidente da Comissão Europeia fez o anúncio esta quarta-feira explicando que a verba vai servir para cobrir o défice orçamental ucraniano em 2027. Enquanto na China Putin acusou a Europa de estar num \"declínio humilhante\", Ursula von der Leyen defende que o empréstimo \"é a melhor forma de dar à Ucrânia uma posição de força na mesa das negociações\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7728d6d222da6dc501f97fc434d4a5b?w=350&q=50&rect=0,67,1500,822&auto=format"
     },
     {
-      "title": "Ucrânia. Zelensky apela a ajuda na defesa anti-aérea",
-      "url": "https://www.rtp.pt/noticias/mundo/ucrania-zelensky-apela-a-ajuda-na-defesa-anti-aerea_v1779840",
+      "title": "Alterações climáticas. \"Mitigação constitui uma prioridade absoluta\" para Portugal",
+      "url": "https://www.rtp.pt/noticias/mundo/alteracoes-climaticas-mitigacao-constitui-uma-prioridade-absoluta-para-portugal_n1779908",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-17T19:33:48Z",
-      "description": "Volodymyr Zelensky pediu aos aliados que entreguem com urgência intercetores de mísseis.",
-      "image": "https://cdn-images.rtp.pt/icm/images/9b/9bf1bc0c90393b5cca7c902736fdc96d_N.jpg?"
-    },
-    {
-      "title": "Novos protestos anti-regime eclodem no Irão, 40 dias após a morte de Alireza",
-      "url": "https://pt.euronews.com/2026/11/17/novos-protestos-anti-regime-eclodem-no-irao-40-dias-apos-a-morte-de-alireza",
-      "source": "Euronews",
-      "publishedAt": "2026-11-17T19:21:08Z",
-      "description": "O protesto foi desencadeado por um acidente mortal de autocarro numa cidade do oeste do país e transformou-se numa nova manifestação contra o regime, com centenas a gritar “morte ao ditador”.",
-      "image": "https://images.euronews.com/articles/stories/09/99/66/87/1200x675_cmsv2_42b8d24c-d5d0-5fd6-a1b0-034c970a150f-9996687.jpg"
-    },
-    {
-      "title": "Europa quer triplicar centros de dados: ambientalistas protestam impacto ambiental",
-      "url": "https://pt.euronews.com/2026/11/17/europa-quer-triplicar-centros-de-dados-ambientalistas-protestam-impacto-ambiental",
-      "source": "Euronews",
-      "publishedAt": "2026-11-17T18:09:11Z",
-      "description": "A Europa quer triplicar a capacidade dos centros de dados, mas moradores e ambientalistas saem à rua para exigir uma pausa nos novos projetos. Porquê? E o que está em causa?",
-      "image": "https://images.euronews.com/articles/stories/09/98/95/83/1200x675_cmsv2_0b75a5bc-a6de-5f51-bbdf-d2368b56ee12-9989583.jpg"
-    },
-    {
-      "title": "Líder da oposição de Moçambique acusado de terrorismo por distúrbios pós-eleições em 2024",
-      "url": "https://pt.euronews.com/2026/11/17/lider-da-oposicao-de-mocambique-acusado-de-terrorismo-por-disturbios-pos-eleicoes-em-2024",
-      "source": "Euronews",
-      "publishedAt": "2026-11-17T17:23:31Z",
-      "description": "Venâncio Mondlane, do partido Anamola, foi a tribunal na terça-feira, acusado de cinco crimes, entre eles instigar o terrorismo e incitar à desobediência civil durante os protestos antigovernamentais que eclodiram após as eleições de 2024.",
-      "image": "https://images.euronews.com/articles/stories/09/99/67/60/1200x675_cmsv2_9c1950b6-f6b2-5dd7-8668-23ede3ba4f8c-9996760.jpg"
-    },
-    {
-      "title": "Zona euro revê crescimento para 1,2% e Ucrânia ataca ponte na Crimeia",
-      "url": "https://pt.euronews.com/2026/11/17/zona-euro-reve-crescimento-para-12-e-ucrania-ataca-ponte-na-crimeia",
-      "source": "Euronews",
-      "publishedAt": "2026-11-17T17:03:42Z",
-      "description": "UE prevê crescimento de 1,2% na zona euro entre inflação e dívida, analisado hoje à noite por Valdis Dombrovskis. Ucrânia atinge ponte chave Rússia‑Crimeia e Espanha critica plano da UE para requerentes de asilo no Ruanda.",
-      "image": "https://images.euronews.com/articles/stories/09/98/93/63/1200x675_cmsv2_e41868c2-0e5e-5325-ae76-ae43df5dfb29-9989363.jpg"
-    },
-    {
-      "title": "Notícias do dia | 17 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/17/noticias-do-dia-17-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-17T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 17 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/09/99/68/27/1200x675_cmsv2_c1e26427-5919-5c8d-bf8b-15ccf9c88237-9996827.jpg"
-    },
-    {
-      "title": "Rússia arrasta negociações sobre a Ucrânia enquanto Europa e EUA pressionam por diálogo direto",
-      "url": "https://pt.euronews.com/2026/11/17/russia-arrasta-negociacoes-sobre-a-ucrania-enquanto-europa-e-eua-pressionam-por-dialogo-di",
-      "source": "Euronews",
-      "publishedAt": "2026-11-17T16:13:11Z",
-      "description": "A próxima fase das negociações de paz permanece incerta, com a Rússia a desvalorizar encontros presenciais com a Europa apesar da pressão crescente de Washington.",
-      "image": "https://images.euronews.com/articles/stories/09/99/39/93/1200x675_cmsv2_6f8020fe-9fa9-59e0-8fb6-70344ac6f179-9993993.jpg"
+      "publishedAt": "2026-11-18T10:32:12Z",
+      "description": "A ministra do Ambiente e Energia, Maria da Graça Carvalho, afirmou hoje que a mitigação das alterações climáticas constitui uma \"prioridade absoluta\" para Portugal, defendendo na COP31 que os compromissos internacionais devem traduzir-se em ação concreta.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/59/59c91d33d0008494aceaeef0127533c1.JPG?w=350&q=50&auto=format"
     }
   ]
 }
