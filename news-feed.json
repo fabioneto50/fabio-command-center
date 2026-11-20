@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-20T03:18:30.918555Z",
+  "updatedAt": "2026-11-20T12:55:13.761883Z",
   "health": [
+    {
+      "title": "Greve na saúde. Sindicato prevê adesão até 90% e forte mobilização",
+      "url": "https://www.rtp.pt/noticias/economia/greve-na-saude-sindicato-preve-adesao-ate-90-e-forte-mobilizacao_v1780476",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T10:43:48Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "FNAM prevê constrangimentos em consultas e cirurgias programadas",
+      "url": "https://healthnews.pt/2026/11/20/fnam-preve-constrangimentos-em-consultas-e-cirurgias-programadas/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T09:39:18Z",
+      "description": "A Federação Nacional dos Médicos (FNAM) prevê que a greve da função pública desta quinta-feira provoque “maiores constrangimentos nas consultas e cirurgias programadas” a partir das 08:00, quando começarem a funcionar os serviços que não estão abrangidos pelos serviços mínimos.",
+      "image": ""
+    },
+    {
+      "title": "Xavier Barreto considera financiamento do SNS «quase um exercício de ficção»",
+      "url": "https://healthnews.pt/2026/11/20/xavier-barreto-considera-financiamento-do-sns-quase-um-exercicio-de-ficcao/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T09:25:43Z",
+      "description": "O presidente da Associação Portuguesa de Administradores Hospitalares (APAH), Xavier Barreto, considera que o cálculo do financiamento do Serviço Nacional de Saúde (SNS) está cada vez mais afastado da realidade e defende uma nova abordagem à governação, começando pela nomeação de gestores experientes.",
+      "image": ""
+    },
+    {
+      "title": "Greve da função pública já afeta hospitais, escolas e recolha de resíduos",
+      "url": "https://healthnews.pt/2026/11/20/greve-da-funcao-publica-ja-afeta-hospitais-escolas-e-recolha-de-residuos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T09:22:00Z",
+      "description": "O coordenador da Frente Comum afirmou hoje, em Lisboa, que a greve da função pública regista uma forte adesão desde a noite, com efeitos já visíveis nos setores da saúde, da educação e da recolha de resíduos.",
+      "image": ""
+    },
+    {
+      "title": "Baixa literacia em saúde afeta quase metade dos jovens e dos idosos",
+      "url": "https://healthnews.pt/2026/11/20/baixa-literacia-em-saude-afeta-quase-metade-dos-jovens-e-dos-idosos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T08:11:04Z",
+      "description": "Quase metade dos idosos e 44,2% dos jovens apresentam baixa literacia em saúde, segundo um estudo divulgado pela equipa do Laboratório Português de Ambientes de Trabalho Saudáveis (Labpats). Os investigadores alertam também para as dificuldades dos mais velhos em usar informação digital sobre saúde.",
+      "image": ""
+    },
+    {
+      "title": "Mais Valor em Saúde premeia o SNS que leva os cuidados para perto dos doentes",
+      "url": "https://healthnews.pt/2026/11/20/mais-valor-em-saude-premeia-o-sns-que-leva-os-cuidados-para-perto-dos-doentes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T08:08:26Z",
+      "description": "Mais de um ano à espera de uma consulta de coluna, idosos a entrar e sair de ambulâncias, doentes cardíacos que só descobrem a doença na urgência. Foi a partir de problemas assim, bem conhecidos de quem trabalha no Serviço Nacional de Saúde (SNS), que nasceram os quatro projetos vencedores da 5.ª edição das Bolsas Mais Valor em Saúde – Vidas que Valem. As Unidades Locais de…",
+      "image": ""
+    },
+    {
+      "title": "Médico e enfermeira condenados em Angola por morte de mãe e bebé durante o parto",
+      "url": "https://healthnews.pt/2026/11/20/medico-e-enfermeira-condenados-em-angola-por-morte-de-mae-e-bebe-durante-o-parto/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T07:11:47Z",
+      "description": "Um médico e uma enfermeira foram condenados hoje, em Luanda, pela morte de uma grávida e do bebé durante uma cesariana realizada há dois anos na Clínica Santa Marta, entretanto encerrada pelas autoridades sanitárias angolanas; o tribunal aplicou penas de prisão efetiva e suspensa e proibiu os dois profissionais de exercer",
+      "image": ""
+    },
+    {
+      "title": "Adecco: trabalhadores com voz no redesenho do trabalho retiram mais valor da IA",
+      "url": "https://healthnews.pt/2026/11/20/adecco-trabalhadores-com-voz-no-redesenho-do-trabalho-retiram-mais-valor-da-ia/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T07:10:09Z",
+      "description": "Estudo do Grupo Adecco com 40.500 trabalhadores de 36 países indica que a IA rende mais quando integrada nos processos e não apenas acrescentada. Quem participa no redesenho poupa mais tempo e adapta-se melhor; equilíbrio entre vida pessoal e profissional destrona o salário como motivo para mudar de emprego",
+      "image": ""
+    },
+    {
+      "title": "Norte com os valores mais baixos do país e da década em comportamentos aditivos",
+      "url": "https://healthnews.pt/2026/11/20/norte-com-os-valores-mais-baixos-do-pais-e-da-decada-em-comportamentos-aditivos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T07:09:55Z",
+      "description": "O Norte registou em 2025 os valores mais baixos da última década no consumo de álcool, tabaco e drogas ilícitas entre jovens de 18 anos, mas os jogos de apostas online sobem desde 2023, segundo o relatório Comportamentos Aditivos aos 18 anos, divulgado esta quinta-feira",
+      "image": ""
+    },
+    {
+      "title": "Moçambique entre os países em risco de surtos de cólera devido ao El Niño",
+      "url": "https://healthnews.pt/2026/11/20/mocambique-entre-os-paises-em-risco-de-surtos-de-colera-devido-ao-el-nino/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T07:08:18Z",
+      "description": "Moçambique está entre os países da África austral onde as organizações humanitárias devem preparar respostas antecipadas para prevenir surtos de cólera e de outras doenças transmissíveis, perante os efeitos esperados do El Niño.",
+      "image": ""
+    },
+    {
+      "title": "4h Greve na Administração Pública pode afetar saúde, educação e serviços de finanças e segurança social",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-greve-na-administracao-publica-pode-afetar-saude-educacao-e-servicos-de-financas-e-seguranca-social_a1_1780392",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T06:36:01Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
+    },
     {
       "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
       "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
@@ -8,192 +96,104 @@
       "publishedAt": "2026-11-20T00:24:53Z",
       "description": "A maioria dos hospitais públicos registou ruturas de medicamentos no ano passado, em quase metade dos casos com impacto clínico grave, obrigando a mudar medicação ou a adiar tratamentos, conclui um estudo que será hoje divulgado.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Parlamento aprova propostas para futuro hospital da Madeira",
-      "url": "https://www.rtp.pt/noticias/economia/parlamento-aprova-propostas-para-futuro-hospital-da-madeira_n1780359",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T22:54:44Z",
-      "description": "O parlamento aprovou hoje várias propostas relacionadas com a Região Autónoma da Madeira, nomeadamente relacionados com a ligação do cabo submarino com Porto Santo, o futuro hospital e o reforço de meios de combate aos incêndios.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Zelensky destaca urgência de reforçar defesas aéreas enquanto decorrem negociações",
-      "url": "https://www.rtp.pt/noticias/mundo/zelensky-destaca-urgencia-de-reforcar-defesas-aereas-enquanto-decorrem-negociacoes_n1780308",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T22:31:29Z",
-      "description": "O Presidente ucraniano, Volodymyr Zelensky, destacou hoje a urgência de os aliados de Kiev reforçarem as defesas aéreas da Ucrânia, enquanto se negoceia com o Kremlin um possível fim da guerra, perante a escalada constante dos ataques russos.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Greve nos técnicos de diagnóstico e terapêutica ronda os 80%, com cirurgias e consultas em risco",
-      "url": "https://healthnews.pt/2026/11/19/greve-nos-tecnicos-de-diagnostico-e-terapeutica-ronda-os-80-com-cirurgias-e-consultas-em-risco/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T14:01:19Z",
-      "description": "O Sindicato Nacional dos Técnicos Superiores de Saúde das Áreas de Diagnóstico e Terapêutica estima uma adesão de 80% à greve nacional desta quinta-feira, que se prolonga até sexta-feira e afeta 39 unidades de saúde e cinco institutos, com constrangimentos em análises, radiologia e cirurgias programadas",
-      "image": ""
-    },
-    {
-      "title": "Os desafios de uma saúde tecnologicamente avançada e eticamente responsável",
-      "url": "https://healthnews.pt/2026/11/19/os-desafios-de-uma-saude-tecnologicamente-avancada-e-eticamente-responsavel/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T12:21:38Z",
-      "description": "Ana Paula Nunes: Professora adjunta no ensino superior; Doutoramento em Bioética. Curriculum Vitae completo: https://www.cienciavitae.pt/portal/3C15-16D5-C3FB",
-      "image": ""
-    },
-    {
-      "title": "Mais Valor em Saúde premeia o SNS que leva os cuidados para perto dos doentes",
-      "url": "https://healthnews.pt/2026/11/19/mais-valor-em-saude-premeia-o-sns-que-leva-os-cuidados-para-perto-dos-doentes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T10:38:26Z",
-      "description": "Mais de um ano à espera de uma consulta de coluna, idosos a entrar e sair de ambulâncias, doentes cardíacos que só descobrem a doença na urgência. Foi a partir de problemas assim, bem conhecidos de quem trabalha no Serviço Nacional de Saúde (SNS), que nasceram os quatro projetos vencedores da 5.ª edição das Bolsas Mais Valor em Saúde – Vidas que Valem. As Unidades Locais de…",
-      "image": ""
-    },
-    {
-      "title": "Quanto vale a saúde para a economia? “Vale tudo”, responde Maria de Belém",
-      "url": "https://healthnews.pt/2026/11/19/quanto-vale-a-saude-para-a-economia-vale-tudo-responde-maria-de-belem/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T10:02:14Z",
-      "description": "O Serviço Nacional de Saúde (SNS) tem \"muito mais capacidade de inovar do que se pensa\", mas o que de bom lá se faz raramente chega ao conhecimento público. A ideia atravessou as conclusões de Maria de Belém Roseira, presidente do júri das Bolsas Mais Valor em Saúde, na cerimónia da 5.ª edição do programa, que decorreu a 17 de novembro na sede da Ordem dos Farmacêuticos, em…",
-      "image": ""
-    },
-    {
-      "title": "Burocracia, vistas curtas e medo de falhar travam o valor da saúde",
-      "url": "https://healthnews.pt/2026/11/19/burocracia-vistas-curtas-e-medo-de-falhar-travam-o-valor-da-saude/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T09:43:24Z",
-      "description": "Como se mede o valor em saúde? A pergunta foi lançada por Marina Caldas, moderadora do debate, a Pedro Pita Barros, professor de Economia da Nova SBE, na mesa-redonda que se seguiu à intervenção de António Costa Silva na cerimónia da 5.ª edição das Bolsas Mais Valor em Saúde – Vidas que Valem, a 17 de novembro, na Ordem dos Farmacêuticos. A resposta do economista começou por…",
-      "image": ""
-    },
-    {
-      "title": "António Costa Silva: “Não há nenhuma economia saudável no mundo com uma população doente”",
-      "url": "https://healthnews.pt/2026/11/19/antonio-costa-silva-nao-ha-nenhuma-economia-saudavel-no-mundo-com-uma-populacao-doente/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T08:58:12Z",
-      "description": "Quanto vale a saúde para a economia? António Costa Silva preferiu inverter a pergunta que lhe foi colocada pela organização e perguntar quanto vale a economia sem saúde. A resposta, disse, \"é muito simples\": vale zero. O ex-ministro da Economia e do Mar foi o orador principal da cerimónia da 5.ª edição das Bolsas Mais Valor em Saúde – Vidas que Valem, a 17 de novembro, na sede…",
-      "image": ""
-    },
-    {
-      "title": "Ignacio Schoendorff quer bolsas como “ponto de partida” e não “ponto de chegada”",
-      "url": "https://healthnews.pt/2026/11/19/ignacio-schoendorff-quer-bolsas-como-ponto-de-partida-e-nao-ponto-de-chegada/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T08:52:42Z",
-      "description": "Com os quatro projetos distinguidos este ano, o programa Mais Valor em Saúde – Vidas que Valem chega aos 20 projetos apoiados em instituições do Serviço Nacional de Saúde (SNS) e a um milhão de euros atribuídos em horas de consultoria especializada desde 2021. O balanço foi feito por Ignacio Schoendorff, diretor executivo da Gilead Sciences, na cerimónia da 5.ª edição, que…",
-      "image": ""
-    },
-    {
-      "title": "Bolsas Mais Valor em Saúde: iniciativa “não se limita a reconhecer boas ideias”, diz Hélder Mota Filipe",
-      "url": "https://healthnews.pt/2026/11/19/bolsas-mais-valor-em-saude-iniciativa-nao-se-limita-a-reconhecer-boas-ideias-diz-helder-mota-filipe/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T08:28:43Z",
-      "description": "Coube ao anfitrião abrir a cerimónia. Na sede da Ordem dos Farmacêuticos, em Lisboa, onde a 17 de novembro se entregaram as bolsas da 5.ª edição do programa Mais Valor em Saúde – Vidas que Valem, o bastonário Hélder Mota Filipe começou por agradecer à Gilead Sciences ter escolhido a casa dos farmacêuticos para o evento, \"um prazer e uma honra\", e confessou que gosta \"muito\" do…",
-      "image": ""
-    },
-    {
-      "title": "Habitação colaborativa pode ser alternativa aos lares tradicionais",
-      "url": "https://healthnews.pt/2026/11/19/habitacao-colaborativa-pode-ser-alternativa-aos-lares-tradicionais/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T08:04:31Z",
-      "description": "O presidente da Associação Rede de Universidades da Terceira Idade (RUTIS), Luís Jacob, defendeu a criação de alternativas aos lares tradicionais, alertando para as dificuldades da classe média reformada em encontrar respostas adequadas para envelhecer com autonomia.",
-      "image": ""
     }
   ],
   "world": [
     {
-      "title": "Zelensky vê ataques na Crimeia como ato deliberado contra propriedade ucraniana",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana_n1780362",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T00:27:27Z",
-      "description": "O Presidente da Ucrânia, Volodymyr Zelensky, defendeu hoje que os ataques das suas forças contra a ponte da Crimeia são um ato deliberado contra propriedade nacional, lembrando que a península sob controlo russo é território ucraniano.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Exército russo aproveita `febre` do \"GTA VI\" para recrutar combatentes",
-      "url": "https://www.rtp.pt/noticias/mundo/exercito-russo-aproveita-febre-do-gta-vi-para-recrutar-combatentes_n1780369",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T00:25:52Z",
-      "description": "O exército russo aproveitou hoje o entusiasmo global gerado pelo lançamento do videojogo \"Grand Theft Auto VI\" para incentivar a população a alistar-se nas suas fileiras e a combater na Ucrânia.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Sánchez pede perdão por corrupção e Feijóo promete governo decente",
-      "url": "https://www.rtp.pt/noticias/mundo/sanchez-pede-perdao-por-corrupcao-e-feijoo-promete-governo-decente_n1780377",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T00:22:41Z",
-      "description": "O socialista Pedro Sánchez admitiu hoje erros e pediu perdão pela corrupção no governo espanhol que lidera, num debate com o principal adversário nas eleições de 29 de novembro, o presidente do Partido Popular (PP), Alberto Núñez Feijóo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/29/296dd6dc3d97b8687d0988d4f735c423.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "EUA. Nomeado para agência que protege eleições não considera invasão do Capitólio um ataque",
-      "url": "https://www.rtp.pt/noticias/mundo/eua-nomeado-para-agencia-que-protege-eleicoes-nao-considera-invasao-do-capitolio-um-ataque_n1780378",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T00:21:29Z",
-      "description": "A escolha do Presidente norte-americano Donald Trump para liderar uma agência com um papel fundamental na proteção das eleições nos EUA frisou quinta-feira aos senadores, durante uma audição, que não classifica a insurreição no Capitólio como um ataque.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Novas explosões ouvidas em Kiev",
-      "url": "https://www.rtp.pt/noticias/mundo/novas-explosoes-ouvidas-em-kiev_v1780374",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T00:11:48Z",
-      "description": "Nas últimas horas, um ataque de drone russo danificou parcialmente as embaixadas da Áustria e dos Países Baixos na Ucrânia.",
-      "image": "https://cdn-images.rtp.pt/icm/images/3a/3a67c53694d115758d7ec146756443c7_N.jpg?"
-    },
-    {
-      "title": "Zelensky insiste que para a guerra terminar é preciso \"uma Europa forte\"",
-      "url": "https://www.rtp.pt/noticias/mundo/zelensky-insiste-que-para-a-guerra-terminar-e-preciso-uma-europa-forte_n1780366",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T23:57:17Z",
-      "description": "O presidente da Ucrânia insiste que os representantes europeus participem nas futuras rondas negociais para o fim do conflito, afirmando que para a guerra terminar, é preciso uma \"Europa forte\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e3d9a5a09d9748131c97cd446ddeb1d.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Ucrânia: ataques russos danificam embaixadas da Áustria e dos Países Baixos em Kiev",
-      "url": "https://pt.euronews.com/video/2026/11/20/ucrania-ataques-russos-danificam-embaixadas-da-austria-e-dos-paises-baixos-em-kiev",
+      "title": "Irão prepara comboio de petroleiros em Kharg para testar bloqueio dos EUA",
+      "url": "https://pt.euronews.com/2026/11/20/irao-prepara-comboio-de-petroleiros-em-kharg-para-testar-bloqueio-dos-eua",
       "source": "Euronews",
-      "publishedAt": "2026-11-19T23:22:24Z",
-      "description": "Ataques russos danificaram as embaixadas da Áustria e dos Países Baixos em Kiev na quinta-feira. As janelas ficaram partidas e veículos danificados, mas o pessoal diplomático saiu ileso.",
-      "image": "https://images.euronews.com/articles/stories/10/00/08/65/1200x675_cmsv2_228a6f12-5732-5687-a33e-c01bc98e6e7f-10000865.jpg"
+      "publishedAt": "2026-11-20T12:52:32Z",
+      "description": "Mais de 14 petroleiros receberam tripulações e içaram bandeiras iranianas no terminal que movimenta até 90% das exportações de crude do país, segundo imagens de satélite e dados de seguimento de navios, prevendo‑se que um comboio siga para o mar de Omã nos próximos dias.",
+      "image": "https://images.euronews.com/articles/stories/10/00/12/73/1200x675_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg"
     },
     {
-      "title": "Paquistão defende nova arquitetura de segurança regional que também beneficia a Europa",
-      "url": "https://pt.euronews.com/2026/11/19/paquistao-defende-nova-arquitetura-de-seguranca-regional-que-tambem-beneficia-a-europa",
+      "title": "Farage acusa Burnham de trair Brexit ao regressar a partes do mercado único",
+      "url": "https://pt.euronews.com/2026/11/20/farage-acusa-burnham-de-trair-brexit-ao-regressar-a-partes-do-mercado-unico",
       "source": "Euronews",
-      "publishedAt": "2026-11-19T21:19:11Z",
-      "description": "Numa entrevista exclusiva ao programa World Conversation da Euronews, o vice-primeiro-ministro do Paquistão revelou esforços discretos que levaram ao acordo EUA-Israel para pôr fim à guerra em junho e expôs a estratégia paquistanesa para uma nova arquitetura de segurança regional com a Europa",
-      "image": "https://images.euronews.com/articles/stories/10/00/01/96/1200x675_cmsv2_5b5281c2-247b-54fb-9811-94392b6b1e9f-10000196.jpg"
+      "publishedAt": "2026-11-20T12:28:21Z",
+      "description": "Em entrevista exclusiva à Euronews, o líder do Reform UK admitiu que o Brexit falhou na imigração, mas acusou o primeiro-ministro Andy Burnham de trair os eleitores ao aproximar o Reino Unido da UE.",
+      "image": "https://images.euronews.com/articles/stories/10/00/14/06/1200x675_cmsv2_6856b4e3-f640-5516-b050-5847a33c5bd5-10001406.jpg"
     },
     {
-      "title": "Espanha abre hospital de campanha em El Hierro para aliviar pressão migratória",
-      "url": "https://pt.euronews.com/2026/11/19/espanha-abre-hospital-de-campanha-em-el-hierro-para-aliviar-pressao-migratoria",
+      "title": "Reino Unido regressa ao palco da UE: hino volta a soar em Bruxelas",
+      "url": "https://pt.euronews.com/video/2026/11/20/reino-unido-regressa-ao-palco-da-ue-hino-volta-a-soar-em-bruxelas",
       "source": "Euronews",
-      "publishedAt": "2026-11-19T19:56:54Z",
-      "description": "As lonas visam responder às necessidades médicas básicas dos quase 12.000 imigrantes chegados em novembro, aliviando a pressão sobre o único centro da ilha e o seu Centro de Acolhimento Temporário de Estrangeiros.",
-      "image": "https://images.euronews.com/articles/stories/10/00/02/20/1200x675_cmsv2_ff8bdd1d-b38d-50cf-920c-54e269fef312-10000220.jpg"
+      "publishedAt": "2026-11-20T12:19:59Z",
+      "description": "Primeiro-ministro britânico Andy Burnham foi recebido por líderes da UE em Bruxelas numa cimeira para reforçar relações pós-Brexit. “God Save the King” tocou pela primeira vez desde o Brexit num encontro Reino Unido–UE",
+      "image": "https://images.euronews.com/articles/stories/10/00/16/21/1200x675_cmsv2_d92cd7d1-11f0-5529-a578-5e50b394a2ec-10001621.jpg"
     },
     {
-      "title": "França vai monitorizar YouTubers por viés político antes das eleições de 2027",
-      "url": "https://pt.euronews.com/2026/11/19/franca-vai-monitorizar-youtubers-por-vies-politico-antes-das-eleicoes-de-2027",
-      "source": "Euronews",
-      "publishedAt": "2026-11-19T19:49:36Z",
-      "description": "As eleições presidenciais francesas estão marcadas para 18 de abril e 2 de maio do próximo ano, com a líder da extrema-direita Marine Le Pen a liderar as sondagens. As legislativas deverão seguir-se em junho.",
-      "image": "https://images.euronews.com/articles/stories/10/00/03/37/1200x675_cmsv2_78d76f37-1ebb-584c-ac1e-af1bd27712bc-10000337.jpg"
+      "title": "Duelo tenso entre Sánchez e Feijóo marca debate decisivo em Espanha",
+      "url": "https://www.rtp.pt/noticias/mundo/duelo-tenso-entre-sanchez-e-feijoo-marca-debate-decisivo-em-espanha_v1780499",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T11:35:47Z",
+      "description": "Em Espanha, Pedro Sánchez e Alberto Núñez Feijóo protagonizaram o único debate cara a cara antes das eleições de 29 de novembro, num confronto tenso marcado pela habitação, pela corrupção e pela imigração.",
+      "image": "https://cdn-images.rtp.pt/icm/images/b7/b7ffeebbd981d4d65acfa643db61cfd7_N.jpg?"
     },
     {
-      "title": "Macron apoia reabertura da questão da adesão da Ucrânia à NATO",
-      "url": "https://pt.euronews.com/2026/11/19/macron-apoia-reabertura-da-questao-da-adesao-da-ucrania-a-nato",
-      "source": "Euronews",
-      "publishedAt": "2026-11-19T19:46:26Z",
-      "description": "Presidente francês afirmou que a adesão da Ucrânia à NATO foi posta de lado no início de 2022, num contexto “totalmente diferente”.",
-      "image": "https://images.euronews.com/articles/stories/10/00/03/20/1200x675_cmsv2_e6aec5bf-afb3-58fc-9db0-4f421008316c-10000320.jpg"
+      "title": "Governo de Myanmar considera injusta decisão do tribunal sobre genocídio dos rohingya",
+      "url": "https://www.rtp.pt/noticias/mundo/governo-de-myanmar-considera-injusta-decisao-do-tribunal-sobre-genocidio-dos-rohingya_n1780409",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T11:34:37Z",
+      "description": "O Governo de Myanmar (ex-Birmânia) considerou hoje \"injusta\" a decisão do Tribunal Internacional de Justiça (TIJ) que reconheceu, na quinta-feira, que o país cometeu genocídio contra os rohingya.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1714eaf31ba0eb94ecf05d95a76e83e?w=350&q=50&rect=0,0,1024,561&auto=format"
     },
     {
-      "title": "Líderes europeus rejeitam um “Ialta 2.0” para a Ucrânia após Trump se ter encontrado com Putin e Xi",
-      "url": "https://pt.euronews.com/2026/11/19/lideres-europeus-rejeitam-um-ialta-20-para-a-ucrania-apos-trump-se-ter-encontrado-com-puti",
+      "title": "França: Dominique de Villepin avança para as presidenciais, com centristas e conservadores em queda",
+      "url": "https://pt.euronews.com/2026/11/20/franca-dominique-de-villepin-avanca-para-as-presidenciais-com-centristas-e-conservadores-e",
       "source": "Euronews",
-      "publishedAt": "2026-11-19T18:58:03Z",
-      "description": "“Um formato de Ialta não trará paz”, afirmou o chanceler alemão Friedrich Merz no final de uma reunião da Coligação dos Dispostos em Berlim, poucas horas depois de Trump, Putin e Xi terem mantido conversações na China.",
-      "image": "https://images.euronews.com/articles/stories/09/99/99/55/1200x675_cmsv2_582af645-67d4-5682-b5cd-f2fa4a6ef953-9999955.jpg"
+      "publishedAt": "2026-11-20T11:26:20Z",
+      "description": "A candidatura presidencial do antigo primeiro-ministro francês surge numa altura em que os centristas e os conservadores franceses têm vindo a debater-se para ganhar terreno.",
+      "image": "https://images.euronews.com/articles/stories/10/00/12/54/1200x675_cmsv2_aca18e13-0ae1-5be8-85ef-2a2ddfd78e53-10001254.jpg"
+    },
+    {
+      "title": "União Europeia centra necessidades de combustível militar na estratégia de segurança petrolífera",
+      "url": "https://pt.euronews.com/2026/11/20/uniao-europeia-centra-necessidades-de-combustivel-militar-na-estrategia-de-seguranca-petro",
+      "source": "Euronews",
+      "publishedAt": "2026-11-20T11:25:59Z",
+      "description": "Bruxelas está a integrar as necessidades de combustível militar na planificação e avaliação das reservas nacionais de emergência de petróleo, segundo um documento consultado pela Euronews.",
+      "image": "https://images.euronews.com/articles/stories/10/00/01/92/1200x675_cmsv2_a4b22c9a-f407-5d21-b120-1ee545ff7408-10000192.jpg"
+    },
+    {
+      "title": "Vaticano ergue árvore de Natal gigante junto à basílica de São Pedro",
+      "url": "https://pt.euronews.com/video/2026/11/20/vaticano-ergue-arvore-de-natal-gigante-junto-a-basilica-de-sao-pedro",
+      "source": "Euronews",
+      "publishedAt": "2026-11-20T11:22:24Z",
+      "description": "Ergue-se uma árvore de Natal de 25 metros na Praça de São Pedro, na Cidade do Vaticano, iniciando os preparativos para as celebrações deste Natal. O abeto-prateado, oferecido por uma comunidade do sul de Itália, será revelado a 7 de dezembro.",
+      "image": "https://images.euronews.com/articles/stories/10/00/15/39/1200x675_cmsv2_13ac3c41-611c-5f4a-b5d6-846cf5d7d530-10001539.jpg"
+    },
+    {
+      "title": "\"Mais uma provocação\". Ministro polaco aponta para queda de míssil russo",
+      "url": "https://www.rtp.pt/noticias/mundo/mais-uma-provocacao-ministro-polaco-aponta-para-queda-de-missil-russo_n1780448",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T10:26:04Z",
+      "description": "A Polónia registou, esta sexta-feira, incursões de objetos provenientes da Rússia no seu espaço aéreo. Incluindo \"provavelmente\" um míssil de cruzeiro KH-101, afirmou o ministro da Defesa, Wladyslaw Kosiniak-Kamysz, acrescentando que irá solicitar à NATO apoio adicional para o flanco oriental.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/11/11287e0cbf7686270db980089844707e?w=350&q=50&rect=0,89,1500,822&auto=format"
+    },
+    {
+      "title": "Mais de 680 detidos e quase 2.400 carros apreendidos em operação da Interpol",
+      "url": "https://www.rtp.pt/noticias/mundo/mais-de-680-detidos-e-quase-2-400-carros-apreendidos-em-operacao-da-interpol_n1780428",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T09:51:33Z",
+      "description": "A rede de tráfico internacional de carros roubados também operou em Portugal. Durante a Operação Carback II também foram apreendidas peças de automóveis, droga e armas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/75/75fbdc737e76378224314ef2fb12c943.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Cimeira entre União Europeia e Reino Unido abre porta a reaproximação",
+      "url": "https://www.rtp.pt/noticias/mundo/cimeira-entre-uniao-europeia-e-reino-unido-abre-porta-a-reaproximacao_n1780402",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T08:05:12Z",
+      "description": "Bruxelas recebe esta sexta-feira a cimeira entre a União Europeia e o Reino Unido, numa altura em que Londres tem dados sinais de reaproximação ao bloco europeu.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/58/585f19e6a971a68bdcf2f724b10aabca.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Macau vai usar IA nos exames de acesso à função pública",
+      "url": "https://www.rtp.pt/noticias/mundo/macau-vai-usar-ia-nos-exames-de-acesso-a-funcao-publica_n1780388",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T07:18:36Z",
+      "description": "O Governo da região semiautónoma chinesa de Macau anunciou hoje que vai introduzir a assistência de inteligência artificial (IA) para \"aumentar a eficiência\" nos concursos de acesso à função pública.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edccee5e0e6118b4d52860e65369a2ff?w=350&q=50&rect=0,53,900,493&auto=format"
     }
   ]
 }
