@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-11-20T12:55:13.761883Z",
+  "updatedAt": "2026-11-20T21:06:49.962775Z",
   "health": [
     {
-      "title": "Greve na saúde. Sindicato prevê adesão até 90% e forte mobilização",
-      "url": "https://www.rtp.pt/noticias/economia/greve-na-saude-sindicato-preve-adesao-ate-90-e-forte-mobilizacao_v1780476",
+      "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\"",
+      "url": "https://www.rtp.pt/noticias/mundo/jair-bolsonaro-hospitalizado-devido-a-fortes-dores-abdominais_n1780641",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T10:43:48Z",
+      "publishedAt": "2026-11-20T20:50:34Z",
+      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro, numa publicação na rede social X.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bcdc3e5314b5a0f8f1bf56b53382717.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "20h Ordem dos Médicos alerta para falta de anestesistas na Pediatria da Dona Estefânia",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-ordem-dos-medicos-alerta-para-falta-de-anestesistas-na-pediatria-da-dona-estefania_a1_1780636",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T20:27:02Z",
       "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Greve da função pública com adesão de 90% nas escolas e perturbações em hospitais e serviços",
+      "url": "https://healthnews.pt/2026/11/20/greve-da-funcao-publica-com-adesao-de-90-nas-escolas-e-perturbacoes-em-hospitais-e-servicos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-20T13:19:43Z",
+      "description": "A greve nacional da função pública convocada pela Frente Comum registou hoje uma adesão que o coordenador da estrutura sindical, Sebastião Santana, estimou em cerca de 90% nas escolas, com fortes perturbações em hospitais, segurança social, finanças e autarquias, e serviços mínimos em vários locais",
+      "image": ""
     },
     {
       "title": "FNAM prevê constrangimentos em consultas e cirurgias programadas",
@@ -74,22 +90,6 @@
       "image": ""
     },
     {
-      "title": "Moçambique entre os países em risco de surtos de cólera devido ao El Niño",
-      "url": "https://healthnews.pt/2026/11/20/mocambique-entre-os-paises-em-risco-de-surtos-de-colera-devido-ao-el-nino/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T07:08:18Z",
-      "description": "Moçambique está entre os países da África austral onde as organizações humanitárias devem preparar respostas antecipadas para prevenir surtos de cólera e de outras doenças transmissíveis, perante os efeitos esperados do El Niño.",
-      "image": ""
-    },
-    {
-      "title": "4h Greve na Administração Pública pode afetar saúde, educação e serviços de finanças e segurança social",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-greve-na-administracao-publica-pode-afetar-saude-educacao-e-servicos-de-financas-e-seguranca-social_a1_1780392",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T06:36:01Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
-    },
-    {
       "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
       "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
       "source": "RTP Notícias",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
-      "title": "Irão prepara comboio de petroleiros em Kharg para testar bloqueio dos EUA",
-      "url": "https://pt.euronews.com/2026/11/20/irao-prepara-comboio-de-petroleiros-em-kharg-para-testar-bloqueio-dos-eua",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T12:52:32Z",
-      "description": "Mais de 14 petroleiros receberam tripulações e içaram bandeiras iranianas no terminal que movimenta até 90% das exportações de crude do país, segundo imagens de satélite e dados de seguimento de navios, prevendo‑se que um comboio siga para o mar de Omã nos próximos dias.",
-      "image": "https://images.euronews.com/articles/stories/10/00/12/73/1200x675_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg"
-    },
-    {
-      "title": "Farage acusa Burnham de trair Brexit ao regressar a partes do mercado único",
-      "url": "https://pt.euronews.com/2026/11/20/farage-acusa-burnham-de-trair-brexit-ao-regressar-a-partes-do-mercado-unico",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T12:28:21Z",
-      "description": "Em entrevista exclusiva à Euronews, o líder do Reform UK admitiu que o Brexit falhou na imigração, mas acusou o primeiro-ministro Andy Burnham de trair os eleitores ao aproximar o Reino Unido da UE.",
-      "image": "https://images.euronews.com/articles/stories/10/00/14/06/1200x675_cmsv2_6856b4e3-f640-5516-b050-5847a33c5bd5-10001406.jpg"
-    },
-    {
-      "title": "Reino Unido regressa ao palco da UE: hino volta a soar em Bruxelas",
-      "url": "https://pt.euronews.com/video/2026/11/20/reino-unido-regressa-ao-palco-da-ue-hino-volta-a-soar-em-bruxelas",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T12:19:59Z",
-      "description": "Primeiro-ministro britânico Andy Burnham foi recebido por líderes da UE em Bruxelas numa cimeira para reforçar relações pós-Brexit. “God Save the King” tocou pela primeira vez desde o Brexit num encontro Reino Unido–UE",
-      "image": "https://images.euronews.com/articles/stories/10/00/16/21/1200x675_cmsv2_d92cd7d1-11f0-5529-a578-5e50b394a2ec-10001621.jpg"
-    },
-    {
-      "title": "Duelo tenso entre Sánchez e Feijóo marca debate decisivo em Espanha",
-      "url": "https://www.rtp.pt/noticias/mundo/duelo-tenso-entre-sanchez-e-feijoo-marca-debate-decisivo-em-espanha_v1780499",
+      "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\"",
+      "url": "https://www.rtp.pt/noticias/mundo/jair-bolsonaro-hospitalizado-devido-a-fortes-dores-abdominais_n1780641",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T11:35:47Z",
-      "description": "Em Espanha, Pedro Sánchez e Alberto Núñez Feijóo protagonizaram o único debate cara a cara antes das eleições de 29 de novembro, num confronto tenso marcado pela habitação, pela corrupção e pela imigração.",
-      "image": "https://cdn-images.rtp.pt/icm/images/b7/b7ffeebbd981d4d65acfa643db61cfd7_N.jpg?"
+      "publishedAt": "2026-11-20T20:50:34Z",
+      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro, numa publicação na rede social X.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bcdc3e5314b5a0f8f1bf56b53382717.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Governo de Myanmar considera injusta decisão do tribunal sobre genocídio dos rohingya",
-      "url": "https://www.rtp.pt/noticias/mundo/governo-de-myanmar-considera-injusta-decisao-do-tribunal-sobre-genocidio-dos-rohingya_n1780409",
+      "title": "EUA confirmam falta de consenso sobre futuro líder da ONU após nova ronda de votação",
+      "url": "https://www.rtp.pt/noticias/mundo/eua-confirmam-falta-de-consenso-sobre-futuro-lider-da-onu-apos-nova-ronda-de-votacao_n1780624",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T11:34:37Z",
-      "description": "O Governo de Myanmar (ex-Birmânia) considerou hoje \"injusta\" a decisão do Tribunal Internacional de Justiça (TIJ) que reconheceu, na quinta-feira, que o país cometeu genocídio contra os rohingya.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1714eaf31ba0eb94ecf05d95a76e83e?w=350&q=50&rect=0,0,1024,561&auto=format"
+      "publishedAt": "2026-11-20T20:15:04Z",
+      "description": "O Conselho de Segurança da ONU permanece sem consenso sobre o futuro secretário-geral da organização, confirmaram hoje os Estados Unidos (EUA), após uma votação que manteve a costa-riquenha Rebeca Grynspan como a mais apoiada, embora com votos contra.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "França: Dominique de Villepin avança para as presidenciais, com centristas e conservadores em queda",
-      "url": "https://pt.euronews.com/2026/11/20/franca-dominique-de-villepin-avanca-para-as-presidenciais-com-centristas-e-conservadores-e",
+      "title": "Alemanha e França avançam com candidaturas a altos cargos do BCE, Portugal de fora",
+      "url": "https://www.rtp.pt/noticias/mundo/alemanha-e-franca-avancam-com-candidaturas-a-altos-cargos-do-bce-portugal-de-fora_n1780609",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T20:12:08Z",
+      "description": "A Alemanha e a França foram os únicos países que decidiram avançar com candidaturas aos dois lugares que vão ficar vagos na Comissão Executiva do Banco Central Europeu (BCE), enquanto Portugal optou por ficar de fora.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Chuva forte no fim de semana: oito distritos de Portugal sob aviso laranja. Manteigas em alerta",
+      "url": "https://pt.euronews.com/2026/11/20/chuva-forte-no-fim-de-semana-oito-distritos-de-portugal-sob-aviso-laranja-manteigas-em-ale",
       "source": "Euronews",
-      "publishedAt": "2026-11-20T11:26:20Z",
-      "description": "A candidatura presidencial do antigo primeiro-ministro francês surge numa altura em que os centristas e os conservadores franceses têm vindo a debater-se para ganhar terreno.",
-      "image": "https://images.euronews.com/articles/stories/10/00/12/54/1200x675_cmsv2_aca18e13-0ae1-5be8-85ef-2a2ddfd78e53-10001254.jpg"
+      "publishedAt": "2026-11-20T19:49:40Z",
+      "description": "Distritos que merecem maior atenção são Viana do Castelo, Braga, Vila Real, Porto, Aveiro, Viseu, Coimbra e Guarda. Por precaução, Manteigas, onde houve deslizamentos de terra na quarta-feira, decretou situação de alerta municipal para sábado.",
+      "image": "https://images.euronews.com/articles/stories/10/00/22/59/1200x675_cmsv2_577f457f-f44d-5a9e-a4d1-f202a948ec9b-10002259.jpg"
     },
     {
-      "title": "União Europeia centra necessidades de combustível militar na estratégia de segurança petrolífera",
-      "url": "https://pt.euronews.com/2026/11/20/uniao-europeia-centra-necessidades-de-combustivel-militar-na-estrategia-de-seguranca-petro",
+      "title": "Atriz acusa Gérard Depardieu e Michel Houellebecq de violação em grupo",
+      "url": "https://pt.euronews.com/2026/11/20/atriz-acusa-gerard-depardieu-e-michel-houellebecq-de-violacao-em-grupo",
       "source": "Euronews",
-      "publishedAt": "2026-11-20T11:25:59Z",
-      "description": "Bruxelas está a integrar as necessidades de combustível militar na planificação e avaliação das reservas nacionais de emergência de petróleo, segundo um documento consultado pela Euronews.",
-      "image": "https://images.euronews.com/articles/stories/10/00/01/92/1200x675_cmsv2_a4b22c9a-f407-5d21-b120-1ee545ff7408-10000192.jpg"
+      "publishedAt": "2026-11-20T18:54:18Z",
+      "description": "Uma atriz acusa dois homens de agressão sexual durante uma rodagem em dezembro de 2018. O realizador de “Thalasso”, Guillaume Nicloux, é citado na queixa. Foi aberta uma investigação.",
+      "image": "https://images.euronews.com/articles/stories/10/00/22/26/1200x675_cmsv2_e1cb6026-7f66-570c-9821-b3d370544c67-10002226.jpg"
     },
     {
-      "title": "Vaticano ergue árvore de Natal gigante junto à basílica de São Pedro",
-      "url": "https://pt.euronews.com/video/2026/11/20/vaticano-ergue-arvore-de-natal-gigante-junto-a-basilica-de-sao-pedro",
+      "title": "Trump diz que não irá permitir construção de centros de dados fora dos EUA",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-diz-que-nao-ira-permitir-construcao-de-centros-de-dados-fora-dos-eua_n1780615",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T18:13:52Z",
+      "description": "O republicano disse ter uma “ótima” relação com o presidente chinês, mas assumiu que não permitirá às empresas americanas construírem centros de dados fora dos EUA por receio de que Pequim “fique com todos”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bbba93d6ce79a26f3f0fc4d93b6cf9ab.JPG?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Europa: milhares protestam por melhores salários e serviços públicos",
+      "url": "https://pt.euronews.com/2026/11/20/europa-milhares-protestam-por-melhores-salarios-e-servicos-publicos",
       "source": "Euronews",
-      "publishedAt": "2026-11-20T11:22:24Z",
-      "description": "Ergue-se uma árvore de Natal de 25 metros na Praça de São Pedro, na Cidade do Vaticano, iniciando os preparativos para as celebrações deste Natal. O abeto-prateado, oferecido por uma comunidade do sul de Itália, será revelado a 7 de dezembro.",
-      "image": "https://images.euronews.com/articles/stories/10/00/15/39/1200x675_cmsv2_13ac3c41-611c-5f4a-b5d6-846cf5d7d530-10001539.jpg"
+      "publishedAt": "2026-11-20T17:58:14Z",
+      "description": "Esta sexta-feira houve manifestações em mais de 25 países europeus, que deverão prolongar-se pelo fim de semana, integradas num movimento internacional coordenado de protesto.",
+      "image": "https://images.euronews.com/articles/stories/10/00/21/02/1200x675_cmsv2_6d8a3374-39d3-5f0c-a86f-23b5059b8d65-10002102.jpg"
     },
     {
-      "title": "\"Mais uma provocação\". Ministro polaco aponta para queda de míssil russo",
-      "url": "https://www.rtp.pt/noticias/mundo/mais-uma-provocacao-ministro-polaco-aponta-para-queda-de-missil-russo_n1780448",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T10:26:04Z",
-      "description": "A Polónia registou, esta sexta-feira, incursões de objetos provenientes da Rússia no seu espaço aéreo. Incluindo \"provavelmente\" um míssil de cruzeiro KH-101, afirmou o ministro da Defesa, Wladyslaw Kosiniak-Kamysz, acrescentando que irá solicitar à NATO apoio adicional para o flanco oriental.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/11/11287e0cbf7686270db980089844707e?w=350&q=50&rect=0,89,1500,822&auto=format"
+      "title": "Ruanda: cinco países da UE planeiam centros de retorno com eficácia em dúvida",
+      "url": "https://pt.euronews.com/2026/11/20/rwanda-cinco-paises-da-ue-planeiam-centros-de-retorno-com-eficacia-em-duvida",
+      "source": "Euronews",
+      "publishedAt": "2026-11-20T17:35:50Z",
+      "description": "Cinco países da UE anunciaram um plano polémico para criar um centro no Ruanda para migrantes sem direito legal a permanecer na Europa, gerando alertas sobre direitos humanos e falta de supervisão",
+      "image": "https://images.euronews.com/articles/stories/09/98/96/17/1200x675_cmsv2_a67117be-28d2-5fab-ab3a-b72d73f4b481-9989617.jpg"
     },
     {
-      "title": "Mais de 680 detidos e quase 2.400 carros apreendidos em operação da Interpol",
-      "url": "https://www.rtp.pt/noticias/mundo/mais-de-680-detidos-e-quase-2-400-carros-apreendidos-em-operacao-da-interpol_n1780428",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T09:51:33Z",
-      "description": "A rede de tráfico internacional de carros roubados também operou em Portugal. Durante a Operação Carback II também foram apreendidas peças de automóveis, droga e armas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/75/75fbdc737e76378224314ef2fb12c943.jpg?w=350&q=50&auto=format"
+      "title": "Dinamarca expulsa adido militar russo devido a alegado plano de assassinato",
+      "url": "https://pt.euronews.com/2026/11/20/dinamarca-expulsa-adido-militar-russo-devido-a-alegado-plano-de-assassinato",
+      "source": "Euronews",
+      "publishedAt": "2026-11-20T17:21:15Z",
+      "description": "Dois homens ligados a um dos grupos criminosos mais notórios da Dinamarca foram acusados de participar num complot para assassinar um rapper ucraniano, o que desencadeou uma operação de repressão a nível nacional contra esse grupo ilegal.",
+      "image": "https://images.euronews.com/articles/stories/10/00/16/52/1200x675_cmsv2_0d7907b1-ba92-550c-b6e4-4401de9fd78b-10001652.jpg"
     },
     {
-      "title": "Cimeira entre União Europeia e Reino Unido abre porta a reaproximação",
-      "url": "https://www.rtp.pt/noticias/mundo/cimeira-entre-uniao-europeia-e-reino-unido-abre-porta-a-reaproximacao_n1780402",
+      "title": "Trump quer um acordo de paz para a Ucrânia antes de janeiro",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-quer-um-acordo-de-paz-para-a-ucrania-antes-de-janeiro_n1780603",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T08:05:12Z",
-      "description": "Bruxelas recebe esta sexta-feira a cimeira entre a União Europeia e o Reino Unido, numa altura em que Londres tem dados sinais de reaproximação ao bloco europeu.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/58/585f19e6a971a68bdcf2f724b10aabca.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-20T17:17:00Z",
+      "description": "O presidente dos EUA quer negociar um acordo de paz entre Kiev e Moscovo antes de os Democratas assumirem o controlo do Congresso.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5fd8f0f6efa83172949e4d19165439b5.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Macau vai usar IA nos exames de acesso à função pública",
-      "url": "https://www.rtp.pt/noticias/mundo/macau-vai-usar-ia-nos-exames-de-acesso-a-funcao-publica_n1780388",
+      "title": "Polónia recebe exercícios militares com 11 países após ver espaço aéreo invadido por três objetos russos",
+      "url": "https://pt.euronews.com/2026/11/20/polonia-recebe-exercicios-militares-com-11-paises-apos-ver-espaco-aereo-invadido-por-tres-",
+      "source": "Euronews",
+      "publishedAt": "2026-11-20T17:12:25Z",
+      "description": "Vice-primeiro-ministro e ministro da Defesa, Władysław Kosiniak-Kamysz, acompanhou o exercício KOALICJA 26.2, primeiras manobras da Coligação dos Dispostos. No mesmo dia, três objetos russos violaram o espaço aéreo da Polónia",
+      "image": "https://images.euronews.com/articles/stories/10/00/19/76/1200x675_cmsv2_b1730819-7295-5415-b37e-f0ae2d146375-10001976.jpg"
+    },
+    {
+      "title": "Parceria, proximidade e acordos. União Europeia e Reino Unido aproximam-se ainda mais em Bruxelas",
+      "url": "https://www.rtp.pt/noticias/mundo/parceria-proximidade-e-acordos-uniao-europeia-e-reino-unido-aproximam-se-ainda-mais-em-bruxelas_n1780585",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T07:18:36Z",
-      "description": "O Governo da região semiautónoma chinesa de Macau anunciou hoje que vai introduzir a assistência de inteligência artificial (IA) para \"aumentar a eficiência\" nos concursos de acesso à função pública.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edccee5e0e6118b4d52860e65369a2ff?w=350&q=50&rect=0,53,900,493&auto=format"
+      "publishedAt": "2026-11-20T16:21:19Z",
+      "description": "Os líderes dizem que todos ficam a ganhar com este acordo mas ainda não se fala de um possível regresso do Reino Unido à União Europeia",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/75/75632442098920527164fe71d53f2d1d?w=350&q=50&rect=0,71,1200,658&auto=format"
     }
   ]
 }
