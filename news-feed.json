@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-19T13:11:51.957824Z",
+  "updatedAt": "2026-11-20T03:18:30.918555Z",
   "health": [
+    {
+      "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
+      "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T00:24:53Z",
+      "description": "A maioria dos hospitais públicos registou ruturas de medicamentos no ano passado, em quase metade dos casos com impacto clínico grave, obrigando a mudar medicação ou a adiar tratamentos, conclui um estudo que será hoje divulgado.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Parlamento aprova propostas para futuro hospital da Madeira",
+      "url": "https://www.rtp.pt/noticias/economia/parlamento-aprova-propostas-para-futuro-hospital-da-madeira_n1780359",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-19T22:54:44Z",
+      "description": "O parlamento aprovou hoje várias propostas relacionadas com a Região Autónoma da Madeira, nomeadamente relacionados com a ligação do cabo submarino com Porto Santo, o futuro hospital e o reforço de meios de combate aos incêndios.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Zelensky destaca urgência de reforçar defesas aéreas enquanto decorrem negociações",
+      "url": "https://www.rtp.pt/noticias/mundo/zelensky-destaca-urgencia-de-reforcar-defesas-aereas-enquanto-decorrem-negociacoes_n1780308",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-19T22:31:29Z",
+      "description": "O Presidente ucraniano, Volodymyr Zelensky, destacou hoje a urgência de os aliados de Kiev reforçarem as defesas aéreas da Ucrânia, enquanto se negoceia com o Kremlin um possível fim da guerra, perante a escalada constante dos ataques russos.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Greve nos técnicos de diagnóstico e terapêutica ronda os 80%, com cirurgias e consultas em risco",
+      "url": "https://healthnews.pt/2026/11/19/greve-nos-tecnicos-de-diagnostico-e-terapeutica-ronda-os-80-com-cirurgias-e-consultas-em-risco/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-19T14:01:19Z",
+      "description": "O Sindicato Nacional dos Técnicos Superiores de Saúde das Áreas de Diagnóstico e Terapêutica estima uma adesão de 80% à greve nacional desta quinta-feira, que se prolonga até sexta-feira e afeta 39 unidades de saúde e cinco institutos, com constrangimentos em análises, radiologia e cirurgias programadas",
+      "image": ""
+    },
+    {
+      "title": "Os desafios de uma saúde tecnologicamente avançada e eticamente responsável",
+      "url": "https://healthnews.pt/2026/11/19/os-desafios-de-uma-saude-tecnologicamente-avancada-e-eticamente-responsavel/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-19T12:21:38Z",
+      "description": "Ana Paula Nunes: Professora adjunta no ensino superior; Doutoramento em Bioética. Curriculum Vitae completo: https://www.cienciavitae.pt/portal/3C15-16D5-C3FB",
+      "image": ""
+    },
+    {
+      "title": "Mais Valor em Saúde premeia o SNS que leva os cuidados para perto dos doentes",
+      "url": "https://healthnews.pt/2026/11/19/mais-valor-em-saude-premeia-o-sns-que-leva-os-cuidados-para-perto-dos-doentes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-19T10:38:26Z",
+      "description": "Mais de um ano à espera de uma consulta de coluna, idosos a entrar e sair de ambulâncias, doentes cardíacos que só descobrem a doença na urgência. Foi a partir de problemas assim, bem conhecidos de quem trabalha no Serviço Nacional de Saúde (SNS), que nasceram os quatro projetos vencedores da 5.ª edição das Bolsas Mais Valor em Saúde – Vidas que Valem. As Unidades Locais de…",
+      "image": ""
+    },
+    {
+      "title": "Quanto vale a saúde para a economia? “Vale tudo”, responde Maria de Belém",
+      "url": "https://healthnews.pt/2026/11/19/quanto-vale-a-saude-para-a-economia-vale-tudo-responde-maria-de-belem/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-19T10:02:14Z",
+      "description": "O Serviço Nacional de Saúde (SNS) tem \"muito mais capacidade de inovar do que se pensa\", mas o que de bom lá se faz raramente chega ao conhecimento público. A ideia atravessou as conclusões de Maria de Belém Roseira, presidente do júri das Bolsas Mais Valor em Saúde, na cerimónia da 5.ª edição do programa, que decorreu a 17 de novembro na sede da Ordem dos Farmacêuticos, em…",
+      "image": ""
+    },
     {
       "title": "Burocracia, vistas curtas e medo de falhar travam o valor da saúde",
       "url": "https://healthnews.pt/2026/11/19/burocracia-vistas-curtas-e-medo-de-falhar-travam-o-valor-da-saude/",
@@ -40,160 +96,104 @@
       "publishedAt": "2026-11-19T08:04:31Z",
       "description": "O presidente da Associação Rede de Universidades da Terceira Idade (RUTIS), Luís Jacob, defendeu a criação de alternativas aos lares tradicionais, alertando para as dificuldades da classe média reformada em encontrar respostas adequadas para envelhecer com autonomia.",
       "image": ""
-    },
-    {
-      "title": "TdC aponta execução de 27% no Plano de Emergência da Saúde até maio de 2025",
-      "url": "https://healthnews.pt/2026/11/19/tdc-aponta-execucao-de-27-no-plano-de-emergencia-da-saude-ate-maio-de-2025/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T07:12:25Z",
-      "description": "O Tribunal de Contas concluiu que o Plano de Emergência e Transformação da Saúde executou 117,4 milhões de euros até maio de 2025, 27% dos 442,3 milhões estimados, num processo com limitações de monitorização e diagnóstico desigual das necessidades",
-      "image": ""
-    },
-    {
-      "title": "ULS Alto Minho perde quatro diretores de serviço em poucos dias",
-      "url": "https://healthnews.pt/2026/11/19/uls-alto-minho-perde-quatro-diretores-de-servico-em-poucos-dias/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T07:11:27Z",
-      "description": "A administração da Unidade Local de Saúde do Alto Minho confirmou a saída dos responsáveis de medicina interna, pneumologia, cirurgia geral e pediatria do Hospital de Santa Luzia, em Viana do Castelo. O Bloco de Esquerda quer explicações urgentes",
-      "image": ""
-    },
-    {
-      "title": "TCE aponta falhas na regulação dos químicos eternos na UE",
-      "url": "https://healthnews.pt/2026/11/19/tce-aponta-falhas-na-regulacao-dos-quimicos-eternos-na-ue/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-19T07:10:33Z",
-      "description": "O Tribunal de Contas Europeu alerta que a União Europeia não está a travar a propagação dos químicos eternos. A maioria destas substâncias escapa à avaliação e os processos de restrição arrastam-se durante anos, conclui um relatório divulgado esta quarta-feira em Bruxelas",
-      "image": ""
-    },
-    {
-      "title": "Correia de Campos acusa a ministra da Saúde de \"substituição por varrimento\". Antigo ministro fala de \"varrer pessoas que tinham boas provas e substituí-las pela aventura\"",
-      "url": "https://www.rtp.pt/noticias/pais/correia-de-campos-acusa-a-ministra-da-saude-de-substituicao-por-varrimento-antigo-ministro-fala-de-varrer-pessoas-que-tinham-boas-provas-e-substitui-las-pela-aventura_a1779966",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T17:06:30Z",
-      "description": "Correia de Campos não tem dúvidas de que \"o problema é que o critério de escolha parece ter sido exclusivamente a escolha político-partidária em detrimento da competência técnica\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/28/2813e213cae01980cd62419512ad76dd?w=350&q=50&rect=0,579,1200,658&auto=format"
-    },
-    {
-      "title": "Plano de inverno: Ministério da Saúde garante que está \"em operação\". Especialistas têm dúvidas",
-      "url": "https://www.rtp.pt/noticias/pais/plano-de-inverno-ministerio-da-saude-garante-que-esta-em-operacao-especialistas-tem-duvidas_a1780008",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T16:30:46Z",
-      "description": "O secretário de Estado da Gestão da Saúde adiantou na Antena 1 que o Plano de Inverno \"já está em operação\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e09331026c47a60dc01a6bb80aba62cc?w=350&q=50&rect=0,199,1600,877&auto=format"
-    },
-    {
-      "title": "Doença Pulmonar. Crises agudas custam 11 milhões",
-      "url": "https://www.rtp.pt/noticias/pais/doenca-pulmonar-crises-agudas-custam-11-milhoes_v1780002",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T14:56:48Z",
-      "description": "Por cada seis meses, Portugal gasta 11 milhões de euros a gerir as crises agudas da Doeça Pulmonar Obstrutiva Crónica.",
-      "image": "https://cdn-images.rtp.pt/icm/images/79/79c212de7e3daeed538cf7d8615deb47_N.jpg?"
-    },
-    {
-      "title": "Chove na Unidade de Saúde de Modivas",
-      "url": "https://www.rtp.pt/noticias/pais/chove-na-unidade-de-saude-de-modivas_v1779982",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-18T13:50:47Z",
-      "description": "A denúncia é do Sindicato dos Médicos do Norte que acusa o ministério da saúde de não fazer nada e deixar que as infraestruturas se degradem.",
-      "image": "https://cdn-images.rtp.pt/icm/images/93/93b54dfa0ac1dacebfc0f8320ad74c78_N.jpg?"
     }
   ],
   "world": [
     {
-      "title": "Polícia espanhola detém quatro suspeitos de rede que cobrava 8 mil euros a migrantes de Ceuta",
-      "url": "https://pt.euronews.com/2026/11/19/policia-espanhola-detem-quatro-suspeitos-de-rede-que-cobrava-8-mil-euros-a-migrantes-de-ce",
-      "source": "Euronews",
-      "publishedAt": "2026-11-19T12:51:14Z",
-      "description": "Segundo a investigação, as vítimas permaneciam numa casa no bairro do Príncipe, onde terão sido ameaçadas com armas de fogo, privadas da liberdade e punidas.",
-      "image": "https://images.euronews.com/articles/stories/09/99/95/22/1200x675_cmsv2_9a36f7b5-8586-5b35-86d3-714cb6a12c3d-9999522.jpg"
-    },
-    {
-      "title": "Tribunal Internacional de Justiça condena Myanmar por genocídio contra os Rohingya",
-      "url": "https://pt.euronews.com/2026/11/19/tribunal-internacional-de-justica-condena-myanmar-por-genocidio-contra-os-rohingya",
-      "source": "Euronews",
-      "publishedAt": "2026-11-19T12:45:26Z",
-      "description": "Tribunal Internacional de Justiça condena Myanmar por genocídio contra grupo minoritário, os Rohingya.",
-      "image": "https://images.euronews.com/articles/stories/09/99/96/75/1200x675_cmsv2_7fae1bc7-fad0-58ad-93fe-5c3fc45a9048-9999675.jpg"
-    },
-    {
-      "title": "Após ataque à Ponte da Crimeia, forças armadas ucranianas felicitam Portugal \"ponte mais longa da Europa\"",
-      "url": "https://pt.euronews.com/2026/11/19/apos-ataque-a-ponte-da-crimeia-forcas-armadas-ucranianas-felicitam-portugal-ponte-mais-lon",
-      "source": "Euronews",
-      "publishedAt": "2026-11-19T12:30:24Z",
-      "description": "Após os ataques noturnos à Ponte da Crimeia, o Estado-Maior das Forças Armadas da Ucrânia deixou uma mensagem na rede social X a felicitar Portugal, e a Ponte Vasco da Gama, por ser agora a mais longa da Europa.",
-      "image": "https://images.euronews.com/articles/stories/09/99/96/73/1200x675_cmsv2_52938e33-b078-59c4-8b64-02ea75cea1b2-9999673.jpg"
-    },
-    {
-      "title": "Ucrânia ataca, pela terceira vez esta semana, ponte estratégica que liga Rússia à Crimeia",
-      "url": "https://pt.euronews.com/2026/11/19/ucrania-ataca-pela-terceira-vez-esta-semana-ponte-estrategica-que-liga-russia-a-crimeia",
-      "source": "Euronews",
-      "publishedAt": "2026-11-19T12:19:19Z",
-      "description": "O ministério russo dos Transportes indicou que ninguém ficou ferido no ataque e que os serviços ferroviários na ponte foram suspensos temporariamente.",
-      "image": "https://images.euronews.com/articles/stories/09/99/96/74/1200x675_cmsv2_6a9c2ca9-c297-5809-858a-d675a5afc3de-9999674.jpg"
-    },
-    {
-      "title": "\"Declaração de Paz\". China, Rússia e EUA querem aumentar oferta de produtos petrolíferos refinados",
-      "url": "https://www.rtp.pt/noticias/mundo/declaracao-de-paz-china-russia-e-eua-querem-aumentar-oferta-de-produtos-petroliferos-refinados_n1780199",
+      "title": "Zelensky vê ataques na Crimeia como ato deliberado contra propriedade ucraniana",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana_n1780362",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T12:10:30Z",
-      "description": "A China, a Rússia e os EUA planeiam aumentar a produção e o fornecimento de produtos petrolíferos refinados em benefício dos países de todo o mundo. A informação foi avançada numa \"Declaração de Paz\" conjunta após uma inédita cimeira trilateral.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/9d/9d8971e5f6e390b810d9d8deaddd1bbb?w=350&q=50&rect=0,70,1500,822&auto=format"
+      "publishedAt": "2026-11-20T00:27:27Z",
+      "description": "O Presidente da Ucrânia, Volodymyr Zelensky, defendeu hoje que os ataques das suas forças contra a ponte da Crimeia são um ato deliberado contra propriedade nacional, lembrando que a península sob controlo russo é território ucraniano.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "UE adia regras do metano até 2029: decisão criticada como concessão ao petróleo e gás",
-      "url": "https://pt.euronews.com/2026/11/19/ue-adia-regras-do-metano-ate-2029-decisao-criticada-como-concessao-ao-petroleo-e-gas",
+      "title": "Exército russo aproveita `febre` do \"GTA VI\" para recrutar combatentes",
+      "url": "https://www.rtp.pt/noticias/mundo/exercito-russo-aproveita-febre-do-gta-vi-para-recrutar-combatentes_n1780369",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T00:25:52Z",
+      "description": "O exército russo aproveitou hoje o entusiasmo global gerado pelo lançamento do videojogo \"Grand Theft Auto VI\" para incentivar a população a alistar-se nas suas fileiras e a combater na Ucrânia.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Sánchez pede perdão por corrupção e Feijóo promete governo decente",
+      "url": "https://www.rtp.pt/noticias/mundo/sanchez-pede-perdao-por-corrupcao-e-feijoo-promete-governo-decente_n1780377",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T00:22:41Z",
+      "description": "O socialista Pedro Sánchez admitiu hoje erros e pediu perdão pela corrupção no governo espanhol que lidera, num debate com o principal adversário nas eleições de 29 de novembro, o presidente do Partido Popular (PP), Alberto Núñez Feijóo.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/29/296dd6dc3d97b8687d0988d4f735c423.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "EUA. Nomeado para agência que protege eleições não considera invasão do Capitólio um ataque",
+      "url": "https://www.rtp.pt/noticias/mundo/eua-nomeado-para-agencia-que-protege-eleicoes-nao-considera-invasao-do-capitolio-um-ataque_n1780378",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T00:21:29Z",
+      "description": "A escolha do Presidente norte-americano Donald Trump para liderar uma agência com um papel fundamental na proteção das eleições nos EUA frisou quinta-feira aos senadores, durante uma audição, que não classifica a insurreição no Capitólio como um ataque.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Novas explosões ouvidas em Kiev",
+      "url": "https://www.rtp.pt/noticias/mundo/novas-explosoes-ouvidas-em-kiev_v1780374",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T00:11:48Z",
+      "description": "Nas últimas horas, um ataque de drone russo danificou parcialmente as embaixadas da Áustria e dos Países Baixos na Ucrânia.",
+      "image": "https://cdn-images.rtp.pt/icm/images/3a/3a67c53694d115758d7ec146756443c7_N.jpg?"
+    },
+    {
+      "title": "Zelensky insiste que para a guerra terminar é preciso \"uma Europa forte\"",
+      "url": "https://www.rtp.pt/noticias/mundo/zelensky-insiste-que-para-a-guerra-terminar-e-preciso-uma-europa-forte_n1780366",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-19T23:57:17Z",
+      "description": "O presidente da Ucrânia insiste que os representantes europeus participem nas futuras rondas negociais para o fim do conflito, afirmando que para a guerra terminar, é preciso uma \"Europa forte\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e3d9a5a09d9748131c97cd446ddeb1d.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Ucrânia: ataques russos danificam embaixadas da Áustria e dos Países Baixos em Kiev",
+      "url": "https://pt.euronews.com/video/2026/11/20/ucrania-ataques-russos-danificam-embaixadas-da-austria-e-dos-paises-baixos-em-kiev",
       "source": "Euronews",
-      "publishedAt": "2026-11-19T12:04:50Z",
-      "description": "Deputados europeus e governos da UE acordaram em adiar por dois anos as regras-chave sobre emissões de metano, sob pressão da indústria fóssil e receios sobre segurança e custos da energia.",
-      "image": "https://images.euronews.com/articles/stories/09/99/92/67/1200x675_cmsv2_4269cba9-3610-596b-ac1e-b4c491eeef37-9999267.jpg"
+      "publishedAt": "2026-11-19T23:22:24Z",
+      "description": "Ataques russos danificaram as embaixadas da Áustria e dos Países Baixos em Kiev na quinta-feira. As janelas ficaram partidas e veículos danificados, mas o pessoal diplomático saiu ileso.",
+      "image": "https://images.euronews.com/articles/stories/10/00/08/65/1200x675_cmsv2_228a6f12-5732-5687-a33e-c01bc98e6e7f-10000865.jpg"
     },
     {
-      "title": "Itália aprova lei polémica contra o antissemitismo",
-      "url": "https://pt.euronews.com/2026/11/19/italia-aprova-lei-contra-o-antissemitismo-polemica-sobre-definicao",
+      "title": "Paquistão defende nova arquitetura de segurança regional que também beneficia a Europa",
+      "url": "https://pt.euronews.com/2026/11/19/paquistao-defende-nova-arquitetura-de-seguranca-regional-que-tambem-beneficia-a-europa",
       "source": "Euronews",
-      "publishedAt": "2026-11-19T11:35:50Z",
-      "description": "Câmara aprova em definitivo projeto contra o antissemitismo e reacende divisão sobre limite entre antissemitismo e crítica ao governo israelita.",
-      "image": "https://images.euronews.com/articles/stories/09/99/66/01/1200x675_cmsv2_ce204825-b92b-580d-b75c-eccd72b8a9e7-9996601.jpg"
+      "publishedAt": "2026-11-19T21:19:11Z",
+      "description": "Numa entrevista exclusiva ao programa World Conversation da Euronews, o vice-primeiro-ministro do Paquistão revelou esforços discretos que levaram ao acordo EUA-Israel para pôr fim à guerra em junho e expôs a estratégia paquistanesa para uma nova arquitetura de segurança regional com a Europa",
+      "image": "https://images.euronews.com/articles/stories/10/00/01/96/1200x675_cmsv2_5b5281c2-247b-54fb-9811-94392b6b1e9f-10000196.jpg"
     },
     {
-      "title": "Comunidade rohingyas. O massacre que chegou ao Tribunal da ONU",
-      "url": "https://www.rtp.pt/noticias/mundo/comunidade-rohingyas-o-massacre-que-chegou-ao-tribunal-da-onu_n1780174",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T11:06:39Z",
-      "description": "O Tribunal Internacional de Justiça (TIJ) diz ter provas que confirmam que milhares de civis rohingyas foram mortos pelas forças de segurança de Myanmar durante a operação militar de 2017. O reconhecimento das atrocidades marca um momento decisivo num processo iniciado pela Gâmbia em 2019, que procura determinar se o Estado cometeu genocídio contra esta minoria muçulmana.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5ed83054cae088935834df4402abb8d4.jpg?w=350&q=50&auto=format"
+      "title": "Espanha abre hospital de campanha em El Hierro para aliviar pressão migratória",
+      "url": "https://pt.euronews.com/2026/11/19/espanha-abre-hospital-de-campanha-em-el-hierro-para-aliviar-pressao-migratoria",
+      "source": "Euronews",
+      "publishedAt": "2026-11-19T19:56:54Z",
+      "description": "As lonas visam responder às necessidades médicas básicas dos quase 12.000 imigrantes chegados em novembro, aliviando a pressão sobre o único centro da ilha e o seu Centro de Acolhimento Temporário de Estrangeiros.",
+      "image": "https://images.euronews.com/articles/stories/10/00/02/20/1200x675_cmsv2_ff8bdd1d-b38d-50cf-920c-54e269fef312-10000220.jpg"
     },
     {
-      "title": "Falta terra. Deputados macaenses propõem que as pessoas sejam sepultadas no mar",
-      "url": "https://www.rtp.pt/noticias/mundo/falta-terra-deputados-macaenses-propoem-que-as-pessoas-sejam-sepultadas-no-mar_n1780162",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T10:05:47Z",
-      "description": "Em Macau, os deputados solicitaram às autoridades que considerassem a opção de fazer sepultamentos marítimos, como resposta aos \"recursos territoriais limitados\". A proposta oferece \"mais uma opção verde\", defendem.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/36/365a3e8941b02b558329c8b5c32e7731?w=350&q=50&rect=0,101,1500,822&auto=format"
+      "title": "França vai monitorizar YouTubers por viés político antes das eleições de 2027",
+      "url": "https://pt.euronews.com/2026/11/19/franca-vai-monitorizar-youtubers-por-vies-politico-antes-das-eleicoes-de-2027",
+      "source": "Euronews",
+      "publishedAt": "2026-11-19T19:49:36Z",
+      "description": "As eleições presidenciais francesas estão marcadas para 18 de abril e 2 de maio do próximo ano, com a líder da extrema-direita Marine Le Pen a liderar as sondagens. As legislativas deverão seguir-se em junho.",
+      "image": "https://images.euronews.com/articles/stories/10/00/03/37/1200x675_cmsv2_78d76f37-1ebb-584c-ac1e-af1bd27712bc-10000337.jpg"
     },
     {
-      "title": "Comissão Europeia alvo de um ciberataque",
-      "url": "https://www.rtp.pt/noticias/mundo/comissao-europeia-alvo-de-um-ciberataque_n1780157",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T09:37:40Z",
-      "description": "Foram atingidas plataformas que armazenam informação sobre salários, horários de trabalho e despesas médicas dos funcionários. Bruxelas acredita que conteve a maior parte do ataque, mas a extensão total dos eventuais danos ainda não é clara, afirma um responsável da União Europeia citado pelo jornal Politico.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d6509c87dfcbc67e343ee25129a352f6?w=350&q=50&rect=0,211,1500,822&auto=format"
+      "title": "Macron apoia reabertura da questão da adesão da Ucrânia à NATO",
+      "url": "https://pt.euronews.com/2026/11/19/macron-apoia-reabertura-da-questao-da-adesao-da-ucrania-a-nato",
+      "source": "Euronews",
+      "publishedAt": "2026-11-19T19:46:26Z",
+      "description": "Presidente francês afirmou que a adesão da Ucrânia à NATO foi posta de lado no início de 2022, num contexto “totalmente diferente”.",
+      "image": "https://images.euronews.com/articles/stories/10/00/03/20/1200x675_cmsv2_e6aec5bf-afb3-58fc-9db0-4f421008316c-10000320.jpg"
     },
     {
-      "title": "\"Estamos a fazer história\". Trump com Xi e Putin fala em \"posição única\" para reduzir arsenal nuclear",
-      "url": "https://www.rtp.pt/noticias/mundo/estamos-a-fazer-historia-trump-com-xi-e-putin-fala-em-posicao-unica-para-reduzir-arsenal-nuclear_n1780159",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T09:21:38Z",
-      "description": "Os três líderes realizaram uma cimeira trilateral inédita na China. Em cima da mesa estiveram o desarmamento nuclear, a guerra na Ucrânia e a inteligência artificial.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/35/35aec15d02cea91204960147debfe19c.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "COP31. Eletrificação é prioridade global",
-      "url": "https://www.rtp.pt/noticias/economia/cop31-eletrificacao-e-prioridade-global_n1780156",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-19T08:44:27Z",
-      "description": "A conferencia do Clima das Nações Unidas, na Turquia, quer transformar a eletrificação numa prioridade global. Uma ação para o qual foi apresentado um pacote de medidas para acelerar a substituição dos combustíveis fósseis por eletricidade limpa.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d32d7368794895d41100e06672392de.jpg?w=350&q=50&auto=format"
+      "title": "Líderes europeus rejeitam um “Ialta 2.0” para a Ucrânia após Trump se ter encontrado com Putin e Xi",
+      "url": "https://pt.euronews.com/2026/11/19/lideres-europeus-rejeitam-um-ialta-20-para-a-ucrania-apos-trump-se-ter-encontrado-com-puti",
+      "source": "Euronews",
+      "publishedAt": "2026-11-19T18:58:03Z",
+      "description": "“Um formato de Ialta não trará paz”, afirmou o chanceler alemão Friedrich Merz no final de uma reunião da Coligação dos Dispostos em Berlim, poucas horas depois de Trump, Putin e Xi terem mantido conversações na China.",
+      "image": "https://images.euronews.com/articles/stories/09/99/99/55/1200x675_cmsv2_582af645-67d4-5682-b5cd-f2fa4a6ef953-9999955.jpg"
     }
   ]
 }
