@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-21T02:17:14.668039Z",
+  "updatedAt": "2026-11-21T11:05:11.009234Z",
   "health": [
+    {
+      "title": "Pele artificial produzida em laboratório poderá estar disponível a partir de 2040",
+      "url": "https://healthnews.pt/2026/11/21/pele-artificial-produzida-em-laboratorio-podera-estar-disponivel-a-partir-de-2040/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T09:26:48Z",
+      "description": "Várias entidades públicas e privadas francesas anunciaram a criação, em laboratório, de uma pele artificial viva, conservada por congelação e concebida para estar pronta a ser transplantada. A tecnologia, desenvolvida ao longo de cinco anos, terá ainda de ser avaliada em ensaios clínicos.",
+      "image": ""
+    },
+    {
+      "title": "Raquel Duarte assume direção do ICBAS com foco em recursos humanos e revisão curricular",
+      "url": "https://healthnews.pt/2026/11/21/raquel-duarte-assume-direcao-do-icbas-com-foco-em-recursos-humanos-e-revisao-curricular/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:16:13Z",
+      "description": "A professora catedrática e pneumologista Raquel Duarte foi eleita por maioria para dirigir o Instituto de Ciências Biomédicas Abel Salazar, sucedendo a Henrique Cyrne Carvalho. O mandato decorre entre 2026 e 2030 e a tomada de posse cabe ao reitor Pedro Teixeira agendar",
+      "image": ""
+    },
+    {
+      "title": "UC Biomed inaugura em Coimbra com investimento de 38 milhões de euros",
+      "url": "https://healthnews.pt/2026/11/21/uc-biomed-inaugura-em-coimbra-com-investimento-de-38-milhoes-de-euros/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:15:14Z",
+      "description": "A Universidade de Coimbra inaugura na terça-feira o UC Biomed, edifício de investigação biomédica com 12.629 metros quadrados no Polo III, que representou um investimento superior a 38 milhões de euros, com financiamento europeu de cerca de 27 milhões.",
+      "image": ""
+    },
+    {
+      "title": "Hospital de Ponta Delgada com 1,2 milhões para requalificar cirurgia ambulatória",
+      "url": "https://healthnews.pt/2026/11/21/hospital-de-ponta-delgada-com-12-milhoes-para-requalificar-cirurgia-ambulatoria/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:14:18Z",
+      "description": "O Governo dos Açores vai lançar ainda antes do Natal o concurso para requalificar duas salas do serviço de cirurgia do Hospital Divino Espírito Santo, num investimento de 1,2 milhões de euros. José Manuel Bolieiro espera ter as salas prontas em 2027 e admite 70 cirurgias a mais por semana",
+      "image": ""
+    },
+    {
+      "title": "Hospital de Seia retoma cirurgias oftalmológicas em ambulatório",
+      "url": "https://healthnews.pt/2026/11/21/hospital-de-seia-retoma-cirurgias-oftalmologicas-em-ambulatorio/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:13:03Z",
+      "description": "O Hospital Nossa Senhora da Assunção, em Seia, iniciou esta semana a atividade cirúrgica de ambulatório na especialidade de Oftalmologia, incluindo cataratas, para evitar deslocações dos doentes a outras unidades, anunciou a ULS da Guarda",
+      "image": ""
+    },
+    {
+      "title": "Alcanena investe 2,6 milhões em centros de saúde e abre fórum sobre falta de médicos",
+      "url": "https://healthnews.pt/2026/11/21/alcanena-investe-26-milhoes-em-centros-de-saude-e-abre-forum-sobre-falta-de-medicos/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:12:23Z",
+      "description": "Alcanena inaugura na terça-feira obras de requalificação dos centros de saúde locais e de Minde, num investimento de 2,63 milhões de euros, no mesmo dia em que promove um fórum nacional para debater a atração e fixação de médicos de família",
+      "image": ""
+    },
+    {
+      "title": "Centro de saúde de Alcains inaugurado sem data de abertura ao público",
+      "url": "https://healthnews.pt/2026/11/21/centro-de-saude-de-alcains-inaugurado-sem-data-de-abertura-ao-publico/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:11:01Z",
+      "description": "O vereador da Iniciativa Liberal José Henriques questionou o presidente da Câmara de Castelo Branco sobre a entrada em funcionamento do novo centro de saúde de Alcains, inaugurado a 12 de novembro mas ainda parado. Leopoldo Rodrigues respondeu que a competência passou para a ULS e que a autarquia já entregou as chaves do edifício",
+      "image": ""
+    },
+    {
+      "title": "Enfermeiro da ESEUC lidera associação de especialistas em Médico-Cirúrgica",
+      "url": "https://healthnews.pt/2026/11/21/enfermeiro-da-eseuc-lidera-associacao-de-especialistas-em-medico-cirurgica/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:10:03Z",
+      "description": "Pedro Ribeiro foi eleito presidente da AEEEMC para o mandato 2026-2030. A lista vencedora integra mais três docentes da Escola Superior de Enfermagem da Universidade de Coimbra e propõe reforçar a representação dos mais de 7500 especialistas junto das entidades nacionais",
+      "image": ""
+    },
     {
       "title": "\"Dificuldade em escalas\". Hospital Dona Estefânia sem anestesistas durante sete noites",
       "url": "https://www.rtp.pt/noticias/pais/dificuldade-em-escalas-hospital-dona-estefania-sem-anestesistas-durante-sete-noites_v1780647",
@@ -26,70 +90,6 @@
       "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Greve da função pública com adesão de 90% nas escolas e perturbações em hospitais e serviços",
-      "url": "https://healthnews.pt/2026/11/20/greve-da-funcao-publica-com-adesao-de-90-nas-escolas-e-perturbacoes-em-hospitais-e-servicos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T13:19:43Z",
-      "description": "A greve nacional da função pública convocada pela Frente Comum registou hoje uma adesão que o coordenador da estrutura sindical, Sebastião Santana, estimou em cerca de 90% nas escolas, com fortes perturbações em hospitais, segurança social, finanças e autarquias, e serviços mínimos em vários locais",
-      "image": ""
-    },
-    {
-      "title": "FNAM prevê constrangimentos em consultas e cirurgias programadas",
-      "url": "https://healthnews.pt/2026/11/20/fnam-preve-constrangimentos-em-consultas-e-cirurgias-programadas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T09:39:18Z",
-      "description": "A Federação Nacional dos Médicos (FNAM) prevê que a greve da função pública desta quinta-feira provoque “maiores constrangimentos nas consultas e cirurgias programadas” a partir das 08:00, quando começarem a funcionar os serviços que não estão abrangidos pelos serviços mínimos.",
-      "image": ""
-    },
-    {
-      "title": "Xavier Barreto considera financiamento do SNS «quase um exercício de ficção»",
-      "url": "https://healthnews.pt/2026/11/20/xavier-barreto-considera-financiamento-do-sns-quase-um-exercicio-de-ficcao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T09:25:43Z",
-      "description": "O presidente da Associação Portuguesa de Administradores Hospitalares (APAH), Xavier Barreto, considera que o cálculo do financiamento do Serviço Nacional de Saúde (SNS) está cada vez mais afastado da realidade e defende uma nova abordagem à governação, começando pela nomeação de gestores experientes.",
-      "image": ""
-    },
-    {
-      "title": "Greve da função pública já afeta hospitais, escolas e recolha de resíduos",
-      "url": "https://healthnews.pt/2026/11/20/greve-da-funcao-publica-ja-afeta-hospitais-escolas-e-recolha-de-residuos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T09:22:00Z",
-      "description": "O coordenador da Frente Comum afirmou hoje, em Lisboa, que a greve da função pública regista uma forte adesão desde a noite, com efeitos já visíveis nos setores da saúde, da educação e da recolha de resíduos.",
-      "image": ""
-    },
-    {
-      "title": "Baixa literacia em saúde afeta quase metade dos jovens e dos idosos",
-      "url": "https://healthnews.pt/2026/11/20/baixa-literacia-em-saude-afeta-quase-metade-dos-jovens-e-dos-idosos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T08:11:04Z",
-      "description": "Quase metade dos idosos e 44,2% dos jovens apresentam baixa literacia em saúde, segundo um estudo divulgado pela equipa do Laboratório Português de Ambientes de Trabalho Saudáveis (Labpats). Os investigadores alertam também para as dificuldades dos mais velhos em usar informação digital sobre saúde.",
-      "image": ""
-    },
-    {
-      "title": "Mais Valor em Saúde premeia o SNS que leva os cuidados para perto dos doentes",
-      "url": "https://healthnews.pt/2026/11/20/mais-valor-em-saude-premeia-o-sns-que-leva-os-cuidados-para-perto-dos-doentes/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T08:08:26Z",
-      "description": "Mais de um ano à espera de uma consulta de coluna, idosos a entrar e sair de ambulâncias, doentes cardíacos que só descobrem a doença na urgência. Foi a partir de problemas assim, bem conhecidos de quem trabalha no Serviço Nacional de Saúde (SNS), que nasceram os quatro projetos vencedores da 5.ª edição das Bolsas Mais Valor em Saúde – Vidas que Valem. As Unidades Locais de…",
-      "image": ""
-    },
-    {
-      "title": "Médico e enfermeira condenados em Angola por morte de mãe e bebé durante o parto",
-      "url": "https://healthnews.pt/2026/11/20/medico-e-enfermeira-condenados-em-angola-por-morte-de-mae-e-bebe-durante-o-parto/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T07:11:47Z",
-      "description": "Um médico e uma enfermeira foram condenados hoje, em Luanda, pela morte de uma grávida e do bebé durante uma cesariana realizada há dois anos na Clínica Santa Marta, entretanto encerrada pelas autoridades sanitárias angolanas; o tribunal aplicou penas de prisão efetiva e suspensa e proibiu os dois profissionais de exercer",
-      "image": ""
-    },
-    {
-      "title": "Adecco: trabalhadores com voz no redesenho do trabalho retiram mais valor da IA",
-      "url": "https://healthnews.pt/2026/11/20/adecco-trabalhadores-com-voz-no-redesenho-do-trabalho-retiram-mais-valor-da-ia/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T07:10:09Z",
-      "description": "Estudo do Grupo Adecco com 40.500 trabalhadores de 36 países indica que a IA rende mais quando integrada nos processos e não apenas acrescentada. Quem participa no redesenho poupa mais tempo e adapta-se melhor; equilíbrio entre vida pessoal e profissional destrona o salário como motivo para mudar de emprego",
-      "image": ""
-    },
-    {
       "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
       "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
       "source": "RTP Notícias",
@@ -99,6 +99,54 @@
     }
   ],
   "world": [
+    {
+      "title": "Milhares de trabalhadores esperados em Lisboa para protestar contra o aumento do custo de vida",
+      "url": "https://pt.euronews.com/2026/11/21/milhares-de-trabalhadores-esperados-em-lisboa-para-protestar-contra-o-aumento-do-custo-de-",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T10:53:24Z",
+      "description": "Portugal prepara-se para mais um dia de protesto, com milhares de trabalhadores convocados para uma manifestação nacional em Lisboa. Lutam por melhores salários e pensões, habitação e educação, e contra o aumento do custo de vida.",
+      "image": "https://images.euronews.com/articles/stories/10/00/25/40/1200x675_cmsv2_7f580c90-ddff-5dcf-9137-45f69474bf2a-10002540.jpg"
+    },
+    {
+      "title": "Japão: táxi aéreo autónomo faz primeiro voo com passageiro sem piloto",
+      "url": "https://pt.euronews.com/video/2026/11/21/japao-taxi-aereo-autonomo-faz-primeiro-voo-com-passageiro-sem-piloto",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T10:22:07Z",
+      "description": "Um táxi aéreo elétrico sem piloto transportou um passageiro numa demonstração, a 20 de novembro de 2026, na província japonesa de Yamanashi. A aeronave chinesa descolou na vertical e voou de forma autónoma, antecipando um possível futuro do transporte urbano",
+      "image": "https://images.euronews.com/articles/stories/10/00/25/55/1200x675_cmsv2_9c507217-e8af-59cb-ac47-6fa87fed92e7-10002555.jpg"
+    },
+    {
+      "title": "Estados Unidos: Pentágono divulga novos ficheiros sobre fenómenos anómalos não identificados",
+      "url": "https://pt.euronews.com/2026/11/21/estados-unidos-pentagono-divulga-novos-ficheiros-sobre-fenomenos-anomalos-nao-identificado",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T09:02:35Z",
+      "description": "Departamento de Guerra dos Estados Unidos divulga oitavo conjunto de arquivos históricos desclassificados sobre fenómenos anómalos não identificados, prevendo tornar públicos mais documentos",
+      "image": "https://images.euronews.com/articles/stories/10/00/25/08/1200x675_cmsv2_9ef09bce-d8e3-5b48-8d8b-7dce02bdd5a0-10002508.jpg"
+    },
+    {
+      "title": "EUA: Construção \"arco triunfal\" proposto por Trump volta a ser travado por juiz",
+      "url": "https://pt.euronews.com/2026/11/21/eua-construcao-arco-triunfal-proposto-por-trump-volta-a-ser-travado-por-juiz",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T09:02:29Z",
+      "description": "Trump, que lançou uma campanha para remodelar Washington desde o regresso à Casa Branca em janeiro de 2025, afirmou que o edifício seria transformado num “complexo militar de topo”.",
+      "image": "https://images.euronews.com/articles/stories/10/00/24/69/1200x675_cmsv2_cf26239a-bd28-5067-bb0b-443eacfc20fc-10002469.jpg"
+    },
+    {
+      "title": "Donald Trump defende relações com Putin e acusa Irão de enganar nas negociações",
+      "url": "https://pt.euronews.com/2026/11/21/donald-trump-defende-relacoes-com-putin-e-acusa-irao-de-enganar-nas-negociacoes",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T07:11:42Z",
+      "description": "Ao falar na Casa Branca após a viagem à Ásia, Trump defendeu as relações com Xi e Putin, afirmando que o líder russo queria pôr fim à guerra pela via diplomática. Pediu também um “acordo real” com o Irão.",
+      "image": "https://images.euronews.com/articles/stories/10/00/20/96/1200x675_cmsv2_3a56aa46-3dab-5407-b76c-355314e65330-10002096.jpg"
+    },
+    {
+      "title": "Saída antecipada de Lagarde do BCE agita corrida presidencial em França",
+      "url": "https://pt.euronews.com/2026/11/21/saida-antecipada-de-lagarde-do-bce-agita-corrida-presidencial-em-franca",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T07:00:50Z",
+      "description": "Lagarde mantém-se vinculada à neutralidade política até ao fim do mandato como presidente do BCE, em fevereiro de 2027, dois meses antes da primeira volta das presidenciais francesas.",
+      "image": "https://images.euronews.com/articles/stories/09/97/22/19/1200x675_cmsv2_63204c28-80b2-5549-ac5f-6d8e04453b5b-9972219.jpg"
+    },
     {
       "title": "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
       "url": "https://www.rtp.pt/noticias/mundo/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang_n1780691",
@@ -116,16 +164,8 @@
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Alemanha: estudantes manifestam-se em Berlim contra rearme e serviço militar obrigatório",
-      "url": "https://pt.euronews.com/video/2026/11/20/alemanha-estudantes-manifestam-se-em-berlim-contra-rearme-e-servico-militar-obrigatorio",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T22:55:31Z",
-      "description": "Milhares de estudantes marcharam em Berlim, a 20 de novembro de 2026, contra a rápida rearmamentação militar e o regresso do serviço militar obrigatório, integrando uma vaga de protestos juvenis por toda a Europa.",
-      "image": "https://images.euronews.com/articles/stories/10/00/22/24/1200x675_cmsv2_bb42be7a-183f-53ef-93ff-ae7c7db5e7f3-10002224.jpg"
-    },
-    {
       "title": "Israel ataca reunião com membros do Hamas que preparavam atentados",
-      "url": "https://www.rtp.pt/noticias/mundo/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-20T22:10:20Z",
       "description": "As forças israelitas divulgaram hoje que atacaram vários membros do Hamas que estavam reunidos na Faixa de Gaza para preparar ataques terroristas, incluindo elementos da unidade de elite Nukhba do movimento islamita palestiniano.",
@@ -154,46 +194,6 @@
       "publishedAt": "2026-11-20T20:15:04Z",
       "description": "O Conselho de Segurança da ONU permanece sem consenso sobre o futuro secretário-geral da organização, confirmaram hoje os Estados Unidos (EUA), após uma votação que manteve a costa-riquenha Rebeca Grynspan como a mais apoiada, embora com votos contra.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Chuva forte no fim de semana: oito distritos de Portugal sob aviso laranja. Manteigas em alerta",
-      "url": "https://pt.euronews.com/2026/11/20/chuva-forte-no-fim-de-semana-oito-distritos-de-portugal-sob-aviso-laranja-manteigas-em-ale",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T19:49:40Z",
-      "description": "Distritos que merecem maior atenção são Viana do Castelo, Braga, Vila Real, Porto, Aveiro, Viseu, Coimbra e Guarda. Por precaução, Manteigas, onde houve deslizamentos de terra na quarta-feira, decretou situação de alerta municipal para sábado.",
-      "image": "https://images.euronews.com/articles/stories/10/00/22/59/1200x675_cmsv2_577f457f-f44d-5a9e-a4d1-f202a948ec9b-10002259.jpg"
-    },
-    {
-      "title": "Atriz acusa Gérard Depardieu e Michel Houellebecq de violação em grupo",
-      "url": "https://pt.euronews.com/2026/11/20/atriz-acusa-gerard-depardieu-e-michel-houellebecq-de-violacao-em-grupo",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T18:54:18Z",
-      "description": "Uma atriz acusa dois homens de agressão sexual durante uma rodagem em dezembro de 2018. O realizador de “Thalasso”, Guillaume Nicloux, é citado na queixa. Foi aberta uma investigação.",
-      "image": "https://images.euronews.com/articles/stories/10/00/22/26/1200x675_cmsv2_e1cb6026-7f66-570c-9821-b3d370544c67-10002226.jpg"
-    },
-    {
-      "title": "Europa: milhares protestam por melhores salários e serviços públicos",
-      "url": "https://pt.euronews.com/2026/11/20/europa-milhares-protestam-por-melhores-salarios-e-servicos-publicos",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T17:58:14Z",
-      "description": "Esta sexta-feira houve manifestações em mais de 25 países europeus, que deverão prolongar-se pelo fim de semana, integradas num movimento internacional coordenado de protesto.",
-      "image": "https://images.euronews.com/articles/stories/10/00/21/02/1200x675_cmsv2_6d8a3374-39d3-5f0c-a86f-23b5059b8d65-10002102.jpg"
-    },
-    {
-      "title": "Ruanda: cinco países da UE planeiam centros de retorno com eficácia em dúvida",
-      "url": "https://pt.euronews.com/2026/11/20/rwanda-cinco-paises-da-ue-planeiam-centros-de-retorno-com-eficacia-em-duvida",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T17:35:50Z",
-      "description": "Cinco países da UE anunciaram um plano polémico para criar um centro no Ruanda para migrantes sem direito legal a permanecer na Europa, gerando alertas sobre direitos humanos e falta de supervisão",
-      "image": "https://images.euronews.com/articles/stories/09/98/96/17/1200x675_cmsv2_a67117be-28d2-5fab-ab3a-b72d73f4b481-9989617.jpg"
-    },
-    {
-      "title": "Dinamarca expulsa adido militar russo devido a alegado plano de assassinato",
-      "url": "https://pt.euronews.com/2026/11/20/dinamarca-expulsa-adido-militar-russo-devido-a-alegado-plano-de-assassinato",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T17:21:15Z",
-      "description": "Dois homens ligados a um dos grupos criminosos mais notórios da Dinamarca foram acusados de participar num complot para assassinar um rapper ucraniano, o que desencadeou uma operação de repressão a nível nacional contra esse grupo ilegal.",
-      "image": "https://images.euronews.com/articles/stories/10/00/16/52/1200x675_cmsv2_0d7907b1-ba92-550c-b6e4-4401de9fd78b-10001652.jpg"
     }
   ]
 }
