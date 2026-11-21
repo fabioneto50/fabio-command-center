@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-11-20T21:06:49.962775Z",
+  "updatedAt": "2026-11-21T02:17:14.668039Z",
   "health": [
+    {
+      "title": "\"Dificuldade em escalas\". Hospital Dona Estefânia sem anestesistas durante sete noites",
+      "url": "https://www.rtp.pt/noticias/pais/dificuldade-em-escalas-hospital-dona-estefania-sem-anestesistas-durante-sete-noites_v1780647",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T21:24:47Z",
+      "description": "O Hospital Dona Estefânia, em Lisboa, não terá anestesistas até ao fim de novembro. Para situações consideradas urgentes, há um acordo com o Hospital de Santa Maria.",
+      "image": "https://cdn-images.rtp.pt/icm/images/34/340a133400908dc2868a390d6df35327_N.jpg?"
+    },
     {
       "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\"",
       "url": "https://www.rtp.pt/noticias/mundo/jair-bolsonaro-hospitalizado-devido-a-fortes-dores-abdominais_n1780641",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-20T20:50:34Z",
-      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro, numa publicação na rede social X.",
+      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bcdc3e5314b5a0f8f1bf56b53382717.jpg?w=350&q=50&auto=format"
     },
     {
@@ -82,14 +90,6 @@
       "image": ""
     },
     {
-      "title": "Norte com os valores mais baixos do país e da década em comportamentos aditivos",
-      "url": "https://healthnews.pt/2026/11/20/norte-com-os-valores-mais-baixos-do-pais-e-da-decada-em-comportamentos-aditivos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-20T07:09:55Z",
-      "description": "O Norte registou em 2025 os valores mais baixos da última década no consumo de álcool, tabaco e drogas ilícitas entre jovens de 18 anos, mas os jogos de apostas online sobem desde 2023, segundo o relatório Comportamentos Aditivos aos 18 anos, divulgado esta quinta-feira",
-      "image": ""
-    },
-    {
       "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
       "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
       "source": "RTP Notícias",
@@ -100,11 +100,51 @@
   ],
   "world": [
     {
+      "title": "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang_n1780691",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T00:23:25Z",
+      "description": "O Presidente dos Estados Unidos apelou à Nvidia para dar uma \"segunda oportunidade\" a Jensen Huang, o ex-chefe da gigante norte-americana de tecnologia que se demitiu após um escândalo e que o conselho de administração da empresa não prevê reintegrar.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb15f03ef487c0015ee0a58a8701ae1c.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Arábia Saudita interceta 3 mísseis lançados pelos Huthis contra Riade",
+      "url": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceta-3-misseis-lancados-pelos-huthis-contra-riade_n1780688",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T00:11:35Z",
+      "description": "A coligação militar liderada pela Arábia Saudita anunciou hoje ter intercetado três mísseis balísticos lançados pelos rebeldes iemenitas Huthis contra a capital, Riade.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Alemanha: estudantes manifestam-se em Berlim contra rearme e serviço militar obrigatório",
+      "url": "https://pt.euronews.com/video/2026/11/20/alemanha-estudantes-manifestam-se-em-berlim-contra-rearme-e-servico-militar-obrigatorio",
+      "source": "Euronews",
+      "publishedAt": "2026-11-20T22:55:31Z",
+      "description": "Milhares de estudantes marcharam em Berlim, a 20 de novembro de 2026, contra a rápida rearmamentação militar e o regresso do serviço militar obrigatório, integrando uma vaga de protestos juvenis por toda a Europa.",
+      "image": "https://images.euronews.com/articles/stories/10/00/22/24/1200x675_cmsv2_bb42be7a-183f-53ef-93ff-ae7c7db5e7f3-10002224.jpg"
+    },
+    {
+      "title": "Israel ataca reunião com membros do Hamas que preparavam atentados",
+      "url": "https://www.rtp.pt/noticias/mundo/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T22:10:20Z",
+      "description": "As forças israelitas divulgaram hoje que atacaram vários membros do Hamas que estavam reunidos na Faixa de Gaza para preparar ataques terroristas, incluindo elementos da unidade de elite Nukhba do movimento islamita palestiniano.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Trump garante que não permitirá ataque iraniano com \"bomba suja\" a Washington",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-garante-que-nao-permitira-ataque-iraniano-com-bomba-suja-a-washington_n1780652",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-20T22:08:58Z",
+      "description": "O Presidente dos Estados Unidos, Donald Trump, garantiu hoje que a sua administração vai impedir um ataque iraniano com uma \"bomba suja\" em Washington, ameaça que, segundo os media norte-americanos, está a ser considerada pelos serviços de inteligência.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a53f4aef371ca92d52d655f4c49eba21.JPG?w=350&q=50&auto=format"
+    },
+    {
       "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\"",
       "url": "https://www.rtp.pt/noticias/mundo/jair-bolsonaro-hospitalizado-devido-a-fortes-dores-abdominais_n1780641",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-20T20:50:34Z",
-      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro, numa publicação na rede social X.",
+      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bcdc3e5314b5a0f8f1bf56b53382717.jpg?w=350&q=50&auto=format"
     },
     {
@@ -113,14 +153,6 @@
       "source": "RTP Notícias",
       "publishedAt": "2026-11-20T20:15:04Z",
       "description": "O Conselho de Segurança da ONU permanece sem consenso sobre o futuro secretário-geral da organização, confirmaram hoje os Estados Unidos (EUA), após uma votação que manteve a costa-riquenha Rebeca Grynspan como a mais apoiada, embora com votos contra.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Alemanha e França avançam com candidaturas a altos cargos do BCE, Portugal de fora",
-      "url": "https://www.rtp.pt/noticias/mundo/alemanha-e-franca-avancam-com-candidaturas-a-altos-cargos-do-bce-portugal-de-fora_n1780609",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T20:12:08Z",
-      "description": "A Alemanha e a França foram os únicos países que decidiram avançar com candidaturas aos dois lugares que vão ficar vagos na Comissão Executiva do Banco Central Europeu (BCE), enquanto Portugal optou por ficar de fora.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
@@ -138,14 +170,6 @@
       "publishedAt": "2026-11-20T18:54:18Z",
       "description": "Uma atriz acusa dois homens de agressão sexual durante uma rodagem em dezembro de 2018. O realizador de “Thalasso”, Guillaume Nicloux, é citado na queixa. Foi aberta uma investigação.",
       "image": "https://images.euronews.com/articles/stories/10/00/22/26/1200x675_cmsv2_e1cb6026-7f66-570c-9821-b3d370544c67-10002226.jpg"
-    },
-    {
-      "title": "Trump diz que não irá permitir construção de centros de dados fora dos EUA",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-diz-que-nao-ira-permitir-construcao-de-centros-de-dados-fora-dos-eua_n1780615",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T18:13:52Z",
-      "description": "O republicano disse ter uma “ótima” relação com o presidente chinês, mas assumiu que não permitirá às empresas americanas construírem centros de dados fora dos EUA por receio de que Pequim “fique com todos”.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bbba93d6ce79a26f3f0fc4d93b6cf9ab.JPG?w=350&q=50&auto=format"
     },
     {
       "title": "Europa: milhares protestam por melhores salários e serviços públicos",
@@ -170,30 +194,6 @@
       "publishedAt": "2026-11-20T17:21:15Z",
       "description": "Dois homens ligados a um dos grupos criminosos mais notórios da Dinamarca foram acusados de participar num complot para assassinar um rapper ucraniano, o que desencadeou uma operação de repressão a nível nacional contra esse grupo ilegal.",
       "image": "https://images.euronews.com/articles/stories/10/00/16/52/1200x675_cmsv2_0d7907b1-ba92-550c-b6e4-4401de9fd78b-10001652.jpg"
-    },
-    {
-      "title": "Trump quer um acordo de paz para a Ucrânia antes de janeiro",
-      "url": "https://www.rtp.pt/noticias/mundo/trump-quer-um-acordo-de-paz-para-a-ucrania-antes-de-janeiro_n1780603",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T17:17:00Z",
-      "description": "O presidente dos EUA quer negociar um acordo de paz entre Kiev e Moscovo antes de os Democratas assumirem o controlo do Congresso.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5fd8f0f6efa83172949e4d19165439b5.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Polónia recebe exercícios militares com 11 países após ver espaço aéreo invadido por três objetos russos",
-      "url": "https://pt.euronews.com/2026/11/20/polonia-recebe-exercicios-militares-com-11-paises-apos-ver-espaco-aereo-invadido-por-tres-",
-      "source": "Euronews",
-      "publishedAt": "2026-11-20T17:12:25Z",
-      "description": "Vice-primeiro-ministro e ministro da Defesa, Władysław Kosiniak-Kamysz, acompanhou o exercício KOALICJA 26.2, primeiras manobras da Coligação dos Dispostos. No mesmo dia, três objetos russos violaram o espaço aéreo da Polónia",
-      "image": "https://images.euronews.com/articles/stories/10/00/19/76/1200x675_cmsv2_b1730819-7295-5415-b37e-f0ae2d146375-10001976.jpg"
-    },
-    {
-      "title": "Parceria, proximidade e acordos. União Europeia e Reino Unido aproximam-se ainda mais em Bruxelas",
-      "url": "https://www.rtp.pt/noticias/mundo/parceria-proximidade-e-acordos-uniao-europeia-e-reino-unido-aproximam-se-ainda-mais-em-bruxelas_n1780585",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T16:21:19Z",
-      "description": "Os líderes dizem que todos ficam a ganhar com este acordo mas ainda não se fala de um possível regresso do Reino Unido à União Europeia",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/75/75632442098920527164fe71d53f2d1d?w=350&q=50&rect=0,71,1200,658&auto=format"
     }
   ]
 }
