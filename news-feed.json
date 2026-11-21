@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:05:11.009234Z",
+  "updatedAt": "2026-11-21T17:58:24.590901Z",
   "health": [
     {
       "title": "Pele artificial produzida em laboratório poderá estar disponível a partir de 2040",
@@ -66,28 +66,28 @@
       "image": ""
     },
     {
+      "title": "Doentes com angioedema hereditário ainda sujeitos a terapêuticas antigas fora dos grandes centros",
+      "url": "https://healthnews.pt/2026/11/21/doentes-com-angioedema-hereditario-ainda-sujeitos-a-terapeuticas-antigas-fora-dos-grandes-centros/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:09:23Z",
+      "description": "Um estudo nacional sobre angioedema hereditário identificou 377 doentes em Portugal e conclui que quase metade dos que fazem tratamento preventivo continua medicada com androgénios atenuados, associados a efeitos secundários relevantes, sobretudo cardiometabólicos. O acesso às terapêuticas mais inovadoras varia consoante a região do país",
+      "image": ""
+    },
+    {
+      "title": "Financiamento do SNS pós-PRR deixa dúvidas no OE2027",
+      "url": "https://healthnews.pt/2026/11/21/financiamento-do-sns-pos-prr-deixa-duvidas-no-oe2027/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-21T07:08:46Z",
+      "description": "O Observatório da Despesa em Saúde aponta falta de informação sobre as receitas que sustentarão o financiamento do SNS depois do Plano de Recuperação e Resiliência e sobre os custos que os investimentos deixam para os próximos anos, num orçamento que considera de continuidade",
+      "image": ""
+    },
+    {
       "title": "\"Dificuldade em escalas\". Hospital Dona Estefânia sem anestesistas durante sete noites",
       "url": "https://www.rtp.pt/noticias/pais/dificuldade-em-escalas-hospital-dona-estefania-sem-anestesistas-durante-sete-noites_v1780647",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-20T21:24:47Z",
       "description": "O Hospital Dona Estefânia, em Lisboa, não terá anestesistas até ao fim de novembro. Para situações consideradas urgentes, há um acordo com o Hospital de Santa Maria.",
       "image": "https://cdn-images.rtp.pt/icm/images/34/340a133400908dc2868a390d6df35327_N.jpg?"
-    },
-    {
-      "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\"",
-      "url": "https://www.rtp.pt/noticias/mundo/jair-bolsonaro-hospitalizado-devido-a-fortes-dores-abdominais_n1780641",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T20:50:34Z",
-      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bcdc3e5314b5a0f8f1bf56b53382717.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "20h Ordem dos Médicos alerta para falta de anestesistas na Pediatria da Dona Estefânia",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-ordem-dos-medicos-alerta-para-falta-de-anestesistas-na-pediatria-da-dona-estefania_a1_1780636",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T20:27:02Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
     },
     {
       "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
@@ -100,52 +100,92 @@
   ],
   "world": [
     {
-      "title": "Milhares de trabalhadores esperados em Lisboa para protestar contra o aumento do custo de vida",
-      "url": "https://pt.euronews.com/2026/11/21/milhares-de-trabalhadores-esperados-em-lisboa-para-protestar-contra-o-aumento-do-custo-de-",
+      "title": "Estónia fecha fronteira com a Rússia e leva residentes a apressar travessias",
+      "url": "https://pt.euronews.com/2026/11/21/estonia-fecha-fronteira-com-a-russia-e-leva-residentes-a-apressar-travessias",
       "source": "Euronews",
-      "publishedAt": "2026-11-21T10:53:24Z",
-      "description": "Portugal prepara-se para mais um dia de protesto, com milhares de trabalhadores convocados para uma manifestação nacional em Lisboa. Lutam por melhores salários e pensões, habitação e educação, e contra o aumento do custo de vida.",
-      "image": "https://images.euronews.com/articles/stories/10/00/25/40/1200x675_cmsv2_7f580c90-ddff-5dcf-9137-45f69474bf2a-10002540.jpg"
+      "publishedAt": "2026-11-21T17:20:28Z",
+      "description": "Famílias e viajantes fazem fila para atravessar da Rússia para a Estónia antes de os cinco postos rodoviários encerrarem a 1 de dezembro, após alegada sabotagem apoiada por Moscovo, o que preocupa quem tem familiares em ambos os lados da fronteira.",
+      "image": "https://images.euronews.com/articles/stories/10/00/28/25/1200x675_cmsv2_aa22456f-df32-5189-b932-427d00180220-10002825.jpg"
     },
     {
-      "title": "Japão: táxi aéreo autónomo faz primeiro voo com passageiro sem piloto",
-      "url": "https://pt.euronews.com/video/2026/11/21/japao-taxi-aereo-autonomo-faz-primeiro-voo-com-passageiro-sem-piloto",
+      "title": "Navio de carga russo atingido por drones no Golfo da Finlândia",
+      "url": "https://pt.euronews.com/2026/11/21/navio-de-carga-russo-atingido-por-drones-no-golfo-da-finlandia",
       "source": "Euronews",
-      "publishedAt": "2026-11-21T10:22:07Z",
-      "description": "Um táxi aéreo elétrico sem piloto transportou um passageiro numa demonstração, a 20 de novembro de 2026, na província japonesa de Yamanashi. A aeronave chinesa descolou na vertical e voou de forma autónoma, antecipando um possível futuro do transporte urbano",
-      "image": "https://images.euronews.com/articles/stories/10/00/25/55/1200x675_cmsv2_9c507217-e8af-59cb-ac47-6fa87fed92e7-10002555.jpg"
+      "publishedAt": "2026-11-21T17:17:59Z",
+      "description": "Os Estados Unidos anunciaram sanções contra o Sparta II no início de maio de 2022, pouco mais de dois meses após Moscovo ter lançado a invasão em grande escala da Ucrânia. A Ucrânia também sancionou o navio.",
+      "image": "https://images.euronews.com/articles/stories/10/00/27/74/1200x675_cmsv2_a24754f3-c6a0-56e1-88fb-28806f2a8631-10002774.jpg"
     },
     {
-      "title": "Estados Unidos: Pentágono divulga novos ficheiros sobre fenómenos anómalos não identificados",
-      "url": "https://pt.euronews.com/2026/11/21/estados-unidos-pentagono-divulga-novos-ficheiros-sobre-fenomenos-anomalos-nao-identificado",
+      "title": "Notícias do dia | 21 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/21/noticias-do-dia-21-de-novembro-2026-noite",
       "source": "Euronews",
-      "publishedAt": "2026-11-21T09:02:35Z",
-      "description": "Departamento de Guerra dos Estados Unidos divulga oitavo conjunto de arquivos históricos desclassificados sobre fenómenos anómalos não identificados, prevendo tornar públicos mais documentos",
-      "image": "https://images.euronews.com/articles/stories/10/00/25/08/1200x675_cmsv2_9ef09bce-d8e3-5b48-8d8b-7dce02bdd5a0-10002508.jpg"
+      "publishedAt": "2026-11-21T17:00:35Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 21 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/10/00/22/22/1200x675_cmsv2_2d3c4e1e-c1cc-592c-a665-8bf1732ee5f1-10002222.jpg"
     },
     {
-      "title": "EUA: Construção \"arco triunfal\" proposto por Trump volta a ser travado por juiz",
-      "url": "https://pt.euronews.com/2026/11/21/eua-construcao-arco-triunfal-proposto-por-trump-volta-a-ser-travado-por-juiz",
-      "source": "Euronews",
-      "publishedAt": "2026-11-21T09:02:29Z",
-      "description": "Trump, que lançou uma campanha para remodelar Washington desde o regresso à Casa Branca em janeiro de 2025, afirmou que o edifício seria transformado num “complexo militar de topo”.",
-      "image": "https://images.euronews.com/articles/stories/10/00/24/69/1200x675_cmsv2_cf26239a-bd28-5067-bb0b-443eacfc20fc-10002469.jpg"
+      "title": "Estudantes albaneses organizam movimento para liderar protestos contra Governo",
+      "url": "https://www.rtp.pt/noticias/mundo/estudantes-albaneses-organizam-movimento-para-liderar-protestos-contra-governo_n1780787",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T16:36:41Z",
+      "description": "Os estudantes albaneses, que assumiram a liderança das manifestações antigovernamentais, anunciaram a criação de uma organização nacional para dar início a uma \"nova fase\" dos protestos contra a corrupção e o custo de vida.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Donald Trump defende relações com Putin e acusa Irão de enganar nas negociações",
-      "url": "https://pt.euronews.com/2026/11/21/donald-trump-defende-relacoes-com-putin-e-acusa-irao-de-enganar-nas-negociacoes",
-      "source": "Euronews",
-      "publishedAt": "2026-11-21T07:11:42Z",
-      "description": "Ao falar na Casa Branca após a viagem à Ásia, Trump defendeu as relações com Xi e Putin, afirmando que o líder russo queria pôr fim à guerra pela via diplomática. Pediu também um “acordo real” com o Irão.",
-      "image": "https://images.euronews.com/articles/stories/10/00/20/96/1200x675_cmsv2_3a56aa46-3dab-5407-b76c-355314e65330-10002096.jpg"
+      "title": "Delegação do Qatar reuniu-se em Teerão com autoridades iranianas",
+      "url": "https://www.rtp.pt/noticias/mundo/delegacao-do-qatar-reuniu-se-em-teerao-com-autoridades-iranianas_n1780793",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T16:31:28Z",
+      "description": "Uma delegação do Qatar, país mediador entre o Irão e os Estados Unidos na guerra no Médio Oriente, reuniu-se na sexta-feira à noite em Teerão com responsáveis iranianos, anunciou hoje um alto diplomata iraniano.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Saída antecipada de Lagarde do BCE agita corrida presidencial em França",
-      "url": "https://pt.euronews.com/2026/11/21/saida-antecipada-de-lagarde-do-bce-agita-corrida-presidencial-em-franca",
+      "title": "Zelenskyy chama Putin de “assassino” após Trump o considerar “amigo”",
+      "url": "https://pt.euronews.com/2026/11/21/zelenskyy-chama-putin-de-assassino-apos-trump-o-considerar-amigo",
       "source": "Euronews",
-      "publishedAt": "2026-11-21T07:00:50Z",
-      "description": "Lagarde mantém-se vinculada à neutralidade política até ao fim do mandato como presidente do BCE, em fevereiro de 2027, dois meses antes da primeira volta das presidenciais francesas.",
-      "image": "https://images.euronews.com/articles/stories/09/97/22/19/1200x675_cmsv2_63204c28-80b2-5549-ac5f-6d8e04453b5b-9972219.jpg"
+      "publishedAt": "2026-11-21T16:04:05Z",
+      "description": "Isto acontece depois de forças russas terem lançado, da noite de quinta para a manhã de sexta-feira, uma vaga de ataques contra a Ucrânia, matando pelo menos sete pessoas em Kiev e danificando pontes sobre o rio Dnipr.",
+      "image": "https://images.euronews.com/articles/stories/10/00/24/30/1200x675_cmsv2_c692f42b-b5b1-5692-8f9e-7acc742127d8-10002430.jpg"
+    },
+    {
+      "title": "Lula afirma que mercado financeiro não vai impor a política fiscal ao Brasil",
+      "url": "https://www.rtp.pt/noticias/mundo/lula-afirma-que-mercado-financeiro-nao-vai-impor-a-politica-fiscal-ao-brasil_n1780785",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T15:57:22Z",
+      "description": "O Presidente brasileiro, Luiz Inácio Lula da Silva, reafirmou hoje o seu compromisso com a responsabilidade das contas públicas, mas alertou que o ajuste fiscal é o decidido pelo seu Governo e não aquele que o mercado financeiro quer impor.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Procurado pelo FBI. México captura chefe de cartel “El Chapo Isidro” e provoca violência",
+      "url": "https://pt.euronews.com/2026/11/21/procurado-pelo-fbi-mexico-captura-chefe-de-cartel-el-chapo-isidro-e-provoca-violencia",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T15:33:50Z",
+      "description": "Fausto Isidro Meza Flores, um dos dez fugitivos mais procurados pelo FBI, foi detido numa operação militar com apoio dos serviços de informação dos EUA. Tiroteios, viaturas em chamas e pânico entre civis seguiram-se à rusga no norte do México.",
+      "image": "https://images.euronews.com/articles/stories/10/00/27/59/1200x675_cmsv2_4f37b78f-b0e9-5daf-affc-3404a7ffe398-10002759.jpg"
+    },
+    {
+      "title": "Helicóptero russo suspeito de ter violado o espaço aéreo da Finlândia",
+      "url": "https://www.rtp.pt/noticias/mundo/helicoptero-russo-suspeito-de-ter-violado-o-espaco-aereo-da-finlandia_n1780772",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T15:30:43Z",
+      "description": "Um helicóptero russo é suspeito de ter violado hoje o espaço aéreo da Finlândia, poucas horas depois de um ataque com um `drone` ter incendiado um cargueiro russo no Mar Báltico, anunciou o Ministério da Defesa finlandês.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Ataque noturno russo faz dois mortos e 52 feridos na cidade de Kryvyi Rih",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/ataque-noturno-russo-faz-dois-mortos-e-52-feridos-na-cidade-de-kryvyi-rih_n1780727",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-21T15:30:25Z",
+      "description": "Um ataque russo contra a cidade de Kryvyi Rih, no leste da Ucrânia, provocou dois mortos e 52 feridos durante a noite, segundo informaram as autoridades locais.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Disputa sobre combustíveis fósseis prolonga negociações da COP31",
+      "url": "https://pt.euronews.com/2026/11/21/disputa-sobre-combustiveis-fosseis-prolonga-negociacoes-da-cop31",
+      "source": "Euronews",
+      "publishedAt": "2026-11-21T14:30:43Z",
+      "description": "Vários países, entre eles França e Panamá, divulgaram na sexta-feira uma carta a exigir que o acordo inclua “uma transição clara para abandonar os combustíveis fósseis”.",
+      "image": "https://images.euronews.com/articles/stories/10/00/24/92/1200x675_cmsv2_beb1c20f-ec2a-5adc-9f19-f7c94b22895c-10002492.jpg"
     },
     {
       "title": "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
@@ -154,46 +194,6 @@
       "publishedAt": "2026-11-21T00:23:25Z",
       "description": "O Presidente dos Estados Unidos apelou à Nvidia para dar uma \"segunda oportunidade\" a Jensen Huang, o ex-chefe da gigante norte-americana de tecnologia que se demitiu após um escândalo e que o conselho de administração da empresa não prevê reintegrar.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb15f03ef487c0015ee0a58a8701ae1c.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Arábia Saudita interceta 3 mísseis lançados pelos Huthis contra Riade",
-      "url": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceta-3-misseis-lancados-pelos-huthis-contra-riade_n1780688",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-21T00:11:35Z",
-      "description": "A coligação militar liderada pela Arábia Saudita anunciou hoje ter intercetado três mísseis balísticos lançados pelos rebeldes iemenitas Huthis contra a capital, Riade.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Israel ataca reunião com membros do Hamas que preparavam atentados",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-ataca-reuniao-com-membros-do-hamas-que-preparavam-atentados_n1780648",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T22:10:20Z",
-      "description": "As forças israelitas divulgaram hoje que atacaram vários membros do Hamas que estavam reunidos na Faixa de Gaza para preparar ataques terroristas, incluindo elementos da unidade de elite Nukhba do movimento islamita palestiniano.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Trump garante que não permitirá ataque iraniano com \"bomba suja\" a Washington",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-garante-que-nao-permitira-ataque-iraniano-com-bomba-suja-a-washington_n1780652",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T22:08:58Z",
-      "description": "O Presidente dos Estados Unidos, Donald Trump, garantiu hoje que a sua administração vai impedir um ataque iraniano com uma \"bomba suja\" em Washington, ameaça que, segundo os media norte-americanos, está a ser considerada pelos serviços de inteligência.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a53f4aef371ca92d52d655f4c49eba21.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\"",
-      "url": "https://www.rtp.pt/noticias/mundo/jair-bolsonaro-hospitalizado-devido-a-fortes-dores-abdominais_n1780641",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T20:50:34Z",
-      "description": "O ex-presidente brasileiro Jair Bolsonaro, atualmente detido, foi levado para o hospital esta sexta-feira após sofrer \"fortes dores abdominais\", anunciou o filho, Carlos Bolsonaro.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bcdc3e5314b5a0f8f1bf56b53382717.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "EUA confirmam falta de consenso sobre futuro líder da ONU após nova ronda de votação",
-      "url": "https://www.rtp.pt/noticias/mundo/eua-confirmam-falta-de-consenso-sobre-futuro-lider-da-onu-apos-nova-ronda-de-votacao_n1780624",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T20:15:04Z",
-      "description": "O Conselho de Segurança da ONU permanece sem consenso sobre o futuro secretário-geral da organização, confirmaram hoje os Estados Unidos (EUA), após uma votação que manteve a costa-riquenha Rebeca Grynspan como a mais apoiada, embora com votos contra.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ]
 }
