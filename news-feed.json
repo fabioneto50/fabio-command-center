@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:18:49.512966Z",
+  "updatedAt": "2026-11-22T06:51:03.251614Z",
   "health": [
     {
       "title": "Pele artificial produzida em laboratório poderá estar disponível a partir de 2040",
@@ -100,6 +100,14 @@
   ],
   "world": [
     {
+      "title": "Notícias do dia | 22 de novembro 2026 - Manhã",
+      "url": "https://pt.euronews.com/video/2026/11/22/noticias-do-dia-22-de-novembro-2026-manha",
+      "source": "Euronews",
+      "publishedAt": "2026-11-22T06:00:19Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 22 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/10/00/31/44/1200x675_cmsv2_9f8904ee-f93c-573d-9112-2ce0e9e9cbca-10003144.jpg"
+    },
+    {
       "title": "Ucrânia: câmara de bordo regista enorme explosão numa rua de Lviv",
       "url": "https://pt.euronews.com/video/2026/11/22/ucrania-camara-de-bordo-regista-enorme-explosao-numa-rua-de-lviv",
       "source": "Euronews",
@@ -186,14 +194,6 @@
       "publishedAt": "2026-11-21T17:00:35Z",
       "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 21 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
       "image": "https://images.euronews.com/articles/stories/10/00/22/22/1200x675_cmsv2_2d3c4e1e-c1cc-592c-a665-8bf1732ee5f1-10002222.jpg"
-    },
-    {
-      "title": "Zelenskyy chama Putin de “assassino” após Trump o considerar “amigo”",
-      "url": "https://pt.euronews.com/2026/11/21/zelenskyy-chama-putin-de-assassino-apos-trump-o-considerar-amigo",
-      "source": "Euronews",
-      "publishedAt": "2026-11-21T16:04:05Z",
-      "description": "Isto acontece depois de forças russas terem lançado, da noite de quinta para a manhã de sexta-feira, uma vaga de ataques contra a Ucrânia, matando pelo menos sete pessoas em Kiev e danificando pontes sobre o rio Dnipr.",
-      "image": "https://images.euronews.com/articles/stories/10/00/24/30/1200x675_cmsv2_c692f42b-b5b1-5692-8f9e-7acc742127d8-10002430.jpg"
     }
   ]
 }
