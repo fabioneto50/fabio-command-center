@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-22T15:19:27.452278Z",
+  "updatedAt": "2026-11-22T21:46:52.165704Z",
   "health": [
+    {
+      "title": "Adjudicada compra de novo sistema de cirurgia robótica para hospital da ilha Terceira",
+      "url": "https://www.rtp.pt/noticias/pais/adjudicada-compra-de-novo-sistema-de-cirurgia-robotica-para-hospital-da-ilha-terceira_n1780941",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-22T19:43:52Z",
+      "description": "O Governo dos Açores adjudicou a aquisição de um novo sistema de cirurgia robótica, destinado ao Hospital de Santo Espírito da Ilha Terceira, por 2,4 milhões de euros, anunciou o executivo açoriano.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
     {
       "title": "A administração de medicamentos a alunos em contexto escolar: enquadramento legal, responsabilidades e procedimentos",
       "url": "https://healthnews.pt/2026/11/22/a-administracao-de-medicamentos-a-alunos-em-contexto-escolar-enquadramento-legal-responsabilidades-e-procedimentos/",
@@ -74,14 +82,6 @@
       "image": ""
     },
     {
-      "title": "UC Biomed inaugura em Coimbra com investimento de 38 milhões de euros",
-      "url": "https://healthnews.pt/2026/11/21/uc-biomed-inaugura-em-coimbra-com-investimento-de-38-milhoes-de-euros/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-21T07:15:14Z",
-      "description": "A Universidade de Coimbra inaugura na terça-feira o UC Biomed, edifício de investigação biomédica com 12.629 metros quadrados no Polo III, que representou um investimento superior a 38 milhões de euros, com financiamento europeu de cerca de 27 milhões.",
-      "image": ""
-    },
-    {
       "title": "\"Dificuldade em escalas\". Hospital Dona Estefânia sem anestesistas durante sete noites",
       "url": "https://www.rtp.pt/noticias/pais/dificuldade-em-escalas-hospital-dona-estefania-sem-anestesistas-durante-sete-noites_v1780647",
       "source": "RTP Notícias",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
-      "title": "COP31. A mais longa conferência do clima terminou sem um acordo",
-      "url": "https://www.rtp.pt/noticias/mundo/cop31-a-mais-longa-conferencia-do-clima-terminou-sem-um-acordo_n1780895",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T13:04:12Z",
-      "description": "A COP31 terminou este domingo sem um entendimento no texto final. A União Europeia e outros países recusaram-se a aceitar um acordo que não tivesse a referência direta à transição para o abandono dos combustíveis fósseis.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/36/3682fec6f91c3bed1e17fc3c716084b9.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Notícias do dia | 22 de novembro 2026 - Tarde",
-      "url": "https://pt.euronews.com/video/2026/11/22/noticias-do-dia-22-de-novembro-2026-tarde",
+      "title": "Alemanha testa drones kamikaze e tecnologia de alvo com inteligência artificial na Lituânia",
+      "url": "https://pt.euronews.com/2026/11/22/alemanha-testa-drones-kamikaze-e-tecnologia-de-alvo-com-inteligencia-artificial-na-lituani",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T11:00:08Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 22 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/10/00/33/86/1200x675_cmsv2_99f4128f-ebd9-5aca-b3e0-9b2d35578535-10003386.jpg"
+      "publishedAt": "2026-11-22T21:16:11Z",
+      "description": "Os mais recentes ensaios militares da Bundeswehr evidenciam o crescente investimento da Alemanha em armas não tripuladas, inteligência artificial e na preparação para defender o flanco leste da NATO.",
+      "image": "https://images.euronews.com/articles/stories/10/00/36/41/1200x675_cmsv2_aec2fdbb-8822-52a1-b99e-32a98ed9bce8-10003641.jpg"
     },
     {
-      "title": "Pelo menos 14 pessoas desaparecidas após ataque russo contra edifício residencial na Ucrânia",
-      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-14-pessoas-desaparecidas-apos-ataque-russo-contra-edificio-residencial-na-ucrania_n1780889",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T10:58:37Z",
-      "description": "O presidente ucraniano, Volodymyr Zelensky, adiantou este domingo que pelo menos 14 pessoas poderão estar sob os escombros de um edifício residencial que foi atingido esta manhã por um drone russo em Dymer, na região de Kiev, na Ucrânia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f8053adfc02fde48ea80fc68afe7f3e.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Ucrânia: teme-se até sete pessoas presas nos escombros após ataque russo perto de Kiev",
-      "url": "https://pt.euronews.com/video/2026/11/22/ucrania-teme-se-ate-sete-pessoas-presas-nos-escombros-apos-ataque-russo-perto-de-kiev",
+      "title": "Líbia: Navio russo atingido por drone no porto de Bengazi",
+      "url": "https://pt.euronews.com/2026/11/22/libia-navio-russo-atingido-por-drone-no-porto-de-bengazi",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T10:40:08Z",
-      "description": "Ataque russo destrói parcialmente prédio de apartamentos em Dymer, a norte de Kiev, no domingo. Nove pessoas, incluindo uma criança, foram evacuadas enquanto equipas de resgate procuravam nos escombros até sete outras, temidas soterradas.",
-      "image": "https://images.euronews.com/articles/stories/10/00/33/07/1200x675_cmsv2_21c6d2b1-44d1-5165-969c-5598d0392928-10003307.jpg"
+      "publishedAt": "2026-11-22T21:08:56Z",
+      "description": "Um alegado ataque de drone a um navio russo no porto de Bengazi, na Líbia, aumenta receios de alastramento da guerra Rússia-Ucrânia. As autoridades investigam a explosão num contexto de crescente preocupação com a segurança regional.",
+      "image": "https://images.euronews.com/articles/stories/10/00/35/19/1200x675_cmsv2_14cf5cd5-2369-59cc-b244-d4fc2c3437aa-10003519.jpg"
     },
     {
-      "title": "COP31. Hipótese de acordo diminui \"a cada hora que passa\", Alemanha e França rejeitam \"retrocesso inaceitável\"",
-      "url": "https://www.rtp.pt/noticias/mundo/cop31-hipotese-de-acordo-diminui-a-cada-hora-que-passa-alemanha-e-franca-rejeitam-retrocesso-inaceitavel_n1780887",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T10:35:30Z",
-      "description": "O ministro irlandês do Clima, Darragh O'Brien, país que detém atualmente a presidência da UE, afirmou este domingo que as hipóteses de se chegar a um acordo na prolongada conferência climática COP31 estão a diminuir \"a cada hora\" que passa.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc66ef267572bd2b99fd729eff6638cf.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Attila Kert, da Euronews, escolhido para dirigir radiotelevisão pública da Hungria",
-      "url": "https://pt.euronews.com/2026/11/22/attila-kert-da-euronews-escolhido-para-dirigir-radiotelevisao-publica-da-hungria",
+      "title": "Espanha: Partidos intensificam campanha a uma semana das eleições",
+      "url": "https://pt.euronews.com/2026/11/22/espanha-partidos-intensificam-campanha-a-uma-semana-das-eleicoes",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T10:30:57Z",
-      "description": "Chefe da Euronews Hungria, Attila Kert, foi escolhido para dirigir a rádio e televisão públicas húngaras, em remodelação após anos de críticas de parcialidade sob Viktor Orbán. Promete recuperar a credibilidade, lançar uma plataforma de streaming e investigar a influência russa.",
-      "image": "https://images.euronews.com/articles/stories/10/00/31/76/1200x675_cmsv2_1cff6f1b-7359-5502-b54b-5c6da26171a4-10003176.jpg"
+      "publishedAt": "2026-11-22T20:51:47Z",
+      "description": "Sánchez e Feijóo cruzam-se em Múrcia, enquanto Abascal ataca o PP em Saragoça e Colau apela a mobilizar o voto progressista nas Canárias para reforçar a representação da Frente Ampla.",
+      "image": "https://images.euronews.com/articles/stories/10/00/34/27/1200x675_cmsv2_d6edc4f9-dab6-5781-be4d-4ecbba55a8cb-10003427.jpg"
     },
     {
-      "title": "Japão: festival de mascotes anima Saitama e celebra cultura yuru-chara",
-      "url": "https://pt.euronews.com/video/2026/11/22/japao-festival-de-mascotes-anima-saitama-e-celebra-cultura-yuru-chara",
-      "source": "Euronews",
-      "publishedAt": "2026-11-22T09:56:21Z",
-      "description": "Mais de 200 mascotes reuniram-se em Saitama, no Japão, animando dezenas de milhares de fãs com danças, desfiles e fotos. Entre as estrelas esteve Kumamon, o famoso urso preto.",
-      "image": "https://images.euronews.com/articles/stories/10/00/32/60/1200x675_cmsv2_cd44795f-7aff-5bf6-8130-92b8b1256e44-10003260.jpg"
-    },
-    {
-      "title": "Portugal: trabalhadores protestam por salários mais altos e melhores pensões",
-      "url": "https://pt.euronews.com/video/2026/11/22/portugal-trabalhadores-protestam-por-salarios-mais-altos-e-melhores-pensoes",
-      "source": "Euronews",
-      "publishedAt": "2026-11-22T09:42:09Z",
-      "description": "Milhares de pessoas marcharam por Lisboa, sábado, 21 de novembro de 2026, desafiando chuva intensa para exigir salários mais altos, melhores pensões e medidas contra o custo de vida, dias antes da votação do Orçamento no parlamento.",
-      "image": "https://images.euronews.com/articles/stories/10/00/32/63/1200x675_cmsv2_e827875c-87d0-5373-8d34-c70d5dd8874f-10003263.jpg"
-    },
-    {
-      "title": "Gadi Eisenkot convida o partido Likud de Netanyahu para negociações de coligação",
-      "url": "https://pt.euronews.com/2026/11/22/gadi-eisenkot-convida-o-partido-likud-de-netanyahu-para-negociacoes-de-coligacao",
-      "source": "Euronews",
-      "publishedAt": "2026-11-22T09:42:05Z",
-      "description": "Gadi Eisenkot tem até ao início de dezembro para formar um novo governo, depois de tanto o seu bloco como o de Netanyahu não terem alcançado maioria nas legislativas de outubro em Israel.",
-      "image": "https://images.euronews.com/articles/stories/10/00/31/41/1200x675_cmsv2_d548eeab-03c0-5d09-9e23-1d4460d8e068-10003141.jpg"
-    },
-    {
-      "title": "Eisenkot convida partido de Netanyahu para negociações de coligação",
-      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-convida-partido-de-netanyahu-para-negociacoes-de-coligacao_n1780854",
+      "title": "Drone russo provoca colapso de prédio e mata duas pessoas na Ucrânia",
+      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/drone-russo-provoca-colapso-de-predio-e-mata-duas-pessoas-na-ucrania_v1780980",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-21T22:38:39Z",
-      "description": "O líder opositor Gadi Eisenkot, encarregado de formar o próximo governo israelita, convidou hoje o partido de direita Likud, do primeiro-ministro cessante Benjamin Netanyahu, para conversações com vista a uma eventual coligação governamental.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/2d/2db4c25283f0e0731855f717254fc52e.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-22T20:34:47Z",
+      "description": "Pelo menos duas pessoas morreram e outras 14 pessoas estão desaparecidas depois de um ataque russo ter atingido um edificio civil na região de Kiev.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c225c07e79ad6fc05ae417cc265eb5e.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Casos de VIH estão a aumentar em Angola",
-      "url": "https://www.rtp.pt/noticias/mundo/casos-de-vih-estao-a-aumentar-em-angola_v1780848",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-21T21:29:47Z",
-      "description": "Há mais casos de VIH em Angola. E o abandono dos tratamentos está a levar ao aumento do número de mortes.",
-      "image": "https://cdn-images.rtp.pt/icm/images/6d/6d05fb8afd8ada98bf8cf9c4612af2d6_N.jpg?"
+      "title": "Reino Unido reporta incidente com petroleiro e forças militares no Golfo de Omã",
+      "url": "https://pt.euronews.com/2026/11/22/reino-unido-reporta-incidente-com-petroleiro-e-forcas-militares-no-golfo-de-oma",
+      "source": "Euronews",
+      "publishedAt": "2026-11-22T20:33:33Z",
+      "description": "Entre relatos contraditórios sobre a partida, no domingo, de um petroleiro iraniano da ilha de Kharg para desafiar o bloqueio dos EUA no estreito de Ormuz, registou‑se um incidente perto da linha naval. Teerão avisou que qualquer tentativa dos EUA de travar os seus navios terá resposta imediata.",
+      "image": "https://images.euronews.com/articles/stories/10/00/36/02/1200x675_cmsv2_3ccf9661-343f-5f6a-930a-a121c0febb52-10003602.jpg"
     },
     {
-      "title": "Adido militar russo expulso na Dinamarca após tentativa de homicídio",
-      "url": "https://www.rtp.pt/noticias/mundo/adido-militar-russo-expulso-na-dinamarca-apos-tentativa-de-homicidio_v1780846",
+      "title": "Espanha: cerca de 300 migrantes chegam a El Hierro em cinco cayucos",
+      "url": "https://pt.euronews.com/2026/11/22/espanha-cerca-de-300-migrantes-chegam-a-el-hierro-em-cinco-cayucos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-22T20:27:54Z",
+      "description": "Salvamento Marítimo e Guardia Civil escoltaram cinco embarcações até La Restinga e localizaram uma sexta. A ilha acolhe cerca de 900 migrantes, numa altura de um novembro recorde",
+      "image": "https://images.euronews.com/articles/stories/10/00/36/20/1200x675_cmsv2_1d5b4418-8f57-5b11-bcfa-d514e487d66f-10003620.jpg"
+    },
+    {
+      "title": "Polícia israelita abre inquérito a ataques de colonos na Cisjordânia",
+      "url": "https://www.rtp.pt/noticias/mundo/policia-israelita-abre-inquerito-a-ataques-de-colonos-na-cisjordania_n1780938",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-21T21:27:49Z",
-      "description": "A Dinamarca expulsou o adido militar russo em Copenhaga por causa de uma tentativa de homicidio alegadamente orquestrada por Moscovo.",
-      "image": "https://cdn-images.rtp.pt/icm/images/1c/1c013781864bf839a664cb3fc68e96a7_N.jpg?"
+      "publishedAt": "2026-11-22T19:44:26Z",
+      "description": "A Polícia israelita abriu um inquérito aos ataques e incêndios provocados desde a noite de sábado por colonos em várias localidades da Cisjordânia, atos que o líder da oposição israelita, Gadi Eisenkot, classificou como \"terrorismo judaico\".",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Sobe para cinco o número de mortos em forte tempestade no sul do Brasil",
+      "url": "https://www.rtp.pt/noticias/mundo/sobe-para-cinco-o-numero-de-mortos-em-forte-tempestade-no-sul-do-brasil_n1780949",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-22T19:43:18Z",
+      "description": "Subiu de três para cinco o número de mortos na sequência da forte tempestade que devastou a cidade de Tupanciretã, no sul do Brasil, tendo as autoridades locais anunciado ainda o registo de 265 feridos.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Marc Márquez conquista oitavo título de MotoGP e supera Valentino Rossi",
+      "url": "https://pt.euronews.com/2026/11/22/marc-marquez-conquista-oitavo-titulo-de-motogp-e-supera-valentino-rossi",
+      "source": "Euronews",
+      "publishedAt": "2026-11-22T19:12:21Z",
+      "description": "Piloto espanhol sagra-se campeão da categoria máxima em Portugal após acabar em oitavo em Portimão, coroando recuperação histórica numa época marcada por lesões. Márquez soma dez títulos mundiais, oito deles na categoria rainha.",
+      "image": "https://images.euronews.com/articles/stories/10/00/35/18/1200x675_cmsv2_f86f8928-3d1c-5e59-9fe0-27452d0ae8cd-10003518.jpg"
+    },
+    {
+      "title": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
+      "url": "https://www.rtp.pt/noticias/mundo/objetos-voadores-que-cairam-na-polonia-eram-misseis-de-cruzeiro-de-fabrico-russo_n1780963",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-22T18:46:08Z",
+      "description": "Os três objetos voadores, que caíram na manhã de sexta-feira no sudeste da Polónia, eram mísseis de cruzeiro `Ch-101` fabricados recentemente na região de Moscovo, anunciou hoje o Ministério Público de Lublin, autoridade polaca responsável pela investigação.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Eisenkot e Netanyahu sem acordo para possível Governo de coligação",
+      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-e-netanyahu-sem-acordo-para-possivel-governo-de-coligacao_n1780961",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-22T18:44:48Z",
+      "description": "Os partidos de Benjamin Netanyahu e do seu rival Gadi Eisenkot, encarregado de formar o próximo governo de Israel, tentaram hoje, sem sucesso, um acordo sobre uma possível coligação, que exigiria concessões significativas de ambos os lados.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5b5f570e5af972dab1b2c4f9b72171e.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "COP31. Guterres \"profundamente desapontado\" com falta de acordo",
+      "url": "https://www.rtp.pt/noticias/mundo/cop31-guterres-profundamente-desapontado-com-falta-de-acordo_n1780921",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-22T15:38:08Z",
+      "description": "O Governo português também se manifestou desiludido com o desfecho da cimeira do clima, lamentando a falta de ambição climática.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/be/bed8b7475bff099ae6f876190346cf77.jpg?w=350&q=50&auto=format"
     }
   ]
 }
