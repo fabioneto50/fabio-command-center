@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:46:52.165704Z",
+  "updatedAt": "2026-11-23T02:46:31.186780Z",
   "health": [
     {
       "title": "Adjudicada compra de novo sistema de cirurgia robótica para hospital da ilha Terceira",
@@ -100,6 +100,14 @@
   ],
   "world": [
     {
+      "title": "Marrocos: parque de esculturas surreal desafia a perceção do mundo",
+      "url": "https://pt.euronews.com/video/2026/11/22/marrocos-parque-de-esculturas-surreal-desafia-a-percecao-do-mundo",
+      "source": "Euronews",
+      "publishedAt": "2026-11-22T22:35:44Z",
+      "description": "Casa invertida, mobiliário gigante e figuras com cabeças de legumes esperam visitantes no parque de esculturas Ramakech, de 11 hectares, perto de Marraquexe, onde o artista francês Jean-François Fourtou dá vida a memórias de infância com instalações monumentais",
+      "image": "https://images.euronews.com/articles/stories/10/00/37/10/1200x675_cmsv2_443d6f08-4b8f-5c37-8619-acccc028c03e-10003710.jpg"
+    },
+    {
       "title": "Alemanha testa drones kamikaze e tecnologia de alvo com inteligência artificial na Lituânia",
       "url": "https://pt.euronews.com/2026/11/22/alemanha-testa-drones-kamikaze-e-tecnologia-de-alvo-com-inteligencia-artificial-na-lituani",
       "source": "Euronews",
@@ -162,14 +170,6 @@
       "publishedAt": "2026-11-22T19:43:18Z",
       "description": "Subiu de três para cinco o número de mortos na sequência da forte tempestade que devastou a cidade de Tupanciretã, no sul do Brasil, tendo as autoridades locais anunciado ainda o registo de 265 feridos.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Marc Márquez conquista oitavo título de MotoGP e supera Valentino Rossi",
-      "url": "https://pt.euronews.com/2026/11/22/marc-marquez-conquista-oitavo-titulo-de-motogp-e-supera-valentino-rossi",
-      "source": "Euronews",
-      "publishedAt": "2026-11-22T19:12:21Z",
-      "description": "Piloto espanhol sagra-se campeão da categoria máxima em Portugal após acabar em oitavo em Portimão, coroando recuperação histórica numa época marcada por lesões. Márquez soma dez títulos mundiais, oito deles na categoria rainha.",
-      "image": "https://images.euronews.com/articles/stories/10/00/35/18/1200x675_cmsv2_f86f8928-3d1c-5e59-9fe0-27452d0ae8cd-10003518.jpg"
     },
     {
       "title": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
