@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-23T02:46:31.186780Z",
+  "updatedAt": "2026-11-23T12:47:30.615553Z",
   "health": [
+    {
+      "title": "AI Healthcare Index 2026: estudo nacional revela como os profissionais de saúde estão a usar a Inteligência Artificial",
+      "url": "https://healthnews.pt/2026/11/23/ai-healthcare-index-2026-estudo-nacional-revela-como-os-profissionais-de-saude-estao-a-usar-a-inteligencia-artificial/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T10:08:08Z",
+      "description": "Os resultados são apresentados na próxima terça-feira, 24 de novembro, em Lisboa. Pedro Pita Barros e António Vaz Carneiro fazem as keynotes, e um painel junta a filosofia, a medicina e as ciências sociais para debater o lugar da IA na saúde.",
+      "image": ""
+    },
+    {
+      "title": "Investigadores do ICVS aproximam ciência e público no Hospital de Braga",
+      "url": "https://healthnews.pt/2026/11/23/investigadores-do-icvs-aproximam-ciencia-e-publico-no-hospital-de-braga/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T09:59:18Z",
+      "description": "O Instituto de Ciências da Vida e da Saúde (ICVS) da Escola de Medicina da Universidade do Minho promove, entre 24 e 27 de novembro, a iniciativa “Ciência ao Vivo no Hospital de Braga”, integrada na Semana da Ciência e Tecnologia.",
+      "image": ""
+    },
+    {
+      "title": "Petição pede ao Governo investimento prioritário no Hospital de Aveiro",
+      "url": "https://healthnews.pt/2026/11/23/peticao-pede-ao-governo-investimento-prioritario-no-hospital-de-aveiro/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T09:55:04Z",
+      "description": "A petição «Mais Saúde para o Hospital de Aveiro» ultrapassou as mil assinaturas poucos dias depois de ter sido lançada. Às 09:00 de hoje, segunda-feira, reunia 1.150 subscrições, segundo a contagem consultada na plataforma Petição Pública.",
+      "image": ""
+    },
+    {
+      "title": "Carta aberta denuncia cortes e falta de estabilidade no financiamento científico",
+      "url": "https://healthnews.pt/2026/11/23/carta-aberta-denuncia-cortes-e-falta-de-estabilidade-no-financiamento-cientifico/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T08:36:48Z",
+      "description": "Oitenta investigadores e dirigentes de centros de investigação acusam o Ministério da Educação, Ciência e Inovação (MECI) de ter quebrado compromissos e de estar a comprometer o futuro da ciência e o desenvolvimento económico e social do país.",
+      "image": ""
+    },
+    {
+      "title": "PSP promove operação nacional contra a violência doméstica",
+      "url": "https://healthnews.pt/2026/11/23/psp-promove-operacao-nacional-contra-a-violencia-domestica/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T08:24:49Z",
+      "description": "A Polícia de Segurança Pública (PSP) iniciou hoje a operação nacional «Violência Fica à Porta», que decorre até sexta-feira, dia 27, para sensibilizar a população para a violência doméstica e para a importância de denunciar precocemente este tipo de crime. A iniciativa assinala também o Dia Internacional para a Eliminação da Violência Contra as Mulheres, celebrado na…",
+      "image": ""
+    },
+    {
+      "title": "Genéricos para a diabetes travados nos tribunais há quase nove meses, denuncia UMG",
+      "url": "https://healthnews.pt/2026/11/23/genericos-para-a-diabetes-travados-nos-tribunais-ha-quase-nove-meses-denuncia-umg/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T08:08:16Z",
+      "description": "A Associação de Utentes de Medicamentos Genéricos (UMG) está preocupada com o abastecimento de genéricos de dapagliflozina, substância ativa usada no tratamento da diabetes tipo 2, e pede às autoridades nacionais que tomem posição.",
+      "image": ""
+    },
+    {
+      "title": "Associação preocupada com medicamentos para diabetes pede intervenção de autoridades",
+      "url": "https://www.rtp.pt/noticias/pais/associacao-preocupada-com-medicamentos-para-diabetes-pede-intervencao-de-autoridades_n1781021",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T07:23:06Z",
+      "description": "A UMG - Associação de Utentes de Medicamentos Genéricos manifestou-se hoje preocupada com o abastecimento de medicamentos genéricos à base do mesmo princípio ativo usado na diabetes e apelou a uma tomada de posição das autoridades nacionais.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ecfc9be9759724b881c00f1118ffcfcf?w=350&q=50&rect=0,0,1200,658&auto=format"
+    },
+    {
+      "title": "Falta de acordo sobre combustíveis fósseis marca fim da COP31",
+      "url": "https://healthnews.pt/2026/11/23/falta-de-acordo-sobre-combustiveis-fosseis-marca-fim-da-cop31/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T06:47:54Z",
+      "description": "A conferência das Nações Unidas sobre o clima, a COP31, terminou em Antália, na Turquia, sem consenso sobre um acordo político global. O encerramento ocorreu no domingo, 22 de novembro, mais de 48 horas depois do previsto.",
+      "image": ""
+    },
+    {
+      "title": "Moçambique entre os países mais vulneráveis ao El Niño na África austral",
+      "url": "https://healthnews.pt/2026/11/23/mocambique-entre-os-paises-mais-vulneraveis-ao-el-nino-na-africa-austral/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-23T06:41:36Z",
+      "description": "O El Niño poderá afetar 2,22 milhões de pessoas em Moçambique, que integra o grupo de países de maior risco na África austral. A previsão consta da atualização global de novembro sobre o fenómeno climático, que antecipa condições mais quentes e secas do que a média durante a atual época agrícola.",
+      "image": ""
+    },
     {
       "title": "Adjudicada compra de novo sistema de cirurgia robótica para hospital da ilha Terceira",
       "url": "https://www.rtp.pt/noticias/pais/adjudicada-compra-de-novo-sistema-de-cirurgia-robotica-para-hospital-da-ilha-terceira_n1780941",
@@ -8,78 +80,6 @@
       "publishedAt": "2026-11-22T19:43:52Z",
       "description": "O Governo dos Açores adjudicou a aquisição de um novo sistema de cirurgia robótica, destinado ao Hospital de Santo Espírito da Ilha Terceira, por 2,4 milhões de euros, anunciou o executivo açoriano.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "A administração de medicamentos a alunos em contexto escolar: enquadramento legal, responsabilidades e procedimentos",
-      "url": "https://healthnews.pt/2026/11/22/a-administracao-de-medicamentos-a-alunos-em-contexto-escolar-enquadramento-legal-responsabilidades-e-procedimentos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T11:06:14Z",
-      "description": "António Pedro Santos: Professor de Educação Especial, Licenciado em Educação Física, Especializado em: Educação Especial; Exercício e Saúde em Populações Especiais; Intervenção Precoce; Sistemas Alternativos e Aumentativos de Comunicação; Hipoterapia.",
-      "image": ""
-    },
-    {
-      "title": "Eletroconvulsivoterapia poderá estar subutilizada em Portugal, sugere estudo",
-      "url": "https://healthnews.pt/2026/11/22/eletroconvulsivoterapia-podera-estar-subutilizada-em-portugal-sugere-estudo/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T09:34:17Z",
-      "description": "Um estudo publicado na revista científica European Psychiatry identifica diferenças acentuadas na utilização da eletroconvulsivoterapia (ECT) entre países do Norte e do Oeste da Europa. Os dados sugerem que este tratamento poderá estar subutilizado em Portugal, embora a informação disponível para o país seja limitada a doentes internados em hospitais públicos.",
-      "image": ""
-    },
-    {
-      "title": "Letras, artes e convívio ajudam idosas no Moinho das Rolas",
-      "url": "https://healthnews.pt/2026/11/22/letras-artes-e-convivio-ajudam-idosas-no-moinho-das-rolas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T09:26:23Z",
-      "description": "No bairro Moinho das Rolas, em Oeiras, as aulas “Letras com Artes” juntam leitura, escrita, atividades artísticas e iniciação às tecnologias. Para as mulheres que participam, maioritariamente cabo-verdianas e com mais de 60 anos, são também uma oportunidade para conviver e passar algumas horas longe da solidão e das preocupações do quotidiano.",
-      "image": ""
-    },
-    {
-      "title": "Escritoras denunciam preconceitos e desigualdades no meio literário",
-      "url": "https://healthnews.pt/2026/11/22/escritoras-denunciam-preconceitos-e-desigualdades-no-meio-literario/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T09:17:24Z",
-      "description": "As escritoras continuam a enfrentar preconceitos na crítica literária, desigualdades na promoção editorial e expectativas sobre os temas que devem abordar. O alerta foi deixado por Teolinda Gersão, Maria do Rosário Pedreira e Déa Paulino, numa conversa integrada no Festival Utopia, em Braga.",
-      "image": ""
-    },
-    {
-      "title": "Risco de derrocadas mantém plano de emergência ativo em Manteigas",
-      "url": "https://healthnews.pt/2026/11/22/risco-de-derrocadas-mantem-plano-de-emergencia-ativo-em-manteigas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T09:07:24Z",
-      "description": "A Câmara de Manteigas vai manter ativo o plano municipal de emergência e proteção civil, uma vez que persiste o risco de derrocadas, apesar de este ter sido reduzido pelos trabalhos realizados nas últimas 48 horas.",
-      "image": ""
-    },
-    {
-      "title": "Justiça aprova acordo da Bayer para indemnizar doentes com linfoma",
-      "url": "https://healthnews.pt/2026/11/22/justica-aprova-acordo-da-bayer-para-indemnizar-doentes-com-linfoma/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T07:07:35Z",
-      "description": "A Bayer poderá pagar até 7,25 mil milhões de dólares ao longo de 21 anos para resolver milhares de ações judiciais nos Estados Unidos relacionadas com o herbicida Roundup. O acordo, aprovado na sexta-feira por um juiz estadual do Missouri, prevê compensações para pessoas que alegam ter desenvolvido linfoma não Hodgkin após exposição ao produto.",
-      "image": ""
-    },
-    {
-      "title": "Associação pede explicações após rejeição de medidas para a menopausa",
-      "url": "https://healthnews.pt/2026/11/22/associacao-pede-explicacoes-apos-rejeicao-de-medidas-para-a-menopausa/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-22T07:05:19Z",
-      "description": "A VIDAs – Associação Portuguesa de Menopausa exigiu explicações ao Governo sobre as medidas que pretende adotar para assegurar o acompanhamento das mulheres na menopausa, depois de terem sido rejeitadas propostas relacionadas com consultas, comparticipações e outras respostas.",
-      "image": ""
-    },
-    {
-      "title": "Pele artificial produzida em laboratório poderá estar disponível a partir de 2040",
-      "url": "https://healthnews.pt/2026/11/21/pele-artificial-produzida-em-laboratorio-podera-estar-disponivel-a-partir-de-2040/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-21T09:26:48Z",
-      "description": "Várias entidades públicas e privadas francesas anunciaram a criação, em laboratório, de uma pele artificial viva, conservada por congelação e concebida para estar pronta a ser transplantada. A tecnologia, desenvolvida ao longo de cinco anos, terá ainda de ser avaliada em ensaios clínicos.",
-      "image": ""
-    },
-    {
-      "title": "Raquel Duarte assume direção do ICBAS com foco em recursos humanos e revisão curricular",
-      "url": "https://healthnews.pt/2026/11/21/raquel-duarte-assume-direcao-do-icbas-com-foco-em-recursos-humanos-e-revisao-curricular/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-21T07:16:13Z",
-      "description": "A professora catedrática e pneumologista Raquel Duarte foi eleita por maioria para dirigir o Instituto de Ciências Biomédicas Abel Salazar, sucedendo a Henrique Cyrne Carvalho. O mandato decorre entre 2026 e 2030 e a tomada de posse cabe ao reitor Pedro Teixeira agendar",
-      "image": ""
     },
     {
       "title": "\"Dificuldade em escalas\". Hospital Dona Estefânia sem anestesistas durante sete noites",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
-      "title": "Marrocos: parque de esculturas surreal desafia a perceção do mundo",
-      "url": "https://pt.euronews.com/video/2026/11/22/marrocos-parque-de-esculturas-surreal-desafia-a-percecao-do-mundo",
+      "title": "Bélgica enfrenta uma greve nacional contra austeridade com governo em risco",
+      "url": "https://pt.euronews.com/2026/11/23/belgica-enfrenta-uma-greve-nacional-contra-austeridade-com-governo-em-risco",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T22:35:44Z",
-      "description": "Casa invertida, mobiliário gigante e figuras com cabeças de legumes esperam visitantes no parque de esculturas Ramakech, de 11 hectares, perto de Marraquexe, onde o artista francês Jean-François Fourtou dá vida a memórias de infância com instalações monumentais",
-      "image": "https://images.euronews.com/articles/stories/10/00/37/10/1200x675_cmsv2_443d6f08-4b8f-5c37-8619-acccc028c03e-10003710.jpg"
+      "publishedAt": "2026-11-23T12:27:54Z",
+      "description": "O primeiro-ministro Bart De Wever apresentou a sua demissão ao rei em 2 de novembro devido ao impasse orçamental, mas o monarca recusou aceitá-la, concedendo-lhe mais tempo para encontrar uma solução governativa.",
+      "image": "https://images.euronews.com/articles/stories/10/00/44/68/1200x675_cmsv2_a19626dd-06b1-5c9b-9207-bdee4b429e4e-10004468.jpg"
     },
     {
-      "title": "Alemanha testa drones kamikaze e tecnologia de alvo com inteligência artificial na Lituânia",
-      "url": "https://pt.euronews.com/2026/11/22/alemanha-testa-drones-kamikaze-e-tecnologia-de-alvo-com-inteligencia-artificial-na-lituani",
+      "title": "União Europeia: oito países unem forças para defender mercado de carbono contra apelos ao adiamento",
+      "url": "https://pt.euronews.com/2026/11/23/uniao-europeia-oito-paises-unem-forcas-para-defender-mercado-de-carbono-contra-apelos-ao-a",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T21:16:11Z",
-      "description": "Os mais recentes ensaios militares da Bundeswehr evidenciam o crescente investimento da Alemanha em armas não tripuladas, inteligência artificial e na preparação para defender o flanco leste da NATO.",
-      "image": "https://images.euronews.com/articles/stories/10/00/36/41/1200x675_cmsv2_aec2fdbb-8822-52a1-b99e-32a98ed9bce8-10003641.jpg"
+      "publishedAt": "2026-11-23T12:27:24Z",
+      "description": "Oito países alertam que novos atrasos no mercado de carbono da UE vão pôr em causa a segurança energética, prolongar a dependência de combustíveis fósseis e travar investimento em tecnologias limpas.",
+      "image": "https://images.euronews.com/articles/stories/10/00/42/26/1200x675_cmsv2_abdd6eba-d112-50be-996e-f0b7a619e805-10004226.jpg"
     },
     {
-      "title": "Líbia: Navio russo atingido por drone no porto de Bengazi",
-      "url": "https://pt.euronews.com/2026/11/22/libia-navio-russo-atingido-por-drone-no-porto-de-bengazi",
+      "title": "Relatório da Oxfam alerta para legado tóxico dos ataques israelitas em Gaza",
+      "url": "https://pt.euronews.com/2026/11/23/relatorio-da-oxfam-alerta-para-legado-toxico-dos-ataques-israelitas-em-gaza",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T21:08:56Z",
-      "description": "Um alegado ataque de drone a um navio russo no porto de Bengazi, na Líbia, aumenta receios de alastramento da guerra Rússia-Ucrânia. As autoridades investigam a explosão num contexto de crescente preocupação com a segurança regional.",
-      "image": "https://images.euronews.com/articles/stories/10/00/35/19/1200x675_cmsv2_14cf5cd5-2369-59cc-b244-d4fc2c3437aa-10003519.jpg"
+      "publishedAt": "2026-11-23T12:17:51Z",
+      "description": "Análise indica que operações terrestres israelitas cobriram 283 km², 78% de Gaza, e que há sinais de pelo menos uma fonte de poluição em mais de 99% dessa área, sobretudo em Gaza, Khan Yunis, Rafah, Jabalia e no eixo Salah al-Din.",
+      "image": "https://images.euronews.com/articles/stories/10/00/41/46/1200x675_cmsv2_b93484ac-30a8-5a30-a214-a25e06a9b37a-10004146.jpg"
     },
     {
-      "title": "Espanha: Partidos intensificam campanha a uma semana das eleições",
-      "url": "https://pt.euronews.com/2026/11/22/espanha-partidos-intensificam-campanha-a-uma-semana-das-eleicoes",
+      "title": "Exclusivo: hackers apoiados pela China suspeitos do ciberataque contra a Comissão Europeia",
+      "url": "https://pt.euronews.com/2026/11/23/exclusivo-hackers-apoiados-pela-china-suspeitos-do-ciberataque-contra-a-comissao-europeia",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T20:51:47Z",
-      "description": "Sánchez e Feijóo cruzam-se em Múrcia, enquanto Abascal ataca o PP em Saragoça e Colau apela a mobilizar o voto progressista nas Canárias para reforçar a representação da Frente Ampla.",
-      "image": "https://images.euronews.com/articles/stories/10/00/34/27/1200x675_cmsv2_d6edc4f9-dab6-5781-be4d-4ecbba55a8cb-10003427.jpg"
+      "publishedAt": "2026-11-23T12:13:32Z",
+      "description": "A Comissão Europeia suspeita que um grupo de hackers apoiado pela China esteja por trás de um ciberataque que afeta os seus sistemas há um mês e que ainda se mantém em curso. A primeira fuga confirmada de dados pessoais diz respeito aos utilizadores da EU Academy.",
+      "image": "https://images.euronews.com/articles/stories/10/00/45/65/1200x675_cmsv2_23856a43-b6d7-508e-8dae-eac308fc82f4-10004565.jpg"
     },
     {
-      "title": "Drone russo provoca colapso de prédio e mata duas pessoas na Ucrânia",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/drone-russo-provoca-colapso-de-predio-e-mata-duas-pessoas-na-ucrania_v1780980",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T20:34:47Z",
-      "description": "Pelo menos duas pessoas morreram e outras 14 pessoas estão desaparecidas depois de um ataque russo ter atingido um edificio civil na região de Kiev.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c225c07e79ad6fc05ae417cc265eb5e.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Reino Unido reporta incidente com petroleiro e forças militares no Golfo de Omã",
-      "url": "https://pt.euronews.com/2026/11/22/reino-unido-reporta-incidente-com-petroleiro-e-forcas-militares-no-golfo-de-oma",
+      "title": "Irão promete usar todos os meios contra bloqueio dos EUA em Ormuz",
+      "url": "https://pt.euronews.com/2026/11/23/irao-promete-usar-todos-os-meios-contra-bloqueio-dos-eua-em-ormuz",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T20:33:33Z",
-      "description": "Entre relatos contraditórios sobre a partida, no domingo, de um petroleiro iraniano da ilha de Kharg para desafiar o bloqueio dos EUA no estreito de Ormuz, registou‑se um incidente perto da linha naval. Teerão avisou que qualquer tentativa dos EUA de travar os seus navios terá resposta imediata.",
-      "image": "https://images.euronews.com/articles/stories/10/00/36/02/1200x675_cmsv2_3ccf9661-343f-5f6a-930a-a121c0febb52-10003602.jpg"
+      "publishedAt": "2026-11-23T12:09:21Z",
+      "description": "O porta-voz do Ministério dos Negócios Estrangeiros, Esmaeil Baghaei, classificou o bloqueio como “ato criminoso”, um dia depois de Trump afirmar que navios iranianos que tentassem violá‑lo iriam “para o fundo do mar”.",
+      "image": "https://images.euronews.com/articles/stories/10/00/42/11/1200x675_cmsv2_09419871-09bc-5e46-95f8-49d5b7177d01-10004211.jpg"
     },
     {
-      "title": "Espanha: cerca de 300 migrantes chegam a El Hierro em cinco cayucos",
-      "url": "https://pt.euronews.com/2026/11/22/espanha-cerca-de-300-migrantes-chegam-a-el-hierro-em-cinco-cayucos",
+      "title": "Índia disponibiliza 1,4 mil milhões de euros para a reconstrução do Nepal após cheias mortíferas",
+      "url": "https://pt.euronews.com/2026/11/23/india-disponibiliza-14-mil-milhoes-de-euros-para-a-reconstrucao-do-nepal-apos-cheias-morti",
       "source": "Euronews",
-      "publishedAt": "2026-11-22T20:27:54Z",
-      "description": "Salvamento Marítimo e Guardia Civil escoltaram cinco embarcações até La Restinga e localizaram uma sexta. A ilha acolhe cerca de 900 migrantes, numa altura de um novembro recorde",
-      "image": "https://images.euronews.com/articles/stories/10/00/36/20/1200x675_cmsv2_1d5b4418-8f57-5b11-bcfa-d514e487d66f-10003620.jpg"
+      "publishedAt": "2026-11-23T11:58:30Z",
+      "description": "Na primeira visita a um país vizinho desde que se tornou primeiro-ministro, Balendra Shah conseguiu acordos sobre uma linha férrea, uma central hidroelétrica e infraestruturas de combustíveis.",
+      "image": "https://images.euronews.com/articles/stories/10/00/42/30/1200x675_cmsv2_9e43a7f1-7222-533b-85ad-aa9262980019-10004230.jpg"
     },
     {
-      "title": "Polícia israelita abre inquérito a ataques de colonos na Cisjordânia",
-      "url": "https://www.rtp.pt/noticias/mundo/policia-israelita-abre-inquerito-a-ataques-de-colonos-na-cisjordania_n1780938",
+      "title": "Preço dos combustíveis sobe 29,5% na UE e 32,7% em Portugal em outubro",
+      "url": "https://www.rtp.pt/noticias/mundo/preco-dos-combustiveis-sobe-29-5-na-ue-e-32-7-em-portugal-em-outubro_n1781061",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T19:44:26Z",
-      "description": "A Polícia israelita abriu um inquérito aos ataques e incêndios provocados desde a noite de sábado por colonos em várias localidades da Cisjordânia, atos que o líder da oposição israelita, Gadi Eisenkot, classificou como \"terrorismo judaico\".",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-23T11:56:59Z",
+      "description": "Os preços dos combustíveis subiram, em outubro, 29,5% na União Europeia (UE) face ao mês homólogo, tendo Portugal registado um aumento acima da média (32,7%), divulga hoje o Eurostat.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/37/372616377157417288a692741bceba87.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Sobe para cinco o número de mortos em forte tempestade no sul do Brasil",
-      "url": "https://www.rtp.pt/noticias/mundo/sobe-para-cinco-o-numero-de-mortos-em-forte-tempestade-no-sul-do-brasil_n1780949",
+      "title": "O \"deserto tóxico\" em que Israel transformou Gaza",
+      "url": "https://www.rtp.pt/noticias/mundo/o-deserto-toxico-em-que-israel-transformou-gaza_n1781033",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T19:43:18Z",
-      "description": "Subiu de três para cinco o número de mortos na sequência da forte tempestade que devastou a cidade de Tupanciretã, no sul do Brasil, tendo as autoridades locais anunciado ainda o registo de 265 feridos.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-23T09:08:14Z",
+      "description": "Dados científicos e de satélite alertam para uma contaminação generalizada provocada pela destruição e que representa grave ameaça à saúde pública “durante gerações”. O relatório da Oxfam destaca o efeito devastador de água e solos contaminados, do ar tóxico que ameaçam a sobrevivência da população.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf904d974e7778f586174026bc5d3a95?w=350&q=50&rect=0,0,1499,822&auto=format"
     },
     {
-      "title": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
-      "url": "https://www.rtp.pt/noticias/mundo/objetos-voadores-que-cairam-na-polonia-eram-misseis-de-cruzeiro-de-fabrico-russo_n1780963",
+      "title": "Zelensky aponta integração europeia como garantia de segurança",
+      "url": "https://www.rtp.pt/noticias/mundo/zelensky-aponta-integracao-europeia-como-garantia-de-seguranca_v1781044",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T18:46:08Z",
-      "description": "Os três objetos voadores, que caíram na manhã de sexta-feira no sudeste da Polónia, eram mísseis de cruzeiro `Ch-101` fabricados recentemente na região de Moscovo, anunciou hoje o Ministério Público de Lublin, autoridade polaca responsável pela investigação.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-23T08:50:47Z",
+      "description": "O presidente da Ucrânia defende avanços rápidos na integração do país na União Europeia, por considerar que o futuro e a segurança do país dependem desse passo.",
+      "image": "https://cdn-images.rtp.pt/icm/images/8b/8b986dee1703c0eab92f27458e59eafa_N.jpg?"
     },
     {
-      "title": "Eisenkot e Netanyahu sem acordo para possível Governo de coligação",
-      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-e-netanyahu-sem-acordo-para-possivel-governo-de-coligacao_n1780961",
+      "title": "Rússia. Entre a repressão atual e o passado estalinista",
+      "url": "https://www.rtp.pt/noticias/mundo/russia-entre-a-repressao-atual-e-o-passado-estalinista_v1781042",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T18:44:48Z",
-      "description": "Os partidos de Benjamin Netanyahu e do seu rival Gadi Eisenkot, encarregado de formar o próximo governo de Israel, tentaram hoje, sem sucesso, um acordo sobre uma possível coligação, que exigiria concessões significativas de ambos os lados.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5b5f570e5af972dab1b2c4f9b72171e.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-23T08:47:48Z",
+      "description": "Muitos russos não acreditam que, apesar das detenções e perseguições políticas atuais, o país regresse ao terror estalinista.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/87/877f4df47a41f5d6f4225549745b6958?w=350&q=50&rect=0,27,1920,1053&auto=format"
     },
     {
-      "title": "COP31. Guterres \"profundamente desapontado\" com falta de acordo",
-      "url": "https://www.rtp.pt/noticias/mundo/cop31-guterres-profundamente-desapontado-com-falta-de-acordo_n1780921",
+      "title": "\"Operação exemplar\". Zelensky reivindica ataque a navios russos ao largo da Líbia",
+      "url": "https://www.rtp.pt/noticias/mundo/operacao-exemplar-zelensky-reivindica-ataque-a-navios-russos-ao-largo-da-libia_n1781040",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T15:38:08Z",
-      "description": "O Governo português também se manifestou desiludido com o desfecho da cimeira do clima, lamentando a falta de ambição climática.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/be/bed8b7475bff099ae6f876190346cf77.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-23T08:44:30Z",
+      "description": "É a primeira vez que o presidente ucraniano reivindica a autoria deste género de operações, apesar de não ser a primeira vez que Kiev realiza este tipo de ataques contra forças russas. Neste caso, os ataques atingiram \"um navio de guerra russo\" (a corveta Merkury) e o cargueiro MV ANGARA ao largo da Líbia, no Mediterrâneo.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd5e21245a72ed256abcde58cb3284f6?w=350&q=50&rect=0,22,1560,855&auto=format"
+    },
+    {
+      "title": "Ataque com drones a depósitos de petróleo e refinaria na Rússia",
+      "url": "https://www.rtp.pt/noticias/mundo/ataque-com-drones-a-depositos-de-petroleo-e-refinaria-na-russia_n1781028",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T07:42:38Z",
+      "description": "Um ataque da Ucrânia com drones atingiu esta noite depósitos de petróleo na república russa do Tartaristão, e uma das maiores refinarias do sul do país, na região de Rostov, segundo os meios de comunicação social locais.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/84/847ead17332c1621d22cbba9d5cde0ad?w=350&q=50&rect=0,183,1200,658&auto=format"
     }
   ]
 }
