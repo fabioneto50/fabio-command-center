@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-23T12:47:30.615553Z",
+  "updatedAt": "2026-11-24T00:52:48.572250Z",
   "health": [
+    {
+      "title": "Doentes com diabetes enfrentam dificuldades para encontrar medicamento genérico",
+      "url": "https://www.rtp.pt/noticias/pais/doentes-com-diabetes-enfrentam-dificuldades-para-encontrar-medicamento-generico_v1781167",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T20:59:48Z",
+      "description": "Um medicamento genérico para a diabetes está em falta nas farmácias. Os doentes chegam, agora, a pagar cerca de 25 euros pelo medicamento de marca.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/be/bec3fb1c1b3e8e2fd1bbca93a98e666d?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "Medicamento para cancro do pâncreas aprovado por Bruxelas em tempo recorde",
+      "url": "https://www.rtp.pt/noticias/pais/medicamento-para-cancro-do-pancreas-aprovado-por-bruxelas-em-tempo-recorde_v1781089",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T13:37:47Z",
+      "description": "Um medicamento contra o cancro do pâncreas metastizado recebeu aprovação, em tempo recorde, da Comissão Europeia. É o mais próximo da cura para um tumor que, só em Portugal, mata cinco pessoas por dia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f6683fbaac8c1a851b441e09774b4f1?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "Dispensa de fármacos em proximidade só chega a 6% dos 150 mil doentes previstos",
+      "url": "https://www.rtp.pt/noticias/pais/dispensa-de-farmacos-em-proximidade-so-chega-a-6-dos-150-mil-doentes-previstos_v1781088",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T13:34:47Z",
+      "description": "A ministra da Saúde reconhece que a dispensa de medicamentos em proximidade está ainda muito aquém do previsto. Só chega a 6% dos 150 mil doentes identificados.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/81/81d5eaee57c6cab83b2ccf154b7ffe8a?w=350&q=50&rect=0,0,1200,658&auto=format"
+    },
     {
       "title": "AI Healthcare Index 2026: estudo nacional revela como os profissionais de saúde estão a usar a Inteligência Artificial",
       "url": "https://healthnews.pt/2026/11/23/ai-healthcare-index-2026-estudo-nacional-revela-como-os-profissionais-de-saude-estao-a-usar-a-inteligencia-artificial/",
@@ -72,128 +96,104 @@
       "publishedAt": "2026-11-23T06:41:36Z",
       "description": "O El Niño poderá afetar 2,22 milhões de pessoas em Moçambique, que integra o grupo de países de maior risco na África austral. A previsão consta da atualização global de novembro sobre o fenómeno climático, que antecipa condições mais quentes e secas do que a média durante a atual época agrícola.",
       "image": ""
-    },
-    {
-      "title": "Adjudicada compra de novo sistema de cirurgia robótica para hospital da ilha Terceira",
-      "url": "https://www.rtp.pt/noticias/pais/adjudicada-compra-de-novo-sistema-de-cirurgia-robotica-para-hospital-da-ilha-terceira_n1780941",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-22T19:43:52Z",
-      "description": "O Governo dos Açores adjudicou a aquisição de um novo sistema de cirurgia robótica, destinado ao Hospital de Santo Espírito da Ilha Terceira, por 2,4 milhões de euros, anunciou o executivo açoriano.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "\"Dificuldade em escalas\". Hospital Dona Estefânia sem anestesistas durante sete noites",
-      "url": "https://www.rtp.pt/noticias/pais/dificuldade-em-escalas-hospital-dona-estefania-sem-anestesistas-durante-sete-noites_v1780647",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T21:24:47Z",
-      "description": "O Hospital Dona Estefânia, em Lisboa, não terá anestesistas até ao fim de novembro. Para situações consideradas urgentes, há um acordo com o Hospital de Santa Maria.",
-      "image": "https://cdn-images.rtp.pt/icm/images/34/340a133400908dc2868a390d6df35327_N.jpg?"
-    },
-    {
-      "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos",
-      "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-20T00:24:53Z",
-      "description": "A maioria dos hospitais públicos registou ruturas de medicamentos no ano passado, em quase metade dos casos com impacto clínico grave, obrigando a mudar medicação ou a adiar tratamentos, conclui um estudo que será hoje divulgado.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Bélgica enfrenta uma greve nacional contra austeridade com governo em risco",
-      "url": "https://pt.euronews.com/2026/11/23/belgica-enfrenta-uma-greve-nacional-contra-austeridade-com-governo-em-risco",
-      "source": "Euronews",
-      "publishedAt": "2026-11-23T12:27:54Z",
-      "description": "O primeiro-ministro Bart De Wever apresentou a sua demissão ao rei em 2 de novembro devido ao impasse orçamental, mas o monarca recusou aceitá-la, concedendo-lhe mais tempo para encontrar uma solução governativa.",
-      "image": "https://images.euronews.com/articles/stories/10/00/44/68/1200x675_cmsv2_a19626dd-06b1-5c9b-9207-bdee4b429e4e-10004468.jpg"
-    },
-    {
-      "title": "União Europeia: oito países unem forças para defender mercado de carbono contra apelos ao adiamento",
-      "url": "https://pt.euronews.com/2026/11/23/uniao-europeia-oito-paises-unem-forcas-para-defender-mercado-de-carbono-contra-apelos-ao-a",
-      "source": "Euronews",
-      "publishedAt": "2026-11-23T12:27:24Z",
-      "description": "Oito países alertam que novos atrasos no mercado de carbono da UE vão pôr em causa a segurança energética, prolongar a dependência de combustíveis fósseis e travar investimento em tecnologias limpas.",
-      "image": "https://images.euronews.com/articles/stories/10/00/42/26/1200x675_cmsv2_abdd6eba-d112-50be-996e-f0b7a619e805-10004226.jpg"
-    },
-    {
-      "title": "Relatório da Oxfam alerta para legado tóxico dos ataques israelitas em Gaza",
-      "url": "https://pt.euronews.com/2026/11/23/relatorio-da-oxfam-alerta-para-legado-toxico-dos-ataques-israelitas-em-gaza",
-      "source": "Euronews",
-      "publishedAt": "2026-11-23T12:17:51Z",
-      "description": "Análise indica que operações terrestres israelitas cobriram 283 km², 78% de Gaza, e que há sinais de pelo menos uma fonte de poluição em mais de 99% dessa área, sobretudo em Gaza, Khan Yunis, Rafah, Jabalia e no eixo Salah al-Din.",
-      "image": "https://images.euronews.com/articles/stories/10/00/41/46/1200x675_cmsv2_b93484ac-30a8-5a30-a214-a25e06a9b37a-10004146.jpg"
-    },
-    {
-      "title": "Exclusivo: hackers apoiados pela China suspeitos do ciberataque contra a Comissão Europeia",
-      "url": "https://pt.euronews.com/2026/11/23/exclusivo-hackers-apoiados-pela-china-suspeitos-do-ciberataque-contra-a-comissao-europeia",
-      "source": "Euronews",
-      "publishedAt": "2026-11-23T12:13:32Z",
-      "description": "A Comissão Europeia suspeita que um grupo de hackers apoiado pela China esteja por trás de um ciberataque que afeta os seus sistemas há um mês e que ainda se mantém em curso. A primeira fuga confirmada de dados pessoais diz respeito aos utilizadores da EU Academy.",
-      "image": "https://images.euronews.com/articles/stories/10/00/45/65/1200x675_cmsv2_23856a43-b6d7-508e-8dae-eac308fc82f4-10004565.jpg"
-    },
-    {
-      "title": "Irão promete usar todos os meios contra bloqueio dos EUA em Ormuz",
-      "url": "https://pt.euronews.com/2026/11/23/irao-promete-usar-todos-os-meios-contra-bloqueio-dos-eua-em-ormuz",
-      "source": "Euronews",
-      "publishedAt": "2026-11-23T12:09:21Z",
-      "description": "O porta-voz do Ministério dos Negócios Estrangeiros, Esmaeil Baghaei, classificou o bloqueio como “ato criminoso”, um dia depois de Trump afirmar que navios iranianos que tentassem violá‑lo iriam “para o fundo do mar”.",
-      "image": "https://images.euronews.com/articles/stories/10/00/42/11/1200x675_cmsv2_09419871-09bc-5e46-95f8-49d5b7177d01-10004211.jpg"
-    },
-    {
-      "title": "Índia disponibiliza 1,4 mil milhões de euros para a reconstrução do Nepal após cheias mortíferas",
-      "url": "https://pt.euronews.com/2026/11/23/india-disponibiliza-14-mil-milhoes-de-euros-para-a-reconstrucao-do-nepal-apos-cheias-morti",
-      "source": "Euronews",
-      "publishedAt": "2026-11-23T11:58:30Z",
-      "description": "Na primeira visita a um país vizinho desde que se tornou primeiro-ministro, Balendra Shah conseguiu acordos sobre uma linha férrea, uma central hidroelétrica e infraestruturas de combustíveis.",
-      "image": "https://images.euronews.com/articles/stories/10/00/42/30/1200x675_cmsv2_9e43a7f1-7222-533b-85ad-aa9262980019-10004230.jpg"
-    },
-    {
-      "title": "Preço dos combustíveis sobe 29,5% na UE e 32,7% em Portugal em outubro",
-      "url": "https://www.rtp.pt/noticias/mundo/preco-dos-combustiveis-sobe-29-5-na-ue-e-32-7-em-portugal-em-outubro_n1781061",
+      "title": "Wall Street fecha em forte alta a saudar regresso de Jensen Huang à Nvidia",
+      "url": "https://www.rtp.pt/noticias/mundo/wall-street-fecha-em-forte-alta-a-saudar-regresso-de-jensen-huang-a-nvidia_n1781183",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T11:56:59Z",
-      "description": "Os preços dos combustíveis subiram, em outubro, 29,5% na União Europeia (UE) face ao mês homólogo, tendo Portugal registado um aumento acima da média (32,7%), divulga hoje o Eurostat.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/37/372616377157417288a692741bceba87.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-23T22:55:08Z",
+      "description": "A bolsa nova-iorquina encerrou hoje em forte alta, animada pelo regresso surpreendente de Jensen Huang à direção do conglomerado dos semicondutores Nvidia.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5a/5ab72e60858b35ddbb83b2f39b40e6e6?w=350&q=50&rect=0,30,860,471&auto=format"
     },
     {
-      "title": "O \"deserto tóxico\" em que Israel transformou Gaza",
-      "url": "https://www.rtp.pt/noticias/mundo/o-deserto-toxico-em-que-israel-transformou-gaza_n1781033",
+      "title": "ONG pede revogação de multas por documentário sobre protestos em Moçambique",
+      "url": "https://www.rtp.pt/noticias/mundo/ong-pede-revogacao-de-multas-por-documentario-sobre-protestos-em-mocambique_n1781149",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T09:08:14Z",
-      "description": "Dados científicos e de satélite alertam para uma contaminação generalizada provocada pela destruição e que representa grave ameaça à saúde pública “durante gerações”. O relatório da Oxfam destaca o efeito devastador de água e solos contaminados, do ar tóxico que ameaçam a sobrevivência da população.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf904d974e7778f586174026bc5d3a95?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-23T22:23:35Z",
+      "description": "O Observatório do Meio Rural (OMR), organização não-governamental moçambicana, pediu hoje a revogação de multas equivalentes a 200 salários mínimos da função pública por alegada falta de autorização de rodagem de um documentário sobre os protestos pós-eleitorais.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Zelensky aponta integração europeia como garantia de segurança",
-      "url": "https://www.rtp.pt/noticias/mundo/zelensky-aponta-integracao-europeia-como-garantia-de-seguranca_v1781044",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T08:50:47Z",
-      "description": "O presidente da Ucrânia defende avanços rápidos na integração do país na União Europeia, por considerar que o futuro e a segurança do país dependem desse passo.",
-      "image": "https://cdn-images.rtp.pt/icm/images/8b/8b986dee1703c0eab92f27458e59eafa_N.jpg?"
+      "title": "Tanzânia: incêndio devasta hotéis à beira-mar em Zanzibar",
+      "url": "https://pt.euronews.com/video/2026/11/23/tanzania-incendio-devasta-hoteis-a-beira-mar-em-zanzibar",
+      "source": "Euronews",
+      "publishedAt": "2026-11-23T21:50:02Z",
+      "description": "Um incêndio de grandes proporções varreu seis hotéis frente à praia na ilha de Zanzibar, na Tanzânia, no sábado, 21 de novembro de 2026, obrigando cerca de 180 turistas a evacuar, à medida que as chamas se espalhavam rapidamente ao longo da popular praia de Nungwi",
+      "image": "https://images.euronews.com/articles/stories/10/00/54/63/1200x675_cmsv2_893b40af-b249-5cab-a4f4-f0267ebf8fed-10005463.jpg"
     },
     {
-      "title": "Rússia. Entre a repressão atual e o passado estalinista",
-      "url": "https://www.rtp.pt/noticias/mundo/russia-entre-a-repressao-atual-e-o-passado-estalinista_v1781042",
+      "title": "Portugal assina declaração conjunta com 13 países instando Myanmar a cumprir sentença do TIJ",
+      "url": "https://www.rtp.pt/noticias/mundo/portugal-assina-declaracao-conjunta-com-13-paises-instando-myanmar-a-cumprir-sentenca-do-tij_n1781164",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T08:47:48Z",
-      "description": "Muitos russos não acreditam que, apesar das detenções e perseguições políticas atuais, o país regresse ao terror estalinista.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/87/877f4df47a41f5d6f4225549745b6958?w=350&q=50&rect=0,27,1920,1053&auto=format"
+      "publishedAt": "2026-11-23T21:27:22Z",
+      "description": "Portugal assinou hoje uma declaração conjunta com mais 13 países instando Myanmar (antiga Birmânia) a cumprir \"a sentença vinculativa\" do Tribunal Internacional de Justiça, para \"fazer justiça\" a vítimas e sobreviventes ao genocídio rohingya.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c3e5557b4caf138306bafa212b1e62f7.JPG?w=350&q=50&auto=format"
     },
     {
-      "title": "\"Operação exemplar\". Zelensky reivindica ataque a navios russos ao largo da Líbia",
-      "url": "https://www.rtp.pt/noticias/mundo/operacao-exemplar-zelensky-reivindica-ataque-a-navios-russos-ao-largo-da-libia_n1781040",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T08:44:30Z",
-      "description": "É a primeira vez que o presidente ucraniano reivindica a autoria deste género de operações, apesar de não ser a primeira vez que Kiev realiza este tipo de ataques contra forças russas. Neste caso, os ataques atingiram \"um navio de guerra russo\" (a corveta Merkury) e o cargueiro MV ANGARA ao largo da Líbia, no Mediterrâneo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd5e21245a72ed256abcde58cb3284f6?w=350&q=50&rect=0,22,1560,855&auto=format"
+      "title": "Bélgica: trabalhadores protestam contra cortes enquanto custo de vida sobe",
+      "url": "https://pt.euronews.com/video/2026/11/23/belgica-trabalhadores-protestam-contra-cortes-enquanto-custo-de-vida-sobe",
+      "source": "Euronews",
+      "publishedAt": "2026-11-23T21:10:43Z",
+      "description": "Milhares marcharam em Bruxelas, segunda-feira, 23 de novembro de 2026, contra medidas de austeridade propostas; confrontos levaram a polícia a usar gás lacrimogéneo e canhões de água, numa altura em que o governo belga debatia o orçamento de 2027",
+      "image": "https://images.euronews.com/articles/stories/10/00/54/49/1200x675_cmsv2_d6857080-e885-5de7-93a4-ad72c6716d52-10005449.jpg"
     },
     {
-      "title": "Ataque com drones a depósitos de petróleo e refinaria na Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/ataque-com-drones-a-depositos-de-petroleo-e-refinaria-na-russia_n1781028",
+      "title": "Irão aplica pena de chicotadas a cantora que atuou sem o hijab",
+      "url": "https://pt.euronews.com/2026/11/23/irao-aplica-pena-de-chicotadas-a-cantora-que-atuou-sem-o-hijab",
+      "source": "Euronews",
+      "publishedAt": "2026-11-23T19:57:59Z",
+      "description": "O tribunal atribuiu aos nove membros a pena de 74 chicotadas, dois anos de proibição de viajar e de atividade artística.",
+      "image": "https://images.euronews.com/articles/stories/10/00/46/99/1200x675_cmsv2_0b10ba89-087c-57e3-8c5f-9e18f94c3b1b-10004699.jpg"
+    },
+    {
+      "title": "Merz diz que foi um erro não admitir a Ucrânia na NATO em 2008",
+      "url": "https://pt.euronews.com/2026/11/23/merz-diz-que-foi-um-erro-nao-admitir-a-ucrania-na-nato-em-2008",
+      "source": "Euronews",
+      "publishedAt": "2026-11-23T19:40:47Z",
+      "description": "O chanceler alemão Friedrich Merz afirmou aos jornalistas que a invasão russa da Ucrânia provavelmente não teria ocorrido se os aliados tivessem concordado em admitir Kiev em 2008, durante uma cimeira em Bucareste.",
+      "image": "https://images.euronews.com/articles/stories/10/00/44/06/1200x675_cmsv2_81d264d3-ad31-58a5-90db-8c4864fbb210-10004406.jpg"
+    },
+    {
+      "title": "Drone SPYS da empresa germano-ucraniana abate jet russo em contexto de teste",
+      "url": "https://pt.euronews.com/2026/11/23/drone-spys-da-empresa-germano-ucraniana-abate-jet-russo-em-contexto-de-teste",
+      "source": "Euronews",
+      "publishedAt": "2026-11-23T19:26:32Z",
+      "description": "Segundo a empresa, uma drone de interceção germano-ucraniana derrubou uma drone russa a jato Geran-5. O sistema SPYS visa reforçar a defesa aérea ucraniana contra drones de ataque muito rápidos.",
+      "image": "https://images.euronews.com/articles/stories/10/00/53/29/1200x675_cmsv2_ed52b2ab-ff52-520a-9520-3c369c39b781-10005329.jpg"
+    },
+    {
+      "title": "\"Risco elevado de disseminação\": detetado novo foco de gripe das aves em Portugal",
+      "url": "https://pt.euronews.com/2026/11/23/risco-elevado-de-disseminacao-detetado-novo-foco-de-gripe-das-aves-em-portugal",
+      "source": "Euronews",
+      "publishedAt": "2026-11-23T19:23:30Z",
+      "description": "Foco foi detetado numa exploração em Tomar. Autoridade veterinária alerta para o elevado \"risco de disseminação \" da doença e determinou \"confinamento das aves domésticas nas zonas de alto risco para a gripe aviária\".",
+      "image": "https://images.euronews.com/articles/stories/10/00/53/51/1200x675_cmsv2_f314ab2b-ee7d-527b-be11-1125ff63fc40-10005351.jpg"
+    },
+    {
+      "title": "Alemães denunciam plano russo para colocar armas nucleares no espaço",
+      "url": "https://www.rtp.pt/noticias/mundo/alemaes-denunciam-plano-russo-para-colocar-armas-nucleares-no-espaco_n1781142",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T07:42:38Z",
-      "description": "Um ataque da Ucrânia com drones atingiu esta noite depósitos de petróleo na república russa do Tartaristão, e uma das maiores refinarias do sul do país, na região de Rostov, segundo os meios de comunicação social locais.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/84/847ead17332c1621d22cbba9d5cde0ad?w=350&q=50&rect=0,183,1200,658&auto=format"
+      "publishedAt": "2026-11-23T19:13:03Z",
+      "description": "O lançamento do satélite, Sputnik-S, constituiria a violação de pelo menos dois tratados internacionais. O Kremlin já negou as alegações.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b44df9e7242118a5a45f5eb34ea8ad2?w=350&q=50&rect=0,133,1500,822&auto=format"
+    },
+    {
+      "title": "Rutte reitera que não há consenso para adesão da Ucrânia à NATO",
+      "url": "https://www.rtp.pt/noticias/mundo/rutte-reitera-que-nao-ha-consenso-para-adesao-da-ucrania-a-nato_n1781136",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T18:29:23Z",
+      "description": "O secretário-geral da NATO, Mark Rutte, reiterou hoje que a Ucrânia tem \"a perspetiva\" de aderir à Aliança Atlântica, mas que atualmente \"não existe unanimidade\" entre os aliados para concretizar a sua entrada na organização.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/32/32cbd5d427d96a6ecde4bde25b833531.JPG?w=350&q=75_&auto=format&q=50"
+    },
+    {
+      "title": "Ucrânia. ONU alerta para inverno \"profundamente preocupante\"",
+      "url": "https://www.rtp.pt/noticias/mundo/ucrania-onu-alerta-para-inverno-profundamente-preocupante_n1781119",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-23T16:38:34Z",
+      "description": "A perspetiva da ONU para este inverno na Ucrânia \"é profundamente preocupante\", advertiu hoje a subsecretária-geral para Assuntos Políticos, sublinhando que os ataques russos às infraestruturas energéticas ucranianas são cada vez mais extensos e sistemáticos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/fc/fcea832405ee9622a5004a27cedc8cc4?w=350&q=50&rect=0,207,1500,822&auto=format"
     }
   ]
 }
