@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T21:12:59.190535Z",
+  "updatedAt": "2026-11-25T04:14:31.120785Z",
   "health": [
+    {
+      "title": "INEM instado a assegurar a informação relativamente a constragimentos das urgências",
+      "url": "https://www.rtp.pt/noticias/pais/inem-instado-a-assegurar-a-informacao-relativamente-a-constragimentos-das-urgencias_v1781433",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T23:09:48Z",
+      "description": "O INEM levou uma grávida em situação aguda para uma urgência encerrada. A Entidade Reguladora da Saúde recomenda ao INEM que assegure toda a informação relativamente aos constragimentos dos serviços de urgência.",
+      "image": "https://cdn-images.rtp.pt/icm/images/06/061bc69293922208aeaa3616234cc013_N.jpg?"
+    },
     {
       "title": "Combate à fraude no SNS. Comissão fala em \"constrangimentos operacionais relevantes\"",
       "url": "https://www.rtp.pt/noticias/pais/combate-a-fraude-no-sns-comissao-fala-em-constrangimentos-operacionais-relevantes_v1781295",
@@ -88,17 +96,57 @@
       "publishedAt": "2026-11-23T14:05:28Z",
       "description": "Luís Rocha - gestor na indústria farmacêutica e biotecnológica. Autor e professor convidado nas áreas das políticas de saúde, inovação e economia da saúde",
       "image": ""
-    },
-    {
-      "title": "Medicamento para cancro do pâncreas aprovado por Bruxelas em tempo recorde",
-      "url": "https://www.rtp.pt/noticias/pais/medicamento-para-cancro-do-pancreas-aprovado-por-bruxelas-em-tempo-recorde_v1781089",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T13:37:47Z",
-      "description": "Um medicamento contra o cancro do pâncreas metastizado recebeu aprovação, em tempo recorde, da Comissão Europeia. É o mais próximo da cura para um tumor que, só em Portugal, mata cinco pessoas por dia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f6683fbaac8c1a851b441e09774b4f1?w=350&q=50&rect=0,0,1499,822&auto=format"
     }
   ],
   "world": [
+    {
+      "title": "Eisenkot apresenta acordo de coligação para dar um governo a Israel",
+      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-apresenta-acordo-de-coligacao-para-dar-um-governo-a-israel_n1781443",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T01:02:19Z",
+      "description": "É a primeira solução sólida a emergir das eleições de 27 de outubro.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1bb12dd08e7deb6450636c02800ed17f?w=350&q=50&rect=0,0,1500,822&auto=format"
+    },
+    {
+      "title": "Wall Street fecha sem rumo com as tecnológicas a voltarem a perder atração",
+      "url": "https://www.rtp.pt/noticias/mundo/wall-street-fecha-sem-rumo-com-as-tecnologicas-a-voltarem-a-perder-atracao_n1781435",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T23:30:53Z",
+      "description": "A bolsa nova-iorquina encerrou hoje sem direção, com a desvalorização da Nvidia em seis por vento a arrastar o setor da inteligência artificial (IA), mas não o conjunto do mercado.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Lusodescendente criou uma associação de apoio a sem-abrigo em Paris",
+      "url": "https://www.rtp.pt/noticias/mundo/lusodescendente-criou-uma-associacao-de-apoio-a-sem-abrigo-em-paris_v1781431",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T23:04:48Z",
+      "description": "Uma lusodescendente criou uma associação de apoio a sem-abrigo em Paris e numa destas noites Eleonor Patrício e vários grupos de amigos distribuíram mais de 30 refeições. Serão cerca de 10 milhões os residentes em França que vivem no limiar da pobreza.",
+      "image": "https://cdn-images.rtp.pt/icm/images/cb/cbb6ab8365805e8522de91d9531f18c9_N.jpg?"
+    },
+    {
+      "title": "Jensen Huang regressa. Suspeitas de pressão de Trump sobre a Nvidia",
+      "url": "https://www.rtp.pt/noticias/mundo/jensen-huang-regressa-suspeitas-de-pressao-de-trump-sobre-a-nvidia_v1781425",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T22:49:48Z",
+      "description": "O regresso de Jensen Huang aos comandos da Nvidia foi festejado pelos trabalhadores. Mas aumenta a suspeita de que o regresso de deveu à intervenção de Donald Trump, o que está a gerar uma onda de protestos fora da empresa.",
+      "image": "https://cdn-images.rtp.pt/icm/images/d2/d2ddd829d85c0a89e234b8bc4a1a39fa_N.jpg?"
+    },
+    {
+      "title": "Polícia Marítima resgata 12 migrantes em missão na ilha de Gavdos na Grécia",
+      "url": "https://www.rtp.pt/noticias/mundo/policia-maritima-resgata-12-migrantes-em-missao-na-ilha-de-gavdos-na-grecia_n1781417",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T22:43:39Z",
+      "description": "A Polícia Marítima (PM) resgatou hoje 12 migrantes, com idades entre os 16 e os 30 anos, na ilha grega de Gavdos, no âmbito da missão \"Joint Operation Greece 2026\", divulgou a Autoridade Marítima Nacional (AMN).",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Rússia avisa Estónia que fecho de fronteira pode abrir uma guerra",
+      "url": "https://www.rtp.pt/noticias/mundo/russia-avisa-estonia-que-fecho-de-fronteira-pode-abrir-uma-guerra_v1781422",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T22:31:53Z",
+      "description": "O governo da Estónia disse que está apenas a reagir aos mais recentes atos de intimidação e sabotagem.",
+      "image": "https://cdn-images.rtp.pt/icm/images/f8/f809ac5bf3420c0c1e2979f27dd18056_N.jpg?"
+    },
     {
       "title": "Senegal recupera Taça das Nações Africanas, mas Marrocos vai contestar decisão",
       "url": "https://pt.euronews.com/2026/11/24/senegal-recupera-taca-das-nacoes-africanas-mas-marrocos-vai-contestar-decisao",
@@ -146,54 +194,6 @@
       "publishedAt": "2026-11-24T17:00:35Z",
       "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 24 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
       "image": "https://images.euronews.com/articles/stories/10/00/60/46/1200x675_cmsv2_f09c0d2f-9aec-55f8-9fc9-f3209a6e47cd-10006046.jpg"
-    },
-    {
-      "title": "Diário Privado de Francisco revela que Papa acredita ter visto o diabo",
-      "url": "https://www.rtp.pt/noticias/mundo/diario-privado-de-francisco-revela-que-papa-acredita-ter-visto-o-diabo_n1781316",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T14:57:58Z",
-      "description": "O livro expõe os registos escritos do Papa, desde 1992 até 2024. Este diário revela que o antigo líder da Igreja Católica acredita ter visto o diabo três vezes.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/69/69ef04e5696af640daebfb3069ee8ee9.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "ONU pede mecanismo de supervisão da Inteligência Artificial pronto em 2027",
-      "url": "https://www.rtp.pt/noticias/mundo/onu-pede-mecanismo-de-supervisao-da-inteligencia-artificial-pronto-em-2027_v1781314",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T14:39:47Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "A caminho do Natal. Centenas de árvores iluminadas nos Campos Elísios",
-      "url": "https://www.rtp.pt/noticias/mundo/a-caminho-do-natal-centenas-de-arvores-iluminadas-nos-campos-elisios_v1781310",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T14:35:47Z",
-      "description": "A atriz Cate Blanchet conduziu a contagem decrescente para que a iluminação natalícia fosse ligada em Paris. São mais de quatrocentas árvores.",
-      "image": "https://cdn-images.rtp.pt/icm/images/05/05b10657d44cf9e3558f1923ed2a059f_N.jpg?"
-    },
-    {
-      "title": "Bombardeamento russo em Zaporizhia faz dois mortos e dezenas de feridos",
-      "url": "https://www.rtp.pt/noticias/mundo/bombardeamento-russo-em-zaporizhia-faz-dois-mortos-e-dezenas-de-feridos_v1781299",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T13:47:47Z",
-      "description": "Mais duas pessoas morreram e 40 ficaram feridas na região de Zaporizhia, na sequência de um bombardeamento russo.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c99865aaf7bf557430d4f9a5d3a1add?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Seguro defende que UE precisa de reforçar liderança, autonomia e influência",
-      "url": "https://www.rtp.pt/noticias/mundo/seguro-defende-que-ue-precisa-de-reforcar-lideranca-autonomia-e-influencia_n1781270",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T11:43:02Z",
-      "description": "O presidente da República defendeu hoje que a União Europeia precisa de reforçar a sua liderança, autonomia estratégica e influência no mundo e não pode ficar à margem das decisões sobre a segurança no continente europeu.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0abb981fcc4c4525601ba7a3db93353b?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Mais de mil militares russos suicidaram-se durante a guerra na Ucrânia",
-      "url": "https://www.rtp.pt/noticias/mundo/mais-de-mil-militares-russos-suicidaram-se-durante-a-guerra-na-ucrania_n1781258",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T10:51:40Z",
-      "description": "Desde 2024 que o número de suicídios entre militares russos no terreno não para de aumentar.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e3b545dbdaf76716f3c624aad46792f.jpg?w=350&q=50&auto=format"
     }
   ]
 }
