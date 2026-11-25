@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-25T14:30:07.986522Z",
+  "updatedAt": "2026-11-25T23:37:52.686950Z",
   "health": [
+    {
+      "title": "Cerca de três mil pacientes continuam a ocupar camas hospitalares mesmo com alta declarada",
+      "url": "https://www.rtp.pt/noticias/pais/cerca-de-tres-mil-pacientes-continuam-a-ocupar-camas-hospitalares-mesmo-com-alta-declarada_n1781608",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T16:58:04Z",
+      "description": "Há cerca de três mil pessoas nos hospitais públicos nacionais que continuam internadas apesar de já terem recebido alta clínica. Camas ocupadas, mas também questões familiares preocupantes que optam por deixar alguns dos parentes nos serviços hospitalares.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5b26b7c8aa57911ccad36f40036f673.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Portugal acima da média da União Europeia em vacinação",
+      "url": "https://www.rtp.pt/noticias/pais/portugal-acima-da-media-da-uniao-europeia-em-vacinacao_v1781578",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T14:30:47Z",
+      "description": "Um estudo da OCDE mostra que o Estado português nunca gastou tanto em saúde, mas ainda não é suficiente.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b5c409ff4aac29f53a2c7e7073d8460?w=350&q=50&rect=0,0,1560,855&auto=format"
+    },
     {
       "title": "Federação considera inaceitável ausência de medidas para a dádiva de sangue no OE2027",
       "url": "https://healthnews.pt/2026/11/25/federacao-considera-inaceitavel-ausencia-de-medidas-para-a-dadiva-de-sangue-no-oe2027/",
@@ -80,120 +96,104 @@
       "publishedAt": "2026-11-24T13:34:47Z",
       "description": "Um ano depois de ter sido criada, a Comissão de Combate à Fraude no SNS denuncia constrangimentos de funcionamento \"relevantes\".",
       "image": "https://cdn-images.rtp.pt/icm/images/08/080a8b7b5a1cdf5023784e9e78ad3f75_N.jpg?"
-    },
-    {
-      "title": "Comissão anti-fraude no SNS sem acesso a dados ou a plataforma de denúncia",
-      "url": "https://www.rtp.pt/noticias/pais/comissao-anti-fraude-no-sns-sem-acesso-a-dados-ou-a-plataforma-de-denuncia_n1781276",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-24T12:48:37Z",
-      "description": "A Comissão de Combate à Fraude no Serviço Nacional de Saúde está a funcionar apenas com quatro pessoas e não tem nem a plataforma de denúncias proposta em março, nem acesso a dados granulares da despesa, que considera essenciais.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/46/46dffbe21ef2b75725f7336918353813?w=350&q=50&rect=0,0,1560,855&auto=format"
-    },
-    {
-      "title": "Doentes com diabetes enfrentam dificuldades para encontrar medicamento genérico",
-      "url": "https://www.rtp.pt/noticias/pais/doentes-com-diabetes-enfrentam-dificuldades-para-encontrar-medicamento-generico_v1781167",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-23T20:59:48Z",
-      "description": "Um medicamento genérico para a diabetes está em falta nas farmácias. Os doentes chegam, agora, a pagar cerca de 25 euros pelo medicamento de marca.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/be/bec3fb1c1b3e8e2fd1bbca93a98e666d?w=350&q=50&rect=0,0,1499,822&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Contentor de navio atacado por drones traz enfeites de Natal à costa búlgara",
-      "url": "https://pt.euronews.com/2026/11/25/contentor-de-navio-atacado-por-drones-traz-enfeites-de-natal-a-costa-bulgara",
-      "source": "Euronews",
-      "publishedAt": "2026-11-25T14:26:07Z",
-      "description": "Foram encontradas mais de de 80 caixas com enfeites e decorações de Natal, avaliadas em cerca de 50 mil euros,",
-      "image": "https://images.euronews.com/articles/stories/10/00/75/35/1200x675_cmsv2_8f4f1294-0cdb-5ae5-b3db-ff14c13702ed-10007535.jpg"
-    },
-    {
-      "title": "Eurodeputados alertam Costa: não haverá aprovação sem um orçamento da UE mais elevado",
-      "url": "https://pt.euronews.com/2026/11/25/eurodeputados-alertam-costa-nao-havera-aprovacao-sem-um-orcamento-da-ue-mais-elevado",
-      "source": "Euronews",
-      "publishedAt": "2026-11-25T14:19:59Z",
-      "description": "Os eurodeputados condenaram uma proposta de redução de 10% no próximo orçamento de longo prazo da UE, ameaçando rejeitar o acordo caso este venha a ser alcançado pelos líderes da UE.",
-      "image": "https://images.euronews.com/articles/stories/10/00/75/89/1200x675_cmsv2_4e8664ae-aaba-51fc-adbe-158c1b463f38-10007589.jpg"
-    },
-    {
-      "title": "Puigdemont anuncia regresso à Catalunha a 12 de dezembro",
-      "url": "https://www.rtp.pt/noticias/mundo/puigdemont-anuncia-regresso-a-catalunha-a-12-de-dezembro_v1781570",
+      "title": "Primeiras imagens do asteroide Dimorphos divulgadas esta quarta-feira",
+      "url": "https://www.rtp.pt/noticias/mundo/primeiras-imagens-do-asteroide-dimorphos-divulgadas-esta-quarta-feira_n1781638",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T14:06:47Z",
-      "description": "O independentista catalão Carles Puigdemont, exilado há nove anos na Bélgica, anunciou a intenção de regressar a Barcelona no próximo dia 12 de dezembro. Isto depois de ter sido perdoado dos crimes de rebelião e de peculato.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/05/0540ecbdd25a98895e7179ddc203edf3?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-25T21:58:26Z",
+      "description": "As primeiras imagens feitas pela sonda Hera do asteroide Dimorphos, depois de ter sido desviado da trajetória durante um teste de defesa planetária, foram hoje divulgadas pela Agência Espacial Europeia (ESA).",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4cbf574c5fd2a8ad04f747dbff5296e2.webp?w=350&q=50&auto=format"
     },
     {
-      "title": "Marinha francesa apreende 3,3 toneladas de metanfetamina num petroleiro no Pacífico",
-      "url": "https://pt.euronews.com/2026/11/25/marinha-francesa-apreende-33-toneladas-de-metanfetamina-num-petroleiro-no-pacifico",
+      "title": "Eleições em Espanha. Central nuclear de Almaraz tem peso no voto",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-central-nuclear-de-almaraz-tem-peso-no-voto_v1781656",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T21:19:47Z",
+      "description": "A Central Nuclear de Almaraz tem sido um fator decisivo no momento dos eleitores espanhóis votarem nas eleições.",
+      "image": "https://cdn-images.rtp.pt/icm/images/41/41eb2dc0d0534d65bd32da4fabe3a40d_N.jpg?"
+    },
+    {
+      "title": "Pelo menos 30 mortos num incêndio em autoestrada no distrito do Cairo",
+      "url": "https://pt.euronews.com/2026/11/25/pelo-menos-30-mortos-num-incendio-em-autoestrada-no-distrito-do-cairo",
       "source": "Euronews",
-      "publishedAt": "2026-11-25T13:44:25Z",
-      "description": "Uma equipa de abordagem entrou em ação após semanas de vigilância, apoiada por um helicóptero, um jato Falcon 50 e um avião de patrulha da Guarda Costeira dos EUA.",
-      "image": "https://images.euronews.com/articles/stories/10/00/75/88/1200x675_cmsv2_63d61162-5015-5329-af07-90a6fd5cc79c-10007588.jpg"
+      "publishedAt": "2026-11-25T20:33:01Z",
+      "description": "Um camião cisterna capotou numa autoestrada movimentada, incendiou vários veículos e desencadeou uma grande operação de emergência. As autoridades avisam que o número de mortos pode aumentar.",
+      "image": "https://images.euronews.com/articles/stories/10/00/87/06/1200x675_cmsv2_90523e67-7923-5431-b927-e7191ca49bda-10008706.jpg"
     },
     {
-      "title": "Acidente ferroviário em Adamuz: peritos apontam soldadura defeituosa e desnível no solo como possíveis causas",
-      "url": "https://pt.euronews.com/2026/11/25/acidente-ferroviario-em-adamuz-peritos-apontam-soldadura-defeituosa-e-desnivel-no-solo-com",
+      "title": "Pelo menos 30 mortos em incêndio de camião carregado com gás a norte do Cairo",
+      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-30-mortos-em-incendio-de-camiao-carregado-com-gas-a-norte-do-cairo_n1781637",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T20:21:08Z",
+      "description": "Pelo menos 30 pessoas morreram hoje e 15 ficaram feridas num incêndio provocado pela explosão de um camião com botijas de gás, após um acidente na autoestrada circular de Warraq, a norte do Cairo, segundo o Ministério da Saúde.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b5ccf90dedc48249c1e40de11316235.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Socialistas e liberais suspendem negociações de coligação com o PPE após novo apoio à extrema-direita",
+      "url": "https://pt.euronews.com/2026/11/25/socialistas-e-liberais-suspendem-negociacoes-de-coligacao-com-o-ppe-apos-novo-apoio-a-extr",
       "source": "Euronews",
-      "publishedAt": "2026-11-25T13:12:35Z",
-      "description": "Um relatório preliminar de peritos aponta uma soldadura defeituosa e o afundamento da via como causas do acidente de Adamuz, e afirma que um defeito de 6,4 mm detetado meses antes poderá ter provocado a fissura no carril.",
-      "image": "https://images.euronews.com/articles/stories/10/00/78/37/1200x675_cmsv2_56f4a618-90c4-52a2-82e3-f3bf9c6babbe-10007837.jpg"
+      "publishedAt": "2026-11-25T20:06:47Z",
+      "description": "Os três grupos centristas negociavam uma coligação para a segunda metade da legislatura do Parlamento Europeu, incluindo a reeleição de Roberta Metsola como presidente.",
+      "image": "https://images.euronews.com/articles/stories/10/00/84/06/1200x675_cmsv2_c458e551-08d0-5eb3-b02b-a40c34cb981d-10008406.jpg"
     },
     {
-      "title": "Puerto Rico: Jennifer Barreto vence Miss Universo 2026, primeira mulher casada a conquistar título",
-      "url": "https://pt.euronews.com/video/2026/11/25/puerto-rico-jennifer-barreto-vence-miss-universo-2026-primeira-mulher-casada-a-conquistar",
-      "source": "Euronews",
-      "publishedAt": "2026-11-25T13:07:06Z",
-      "description": "Jennifer Barreto, de Porto Rico, vence Miss Universo 2026 em San Juan, tornando-se a primeira vencedora casada e mãe desde 2023",
-      "image": "https://images.euronews.com/articles/stories/10/00/78/39/1200x675_cmsv2_70cc8fa8-2d1a-5853-b3b3-609768f93ec9-10007839.jpg"
-    },
-    {
-      "title": "Grupo de reflexão alemão R21 pede reorientação da política climática e energética com mais nuclear",
-      "url": "https://pt.euronews.com/2026/11/25/grupo-de-reflexao-alemao-r21-pede-reorientacao-da-politica-climatica-e-energetica-com-mais",
-      "source": "Euronews",
-      "publishedAt": "2026-11-25T12:28:22Z",
-      "description": "O Conselho de peritos da think tank R21 vê necessidade de reformas na política climática e energética alemã e defende mais energia nuclear e novo modelo elétrico.",
-      "image": "https://images.euronews.com/articles/stories/10/00/33/78/1200x675_cmsv2_dfe1a34a-731f-543b-b923-cebd2efb3fea-10003378.jpg"
-    },
-    {
-      "title": "Canárias. Chegada da imigrantes à Ilha del Hierro ganha dimensão histórica",
-      "url": "https://www.rtp.pt/noticias/mundo/canarias-chegada-da-imigrantes-a-ilha-del-hierro-ganha-dimensao-historica_n1781522",
+      "title": "Guiné-Bissau. Candidato que reivindicou vitória insta militares a publicarem resultados eleitorais",
+      "url": "https://www.rtp.pt/noticias/mundo/guine-bissau-candidato-que-reivindicou-vitoria-insta-militares-a-publicarem-resultados-eleitorais_n1781635",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T11:45:53Z",
-      "description": "São maioritariamente senegaleses, mas há também imigrantes de outros países da África Ocidental, como a Mauritânia, a Guiné-Bissau e o Mali.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b98edb179a23773136a7c2e9f95fdf51?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Xi defende utilização pacífica do espaço após lançamento de missão com paquistanês",
-      "url": "https://www.rtp.pt/noticias/mundo/xi-defende-utilizacao-pacifica-do-espaco-apos-lancamento-de-missao-com-paquistanes_n1781496",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T09:40:05Z",
-      "description": "O Presidente chinês, Xi Jinping, defendeu hoje a utilização pacífica do espaço e o reforço da cooperação internacional, numa mensagem dirigida ao homólogo paquistanês, Asif Ali Zardari, após o lançamento de uma missão espacial conjunta.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/94/947123bce70bc5d35d4e1acd9d5eec70?w=350&q=50&rect=0,0,1499,822&auto=format"
-    },
-    {
-      "title": "Implantado na República Checa primeiro pacemaker que se recarrega sozinho",
-      "url": "https://www.rtp.pt/noticias/mundo/implantado-na-republica-checa-primeiro-pacemaker-que-se-recarrega-sozinho_n1781441",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T09:34:59Z",
-      "description": "Uma equipa checa de cardiologistas implantou num paciente um pacemaker que é o primeiro do mundo cuja bateria se recarrega sozinha e poderia ter uma autonomia ilimitada, divulgou hospital Na Homolce, em Praga, onde o procedimento foi realizado.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/77/7758bce88cbc85767c16e062479ec935?w=350&q=50&rect=0,23,1560,855&auto=format"
-    },
-    {
-      "title": "Engenheiro saudita da OpenAI libertado sob caução nos EUA em caso de escutas na empresa",
-      "url": "https://www.rtp.pt/noticias/mundo/engenheiro-saudita-da-openai-libertado-sob-caucao-nos-eua-em-caso-de-escutas-na-empresa_n1781480",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T08:55:42Z",
-      "description": "O ex-engenheiro saudita da OpenAI, acusado de ter escondido um microfone numa sala de reuniões, vai ser libertado sob caução, decidiu na terça-feira um juiz federal de São Francisco, segundo vários meios de comunicação norte-americanos.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e761b6bf498ac3c4763d5282c37aee2a?w=350&q=50&rect=0,127,1232,675&auto=format"
-    },
-    {
-      "title": "Violência baseada no género é obstáculo direto ao desenvolvimento de Timor-Leste",
-      "url": "https://www.rtp.pt/noticias/mundo/violencia-baseada-no-genero-e-obstaculo-direto-ao-desenvolvimento-de-timor-leste_n1781479",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T08:54:26Z",
-      "description": "A coordenadora residente das Nações Unidas em Timor-Leste, Funmi Balogun, afirmou hoje que a violência baseada no género é uma violação dos direitos humanos, mas também um obstáculo ao desenvolvimento do país.",
+      "publishedAt": "2026-11-25T19:39:08Z",
+      "description": "O candidato que reclamou vitória nas eleições que antecederam o golpe militar na Guiné-Bissau, Fernando Dias da Costa, saudou a flexibilização das restrições aos partidos, mas instou os militares a criarem condições para a proclamação oficial dos resultados eleitorais.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Globo sentiu maior aumento da temperatura acima de 2ºC por seis dias consecutivos",
+      "url": "https://www.rtp.pt/noticias/mundo/globo-sentiu-maior-aumento-da-temperatura-acima-de-2oc-por-seis-dias-consecutivos_n1781630",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T19:21:08Z",
+      "description": "As principais causas foram o uso contínuo de combustíveis fósseis e um fenómeno El Niño mais forte, perto de chegar ao auge entre novembro e janeiro.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d3ee1d8b20c48a2d468a662b5a48b0c?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
+    {
+      "title": "Greve surpresa na Eurostar cancela vários comboios Paris-Londres",
+      "url": "https://pt.euronews.com/2026/11/25/greve-surpresa-na-eurostar-cancela-varios-comboios-paris-londres",
+      "source": "Euronews",
+      "publishedAt": "2026-11-25T18:58:36Z",
+      "description": "O operador ferroviário aconselhou os clientes a adiarem as viagens e advertiu que poderá haver mais perturbações noutras linhas.",
+      "image": "https://images.euronews.com/articles/stories/10/00/78/87/1200x675_cmsv2_8a5bc11d-8487-52d7-b882-d06d6da3a529-10007887.jpg"
+    },
+    {
+      "title": "Espanha recebe Kilmar Abrego após longa batalha judicial nos EUA",
+      "url": "https://pt.euronews.com/2026/11/25/espanha-recebe-kilmar-abrego-apos-longa-batalha-judicial-nos-eua",
+      "source": "Euronews",
+      "publishedAt": "2026-11-25T18:49:22Z",
+      "description": "O salvadorenho, deportado “por erro” para uma prisão de El Salvador em 2025, põe fim a 20 meses de litígios nos Estados Unidos e escolhe Madrid como primeira paragem de uma saída que os seus advogados dizem ser temporária.",
+      "image": "https://images.euronews.com/articles/stories/10/00/79/42/1200x675_cmsv2_f3ae3562-6d86-5c0a-9935-6a06ae832b26-10007942.jpg"
+    },
+    {
+      "title": "Oposição em Israel avança com investigação aos ataques de 7 de outubro",
+      "url": "https://www.rtp.pt/noticias/mundo/oposicao-em-israel-avanca-com-investigacao-aos-ataques-de-7-de-outubro_n1781616",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-25T18:36:14Z",
+      "description": "Contra a vontade de Benjamin Netanyahu, o parlamento israelita iniciou, esta quarta-feira, o processo de criação de uma comissão estatal para investigar as falhas de segurança nos dias que antecederam o 7 de outubro 2023, data do ataque do Hamas no festival Supernova.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b5dc5147bd8a45fdce5597c9ad8da8b9?w=350&q=50&rect=0,612,5164,2831&auto=format"
+    },
+    {
+      "title": "Grécia: cerca de 14 mil manifestam-se em Atenas e Salónica contra custo de vida",
+      "url": "https://pt.euronews.com/video/2026/11/25/grecia-cerca-de-14-mil-manifestam-se-em-atenas-e-salonica-contra-custo-de-vida",
+      "source": "Euronews",
+      "publishedAt": "2026-11-25T18:21:59Z",
+      "description": "Milhares manifestaram-se por toda a Grécia esta quarta-feira, 25 de novembro de 2026, numa greve geral de 24 horas contra o custo de vida e salários estagnados, que paralisou metro, voos e ferries.",
+      "image": "https://images.euronews.com/articles/stories/10/00/85/40/1200x675_cmsv2_684cf30c-5543-568a-9625-be9c95679663-10008540.jpg"
+    },
+    {
+      "title": "União Europeia enfrenta choque entre orçamento e apoio à Ucrânia em cimeira tensa",
+      "url": "https://pt.euronews.com/2026/11/25/uniao-europeia-enfrenta-choque-entre-orcamento-e-apoio-a-ucrania-em-cimeira-tensa",
+      "source": "Euronews",
+      "publishedAt": "2026-11-25T17:44:05Z",
+      "description": "Líderes da UE terão muito trabalho pela frente ao discutir o próximo orçamento e o futuro apoio à Ucrânia. Ambos os dossiês podem combinar-se de forma potencialmente imprevisível.",
+      "image": "https://images.euronews.com/articles/stories/10/00/61/91/1200x675_cmsv2_2b27bc73-8805-55c6-b303-17d9d1c4cc5e-10006191.jpg"
     }
   ]
 }
