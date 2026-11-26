@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T23:37:52.686950Z",
+  "updatedAt": "2026-11-26T08:21:38.091142Z",
   "health": [
     {
-      "title": "Cerca de três mil pacientes continuam a ocupar camas hospitalares mesmo com alta declarada",
-      "url": "https://www.rtp.pt/noticias/pais/cerca-de-tres-mil-pacientes-continuam-a-ocupar-camas-hospitalares-mesmo-com-alta-declarada_n1781608",
+      "title": "Cerca de três mil pessoas continuam a ocupar camas hospitalares após alta",
+      "url": "https://www.rtp.pt/noticias/pais/cerca-de-tres-mil-pessoas-continuam-a-ocupar-camas-hospitalares-apos-alta_n1781608",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-25T16:58:04Z",
       "description": "Há cerca de três mil pessoas nos hospitais públicos nacionais que continuam internadas apesar de já terem recebido alta clínica. Camas ocupadas, mas também questões familiares preocupantes que optam por deixar alguns dos parentes nos serviços hospitalares.",
@@ -16,6 +16,38 @@
       "publishedAt": "2026-11-25T14:30:47Z",
       "description": "Um estudo da OCDE mostra que o Estado português nunca gastou tanto em saúde, mas ainda não é suficiente.",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b5c409ff4aac29f53a2c7e7073d8460?w=350&q=50&rect=0,0,1560,855&auto=format"
+    },
+    {
+      "title": "«Estamos muito atrasados»: médicos usam IA por conta própria, instituições ficam para trás",
+      "url": "https://healthnews.pt/2026/11/25/estamos-muito-atrasados-medicos-usam-ia-por-conta-propria-instituicoes-ficam-para-tras/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-25T13:52:03Z",
+      "description": "Mais de metade dos profissionais de saúde em Portugal (57%) já usa inteligência artificial no trabalho, quase sempre por iniciativa própria e com ferramentas genéricas. As instituições ainda não têm regras para a enquadrar. A conclusão é do AI Healthcare Index 2026, apresentado ontem na Universidade de Lisboa, e abriu um debate em que médicos e académicos alertaram para uma…",
+      "image": ""
+    },
+    {
+      "title": "Violência contra as mulheres: Seguro apela à prevenção e ao compromisso das instituições",
+      "url": "https://healthnews.pt/2026/11/25/violencia-contra-as-mulheres-seguro-apela-a-prevencao-e-ao-compromisso-das-instituicoes/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-25T11:05:11Z",
+      "description": "O Presidente da República assinala hoje o Dia Internacional para a Eliminação da Violência Contra as Mulheres com um apelo à educação e à prevenção, defendendo que as instituições devem garantir respostas atempadas e proteção efetiva às vítimas.",
+      "image": ""
+    },
+    {
+      "title": "Sensores no antebraço permitem controlar interfaces após lesão medular grave",
+      "url": "https://healthnews.pt/2026/11/25/sensores-no-antebraco-permitem-controlar-interfaces-apos-lesao-medular-grave/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-25T10:44:26Z",
+      "description": "Uma tecnologia não invasiva permitiu a três pessoas com lesões medulares graves e sem função útil nas mãos controlar um cursor, jogar videojogos e, num dos casos, conduzir uma cadeira de rodas virtual. O sistema deteta e descodifica a atividade de unidades motoras em músculos paralisados, através de sensores colocados sobre a pele do antebraço.",
+      "image": ""
+    },
+    {
+      "title": "Sindicato denuncia falhas no pagamento de horas suplementares na ULS Lisboa Ocidental",
+      "url": "https://healthnews.pt/2026/11/25/sindicato-denuncia-falhas-no-pagamento-de-horas-suplementares-na-uls-lisboa-ocidental/",
+      "source": "HealthNews",
+      "publishedAt": "2026-11-25T09:20:18Z",
+      "description": "O Sindicato dos Médicos da Zona Sul (SMZS) denunciou esta quarta-feira, 25 de novembro, irregularidades no pagamento do trabalho suplementar prestado por médicos da Unidade Local de Saúde de Lisboa Ocidental (ULSLO). Segundo o sindicato, os montantes reclamados por alguns profissionais podem chegar aos 15 mil euros.",
+      "image": ""
     },
     {
       "title": "Federação considera inaceitável ausência de medidas para a dádiva de sangue no OE2027",
@@ -50,38 +82,6 @@
       "image": ""
     },
     {
-      "title": "Farmacêuticos lusófonos voltam a Maputo para debater futuro da profissão",
-      "url": "https://healthnews.pt/2026/11/25/farmaceuticos-lusofonos-voltam-a-maputo-para-debater-futuro-da-profissao/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-25T07:18:15Z",
-      "description": "Cerca de 300 farmacêuticos de sete países reúnem-se em Maputo, de 25 a 27 de novembro, no XV Congresso Mundial dos Farmacêuticos de Língua Portuguesa, sob o lema «Juntos na Transformação da Saúde». O encontro marca o regresso a Maputo onze anos depois e é o primeiro presencial desde 2018",
-      "image": ""
-    },
-    {
-      "title": "Universidade de Lisboa abre primeira Cidade Digital de Medicina Dentária da Europa",
-      "url": "https://healthnews.pt/2026/11/25/universidade-de-lisboa-abre-primeira-cidade-digital-de-medicina-dentaria-da-europa/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-25T07:17:27Z",
-      "description": "A Faculdade de Medicina Dentária da Universidade de Lisboa inaugura a 25 de novembro, às 10h30, na Cidade Universitária, a primeira Cidade Digital de Medicina Dentária da Europa. Com 365 m², o espaço reúne formação, investigação e indústria, integra as comemorações dos 50 anos da instituição e é financiado pelo PRR no âmbito do programa Impulso Adultos",
-      "image": ""
-    },
-    {
-      "title": "Hospital de Aveiro assegurado com cinco milhões para urgência até 2028",
-      "url": "https://healthnews.pt/2026/11/25/hospital-de-aveiro-assegurado-com-cinco-milhoes-para-urgencia-ate-2028/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-25T07:16:26Z",
-      "description": "O Hospital de Aveiro vai receber cerca de cinco milhões de euros do Ministério da Saúde para ampliar a área assistencial do serviço de urgência, após aprovação da candidatura da Unidade Local de Saúde da Região de Aveiro ao programa de requalificação dos espaços de urgência do SNS, que ficou em quarto lugar entre 43 propostas",
-      "image": ""
-    },
-    {
-      "title": "Rastreio do cancro da mama no Centro: 532 mil mamografias iniciais em 40 anos e mortalidade a descer 30%",
-      "url": "https://healthnews.pt/2026/11/25/rastreio-do-cancro-da-mama-no-centro-532-mil-mamografias-iniciais-em-40-anos-e-mortalidade-a-descer-30/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-25T07:15:25Z",
-      "description": "O Núcleo Regional do Centro da Liga Portuguesa Contra o Cancro apresentou esta terça-feira, em Coimbra, o balanço de quatro décadas de rastreio ao cancro da mama. Foram realizadas 532.498 mamografias iniciais e mais de 2,1 milhões de repetição, com a mortalidade a recuar cerca de 30% na última década. A taxa de sobrevivência aos dez anos situa-se nos 90%",
-      "image": ""
-    },
-    {
       "title": "INEM instado a assegurar a informação relativamente a constragimentos das urgências",
       "url": "https://www.rtp.pt/noticias/pais/inem-instado-a-assegurar-a-informacao-relativamente-a-constragimentos-das-urgencias_v1781433",
       "source": "RTP Notícias",
@@ -100,100 +100,100 @@
   ],
   "world": [
     {
-      "title": "Primeiras imagens do asteroide Dimorphos divulgadas esta quarta-feira",
-      "url": "https://www.rtp.pt/noticias/mundo/primeiras-imagens-do-asteroide-dimorphos-divulgadas-esta-quarta-feira_n1781638",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T21:58:26Z",
-      "description": "As primeiras imagens feitas pela sonda Hera do asteroide Dimorphos, depois de ter sido desviado da trajetória durante um teste de defesa planetária, foram hoje divulgadas pela Agência Espacial Europeia (ESA).",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4cbf574c5fd2a8ad04f747dbff5296e2.webp?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Eleições em Espanha. Central nuclear de Almaraz tem peso no voto",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-central-nuclear-de-almaraz-tem-peso-no-voto_v1781656",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T21:19:47Z",
-      "description": "A Central Nuclear de Almaraz tem sido um fator decisivo no momento dos eleitores espanhóis votarem nas eleições.",
-      "image": "https://cdn-images.rtp.pt/icm/images/41/41eb2dc0d0534d65bd32da4fabe3a40d_N.jpg?"
-    },
-    {
-      "title": "Pelo menos 30 mortos num incêndio em autoestrada no distrito do Cairo",
-      "url": "https://pt.euronews.com/2026/11/25/pelo-menos-30-mortos-num-incendio-em-autoestrada-no-distrito-do-cairo",
+      "title": "Feministas espanholas marcharam a 25 de novembro com eleições gerais à vista",
+      "url": "https://pt.euronews.com/2026/11/26/feministas-espanholas-marcham-a-25-de-novembro-com-eleicoes-gerais-a-vista",
       "source": "Euronews",
-      "publishedAt": "2026-11-25T20:33:01Z",
-      "description": "Um camião cisterna capotou numa autoestrada movimentada, incendiou vários veículos e desencadeou uma grande operação de emergência. As autoridades avisam que o número de mortos pode aumentar.",
-      "image": "https://images.euronews.com/articles/stories/10/00/87/06/1200x675_cmsv2_90523e67-7923-5431-b927-e7191ca49bda-10008706.jpg"
+      "publishedAt": "2026-11-26T08:14:41Z",
+      "description": "As manifestações pelo Dia Internacional para a Eliminação da Violência contra as Mulheres ocorrem dias antes de eleições em que a extrema-direita pode chegar a 20% do voto, dez anos após o caso “La Manada”, que marcou o movimento feminista em Espanha.",
+      "image": "https://images.euronews.com/articles/stories/10/00/84/55/1200x675_cmsv2_44c3260c-5192-5b2b-a725-76044aae4d3e-10008455.jpg"
     },
     {
-      "title": "Pelo menos 30 mortos em incêndio de camião carregado com gás a norte do Cairo",
-      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-30-mortos-em-incendio-de-camiao-carregado-com-gas-a-norte-do-cairo_n1781637",
+      "title": "Pelo menos oito palestinianos morreram em ataque contra a Faixa de Gaza",
+      "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-oito-palestinianos-morreram-em-ataque-contra-a-faixa-de-gaza_n1781720",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T20:21:08Z",
-      "description": "Pelo menos 30 pessoas morreram hoje e 15 ficaram feridas num incêndio provocado pela explosão de um camião com botijas de gás, após um acidente na autoestrada circular de Warraq, a norte do Cairo, segundo o Ministério da Saúde.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b5ccf90dedc48249c1e40de11316235.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-26T08:03:24Z",
+      "description": "Pelo menos oito palestinianos morreram na última madrugada em vários bombardeamentos israelitas contra a Faixa de Gaza, incluindo um funcionário do Ministério da Educação do enclave, disseram fontes médicas.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d90f42a73b8d10144c5a5dc6b9c7f4ba?w=350&q=50&rect=0,29,1170,641&auto=format"
     },
     {
-      "title": "Socialistas e liberais suspendem negociações de coligação com o PPE após novo apoio à extrema-direita",
-      "url": "https://pt.euronews.com/2026/11/25/socialistas-e-liberais-suspendem-negociacoes-de-coligacao-com-o-ppe-apos-novo-apoio-a-extr",
+      "title": "Família de jornalista japonês detido na Rússia diz estar \"mergulhada na dor\"",
+      "url": "https://www.rtp.pt/noticias/mundo/familia-de-jornalista-japones-detido-na-russia-diz-estar-mergulhada-na-dor_n1781719",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T07:55:46Z",
+      "description": "A esposa de um jornalista japonês detido na Rússia desde outubro sob acusações de espionagem declarou que a sua família está \"mergulhada na dor\", como os pais a temerem nunca mais voltar a ver o filho.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/82/82e904b912c9665ae96138a16a350edd?w=350&q=50&rect=252,0,936,513&auto=format"
+    },
+    {
+      "title": "Myanmar rejeita \"exigências inapropriadas\" do Tribunal Internacional de Justiça",
+      "url": "https://www.rtp.pt/noticias/mundo/myanmar-rejeita-exigencias-inapropriadas-do-tribunal-internacional-de-justica_n1781715",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T07:50:31Z",
+      "description": "A imprensa oficial de Myanmar informou hoje que o país asiático não vai cumprir as \"exigências inapropriadas\" da decisão do Tribunal Internacional de Justiça (TIJ), que determinou que o Estado birmanês cometeu genocídio contra a minoria rohingya.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/35/350b361d36f8000193c9f131cfbfb5be?w=350&q=50&rect=0,0,1200,658&auto=format"
+    },
+    {
+      "title": "Irlanda do Norte: fungo transforma aranhas em “zombies”",
+      "url": "https://pt.euronews.com/2026/11/26/irlanda-do-norte-fungo-transforma-aranhas-em-zombies",
       "source": "Euronews",
-      "publishedAt": "2026-11-25T20:06:47Z",
-      "description": "Os três grupos centristas negociavam uma coligação para a segunda metade da legislatura do Parlamento Europeu, incluindo a reeleição de Roberta Metsola como presidente.",
-      "image": "https://images.euronews.com/articles/stories/10/00/84/06/1200x675_cmsv2_c458e551-08d0-5eb3-b02b-a40c34cb981d-10008406.jpg"
+      "publishedAt": "2026-11-26T07:47:31Z",
+      "description": "Na Irlanda, documentaristas fazem uma descoberta surpreendente: uma aranha morta com o corpo coberto de esporos brancos. Mais tarde percebem que a nova espécie de fungo transforma as vítimas em “zombies”.",
+      "image": "https://images.euronews.com/articles/stories/10/00/61/41/1200x675_cmsv2_0a8db1f3-3bb3-5874-a953-3867e6328e9e-10006141.jpg"
     },
     {
-      "title": "Guiné-Bissau. Candidato que reivindicou vitória insta militares a publicarem resultados eleitorais",
-      "url": "https://www.rtp.pt/noticias/mundo/guine-bissau-candidato-que-reivindicou-vitoria-insta-militares-a-publicarem-resultados-eleitorais_n1781635",
+      "title": "China e Rússia retomam ligação ferroviária de passageiros através da Mongólia",
+      "url": "https://www.rtp.pt/noticias/mundo/china-e-russia-retomam-ligacao-ferroviaria-de-passageiros-atraves-da-mongolia_n1781713",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T19:39:08Z",
-      "description": "O candidato que reclamou vitória nas eleições que antecederam o golpe militar na Guiné-Bissau, Fernando Dias da Costa, saudou a flexibilização das restrições aos partidos, mas instou os militares a criarem condições para a proclamação oficial dos resultados eleitorais.",
+      "publishedAt": "2026-11-26T07:46:26Z",
+      "description": "A China e a Rússia retomaram esta semana, após seis anos de suspensão, o transporte ferroviário internacional de passageiros através da Mongólia, com uma ligação entre Pequim e a cidade russa de Irkutsk, num percurso de 2.666 quilómetros.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Globo sentiu maior aumento da temperatura acima de 2ºC por seis dias consecutivos",
-      "url": "https://www.rtp.pt/noticias/mundo/globo-sentiu-maior-aumento-da-temperatura-acima-de-2oc-por-seis-dias-consecutivos_n1781630",
+      "title": "Indonésia: equipas de resgate procuram 13 mineiros presos em mina ilegal inundada",
+      "url": "https://pt.euronews.com/2026/11/26/indonesia-equipas-de-resgate-procuram-13-mineiros-presos-em-mina-ilegal-inundada",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T07:42:54Z",
+      "description": "Intensifica-se a busca por mineiros encurralados após cheias matarem 13 numa mina ilegal de ouro na Indonésia.",
+      "image": "https://images.euronews.com/articles/stories/10/00/88/35/1200x675_cmsv2_6dec4e16-72c0-593d-9202-33ec17a07597-10008835.jpg"
+    },
+    {
+      "title": "ONG pede a países árabes que criminalizem a violação conjugal",
+      "url": "https://www.rtp.pt/noticias/mundo/ong-pede-a-paises-arabes-que-criminalizem-a-violacao-conjugal_n1781712",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T19:21:08Z",
-      "description": "As principais causas foram o uso contínuo de combustíveis fósseis e um fenómeno El Niño mais forte, perto de chegar ao auge entre novembro e janeiro.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d3ee1d8b20c48a2d468a662b5a48b0c?w=350&q=50&rect=0,0,1499,822&auto=format"
+      "publishedAt": "2026-11-26T07:37:32Z",
+      "description": "A organização internacional de direitos humanos Equality Now apelou hoje aos membros da Liga Árabe para reformarem as suas leis sobre violação, de modo a deixarem de isentar agressores de responsabilidade e criminalizarem a violência sexual no casamento.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e5cf006569ff00df53acab01076016e?w=350&q=50&rect=0,52,1024,561&auto=format"
     },
     {
-      "title": "Greve surpresa na Eurostar cancela vários comboios Paris-Londres",
-      "url": "https://pt.euronews.com/2026/11/25/greve-surpresa-na-eurostar-cancela-varios-comboios-paris-londres",
-      "source": "Euronews",
-      "publishedAt": "2026-11-25T18:58:36Z",
-      "description": "O operador ferroviário aconselhou os clientes a adiarem as viagens e advertiu que poderá haver mais perturbações noutras linhas.",
-      "image": "https://images.euronews.com/articles/stories/10/00/78/87/1200x675_cmsv2_8a5bc11d-8487-52d7-b882-d06d6da3a529-10007887.jpg"
-    },
-    {
-      "title": "Espanha recebe Kilmar Abrego após longa batalha judicial nos EUA",
-      "url": "https://pt.euronews.com/2026/11/25/espanha-recebe-kilmar-abrego-apos-longa-batalha-judicial-nos-eua",
-      "source": "Euronews",
-      "publishedAt": "2026-11-25T18:49:22Z",
-      "description": "O salvadorenho, deportado “por erro” para uma prisão de El Salvador em 2025, põe fim a 20 meses de litígios nos Estados Unidos e escolhe Madrid como primeira paragem de uma saída que os seus advogados dizem ser temporária.",
-      "image": "https://images.euronews.com/articles/stories/10/00/79/42/1200x675_cmsv2_f3ae3562-6d86-5c0a-9935-6a06ae832b26-10007942.jpg"
-    },
-    {
-      "title": "Oposição em Israel avança com investigação aos ataques de 7 de outubro",
-      "url": "https://www.rtp.pt/noticias/mundo/oposicao-em-israel-avanca-com-investigacao-aos-ataques-de-7-de-outubro_n1781616",
+      "title": "Cabo Verde segundo melhor país africano na proteção das crianças, Guiné-Bissau pior lusófono",
+      "url": "https://www.rtp.pt/noticias/mundo/cabo-verde-segundo-melhor-pais-africano-na-protecao-das-criancas-guine-bissau-pior-lusofono_n1781711",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T18:36:14Z",
-      "description": "Contra a vontade de Benjamin Netanyahu, o parlamento israelita iniciou, esta quarta-feira, o processo de criação de uma comissão estatal para investigar as falhas de segurança nos dias que antecederam o 7 de outubro 2023, data do ataque do Hamas no festival Supernova.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b5dc5147bd8a45fdce5597c9ad8da8b9?w=350&q=50&rect=0,612,5164,2831&auto=format"
+      "publishedAt": "2026-11-26T07:33:57Z",
+      "description": "Cabo Verde ocupa o segundo lugar entre 52 países africanos avaliados pelo seu desempenho na proteção das crianças, enquanto a Guiné-Bissau é o pior dos lusófonos, segundo um relatório hoje divulgado pelo African Child Policy Forum (ACPF).",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Grécia: cerca de 14 mil manifestam-se em Atenas e Salónica contra custo de vida",
-      "url": "https://pt.euronews.com/video/2026/11/25/grecia-cerca-de-14-mil-manifestam-se-em-atenas-e-salonica-contra-custo-de-vida",
+      "title": "França: David Lisnard é reeleito à frente da Associação dos Autarcas",
+      "url": "https://pt.euronews.com/2026/11/26/franca-david-lisnard-e-reeleito-a-frente-da-associacao-dos-autarcas",
       "source": "Euronews",
-      "publishedAt": "2026-11-25T18:21:59Z",
-      "description": "Milhares manifestaram-se por toda a Grécia esta quarta-feira, 25 de novembro de 2026, numa greve geral de 24 horas contra o custo de vida e salários estagnados, que paralisou metro, voos e ferries.",
-      "image": "https://images.euronews.com/articles/stories/10/00/85/40/1200x675_cmsv2_684cf30c-5543-568a-9625-be9c95679663-10008540.jpg"
+      "publishedAt": "2026-11-26T07:25:52Z",
+      "description": "Num congresso de autarcas muito político, às vésperas das presidenciais, David Lisnard foi reeleito à frente da AMF. Vários candidatos ao Eliseu deslocaram-se para aproveitar o encontro e tentar obter os patrocínios necessários.",
+      "image": "https://images.euronews.com/articles/stories/10/00/79/72/1200x675_cmsv2_3d7515f8-88c1-5ea5-b143-ff4be2a0d313-10007972.jpg"
     },
     {
-      "title": "União Europeia enfrenta choque entre orçamento e apoio à Ucrânia em cimeira tensa",
-      "url": "https://pt.euronews.com/2026/11/25/uniao-europeia-enfrenta-choque-entre-orcamento-e-apoio-a-ucrania-em-cimeira-tensa",
+      "title": "União Europeia: líderes reúnem-se em Bruxelas numa disputa orçamental de €2 biliões",
+      "url": "https://pt.euronews.com/2026/11/26/uniao-europeia-lideres-reunem-se-em-bruxelas-numa-disputa-orcamental-de-2-bilioes",
       "source": "Euronews",
-      "publishedAt": "2026-11-25T17:44:05Z",
-      "description": "Líderes da UE terão muito trabalho pela frente ao discutir o próximo orçamento e o futuro apoio à Ucrânia. Ambos os dossiês podem combinar-se de forma potencialmente imprevisível.",
-      "image": "https://images.euronews.com/articles/stories/10/00/61/91/1200x675_cmsv2_2b27bc73-8805-55c6-b303-17d9d1c4cc5e-10006191.jpg"
+      "publishedAt": "2026-11-26T07:25:27Z",
+      "description": "Bom dia. Leo Cendrowicz aqui com a newsletter de quinta-feira. Líderes da UE reúnem-se em Bruxelas para lutar pelo orçamento de sete anos, disputa que dificilmente ficará resolvida no fim da cimeira.",
+      "image": "https://images.euronews.com/articles/stories/10/00/88/74/1200x675_cmsv2_8bb6b96a-b732-5b02-a4d7-3b94c43181e4-10008874.jpg"
+    },
+    {
+      "title": "Navio petroleiro com 7.000 toneladas de gasóleo naufraga ao largo de Ibiza, um dos tripulantes morreu",
+      "url": "https://pt.euronews.com/2026/11/26/navio-petroleiro-com-7000-toneladas-de-gasoleo-naufraga-ao-largo-de-ibiza-um-dos-tripulant",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T07:19:12Z",
+      "description": "Os outros 16 tripulantes sobreviveram ao naufrágio. As autoridades ativaram os planos de emergência e mantêm a vigilância perante o risco de poluição marítima.",
+      "image": "https://images.euronews.com/articles/stories/10/00/89/32/1200x675_cmsv2_a2d85d5a-2c78-537a-864d-c21ce9b34a6c-10008932.jpg"
     }
   ]
 }
