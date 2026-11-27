@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-26T19:01:33.666091Z",
+  "updatedAt": "2026-11-27T02:11:48.205782Z",
   "health": [
+    {
+      "title": "OE2027. Debate de urgência requerido pelo Chega marcado para 3 de dezembro",
+      "url": "https://www.rtp.pt/noticias/politica/oe2027-debate-de-urgencia-requerido-pelo-chega-marcado-para-3-de-dezembro_e1781811",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T22:11:48Z",
+      "description": "Depois de o primeiro-ministro ter batido com a porta, em entrevista à RTP, à implementação de medidas como o IVA Zero e a alteração do IRS sobre as rendas, no quadro do Orçamento do Estado, sucederam-se as reações das forças da oposição. O Chega pediu um debate de urgência, que ficou agendado para a próxima quinta-feira. Atualizámos aqui, ao minuto, as informações sobre a…",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7a628e2ff747f67f15cb6da4e6d7bc8b.jpeg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Médicos usaram óculos com IA na prova de acesso à especialidade",
+      "url": "https://www.rtp.pt/noticias/pais/medicos-usaram-oculos-com-ia-na-prova-de-acesso-a-especialidade_v1781928",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T21:44:47Z",
+      "description": "Dois médicos foram apanhados a usar óculos com Inteligência Artificial na Prova Nacional de Acesso à formação especializada.",
+      "image": "https://cdn-images.rtp.pt/icm/images/ee/eedafda4b5825b2232464a76e523f6d6_N.jpg?"
+    },
+    {
+      "title": "Notícia RTP. INEM vai pagar mais 6 mil euros por ambulância",
+      "url": "https://www.rtp.pt/noticias/mundo/noticia-rtp-inem-vai-pagar-mais-6-mil-euros-por-ambulancia_v1781907",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T21:15:47Z",
+      "description": "O INEM vai aumentar em mais de 50 por cento o pagamento pelas ambulâncias dos bombeiros e da Cruz Vermelha de emergência pré-hospitalar.",
+      "image": "https://cdn-images.rtp.pt/icm/images/08/0832403a2e7c08991c6c8753850ebffa_N.jpg?"
+    },
+    {
+      "title": "Hospital de Santarém. Idoso esperou 13 dias por cirurgia num corredor",
+      "url": "https://www.rtp.pt/noticias/pais/hospital-de-santarem-idoso-esperou-13-dias-por-cirurgia-num-corredor_v1781905",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T21:13:47Z",
+      "description": "Um idoso de 84 anos esperou 13 dias por uma cirurgia no corredor do hospital de Santarém.",
+      "image": "https://cdn-images.rtp.pt/icm/images/60/607282d162531185489d1c9cdb003fcf_N.jpg?"
+    },
     {
       "title": "Ordem dos Médicos quer esclarecimentos sobre casos detetados na prova de acesso",
       "url": "https://www.rtp.pt/noticias/pais/ordem-dos-medicos-quer-esclarecimentos-sobre-casos-detetados-na-prova-de-acesso_n1781826",
@@ -8,70 +40,6 @@
       "publishedAt": "2026-11-26T17:14:13Z",
       "description": "A Ordem dos Médicos (OM) pediu esclarecimentos formais sobre dois candidatos apanhados com dispositivos eletrónicos durante a realização da Prova Nacional de Acesso, defendendo que devem ser \"cabalmente investigados\".",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "“Onde está a evidência?”: Especialistas denunciam deriva proibicionista da UE na regulação dos produtos de nicotina",
-      "url": "https://healthnews.pt/2026/11/26/onde-esta-a-evidencia-especialistas-denunciam-deriva-proibicionista-da-ue-na-regulacao-dos-produtos-de-nicotina/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T13:33:28Z",
-      "description": "Um Webinar promovido pela International scientific Association of independent experts on Smoking Control & Harm Reduction (SCHORE) reuniu antigos responsáveis políticos, académicos e juristas para analisar a próxima diretiva europeia do tabaco. O diagnóstico é sombrio: a Comissão Europeia parece decidida a ignorar a ciência, os dados dos consumidores e as lições desastrosas de…",
-      "image": "https://healthnews.pt/wp-content/uploads/2026/11/Clive-Bates_Boa.jpg"
-    },
-    {
-      "title": "Quatro em cada dez estudantes de Medicina pensaram desistir por stresse",
-      "url": "https://healthnews.pt/2026/11/26/quatro-em-cada-dez-estudantes-de-medicina-pensaram-desistir-por-stresse/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T12:09:05Z",
-      "description": "Quatro em cada dez estudantes de Medicina (41%) já pensaram desistir do curso devido ao stresse, segundo um estudo divulgado esta quinta-feira pela Associação Nacional de Estudantes de Medicina (ANEM).",
-      "image": ""
-    },
-    {
-      "title": "Farmacêuticos alertam para falta de profissionais e docentes nos países lusófonos",
-      "url": "https://healthnews.pt/2026/11/26/farmaceuticos-alertam-para-falta-de-profissionais-e-docentes-nos-paises-lusofonos/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T11:53:08Z",
-      "description": "O presidente da Federação Internacional Farmacêutica (FIP), Paul Sinclair, alertou hoje, em Maputo, para a falta de farmacêuticos e de docentes na área nos países de língua portuguesa. O responsável defendeu o reforço da formação académica para responder às necessidades dos sistemas de saúde.",
-      "image": ""
-    },
-    {
-      "title": "Mais de 100 profissionais da ULS de Aveiro apelam à intervenção de Seguro",
-      "url": "https://healthnews.pt/2026/11/26/mais-de-100-profissionais-da-uls-de-aveiro-apelam-a-intervencao-de-seguro/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T07:53:49Z",
-      "description": "Mais de 100 profissionais de várias categorias da Unidade Local de Saúde da Região de Aveiro (ULSRA) pediram uma audiência urgente ao Presidente da República para expor os problemas de funcionamento do Hospital de Aveiro e reclamar medidas para a instituição.",
-      "image": ""
-    },
-    {
-      "title": "Camas ocupadas por doentes com alta ameaçam urgências e cirurgias programadas",
-      "url": "https://healthnews.pt/2026/11/26/camas-ocupadas-por-doentes-com-alta-ameacam-urgencias-e-cirurgias-programadas/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T07:50:06Z",
-      "description": "Cerca de 3.000 camas dos hospitais públicos estão ocupadas por pessoas que já tiveram alta clínica. À entrada do inverno, este cenário representa o principal constrangimento ao funcionamento do Serviço Nacional de Saúde (SNS), segundo o presidente da Associação Portuguesa de Administradores Hospitalares (APAH), Xavier Barreto.",
-      "image": ""
-    },
-    {
-      "title": "Sindicato alerta para falta de médicos de família no interior",
-      "url": "https://healthnews.pt/2026/11/26/sindicato-alerta-para-falta-de-medicos-de-familia-no-interior/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T07:29:24Z",
-      "description": "O Sindicato dos Médicos do Norte (SMN) alertou hoje para o risco de a região de Trás-os-Montes e Alto Douro perder médicos de família sem conseguir substituí-los. No concurso do internato médico de novembro, ficaram por preencher 14 das 32 vagas de Medicina Geral e Familiar abertas na Unidade Local de Saúde de Trás-os-Montes e Alto Douro (ULSTMAD), segundo o sindicato.",
-      "image": ""
-    },
-    {
-      "title": "APAV apoiou 13.511 mulheres vítimas de crime e violência até outubro",
-      "url": "https://healthnews.pt/2026/11/26/apav-apoiou-13-511-mulheres-vitimas-de-crime-e-violencia-ate-outubro/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T07:17:11Z",
-      "description": "A Associação Portuguesa de Apoio à Vítima (APAV) apoiou 13.511 mulheres vítimas de crime e violência entre janeiro e outubro de 2026. A violência doméstica foi a forma de violência mais frequentemente identificada nos três grupos etários analisados, segundo dados divulgados pela instituição no Dia Internacional para a Eliminação da Violência Contra as Mulheres, assinalado a 25…",
-      "image": ""
-    },
-    {
-      "title": "Portugal paga quase o dobro da média europeia em saúde: 29% das despesas saem do bolso das famílias",
-      "url": "https://healthnews.pt/2026/11/26/portugal-paga-quase-o-dobro-da-media-europeia-em-saude-29-das-despesas-saem-do-bolso-das-familias/",
-      "source": "HealthNews",
-      "publishedAt": "2026-11-26T07:08:26Z",
-      "description": "Em 2024, as famílias portuguesas suportaram 29% da despesa total em saúde, contra 16% na União Europeia, enquanto a cobertura pública caiu para 62% (80% na UE). As necessidades não satisfeitas de cuidados médicos atingiram 4% dos adultos e 16% nos cuidados dentários, com os grupos mais pobres a serem os mais afetados",
-      "image": ""
     },
     {
       "title": "Cerca de três mil pessoas continuam a ocupar camas hospitalares após alta",
@@ -96,9 +64,113 @@
       "publishedAt": "2026-11-24T23:09:48Z",
       "description": "O INEM levou uma grávida em situação aguda para uma urgência encerrada. A Entidade Reguladora da Saúde recomenda ao INEM que assegure toda a informação relativamente aos constragimentos dos serviços de urgência.",
       "image": "https://cdn-images.rtp.pt/icm/images/06/061bc69293922208aeaa3616234cc013_N.jpg?"
+    },
+    {
+      "title": "Combate à fraude no SNS. Comissão fala em \"constrangimentos operacionais relevantes\"",
+      "url": "https://www.rtp.pt/noticias/pais/combate-a-fraude-no-sns-comissao-fala-em-constrangimentos-operacionais-relevantes_v1781295",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T13:34:47Z",
+      "description": "Um ano depois de ter sido criada, a Comissão de Combate à Fraude no SNS denuncia constrangimentos de funcionamento \"relevantes\".",
+      "image": "https://cdn-images.rtp.pt/icm/images/08/080a8b7b5a1cdf5023784e9e78ad3f75_N.jpg?"
+    },
+    {
+      "title": "Comissão anti-fraude no SNS sem acesso a dados ou a plataforma de denúncia",
+      "url": "https://www.rtp.pt/noticias/pais/comissao-anti-fraude-no-sns-sem-acesso-a-dados-ou-a-plataforma-de-denuncia_n1781276",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-24T12:48:37Z",
+      "description": "A Comissão de Combate à Fraude no Serviço Nacional de Saúde está a funcionar apenas com quatro pessoas e não tem nem a plataforma de denúncias proposta em março, nem acesso a dados granulares da despesa, que considera essenciais.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/46/46dffbe21ef2b75725f7336918353813?w=350&q=50&rect=0,0,1560,855&auto=format"
     }
   ],
   "world": [
+    {
+      "title": "Eleições em Espanha. Direita ignora-se e esquerda alinha-se no último debate",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-direita-ignora-se-e-esquerda-alinha-se-no-ultimo-debate_n1781949",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T00:37:58Z",
+      "description": "A imigração, a habitação e a corrupção dominaram o debate entre os quatro principais partidos no penúltimo dia de campanha para as eleições espanholas, em que os candidatos da esquerda se alinharam e os da direita se ignoraram.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Eleições em Espanha. Debate a quatro aqueceu com o tema da habitação",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-debate-a-quatro-aqueceu-com-o-tema-da-habitacao_v1781948",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T00:29:47Z",
+      "description": "Era considersado decisivo e o debate entre os quatro candidatos às eleições em Espanha aqueceu quando o tema foi a habitação.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/45/45c9dbcde3e96164c0b9a5d4021756df.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "EUA acusam espanhol detido pelo ICE de furto e oferecem-lhe saída voluntária do país",
+      "url": "https://www.rtp.pt/noticias/mundo/eua-acusam-espanhol-detido-pelo-ice-de-furto-e-oferecem-lhe-saida-voluntaria-do-pais_n1781944",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T00:02:52Z",
+      "description": "O Departamento de Segurança Interna (DHS) dos Estados Unidos disse hoje que o espanhol Santi Almarcha, estudante universitário de 22 anos detido pelo Serviço de Imigração e Alfândega (ICE), tem \"histórico criminal\" e foi-lhe concedida a \"saída voluntária\".",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Alemanha: mercados de Natal abrem com segurança reforçada",
+      "url": "https://pt.euronews.com/video/2026/11/26/alemanha-mercados-de-natal-abrem-com-seguranca-reforcada",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T22:06:13Z",
+      "description": "Mercados de Natal em toda a Alemanha recebem visitantes com luzes brilhantes, iguarias tradicionais e atrações festivas, mantendo forte segurança após ataques mortais recentes",
+      "image": "https://images.euronews.com/articles/stories/10/01/02/78/1200x675_cmsv2_8e031cfe-481f-5a25-9ca1-bef200aa15c0-10010278.jpg"
+    },
+    {
+      "title": "Asteroide Dimorphos após o impacto. ESA revela primeiras imagens da cratera",
+      "url": "https://www.rtp.pt/noticias/mundo/asteroide-dimorphos-apos-o-impacto-esa-revela-primeiras-imagens-da-cratera_v1781927",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T21:39:48Z",
+      "description": "A agência espacial europeia revelou as primeiras imagens do asteroide Dimorphos depois de ter sido atingido por uma nave da NASA.",
+      "image": "https://cdn-images.rtp.pt/icm/images/77/7708c19d25a8af55d601e0320ba0bb54_N.jpg?"
+    },
+    {
+      "title": "Eleições em Espanha. Fantasma da fraude eleitoral no final da campanha",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-fantasma-da-fraude-eleitoral-no-final-da-campanha_v1781922",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T21:35:47Z",
+      "description": "A três dias das eleições gerais em Espanha, o fantasma da fraude eleitoral domina o final da campanha. O Partido Popular e o VOX acusam Pedro Sánchez de ter manipulado o último ato eleitoral e alertam que vai acontecer o mesmo.",
+      "image": "https://cdn-images.rtp.pt/icm/images/87/874aa29fc59b10c9a761f8d02c6a4c6c_N.jpg?"
+    },
+    {
+      "title": "Conselho Europeu. Orçamento comunitário até 2034 em discussão",
+      "url": "https://www.rtp.pt/noticias/mundo/conselho-europeu-orcamento-comunitario-ate-2034-em-discussao_v1781920",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-26T21:32:54Z",
+      "description": "A Alemanha avisou que o próximo Orçamento Europeu é demasiado grande e a Itália recusa-se a pagar mais para receber menos.",
+      "image": "https://cdn-images.rtp.pt/icm/images/d4/d4947a10c33add8edaacd31e14de6656_N.jpg?"
+    },
+    {
+      "title": "Eleições na Guiné-Bissau adiadas para daqui a dois anos",
+      "url": "https://pt.euronews.com/2026/11/26/eleicoes-na-guine-bissau-adiadas-para-daqui-a-dois-anos",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T20:40:44Z",
+      "description": "Os eleitores guineenses deveriam ir às urnas este dezembro, mas o governo militar decidiu atrasar o escrutínio.",
+      "image": "https://images.euronews.com/articles/stories/10/01/01/37/1200x675_cmsv2_4f68c609-d11d-584e-8477-a2f5075a9520-10010137.jpg"
+    },
+    {
+      "title": "Reino Unido: Cidade de Gingerbread em Londres regressa com 50 obras comestíveis",
+      "url": "https://pt.euronews.com/video/2026/11/26/reino-unido-cidade-de-gingerbread-em-londres-regressa-com-50-obras-comestiveis",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T20:38:12Z",
+      "description": "Arquitetos londrinos criaram uma cidade em miniatura com arranha-céus de gingerbread, rios de açúcar e marcos icónicos; a mostra festiva explora também o futuro da vida urbana",
+      "image": "https://images.euronews.com/articles/stories/10/01/02/13/1200x675_cmsv2_b6743fbb-59f9-5bb6-9892-c6f402636f26-10010213.jpg"
+    },
+    {
+      "title": "Agricultores protestam com tractores em Bruxelas contra cortes nos subsídios da UE",
+      "url": "https://pt.euronews.com/video/2026/11/26/agricultores-protestam-com-tractores-em-bruxelas-contra-cortes-nos-subsidios-da-ue",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T20:12:29Z",
+      "description": "Cerca de 200 representantes de sindicatos agrícolas europeus marcharam por Bruxelas, Bélgica, em 26 de novembro de 2026, para protestar contra cortes propostos à Política Agrícola Comum da UE. A manifestação coincidiu com uma cimeira sobre o próximo orçamento de longo prazo do bloco",
+      "image": "https://images.euronews.com/articles/stories/10/01/01/95/1200x675_cmsv2_45c0bacb-b008-57d7-b534-c386e9347da0-10010195.jpg"
+    },
+    {
+      "title": "Parlamento Europeu exige libertação de ativista pró-democracia de Macau",
+      "url": "https://pt.euronews.com/2026/11/26/parlamento-europeu-exige-libertacao-de-ativista-pro-democracia-de-macau",
+      "source": "Euronews",
+      "publishedAt": "2026-11-26T19:53:49Z",
+      "description": "Au Kam San, que tem nacionalidade portuguesa, foi condenado a mais 12 anos de prisão, no início deste mês. O Governo de Macau diz que a resolução é uma ingerência e não reconhece a dupla nacionalidade.",
+      "image": "https://images.euronews.com/articles/stories/10/01/01/38/1200x675_cmsv2_ae8b7131-9f22-52c5-bd37-89e07c6bcdeb-10010138.jpg"
+    },
     {
       "title": "Orçamento polémico: Ventura desafia Governo a convocar moção de confiança",
       "url": "https://pt.euronews.com/2026/11/26/orcamento-polemico-ventura-desafia-governo-a-convocar-mocao-de-confianca",
@@ -106,94 +178,6 @@
       "publishedAt": "2026-11-26T18:49:04Z",
       "description": "Depois de Luís Montenegro ter afirmado que não pretende cumprir algumas medidas do Orçamento do Estado aprovado, o líder do Chega desafiou o executivo a convocar uma moção de confiança. Partido pediu debate de urgência que ficou marcado para quinta-feira.",
       "image": "https://images.euronews.com/articles/stories/10/01/01/13/1200x675_cmsv2_ba7a0cb9-b742-5cb8-8ea1-f368d1a98e03-10010113.jpg"
-    },
-    {
-      "title": "Eisenkot está mais próximo de formar governo após acordo de coligação com partido de esquerda",
-      "url": "https://www.rtp.pt/noticias/mundo/eisenkot-esta-mais-proximo-de-formar-governo-apos-acordo-de-coligacao-com-partido-de-esquerda_n1781874",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-26T18:04:05Z",
-      "description": "“Os Democratas” são o segundo parceiro oficial do bloco de oposição a Netanyahu. A coligação liderada pelo partido centrista já conta com 36 dos 61 lugares precisos no parlamento israelita para formar um governo de maioria.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/83/83f499e36f667e660d6f92712ef4fb85.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Ucrânia: como a União Europeia financia o novo empréstimo de apoio",
-      "url": "https://pt.euronews.com/2026/11/26/ucrania-como-a-uniao-europeia-financia-o-novo-emprestimo-de-apoio",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T17:35:39Z",
-      "description": "A Comissão Europeia apresentou na semana passada um empréstimo de 45 mil milhões de euros para ajudar a Ucrânia numa altura de ataques aéreos russos contínuos. Mas como consegue a UE financiar todo este apoio?",
-      "image": "https://images.euronews.com/articles/stories/09/99/89/69/1200x675_cmsv2_303db96f-cc2c-59b2-bb01-1c86e151f7fb-9998969.jpg"
-    },
-    {
-      "title": "Gérard Depardieu vai a julgamento por violação de Charlotte Arnould",
-      "url": "https://pt.euronews.com/2026/11/26/gerard-depardieu-vai-a-julgamento-por-violacao-de-charlotte-arnould",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T17:03:21Z",
-      "description": "Ator de 77 anos é acusado pela atriz Charlotte Arnould, que tinha 22 anos na altura, de a ter violado duas vezes em agosto de 2018. O tribunal da Relação confirmou o julgamento por um dos dois alegados crimes.",
-      "image": "https://images.euronews.com/articles/stories/10/00/99/36/1200x675_cmsv2_27421c53-94d0-5d8d-b5d5-c3dabdbdbb08-10009936.jpg"
-    },
-    {
-      "title": "Notícias do dia | 26 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/26/noticias-do-dia-26-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 26 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/10/01/01/11/1200x675_cmsv2_9a0865af-1f3c-5ca2-a024-2a75a3484255-10010111.jpg"
-    },
-    {
-      "title": "Hong Kong assinala um ano sobre o incêndio mortal em Wang Fuk Court",
-      "url": "https://pt.euronews.com/video/2026/11/26/hong-kong-assinala-um-ano-sobre-o-incendio-mortal-em-wang-fuk-court",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T16:50:16Z",
-      "description": "Residentes de Hong Kong depositam flores e prestam homenagem às 168 vítimas do incêndio em Wang Fuk Court, na China, um ano após a tragédia",
-      "image": "https://images.euronews.com/articles/stories/10/00/97/49/1200x675_cmsv2_7a0b5611-0789-50d7-b850-ed09226a9679-10009749.jpg"
-    },
-    {
-      "title": "68% dos jovens espanhóis estão insatisfeitos com democracia espanhola",
-      "url": "https://www.rtp.pt/noticias/politica/68-dos-jovens-espanhois-estao-insatisfeitos-com-democracia-espanhola_n1781841",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-26T16:25:44Z",
-      "description": "Um estudo de abril de 2026, da Fundação SM, ligada ao grupo editorial com o mesmo nome aponta que 68 por cento dos jovens espanhóis estão insatisfeitos com o funcionamento da democracia espanhola.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8d3825ed6c0946cea45a6d08cef19881.jpeg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Relatório acusa Israel de institucionalizar tortura para conseguir confissões de palestinianos",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/relatorio-acusa-israel-de-institucionalizar-tortura-para-conseguir-confissoes-de-palestinianos_n1781831",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-26T16:06:17Z",
-      "description": "Uma organização israelita de Direitos Humanos acusou as autoridades de Telavive de conseguir condenações de detidos palestinianos por alegadas questões de segurança, através de confissões obtidas sob tortura. A informação consta num relatório com Comité Público Contra a Tortura em Israel.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5ce5b27f392e7a71745a14133a9f06f9?w=350&q=50&rect=0,109,1024,561&auto=format"
-    },
-    {
-      "title": "China e Brasil apelam ao diálogo, mas retaliações estão na mesa contra novo pacote de tarifas de Trump",
-      "url": "https://www.rtp.pt/noticias/mundo/china-e-brasil-apelam-ao-dialogo-mas-retaliacoes-estao-na-mesa-contra-novo-pacote-de-tarifas-de-trump_n1781827",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-26T15:43:21Z",
-      "description": "Pequim rejeita retórica de “excesso de capacidade global” e Brasília promete “não ceder a este tipo de ameaças” por parte de Washington.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0a217fed79f3e516f7a2e2cdaf6e0b27.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Polónia: NATO envia avião de reconhecimento AWACS para vigiar espaço aéreo",
-      "url": "https://pt.euronews.com/2026/11/26/polonia-nato-envia-aviao-de-reconhecimento-awacs-para-vigiar-espaco-aereo-oriental",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T15:31:20Z",
-      "description": "A NATO autorizou o envo de um avião de vigilância AWACS para a Polónia, depois da procuradoria polaca afirmar que três mísseis russos caíram no país. O aparelho está em serviço desde a Guerra Fria, foi usado nos Balcãs, na Líbia e, após 11 de setembro, protegeu o espaço aéreo dos EUA.",
-      "image": "https://images.euronews.com/articles/stories/10/00/96/37/1200x675_cmsv2_95ccbab1-f594-5649-8b31-afba6d174bf0-10009637.jpg"
-    },
-    {
-      "title": "Pablo Hernandez de Cos é nome escolhido para o cargo de presidente do BCE",
-      "url": "https://www.rtp.pt/noticias/mundo/pablo-hernandez-de-cos-e-nome-escolhido-para-o-cargo-de-presidente-do-bce_n1781822",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-26T14:55:50Z",
-      "description": "Na decisão desta quinta-feira foram ainda avançados os nomes de Laurence Boone (França) e Markus Brunnermeier (Alemanha) para a Diretoria do Banco.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b2f10e7d510d26a8f76178d23e2a707.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Grande Reportagem. Espanha assiste a campanha eleitoral muito tensa",
-      "url": "https://www.rtp.pt/noticias/mundo/grande-reportagem-espanha-assiste-a-campanha-eleitoral-muito-tensa_v1781817",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-26T14:24:05Z",
-      "description": "A Habitação e a Imigração dominam o debate político.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b81e932e3580b24899d020155d8b5136.jpg?w=350&q=50&auto=format"
     }
   ]
 }
