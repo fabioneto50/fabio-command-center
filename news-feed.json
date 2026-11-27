@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T10:53:38.162415Z",
+  "updatedAt": "2026-11-27T19:58:33.962130Z",
   "health": [
+    {
+      "title": "DGS identifica progressos, mas alerta para desafios que persistem na saúde em Portugal",
+      "url": "https://www.rtp.pt/noticias/pais/dgs-identifica-progressos-mas-alerta-para-desafios-que-persistem-na-saude-em-portugal_n1782114",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T17:45:08Z",
+      "description": "Portugal regista uma evolução favorável na maioria dos indicadores, mas mantêm-se os desafios no cancro do pulmão nas mulheres, na tuberculose, no VIH e nas desigualdades regionais no acesso ao saneamento. Os dados foram divulgados esta sexta-feira pela Direção-Geral da Saúde.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/65/65d0c0cdbceef7137afa2b7888400e1b?w=350&q=50&rect=0,0,1499,822&auto=format"
+    },
     {
       "title": "Médicos usaram óculos com IA na prova de acesso à especialidade",
       "url": "https://www.rtp.pt/noticias/pais/medicos-usaram-oculos-com-ia-na-prova-de-acesso-a-especialidade_v1781928",
@@ -88,112 +96,104 @@
       "publishedAt": "2026-11-26T07:08:26Z",
       "description": "Em 2024, as famílias portuguesas suportaram 29% da despesa total em saúde, contra 16% na União Europeia, enquanto a cobertura pública caiu para 62% (80% na UE). As necessidades não satisfeitas de cuidados médicos atingiram 4% dos adultos e 16% nos cuidados dentários, com os grupos mais pobres a serem os mais afetados",
       "image": ""
-    },
-    {
-      "title": "Cerca de três mil pessoas continuam a ocupar camas hospitalares após alta",
-      "url": "https://www.rtp.pt/noticias/pais/cerca-de-tres-mil-pessoas-continuam-a-ocupar-camas-hospitalares-apos-alta_n1781608",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T16:58:04Z",
-      "description": "Há cerca de três mil pessoas nos hospitais públicos nacionais que continuam internadas apesar de já terem recebido alta clínica. Camas ocupadas, mas também questões familiares preocupantes que optam por deixar alguns dos parentes nos serviços hospitalares.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5b26b7c8aa57911ccad36f40036f673.jpg?w=350&q=50&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Irão nega envolvimento em ataque de drones no Kuwait que matou dois italianos",
-      "url": "https://pt.euronews.com/2026/11/27/irao-nega-envolvimento-em-ataque-de-drones-no-kuwait-que-matou-dois-italianos",
+      "title": "Espanha: PP denuncia irregularidades no voto por correio a dois dias das legislativas",
+      "url": "https://pt.euronews.com/2026/11/27/espanha-pp-denuncia-irregularidades-no-voto-por-correio-a-dois-dias-das-legislativas",
       "source": "Euronews",
-      "publishedAt": "2026-11-27T10:31:50Z",
-      "description": "Abbas Araghchi, chefe da diplomacia iraniana, considerou infundadas as acusações e “suspeito” o incidente, propondo investigação conjunta. Kuwait falou em “agressão iraniana hedionda”. Arábia Saudita, Bahrein, Catar e Emiratos condenaram o ataque.",
-      "image": "https://images.euronews.com/articles/stories/10/01/04/45/1200x675_cmsv2_d2f2807d-6cfc-5a6c-91cf-c5d92d32bdd8-10010445.jpg"
+      "publishedAt": "2026-11-27T19:51:34Z",
+      "description": "Os populares apresentaram uma queixa à Junta Eleitoral Central devido a atrasos na entrega de documentação e falhas na distribuição de propaganda, pedindo que os factos sejam remetidos ao Ministério Público.",
+      "image": "https://images.euronews.com/articles/stories/10/01/19/08/1200x675_cmsv2_10f71cf5-d0d5-5a8e-b298-09b51eb5fb6b-10011908.jpg"
     },
     {
-      "title": "Dois anos de calor extremo encolheram rios e lagos do mundo",
-      "url": "https://www.rtp.pt/noticias/mundo/dois-anos-de-calor-extremo-encolheram-rios-e-lagos-do-mundo_n1782021",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T10:22:09Z",
-      "description": "O calor extremo dos últimos anos está a provocar um declínio sem precedentes nos níveis de água dos rios, lagos e reservatórios em todo o mundo, de acordo com um novo estudo internacional.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d87da7c4bef9f04c4f248467c91cd815?w=350&q=50&rect=0,182,1024,561&auto=format"
-    },
-    {
-      "title": "Macron responde a Le Pen sobre orçamento da UE: “É uma estranha arrogância”",
-      "url": "https://pt.euronews.com/2026/11/27/macron-responde-a-le-pen-sobre-orcamento-da-ue-e-uma-estranha-arrogancia",
+      "title": "Chuvas e inundações provocam estragos no oeste e noroeste da Grécia",
+      "url": "https://pt.euronews.com/2026/11/27/chuvas-e-inundacoes-provocam-estragos-no-oeste-e-noroeste-da-grecia",
       "source": "Euronews",
-      "publishedAt": "2026-11-27T10:06:17Z",
-      "description": "A candidata presidencial do RN acusa a Comissão Europeia de querer “precipitar” a aprovação do próximo orçamento da UE antes das eleições francesas de 2027.",
-      "image": "https://images.euronews.com/articles/stories/10/01/03/74/1200x675_cmsv2_c41ca804-5d74-5032-83cf-9ae9697c78b0-10010374.jpg"
+      "publishedAt": "2026-11-27T19:38:07Z",
+      "description": "As autoridades emitiram um “aviso vermelho” para hoje e amanhã no mar Jónico, na região de Épiro e na parte ocidental da Grécia Central.",
+      "image": "https://images.euronews.com/articles/stories/10/01/17/52/1200x675_cmsv2_319d3d25-44a6-5589-a434-17dd6c4abfd8-10011752.jpg"
     },
     {
-      "title": "Bulgária: adepto do Levski filmado em saudação nazi em jogo com Marselha",
-      "url": "https://pt.euronews.com/video/2026/11/27/bulgaria-adepto-do-levski-filmado-em-saudacao-nazi-em-jogo-com-marselha",
+      "title": "Itália: comissão do parlamento questiona conformidade da lei da caça com as normas da UE",
+      "url": "https://pt.euronews.com/2026/11/27/italia-comissao-do-parlamento-questiona-conformidade-da-lei-da-caca-com-as-normas-da-ue",
       "source": "Euronews",
-      "publishedAt": "2026-11-27T10:05:27Z",
-      "description": "Confrontos violentos ensombram triunfo do Marselha na Liga Europa sobre o Levski Sofia, com saudação nazi filmada, fogos, feridos e condenação de ambos os presidentes",
-      "image": "https://images.euronews.com/articles/stories/10/01/09/88/1200x675_cmsv2_83f22c54-575e-52f0-a7e0-49829eeefb6b-10010988.jpg"
+      "publishedAt": "2026-11-27T18:57:05Z",
+      "description": "A comissão aprovou formalmente a proposta, mas seis grupos ambientalistas defendem que as suas objeções devem travar a iniciativa.",
+      "image": "https://images.euronews.com/articles/stories/10/01/19/34/1200x675_cmsv2_2e7e1d1a-0f98-5eb7-b5cb-ee92442253be-10011934.jpg"
     },
     {
-      "title": "EUA: camião derrapa e fica pendurado entre rampas de autoestrada em Ohio",
-      "url": "https://pt.euronews.com/2026/11/27/eua-camiao-derrapa-e-fica-pendurado-entre-rampas-de-autoestrada-em-ohio",
+      "title": "Radomir Saicic é o candidato presidencial da Lista dos Estudantes da Sérvia",
+      "url": "https://www.rtp.pt/noticias/mundo/radomir-saicic-e-o-candidato-presidencial-da-lista-dos-estudantes-da-servia_n1782133",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T18:27:42Z",
+      "description": "Com eleições marcadas para 27 de dezembro, o professor universitário de 65 anos, sem experiência política, promete “devolver a dignidade ao cargo de presidente”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cdd8e50675c5212f06d7da3da7f7e974.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Juristas do Senado brasileiro defendem manter salário de Flávio apesar de fuga para os EUA",
+      "url": "https://www.rtp.pt/noticias/mundo/juristas-do-senado-brasileiro-defendem-manter-salario-de-flavio-apesar-de-fuga-para-os-eua_n1782123",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T18:21:36Z",
+      "description": "Os juristas do Senado brasileiro defenderam hoje que Flávio Bolsonaro continue a receber o salário, apesar de estar foragido à justiça desde a derrota eleitoral de 25 de outubro.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/eb/eb0532390d50f79108eb0278c02a550a.JPG?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Espanha vota sob pressão da extrema-direita Vox e da crise na habitação",
+      "url": "https://pt.euronews.com/2026/11/27/espanha-vota-sob-pressao-da-extrema-direita-vox-e-da-crise-na-habitacao",
       "source": "Euronews",
-      "publishedAt": "2026-11-27T09:41:54Z",
-      "description": "Camião de contentores perde o controlo em Toledo, Ohio, atravessa o vão entre duas vias elevadas e fica suspenso na borda",
-      "image": "https://images.euronews.com/articles/stories/10/01/08/43/1200x675_cmsv2_8d86614d-32b0-5960-ab79-4cd6273c70cb-10010843.jpg"
+      "publishedAt": "2026-11-27T17:40:17Z",
+      "description": "Um candidato a primeiro-ministro precisa de 176 votos para obter maioria absoluta na primeira votação. Quais são as hipóteses de uma coligação com o conservador Partido Popular?",
+      "image": "https://images.euronews.com/articles/stories/09/99/89/77/1200x675_cmsv2_b09d7904-b498-58c2-bafb-162ecd8ed487-9998977.jpg"
     },
     {
-      "title": "Estónia fecha cinco passagens rodoviárias de fronteira com a Rússia",
-      "url": "https://pt.euronews.com/video/2026/11/27/estonia-fecha-cinco-passagens-rodoviarias-de-fronteira-com-a-russia",
+      "title": "Notícias do dia | 27 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/27/noticias-do-dia-27-de-novembro-2026-noite",
       "source": "Euronews",
-      "publishedAt": "2026-11-27T08:58:11Z",
-      "description": "Formam-se longas filas na fronteira da Estónia com a Rússia antes do encerramento previsto para 1 de dezembro. A decisão, motivada por razões de segurança, pode separar famílias e afetar negócios locais.",
-      "image": "https://images.euronews.com/articles/stories/10/01/08/39/1200x675_cmsv2_7dfc508d-ea96-5000-bb26-07ef059f9df4-10010839.jpg"
+      "publishedAt": "2026-11-27T17:00:35Z",
+      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 27 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+      "image": "https://images.euronews.com/articles/stories/10/01/20/15/1200x675_cmsv2_fda9f303-86e0-517a-b97a-d1dceb05e487-10012015.jpg"
     },
     {
-      "title": "Espanha: último debate antes das eleições mostra dois modelos de país e Feijóo desafia Sánchez",
-      "url": "https://pt.euronews.com/2026/11/27/espanha-ultimo-debate-antes-das-eleicoes-mostra-dois-modelos-de-pais-e-feijoo-desafia-sanc",
+      "title": "Coreia do Norte suspende ajuda militar à Rússia, diz Kiev",
+      "url": "https://pt.euronews.com/2026/11/27/coreia-do-norte-suspende-ajuda-militar-a-russia-diz-kiev",
       "source": "Euronews",
-      "publishedAt": "2026-11-27T08:55:28Z",
-      "description": "Líder socialista, Sánchez, voltou a demorar a atacar e interpelou mais Abascal do que Núñez Feijóo, em sintonia com Ada Colau, que tentou captar os holofotes desde o início deste encontro final entre dois blocos",
-      "image": "https://images.euronews.com/articles/stories/10/01/02/26/1200x675_cmsv2_ebcb3188-5750-52ac-9053-e513c423bae7-10010226.jpg"
+      "publishedAt": "2026-11-27T16:55:22Z",
+      "description": "A inteligência militar ucraniana diz que Kim Jong-un ordenou a suspensão, depois de Moscovo falar da redução de tensões entre Seul e Pyongyang.",
+      "image": "https://images.euronews.com/articles/stories/10/01/11/80/1200x675_cmsv2_f1b4f471-d54b-577b-b43d-41cb16f5ccd1-10011180.jpg"
     },
     {
-      "title": "Ucrânia em alerta. Zelensky teme novo ataque massivo da Rússia",
-      "url": "https://www.rtp.pt/noticias/mundo/ucrania-em-alerta-zelensky-teme-novo-ataque-massivo-da-russia_v1782002",
+      "title": "Redes sociais transformam campanha eleitoral em Espanha",
+      "url": "https://www.rtp.pt/noticias/mundo/redes-sociais-transformam-campanha-eleitoral-em-espanha_n1782103",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T08:49:47Z",
-      "description": "O Presidente da Ucrânia diz que a Rússia está a planear um novo ataque em larga escala.",
-      "image": "https://cdn-images.rtp.pt/icm/images/bf/bfdd602d24e567362411069d664d1ef3_N.jpg?"
+      "publishedAt": "2026-11-27T16:10:19Z",
+      "description": "As redes sociais assumiram um papel cada vez mais determinante na campanha para as eleições legislativas espanholas deste domingo. Instagram, TikTok, WhatsApp e podcasts disputam agora a atenção dos eleitores ao lado dos meios de comunicação tradicionais, num cenário em que os partidos apostam cada vez mais em conteúdos virais, vídeos curtos, humor e até imagens produzidas com…",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd7149149b90671949504b1093f29fc1.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Zelensky manifestou preocupação sobre falta de auxílio dos EUA",
-      "url": "https://www.rtp.pt/noticias/mundo/zelensky-manifestou-preocupacao-sobre-falta-de-auxilio-dos-eua_n1781996",
+      "title": "Dia de Ação de Graças nos Estados Unidos com tempestades e voos cancelados",
+      "url": "https://www.rtp.pt/noticias/mundo/dia-de-acao-de-gracas-nos-estados-unidos-com-tempestades-e-voos-cancelados_v1782072",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T08:37:22Z",
-      "description": "O presidente ucraniano, Volodymyr Zelensky, criticou o excessivo empenhamento dos Estados Unidos na crise no Médio Oriente em vez de pressionar o líder russo, Vladimir Putin, nas conversações de paz sobre a Ucrânia.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/32/3261d613fe4c0e59192bba74ef368e39?w=350&q=50&rect=0,36,1397,766&auto=format"
+      "publishedAt": "2026-11-27T13:59:47Z",
+      "description": "O Dia de Ação de Graças, nos Estados Unidos, está a ser marcado por fortes tempestades. Há centenas de milhares de pessoas sem eletricidade.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9aa4d761714e642e238d010d26d810f9.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Moçambique. Insurgentes expandem-se e ameaçam investimentos no norte",
-      "url": "https://www.rtp.pt/noticias/mundo/mocambique-insurgentes-expandem-se-e-ameacam-investimentos-no-norte_n1781982",
+      "title": "Eleições gerais Espanha. Fantasma da fraude eleitoral no final da campanha",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-gerais-espanha-fantasma-da-fraude-eleitoral-no-final-da-campanha_v1782069",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T07:32:16Z",
-      "description": "A ACLED alerta que a expansão da atividade dos insurgentes ligados ao Estado Islâmico para as províncias de Niassa e Nampula deverá agravar os riscos para investimentos mineiros, projetos estratégicos e operações humanitárias no norte de Moçambique.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-27T13:50:47Z",
+      "description": "A fraude eleitoral domina o final da campanha. O Partido Popular e o VOX acusam Pedro Sánchez de ter manipulado as últimas eleições e acreditam que fará também agora o que for necessário para ser o vencedor.",
+      "image": "https://cdn-images.rtp.pt/icm/images/df/df88c49925084675e69b72eccf53dacd_N.jpg?"
     },
     {
-      "title": "Japão quer aumentar uso militar da IA mas mantendo controlo humano",
-      "url": "https://www.rtp.pt/noticias/mundo/japao-quer-aumentar-uso-militar-da-ia-mas-mantendo-controlo-humano_n1781972",
+      "title": "Debate a quatro em Espanha. Último confronto pré-eleições foi agitado",
+      "url": "https://www.rtp.pt/noticias/mundo/debate-a-quatro-em-espanha-ultimo-confronto-pre-eleicoes-foi-agitado_v1782065",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T07:24:53Z",
-      "description": "O Japão vai ampliar o recurso à inteligência artificial (IA) para acelerar a tomada de decisões e melhorar as operações militares, anunciou hoje o ministério da Defesa japonês num documento estratégico, sublinhando que o controlo humano será mantido.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1fe20fedad0f556a9274f43b4f3440da?w=350&q=50&rect=0,84,1193,654&auto=format"
-    },
-    {
-      "title": "Primeiro-ministro da Nova Zelândia admite negociações difíceis para formar novo Governo",
-      "url": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-da-nova-zelandia-admite-negociacoes-dificeis-para-formar-novo-governo_n1781971",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T07:21:29Z",
-      "description": "O primeiro-ministro da Nova Zelândia, Christopher Luxon, admitiu hoje a perspetiva de negociações de coligação \"difíceis\", depois de ter perdido a maioria absoluta nas eleições legislativas.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6da5c6cfcf716f4add82ab7935365be6?w=350&q=50&rect=0,72,1233,676&auto=format"
+      "publishedAt": "2026-11-27T13:41:48Z",
+      "description": "O único debate com os quatro principais candidatos ao Governo de Espanha foi agitado, pejado de argumentos mas também de insultos.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4cf43eb45534639b70ec0506c65e77b0.jpg?w=350&q=50&auto=format"
     }
   ]
 }
