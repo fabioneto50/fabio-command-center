@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:58:33.962130Z",
+  "updatedAt": "2026-11-28T02:42:13.911664Z",
   "health": [
     {
       "title": "DGS identifica progressos, mas alerta para desafios que persistem na saúde em Portugal",
@@ -100,6 +100,70 @@
   ],
   "world": [
     {
+      "title": "EUA avisam caravanas de migrantes que fronteira continua fechada após intercalares",
+      "url": "https://www.rtp.pt/noticias/mundo/eua-avisam-caravanas-de-migrantes-que-fronteira-continua-fechada-apos-intercalares_n1782173",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T00:18:30Z",
+      "description": "A embaixada dos EUA no México alertou sexta-feira que a fronteira continua fechada à migração ilegal, na sequência do avanço de várias caravanas de migrantes pelo território mexicano desde as eleições intercalares norte-americanas, em que os republicanos saíram derrotados.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Eleições em Espanha. Sánchez confiante na vitória apesar de sondagens desfavoráveis",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-sanchez-confiante-na-vitoria-apesar-de-sondagens-desfavoraveis_n1782171",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T23:20:29Z",
+      "description": "A campanha eleitoral para as eleições espanholas do próximo domingo terminou esta sexta-feira. Sánchez mostra estar confiante numa vitória, enquanto o líder da oposição promete “uma nova era em Espanha”.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/73/73fc7554ca4cf1a9c35209057ab111d7.jpg?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Eleições em Espanha. Abascal pede \"mobilização total\" porque \"sondagens favoráveis\" não votam",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-abascal-pede-mobilizacao-total-porque-sondagens-favoraveis-nao-votam_n1782161",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T22:00:46Z",
+      "description": "O presidente do partido espanhol Vox, de extrema-direita, disse hoje que \"as urnas não se enchem com sondagens favoráveis\" e apelou à \"mobilização total\" nas eleições legislativas de domingo.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Mau tempo nos Estados Unidos cancela planos festivos do Dia da Ação de Graças",
+      "url": "https://www.rtp.pt/noticias/mundo/mau-tempo-nos-estados-unidos-cancela-planos-festivos-do-dia-da-acao-de-gracas_v1782159",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T21:00:47Z",
+      "description": "Quinze estados norte-americanos declararam o estado de emergência devido ao mau tempo. Na costa leste cerca de um milhão de pessoas ficaram sem energia elétrica.",
+      "image": "https://cdn-images.rtp.pt/icm/images/db/db0a364622d05d1a8133b8a6594cc476_N.jpg?"
+    },
+    {
+      "title": "Fundador da polícia política soviética homenageado em Moscovo",
+      "url": "https://www.rtp.pt/noticias/mundo/fundador-da-policia-politica-sovietica-homenageado-em-moscovo_v1782158",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T20:56:47Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
+    {
+      "title": "Zelensky questiona amizade de Donald Trump com Putin",
+      "url": "https://www.rtp.pt/noticias/mundo/zelensky-questiona-amizade-de-donald-trump-com-putin_v1782157",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-27T20:51:47Z",
+      "description": "Volodymyr Zelensky criticou a relação de Donald Trump com Vladimir Putin. O presidente ucraniano comparou a amizade dos dois líderes com uma parceria com Adolf Hitler.",
+      "image": "https://cdn-images.rtp.pt/icm/images/51/510f6358e265e894df1d8b8990d90d36_N.jpg?"
+    },
+    {
+      "title": "França: governo sob pressão de polícias e estudantes em protesto",
+      "url": "https://pt.euronews.com/2026/11/27/franca-governo-sob-pressao-de-policias-e-estudantes-em-protesto",
+      "source": "Euronews",
+      "publishedAt": "2026-11-27T20:20:05Z",
+      "description": "Exaustos após semanas de protestos nas ruas, os agentes da polícia francesa exigem melhores salários, mais meios e maior proteção, enquanto estudantes e sindicatos mantêm a mobilização, apesar do que consideram ser uma estratégia repressiva para travar o movimento",
+      "image": "https://images.euronews.com/articles/stories/10/01/08/58/1200x675_cmsv2_3175b19a-d976-5aa7-ba7c-56a0ee070752-10010858.jpg"
+    },
+    {
+      "title": "Bielorrússia: Lukashenko diz que, pela lógica de Putin, a Rússia volta à Mongólia",
+      "url": "https://pt.euronews.com/2026/11/27/bielorrussia-lukashenko-diz-que-pela-logica-de-putin-a-russia-volta-a-mongolia",
+      "source": "Euronews",
+      "publishedAt": "2026-11-27T20:17:07Z",
+      "description": "O líder bielorrusso disse que a história medieval não pode justificar reivindicações territoriais, lembrando que terras russas estiveram sob domínio mongol. Depois suavizou as declarações, dizendo que Putin “compreende perfeitamente isto” e é “mal interpretado”.",
+      "image": "https://images.euronews.com/articles/stories/10/01/17/51/1200x675_cmsv2_76268fc1-2310-5f2b-8e4a-aa5367c75751-10011751.jpg"
+    },
+    {
       "title": "Espanha: PP denuncia irregularidades no voto por correio a dois dias das legislativas",
       "url": "https://pt.euronews.com/2026/11/27/espanha-pp-denuncia-irregularidades-no-voto-por-correio-a-dois-dias-das-legislativas",
       "source": "Euronews",
@@ -124,76 +188,12 @@
       "image": "https://images.euronews.com/articles/stories/10/01/19/34/1200x675_cmsv2_2e7e1d1a-0f98-5eb7-b5cb-ee92442253be-10011934.jpg"
     },
     {
-      "title": "Radomir Saicic é o candidato presidencial da Lista dos Estudantes da Sérvia",
-      "url": "https://www.rtp.pt/noticias/mundo/radomir-saicic-e-o-candidato-presidencial-da-lista-dos-estudantes-da-servia_n1782133",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T18:27:42Z",
-      "description": "Com eleições marcadas para 27 de dezembro, o professor universitário de 65 anos, sem experiência política, promete “devolver a dignidade ao cargo de presidente”.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cdd8e50675c5212f06d7da3da7f7e974.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Juristas do Senado brasileiro defendem manter salário de Flávio apesar de fuga para os EUA",
-      "url": "https://www.rtp.pt/noticias/mundo/juristas-do-senado-brasileiro-defendem-manter-salario-de-flavio-apesar-de-fuga-para-os-eua_n1782123",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T18:21:36Z",
-      "description": "Os juristas do Senado brasileiro defenderam hoje que Flávio Bolsonaro continue a receber o salário, apesar de estar foragido à justiça desde a derrota eleitoral de 25 de outubro.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/eb/eb0532390d50f79108eb0278c02a550a.JPG?w=350&q=50&auto=format"
-    },
-    {
       "title": "Espanha vota sob pressão da extrema-direita Vox e da crise na habitação",
       "url": "https://pt.euronews.com/2026/11/27/espanha-vota-sob-pressao-da-extrema-direita-vox-e-da-crise-na-habitacao",
       "source": "Euronews",
       "publishedAt": "2026-11-27T17:40:17Z",
       "description": "Um candidato a primeiro-ministro precisa de 176 votos para obter maioria absoluta na primeira votação. Quais são as hipóteses de uma coligação com o conservador Partido Popular?",
       "image": "https://images.euronews.com/articles/stories/09/99/89/77/1200x675_cmsv2_b09d7904-b498-58c2-bafb-162ecd8ed487-9998977.jpg"
-    },
-    {
-      "title": "Notícias do dia | 27 de novembro 2026 - Noite",
-      "url": "https://pt.euronews.com/video/2026/11/27/noticias-do-dia-27-de-novembro-2026-noite",
-      "source": "Euronews",
-      "publishedAt": "2026-11-27T17:00:35Z",
-      "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 27 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/10/01/20/15/1200x675_cmsv2_fda9f303-86e0-517a-b97a-d1dceb05e487-10012015.jpg"
-    },
-    {
-      "title": "Coreia do Norte suspende ajuda militar à Rússia, diz Kiev",
-      "url": "https://pt.euronews.com/2026/11/27/coreia-do-norte-suspende-ajuda-militar-a-russia-diz-kiev",
-      "source": "Euronews",
-      "publishedAt": "2026-11-27T16:55:22Z",
-      "description": "A inteligência militar ucraniana diz que Kim Jong-un ordenou a suspensão, depois de Moscovo falar da redução de tensões entre Seul e Pyongyang.",
-      "image": "https://images.euronews.com/articles/stories/10/01/11/80/1200x675_cmsv2_f1b4f471-d54b-577b-b43d-41cb16f5ccd1-10011180.jpg"
-    },
-    {
-      "title": "Redes sociais transformam campanha eleitoral em Espanha",
-      "url": "https://www.rtp.pt/noticias/mundo/redes-sociais-transformam-campanha-eleitoral-em-espanha_n1782103",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T16:10:19Z",
-      "description": "As redes sociais assumiram um papel cada vez mais determinante na campanha para as eleições legislativas espanholas deste domingo. Instagram, TikTok, WhatsApp e podcasts disputam agora a atenção dos eleitores ao lado dos meios de comunicação tradicionais, num cenário em que os partidos apostam cada vez mais em conteúdos virais, vídeos curtos, humor e até imagens produzidas com…",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd7149149b90671949504b1093f29fc1.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Dia de Ação de Graças nos Estados Unidos com tempestades e voos cancelados",
-      "url": "https://www.rtp.pt/noticias/mundo/dia-de-acao-de-gracas-nos-estados-unidos-com-tempestades-e-voos-cancelados_v1782072",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T13:59:47Z",
-      "description": "O Dia de Ação de Graças, nos Estados Unidos, está a ser marcado por fortes tempestades. Há centenas de milhares de pessoas sem eletricidade.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9aa4d761714e642e238d010d26d810f9.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Eleições gerais Espanha. Fantasma da fraude eleitoral no final da campanha",
-      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-gerais-espanha-fantasma-da-fraude-eleitoral-no-final-da-campanha_v1782069",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T13:50:47Z",
-      "description": "A fraude eleitoral domina o final da campanha. O Partido Popular e o VOX acusam Pedro Sánchez de ter manipulado as últimas eleições e acreditam que fará também agora o que for necessário para ser o vencedor.",
-      "image": "https://cdn-images.rtp.pt/icm/images/df/df88c49925084675e69b72eccf53dacd_N.jpg?"
-    },
-    {
-      "title": "Debate a quatro em Espanha. Último confronto pré-eleições foi agitado",
-      "url": "https://www.rtp.pt/noticias/mundo/debate-a-quatro-em-espanha-ultimo-confronto-pre-eleicoes-foi-agitado_v1782065",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-27T13:41:48Z",
-      "description": "O único debate com os quatro principais candidatos ao Governo de Espanha foi agitado, pejado de argumentos mas também de insultos.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4cf43eb45534639b70ec0506c65e77b0.jpg?w=350&q=50&auto=format"
     }
   ]
 }
