@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-28T11:48:46.522402Z",
+  "updatedAt": "2026-11-28T20:06:09.355525Z",
   "health": [
+    {
+      "title": "Aulas em contexto hospitalar. Docentes procuram dar continuidade ao ensino",
+      "url": "https://www.rtp.pt/noticias/pais/aulas-em-contexto-hospitalar-docentes-procuram-dar-continuidade-ao-ensino_v1782248",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T14:32:47Z",
+      "description": "Este ano letivo há 42 professores em mobilidade em instituições da área da Saúde. Entre outras funções, uma grande parte tenta dar continuidade ao ensino de crianças e jovens que passam longos períodos em unidades hospitalares, internados ou em tratamentos.",
+      "image": "https://cdn-images.rtp.pt/icm/images/ea/ea012520ec7fe8e81b34017a5c80278a_N.jpg?"
+    },
+    {
+      "title": "Plano Nacional de Saúde 2030. Sífilis congénita e mortalidade infantil preocupam",
+      "url": "https://www.rtp.pt/noticias/pais/plano-nacional-de-saude-2030-sifilis-congenita-e-mortalidade-infantil-preocupam_v1782243",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T13:57:47Z",
+      "description": "Há cada vez mais bebés a nascer com sífilis em Portugal, o que vai levar a alterações imediatas nos programas de saúde materno-infantil.",
+      "image": "https://cdn-images.rtp.pt/icm/images/30/30856090b4eaa55af4cb0b96d4565540_N.jpg?"
+    },
+    {
+      "title": "Despesa do SNS dispara. Ministra justifica com aumento da inflação",
+      "url": "https://www.rtp.pt/noticias/economia/despesa-do-sns-dispara-ministra-justifica-com-aumento-da-inflacao_v1782242",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T13:55:47Z",
+      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+    },
     {
       "title": "Adolescente hospitalizado após agressão em escola no Barreiro",
       "url": "https://www.rtp.pt/noticias/pais/adolescente-hospitalizado-apos-agressao-em-escola-no-barreiro_n1782223",
@@ -10,28 +34,12 @@
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/e6/e64561120c7af8a02514e7b9497de9b9.jpg?w=350&q=50&auto=format"
     },
     {
-      "title": "Exército israelita afirma ter morto dois trabalhadores dos Médicos Sem Fronteiras ligados ao Hamas",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-israelita-afirma-ter-morto-dois-trabalhadores-dos-medicos-sem-fronteiras-ligados-ao-hamas_n1782178",
+      "title": "Exército israelita matou dois trabalhadores dos Médicos Sem Fronteiras alegadamente ligados ao Hamas",
+      "url": "https://www.rtp.pt/noticias/mundo/exercito-israelita-matou-dois-trabalhadores-dos-medicos-sem-fronteiras-alegadamente-ligados-ao-hamas_n1782178",
       "source": "RTP Notícias",
       "publishedAt": "2026-11-28T10:29:46Z",
       "description": "O exército israelita afirmou ter matado, na sexta-feira, na Faixa de Gaza, dois \"terroristas que se faziam passar por trabalhadores humanitários\" da organização Médicos Sem Fronteiras (MSF), organização que se declarou \"chocada e indignada\".",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/ce/ced402b28d1084bb892ce230ccb66410.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Istambul. Mais de 400 metros de túneis e estruturas romanas descobertos sob Santa Sofia após limpeza sem precedentes",
-      "url": "https://www.rtp.pt/noticias/cultura/istambul-mais-de-400-metros-de-tuneis-e-estruturas-romanas-descobertos-sob-santa-sofia-apos-limpeza-sem-precedentes_n1781894",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T08:10:55Z",
-      "description": "Uma vasta operação de limpeza e conservação sob a mesquita Santa Sofia (Hagia Sophia), em Istambul, revelou uma extensa rede de túneis, galerias subterrâneas, sistemas hidráulicos e vestígios romanos ocultos durante séculos. As descobertas estão a lançar nova luz sobre as várias camadas históricas do monumento icónico e sugerem que parte das estruturas agora expostas poderá…",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b834bc55f3f4fb0956185560a26607d.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "5h Gripe: Mais de dois milhões de portugueses já se vacinaram",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-gripe-mais-de-dois-milhoes-de-portugueses-ja-se-vacinaram_a1_1782196",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T05:35:02Z",
-      "description": "Notícia de RTP Notícias. Consulte o artigo na fonte original.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format"
     },
     {
       "title": "DGS identifica progressos, mas alerta para desafios que persistem na saúde em Portugal",
@@ -64,120 +72,104 @@
       "publishedAt": "2026-11-26T17:14:13Z",
       "description": "A Ordem dos Médicos (OM) pediu esclarecimentos formais sobre dois candidatos apanhados com dispositivos eletrónicos durante a realização da Prova Nacional de Acesso, defendendo que devem ser \"cabalmente investigados\".",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Cerca de três mil pessoas continuam a ocupar camas hospitalares após alta",
-      "url": "https://www.rtp.pt/noticias/pais/cerca-de-tres-mil-pessoas-continuam-a-ocupar-camas-hospitalares-apos-alta_n1781608",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T16:58:04Z",
-      "description": "Há cerca de três mil pessoas nos hospitais públicos nacionais que continuam internadas apesar de já terem recebido alta clínica. Camas ocupadas, mas também questões familiares preocupantes que optam por deixar alguns dos parentes nos serviços hospitalares.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5b26b7c8aa57911ccad36f40036f673.jpg?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Portugal acima da média da União Europeia em vacinação",
-      "url": "https://www.rtp.pt/noticias/pais/portugal-acima-da-media-da-uniao-europeia-em-vacinacao_v1781578",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-25T14:30:47Z",
-      "description": "Um estudo da OCDE mostra que o Estado português nunca gastou tanto em saúde, mas ainda não é suficiente.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b5c409ff4aac29f53a2c7e7073d8460?w=350&q=50&rect=0,0,1560,855&auto=format"
     }
   ],
   "world": [
     {
-      "title": "Equador reforça controlo nas fronteiras com Colômbia e Peru antes de eleições locais",
-      "url": "https://pt.euronews.com/2026/11/28/equador-reforca-controlo-nas-fronteiras-com-colombia-e-peru-antes-de-eleicoes-locais",
-      "source": "Euronews",
-      "publishedAt": "2026-11-28T11:40:29Z",
-      "description": "Governo restringe temporariamente a entrada de estrangeiros pelas fronteiras terrestres com a Colômbia e o Peru por possíveis ameaças à segurança nas eleições locais de domingo.",
-      "image": "https://images.euronews.com/articles/stories/10/01/22/90/1200x675_cmsv2_7ac3a051-467a-56f8-aae6-0a85ff2662f1-10012290.jpg"
+      "title": "Situação \"catastrófica\" de fome afeta milhões no Iémen controlado pelos Houthis",
+      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/situacao-catastrofica-de-fome-afeta-milhoes-no-iemen-controlado-pelos-houthis_n1782260",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T19:53:51Z",
+      "description": "Milhões de pessoas passam fome no norte do Iémen controlado pelos rebeldes Houthis, onde as organizações humanitárias enfrentam restrições e falta de financiamento, segundo o Conselho Norueguês para os Refugiados (NRC, sigla inglesa), que classifica a situação de \"catastrófica\".",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cc/cc6df6d6e4464be273df95da2350e6fb?w=350&q=50&rect=0,20,1500,822&auto=format"
     },
     {
-      "title": "Sete mortos e mais de 90 feridos em explosão acidental perto de escola no Afeganistão",
-      "url": "https://www.rtp.pt/noticias/mundo/sete-mortos-e-mais-de-90-feridos-em-explosao-acidental-perto-de-escola-no-afeganistao_n1782220",
+      "title": "Oito países apelam aos líderes palestinianos que realizem eleições no primeiro trimestre de 2027",
+      "url": "https://www.rtp.pt/noticias/mundo/oito-paises-apelam-aos-lideres-palestinianos-que-realizem-eleicoes-no-primeiro-trimestre-de-2027_n1782271",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T11:12:10Z",
-      "description": "Sete pessoas morreram e mais de 90 ficaram hoje feridas na sequência de uma explosão acidental perto de uma escola em Asadabad, no leste do Afeganistão, avançou um responsável provincial.",
+      "publishedAt": "2026-11-28T18:17:04Z",
+      "description": "Oito países, entre os quais a França e o Reino Unido, apelaram à Autoridade Palestiniana para que realize eleições presidenciais e legislativas \"no primeiro trimestre de 2027\", de acordo com uma declaração conjunta hoje divulgada.",
       "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Tribunal Supremo da China condena multinacional sueca Tetra Pak a indemnização recorde",
-      "url": "https://www.rtp.pt/noticias/mundo/tribunal-supremo-da-china-condena-multinacional-sueca-tetra-pak-a-indemnizacao-recorde_n1782197",
+      "title": "Rotação no cargo de primeiro-ministro. Netanyahu propõe que Eisenkot seja o primeiro a exercer o poder",
+      "url": "https://www.rtp.pt/noticias/mundo/rotacao-no-cargo-de-primeiro-ministro-netanyahu-propoe-que-eisenkot-seja-o-primeiro-a-exercer-o-poder_n1782269",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T11:11:37Z",
-      "description": "O Tribunal Popular Supremo da China condenou a multinacional sueca Tetra Pak a pagar uma indemnização recorde de 492 milhões de yuan (64 milhões de euros) a duas empresas chinesas concorrentes por abuso de posição dominante no mercado.",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-28T17:47:30Z",
+      "description": "Depois de avançar com a fórmula de rotação no poder com o líder do partido Yashar, o primeiro-ministro cessante Bibi Netanyahu admite que seja Gadi Eisenkot a exercer em primeiro lugar as funções de primeiro-ministro de Israel.",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b0df074f7d777b0d7260bde9a243f08e?w=350&q=50&rect=0,137,1500,822&auto=format"
     },
     {
-      "title": "Lula nomeia banqueiro privado como ministro das Finanças e anima bolsa brasileira",
-      "url": "https://pt.euronews.com/2026/11/28/lula-nomeia-banqueiro-privado-como-ministro-das-financas-e-anima-bolsa-brasileira",
+      "title": "Greve global na Amazon une trabalhadores de 20 países na Black Friday",
+      "url": "https://pt.euronews.com/2026/11/28/greve-global-na-amazon-une-trabalhadores-de-20-paises-na-black-friday",
       "source": "Euronews",
-      "publishedAt": "2026-11-28T11:00:15Z",
-      "description": "Os mercados brasileiros registaram uma recuperação na sexta-feira, depois de o presidente Lula da Silva ter confirmado a nomeação de um banqueiro experiente para liderar o Ministério das Finanças em 2027, uma medida vista como um sinal do seu compromisso com a disciplina fiscal e orçamental.",
-      "image": "https://images.euronews.com/articles/stories/10/01/23/35/1200x675_cmsv2_c5a1da01-77f4-584a-83d7-6af994d74642-10012335.jpg"
+      "publishedAt": "2026-11-28T17:18:19Z",
+      "description": "Trabalhadores da Amazon em 20 países aderiram na sexta-feira a protestos globais para denunciar condições de trabalho e exigir salários dignos e acordos coletivos.",
+      "image": "https://images.euronews.com/articles/stories/10/01/25/67/1200x675_cmsv2_42970e25-2acb-549f-ad5b-e39788f36df1-10012567.jpg"
     },
     {
-      "title": "Notícias do dia | 28 de novembro 2026 - Tarde",
-      "url": "https://pt.euronews.com/video/2026/11/28/noticias-do-dia-28-de-novembro-2026-tarde",
+      "title": "Notícias do dia | 28 de novembro 2026 - Noite",
+      "url": "https://pt.euronews.com/video/2026/11/28/noticias-do-dia-28-de-novembro-2026-noite",
       "source": "Euronews",
-      "publishedAt": "2026-11-28T11:00:07Z",
+      "publishedAt": "2026-11-28T17:00:35Z",
       "description": "Fique a par das notícias mais importantes de toda a Europa e não só, a 28 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
-      "image": "https://images.euronews.com/articles/stories/10/01/22/33/1200x675_cmsv2_e5c2695e-4970-5773-a1bd-565eebbf5a06-10012233.jpg"
+      "image": "https://images.euronews.com/articles/stories/10/01/26/58/1200x675_cmsv2_1cd0ea77-16e6-54ec-8184-f499c6d46b4a-10012658.jpg"
     },
     {
-      "title": "Estudo revela que a própria contração do coração limita regeneração do órgão após lesão",
-      "url": "https://www.rtp.pt/noticias/mundo/estudo-revela-que-a-propria-contracao-do-coracao-limita-regeneracao-do-orgao-apos-lesao_n1782176",
+      "title": "Oposição política rejeita proposta dos militares para prolongar transição por mais dois anos",
+      "url": "https://www.rtp.pt/noticias/mundo/oposicao-politica-rejeita-proposta-dos-militares-para-prolongar-transicao-por-mais-dois-anos_n1782258",
       "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T10:46:26Z",
-      "description": "Um estudo revelou que as células musculares do coração abdicam da sua capacidade de se dividir e permitir a regeneração do tecido danificado por uma lesão, para manter as contrações contínuas necessárias à sustentação da vida.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f23714668b5c263b558788def2e8e026.jpg?w=350&q=50&auto=format"
+      "publishedAt": "2026-11-28T16:17:35Z",
+      "description": "As coligações políticas guineenses Plataforma da Aliança Inclusiva (PAI-TR) e Aliança Patriótica Inclusiva - Cabas Garandi (API-CG) rejeitam o prolongamento do período de transição por mais dois anos, alertando para o \"risco de institucionalização de uma tutela militar\" no país.",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format"
     },
     {
-      "title": "Exército israelita afirma ter morto dois trabalhadores dos Médicos Sem Fronteiras ligados ao Hamas",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/exercito-israelita-afirma-ter-morto-dois-trabalhadores-dos-medicos-sem-fronteiras-ligados-ao-hamas_n1782178",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T10:29:46Z",
-      "description": "O exército israelita afirmou ter matado, na sexta-feira, na Faixa de Gaza, dois \"terroristas que se faziam passar por trabalhadores humanitários\" da organização Médicos Sem Fronteiras (MSF), organização que se declarou \"chocada e indignada\".",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ce/ced402b28d1084bb892ce230ccb66410.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Marinha do Irão prepara operações para quebrar bloqueio naval dos EUA",
-      "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/marinha-do-irao-prepara-operacoes-para-quebrar-bloqueio-naval-dos-eua_n1782207",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T10:23:52Z",
-      "description": "O comandante da Marinha do Exército iraniano anunciou para breve operações militares para romper o bloqueio naval imposto pelos Estados Unidos, num contexto de escalada do confronto marítimo os dois países no Estreito de Ormuz.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/ee/eea051318821db8ec4299d21bd5534d4.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Drones ucranianos atingiram estação de bombagem de petróleo e refinaria na Rússia",
-      "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/drones-ucranianos-atingiram-estacao-de-bombagem-de-petroleo-e-refinaria-na-russia_n1782209",
-      "source": "RTP Notícias",
-      "publishedAt": "2026-11-28T10:05:45Z",
-      "description": "Drones ucranianos atacaram durante a noite uma estação de bombagem de petróleo na região russa de Samara e uma refinaria em Rostov, no sul do país, informaram hoje várias fontes no Telegram.",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/af/af08cde337660cece4c7acb75821dccb.JPG?w=350&q=50&auto=format"
-    },
-    {
-      "title": "Relatora da ONU Francesca Albanese viaja para o México após detenção na Costa Rica",
-      "url": "https://pt.euronews.com/2026/11/28/relatora-da-onu-francesca-albanese-viaja-para-o-mexico-apos-detencao-na-costa-rica",
+      "title": "Confrontos em Tirana entre polícia e manifestantes que exigem demissão de Edi Rama",
+      "url": "https://pt.euronews.com/2026/11/28/confrontos-em-tirana-entre-policia-e-manifestantes-que-exigem-demissao-de-edi-rama",
       "source": "Euronews",
-      "publishedAt": "2026-11-28T09:07:24Z",
-      "description": "A relatora especial da ONU para os direitos humanos nos territórios palestinianos ocupados conseguiu sair do aeroporto de San José após uma ordem judicial. Albanese nega alegados vínculos com atividades terroristas",
-      "image": "https://images.euronews.com/articles/stories/10/01/22/91/1200x675_cmsv2_51ba9197-ef81-5c6a-86d6-29472af67fe7-10012291.jpg"
+      "publishedAt": "2026-11-28T16:13:59Z",
+      "description": "Manifestantes e polícia confrontaram-se sábado na capital albanesa, enquanto milhares de participantes em protestos antigovernamentais exigiam a demissão do primeiro-ministro Edi Rama.",
+      "image": "https://images.euronews.com/articles/stories/10/01/24/67/1200x675_cmsv2_3e3ff771-9f4a-5579-947f-d292b4dec155-10012467.jpg"
     },
     {
-      "title": "Rússia reporta abate de centenas de drones. Ucrânia utiliza arma laser contra aparelho russo",
-      "url": "https://pt.euronews.com/2026/11/28/russia-reporta-abate-de-centenas-de-drones-ucrania-utiliza-arma-laser-contra-aparelho-russ",
-      "source": "Euronews",
-      "publishedAt": "2026-11-28T09:01:53Z",
-      "description": "A Ucrânia afirma que um laser desenvolvido por entidades privadas abateu, pela primeira vez, um drone russo a jato. Ataques russos durante a noite danificaram infraestruturas de transporte em Dnipro e feriram cinco pessoas na região de Dnipropetrovsk, segundo autoridades locais.",
-      "image": "https://images.euronews.com/articles/stories/10/01/22/46/1200x675_cmsv2_26ea4b1d-3f20-5d62-8c0a-dd262e26e19e-10012246.jpg"
+      "title": "Meningite em Gaza. Autoridades alertam para risco de surto epidémico",
+      "url": "https://www.rtp.pt/noticias/mundo/meningite-em-gaza-autoridades-alertam-para-risco-de-surto-epidemico_v1782249",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T14:37:47Z",
+      "description": "As autoridades de saúde alertam para o risco de um surto epidémico de meningite na Faixa de Gaza. Em apenas um mês registaram-se mais de 400 casos, principalmente entre crianças.",
+      "image": "https://cdn-images.rtp.pt/icm/images/58/58549bf9d4aef56c203006f7875ea550_N.jpg?"
     },
     {
-      "title": "México denuncia linha direta dos EUA contra cartéis como ingerência estrangeira",
-      "url": "https://pt.euronews.com/2026/11/28/mexico-denuncia-linha-direta-dos-eua-contra-carteis-como-ingerencia-estrangeira",
+      "title": "Espanha enfrenta eleições decisivas: Feijóo viaja a Ceuta e Sánchez passa dia em família",
+      "url": "https://pt.euronews.com/2026/11/28/espanha-enfrenta-eleicoes-decisivas-feijoo-viaja-a-ceuta-e-sanchez-passa-dia-em-familia",
       "source": "Euronews",
-      "publishedAt": "2026-11-28T08:59:04Z",
-      "description": "A presidente mexicana Claudia Sheinbaum queixou-se formalmente aos EUA da criação de uma linha telefónica direta para denúncias de cartéis de droga e de corrupção no México, por considerá-la ingerência estrangeira.",
-      "image": "https://images.euronews.com/articles/stories/10/01/22/52/1200x675_cmsv2_afc6ba0e-8f81-585a-ba6b-097030b00a51-10012252.jpg"
+      "publishedAt": "2026-11-28T14:24:47Z",
+      "description": "Mais de 38,6 milhões de espanhóis votam este domingo nas eleições que podem mudar o governo ou manter Pedro Sánchez no cargo. Até lá, o dia em Espanha é de reflexão.",
+      "image": "https://images.euronews.com/articles/stories/10/01/22/63/1200x675_cmsv2_c79e9881-588e-5736-b626-925190a11488-10012263.jpg"
+    },
+    {
+      "title": "Eleições em Espanha. Direita fechou campanha fora de Madrid",
+      "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-espanha-direita-fechou-campanha-fora-de-madrid_v1782241",
+      "source": "RTP Notícias",
+      "publishedAt": "2026-11-28T13:53:48Z",
+      "description": "Espanha vive hoje o dia de reflexão antes das eleições legislativas deste domingo. Estão em jogo os 350 lugares no Congresso, o Senado e o Governo do país. Os dois partidos da direita escolheram praças estratégicas fora de Madrid para o último grande apelo às urnas.",
+      "image": "https://cdn-images.rtp.pt/icm/images/25/25c0ebb419a4888898f396fad40167f2_N.jpg?"
+    },
+    {
+      "title": "Polícia faz buscas a casa do antigo braço-direito de Marine Le Pen",
+      "url": "https://pt.euronews.com/2026/11/28/policia-faz-buscas-a-casa-do-antigo-braco-direito-de-marine-le-pen",
+      "source": "Euronews",
+      "publishedAt": "2026-11-28T12:21:03Z",
+      "description": "O caso já custou o lugar ao perfeito Hugues Moutouh e atinge agora Ambroise de Rancourt, coordenador do programa presidencial de Marine Le Pen.",
+      "image": "https://images.euronews.com/articles/stories/10/01/23/37/1200x675_cmsv2_6b4da829-86e2-5fb4-921d-82899208bbae-10012337.jpg"
+    },
+    {
+      "title": "Irão: família de gémeas presas denúncia torturas, uma das irmãs enfrenta execução",
+      "url": "https://pt.euronews.com/2026/11/28/irao-familia-de-gemeas-presas-denuncia-torturas-uma-das-irmas-enfrenta-execucao",
+      "source": "Euronews",
+      "publishedAt": "2026-11-28T12:15:34Z",
+      "description": "Taraneh, 21 anos, foi mantida em desaparecimento forçado por mais de três meses e torturada até confessar. Está condenada à morte. A irmã gémea Rumina recebeu 25 anos de prisão após a detenção em Isfahan, a 24 de janeiro. Ambas foram pré-selecionadas para o Prémio Sakharov.",
+      "image": "https://images.euronews.com/articles/stories/10/01/18/80/1200x675_cmsv2_9cbb3205-426d-546d-b501-f6cd2f51e0ac-10011880.jpg"
     }
   ]
 }
